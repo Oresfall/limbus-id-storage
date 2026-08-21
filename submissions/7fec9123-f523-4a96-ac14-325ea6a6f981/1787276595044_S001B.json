@@ -1,0 +1,576 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Hutan Gelap",
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Kau lihat sekarang? Kamu tidak bisa lari dari kami."
+    },
+    {
+      "id": 1,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Beraninya kau... menyela saat aku sedang mengukir ■■■■■■... Kau pasti sudah gila...>"
+    },
+    {
+      "id": 2,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Ah~ Secara teknis, aku bisa bilang kalau rencana tuan kami tidak benar-benar melanggar tabu <ruby=Kota>The City</ruby> mana pun."
+    },
+    {
+      "id": 3,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Hanya saja... belum pernah ada yang berani mempertimbangkan untuk mencobanya, kau paham maksudku?"
+    },
+    {
+      "id": 4,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Huh, lihatlah itu..."
+    },
+    {
+      "id": 5,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Kau berhasil memasang kepala lain secepat itu. Apa orang-orang sepertimu selalu siap untuk apa pun?"
+    },
+    {
+      "id": 6,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Kngh... Tunggu saja sampai aku mendapatkan ■■■■■■... Kau tidak akan sebanding dengan...>"
+    },
+    {
+      "id": 7,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Haha, kurasa kepala baru itu tidak punya mulut, ya?"
+    },
+    {
+      "id": 8,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Yap, yang bisa kudengar hanyalah detak jam. Kau pikir mereka sedang berteriak di dalam sana?"
+    },
+    {
+      "id": 9,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Ghaagh...!>"
+    },
+    {
+      "id": 10,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Hmm. Detaknya jadi lebih cepat, jadi kurasa mereka masih bisa merasakan sakit."
+    },
+    {
+      "id": 11,
+      "content": "Sialan... Kenapa... aku...!"
+    },
+    {
+      "id": 12,
+      "content": "... Kenapa aku diserang?"
+    },
+    {
+      "id": 13,
+      "content": "Gawat... Pembusukan memori, sudah dimulai...? ■■■ dilakukan terlalu cepat..."
+    },
+    {
+      "id": 14,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Huh, mereka sudah diam. Ayo selesaikan ini."
+    },
+    {
+      "id": 15,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Tidak ada yang pernah datang ke sini, Wolf. Tidak ada mata yang mengawasi kita. Jadi kenapa terburu-buru?"
+    },
+    {
+      "id": 16,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Kita harus mengikuti ajarannya. Jangan membuang waktu."
+    },
+    {
+      "id": 17,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Ya, tapi... *menghela napas* tidak bisakah kita menikmati momen ini saja? Tidak akan ada kesempatan lagi untuk menghabisi seseorang sekaliber ini."
+    },
+    {
+      "id": 18,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Kau punya kecenderungan untuk menjadi terlalu emosional dalam pekerjaan, Lion. Jangan mencampuradukkan bisnis dengan kesenangan."
+    },
+    {
+      "id": 19,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Pshaw..."
+    },
+    {
+      "id": 20,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Sayang sekali—aku sangat ingin melihat wajahmu. Aku yakin kau tidak akan memberi tahu kami di mana bintangmu berada, kan?"
+    },
+    {
+      "id": 21,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Jangan harap. Aku akan membawa lokasi ■■■ ke liang kubur bersama...>"
+    },
+    {
+      "id": 22,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<......>"
+    },
+    {
+      "id": 23,
+      "content": "Sialan, di mana seharusnya ■■■ itu berada? Ingatanku memudar terlalu cepat..."
+    },
+    {
+      "id": 24,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "... Benar. Tidak ada mulut."
+    },
+    {
+      "id": 25,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Artinya... dia tidak bisa memberi tahu kita cara menemukannya."
+    },
+    {
+      "id": 26,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Bisa aku menghabisinya sekarang?"
+    },
+    {
+      "id": 27,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Tentu... Hm?"
+    },
+    {
+      "id": 28,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Hei, suara apa itu? Jangan bilang... kau membiarkan dirimu dibuntuti, Panther?!"
+    },
+    {
+      "id": 29,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Tidak, tidak ada siapa pun yang bisa melacakku. Mungkin hanya hewan liar?"
+    },
+    {
+      "id": 30,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Itu tidak terdengar seperti hewan apa pun yang kukenal. Itu..."
+    },
+    {
+      "id": 31,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Sebuah bis...?"
+    },
+    {
+      "id": 32,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Bagaimana bisa sampai berakhir di sini?"
+    },
+    {
+      "id": 33,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Pasti salah belok?"
+    },
+    {
+      "id": 34,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Hoo, mereka akan membayar harga yang cukup mahal untuk salah belok itu..."
+    },
+    {
+      "id": 35,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "...!"
+    },
+    {
+      "id": 36,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "... Apa Lion baru saja terpental?"
+    },
+    {
+      "id": 37,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "...!"
+    },
+    {
+      "id": 38,
+      "model": "???",
+      "teller": "???",
+      "title": "???",
+      "content": "......"
+    },
+    {
+      "id": 39,
+      "teller": "???",
+      "title": "???",
+      "content": "Jika mataku masih berfungsi normal, maka anda tidak akan gagal mencapai pelabuhan kejayaan."
+    },
+    {
+      "id": 40,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Siapa... anda? Papan nama itu... tertulis... Faust?>"
+    },
+    {
+      "id": 41,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Anda telah tersesat di hutan yang gelap."
+    },
+    {
+      "id": 42,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<A-apa...?>"
+    },
+    {
+      "id": 43,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Namun anda tidak diliputi oleh rasa takut. Mengapa demikian?"
+    },
+    {
+      "id": 44,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Itu...>"
+    },
+    {
+      "id": 45,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Karena aku bisa dengan mudah... mengangkat kepalaku untuk menemukan sang bintang.>"
+    },
+    {
+      "id": 46,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Itu benar."
+    },
+    {
+      "id": 47,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Sekarang, teruslah mengingat bayangan itu dan biarkan hati anda mengucapkan kata-kata ini dengan lantang."
+    },
+    {
+      "id": 48,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Ikuti bintangmu."
+    },
+    {
+      "id": 49,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Ikuti... bintangmu.>"
+    },
+    {
+      "id": 50,
+      "content": "Pada saat itu..."
+    },
+    {
+      "id": 51,
+      "content": "Tiba-tiba aku merasakan hantaman di kepalaku,"
+    },
+    {
+      "id": 52,
+      "content": "diikuti oleh sensasi beberapa rantai yang menembus diriku."
+    },
+    {
+      "id": 53,
+      "model": "프롤로그단테",
+      "teller": "Aku",
+      "title": "■■■",
+      "content": "<Guh... Hrrk— Aaargh!!!>"
+    },
+    {
+      "id": 54,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Tolong jangan khawatir. Jantung anda masih berfungsi, meski mungkin terasa sebaliknya."
+    },
+    {
+      "id": 55,
+      "model": "파우스트",
+      "content": "Dengan ini, perjanjian telah tersegel."
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "Dante, mulai hari ini dan seterusnya, kami terikat pada waktu anda."
+    },
+    {
+      "id": 57,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Apa maksud... anda?>"
+    },
+    {
+      "id": 58,
+      "model": "파우스트",
+      "content": "Detak jantung kami kini bergantung pada ke mana tangan anda terjatuh."
+    },
+    {
+      "id": 59,
+      "model": "파우스트",
+      "content": "Faust harap anda akan menjadi pemimpin yang baik."
+    },
+    {
+      "id": 60,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<\"Kami\"...?>"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Apa benar cuma itu semuanya?"
+    },
+    {
+      "id": 62,
+      "model": "이상",
+      "content": "Sebuah apel telah jatuh."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "content": "... Orang ini bicaranya masih tidak masuk akal."
+    },
+    {
+      "id": 64,
+      "model": "로쟈",
+      "content": "Aduuuh~ Menunggunya bikin aku mau mati tahu! Apa kita akhirnya bakal beraksi?"
+    },
+    {
+      "id": 65,
+      "model": "그레고르",
+      "content": "Yah, pemanasan sedikit tidak akan menyakitkan."
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "content": "Benda menyedihkan apa yang menggeliat di tanah itu? Apa mereka akan menjadi anggota baru di tim ini?"
+    },
+    {
+      "id": 67,
+      "model": "그레고르",
+      "content": "Uh... Kamu mungkin harus menjaga ucapanmu... Aku dengar itu calon bos kita..."
+    },
+    {
+      "id": 68,
+      "model": "파우스트",
+      "content": "Pasti itu tadi penyergapan instan—namun aku kagum anda tetap berhasil menyembunyikan kepala anda."
+    },
+    {
+      "id": 69,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Siapa kalian? Dan ada apa dengan bis ini?>"
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "Kami adalah pembawa pesan keadilan yang datang untuk membantu anda, dan ini adalah bis ajaib yang dapat membawa kita ke mana pun kita inginkan."
+    },
+    {
+      "id": 71,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Keadilan? Bis? Aku tidak...>"
+    },
+    {
+      "id": 72,
+      "model": "파우스트",
+      "content": "Bukankah itu yang ingin anda dengar? Lagipula, anda akan merasa lebih tenang dengan cara itu."
+    },
+    {
+      "id": 73,
+      "model": "파우스트",
+      "content": "Kita sedang berpacu dengan waktu, dan situasinya tidak berpihak pada kita, jadi izinkan Faust menjelaskan ini sekali saja."
+    },
+    {
+      "id": 74,
+      "content": "Setelah beberapa waktu berlalu..."
+    },
+    {
+      "id": 75,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Jadi... Biar kuperjelas. Selama aku melakukan apa yang anda katakan, orang-orang yang sama sekali asing ini, yang bahkan belum pernah kutemui sebelumnya, akan bertarung untukku?>"
+    },
+    {
+      "id": 76,
+      "model": "파우스트",
+      "content": "Benar. Selama anda memberikan perintah yang tepat kepada mereka."
+    },
+    {
+      "id": 77,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Baiklah kalau begitu. Mari bantai bajingan-bajingan ini,>"
+    },
+    {
+      "id": 78,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Lalu kembali ke tempat asalku...>"
+    },
+    {
+      "id": 79,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Ke tempat asalku, dan...>"
+    },
+    {
+      "id": 80,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<......>"
+    },
+    {
+      "id": 81,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Apa yang sedang kulakukan? Ke mana aku seharusnya kembali?>"
+    },
+    {
+      "id": 82,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Aku tadi berada tepat di ambang momen yang sangat penting. Sesuatu yang seharusnya tidak pernah kulupakan...>"
+    },
+    {
+      "id": 83,
+      "model": "파우스트",
+      "content": "Tenanglah. Wajar jika kepala baru ini memberikan efek buruk pada ingatan anda."
+    },
+    {
+      "id": 84,
+      "model": "파우스트",
+      "content": "Fokuslah pada perjuangan yang ada di depan mata, Dante."
+    },
+    {
+      "id": 85,
+      "model": "오티스",
+      "content": "Ke... Ehem. Saya tidak yakin bagaimana saya harus memanggil anda."
+    },
+    {
+      "id": 86,
+      "model": "오티스",
+      "content": "Apakah \"Komandan Jam\" sudah cukup...? Apa pun itu, kami menunggu perintah anda, Manajer!"
+    },
+    {
+      "id": 87,
+      "model": "그레고르",
+      "content": "Eh, apa kita benar-benar butuh perintah? Sepertinya duel satu lawan satu adalah satu-satunya jalan."
+    },
+    {
+      "id": 88,
+      "model": "이스마엘",
+      "content": "Hah?! H-Hei!"
+    },
+    {
+      "id": 89,
+      "model": "히스클리프",
+      "content": "Kalian semua, berhenti banyak bacot! Kita cuma perlu ngeratain mereka semua!"
+    },
+    {
+      "id": 90,
+      "model": "파우스트",
+      "content": "... Tolong lakukan yang terbaik, Dante."
+    },
+    {
+      "id": 91,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<... Kurasa aku tidak punya pilihan lain.>"
+    }
+  ]
+}
