@@ -1,0 +1,11 @@
+{
+  "id": 9083,
+  "name": "Lunar Memory",
+  "desc": "All type and Affinity resistances of enemies (for Abnormalities, all Parts) change to 'Fatal'.",
+  "simpleDesc": [
+    {
+      "abilityID": 9083,
+      "simpleDesc": "Change Type and Affinity resistances to 'Fatal'"
+    }
+  ]
+}
