@@ -1,0 +1,15 @@
+{
+  "id": 9055,
+  "name": "Downpour",
+  "desc": "Turn Start: Inflict (Current Turn Count x 2) [Vibration] Potency and +2 [Vibration] Count on all enemies (or all Abnormality parts).\n\nTurn End: Trigger [VibrationExplosion] on all enemies (or all Abnormality parts).",
+  "simpleDesc": [
+    {
+      "abilityID": 9055,
+      "simpleDesc": "Inflict (Current Turn Count x 2) [Vibration] Potency and +2 [Vibration] Count"
+    },
+    {
+      "abilityID": 90551,
+      "simpleDesc": "Trigger [VibrationExplosion]"
+    }
+  ]
+}
