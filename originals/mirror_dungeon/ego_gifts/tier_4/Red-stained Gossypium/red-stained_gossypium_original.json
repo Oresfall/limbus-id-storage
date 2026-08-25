@@ -1,0 +1,15 @@
+{
+  "id": 9050,
+  "name": "Red-stained Gossypium",
+  "desc": "First Turn Start of an Encounter: inflict 1 [Laceration] Potency and +15 [Laceration] Count to all enemies (or all Abnormality parts).\n\nTurn Start: enemies with [Laceration] Potency lose ([Laceration] Potency/3) 'Offense Level' and 'Defense Level' for the turn. (Maxes out at 30 [Laceration] Potency stack)",
+  "simpleDesc": [
+    {
+      "abilityID": 9050,
+      "simpleDesc": "Inflict 1 [Laceration] Potency and +15 [Laceration] Count"
+    },
+    {
+      "abilityID": 90501,
+      "simpleDesc": "Offense Level and Defense Level reduced by ([Laceration] Potency/3) for the turn"
+    }
+  ]
+}
