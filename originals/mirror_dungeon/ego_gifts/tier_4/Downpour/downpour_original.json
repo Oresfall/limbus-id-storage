@@ -1,15 +1,49 @@
 {
-  "id": 9055,
-  "name": "Downpour",
-  "desc": "Turn Start: Inflict (Current Turn Count x 2) [Vibration] Potency and +2 [Vibration] Count on all enemies (or all Abnormality parts).\n\nTurn End: Trigger [VibrationExplosion] on all enemies (or all Abnormality parts).",
-  "simpleDesc": [
+  "datalist": [
     {
-      "abilityID": 9055,
-      "simpleDesc": "Inflict (Current Turn Count x 2) [Vibration] Potency and +2 [Vibration] Count"
+      "id": 9055,
+      "name": "Downpour",
+      "desc": "Turn Start: Inflict (Current Turn Count x 2) [Vibration] Potency and +2 [Vibration] Count on all enemies (or all Abnormality parts).\n\nTurn End: Trigger [VibrationExplosion] on all enemies (or all Abnormality parts).",
+      "simpleDesc": [
+        {
+          "abilityID": 9055,
+          "simpleDesc": "Inflict (Current Turn Count x 2) [Vibration] Potency and +2 [Vibration] Count"
+        },
+        {
+          "abilityID": 90551,
+          "simpleDesc": "Trigger [VibrationExplosion]"
+        }
+      ]
     },
     {
-      "abilityID": 90551,
-      "simpleDesc": "Trigger [VibrationExplosion]"
+      "id": 19055,
+      "name": "Downpour+",
+      "desc": "Turn Start: inflict <style=\"upgradeHighlight\">(3 + Current Turn Count x 2) [Vibration] Potency and +3 [Vibration] Count</style> on all enemies (or all Abnormality parts).\n\nTurn End: trigger [VibrationExplosion] on all enemies (or all Abnormality parts).",
+      "simpleDesc": [
+        {
+          "abilityID": 19055,
+          "simpleDesc": "Inflict (3 + Current Turn Count x 2) [Vibration] Potency and +3 [Vibration] Count"
+        },
+        {
+          "abilityID": 190551,
+          "simpleDesc": "Trigger [VibrationExplosion]"
+        }
+      ]
+    },
+    {
+      "id": 29055,
+      "name": "Downpour++",
+      "desc": "Turn Start: inflict <style=\"upgradeHighlight\">(5 + Current Turn Count x 2) [Vibration] Potency</style> and +3 [Vibration] Count on all enemies (or all Abnormality parts).\n\nTurn End: trigger <style=\"upgradeHighlight\"> 2 [VibrationExplosion]</style> on all enemies (or all Abnormality parts).",
+      "simpleDesc": [
+        {
+          "abilityID": 29055,
+          "simpleDesc": "Inflict (5 + Current Turn Count x 2) [Vibration] Potency and +3 [Vibration] Count"
+        },
+        {
+          "abilityID": 290551,
+          "simpleDesc": "Trigger 2 [VibrationExplosion]"
+        }
+      ]
     }
   ]
 }
