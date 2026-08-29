@@ -1,0 +1,1231 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Makeshift Command Tent",
+      "model": "단테",
+      "content": "<Hm? Siapa orang-orang yang menemani Vergilius dan Charon itu?>"
+    },
+    {
+      "id": 1,
+      "model": "로쟈",
+      "content": "Sial, dilambai balik aja nggak, ya?"
+    },
+    {
+      "id": 2,
+      "content": "Tidak, ini bukan soal Vergilius..."
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "content": "Hoooagh... Hooah...!"
+    },
+    {
+      "id": 4,
+      "content": "Don Quixote, yang berdiri di sampingku, perlahan-lahan mulai hiperventilasi."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Kau... kau baik-baik saja, Don Quixote?>"
+    },
+    {
+      "id": 6,
+      "model": "뫼르소",
+      "content": "Percepatan bertahap dari pola napasnya pertama kali teramati sepuluh menit lalu. Aku tidak melaporkannya, karena tidak menimbulkan risiko nyata bagi kesehatan dan kesejahteraannya."
+    },
+    {
+      "id": 7,
+      "model": "료슈",
+      "content": "Aku tahu cara yang bagus untuk menangani kasus hiperventilasi."
+    },
+    {
+      "id": 8,
+      "content": "Ryōshū menatapku dengan tatapan yang secara jelas dan singkat menyampaikan bahwa ia ingin mencekik Don Quixote. Aku berusaha sebisa mungkin untuk memalingkan wajah."
+    },
+    {
+      "id": 9,
+      "model": "돈키호테",
+      "content": "HA... HAA..."
+    },
+    {
+      "id": 10,
+      "model": "돈키호테",
+      "content": "HAAA... HA... HAAAGGHHHHH..."
+    },
+    {
+      "id": 11,
+      "model": "료슈",
+      "content": "Haah...."
+    },
+    {
+      "id": 12,
+      "content": "Ishmael menghela napas dan melangkah maju, merasakan bahwa Ryōshū hampir melakukan sesuatu yang lebih baik tidak ia lakukan."
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Sigh, biar kujelaskan apa yang terjadi. Fixer itu berasal dari Hana Association."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Uhh, 'Hana Association' itu yang mengawasi semua kegiatan Asosiasi Fixer, kan?>"
+    },
+    {
+      "id": 15,
+      "content": "Kurasa semua kali Don Quixote memberi kuliah dadakan soal Fixer itu tidak sepenuhnya sia-sia."
+    },
+    {
+      "id": 16,
+      "content": "Aku tidak pernah terlalu memperhatikannya, tapi kalau kau mendengarnya cukup sering... kuliah-kuliah itu punya cara tersendiri untuk melekat di otakmu."
+    },
+    {
+      "id": 17,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "Fixer dari Hana Association...?"
+    },
+    {
+      "id": 18,
+      "content": "Nama itu saja jelas membawa bobot yang besar di antara para Fixer lainnya. Saat Fixer Hana Association, berbusana putih murni, melangkah masuk ke ruangan, mereka semua perlahan berbalik untuk menatapnya."
+    },
+    {
+      "id": 19,
+      "content": "Dan..."
+    },
+    {
+      "id": 20,
+      "model": "엑스트라해결사2",
+      "teller": "Amazed Fixer",
+      "title": "???",
+      "content": "Red Gaze, juga...?"
+    },
+    {
+      "id": 21,
+      "model": "엑스트라해결사2",
+      "teller": "Amazed Fixer",
+      "title": "???",
+      "content": "Astaga, seorang Color Fixer? Di sini...?"
+    },
+    {
+      "id": 22,
+      "model": "로쟈",
+      "content": "Hei... sepertinya kita punya satu lagi superstar di sini..."
+    },
+    {
+      "id": 23,
+      "content": "Vergilius, yang entah bagaimana sudah kami terbiasa lihat setelah begitu lama bepergian bersama, memerintah perhatian semua orang di ruangan itu hanya dengan kehadirannya."
+    },
+    {
+      "id": 24,
+      "content": "Itu mengingatkanku. Aku dengar Don Quixote luar biasa bersemangat saat melihat Vergilius di dalam bus. Aku cukup yakin ia hampir pingsan saking senangnya bisa bekerja berdampingan dengan seorang Color Fixer."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Kurasa ini memang sudah bisa diduga. Vergilius adalah salah satu dari sedikit Fixer yang mendapat kehormatan dianugerahi gelar Color."
+    },
+    {
+      "id": 26,
+      "model": "까미유카메라",
+      "content": "Semuanya, lihat ini? Gila, kan? Lihat, itu bukan lain adalah Color Fixer Red Gaze sendiri, langsung di depan mata. Ini bukan sekadar operasi Backstreets kelas kampungan yang kita bicarakan."
+    },
+    {
+      "id": 27,
+      "model": "까미유카메라",
+      "content": "Inget siaran sebelum misi tadi? Aku udah bilang ke kalian ini pasti lebih dari sekadar Urban Nightmare! Oh, kalian khawatir soal aku? Semuanya. Dengar. Yang kubutuhkan cuma dukungan kalian buat..."
+    },
+    {
+      "id": 28,
+      "model": "오티스",
+      "content": "Tsk, tsk... anak muda zaman sekarang..."
+    },
+    {
+      "id": 29,
+      "content": "Di antara ocehan tanpa henti Camille dan decak lidah Outis yang berbunyi setiap 3 detik dengan teratur, aku tidak yakin siapa di antara keduanya yang lebih menyebalkan."
+    },
+    {
+      "id": 30,
+      "content": "... Untungnya, bukan cuma kami yang semakin lelah dengan kelakuan Camille."
+    },
+    {
+      "id": 31,
+      "model": "한울",
+      "teller": "???",
+      "title": "Hana Assoc. North",
+      "content": "Mulai saat ini, segala aktivitas perekaman, kecuali untuk perekaman resmi terkait pekerjaan dengan izin sebelumnya dari Hana Association, tidak akan diizinkan lagi."
+    },
+    {
+      "id": 32,
+      "model": "한울",
+      "teller": "???",
+      "title": "Hana Assoc. North",
+      "content": "Jika kau ketahuan melanggar ketetapan ini, Asosiasi Fixer akan mengenakan poin pelanggaran ke namamu. Dan kita yang berkumpul di sini pasti sudah sangat sadar akan konsekuensi menumpuk terlalu banyak poin pelanggaran. Penangguhan Lisensi Fixer, penurunan tingkat..."
+    },
+    {
+      "id": 33,
+      "model": "까미유카메라",
+      "content": "Baiklah, semuanya... sepertinya inilah saatnya tirai ditutup untuk acara malam ini. Aku akan memberi mereka pertarungan yang gagah dan mulia, dan aku akan bertemu kalian lagi lain kali. Oh, dan jangan lupa berikan suara kalian untuk kontes 'Fixer yang ingin kuajak makan malam'. Ditutup tengah malam!"
+    },
+    {
+      "id": 34,
+      "content": "Deklarasi dingin dari Fixer Hana itu menghantam Camille dan para Fixer di dalam tenda komando bagaikan lapisan salju tebal. Mereka semua mulai gelisah mengutak-atik perangkat mereka, berusaha memasukkannya kembali ke dalam wadah dan tas masing-masing."
+    },
+    {
+      "id": 35,
+      "content": "Dengan itu, keributan di dalam tenda dengan cepat mereda."
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "content": "Rasain."
+    },
+    {
+      "id": 37,
+      "model": "한울",
+      "teller": "???",
+      "title": "Hana Assoc. North",
+      "content": "Kau di sana. Wanita dengan... rahang yang tampaknya terkilir itu... sepertinya bagian dari kelompokmu. Apa dia baik-baik saja?"
+    },
+    {
+      "id": 38,
+      "content": "Fixer dari Hana Association bertanya ke arah kami, melirik Don Quixote."
+    },
+    {
+      "id": 39,
+      "model": "베르길리우스",
+      "content": "... Jangan pedulikan dia. Lebih mudah begitu."
+    },
+    {
+      "id": 40,
+      "content": "Tak lama kemudian, seorang karyawan P Corp. melangkah maju di hadapan para Fixer."
+    },
+    {
+      "id": 41,
+      "model": "알레시오",
+      "teller": "???",
+      "title": "P Corp. Staff",
+      "content": "Baiklah. Ronde keempat melawan La Manchaland, ya?"
+    },
+    {
+      "id": 42,
+      "model": "알레시오",
+      "teller": "???",
+      "title": "P Corp. Staff",
+      "content": "Aku sangat senang bisa berada di sini. Senang bertemu kalian semua."
+    },
+    {
+      "id": 43,
+      "content": "Untuk seseorang yang sangat senang bertemu kami... ia bahkan tidak sekali pun melirik ke arah kami."
+    },
+    {
+      "id": 44,
+      "model": "알레시오",
+      "content": "Aku adalah Manajer Staf Dokumentasi Kelas 3 di Departemen Arsip P Corp. Namaku Alessio."
+    },
+    {
+      "id": 45,
+      "model": "알레시오",
+      "content": "Dan dia adalah..."
+    },
+    {
+      "id": 46,
+      "model": "한울",
+      "content": "Han-ul."
+    },
+    {
+      "id": 47,
+      "model": "싱클레어",
+      "content": "Jadi... Kepala Manajer Cesara tidak ada di sini untuk memberi pengarahan sendiri."
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "Tidak mau mengotori sepatu botnya dengan datang jauh-jauh ke sini, rupanya."
+    },
+    {
+      "id": 49,
+      "model": "알레시오",
+      "content": "Baiklah, kalau begitu. Mari kita mulai pengarahannya, ya?"
+    },
+    {
+      "id": 50,
+      "content": "Saat kami semua berdiri di sana sambil berbagi prediksi masing-masing, karyawan itu, yang memperkenalkan dirinya sebagai Alessio, mulai memuat berbagai gambar ke layar."
+    },
+    {
+      "id": 51,
+      "model": "히스클리프",
+      "content": "Yaaaaawn... Kawan, apa kita bener-bener harus ngelewatin semua birokrasi ini?"
+    },
+    {
+      "id": 52,
+      "model": "이상",
+      "content": "P-pengarahannya bahkan belum dimulai, namun..."
+    },
+    {
+      "id": 53,
+      "content": "Heathcliff menguap keras dan berlebihan. Tatapan mencela dari para Fixer lain begitu terasa hingga aku hampir bisa merasakannya menusuk kulitku..."
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "Bisa nggak kita pura-pura nggak kenal dia...?"
+    },
+    {
+      "id": 55,
+      "model": "단테",
+      "content": "<Huh, ini bikin aku merasa seperti seorang Fixer juga, duduk di sini bersama semua orang ini...>"
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "Heh. Manajer Eksekutif, aku pernah menjadi pemimpin dari banyak operasi yang bakal bikin pertempuran kecil ini keliatan kayak apa-apa—"
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<Banyak...?>"
+    },
+    {
+      "id": 58,
+      "content": "Aku ingin mendengar lebih banyak tentang kisahnya, tapi pengarahan misi sudah benar-benar dimulai; aku memutuskan untuk menyimpan rasa penasaranku untuk nanti."
+    },
+    {
+      "id": 59,
+      "model": "알레시오",
+      "content": "La Manchaland, yang akan muncul di sini dalam tiga jam ke depan, adalah fenomena kelas Urban Nightmare yang telah diakui secara resmi. Puluhan Fixer telah mencoba dan gagal menumpasnya."
+    },
+    {
+      "id": 60,
+      "model": "알레시오",
+      "content": "... Sekarang kita akan mengadakan momen hening untuk para korbannya."
+    },
+    {
+      "id": 61,
+      "content": "Don Quixote langsung menundukkan pandangannya dengan wajah serius, namun... aku bisa menghitung dengan sepuluh jariku berapa orang yang sepertinya menganggapnya bahkan sedikit serius."
+    },
+    {
+      "id": 62,
+      "content": "Beberapa Fixer bergumam di antara mereka bahwa para korban itu cuma orang-orang bodoh yang terlalu percaya diri."
+    },
+    {
+      "id": 63,
+      "content": "Bahkan aku, dengan kenaifanku yang tanpa batas, bisa merasakan bahwa tak seorang pun dari para Fixer itu benar-benar menganggap mereka sebagai 'korban'."
+    },
+    {
+      "id": 64,
+      "content": "Dengungan bisik-bisik dan obrolan santai memenuhi keheningan itu, wajah bosan jelas terlihat di wajah para Fixer seolah mereka sudah pernah mendengar semua ini sebelumnya."
+    },
+    {
+      "id": 65,
+      "model": "알레시오",
+      "content": "Sekarang, boleh kualihkan perhatian kalian ke layar ini."
+    },
+    {
+      "id": 66,
+      "content": "Beberapa gambar beresolusi rendah mulai dimuat di layar."
+    },
+    {
+      "id": 67,
+      "model": "알레시오",
+      "content": "Diperkirakan asal-usul La Manchaland berasal dari dua ratus tahun yang lalu, berdasarkan estimasi yang konservatif."
+    },
+    {
+      "id": 68,
+      "model": "알레시오",
+      "content": "Ini ditentukan berdasarkan bukti fotografis, dan tingkat kerusakan bangunan serta material yang diambil dan dianalisis dari fenomena ini."
+    },
+    {
+      "id": 69,
+      "model": "알레시오",
+      "content": "Namun, La Manchaland sebagian besar tidak diketahui dan tak terlihat oleh publik hingga dua bulan lalu. Dan bahan mentah yang membentuk 'taman hiburan' ini adalah—"
+    },
+    {
+      "id": 70,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "Tsk, kita semua udah tahu semua ini. Lanjut aja."
+    },
+    {
+      "id": 71,
+      "model": "알레시오",
+      "content": "Ah, mm... P Corp. punya tanggung jawab untuk membagikan informasi yang cukup kepada semua peserta misi ini."
+    },
+    {
+      "id": 72,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "Dan seperti yang kubilang, kami semua udah punya informasi lebih dari cukup, ngerti?! Ayo berhenti buang-buang waktu dan—"
+    },
+    {
+      "id": 73,
+      "model": "한울",
+      "content": "Sepertinya kau punya kesalahpahaman yang cukup serius."
+    },
+    {
+      "id": 74,
+      "model": "한울",
+      "content": "Tentu saja, aku yakin sebagian dari yang hadir di sini adalah profesional sejati dengan keahlian dan keteguhan yang kebanyakan orang tak berani remehkan."
+    },
+    {
+      "id": 75,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "Heh..."
+    },
+    {
+      "id": 76,
+      "model": "오티스",
+      "content": "Heh..."
+    },
+    {
+      "id": 77,
+      "model": "한울",
+      "content": "Tapi kenyataannya, kebanyakan dari kalian adalah... umpan. Biasa-biasa saja, rata-rata secara menyedihkan, kelas kacangan, Fixer diskonan yang kemungkinan besar akan menemui akhir hidup yang menyedihkan penuh tanah sambil masih bertugas menangani Urban Nightmare sepanjang karier kalian. Itulah semua yang akan pernah kalian jadi."
+    },
+    {
+      "id": 78,
+      "model": "한울",
+      "content": "... Sebagian besar dari kalian akan tersingkir sebelum jalan ini membawa kalian ke mana pun yang bahkan sedikit berarti, apalagi bergabung dengan jajaran Fixer Grade 1 sepertiku."
+    },
+    {
+      "id": 79,
+      "model": "한울",
+      "content": "Sebagian, mungkin satu atau dua orang di antara kalian, bisa saja mencapai Grade 1, tentu saja. Tapi aku jamin kalian bahkan tak akan berani bermimpi mendekati kehebatan Red Gaze."
+    },
+    {
+      "id": 80,
+      "model": "한울",
+      "content": "Hm, mungkin yang terbaik yang bisa kalian raih adalah kehormatan mati di sampingnya. Merasakan kesenjangan antara diri kalian dan mereka yang berada di puncak Kota."
+    },
+    {
+      "id": 81,
+      "content": "Seringai di wajah para Fixer dengan cepat memudar saat Fixer yang tadinya ribut itu terdiam total."
+    },
+    {
+      "id": 82,
+      "model": "히스클리프",
+      "content": "Astaga. Jadi Fixer Hana itu... hampir setara dengan si pemandu, ya? Atau setidaknya ada tepat di bawah levelnya?"
+    },
+    {
+      "id": 83,
+      "model": "돈키호테",
+      "content": "Aha, namun Red Gaze tidak akan kalah oleh sekadar Fixer Grade 1!"
+    },
+    {
+      "id": 84,
+      "model": "한울",
+      "content": "Jadi, tahu dirilah dan perhatikan pengarahannya."
+    },
+    {
+      "id": 85,
+      "model": "알레시오",
+      "content": "Terima kasih atas kerja samanya. Sekarang, mari kita lihat..."
+    },
+    {
+      "id": 86,
+      "model": "알레시오",
+      "content": "Alasan kemunculan tiba-tiba La Manchaland di sini belum bisa dijelaskan."
+    },
+    {
+      "id": 87,
+      "model": "알레시오",
+      "content": "Meskipun pengaruhnya masih terbatas di Backstreets, keunikan La Manchaland menimbulkan ancaman nyata bagi P Corp. hanya dengan keberadaannya semata."
+    },
+    {
+      "id": 88,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Ya, bener banget, bro. Pasar perumahan lokal jatuh ke titik terendah dan terus ambruk, iya kan~?"
+    },
+    {
+      "id": 89,
+      "content": "Fixer dari sebelumnya, yang tadi mencoba menghalangi kami masuk ke lokasi sebelum kabur, perlahan mendekat ke arah kami dan mulai mengajak ngobrol."
+    },
+    {
+      "id": 90,
+      "content": "Sebagian besar dari kami mengabaikannya, tapi Hong Lu merespons dengan nada suara yang ramah."
+    },
+    {
+      "id": 91,
+      "model": "홍루",
+      "content": "Oh, benarkah?"
+    },
+    {
+      "id": 92,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Yep. Itu gila banget waktu benda itu pertama kali muncul di sini."
+    },
+    {
+      "id": 93,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Munculnya di tengah-tengah pusat populasi yang padat. Kayak dua neraka jadi satu. Semua teriakan itu, semua darah itu dan..."
+    },
+    {
+      "id": 94,
+      "model": "료슈",
+      "content": "Dua neraka jadi satu, ya? Ungkapan yang indah."
+    },
+    {
+      "id": 95,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Yah, gedung-gedung P Corp. terkenal karena elastisitasnya, jadi meskipun semuanya melengkung mengikuti fenomena yang baru muncul itu, mereka nggak, kayak, runtuh atau apa."
+    },
+    {
+      "id": 96,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Pokoknya... waktu La Manchaland tiba-tiba muncul di sana, berdenyut dan mendorong menyingkir semua bangunan yang tadinya ada di sana, orang-orang tergencet dan sejumlah bangunan jadi melengkung."
+    },
+    {
+      "id": 97,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Ada banyak banget yang selamat untuk sesuatu yang separah itu. Semua berkat Singularity milik P Corp. yang menjaga keamanan orang-orang di dalam gedung."
+    },
+    {
+      "id": 98,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Mereka bikin zona penyangga radius tiga kilometer buat batasi pembangunan di Area tempat itu muncul, tapi~"
+    },
+    {
+      "id": 99,
+      "model": "그레고르",
+      "content": "... Cuma tiga kilometer?"
+    },
+    {
+      "id": 100,
+      "model": "파우스트",
+      "content": "Bangunan yang menggunakan Singularity milik P Corp. memiliki tingkat elastisitas yang sangat tinggi, artinya bangunan yang dibuat dengan teknologi mereka sangat kecil kemungkinannya runtuh atau hancur akibat guncangan. Kemungkinan mereka memutuskan bahwa akan cukup aman untuk membiarkan tepi La Manchaland sedikit tumpang tindih dengan zona pemukiman."
+    },
+    {
+      "id": 101,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Yah, kau tahu kata orang. P Corp. bisa bikin rumah aman di mana saja."
+    },
+    {
+      "id": 102,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Jadi bayangin betapa kagetnya waktu semua bencana itu terjadi. Satu-satunya kebanggaan mereka runtuh, kepercayaan pada teknologi mereka mulai goyah... pantas aja pasar properti di sini ambruk sampai ke titik terendah."
+    },
+    {
+      "id": 103,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Maksudku, itu separah sampai warga lokal bersatu dan menyerbu La Manchaland. Bawa poster protes dan semuanya."
+    },
+    {
+      "id": 104,
+      "model": "단테",
+      "content": "<Jadi itulah yang dimaksud spanduk-spanduk itu, ya...>"
+    },
+    {
+      "id": 105,
+      "model": "한울",
+      "content": "Seperti yang bisa kalian lihat semua, La Manchaland tampil sebagai taman hiburan yang dihias secara mewah."
+    },
+    {
+      "id": 106,
+      "model": "한울",
+      "content": "Salah satu kesaksian yang paling sering didengar dari laporan-laporan menyatakan bahwa ada radius delapan kilometer dari titik pusatnya di mana orang-orang mendengar semacam musik tanpa sumber jelas. Beberapa warga sipil yang penasaran, tertarik oleh musik itu, mendekat. Kebanyakan dari mereka belum kembali."
+    },
+    {
+      "id": 107,
+      "model": "폴라",
+      "content": "Apakah mungkin 'musik' itu memiliki sifat hipnogenik?"
+    },
+    {
+      "id": 108,
+      "model": "알레시오",
+      "content": "Hm, itu memang kemungkinan yang tidak akan kami singkirkan. Terlalu banyak pengunjung yang mengabaikan tanda peringatan dan pita pembatas yang jelas untuk disebut kebetulan. Mungkin dengan lebih berhati-hati, kami dan individu terkait akan melengkapi diri dengan penyumbat telinga."
+    },
+    {
+      "id": 109,
+      "model": "혈귀사냥꾼",
+      "content": "Apa yang harus kita lakukan begitu 'La Manchaland' ini terwujud?"
+    },
+    {
+      "id": 110,
+      "model": "한울",
+      "content": "Begitu kalian memasuki batasnya, kalian harus bersiap untuk pertempuran yang akan segera terjadi."
+    },
+    {
+      "id": 111,
+      "model": "한울",
+      "content": "Tidak ada badut baik hati yang membagikan balon, tidak ada karyawan taman hiburan yang membuat popcorn, tidak ada staf yang menyambut kalian dengan lagu selamat datang."
+    },
+    {
+      "id": 112,
+      "model": "로메로",
+      "content": "……."
+    },
+    {
+      "id": 113,
+      "model": "로메로",
+      "content": "... Hanya Bloodfiend."
+    },
+    {
+      "id": 114,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "Hah? Bloodfiend...? Mereka beneran ada?"
+    },
+    {
+      "id": 115,
+      "model": "엑스트라해결사2",
+      "teller": "Amazed Fixer",
+      "title": "???",
+      "content": "Kau belum pernah dengar soal Blood-red Night, Star of the City yang terkenal itu? Sebagian orang bilang Blood-red Night sebenarnya adalah Bloodfiend yang sangat kuat."
+    },
+    {
+      "id": 116,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "Ya, dan orang-orang bilang banyak hal. Kau tahu kan bagaimana rumor menyebar di Kota. Aku yakin nggak ada yang sedahsyat itu kalau ditelusuri lebih dalam."
+    },
+    {
+      "id": 117,
+      "model": "혈귀사냥꾼",
+      "content": "... Hah, rumor? Kalian tak akan pernah tahu betapa tangguh, betapa dahsyat dan keras kepalanya Blood-red Night itu. Kalian orang bodoh nggak punya hak untuk membicarakan hal itu dengan begitu enteng."
+    },
+    {
+      "id": 118,
+      "model": "한울",
+      "content": "……."
+    },
+    {
+      "id": 119,
+      "model": "한울",
+      "content": "Ya, satu-satunya yang akan kalian temukan di sana..."
+    },
+    {
+      "id": 120,
+      "model": "한울",
+      "content": "... adalah Bloodbag dan para Bloodfiend yang mengubah mereka, mengasah taring mereka untuk memuaskan rasa lapar mereka yang tak terpuaskan dengan darah kalian."
+    },
+    {
+      "id": 121,
+      "model": "알레시오",
+      "content": "Oh, ini detail yang mau kubagikan tadi sebelum dipotong. Bahan mentah yang membentuk setiap struktur di dalam La Manchaland... adalah darah manusia. Darah manusia yang berasal dari lebih dari dua ratus tahun lalu."
+    },
+    {
+      "id": 122,
+      "model": "싱클레어",
+      "content": "... Bloodfiend bisa bikin taman hiburan dari darah?"
+    },
+    {
+      "id": 123,
+      "model": "로메로",
+      "content": "Oh, sekarang aku jadi menantikan ini. Kalau cuma Bloodfiend yang akan kita temukan di sana, aku yakin mereka nggak akan buang waktu buat mencincang para pemula."
+    },
+    {
+      "id": 124,
+      "model": "로쟈",
+      "content": "Apa semua Fixer ngomongnya kayak gitu? Cara orang itu ngomongin Bloodfiend ngingetin aku banget sama cara Ishy dulu ngomongin Great Lake..."
+    },
+    {
+      "id": 125,
+      "model": "이스마엘",
+      "content": "... Hei, jangan salahin kita kalau selalu waspada, padahal kesalahan sekecil apa pun bisa merenggut nyawa kita. Belum lagi betapa menyebalkannya kalau ada orang lain, yang bahkan nggak paham bahayanya, malah tidur-tiduran seolah nggak ada besok..."
+    },
+    {
+      "id": 126,
+      "model": "히스클리프",
+      "content": "Uhnn. Nggak tidur kok. Berkat orang tertentu yang terus-terusan nginjek kakiku..."
+    },
+    {
+      "id": 127,
+      "model": "싱클레어",
+      "content": "... Mm. Mm... Cuaca hari ini bagus ya, hmm?"
+    },
+    {
+      "id": 128,
+      "content": "Sinclair-lah yang menginjak kakinya, atas permintaan yang cukup memaksa dari Ishmael, tapi aku memilih diam. Hal terakhir yang kuinginkan adalah membiarkan keduanya bertengkar lagi..."
+    },
+    {
+      "id": 129,
+      "model": "한울",
+      "content": "... Bagaimanapun. Kalau kalian berhasil bertahan hidup selama enam jam di dalam La Manchaland, musik yang menandakan tutupnya taman akan mulai diputar. Kami bisa memastikan fakta ini dari kesaksian setiap Fixer dan warga sipil yang berhasil keluar hidup-hidup."
+    },
+    {
+      "id": 130,
+      "model": "한울",
+      "content": "Begitu lagu penutup mulai diputar, kalian punya waktu tiga puluh menit untuk keluar dari La Manchaland. Kalau kalian gagal melakukannya... kalian akan terjebak di dalam La Manchaland sampai ia muncul lagi di sini. Secara efektif membuat kalian terjebak dalam pertempuran tanpa akhir melawan para Bloodfiend."
+    },
+    {
+      "id": 131,
+      "model": "혈귀사냥꾼",
+      "content": "Kalau ada yang sampai bertahan selama itu..."
+    },
+    {
+      "id": 132,
+      "model": "알레시오",
+      "content": "Ada juga beberapa laporan saksi mata di mana beberapa Fixer mengenali orang-orang hilang yang naik wahana taman hiburan tertentu, tapi itu bukan detail penting bagi mereka yang hadir di sini."
+    },
+    {
+      "id": 133,
+      "model": "한울",
+      "content": "Berdasarkan kesaksian dan laporan dari para penyintas, kami berhasil menyusun peta La Manchaland, yang terdiri dari empat 'Area' terpisah."
+    },
+    {
+      "id": 134,
+      "model": "한울",
+      "content": "Belum ada yang berhasil mencapai Area terakhir, yang berlokasi di sini."
+    },
+    {
+      "id": 135,
+      "model": "한울",
+      "content": "Namun, kami berhasil mengidentifikasi bahwa ada perangkat tertentu di setiap Area... Area 1, 2, dan 3 secara berurutan, yang harus diaktifkan terlebih dahulu untuk membuka Area terakhir."
+    },
+    {
+      "id": 136,
+      "model": "한울",
+      "content": "Perangkat di dalam Area 1 dan 2 sudah pernah diaktifkan sebelumnya, tapi belum ada yang berhasil mengaktifkan yang ada di Area 3."
+    },
+    {
+      "id": 137,
+      "model": "혈귀사냥꾼",
+      "content": "Dimengerti. Jadi kurasa kita sebaiknya langsung menuju Area 3 saja untuk menghemat waktu?"
+    },
+    {
+      "id": 138,
+      "model": "한울",
+      "content": "Tidak. Sepertinya perangkat-perangkat itu ter-reset saat La Manchaland menghilang."
+    },
+    {
+      "id": 139,
+      "model": "알레시오",
+      "content": "Dengan kata lain, kita harus membagi tugas dan menaklukkannya secara terpisah. Berkelompok dengan Fixer lain, pilih satu Area untuk ditangani."
+    },
+    {
+      "id": 140,
+      "model": "로메로",
+      "content": "Hm, begitu rupanya. Berpencar, aktifkan perangkat masing-masing, lalu berkumpul di Area terakhir."
+    },
+    {
+      "id": 141,
+      "model": "로메로",
+      "content": "... dengan asumsi setiap tim berhasil mengaktifkan perangkat yang menjadi tanggung jawab mereka."
+    },
+    {
+      "id": 142,
+      "model": "알레시오",
+      "content": "Benar. Kami menduga kunci untuk menyelesaikan masalah La Manchaland ini terletak di dalam Area terakhirnya."
+    },
+    {
+      "id": 143,
+      "model": "로메로",
+      "content": "Pfft..."
+    },
+    {
+      "id": 144,
+      "model": "한울",
+      "content": "Ada sesuatu yang ingin kau bagikan?"
+    },
+    {
+      "id": 145,
+      "model": "로메로",
+      "content": "Bukankah ini lucu? Bahwa kita harus mengaktifkan semacam perangkat di setiap bagian La Manchaland untuk membuka Area terakhirnya..."
+    },
+    {
+      "id": 146,
+      "model": "로메로",
+      "content": "Ini agak mirip permainan, bukan? Seperti mereka memberikan tahapan untuk dilalui, syarat untuk dipenuhi, bagi siapa pun yang berani menantang kekuatan La Manchaland."
+    },
+    {
+      "id": 147,
+      "model": "혈귀사냥꾼",
+      "content": "Mana kita tahu apa yang dipikirkan para Bloodfiend? Monster-monster itu memang terlahir bengkok."
+    },
+    {
+      "id": 148,
+      "model": "폴라",
+      "content": "Hana, ada yang ingin kami pastikan."
+    },
+    {
+      "id": 149,
+      "model": "폴라",
+      "content": "Zwei Association ada di sini untuk menyelamatkan klien kami, bukan demi hadiah pemusnahan."
+    },
+    {
+      "id": 150,
+      "model": "까미유",
+      "content": "Mm~ Maksudmu Zwei dan Cinq? Jangan lupakan aku~"
+    },
+    {
+      "id": 151,
+      "model": "폴라",
+      "content": "... Karena itu, Zwei dan Cinq tidak punya alasan untuk memasuki ketiga Area demi mengaktifkan perangkat-perangkat itu."
+    },
+    {
+      "id": 152,
+      "model": "한울",
+      "content": "... Kurasa kau bisa mengambil alih dari sini demi keakuratan."
+    },
+    {
+      "id": 153,
+      "model": "알레시오",
+      "content": "Oh, tentu."
+    },
+    {
+      "id": 154,
+      "model": "알레시오",
+      "content": "Baiklah. Aku yakin kalian semua punya alasan masing-masing untuk berada di sini, kan?"
+    },
+    {
+      "id": 155,
+      "model": "알레시오",
+      "content": "Oleh karena itu, kami di P Corp. mendirikan dana dividen pemusnahan, yang berarti kami akan membagikan uang hadiah berdasarkan seberapa besar kontribusi kalian terhadap pemusnahan La Manchaland."
+    },
+    {
+      "id": 156,
+      "model": "로메로",
+      "content": "... Dengan asumsi hasilnya sukses, tentu saja."
+    },
+    {
+      "id": 157,
+      "model": "알레시오",
+      "content": "Kalau tujuan kalian bukan pemusnahan La Manchaland, silakan saja berkeliling sendiri untuk memenuhi kontrak masing-masing. Selama kalian sadar bahwa kalian tidak akan menerima pembayaran apa pun dari dana itu setelah ekspedisi ini berhasil diselesaikan, kalian bebas melakukan apa yang kalian mau."
+    },
+    {
+      "id": 158,
+      "model": "알레시오",
+      "content": "Namun, kami juga ingin meminta kalian menyerahkan salinan kontrak itu agar kami mengetahui rinciannya."
+    },
+    {
+      "id": 159,
+      "model": "폴라",
+      "content": "Dimengerti. Aku akan menyerahkannya begitu pertemuan ini selesai."
+    },
+    {
+      "id": 160,
+      "model": "혈귀사냥꾼",
+      "content": "Ngomong-ngomong, aku mau memanfaatkan kesempatan ini untuk menyatakan sesuatu. Kalau kalian... maksudku kalau ada dari kalian yang berniat menumpang keberhasilan kami buat mencuri lebih banyak hadiah dari yang seharusnya kalian dapat... aku bakal memburu kalian juga. Ngerti?"
+    },
+    {
+      "id": 161,
+      "model": "로메로",
+      "content": "Para hadirin sekalian, aku bisa jamin dia bukan orang yang cuma bisa mengancam kosong. Nggak bisa janji aku bisa menghentikannya, hmm?"
+    },
+    {
+      "id": 162,
+      "model": "싱클레어",
+      "content": "Dia beneran serius, ya..."
+    },
+    {
+      "id": 163,
+      "model": "한울",
+      "content": "... Aku paham banyak uang yang dipertaruhkan dalam kontrak ini. Namun, ingatlah bahwa tujuan utama kita tetap adalah meminimalkan korban dan mencegah menghilangnya orang lebih lanjut. Tinggalkan sedikit keegoisan kalian dan bekerja samalah demi kebaikan bersama."
+    },
+    {
+      "id": 164,
+      "model": "혈귀사냥꾼",
+      "content": "... Baiklah, aku akan bekerja sama. Kalau itu memang mungkin."
+    },
+    {
+      "id": 165,
+      "model": "한울",
+      "content": "……."
+    },
+    {
+      "id": 166,
+      "content": "Fixer Hana itu tidak menyanggahnya."
+    },
+    {
+      "id": 167,
+      "content": "Ia adalah tipe orang yang tak akan ragu menegaskan sikapnya... ia bisa saja dengan mudah memaksa kami untuk bekerja sama. Tapi sepertinya ia tak akan menghentikan kami kalau ternyata berujung pada perselisihan internal."
+    },
+    {
+      "id": 168,
+      "content": "... Don Quixote adalah satu-satunya yang mengangguk dengan penuh semangat mengikuti nasihatnya."
+    },
+    {
+      "id": 169,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Jadi, siapa berpasangan dengan siapa? Dan ke Area mana?"
+    },
+    {
+      "id": 170,
+      "content": "Xichun, adik perempuan Hong Lu yang sedari tadi mendengarkan pengarahan dengan tenang, mengangkat tangannya dengan sebuah pertanyaan."
+    },
+    {
+      "id": 171,
+      "model": "한울",
+      "content": "Kalian akan ditempatkan ke dalam tim dan Area berdasarkan analisis data internal kami tentang kemampuan, potensi, dan keselarasan masing-masing individu."
+    },
+    {
+      "id": 172,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Jadi sebaiknya kita hindari kepadatan berlebih, ya."
+    },
+    {
+      "id": 173,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Seperti membebani kami dengan kelompok berisi selusin orang lebih, misalnya..."
+    },
+    {
+      "id": 174,
+      "model": "한울",
+      "content": "... Kami memang berniat menghindari terlalu banyak orang menumpuk di Area yang sama."
+    },
+    {
+      "id": 175,
+      "model": "로쟈",
+      "content": "Dia sama sekali nggak menyembunyikan kejijikannya, ya?"
+    },
+    {
+      "id": 176,
+      "model": "싱클레어",
+      "content": "Y-yah, b-bukannya kami mau dia ikut juga..."
+    },
+    {
+      "id": 177,
+      "model": "홍루",
+      "content": "……."
+    },
+    {
+      "id": 178,
+      "model": "알레시오",
+      "content": "Kalau tidak ada pertanyaan lain, aku akan menugaskan kalian semua ke pasangan tim dan Area—"
+    },
+    {
+      "id": 179,
+      "model": "돈키호테",
+      "content": "TUNGGGGGU!"
+    },
+    {
+      "id": 180,
+      "content": "Setiap Fixer di ruangan itu langsung menoleh ke arah Don Quixote saat teriakan lantangnya menggema. Mungkin itu karena semangat murni dalam suaranya... atau mungkin, mereka hanya kesal karena ia bertanya 'satu pertanyaan terakhir' itu saat pengarahan yang membosankan itu hampir selesai."
+    },
+    {
+      "id": 181,
+      "model": "이스마엘",
+      "content": "Oh ayolah... jangan bilang ini beneran terjadi."
+    },
+    {
+      "id": 182,
+      "model": "히스클리프",
+      "content": "Ooh. Oi, itu beneran bikin aku bangun kali ini."
+    },
+    {
+      "id": 183,
+      "model": "그레고르",
+      "content": "Nggak, nggak. Ini mungkin waktu terbaik buat balik tidur, bro."
+    },
+    {
+      "id": 184,
+      "model": "오티스",
+      "content": "Kalau di masa lalu, ini pasti berujung eksekusi di tempat..."
+    },
+    {
+      "id": 185,
+      "model": "알레시오",
+      "content": "Baiklah... dan pertanyaannya adalah...?"
+    },
+    {
+      "id": 186,
+      "model": "돈키호테",
+      "content": "Dengarlah, tampaknya informasi yang paling penting hilang dari pengarahanmu."
+    },
+    {
+      "id": 187,
+      "model": "알레시오",
+      "content": "Itu... benarkah...? Um, sebentar, ya."
+    },
+    {
+      "id": 188,
+      "content": "Alessio mulai membolak-balik pengarahannya dengan gugup."
+    },
+    {
+      "id": 189,
+      "model": "돈키호테",
+      "content": "Kapankah operasi penyelamatan bagi para korban taman hiburan mengerikan ini akan dimulai?"
+    },
+    {
+      "id": 190,
+      "model": "돈키호테",
+      "content": "Aku percaya bahwa operasi berskala sebesar itu mungkin sulit dilaksanakan hanya dengan bantuan para Sir dan Lady dari Zwei dan Cinq Association."
+    },
+    {
+      "id": 191,
+      "model": "폴라",
+      "content": "……."
+    },
+    {
+      "id": 192,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Uhh..."
+    },
+    {
+      "id": 193,
+      "model": "까미유",
+      "content": "Hei, itu kayak, karakter yang lagi kamu perankan atau semacamnya?"
+    },
+    {
+      "id": 194,
+      "model": "까미유",
+      "content": "Itu nggak mainstream sama sekali, aku suka. Tapi harus kubilang, main peran gitu agak kuno. Setidaknya aku tahu penontonku nggak bakal suka hal kayak gitu."
+    },
+    {
+      "id": 195,
+      "model": "폴라",
+      "content": "Sepertinya ada kesalahpahaman di sini. Kontrak kami tidak ada hubungannya dengan menyelamatkan para pengunjung, apalagi semuanya. Kontrak kami adalah operasi pencarian-dan-penyelamatan untuk satu pengunjung tertentu yang diminta oleh klien kami."
+    },
+    {
+      "id": 196,
+      "model": "돈키호테",
+      "content": "Kalau begitu..."
+    },
+    {
+      "id": 197,
+      "model": "돈키호테",
+      "content": "... siapakah yang akan menjadi tim penyelamat bagi korban-korban lainnya?"
+    },
+    {
+      "id": 198,
+      "model": "까미유",
+      "content": "Hah, dia serius nggak sih?"
+    },
+    {
+      "id": 199,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "Dari mana munculnya orang-orang bodoh ini?"
+    },
+    {
+      "id": 200,
+      "model": "엑스트라해결사2",
+      "teller": "Amazed Fixer",
+      "title": "???",
+      "content": "Bro, coba aku lihat."
+    },
+    {
+      "id": 201,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 202,
+      "model": "폴라",
+      "content": "Kecuali kau memang secara khusus dikontrak untuk menyelamatkan seseorang, aku sarankan kau membaca-baca selebaran orang hilang untuk mencari hadiahnya."
+    },
+    {
+      "id": 203,
+      "model": "돈키호테",
+      "content": "Namun... bukanlah janji hadiah yang kuinginkan."
+    },
+    {
+      "id": 204,
+      "model": "돈키호테",
+      "content": "Begitu banyak Fixer pemberani berkumpul di sini, namun tak satu pun mengambil peran sebagai penyelamat? Kumohon, Fixer dari Zwei. Bukankah engkau salah satu dari mereka yang menyebut diri mereka \"Perisaimu\"—"
+    },
+    {
+      "id": 205,
+      "model": "까미유",
+      "content": "Ya, mereka memang perisai, kok. Perisai besi bagi siapa pun yang membuat perjanjian kontrak resmi dengan mereka."
+    },
+    {
+      "id": 206,
+      "model": "돈키호테",
+      "content": "Fie, namun seorang Fixer tak boleh mempertaruhkan nyawanya sendiri hanya demi janji modal yang dangkal! Katakanlah padaku, sejak kapan para Fixer Asosiasi meninggalkan kehormatan demi keserakahan?!"
+    },
+    {
+      "id": 207,
+      "model": "까미유",
+      "content": "... Oh, astaga. Oke, cukup main-mainnya. Kau bahkan tahu nggak sih kau lagi ngomong sama siapa—"
+    },
+    {
+      "id": 208,
+      "model": "돈키호테",
+      "content": "Aku sangat tahu, Camille muda dari Cinq Association, Bagian 3. Sering ditampilkan di majalah Fixers Monthly. Saat ini peringkat #7 dalam kontes 'Fixer yang ingin kuajak makan malam'."
+    },
+    {
+      "id": 209,
+      "model": "까미유",
+      "content": "H-hah, jadi kau tahu... tunggu, aku cuma #7?"
+    },
+    {
+      "id": 210,
+      "model": "까미유",
+      "content": "Yah, itu nggak penting sekarang. Kalau kau memang sepaham itu soal para Fixer, aku yakin kau juga tahu yang satu ini."
+    },
+    {
+      "id": 211,
+      "model": "까미유",
+      "content": "Bahwa aku, sebagai Fixer dari Cinq Association, bukan tipe yang buang-buang napas cuma buat omongan. Kalau kami mau menyelesaikan sesuatu atau membuat sebuah pernyataan, kami berduel. Duel resmi sampai mati."
+    },
+    {
+      "id": 212,
+      "model": "돈키호테",
+      "content": "Kalau begitu..."
+    },
+    {
+      "id": 213,
+      "model": "돈키호테",
+      "content": "Maukah engkau mengindahkan kata-kataku bila aku mengalahkanmu dalam sebuah duel?"
+    },
+    {
+      "id": 214,
+      "model": "까미유",
+      "content": "Apa?"
+    },
+    {
+      "id": 215,
+      "model": "돈키호테",
+      "content": "Bila aku mengalahkanmu dalam sebuah duel..."
+    },
+    {
+      "id": 216,
+      "model": "돈키호테",
+      "content": "... maukah engkau bersumpah atas kehormatanmu bahwa engkau akan membantu kami dalam misi penyelamatan kami... bagi mereka yang telah hilang?"
+    },
+    {
+      "id": 217,
+      "model": "까미유",
+      "content": "Tunggu. Kau serius nantang aku buat sebuah..."
+    },
+    {
+      "id": 218,
+      "model": "단테",
+      "content": "<Tidak...>"
+    },
+    {
+      "id": 219,
+      "model": "돈키호테",
+      "content": "Aku, Don Quixote, sama sekali tak akan dengan mudah meninggalkan keyakinanku! Dengan ini kutantang engkau ke sebuah duel!"
+    },
+    {
+      "id": 220,
+      "content": "Segalanya dengan cepat mulai lepas kendali."
+    },
+    {
+      "id": 221,
+      "content": "Hampir panik, aku melirik ke arah Vergilius..."
+    },
+    {
+      "id": 222,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 223,
+      "content": "... tapi aku tidak bisa membaca ekspresinya. Ia hanya menatap kami dalam keheningan yang sulit dipahami itu."
+    },
+    {
+      "id": 224,
+      "content": "... Keheningan yang hampir terasa seperti... kehangatan...?"
+    },
+    {
+      "id": 225,
+      "content": "Entah kenapa, aku malah merasa lebih terintimidasi oleh ini dibanding kemarahan yang terang-terangan."
+    },
+    {
+      "id": 226,
+      "model": "알레시오",
+      "content": "... Baiklah, kalau begitu. Aku akan mengakhiri pengarahan ini di sini."
+    },
+    {
+      "id": 227,
+      "model": "뫼르소",
+      "content": "Dapat disimpulkan dari pengalaman sebelumnya bahwa akan mustahil untuk menghentikan situasi yang sedang berkembang saat ini."
+    },
+    {
+      "id": 228,
+      "model": "뫼르소",
+      "content": "Pupil, melebar. Alis, mengerut dengan sudut tajam. Penolakan yang jelas untuk mengindahkan masukan dari luar. Usaha kita untuk membujuknya tidak akan mendapat respons yang berarti."
+    },
+    {
+      "id": 229,
+      "model": "단테",
+      "content": "<Jadi dia udah kehilangan kendali...>"
+    },
+    {
+      "id": 230,
+      "model": "파우스트",
+      "content": "Aku sengaja tidak menyebutkan ini sebelumnya di lahan kosong tadi, Dante, karena ada terlalu banyak mata yang mengintip..."
+    },
+    {
+      "id": 231,
+      "model": "파우스트",
+      "content": "... Aku sarankan kau tidak memutar jammu saat mata setiap Fixer yang berpartisipasi dalam kasus ini sedang mengawasi kita dengan seksama. Terutama untuk sebuah duel yang manfaatnya sangat sedikit untuk didapatkan."
+    },
+    {
+      "id": 232,
+      "model": "파우스트",
+      "content": "Ini termasuk memanggil Identity dari dunia yang berbeda atau menggunakan E.G.O."
+    },
+    {
+      "id": 233,
+      "model": "단테",
+      "content": "<W-well, ya. Tapi... bukannya kita bakal tetap pakai itu semua begitu kita masuk ke dalam sana, kan? Aku nggak lihat apa yang salah dengan—>"
+    },
+    {
+      "id": 234,
+      "content": "Tepat saat aku berusaha meyakinkan Faust sebaliknya, Don Quixote melangkah masuk dan menggelengkan kepalanya dengan tegas."
+    },
+    {
+      "id": 235,
+      "model": "돈키호테",
+      "content": "Tidak, jangan khawatir. 'Tis alat bantu yang tak diperlukan."
+    },
+    {
+      "id": 236,
+      "model": "단테",
+      "content": "<Apa... serius?!>"
+    },
+    {
+      "id": 237,
+      "model": "돈키호테",
+      "content": "Sebuah duel melawan anggota Cinq Association haruslah adil dan setara! Tak pernah sekali pun aku bermaksud meminjam kekuatanmu, Manajer Esquire, untuk pertarungan suciku ini!"
+    },
+    {
+      "id": 238,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 239,
+      "model": "까미유",
+      "content": "... Baiklah."
+    },
+    {
+      "id": 240,
+      "model": "까미유",
+      "content": "Sayang banget aku nggak punya penggemarku di sini buat nonton aku menghajarmu habis-habisan... Tapi aku yakin ada yang di sini bakal menyebarkan ceritanya dari mulut ke mulut."
+    },
+    {
+      "id": 241,
+      "model": "까미유",
+      "content": "Aku nggak akan lempar sarung tanganku cuma karena kasihan. En garde, petit nouveau!"
+    }
+  ]
+}
