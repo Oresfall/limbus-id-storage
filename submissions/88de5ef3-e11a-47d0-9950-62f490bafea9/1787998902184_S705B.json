@@ -1,0 +1,546 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Jalanan Belakang P Corp. Luar Tenda",
+      "model": "폴라",
+      "teller": "???",
+      "title": "???",
+      "content": "Malu-maluin banget... Lu beneran harus banyak tingkah pakai alat itu pas lagi misi?"
+    },
+    {
+      "id": 1,
+      "model": "까미유카메라",
+      "content": "Wow! Woy chat, liat nih! Kenalin semuanya, ini Paula dari Asosiasi Zwei. Dia bakal jadi asisten gue di misi ini."
+    },
+    {
+      "id": 2,
+      "model": "폴라",
+      "content": "Denger ya, gue bukan asisten lu—"
+    },
+    {
+      "id": 3,
+      "model": "까미유카메라",
+      "content": "Bisa kalian liat dari bajunya, dia ini Fixer dari barat, sama kayak gue."
+    },
+    {
+      "id": 4,
+      "model": "까미유카메라",
+      "content": "Kadang Asosiasi masangin gue sama asisten kayak dia di luar kemauan gue buat beberapa kontrak. Operasi gabungan gitu loh. Hm? Oh iya, bener banget. Gue emang lebih bersinar kalau kerja sendiri~ Tapi mau gimana lagi? Harus nurut apa kata atasan. Ngerti kan~?"
+    },
+    {
+      "id": 5,
+      "model": "까미유카메라",
+      "content": "Yah, mending lu nyapa fans-fans tersayang gue dulu gih, Nona Paula?"
+    },
+    {
+      "id": 6,
+      "model": "폴라",
+      "content": "……."
+    },
+    {
+      "id": 7,
+      "model": "돈키호테",
+      "content": "Oooh...! Kolaborasi Cinq dan Zwei, dua kekuatan hebat bersatu...!"
+    },
+    {
+      "id": 8,
+      "content": "Kayaknya dia mau nangis deh..."
+    },
+    {
+      "id": 9,
+      "model": "돈키호테",
+      "content": "Perasaan apa... yang luar biasa... keren... megah... bikin darah mendidih ini...! Jantungku deg-degan parah, rasanya kayak mau meledak...!"
+    },
+    {
+      "id": 10,
+      "model": "돈키호테",
+      "content": "Tokoh-tokoh hebat yang sebelumnya cuma kulihat lewat rekaman, buku, figurin... sekarang ada di depan mataku langsung...! Ngobrol, jalan-jalan, tepat di depan mataku...!"
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Kamu tau sebagian besar Fixer di sini, Don Quixote?>"
+    },
+    {
+      "id": 12,
+      "model": "돈키호테",
+      "content": "Kalau ada Fixer yang pernah masuk di salah satu majalah langgananku, pastinya tau dong! Heh heh heh."
+    },
+    {
+      "id": 13,
+      "content": "... Bener juga. Kalau gitu... dan kalau semua orang di sini beneran Fixer..."
+    },
+    {
+      "id": 14,
+      "content": "... pasti dia juga tau siapa orang itu, kan? Orang yang daritadi ngeliatin kita dengan tatapan tajam."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Terus... siapa mereka yang di sana? Sekelompok Fixer yang daritadi merhatiin kita.>"
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "Ah, biar kuperhatikan dulu!"
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "Apa reputasi kita udah mendahului kita?! Dikenali cuma dari tatapan doang... Muahaha, ini masalah yang membahagiakan, beneran! Eheh, ini alasan tepat kenapa aku bilang harus nolak dengan sopan fitur spesial di halaman depan koran itu!"
+    },
+    {
+      "id": 18,
+      "model": "돈키호테",
+      "content": "Umm..."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "Uhmmm..."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "Hmm...?"
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "Hm, kayaknya ada sedikit celah di pengetahuanku. Kemungkinan mereka dari Kantor kecil yang baru aja terdaftar. Tapi keliatan jelas dari gaya baju mereka kalau mereka dari timur..."
+    },
+    {
+      "id": 22,
+      "model": "홍루",
+      "content": "Syukurlah."
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "content": "Kebetulan, aku kenal siapa mereka."
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "Waduh?!?! Kamu kenal Fixer yang aku nggak tau? Serius?!"
+    },
+    {
+      "id": 25,
+      "content": "Don Quixote menatap Hong Lu dengan rasa nggak percaya."
+    },
+    {
+      "id": 26,
+      "model": "그레고르",
+      "content": "... Meursault. Ayolah, bro. Jangan diliatin balik."
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "Kita udah saling tatap dari tadi. Nggak ada alasan buat aku buang muka."
+    },
+    {
+      "id": 28,
+      "model": "그레고르",
+      "content": "Bro, itu namanya adu tatap, dan itu nggak sopan. Jadi mending kita—"
+    },
+    {
+      "id": 29,
+      "model": "싱클레어",
+      "content": "Uhh, mereka pada jalan ke arah kita. A-apa kita harus dadah-dadah atau gimana?"
+    },
+    {
+      "id": 30,
+      "model": "그레고르",
+      "content": "Sialan. Kalau gitu, uh... iya, kita tatap balik aja. Seenggaknya jangan keliatan kayak kita takut sama mereka. Ya. Pede aja pede."
+    },
+    {
+      "id": 31,
+      "model": "단테",
+      "content": "<Kalian tau kan mereka ada di jarak pendengaran...?>"
+    },
+    {
+      "id": 32,
+      "model": "싱클레어",
+      "content": "Yap, mereka bener-bener ada di depan kita..."
+    },
+    {
+      "id": 33,
+      "model": "히스클리프",
+      "content": "Anjing, jangan buang muka, bocah! Pelototin balik, kita nggak mau kecolongan kalau tiba-tiba harus baku hantam. Woy, cewek! Lu ada urusan sama kita atau gimana?"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Hah? Ngapain lu senyum-senyum gitu?"
+    },
+    {
+      "id": 35,
+      "model": "홍루",
+      "content": "Ha ha, aku nggak nyangka bakal ngenalin dia ke kalian secepat ini..."
+    },
+    {
+      "id": 36,
+      "model": "홍루",
+      "content": "Tolong sapa..."
+    },
+    {
+      "id": 37,
+      "model": "홍루",
+      "content": "... adik perempuanku, Jia Xichun."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<Adik perempuan?>"
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Adik perempuan?"
+    },
+    {
+      "id": 40,
+      "model": "홍루",
+      "content": "Aku hampir nggak ngenalin kamu. Seingatku, terakhir ketemu tinggimu baru selututku."
+    },
+    {
+      "id": 41,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Itu karena gue masih kecil pas terakhir kali lu liat gue."
+    },
+    {
+      "id": 42,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Padahal gue mikir hal gila apa yang lagi lu siapin sejak lu cabut dari rumah..."
+    },
+    {
+      "id": 43,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Cuma ini? Cuma segini doang faksi yang berhasil lu bangun?"
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "Ha ha, mereka bukan 'faksi' ku, Xichun. Ayolah, biar kukenalkan ke mereka. Mulai dari sini: ini Pak Gregor. Sapa dong~"
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "Y-yo..."
+    },
+    {
+      "id": 46,
+      "model": "로쟈",
+      "content": "Pfft, jangan malu-malu! Namaku Ro—"
+    },
+    {
+      "id": 47,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Bodo amat. Gue nggak ada waktu buat ginian."
+    },
+    {
+      "id": 48,
+      "content": "Jia Xichun melirik kami dengan sinis sebelum memotong omongan kami dengan cuek."
+    },
+    {
+      "id": 49,
+      "model": "그레고르",
+      "content": "Yah..."
+    },
+    {
+      "id": 50,
+      "model": "홍루",
+      "content": "... Oke. Oh! Hei, kamu nggak cuma tambah tinggi, Xichun..."
+    },
+    {
+      "id": 51,
+      "model": "홍루",
+      "content": "... Aku liat lingkaran pertemananmu juga nambah, sama kayak aku. Mereka anak baru?"
+    },
+    {
+      "id": 52,
+      "content": "Nyebut mereka 'temen' tuh penilaian yang terlalu optimis dari pihak Hong Lu."
+    },
+    {
+      "id": 53,
+      "content": "Soalnya..."
+    },
+    {
+      "id": 54,
+      "content": "Orang-orang yang nemenin Jia Xichun semuanya ngeliatin kami dengan tatapan ngancem, kayak lagi siap-siap mau berantem."
+    },
+    {
+      "id": 55,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Lu nggak beneran mikir mereka 'temen' gue, kan?"
+    },
+    {
+      "id": 56,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Lagian gue masih jauh tertinggal dibanding kakak-kakak gue."
+    },
+    {
+      "id": 57,
+      "model": "홍루",
+      "content": "... Mhm, paham."
+    },
+    {
+      "id": 58,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Lu tau nggak sih kalau beberapa dari kami masih di luar sana, nyariin lu?"
+    },
+    {
+      "id": 59,
+      "model": "홍루",
+      "content": "Tau kok. Oh, ngomong-ngomong soal itu... Aku tadi ketemu Jia Huan dan sempat ngobrol sebentar sama dia."
+    },
+    {
+      "id": 60,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Hah, dan lu masih utuh abis ketemu sama bajingan itu? Masih hoki kayak biasanya, ya?"
+    },
+    {
+      "id": 61,
+      "content": "Aku jadi inget waktu pertama kali kita ketemu sama... Jia Huan ini."
+    },
+    {
+      "id": 62,
+      "content": "Omongannya yang berbisa. Tatapan meremehkannya waktu ngeliat kita yang lagi sekarat. Kayaknya momen itu diperindah jadi 'ngobrol sebentar' yang menyenangkan di ingatan Hong Lu."
+    },
+    {
+      "id": 63,
+      "content": "... Atau mungkin, interaksi kayak gitu emang masuk hitungan 'ngobrol sebentar' buat Hong Lu."
+    },
+    {
+      "id": 64,
+      "model": "홍루",
+      "content": "Xichun, aku denger-denger tempat ini lumayan bahaya. Banyak orang hilang di sekitar sini. Kenapa kamu dan temen-temenmu nggak cari tempat aman aja buat ngungsi?"
+    },
+    {
+      "id": 65,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Ha ha ha... Gue masih nggak bisa bedain lu lagi ngelawak atau beneran khawatir sama gue."
+    },
+    {
+      "id": 66,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Denger ya, kakakku yang naif. Gue nyampe sini duluan, oke? Lebih awal dari lu dan 'faksi' lu... maksudnya, kacung-kacung lu yang kelas dua itu."
+    },
+    {
+      "id": 67,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Lu ngerti nggak sih? Gue di sini buat ikut bagian dalam pembasmian La Manchaland. Gue yakin intel gue soal tempat ini lebih bagus dari lu."
+    },
+    {
+      "id": 68,
+      "model": "홍루",
+      "content": "Oh ya...? Tapi kenapa kamu ikut-ikutan hal kayak gini? Kamu nggak butuh uang hadiahnya, kan?"
+    },
+    {
+      "id": 69,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Ya, nggak usah dibilang. Dan gue juga ragu lu ikut ginian cuma buat nyari duit jajan."
+    },
+    {
+      "id": 70,
+      "model": "로쟈",
+      "content": "Duit jajan, ya... Yaudah lah, terserah. 'Duit jajan'..."
+    },
+    {
+      "id": 71,
+      "model": "홍루",
+      "content": "Oh, kalau gitu apa... Ah, nggak jadi. Kayaknya kamu atau Pak Wei juga nggak bakal jawab pertanyaan itu."
+    },
+    {
+      "id": 72,
+      "content": "Mata Hong Lu sejenak beralih dari adik perempuannya ke kelompoknya."
+    },
+    {
+      "id": 73,
+      "content": "Di sana berdiri cowok berambut panjang, yang ngeliat ke arah Jia Xichun seolah minta izin darinya, terus..."
+    },
+    {
+      "id": 74,
+      "content": "... jalan ke arah kami dan ngebungkuk dalam-dalam dan sopan ke arah Hong Lu."
+    },
+    {
+      "id": 75,
+      "model": "웨이",
+      "title": "???",
+      "content": "... Sudah lama tidak berjumpa, Tuan Muda."
+    },
+    {
+      "id": 76,
+      "model": "홍루",
+      "content": "Wow~ Udah lama banget ya, Pak Wei! Masih ngawal Xichun rupanya?"
+    },
+    {
+      "id": 77,
+      "model": "웨이",
+      "title": "???",
+      "content": "Benar, saya masih melayaninya, meskipun saya banyak kekurangan."
+    },
+    {
+      "id": 78,
+      "model": "홍루",
+      "content": "Hm... Aku khawatir di dalem sana bakal terlalu bahaya..."
+    },
+    {
+      "id": 79,
+      "model": "홍루",
+      "content": "Aha! Kenapa kamu nggak ikut bareng kita aja, Xichun? Kita lakuin ini bareng-bareng."
+    },
+    {
+      "id": 80,
+      "model": "웨이",
+      "title": "???",
+      "content": "Tuan Muda... Saya lihat Anda masih belum berubah."
+    },
+    {
+      "id": 81,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Lupain aja. Kenapa lu nggak urus urusan lu sendiri, dan kita jalan masing-masing?"
+    },
+    {
+      "id": 82,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Gue bisa liat kalau lu sama temen-temen lu punya bakat asli buat narik perhatian... tapi gue lebih suka main bersih dan nggak mencolok."
+    },
+    {
+      "id": 83,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Dan gue bakal lebih suka kalau lu nggak bikin gue malu di dalem sana dengan ngajak gue ngobrol atau apalah."
+    },
+    {
+      "id": 84,
+      "model": "홍루",
+      "content": "Oke. Kalau itu... maumu, Xichun."
+    },
+    {
+      "id": 85,
+      "model": "가시춘",
+      "title": "???",
+      "content": "... Gue kira lu bakal jadi lebih baik setelah sekian lama, Kak. Setidaknya lebih baik dari terakhir kali kita ketemu."
+    },
+    {
+      "id": 86,
+      "model": "홍루",
+      "content": "Begitu ya. Kurasa di matamu aku nggak ada kemajuan sama sekali."
+    },
+    {
+      "id": 87,
+      "model": "가시춘",
+      "title": "???",
+      "content": "Lu harusnya bersyukur yang lu temuin itu gue. Kalau aja yang ketemu lu itu salah satu kakak kita yang lain, kepala lu yang sok cakep itu udah menggelinding di tanah."
+    },
+    {
+      "id": 88,
+      "model": "홍루",
+      "content": "Mmhm, makasih. Aku menghargai itu."
+    },
+    {
+      "id": 89,
+      "model": "가시춘",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 90,
+      "content": "Jia Xichun cemberut dan buka mulut seolah mau bales omongan... tapi dia ngerasa itu bukan ide bagus, jadi dia balik badan dan pergi bareng kelompoknya."
+    },
+    {
+      "id": 91,
+      "model": "그레고르",
+      "content": "Yah... Katanya emang lebih jarang ngeliat keluarga bahagia daripada keluarga yang berantakan."
+    },
+    {
+      "id": 92,
+      "model": "히스클리프",
+      "content": "... Jangan liat ke gue. Gue nggak pernah nganggep anjing itu keluarga gue."
+    },
+    {
+      "id": 93,
+      "model": "그레고르",
+      "content": "B-bukan. Bro, bukan itu maksud gue—"
+    },
+    {
+      "id": 94,
+      "model": "료슈",
+      "content": "Ngapain lu liat-liat? Lu ngarep gue bakal ngebelain lu atau gimana?"
+    },
+    {
+      "id": 95,
+      "model": "그레고르",
+      "content": "Aduh, ampun..."
+    },
+    {
+      "id": 96,
+      "model": "홍루",
+      "content": "Bener-bener kayak dulu."
+    },
+    {
+      "id": 97,
+      "model": "로쟈",
+      "content": "Hah, jadi dia emang dari dulu sejahat itu?"
+    },
+    {
+      "id": 98,
+      "model": "홍루",
+      "content": "Jahat? Nggak, nggak. Xichun itu dari dulu, dan masih sampai sekarang, saudaraku yang paling ramah."
+    },
+    {
+      "id": 99,
+      "model": "이상",
+      "content": "Mmm... Aku harus nanya, karena kurasa aku mungkin salah denger. 'Masih sampai sekarang', ya?"
+    },
+    {
+      "id": 100,
+      "model": "홍루",
+      "content": "Iya."
+    },
+    {
+      "id": 101,
+      "model": "이상",
+      "content": "Hmmh... Itu tadi...? Mmm."
+    },
+    {
+      "id": 102,
+      "content": "Ekspresi Yi Sang berubah jadi campur aduk saat dia nunduk ke tanah, nggak bisa ngomong apa-apa lagi."
+    },
+    {
+      "id": 103,
+      "model": "싱클레어",
+      "content": "Uh... kayaknya mereka lagi ngadain rapat semacam itu di dalem sana."
+    },
+    {
+      "id": 104,
+      "model": "싱클레어",
+      "content": "Kita kayaknya harus gabung sama mereka."
+    },
+    {
+      "id": 105,
+      "content": "Aku liat ke arah yang ditunjuk Sinclair, dan liat antrean Fixer masuk ke tempat yang kelihatannya kayak tenda komando darurat."
+    },
+    {
+      "id": 106,
+      "model": "단테",
+      "content": "<... Iya, kita harus ke sana.>"
+    }
+  ]
+}
