@@ -1,0 +1,326 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Para Fixer mulai berkumpul satu per satu di lokasi..."
+    },
+    {
+      "id": 1,
+      "place": "La Manchaland Front Gates",
+      "model": "알레시오",
+      "content": "La Manchaland mulai bermanifestasi."
+    },
+    {
+      "id": 2,
+      "model": "알레시오",
+      "content": "Sejak musik mulai diputar, yang tercatat pada pukul 16:12 hari ini, La Manchaland akan terbuka hingga pukul 22:12."
+    },
+    {
+      "id": 3,
+      "place": -1,
+      "content": "<color=#84a79d>Bahkan di saat kamu merasa ingin menyerah pada dirimu sendiri...</color>"
+    },
+    {
+      "id": 4,
+      "content": "<color=#84a79d>Aku janji.</color>"
+    },
+    {
+      "id": 5,
+      "content": "<color=#8cc4e1>Cuma itu?</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#8cc4e1>Lalu, bagaimana kamu akan... terus hidup?</color>"
+    },
+    {
+      "id": 7,
+      "content": "<color=#ffef23>Terima kasih... atas semuanya.</color>"
+    },
+    {
+      "id": 8,
+      "content": "<color=#ffef23>Jangan lupakan majalah-majalah Fixer itu.</color>"
+    },
+    {
+      "id": 9,
+      "content": "<color=#ffef23>Kumohon, tolong! Aku tidak mau bertualang, hentikan! Kumohon!</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#cc2424>Aku telah memikirkan sebuah ide yang paling jenius.</color>"
+    },
+    {
+      "id": 11,
+      "place": "La Manchaland Front Gates",
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 12,
+      "content": "Ini... fenomena yang sama seperti yang kualami di Great Lake waktu itu."
+    },
+    {
+      "id": 13,
+      "content": "Tapi ingatan-ingatan ini... jauh lebih terpecah. Buram."
+    },
+    {
+      "id": 14,
+      "content": "Sekilas bayangan Don Quixote yang kulihat... sama sekali tidak seperti orang yang kukenal. Tapi..."
+    },
+    {
+      "id": 15,
+      "content": "... haruskah aku mengikuti perjalanan ini sampai akhir..."
+    },
+    {
+      "id": 16,
+      "place": "Backstreets of P Corp., an Empty Lot",
+      "model": "베르길리우스",
+      "content": "Apa yang akan terjadi dengan Sinner ketiga kita? ... Sebagai contoh."
+    },
+    {
+      "id": 17,
+      "place": "La Manchaland Front Gates",
+      "content": "... aku akan mengerti apa arti dari semua sekilas ingatan ini, seperti yang selalu kulakukan."
+    },
+    {
+      "id": 18,
+      "content": "Dan kami pun melangkah menuju La Manchaland."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "La Manchaland... tempat ini... lumayan serem juga ya."
+    },
+    {
+      "id": 20,
+      "model": "료슈",
+      "content": "Gue nyium bau darah."
+    },
+    {
+      "id": 21,
+      "model": "폴라",
+      "content": "Kita sedang menghadapi fenomena yang telah menelan puluhan Fixer. jadi Jangan lengah sedikit pun."
+    },
+    {
+      "id": 22,
+      "model": "혈귀사냥꾼",
+      "content": "Nah, itu mereka dateng, monster-monster Bloodfiend sialan..."
+    },
+    {
+      "id": 23,
+      "model": "엑스트라해결사1",
+      "teller": "Muttering Fixer",
+      "title": "???",
+      "content": "W-wih. Liat, ada yang selamat!"
+    },
+    {
+      "id": 24,
+      "model": "까미유",
+      "content": "Sialan... Gue beneran bisa mecahin rekor viewer gue pake shot dramatis kayak gini."
+    },
+    {
+      "id": 25,
+      "model": "폴라",
+      "content": "... Ada senjata di tangan mereka. Mereka bukan warga sipil."
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "Manajer Eksekutif. Bukankah ada yang janggal dengan beberapa pakaian mereka? Kostum kuno yang salah zaman itu... cukup aneh untuk masa kini."
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "Saya telah mengidentifikasi beberapa individu mengenakan pakaian yang sulit dipakai tanpa bantuan."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "Artinya mungkin ada orang di dalam sana yang maksa mereka ganti baju."
+    },
+    {
+      "id": 29,
+      "content": "Saat gumaman di antara para Fixer mulai membesar, perlahan semakin ramai, Alessio berteriak dari belakang batas menyuruh kami berhenti."
+    },
+    {
+      "id": 30,
+      "model": "알레시오",
+      "content": "Tahan! Jangan mendekati La Manchaland dulu. Kita harus membiarkannya membuang limbahnya pada sepuluh menit pertama pasca-manifestasi. Berdirilah di belakang garis demi keamanan."
+    },
+    {
+      "id": 31,
+      "teller": "Amazed Fixer",
+      "title": "???",
+      "content": "Siapa... siapa mereka? Dari Kantor mana tuh?"
+    },
+    {
+      "id": 32,
+      "teller": "Murmuring Fixer",
+      "title": "???",
+      "content": "Mereka Fixer Asosiasi kah?"
+    },
+    {
+      "id": 33,
+      "content": "Suasana menjadi heboh saat para Fixer mencoba menebak siapa mereka."
+    },
+    {
+      "id": 34,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "... Mereka semua..."
+    },
+    {
+      "id": 35,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "... Mereka semua dari Kantor Firefist! Gue ngenalin baju mereka, mereka dari Kantor kita!"
+    },
+    {
+      "id": 36,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "Haha! Udah gue bilang kan, woy! Udah gue bilang! Udah gue bilang bos-bos cewek kita bakal selamat!"
+    },
+    {
+      "id": 37,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "Sekalipun kita gagal nyelesain kontrak pembasmian, kalo mereka bisa ngasih kesaksian lima belas menit dan ngasih tau intel apa yang mereka dapet... kita bakal ngeraup duit hadiah kontribusi..."
+    },
+    {
+      "id": 38,
+      "model": "알레시오",
+      "content": "Seperti yang saya bilang, tolong tahan setidaknya sepuluh menit sampai mereka selesai mengeluarkan—"
+    },
+    {
+      "id": 39,
+      "content": "Seorang Fixer mengabaikan peringatan Alessio dan bergegas maju untuk menyambut orang yang selamat itu serta membantunya berdiri."
+    },
+    {
+      "id": 40,
+      "model": "불주먹",
+      "content": "Kak, Kakak...!"
+    },
+    {
+      "id": 41,
+      "model": "피주머니",
+      "teller": "Survivor?",
+      "title": "Firefist Office",
+      "content": "La.... la..."
+    },
+    {
+      "id": 42,
+      "model": "알레시오",
+      "content": "……."
+    },
+    {
+      "id": 43,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "Kita berhasil, bos! Kita berhasil... akhirnya kita bisa cabut dari kantor semi-basement jamuran itu dan nyari tempat yang ada sinar mataharinya."
+    },
+    {
+      "id": 44,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "Inget gak gimana mereka semua ngeremehin kita? Ayo, buruan. Kita ikut wawancara, dapet duit, bikin nama kita terkenal..."
+    },
+    {
+      "id": 45,
+      "model": "혈귀사냥꾼",
+      "content": "Hah. Apanya yang selamat, tai anjing."
+    },
+    {
+      "id": 46,
+      "model": "로메로",
+      "content": "……."
+    },
+    {
+      "id": 47,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "Jadi tahan dikit lagi ya, oke?"
+    },
+    {
+      "id": 48,
+      "model": "피주머니",
+      "teller": "Survivor?",
+      "title": "Firefist Office",
+      "content": "Laaaahhh..."
+    },
+    {
+      "id": 49,
+      "model": "피주머니",
+      "teller": "Survivor?",
+      "title": "Firefist Office",
+      "content": "La... La... Manchaland... mekarkan senyummu... dengan kebahagiaan... La Manchaland, mari kita semua... bermimpi bebas di sini... Kami harap kunjunganmu..."
+    },
+    {
+      "id": 50,
+      "model": "피주머니",
+      "teller": "Survivor?",
+      "title": "Firefist Office",
+      "content": "... jauh-jauh dari sini...!"
+    },
+    {
+      "id": 51,
+      "model": "불주먹",
+      "teller": "Delighted Fixer",
+      "title": "Firefist Office",
+      "content": "Guh— Hurk—"
+    },
+    {
+      "id": 52,
+      "model": "로메로",
+      "content": "... Bloodbag di gerbang. Mereka kemungkinan besar diubah sesaat sebelum mereka kabur."
+    },
+    {
+      "id": 53,
+      "model": "혈귀사냥꾼",
+      "content": "Digigit sama kroco, keliatan dari seberapa cepet dia berubah. Makin tinggi tingkatan darahnya, makin cepet juga perubahannya. Beberapa Bloodfiend kuat bisa ngubah korbannya sesuka hati mereka atau ngatur waktunya kapan."
+    },
+    {
+      "id": 54,
+      "model": "로쟈",
+      "content": "Woy... kalian kayaknya pada jago nih di sini. Ada tips pro gak buat kroco-kroco baru kayak kita?"
+    },
+    {
+      "id": 55,
+      "model": "로메로",
+      "content": "Hm, tips pro? ... Ah, aku ada satu."
+    },
+    {
+      "id": 56,
+      "model": "로메로",
+      "content": "Terimalah kematianmu dengan lapang dada kalau kamu memang tidak sanggup."
+    },
+    {
+      "id": 57,
+      "model": "로메로",
+      "content": "Diubah menjadi Bloodbag milik Bloodfiend itu tidak ada bedanya dengan mati, asal kamu tahu."
+    },
+    {
+      "id": 58,
+      "model": "싱클레어",
+      "content": "Um..."
+    },
+    {
+      "id": 59,
+      "model": "홍루",
+      "content": "Itu sih mudah. Aku selalu siap untuk menerima itu."
+    },
+    {
+      "id": 60,
+      "model": "피주머니",
+      "teller": "Bloodbag",
+      "title": "La Manchaland",
+      "content": "Keeagggh!"
+    }
+  ]
+}
