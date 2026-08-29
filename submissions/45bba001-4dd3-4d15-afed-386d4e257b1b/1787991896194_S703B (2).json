@@ -1,0 +1,326 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Backstreets of P Corp., Outside the Tent",
+      "content": "Arahan dari Cesara membawa kami ke sebuah lahan kosong di Backstreets."
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "... Apa-apaan ini sekarang?"
+    },
+    {
+      "id": 2,
+      "model": "히스클리프",
+      "content": "Ini bukan seperti gang-gang sempit Backstreets yang aku kenal. Ngapain ada lahan kosong seluas ini di sini?"
+    },
+    {
+      "id": 3,
+      "model": "로쟈",
+      "content": "Iya kan? Aneh, jarang-jarang lihat lahan seluas ini dibiarkan kosong di Backstreets."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Ada juga banyak spanduk tergantung di gedung-gedung, entah kenapa."
+    },
+    {
+      "id": 5,
+      "model": "베르길리우스",
+      "content": "Nona Faust dan aku akan berbicara dengan penanggung jawabnya. Sisanya, nilai situasinya sementara ini."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "Jangan sampai bikin mas..."
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "... Jangan bikin terlalu banyak masalah sampai kami kembali."
+    },
+    {
+      "id": 8,
+      "model": "돈키호테",
+      "content": "Percayalah kepada kami!"
+    },
+    {
+      "id": 9,
+      "content": "... Ia sudah menyerah pada harapan tipis bahwa kami tidak akan terlibat masalah tanpa dirinya."
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "Baiklah, mari kita lihat kita berurusan dengan apa di sini..."
+    },
+    {
+      "id": 11,
+      "content": "Lahan kosong itu dikelilingi berbagai macam papan peringatan dan pita pembatas, mencegah siapa pun untuk sembarangan masuk ke dalamnya..."
+    },
+    {
+      "id": 12,
+      "content": "... Dan saat kami hendak meraih pita-pita itu untuk merunduk di bawahnya..."
+    },
+    {
+      "id": 13,
+      "model": "휴고",
+      "teller": "???",
+      "title": "???",
+      "content": "Woy, bro! Bro!!!"
+    },
+    {
+      "id": 14,
+      "content": "... sebuah suara menggema, menghentikan langkah kami."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Ya? ... Maksudnya, apa?"
+    },
+    {
+      "id": 16,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Baiklah, aku akan bersikap baik karena sepertinya kalian nggak tahu tempat apa yang baru saja kalian masuki. Tempat ini terlarang, ngerti? Terlarang!"
+    },
+    {
+      "id": 17,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Cuma buat para Fixer, kayak aku dan yang lain-lainnya yang berkumpul di sini, paham? F-I-X-E-R. Warga sipil nggak boleh masuk ke area operasi! Astaga, orang-orang P Corp. ini ceroboh banget soal pengamanan area."
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "Tunggu, kenapa kau melihat ke arahku waktu bilang itu? Kenapa—"
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "Ooh, engkau mengkhawatirkan keselamatan kami? Jangan khawatir, kawan baik! Jangan khawatir!"
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "Kami memang bukanlah Fixer, namun hati pemberani penuh keadilan yang berkobar di dalam dirimu sama terangnya di dalam diri kami! Sesungguhnya, kami pun siap menantang maut untuk menyaksikannya!"
+    },
+    {
+      "id": 21,
+      "content": "Don Quixote dengan percaya diri melompati pita peringatan itu dan berlari kecil masuk ke lahan kosong tersebut."
+    },
+    {
+      "id": 22,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "H-hei...! Kau tahu nggak sih kau baru saja masuk ke mana—"
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "Dengarlah! Kami datang ke sini dengan sebuah kontrak, sama sepertimu! Kontrak untuk memusnahkan La Manchaland!"
+    },
+    {
+      "id": 24,
+      "model": "해결사들",
+      "teller": "Crowd of Fixers",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 25,
+      "content": "Aku hampir bisa mendengar semua orang di lahan kosong itu berbalik menatap kami."
+    },
+    {
+      "id": 26,
+      "content": "Tatapan mata mereka hampir tidak bisa disebut ramah; kewaspadaan mereka atas kedatangan kami begitu terasa."
+    },
+    {
+      "id": 27,
+      "content": "Saat itulah salah satu Fixer, yang membawa senjata raksasa, melangkah ke arah kami."
+    },
+    {
+      "id": 28,
+      "model": "혈귀사냥꾼",
+      "teller": "Intimidating Fixer",
+      "title": "???",
+      "content": "Kalian di sini untuk berburu? Bocah-bocah kayak kalian?"
+    },
+    {
+      "id": 29,
+      "model": "휴고",
+      "teller": "Overdramatic Fixer",
+      "title": "???",
+      "content": "Uh... eh... Oh, astaga! Bodohnya aku, aku lupa merawat senjataku. Aku nggak punya waktu buat ini! Kayaknya, eh, aku bakal urus itu dulu sekarang! Dadah!"
+    },
+    {
+      "id": 30,
+      "content": "Pria menyebalkan itu, yang jelas-jelas sudah terlalu jauh terlibat, buru-buru kabur begitu si Fixer raksasa itu melangkah masuk ke percakapan..."
+    },
+    {
+      "id": 31,
+      "content": "... dan para Fixer lain menggelengkan kepala seolah sudah tahu apa yang akan terjadi."
+    },
+    {
+      "id": 32,
+      "model": "혈귀사냥꾼",
+      "teller": "Intimidating Fixer",
+      "title": "???",
+      "content": "Kalian jelas bukan Fixer dari sebuah Asosiasi, jelas juga bukan siapa-siapa dari Office yang bahkan punya sedikit nama..."
+    },
+    {
+      "id": 33,
+      "model": "혈귀사냥꾼",
+      "teller": "Intimidating Fixer",
+      "title": "???",
+      "content": "Sudah berapa banyak lagi benalu kelas teri seperti ini yang harus kita tampung? Kalau kita terima lebih banyak lagi dari mereka, kita bakal berakhir harus membagi satu Ahn dari hadiah itu di antara kita semua."
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "... Kita udah bikin bajingan-bajingan ini pengen berantem duluan, ya?"
+    },
+    {
+      "id": 35,
+      "model": "돈키호테",
+      "content": "Lambang di pakaian mereka dengan jelas bertuliskan \"Fanghunt Office\", namun... memburu taring pasti berarti..."
+    },
+    {
+      "id": 36,
+      "model": "혈귀사냥꾼",
+      "teller": "Intimidating Fixer",
+      "content": "Kalian bahkan pernah lihat salah satu dari mereka langsung?"
+    },
+    {
+      "id": 37,
+      "model": "돈키호테",
+      "content": "Kumohon, melihat apa?"
+    },
+    {
+      "id": 38,
+      "model": "혈귀사냥꾼",
+      "teller": "Intimidating Fixer",
+      "content": "Bloodfiend."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Bloodfiend? Tunggu, kita akan berurusan dengan Bloodfiend dalam kontrak ini?"
+    },
+    {
+      "id": 40,
+      "model": "뫼르소",
+      "content": "Kita tidak diberi tahu soal keterlibatan Bloodfiend dalam kontrak ini."
+    },
+    {
+      "id": 41,
+      "model": "혈귀사냥꾼",
+      "teller": "Intimidating Fixer",
+      "content": "Coba lihat itu. Amatiran yang tidak tahu apa-apa, semuanya."
+    },
+    {
+      "id": 42,
+      "model": "혈귀사냥꾼",
+      "teller": "Intimidating Fixer",
+      "content": "Bikin darahku mendidih melihat orang-orang bodoh sepertimu buru-buru mengambil kontrak cuma demi janji uang dan ketenaran. Kalian nggak cuma menghalangi perburuan, tapi juga merusak keseruan dari kegiatan ini."
+    },
+    {
+      "id": 43,
+      "model": "로쟈",
+      "content": "Hah, apa? Apa salahnya fokus sama uang?"
+    },
+    {
+      "id": 44,
+      "model": "싱클레어",
+      "content": "Rodya, kurasa mereka nggak cuma di sini demi hadiah kontraknya..."
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Hm, benar. Kasus ini sepertinya punya arti khusus bagi mereka. Orang bodoh yang digerakkan oleh keyakinan jauh lebih merepotkan ditangani daripada orang dungu yang digerakkan oleh uang."
+    },
+    {
+      "id": 46,
+      "model": "혈귀사냥꾼",
+      "content": "Aku menolak untuk ikut dalam operasi bersama orang-orang bodoh yang bahkan tidak tahu rasanya berurusan dengan Bloodfiend."
+    },
+    {
+      "id": 47,
+      "model": "료슈",
+      "content": "T.M.M.D. (Tutup Mulutmu, Dasar...)"
+    },
+    {
+      "id": 48,
+      "model": "혈귀사냥꾼",
+      "content": "Meski aku lebih memilih untuk tidak meladeni kalian para amatiran, kuakui rasa penasaranku menang. Apa yang barusan dia katakan padaku?"
+    },
+    {
+      "id": 49,
+      "model": "싱클레어",
+      "content": "Tutup mulutmu, dasar bajingan songong—!"
+    },
+    {
+      "id": 50,
+      "model": "료슈",
+      "content": "... Yang tadi itu \"Tutup mulut jelekmu itu, jelek\"."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "Oh...!"
+    },
+    {
+      "id": 52,
+      "model": "홍루",
+      "content": "Sepertinya sedikit perasaan pribadimu ikut merembes ke dalam terjemahan itu~"
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "Tapi versimu tadi juga nggak buruk-buruk amat. Heh."
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "A-ngomong-ngomong! Ini bukan kontrak Bloodfiend pertama kami, tahu? Mungkin nggak banyak, tapi kami sudah pernah menangani mereka! K-kami nggak pantas diremehkan olehmu seperti itu! Nggak seorang pun dari kami!"
+    },
+    {
+      "id": 55,
+      "model": "싱클레어",
+      "content": "……."
+    },
+    {
+      "id": 56,
+      "model": "싱클레어",
+      "content": "... Setidaknya kalau soal bertarung..."
+    },
+    {
+      "id": 57,
+      "model": "로쟈",
+      "content": "Balasan yang bagus, tapi kupotong beberapa poin karena keraguan itu tadi..."
+    },
+    {
+      "id": 58,
+      "model": "혈귀사냥꾼",
+      "content": "Jadi ini bukan pertama kalinya buat kalian, ya? Kalau begitu tunjukkan apa kemampuan kalian. Mari kita lihat apakah kalian cuma omong doang atau kalian 'pemburu sejati' yang siap menghadapi yang sesungguhnya."
+    },
+    {
+      "id": 59,
+      "model": "히스클리프",
+      "content": "Apa— Haah... Kawan, kita bener-bener bakal lakuin ini? Di sini? Sebelum kita bahkan menginjakkan kaki ke dalam sana? Aku bilang ya, kita punya izin dan semuanya!"
+    },
+    {
+      "id": 60,
+      "model": "혈귀사냥꾼",
+      "content": "Jangan cengeng. Aku bakal nyakitin kamu secukupnya buat bikin kamu pulang sambil nangis. Satu lengan dan satu kaki patah cukup buat meyakinkanmu?"
+    },
+    {
+      "id": 61,
+      "model": "혈귀사냥꾼",
+      "content": "Kalian bakal berterima kasih ke kami waktu naik kereta pulang. Kubilang, satu lengan dan satu kaki jauh lebih bisa diterima ketimbang darah kalian terkuras habis-habisan oleh Bloodfiend."
+    }
+  ]
+}
