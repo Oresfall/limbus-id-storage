@@ -1,0 +1,237 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Backstreets of P Corp., Outside the Tent",
+      "model": "혈귀사냥꾼",
+      "teller": "Bloodfiend Hunter",
+      "title": "Fanghunt Office",
+      "content": "Transformasi kalian... harus kuakui, aku belum pernah melihat yang seperti itu sebelumnya."
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Udah cukup demonstrasinya buat kamu, dasar tolol?"
+    },
+    {
+      "id": 2,
+      "model": "혈귀사냥꾼",
+      "teller": "Bloodfiend Hunter",
+      "title": "Fanghunt Office",
+      "content": "... Baiklah. Kuakui, kalian punya kemampuan."
+    },
+    {
+      "id": 3,
+      "model": "로메로",
+      "teller": "???",
+      "title": "???",
+      "content": "Ooh, mereka nggak buruk-buruk amat! Kami selalu menyambut kerja sama dengan sesama Fixer yang bisa menarik beban mereka sendiri."
+    },
+    {
+      "id": 4,
+      "model": "로메로",
+      "content": "Hei, aku kenal kalian. Aku lihat kalian lagi ngobrol asyik di peron kereta WARP tadi. Namaku Romero, ngomong-ngomong."
+    },
+    {
+      "id": 5,
+      "model": "오티스",
+      "content": "Kau cuma duduk di sana dan menonton saat anak buahmu bertarung di luar sini?"
+    },
+    {
+      "id": 6,
+      "model": "로메로",
+      "content": "Ya, tapi pertarungannya udah berlangsung waktu aku sampai. Dan aku ragu aku bisa membujuk mereka untuk berhenti. Lagipula, aku punya firasat kalian bisa mengimbangi anak buahku."
+    },
+    {
+      "id": 7,
+      "model": "로메로",
+      "content": "Jadi izinkan aku meminta pengertian kalian. Mereka bukan orang jahat; mereka cuma lagi tegang. Siapa pun akan begitu setelah apa yang mereka alami dalam perjuangan melawan para Bloodfiend."
+    },
+    {
+      "id": 8,
+      "model": "이상",
+      "content": "Kau mendapat pengertianku. Memburu entitas seperti mereka yang berada di luar nalar pastilah menanam benih keraguan di banyak hati manusia."
+    },
+    {
+      "id": 9,
+      "model": "로메로",
+      "content": "Benar. Dan aku setuju dengan mereka, setidaknya sebagian. Standar yang ditetapkan oleh P Corp. dan Hana Association untuk para Fixer yang ikut kontrak ini... mengejutkan rendahnya dan tanpa pandang bulu."
+    },
+    {
+      "id": 10,
+      "model": "로메로",
+      "content": "Kalau itu terserah padaku, aku akan menetapkan syarat yang jauh lebih ketat."
+    },
+    {
+      "id": 11,
+      "content": "Senyum ramahnya sedikit goyah saat ia menunjuk-nunjuk ke sekeliling lahan kosong itu."
+    },
+    {
+      "id": 12,
+      "model": "로메로",
+      "content": "Lihat sekeliling, di sana dekat tenda komando. Sekali lihat saja siapa yang bekerja sama dengan kita, aku yakin akan jadi sangat jelas bahwa mereka nggak tahu mereka masuk ke mana. Seharusnya mereka cuma menyewa para profesional untuk mengambil kontrak ini."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Dekat tenda komando...?>"
+    },
+    {
+      "id": 14,
+      "content": "Kami semua serentak menoleh menatap tenda besar dan riuh itu."
+    },
+    {
+      "id": 15,
+      "model": "까미유카메라",
+      "teller": "???",
+      "title": "???",
+      "content": "Wow. Chat, ini beneran? Ada perkelahian besar di dekat pintu masuk! Bener-bener jam amatiran di sini, gengs. Kalian percaya nggak, aku harus berdiri berdampingan sama orang-orang bodoh ini demi kontrak...?"
+    },
+    {
+      "id": 16,
+      "model": "오티스",
+      "content": "Apa... sih yang lagi dia lakukan?"
+    },
+    {
+      "id": 17,
+      "content": "Dari kejauhan, kami melihat seorang pria yang terus mengoceh dan berpose berlebihan penuh gaya dramatis ke arah sebuah perangkat kecil—kemungkinan besar semacam kamera."
+    },
+    {
+      "id": 18,
+      "content": "... Aku... bukan, kami semua pernah punya pengalaman dengan orang seperti dia sebelumnya."
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Orang itu mengingatkanku pada seseorang...>"
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "... Dia lagi mengambil foto kayak orang itu, Siegfried."
+    },
+    {
+      "id": 21,
+      "content": "Ia berlari-lari sebentar, mengunjungi setiap sudut lahan kosong itu, berusaha memasukkan setiap detail ke dalam bingkainya..."
+    },
+    {
+      "id": 22,
+      "content": "... dan tiba-tiba mulai melangkah ke arah kami dengan gaya jalan yang kesal."
+    },
+    {
+      "id": 23,
+      "model": "까미유",
+      "teller": "???",
+      "title": "???",
+      "content": "Halo, ya, kalian di sana!"
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "K-kau memanggil kami?!"
+    },
+    {
+      "id": 25,
+      "model": "까미유",
+      "teller": "???",
+      "title": "???",
+      "content": "Kalian keberatan nggak sih nongkrong di tempat lain? Sana, kalian menghalangi para penonton saya, gengs."
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "content": "Tapi... kau yang secara harfiah menghalangi kami. Nak."
+    },
+    {
+      "id": 27,
+      "content": "Ia langsung mengalihkan perhatiannya kembali ke kamera seolah pura-pura tidak mendengar apa yang dikatakan Ishmael, atau seolah memutuskan bahwa kata-katanya tidak layak ditanggapi."
+    },
+    {
+      "id": 28,
+      "model": "까미유카메라",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh, kalian mau tahu aku di mana? Pegangan yang erat, gengs. Aku di Backstreets Distrik 16. Yep, tempat P Corp. berada!"
+    },
+    {
+      "id": 29,
+      "model": "까미유카메라",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh iya. Inget nggak sama livestream unboxing & review Es Krim Kalengan Semi-permanen Vintage P Corp. 150? Yep, yang itu juga. Sayangnya, aku bukan di sini buat makan es krim hari ini."
+    },
+    {
+      "id": 30,
+      "model": "그레고르",
+      "content": "Jadi dari tadi aku pengen nanya... orang itu ngomong sama siapa sih sebenarnya? Dia lagi ngapain?"
+    },
+    {
+      "id": 31,
+      "model": "싱클레어",
+      "content": "Kurasa dia lagi ngobrol sama 'penonton'-nya yang lagi nonton acaranya..."
+    },
+    {
+      "id": 32,
+      "model": "뫼르소",
+      "content": "Sepertinya ia adalah pembawa acara dari sebuah tayangan tertentu. Telah dilaporkan bahwa di beberapa bagian Kota, sebuah budaya baru bernama 'livestreaming' lewat kamera-kamera semacam itu sedang berkembang."
+    },
+    {
+      "id": 33,
+      "model": "로쟈",
+      "content": "Orang yang kasar banget. Jangan biarin dia bikin kamu down, nak~"
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "content": "Apa... apa yang..."
+    },
+    {
+      "id": 35,
+      "model": "로쟈",
+      "content": "H-hah...?"
+    },
+    {
+      "id": 36,
+      "model": "돈키호테",
+      "content": "Sob... betapa gemilangnya hari ini..."
+    },
+    {
+      "id": 37,
+      "model": "돈키호테",
+      "content": "Lihatlah! Pria ini adalah Sir Camille dari Cinq Association West, namanya dihormati sebagai salah satu dari '10 Fixer Generasi Baru yang Sedang Naik Daun' yang ditampilkan di edisi Oktober majalah 'Fixers Monthly', salah satu dari tiga Majalah Fixer terbesar di Kota!"
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Aku tahu kita selalu bilang begini setiap kali, tapi kebanyakan orang nggak tahu— Haah, sudahlah, lupakan."
+    },
+    {
+      "id": 39,
+      "model": "돈키호테",
+      "content": "Bagaimana bisa?! Tidakkah kalian dengar saat kubagikan kabar yang begitu penting ini di dalam bus?! Tak seorang pun dari kalian mengindahkan kata-kataku!?"
+    },
+    {
+      "id": 40,
+      "model": "히스클리프",
+      "content": "Kau gila ya? Kenapa aku harus dengerin kamu kalau aku bisa tidur siang aja?"
+    },
+    {
+      "id": 41,
+      "model": "이상",
+      "content": "Omelan semacam itu tentang jalan yang berliku... seringkali menjadi penyebab mabuk perjalanan, Nona Don Quixote."
+    },
+    {
+      "id": 42,
+      "content": "Para Sinner yang menggerutu itu jelas berada di luar dunianya Don Quixote; ia bernapas dengan sangat berat, wajahnya jelas menunjukkan kekaguman."
+    },
+    {
+      "id": 43,
+      "model": "돈키호테",
+      "content": "Heeugh... aku bahkan tak pernah membayangkan dalam mimpi paling liarku sekalipun bahwa aku akan bersalaman langsung dengan Sir Camille..."
+    },
+    {
+      "id": 44,
+      "content": "... Tentu saja, belum ada yang benar-benar 'bersalaman' atau bertukar basa-basi sesederhana apa pun dengan Camille."
+    }
+  ]
+}
