@@ -1,0 +1,652 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "<color=#ffef23>Malam kian mendekat dengan sangat cepat.;</color>"
+    },
+    {
+      "id": 1,
+      "content": "<color=#ffef23>Namun, engkau akan membuka jalan, membelah bayang-bayang menjadi dua,</color>"
+    },
+    {
+      "id": 2,
+      "content": "<color=#ffef23>Dengan restu dan persetujuan keluarga yang tiada bandingnya,</color>"
+    },
+    {
+      "id": 3,
+      "content": "<color=#ffef23>Tantang dan taklukkan segala hal yang berbahaya.,</color>"
+    },
+    {
+      "id": 4,
+      "content": "<color=#ffef23>Dan pada akhirnya—meraih kebahagiaan sejati;</color>"
+    },
+    {
+      "id": 5,
+      "content": "<color=#ffef23>Sungguh tak terbantahkan,</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#ffef23>Betapa gemilang petualangan-petualangan cerdikku hari ini akan bersinar.</color>"
+    },
+    {
+      "id": 7,
+      "content": "Yang juga merupakan... petualangan kita bersama."
+    },
+    {
+      "id": 8,
+      "content": "Kau ingat kata-katanya, bukan? Seorang *Fixer* harus menjaga pikiran agar bebas dari korupsi, ucapan yang bebas dari tipu daya, serta perilaku yang dipandu oleh belas kasih."
+    },
+    {
+      "id": 9,
+      "content": "Tunjukkan keberanian dalam petualangan, dan hadapilah rasa sakit dalam penderitaan."
+    },
+    {
+      "id": 10,
+      "content": "Dan ingatlah, jangan lupakan belas kasih bagi mereka yang tertindas..."
+    },
+    {
+      "id": 11,
+      "content": "... dan jangan lupakan..."
+    },
+    {
+      "id": 12,
+      "content": "...Kejarlah impianmu, meskipun itu berarti mempertaruhkan nyawa dalam pengejarannya."
+    },
+    {
+      "id": 13,
+      "content": "Jika Anda sampai gagal mematuhi satu saja dari prinsip-prinsip ini..."
+    },
+    {
+      "id": 14,
+      "content": "Aku akan Memukul kepala kalian semua."
+    },
+    {
+      "id": 15,
+      "content": "Kuatkan tekadmu dan teruslah, senantiasa teruslah melangkah maju."
+    },
+    {
+      "id": 16,
+      "content": "<color=#ffef23>Bukankah itu...</color>"
+    },
+    {
+      "id": 17,
+      "content": "<color=#ffef23>... ancaman yang sangat tidak adil?</color>"
+    },
+    {
+      "id": 18,
+      "place": "P Corp. WARP train platform",
+      "model": "돈키호테",
+      "content": "Manajer Terhormat... Betapa tidak adilnya dirimu...!"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "Sangat amat Tidak Adil..!!!"
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Apalagi yang kamu mau kali ini...?>"
+    },
+    {
+      "id": 22,
+      "model": "돈키호테",
+      "content": "Untuk sekali ini, aku percaya bahwa inilah saatnya bagiku untuk bersinar....!!"
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "Sangat kuharap akulah yang memberikan sentuhan akhir dengan kemegahan yang pantas...!"
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "'Ini kesempatanku untuk mengukir namaku di koran huhuhuuu...!!!"
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 26,
+      "content": "Kembali ke Stasiun kereta WARP milik P Corp. seolah selalu mengingatkan Don Quixote pada petualangan kacau kami yang terakhir. Keluhan yang persis sama itu sudah ia lontarkan beberapa kali sejauh ini."
+    },
+    {
+      "id": 27,
+      "model": "돈키호테",
+      "content": "Oh ya...? Mengapa wajahmu tampak begitu muram?, Manager Terhormat...?"
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Aku bahkan tidak punya wajah, apalagi ekspresi...>"
+    },
+    {
+      "id": 29,
+      "model": "돈키호테",
+      "content": "Alangkah tidak benarnya, alangkah tidak benarnya! Tidakkah engkau melihatnya?"
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "Segala sesuatu yang diberkahi dengan keberadaan memiliki hati! Bahkan makhluk-makhluk kecil, bahkan tunas-tunas rumput yang jarang dipikirkan sekilas pun oleh kebanyakan orang! Sesungguhnya, keberadaan sebuah hati mengharuskan adanya 'ekspresi', bukankah begitu menurutmu?"
+    },
+    {
+      "id": 31,
+      "model": "돈키호테",
+      "content": "Dengan kata lain, janganlah kita membiarkan kekuatan tubuh menjadi timbangan untuk menilai seseorang; maka bertahanlah, biarkan hanya hati yang tak tergoyahkan menjadi alat untukmu menegakkan keadilan! Dengarlah, dengarlah!"
+    },
+    {
+      "id": 32,
+      "model": "히스클리프",
+      "content": "Ugh... Baiklah, katakan saja. Siapa yang menghasut gadis itu kali ini?"
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "Dengarkanlah aku, Manajeeeeeerrrr Yang Terhormaaaaaat?"
+    },
+    {
+      "id": 34,
+      "place": -1,
+      "content": "Beberapa waktu lalu, di gerbong kargo kereta WARP..."
+    },
+    {
+      "id": 35,
+      "place": "Aboard Mephistopheles, Past",
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<D-Don Quixote, hei? Bisa kau mendengarku? K-katakan sesuatu...>"
+    },
+    {
+      "id": 37,
+      "content": "Don Quixote menatapku dalam diam."
+    },
+    {
+      "id": 38,
+      "content": "... Tidak. Itu... entitas asing yang mengerikan, yang tak bisa kuhindari untuk berharap adalah Don Quixote... sedang menatapku."
+    },
+    {
+      "id": 39,
+      "content": "Ia membuka mulutnya. Naluriku berteriak agar aku tidak mendengarkannya. Namun..."
+    },
+    {
+      "id": 40,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 41,
+      "model": "단테",
+      "content": "<D-Don Quixote...>"
+    },
+    {
+      "id": 42,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 43,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "... Apakah... ... sudah berakhir?"
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 45,
+      "model": "단테",
+      "content": "<Tidak...>"
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Aku tidak... berpikir ini... sudah berakhir...>"
+    },
+    {
+      "id": 47,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "... Begitu rupanya."
+    },
+    {
+      "id": 48,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Rocinante, kemarilah..."
+    },
+    {
+      "id": 49,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "... Kumohon padamu."
+    },
+    {
+      "id": 50,
+      "content": "Aku tidak tahu apakah aku memberinya jawaban yang benar."
+    },
+    {
+      "id": 51,
+      "content": "Meski jawabanku hanyalah respons naluriah dari sebuah pikiran yang muncul di kepalaku, Don Quixote menutup matanya setelah mendengar jawabanku."
+    },
+    {
+      "id": 52,
+      "content": "Seakan hanyut ke dalam mimpi yang lembut dan menyenangkan."
+    },
+    {
+      "id": 53,
+      "content": "Dan dengan hati-hati kupasangkan sepasang sepatu lari lusuh yang ia sebut Rocinante ke kakinya."
+    },
+    {
+      "id": 54,
+      "content": "Dan aku membuat sebuah harapan dalam diam."
+    },
+    {
+      "id": 55,
+      "content": "Semoga matanya yang merah darah itu tak akan pernah, pernah terbuka lagi."
+    },
+    {
+      "id": 56,
+      "place": "P Corp. WARP train platform Past",
+      "model": "돈키호테",
+      "content": "……."
+    },
+    {
+      "id": 57,
+      "model": "돈키호테",
+      "content": "...Hm?"
+    },
+    {
+      "id": 58,
+      "model": "돈키호테",
+      "content": "Ti... sudah tibakah kita?"
+    },
+    {
+      "id": 59,
+      "model": "돈키호테",
+      "content": "Hunnhhh... KEPARAT!!! Tipu daya jahat apa ini?! Ke manakah perginya iblis jahat Bloodfiend itu?"
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Don Quixote...>"
+    },
+    {
+      "id": 61,
+      "model": "돈키호테",
+      "content": "... Apakah engkau telah menumbangkan anjing kurap itu?!?!"
+    },
+    {
+      "id": 62,
+      "place": "P Corp. WARP train platform",
+      "content": "Dan, kembali ke masa kini..."
+    },
+    {
+      "id": 63,
+      "model": "로쟈",
+      "content": "Aku merasa kita semua melewatkan sesuatu yang keren. Andai aku ada di sana bersama Faust dan Dante saat semua itu terjadi, biar bisa lihat bagaimana kalian berhasil membunuh orang itu, tahu?"
+    },
+    {
+      "id": 64,
+      "model": "오티스",
+      "content": "Jangan sampai kita melupakan seseorang dari cerita ini, hmm? Dia juga ada di sana, meski memalukan karena pingsan seperti pengecut di depan Bloodfiend itu. Aib bagi Limbus Company, kubilang."
+    },
+    {
+      "id": 65,
+      "model": "료슈",
+      "content": "S.O.L.C. Menyedihkan..."
+    },
+    {
+      "id": 66,
+      "model": "히스클리프",
+      "content": "... Ayolah. Kita semua juga pingsan, bukan?"
+    },
+    {
+      "id": 67,
+      "model": "돈키호테",
+      "content": "Hnnnnngggghhhh...!"
+    },
+    {
+      "id": 68,
+      "model": "오티스",
+      "content": "Kurasa seharusnya aku ada di sana untuk mengambil alih kendali para Sinner."
+    },
+    {
+      "id": 69,
+      "model": "싱클레어",
+      "content": "Apakah kau setakut itu pada Bloodfiend itu, Don Quixote...? Tidak apa-apa. Aku mengerti perasaanmu."
+    },
+    {
+      "id": 70,
+      "model": "돈키호테",
+      "content": "Hooah... Seorang pahlawan sejati berdiri tenang dan diam, tak tergoyahkan di hadapan ejekan hina semacam ini...!"
+    },
+    {
+      "id": 71,
+      "model": "이스마엘",
+      "content": "Aku setuju, Rodya. Aku juga merasa kita melewatkan sesuatu yang besar."
+    },
+    {
+      "id": 72,
+      "model": "이스마엘",
+      "content": "Karena saat kami tiba di sana setelah kejadian, yang kami lihat hanyalah Dante dengan wajah kebingungan berdiri di atas bagian-bagian tubuh Bloodfiend yang... meledak... meleleh..."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Hah? A-aku...? Berdiri? Kebingungan? Benarkah aku begitu?>"
+    },
+    {
+      "id": 74,
+      "model": "돈키호테",
+      "content": "Sesungguhnya! Mengapa engkau tidak membangunkanku?! Aku bahkan akan memaafkanmu bila kau menampar pipiku terbalik—"
+    },
+    {
+      "id": 75,
+      "model": "싱클레어",
+      "content": "Jadi... apa yang sebenarnya terjadi di sana?"
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<A-aku sudah memberitahu kalian sebelumnya, bukan?>"
+    },
+    {
+      "id": 77,
+      "model": "이스마엘",
+      "content": "Apa?"
+    },
+    {
+      "id": 78,
+      "model": "이스마엘",
+      "content": "Kau cuma menggantung kalimatmu dengan \"Itu... eh... kau tahu...\" sampai kami mengganti topik. Apa yang kau bicarakan?"
+    },
+    {
+      "id": 79,
+      "model": "오티스",
+      "content": "Manajer Eksekutif, mungkinkah kau berada dalam kondisi delirium meledak-ledak yang serupa dengan yang kau alami sebelumnya?! Aku maksudkan saat kepalamu terbakar berkobar!"
+    },
+    {
+      "id": 80,
+      "model": "단테",
+      "content": "<Oh, ti-tidak, ini, eh...>"
+    },
+    {
+      "id": 81,
+      "content": "Outis mulai menatapku dengan waspada, seolah jam—kepalaku—akan meledak kapan saja."
+    },
+    {
+      "id": 82,
+      "model": "단테",
+      "content": "<Itu... tidak terjadi.>"
+    },
+    {
+      "id": 83,
+      "model": "로쟈",
+      "content": "\"Itu tidak terjadi\", begitu...?"
+    },
+    {
+      "id": 84,
+      "model": "로쟈",
+      "content": "Baiklah, kalau kau tak mau bicara, maka~ aku beralih ke Nona Faust, saksi mata kedua kita! Bisa kuminta beberapa pernyataan darimu, Nyonya?"
+    },
+    {
+      "id": 85,
+      "content": "Rodya bertanya dengan percaya diri, masih dalam suasana hati untuk berperan sebagai detektif."
+    },
+    {
+      "id": 86,
+      "model": "파우스트",
+      "content": "Faust tidak memiliki informasi apa pun yang ia anggap perlu dibagikan saat ini."
+    },
+    {
+      "id": 87,
+      "model": "로쟈",
+      "content": "Baiklah, kalau begitu kembali padamu, saksi Dante—"
+    },
+    {
+      "id": 88,
+      "model": "베르길리우스",
+      "content": "Dengarkan. Aku punya pengumuman penting, jadi perhatikan baik-baik."
+    },
+    {
+      "id": 89,
+      "content": "... Aku tidak tahu apakah ini kebetulan atau bukan, tapi..."
+    },
+    {
+      "id": 90,
+      "content": "... Vergilius maju di saat yang tepat untuk mengalihkan perhatian para Sinner dariku."
+    },
+    {
+      "id": 91,
+      "model": "베르길리우스",
+      "content": "Seperti yang kalian semua ketahui, kita telah dikontrak oleh P Corp untuk menangani sebuah kasus di sini."
+    },
+    {
+      "id": 92,
+      "model": "베르길리우스",
+      "content": "... Hm. Kurasa kita sudah cukup sering melalui rutinitas ini hingga kalian sudah tahu apa yang akan terjadi."
+    },
+    {
+      "id": 93,
+      "model": "히스클리프",
+      "content": "Benar, benar. Kurasa kita akan bertarung, bernyanyi, menari, apa pun yang diinginkan para petinggi itu dengan Distortion atau Abnormality atau apalah itu. Apa aku benar?"
+    },
+    {
+      "id": 94,
+      "model": "돈키호테",
+      "content": "Aha! Dan ini adalah misi yang akan membawa kita untuk merebut satu lagi Golden Bough ke tangan kita, bukankah begitu?!"
+    },
+    {
+      "id": 95,
+      "content": "Don Quixote menjawab, dipenuhi kegembiraan."
+    },
+    {
+      "id": 96,
+      "model": "베르길리우스",
+      "content": "Ya. Baiklah, kalau kalian berdua bisa menangkapnya secepat itu, maka kurasa penjelasan lebih lanjut tidak diperlukan."
+    },
+    {
+      "id": 97,
+      "model": "베르길리우스",
+      "content": "Namun, operasi kali ini akan agak..."
+    },
+    {
+      "id": 98,
+      "model": "베르길리우스",
+      "content": "... Tidak, biar kuperbaiki ucapanku. Operasi ini akan 'sangat drastis' berbeda dari apa pun yang pernah kalian lakukan sejauh ini. Ini mungkin salah satu misi kita yang paling... merepotkan."
+    },
+    {
+      "id": 99,
+      "model": "이스마엘",
+      "content": "Yah... kapan sih itu tidak begitu?"
+    },
+    {
+      "id": 100,
+      "model": "이스마엘",
+      "content": "Kurasa akan cukup 'merepotkan' harus ikut bersama kelompok yang dua, tiga kali lebih besar dari kelompok kita. Tapi..."
+    },
+    {
+      "id": 101,
+      "model": "파우스트",
+      "content": "Intuisi para Sinner tampaknya semakin tajam dari hari ke hari."
+    },
+    {
+      "id": 102,
+      "model": "이스마엘",
+      "content": "Oh... benarkah kami... begitu?"
+    },
+    {
+      "id": 103,
+      "model": "이스마엘",
+      "content": "Kau tahu? Kurasa aku akan... menyimpan dugaan-dugaan ini untuk diriku sendiri mulai sekarang."
+    },
+    {
+      "id": 104,
+      "model": "베르길리우스",
+      "content": "Ini bukan sesuatu yang bisa dinegosiasikan. Yah, bukankah lebih baik bergabung dengan kelompok yang tiga kali lebih besar daripada melawannya?"
+    },
+    {
+      "id": 105,
+      "model": "오티스",
+      "content": "Jadi, apakah ini akan menjadi operasi gabungan? Dengan siapa kita akan bekerja sama?"
+    },
+    {
+      "id": 106,
+      "model": "그레고르",
+      "content": "Mmm... tak bisa kubilang aku punya kenangan indah tentang... operasi gabungan."
+    },
+    {
+      "id": 107,
+      "model": "이상",
+      "content": "Kenangan penuh rasa sakit, kalau boleh dibilang begitu."
+    },
+    {
+      "id": 108,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 109,
+      "content": "Misi kita di K Corp. adalah pengalaman pertama sekaligus terakhir kita dengan 'operasi gabungan'."
+    },
+    {
+      "id": 110,
+      "model": "로쟈",
+      "content": "Eugh, aku masih ingat jelas melihat lengan Meursault terlepas, membentur tiang, lalu jatuh berdebam basah ke lantai..."
+    },
+    {
+      "id": 111,
+      "model": "뫼르소",
+      "content": "Penceritaan kejadian yang lebih akurat seharusnya turut menyertakan fakta bahwa tulang belikatku juga terpaksa terpisah dari batang tubuhku."
+    },
+    {
+      "id": 112,
+      "model": "로쟈",
+      "content": "Tidak bisakah ini kita rahasiakan saja di antara kita? Orang-orang lain itu cuma akan menghalangi kita dan mengacaukan semuanya..."
+    },
+    {
+      "id": 113,
+      "model": "오티스",
+      "content": "Tak kusangka aku akan mengatakan ini, tapi... aku sangat setuju dengan itu."
+    },
+    {
+      "id": 114,
+      "model": "베르길리우스",
+      "content": "Betapa lancangnya kalian semua."
+    },
+    {
+      "id": 115,
+      "model": "베르길리우스",
+      "content": "Sebaiknya kalian ingat bahwa kalian bukan satu-satunya tim yang datang ke operasi ini dengan pikiran angkuh semacam itu."
+    },
+    {
+      "id": 116,
+      "model": "베르길리우스",
+      "content": "Lagipula, kontrak ini adalah Kontrak Terbuka yang diumumkan oleh Hana Association, Asosiasi yang mengawasi operasi para Fixer—"
+    },
+    {
+      "id": 117,
+      "content": "Vergilius menghentikan ucapannya, menyadari aura mencurigakan dari salah satu Sinner."
+    },
+    {
+      "id": 118,
+      "model": "돈키호테",
+      "content": "HAAH—"
+    },
+    {
+      "id": 119,
+      "content": "Di sana berdiri Don Quixote, hampir-hampir bergetar saking bersemangatnya..."
+    },
+    {
+      "id": 120,
+      "model": "베르길리우스",
+      "content": "... Seseorang, bekap mulut Don Quixote. Secepat yang kalian bisa."
+    },
+    {
+      "id": 121,
+      "model": "오티스",
+      "content": "Biar aku saja."
+    },
+    {
+      "id": 122,
+      "model": "돈키호테",
+      "content": "Uoogh! Outi—mmph! Mmph!"
+    },
+    {
+      "id": 123,
+      "model": "베르길리우스",
+      "content": "... Bagaimanapun. Ini berarti rekan-rekan yang akan bergabung dalam operasi ini bukanlah sekumpulan Fixer amatiran dari Office gang sempit yang tak pernah didengar siapa pun. Sangat mungkin para Fixer dari Asosiasi yang cukup mapan akan bergabung bersama kita."
+    },
+    {
+      "id": 124,
+      "model": "돈키호테",
+      "content": "MMMPH!! MMH! MMH! MMH! MMH!"
+    },
+    {
+      "id": 125,
+      "model": "오티스",
+      "content": "Kau...! Berhenti menggeliatkan bibirmu!"
+    },
+    {
+      "id": 126,
+      "content": "Aku sangat bersyukur Outis ada di sini untuk menghentikan Don Quixote agar tak meledak kegirangan."
+    },
+    {
+      "id": 127,
+      "content": "Karena kalau tidak, kita akan menarik perhatian setiap orang dalam radius yang cukup luas di sekitar kita."
+    },
+    {
+      "id": 128,
+      "model": "히스클리프",
+      "content": "Baiklah. Jadi monster macam apa yang akan kita hadapi kali ini?"
+    },
+    {
+      "id": 129,
+      "model": "료슈",
+      "content": "Lebih dari itu— Bagaimana mereka ingin ini diselesaikan?"
+    },
+    {
+      "id": 130,
+      "model": "싱클레어",
+      "content": "Kau bicara seperti Fixer Backstreets yang mencurigakan..."
+    },
+    {
+      "id": 131,
+      "content": "Vergilius mendongak tepat saat Heathcliff mengajukan pertanyaannya."
+    },
+    {
+      "id": 132,
+      "model": "베르길리우스",
+      "content": "Rincian lebih lanjut..."
+    },
+    {
+      "id": 133,
+      "model": "베르길리우스",
+      "content": "... akan disampaikan oleh klien kita, yang kini menghadiri kita tepat pada waktunya."
+    }
+  ]
+}
