@@ -1,0 +1,533 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Backstreets of P Corp., Outside the Tent",
+      "content": "Kami punya sekitar tiga puluh menit sebelum La Manchaland muncul..."
+    },
+    {
+      "id": 1,
+      "content": "Kami masing-masing memutuskan untuk memanfaatkan kesempatan ini untuk menenangkan diri."
+    },
+    {
+      "id": 2,
+      "content": "Sementara itu, aku..."
+    },
+    {
+      "id": 3,
+      "content": "... punya sesuatu yang ingin kutanyakan pada Vergilius sebelum kami berangkat."
+    },
+    {
+      "id": 4,
+      "content": "Tapi untuk itu, aku butuh..."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Ada yang lihat Faust di sekitar sini?>"
+    },
+    {
+      "id": 6,
+      "model": "홍루",
+      "content": "Sudah agak lama nggak lihat. Ada apa, Dante? Aku yakin aku bisa bantu."
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<Hm...>"
+    },
+    {
+      "id": 8,
+      "content": "Aku ingin meminta Faust untuk menyampaikan kata-kataku pada Vergilius, tapi aku tidak yakin di mana ia berada…"
+    },
+    {
+      "id": 9,
+      "content": "Untungnya, Hong Lu masih ada di sini bersamaku dan menyadari aku sedang celingukan. Aku memutuskan untuk meminta bantuannya."
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "Tiga puluh menit, Dante."
+    },
+    {
+      "id": 11,
+      "content": "... Aku selalu punya begitu banyak pertanyaan berputar-putar di kepalaku, tapi setiap kali aku berdiri di depan pria ini, otakku sepertinya memutuskan untuk melupakan semuanya."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Kenapa kau tidak menghentikannya tadi, Vergilius? Tadi, saat Don Quixote menantang Camille untuk berduel...>"
+    },
+    {
+      "id": 14,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 16,
+      "model": "홍루",
+      "content": "Aha, kau butuh penerjemah."
+    },
+    {
+      "id": 17,
+      "model": "홍루",
+      "content": "Dante bertanya kenapa kau tidak menghentikan pertarungan itu tadi."
+    },
+    {
+      "id": 18,
+      "model": "베르길리우스",
+      "content": "Ah, jadi itu tatapan celamu. ... Aku mengerti."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스",
+      "content": "Seperti yang pasti sudah kau sadari sekarang, Cinq Association sering memilih duel sebagai cara untuk menyelesaikan konflik."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "Namun mereka juga terkenal karena bisa melupakan masalah lama begitu konflik yang dimaksud telah diselesaikan lewat duel. Mungkin kenangan abadi dari nilai-nilai kesatriaan kuno telah tertanam dalam-dalam di dalam diri mereka."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Aku mengerti... Jadi kalau mencari gara-gara dengan Fixer dari Asosiasi atau Office lain mungkin bakal jadi masalah besar buat kita, tapi karena sifat khas Cinq, ini jadi pertengkaran yang cukup aman, ya...>"
+    },
+    {
+      "id": 22,
+      "model": "베르길리우스",
+      "content": "Menghentikan Don Quixote dari menantang Fixer itu untuk berduel hanya akan memperburuk keadaan. Lagipula..."
+    },
+    {
+      "id": 23,
+      "content": "Vergilius terdiam cukup lama."
+    },
+    {
+      "id": 24,
+      "model": "베르길리우스",
+      "content": "... Sudah waktunya Sinner ketiga kita bangun."
+    },
+    {
+      "id": 25,
+      "model": "홍루",
+      "content": "Aneh..."
+    },
+    {
+      "id": 26,
+      "model": "홍루",
+      "content": "Bukankah Don Quixote yang paling waras di antara kita semua?"
+    },
+    {
+      "id": 27,
+      "content": "Sela Hong Lu begitu tiba-tiba dan acak, sampai aku sempat bertanya-tanya sejenak apakah ia mengira kami sedang membicarakan orang lain..."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Maksudmu apa...?>"
+    },
+    {
+      "id": 29,
+      "content": "... tapi Hong Lu tidak mengoreksi dirinya. Ia menunjuk matanya dan melanjutkan."
+    },
+    {
+      "id": 30,
+      "model": "홍루",
+      "content": "Matanya, Dante. Selalu berkilau seperti dua bintang terang. Sangat memesona."
+    },
+    {
+      "id": 31,
+      "model": "단테",
+      "content": "<Mata, ya...>"
+    },
+    {
+      "id": 32,
+      "content": "Aku menyadari cahaya di mata kiri Hong Lu semakin meredup, seperti cahaya yang memudar saat tenggelam ke kedalaman air gelap..."
+    },
+    {
+      "id": 33,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 34,
+      "model": "단테",
+      "content": "<T-tunggu, ada hal lain yang ingin kutanyakan padamu...>"
+    },
+    {
+      "id": 35,
+      "content": "Yang sebenarnya ingin kutanyakan pada Vergilius adalah apa yang terjadi di kereta itu..."
+    },
+    {
+      "id": 36,
+      "content": "... tapi aku tidak yakin apakah aku bisa membahas topik itu di depan Hong Lu, apalagi saat Faust tidak ada di sini."
+    },
+    {
+      "id": 37,
+      "model": "홍루",
+      "content": "Ada apa, Dante? Kau terlihat gugup entah kenapa."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<Uh...>"
+    },
+    {
+      "id": 39,
+      "model": "베르길리우스",
+      "content": "Tak perlu menggetarkan jarum jammu segelisah itu, Dante."
+    },
+    {
+      "id": 40,
+      "model": "베르길리우스",
+      "content": "Kau tidak benar-benar berpikir aku tidak diberi tahu soal apa yang terjadi di kereta itu, kan?"
+    },
+    {
+      "id": 41,
+      "content": "... Sepertinya Faust selalu memberinya kabar terbaru."
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<Baiklah kalau begitu, katakan padaku. Apa yang terjadi dengan Don Quixote waktu itu?>"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Bukan, maksudku... sebenarnya apa dia itu?>"
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "Uhh... mereka lagi tanya apa itu... Don Quixote?"
+    },
+    {
+      "id": 45,
+      "model": "베르길리우스",
+      "content": "Dante, tidak bijak menghabiskan waktumu untuk menanyakan pertanyaan yang jawabannya bisa kau temukan sendiri."
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "Lagipula, ada pertanyaan yang jauh lebih mendesak yang seharusnya kau tanyakan."
+    },
+    {
+      "id": 47,
+      "model": "베르길리우스",
+      "content": "Apa yang akan terjadi dengan Sinner ketiga kita? ... Misalnya."
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Aku mengerti. Sekarang giliran Don Quixote.>"
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Tapi kau juga tidak akan menjawab pertanyaan itu. Karena bagaimanapun aku akan menemukan jawabannya sendiri, selama aku terus mengikuti arus ke mana pun ia membawaku.>"
+    },
+    {
+      "id": 51,
+      "model": "베르길리우스",
+      "content": "... Tanganmu sudah berhenti gemetar. Akan kuanggap itu sebagai tanda bahwa kita sudah saling memahami."
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스",
+      "content": "Kalau suatu saat kau mendapati dirimu mulai gelisah di dalam La Manchaland, saat segalanya mulai berjalan tak terkendali..."
+    },
+    {
+      "id": 53,
+      "model": "베르길리우스",
+      "content": "Ingatlah kata-kata ini."
+    },
+    {
+      "id": 54,
+      "model": "베르길리우스",
+      "content": "Mulai sekarang, apa pun yang terjadi..."
+    },
+    {
+      "id": 55,
+      "model": "베르길리우스",
+      "content": "... Don Quixote akan mengingat janji itu, Dante."
+    },
+    {
+      "id": 56,
+      "content": "Janji itu."
+    },
+    {
+      "id": 57,
+      "content": "Aku tidak tahu bagaimana kata itu seharusnya bisa meredakan salah satu dari ketakutanku."
+    },
+    {
+      "id": 58,
+      "content": "Vergilius bukan tipe orang yang berbicara berputar-putar tanpa makna, jadi..."
+    },
+    {
+      "id": 59,
+      "content": "... kurasa tidak ada lagi yang bisa kudapatkan darinya saat ini."
+    },
+    {
+      "id": 60,
+      "content": "Beberapa waktu kemudian, kembali di antara para Sinner di lahan kosong itu."
+    },
+    {
+      "id": 61,
+      "place": "Backstreets of P Corp., an Empty Lot",
+      "model": "단테",
+      "content": "<Don Quixote, soal yang terjadi tadi...>"
+    },
+    {
+      "id": 62,
+      "model": "돈키호테",
+      "content": "Sungguh, 'tis hari yang menakjubkan! Bukankah engkau setuju, Manajer Esquire?"
+    },
+    {
+      "id": 63,
+      "model": "단테",
+      "content": "<Be... benarkah...?>"
+    },
+    {
+      "id": 64,
+      "model": "돈키호테",
+      "content": "'Tis, 'tis! Hari ini saja aku sudah merasakan kegembiraan menyaksikan seorang Fixer Hana Association dengan mataku sendiri, kehormatan mengadu bajaku melawan Sir Camille dari Cinq, dan... Ah, sungguh. Sir Camille adalah seorang Fixer yang begitu adil dan terhormat dalam siaran-siarannya. Aku tak punya sedikit pun keraguan bahwa keributan itu tak lain hanyalah sebuah salah paham semata!"
+    },
+    {
+      "id": 65,
+      "model": "단테",
+      "content": "<Gimana caranya kau bahkan bisa nonton siarannya di dalam bus tadi...?>"
+    },
+    {
+      "id": 66,
+      "model": "돈키호테",
+      "content": "Manajer Esquire! Sesungguhnya, akhirnya aku mulai merasa bahwa kita sedang menangani kontrak-kontrak yang pantas bagi Fixer sejati."
+    },
+    {
+      "id": 67,
+      "model": "돈키호테",
+      "content": "Untuk menumpas kejahatan dan membebaskan yang tak berdosa dari penderitaan! 'Twas mimpi seumur hidupku, sungguh!"
+    },
+    {
+      "id": 68,
+      "model": "돈키호테",
+      "content": "Sir Vergilius pasti akan kembali menegaskan bahwa misi utama kita adalah merebut Golden Bough. Namun..."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "content": "... aku akan memusnahkan La Manchaland, bahkan bila itu mengorbankan misi kita!"
+    },
+    {
+      "id": 70,
+      "model": "돈키호테",
+      "content": "Dan camkanlah kata-kataku, sebab aku juga akan menyelamatkan para korbannya. Setiap satu dari mereka."
+    },
+    {
+      "id": 71,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 72,
+      "content": "Aku menatap dalam diam saat Don Quixote menyombongkan dirinya."
+    },
+    {
+      "id": 73,
+      "content": "... Kurasa aku melihat bintang-bintang berkilau di matanya, seperti kata Hong Lu."
+    },
+    {
+      "id": 74,
+      "model": "카론",
+      "content": "Ooh. Tik-tok."
+    },
+    {
+      "id": 75,
+      "model": "파우스트",
+      "content": "... Dante."
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<Aku sedang mencarimu, Faust.>"
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "Karena sepertinya kau ada urusan yang ingin dibicarakan dengan Vergilius."
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Uh...>"
+    },
+    {
+      "id": 79,
+      "content": "Aku merasa seperti ia menuduhku bahwa tidak ada alasan lain aku mencarinya, jadi aku tak bisa menahan diri untuk tergagap."
+    },
+    {
+      "id": 80,
+      "content": "... Sekarang kupikir-pikir, aku jarang melihatnya berduaan dengan Charon."
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Kalian berdua lagi ngapain di sini?>"
+    },
+    {
+      "id": 82,
+      "model": "파우스트",
+      "content": "Melakukan beberapa prosedur rutin dengan Charon."
+    },
+    {
+      "id": 83,
+      "model": "파우스트",
+      "content": "Ada prosedur pemeriksaan tertentu yang harus kami lakukan secara berkala."
+    },
+    {
+      "id": 84,
+      "model": "단테",
+      "content": "<Prosedur pemeriksaan apa?>"
+    },
+    {
+      "id": 85,
+      "model": "파우스트",
+      "content": "... Ini terutama terdiri dari uji tren normalitas fusi biologis materi abu-abu dan uji tingkat aktivitas respons materi abu-abu terhadap rangsangan listrik. Ini juga mencakup beberapa tes lain, termasuk uji variansi tekanan otak eksternal, uji distribusi aliran darah untuk memverifikasi bahwa angkanya berada dalam rentang yang diharapkan, dan—"
+    },
+    {
+      "id": 86,
+      "model": "단테",
+      "content": "<Uhh...>"
+    },
+    {
+      "id": 87,
+      "model": "파우스트",
+      "content": "... Aku akan berhenti di sini."
+    },
+    {
+      "id": 88,
+      "content": "Aku memang bukan orang yang pandai bicara juga, tapi aku diingatkan lagi bahwa Faust juga tidak terlalu pandai berbicara dengan orang lain."
+    },
+    {
+      "id": 89,
+      "model": "카론",
+      "content": "Dengar penumpang mau pergi ke taman hiburan."
+    },
+    {
+      "id": 90,
+      "model": "카론",
+      "content": "Taman hiburan. Lebih seru dari bus?"
+    },
+    {
+      "id": 91,
+      "model": "단테",
+      "content": "<Aku sendiri belum pernah ke sana, tapi mungkin?>"
+    },
+    {
+      "id": 92,
+      "model": "파우스트",
+      "content": "Dikatakan bahwa orang-orang yang beraktivitas di dalam taman hiburan rata-rata mengalami peningkatan detak jantung 1,5 kali dari rentang normal mereka."
+    },
+    {
+      "id": 93,
+      "model": "카론",
+      "content": "Kenapa?"
+    },
+    {
+      "id": 94,
+      "model": "파우스트",
+      "content": "Karena mereka menaiki wahana yang dirancang untuk meningkatkan detak jantung mereka, dan pada gilirannya, tingkat kegembiraan mereka."
+    },
+    {
+      "id": 95,
+      "model": "파우스트",
+      "content": "Diketahui bahwa salah satu wahana yang paling melambangkan pengalaman taman hiburan terdiri dari prosedur berikut: mengikat penumpang ke kursi dan menjatuhkan wahana, yang sering berbentuk kereta, dari ketinggian seratus meter ke permukaan tanah dalam waktu tiga detik."
+    },
+    {
+      "id": 96,
+      "model": "카론",
+      "content": "Kedengarannya kayak ngebut sembarangan."
+    },
+    {
+      "id": 97,
+      "model": "카론",
+      "content": "Pasti sopir yang buruk banget. Lebih buruk dari Charon."
+    },
+    {
+      "id": 98,
+      "model": "파우스트",
+      "content": "Mungkin saja."
+    },
+    {
+      "id": 99,
+      "content": "Dia yang bicara begitu... Apalagi soal ngebut sembarangan..."
+    },
+    {
+      "id": 100,
+      "model": "단테",
+      "content": "<Aku yakin ada wahana lain yang lebih... seru, kan? Mungkin?>"
+    },
+    {
+      "id": 101,
+      "model": "파우스트",
+      "content": "... Mungkin saja."
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<Kita harus ke sana suatu hari nanti. Taman hiburan yang sungguhan...>"
+    },
+    {
+      "id": 103,
+      "model": "단테",
+      "content": "<Buat daftar hal-hal yang mau kau lakukan waktu kau sampai di sana.>"
+    },
+    {
+      "id": 104,
+      "model": "파우스트",
+      "content": "Charon, Dante ingin tahu apa yang kau mau lakukan."
+    },
+    {
+      "id": 105,
+      "model": "카론",
+      "content": "Kapan, di mana?"
+    },
+    {
+      "id": 106,
+      "model": "파우스트",
+      "content": "Mereka bertanya padamu, kalau suatu hari nanti kau diizinkan untuk bepergian bersama kami ke tempat-tempat selain bus ini, apa yang ingin kau lakukan di taman hiburan."
+    },
+    {
+      "id": 107,
+      "content": "Ada jeda panjang. Mata Charon berkilau sejenak saat mulai melayang ke arah lain."
+    },
+    {
+      "id": 108,
+      "model": "카론",
+      "content": "Charon... mau..."
+    },
+    {
+      "id": 109,
+      "model": "카론",
+      "content": "... mau makan permen di sana."
+    },
+    {
+      "id": 110,
+      "content": "Sepertinya hari ini adalah salah satu hari di mana semua orang mendapatkan kilauan di mata mereka."
+    }
+  ]
+}
