@@ -1,0 +1,60 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "La Manchaland Front Gates",
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "La Manchaland, mekarkanlah senyum kebahagiaanmu~ La Manchaland, tempat kebebasan untuk bermimpi berdampingan dengan para Bloodfiend. Kami harap kalian menikmati waktu yang indah di sini~"
+    },
+    {
+      "id": 1,
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "Pendaftaran masuk akan ditutup dalam lima menit! Mohon berbaris dan masuk dengan tertib. Ingat: masuk lewat belakang kiri, dan keluar lewat belakang kiri~"
+    },
+    {
+      "id": 2,
+      "model": "라만차내레이션",
+      "teller": "Narrator",
+      "title": "La Manchaland",
+      "content": "Akan sulit untuk masuk begitu pendaftaran ditutup, jadi mohon tunggu di gerbang bersama kantong-kantong darah kalian!"
+    },
+    {
+      "id": 3,
+      "model": "한울",
+      "content": "Baiklah, kalau begitu. Aku berharap bisa bertemu beberapa dari kalian lagi dalam beberapa jam ke depan."
+    },
+    {
+      "id": 4,
+      "content": "Suara dingin Fixer itu sangat kontras dengan suara ceria yang menggema dari pengumuman tersebut."
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "Dia bener-bener suka bikin suasana jadi bikin merinding, ya..."
+    },
+    {
+      "id": 6,
+      "content": "Vergilius hanya memberi kami anggukan ringan."
+    },
+    {
+      "id": 7,
+      "content": "Anehnya, sikap dinginnya itulah yang justru memberiku... ketenangan hati."
+    },
+    {
+      "id": 8,
+      "content": "Dan hal terakhir yang kulihat sebelum gerbang itu tertutup di belakang kami adalah..."
+    },
+    {
+      "id": 9,
+      "content": "...tatapan penuh kekaguman di mata setiap karyawan P Corp. Semuanya terpaku intens pada gerbang La Manchaland yang sedang menutup..."
+    },
+    {
+      "id": 10,
+      "content": "... seolah mereka bahkan tidak mau melewatkan sedikit pun pemandangan itu."
+    }
+  ]
+}
