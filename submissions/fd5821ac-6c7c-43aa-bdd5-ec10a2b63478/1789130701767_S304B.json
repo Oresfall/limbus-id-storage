@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pos Pemeriksaan K Corp.",
+      "model": "단테",
+      "content": "<Aku udah lumayan kebiasa sama situasi kayak gini, tapi yang ini keliatannya beneran gawat.>"
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "Memang. Lagipula, kita telah melanggar sebuah <ruby=Larangan>Taboo</ruby> dari <ruby=Sayap>The Wing</ruby>."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Lagian nggak ada yang terluka kan—apa kita nggak bisa bicarain ini baik-baik?>"
+    },
+    {
+      "id": 3,
+      "content": "Faust menatap lurus ke wajahku."
+    },
+    {
+      "id": 4,
+      "content": "Melihat Faust menatap seseorang secara langsung padahal biasanya dia menatap ruang kosong saat bicara, itu cuma bisa berarti satu hal:"
+    },
+    {
+      "id": 5,
+      "content": "Aku pasti udah ngomong sesuatu yang bikin dia bener-bener frustrasi."
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Tidak peduli <ruby=Sayap>The Wing</ruby> mana pun, pelanggaran terhadap sebuah <ruby=Larangan>Taboo</ruby> berarti—"
+    },
+    {
+      "id": -1,
+      "model": "//효과음",
+      "content": "Suara tembakan dan ledakan"
+    },
+    {
+      "id": 7,
+      "content": "Sebuah ledakan keras mencabik-cabik Don Quixote tepat di tempatnya berdiri."
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "—bahwa tindakan mematikan dapat diambil terhadap pelanggar tanpa peringatan."
+    },
+    {
+      "id": 9,
+      "content": "Kayaknya penjaga perbatasan nggak sudi maafin kita sampai mereka memutilasi sisa para <ruby=Pendosa>Sinner</ruby> lainnya..."
+    },
+    {
+      "id": 10,
+      "content": "Staf keamanan bersenjata mengepung kami dari segala sisi."
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "…Kalian tidak pernah berhenti membuat saya terkejut."
+    },
+    {
+      "id": 12,
+      "model": "베르길리우스",
+      "content": "Kalian berhasil memeras habis tetes terakhir dari sisa ekspektasi yang saya miliki terhadap kalian."
+    },
+    {
+      "id": 13,
+      "model": "베르길리우스",
+      "content": "Saya tidak akan ikut campur. Limpahkan saja semua kesalahannya pada dia, atau ambil tanggung jawabnya, atau terserah kalian."
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Gue kira lu nemenin kita buat nanganin situasi yang nggak bisa diurus manajer kita sendirian?!"
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "Saya ikut dengan kalian untuk mengurus masalah yang memang tidak bisa dihindari, bukan untuk ikut campur dalam tindakan tolol yang cuma memancing masalah."
+    },
+    {
+      "id": 16,
+      "content": "Vergilius dengan santainya menerobos barisan penjaga bersenjata itu dan bersandar di dinding."
+    },
+    {
+      "id": 17,
+      "content": "Dia lalu melipat tangannya, seolah ingin mempertegas kalau dia cuma bakal jadi penonton."
+    }
+  ]
+}
