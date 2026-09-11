@@ -1,0 +1,348 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Di Dalam Mephistopheles",
+      "content": "Matahari hampir terbenam, menyisakan bus yang mulai diselimuti senja."
+    },
+    {
+      "id": 1,
+      "model": "카론",
+      "content": "… … ……"
+    },
+    {
+      "id": 2,
+      "content": "Charon bersenandung sambil menyetir."
+    },
+    {
+      "id": 3,
+      "content": "Aku mendapati diriku ikut bernyanyi dalam hati mengikuti nada yang entah kenapa terasa familier itu."
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Pertunjukan yang paling indah lahir dari hal-hal yang hancur dan rusak. Ironis ya, cara dunia ini bekerja."
+    },
+    {
+      "id": 5,
+      "content": "Vergilius angkat bicara, menyadari kalau sedari tadi aku menatap ke arah kursi kemudi."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "Sayangnya, mereka tidak punya hak istimewa untuk bisa sepenuhnya menikmati kegembiraan dari musik mereka sendiri... Oh, betapa tidak adilnya hal itu."
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스",
+      "content": "Charon, kamu kelihatannya sedang bahagia hari ini."
+    },
+    {
+      "id": 9,
+      "content": "Charon mengangguk."
+    },
+    {
+      "id": 10,
+      "model": "카론",
+      "content": "Mhm, rasa senang bikin Charon nyanyi."
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "Begitu ya."
+    },
+    {
+      "id": 12,
+      "model": "베르길리우스",
+      "content": "Meskipun..."
+    },
+    {
+      "id": 13,
+      "model": "베르길리우스",
+      "content": "Seingatku, kamu sering menyenandungkan lagu itu saat sedang sedih."
+    },
+    {
+      "id": 14,
+      "model": "카론",
+      "content": "Charon nggak punya ingatan kayak gitu."
+    },
+    {
+      "id": 15,
+      "model": "카론",
+      "content": "Charon nyanyi kalau lagi seneng."
+    },
+    {
+      "id": 16,
+      "content": "Mata Vergilius tampak dipenuhi bayangan gelap yang tertahan."
+    },
+    {
+      "id": 17,
+      "content": "Warna yang akan langsung terpilih, seandainya seseorang ingin melukiskan kesunyian sebagai sebuah warna."
+    },
+    {
+      "id": 18,
+      "content": "Tapi itu cuma bertahan sesaat..."
+    },
+    {
+      "id": 19,
+      "content": "Jadi kuputuskan untuk mengabaikannya, menganggapnya cuma trik cahaya dari matahari terbenam yang menyilaukan."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "...Dunia yang Charon senandungkan sekarang adalah dunia yang tidak punya suara dan warna."
+    },
+    {
+      "id": 21,
+      "model": "베르길리우스",
+      "content": "Dia sedang melewati terowongan panjang yang ujungnya tak terlihat."
+    },
+    {
+      "id": 22,
+      "content": "Aku yakin, sama seperti kisah hidupku sendiri yang telah kulupakan..."
+    },
+    {
+      "id": 23,
+      "content": "Charon dan Vergilius pasti punya benang pengingat kejam mereka sendiri."
+    },
+    {
+      "id": 24,
+      "model": "베르길리우스",
+      "content": "Ah, maafkan saya. Saya rasa sudah cukup cerita pribadinya, Dante."
+    },
+    {
+      "id": 25,
+      "model": "베르길리우스",
+      "content": "Tugasmu adalah mengurus krumu, bukan berteman dengan pemandu tua ini."
+    },
+    {
+      "id": 26,
+      "content": "Ketika aku menatap wajahnya lagi, sedikit raut kesedihan tadi telah sirna, digantikan seulas senyum tipis."
+    },
+    {
+      "id": 27,
+      "content": "Aku mengangguk beberapa kali, lalu berbalik untuk memeriksa keadaan para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 28,
+      "content": "Penumpang bus kita ini semangatnya lagi naik sejak tadi."
+    },
+    {
+      "id": 29,
+      "content": "Itu berkat keberhasilan mereka ngelakuin apa yang ditugasin ke mereka dan berhasil ngamanin <ruby=Ranting Emas>Golden Bough</ruby> buat pertama kalinya."
+    },
+    {
+      "id": 30,
+      "content": "Semua <ruby=Pendosa>Sinners</ruby> sibuk ngomongin aksi heroik mereka di <ruby=Distrik>District</ruby> J Corp."
+    },
+    {
+      "id": 31,
+      "model": "로쟈",
+      "content": "Lu harusnya liat gue ngeluarin kartu yang tadi itu. Serius deh, itu bagian paling kerennya~"
+    },
+    {
+      "id": 32,
+      "model": "그레고르",
+      "content": "...Gue mulai muak denger cerita yang sama tujuh kali berturut-turut, jadi mending gue ganti topik aja: Kita mau ke mana kali ini?"
+    },
+    {
+      "id": 33,
+      "model": "베르길리우스",
+      "content": "Kali ini... kita menuju ke <ruby=Sarang>Nest</ruby> K Corp."
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "<ruby=Distrik>District</ruby> 11, ya? Kerjaan ini bawa gue ke tempat-tempat yang nggak pernah kepikiran bakal gue datengin."
+    },
+    {
+      "id": 35,
+      "model": "돈키호테",
+      "content": "Itu adalah kampung halaman dari tokoh hebat lainnya! Dan pastinya <ruby=kalian>kisanak</ruby> bakal nemuin toko suvenir di sana! <ruby=Aku>Hamba</ruby> dari dulu sangat mendambakan set figurin edisi terbatas!"
+    },
+    {
+      "id": 36,
+      "model": "로쟈",
+      "content": "Ooo~ Bukannya di sana juga ada restoran cabang yang terkenal sama bistik hamburg-nya ya?"
+    },
+    {
+      "id": 37,
+      "model": "오티스",
+      "content": "Hah... Hidup jadi jauh lebih gampang akhir-akhir ini ya? Dulu waktu zaman saya wajib militer, bekal di mulut saya cuma sedikit garam."
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Bener banget, kan? Satu-satunya makanan yang bisa gue telan selama pelayaran cuma sup kalengan yang rasanya kayak besi."
+    },
+    {
+      "id": 39,
+      "model": "로쟈",
+      "content": "...G-Gak sabar pengen nyobain bistiknya~ Ya kan, Ryōshū?"
+    },
+    {
+      "id": 40,
+      "model": "료슈",
+      "content": "Yah, kalo mikirin variasi warna darah tiap daerah, jadi ngiler juga sih."
+    },
+    {
+      "id": 41,
+      "model": "로쟈",
+      "content": "Ugh... Nggak bisa diajak ngobrol emang lu. Eh, bocil! Lu mau makan apa?"
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "……"
+    },
+    {
+      "id": 43,
+      "content": "Nyari orang yang bisa diajak cerita dan ngobrol nyambung, Rodya secara natural noleh ke Sinclair."
+    },
+    {
+      "id": 44,
+      "content": "Tapi..."
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Sinclair?"
+    },
+    {
+      "id": 46,
+      "model": "로쟈",
+      "content": "Hah—?! Ya ampun, lu kenapa?!"
+    },
+    {
+      "id": 47,
+      "model": "뫼르소",
+      "content": "Dia menjadi pucat. Dia juga mengalami hiperventilasi dan tremor."
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<S-Sejak kapan dia kayak gini?>"
+    },
+    {
+      "id": 49,
+      "model": "뫼르소",
+      "content": "Sejak Tuan Vergilius menyebut K Corp."
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Kenapa kamu nggak ngasih tau aku dari tadi?>"
+    },
+    {
+      "id": 51,
+      "model": "뫼르소",
+      "content": "...Karena Anda tidak memerintahkan saya untuk melakukannya."
+    },
+    {
+      "id": 52,
+      "content": "Meursault menatapku seakan-akan akulah yang salah karena nggak ngelakuin hal yang udah jelas."
+    },
+    {
+      "id": 53,
+      "model": "싱클레어",
+      "content": "A... Perutku cuma agak mual aja. Maaf."
+    },
+    {
+      "id": 54,
+      "model": "로쟈",
+      "content": "Lu beneran yakin nggak apa-apa...?"
+    },
+    {
+      "id": 55,
+      "model": "단테",
+      "content": "<Kalau dipikir-pikir lagi...>"
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<Faust, aku nyadar ada pola di mana salah satu dari kita nunjukin reaksi emosional yang kuat tiap kali Vergilius ngumumin tujuan kita.>"
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<Terus, pas kita nyampe, ternyata tempat itu emang punya sejarah sama orang yang bersangkutan.>"
+    },
+    {
+      "id": 58,
+      "model": "단테",
+      "content": "<Apa itu ada hubungannya sama alasan kita gabung ke perusahaan ini?>"
+    },
+    {
+      "id": 59,
+      "model": "파우스트",
+      "content": "...Anda baru saja menyebut tim ini sebagai \"kita\"."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Hah?>"
+    },
+    {
+      "id": 61,
+      "model": "파우스트",
+      "content": "Mendeteksi perubahan sekecil apa pun adalah bagian dari misi Faust."
+    },
+    {
+      "id": 62,
+      "model": "파우스트",
+      "content": "Mengenai pertanyaan Anda, meskipun Faust tidak bisa memberi tahu Anda alasan perekrutan para <ruby=Pendosa>Sinners</ruby> secara detail..."
+    },
+    {
+      "id": 63,
+      "model": "파우스트",
+      "content": "Tidak ada gunanya menyangkal bahwa tujuan kita dan latar belakang setiap <ruby=Pendosa>Sinner</ruby> memang berkaitan sampai tingkat tertentu."
+    },
+    {
+      "id": 64,
+      "model": "히스클리프",
+      "content": "...Apa semua orang sok pinter emang punya penyakit yang bikin mereka ngebacot terus soal hal yang bisa dijawab pake iya atau nggak doang?"
+    },
+    {
+      "id": 65,
+      "model": "파우스트",
+      "content": "Hysteron proteron tidak selalu benar. Faust sekadar mengadopsi mode komunikasi yang paling efektif untuk situasi tertentu."
+    },
+    {
+      "id": 66,
+      "model": "히스클리프",
+      "content": "Hyst... Hystero apaan?"
+    },
+    {
+      "id": 67,
+      "model": "파우스트",
+      "content": "...Itu artinya Anda kesulitan memahami Faust karena Anda terlalu tidak berpendidikan, bukan karena Faust terlalu berpendidikan."
+    },
+    {
+      "id": 68,
+      "model": "히스클리프",
+      "content": "Anjir,bangsat lu...!"
+    },
+    {
+      "id": 69,
+      "model": "싱클레어",
+      "content": "Huek..."
+    },
+    {
+      "id": 70,
+      "content": "Tepat saat Heathcliff nyamperin Faust dengan tongkat pemukulnya yang gemetar karena marah..."
+    },
+    {
+      "id": 71,
+      "content": "Sinclair tiba-tiba muntah di lantai."
+    },
+    {
+      "id": 72,
+      "content": "Bus akhirnya jadi hening setelah itu."
+    }
+  ]
+}
