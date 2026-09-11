@@ -1,0 +1,142 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Di Dalam Mephistopheles",
+      "content": "Tidak lama setelah situasi dengan Sinclair diurus..."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "Ngomong-ngomong, maksud lu <ruby=Jalanan Belakang>Backstreets</ruby> dari <ruby=Distrik>District</ruby> 11 pas lu bilang <ruby=Sarang>Nest</ruby> K Corp, kan?"
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Gue lupa nanyain tadi soalnya pada agak kelewat heboh..."
+    },
+    {
+      "id": 3,
+      "model": "베르길리우스",
+      "content": "Saya jarang sekali salah bicara, kalaupun pernah."
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Saya tahu apa yang saya katakan, Gregor. <ruby=Sarang>Nest</ruby> K Corp adalah tujuan kita."
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "Hah, oke deh, tapi kalau kita masuk ke <ruby=Sarang>Nest</ruby>..."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "Tentu saja, ada proses imigrasi."
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "Gue nggak punya visa K Corp. Lu nggak lagi mau bilang kalau yang lain pada punya, kan?"
+    },
+    {
+      "id": 8,
+      "model": "히스클리프",
+      "content": "Apaan. Ngapain lu ngeliatin gue?"
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "Solusinya gampang: C. I."
+    },
+    {
+      "id": 10,
+      "model": "료슈",
+      "content": "Lalu lanjut D. E. R. sampai pertahanan mereka jebol."
+    },
+    {
+      "id": 11,
+      "model": "료슈",
+      "content": "Singkatnya, CIDER. Huhu…"
+    },
+    {
+      "id": 12,
+      "content": "Apapun maksud singkatan aneh Ryōshū itu, para <ruby=Pendosa>Sinner</ruby> udah belajar buat nggak mempertanyakannya lagi."
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Perusahaan segede kita mungkin bakal dapet akses masuk khusus."
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Lagian, nerobos masuk pake metode gokil ala Ryōshū bakal makan waktu seabad. Seberapa meremehkannya lu sama <ruby=Sarang>Nest</ruby> yang diatur langsung sama sebuah <ruby=Sayap>The Wing</ruby> sampai bisa ngomong gitu?"
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Oh, gitu ya, nggak ada yang mikirin seberapa menderitanya aku gara-gara CIDER itu, hah?>"
+    },
+    {
+      "id": 16,
+      "content": "Sayangnya, nggak ada satu pun dari <ruby=Pendosa>Sinner</ruby> kita yang repot-repot merespons kata-kataku sama sekali."
+    },
+    {
+      "id": 17,
+      "model": "베르길리우스",
+      "content": "Seperti yang Ishmael bilang, kita akan melewati imigrasi tanpa perlu visa."
+    },
+    {
+      "id": 18,
+      "model": "베르길리우스",
+      "content": "Limbus Company punya dukungan dari para pemegang saham di berbagai macam bidang."
+    },
+    {
+      "id": 19,
+      "model": "홍루",
+      "content": "Oh, kalau begitu apa Anda kebetulan kenal dengan pemegang saham H Corp?"
+    },
+    {
+      "id": 20,
+      "model": "홍루",
+      "content": "Mereka pernah datang langsung ke rumah kami karena adikku bersikeras pengen punya paspor merah waktu masih kecil."
+    },
+    {
+      "id": 21,
+      "model": "베르길리우스",
+      "content": "Entahlah, saya ini cuma pemandu rendah hati yang tidak berada di posisi untuk tahu hal semacam itu."
+    },
+    {
+      "id": 22,
+      "model": "베르길리우스",
+      "content": "Lagi pula, pertanyaan itu sepertinya tidak terlalu penting untuk dijawab."
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "content": "Jahatnya..."
+    },
+    {
+      "id": 24,
+      "model": "베르길리우스",
+      "content": "Tinggal rute menuju pos pemeriksaan saja yang jadi masalah kita sekarang."
+    },
+    {
+      "id": 25,
+      "model": "베르길리우스",
+      "content": "Pemeriksaan ketat berarti ada banyak orang yang mencari jalan masuk mudah, termasuk mereka yang mau merampas akses masuk secara paksa."
+    },
+    {
+      "id": 26,
+      "model": "뫼르소",
+      "content": "…Saya mendengar beberapa penyusup mengepung bus ini."
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<Yah... Ada bus, ada baku hantam.>"
+    }
+  ]
+}
