@@ -148,7 +148,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnStartCoin] Consumes up to 8 [Charge] Count</style>"
+                  "desc": "<style=\"highlight\">[OnStartCoin] Consume up to 8 [Charge] Count</style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If this Coin consumed [Charge] Count, deal Envy damage equal to ([Charge] Count consumed x 5)% of this Coin's final damage (min 5%, max 40%)</style>"
