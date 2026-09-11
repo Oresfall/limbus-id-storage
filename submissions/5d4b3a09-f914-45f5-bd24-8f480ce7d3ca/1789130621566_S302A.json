@@ -1,0 +1,107 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Di Dalam Mephistopheles",
+      "model": "카론",
+      "content": "Parkiran super senang ala Charon yang super senang."
+    },
+    {
+      "id": 1,
+      "model": "베르길리우스",
+      "content": "Baiklah, turun dari bus. Waktunya diperiksa."
+    },
+    {
+      "id": 2,
+      "model": "베르길리우스",
+      "content": "Ah, dan biar saya tambahkan ini untuk berjaga-jaga kalau kalian merasa ingin melakukan tingkah konyol kalian yang biasanya."
+    },
+    {
+      "id": 3,
+      "model": "베르길리우스",
+      "content": "Jangan pergi membuat keributan dan berharap semuanya berjalan sesuai keinginan kalian..."
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Karena bukan seperti itu cara kerjanya di tempat yang satu ini."
+    },
+    {
+      "id": 5,
+      "content": "Aku pikir kata-katanya lumayan mengintimidasi, tapi di luar kekhawatiran itu..."
+    },
+    {
+      "id": 6,
+      "place": "Pos Pemeriksaan K Corp.",
+      "model": "더미2",
+      "teller": "Pengumuman",
+      "title": "Pos Pemeriksaan K Corp.",
+      "content": "Kami menyambut semua pengunjung ke <ruby=Sarang>Nest</ruby> K Corp dengan tangan terbuka."
+    },
+    {
+      "id": 7,
+      "model": "더미2",
+      "teller": "Pengumuman",
+      "title": "Pos Pemeriksaan K Corp.",
+      "content": "Harap membentuk barisan yang tertib saat Anda masuk, dan berdirilah di tempat yang ditunjukkan oleh instruksi."
+    },
+    {
+      "id": 8,
+      "content": "Suasana yang mengancam dan penuh interogasi itu bisa meredam emosi pengunjung yang baru pertama kali datang—dan para <ruby=Pendosa>Sinner</ruby> pun tidak terkecuali."
+    },
+    {
+      "id": 9,
+      "content": "Sesekali aku bisa mendengar Sinclair sesenggukan, disusul oleh Rodya dan Gregor yang menenangkannya."
+    },
+    {
+      "id": 10,
+      "content": "Tiap pertanyaanku tentang alasannya cuma dibalas dengan gelengan kepala."
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "Lihatlah, betapa menyenangkannya melihat kalian semua tetap di dalam barisan dan bersikap manis. Seperti sekelompok anak ayam yang sedang bertamasya."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "Tunggu, ngapain lu ikut di luar sini..."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Tumben-tumbenan kamu ngikutin kita keluar bus kali ini...?>"
+    },
+    {
+      "id": 14,
+      "content": "Menyadari reaksiku yang kebingungan karena kedatangannya yang tak terduga, Vergilius pun angkat bicara."
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "Karena ini adalah <ruby=Sarang>Nest</ruby>, Dante."
+    },
+    {
+      "id": 16,
+      "model": "베르길리우스",
+      "content": "Kalau salah satu dari kalian sampai mendapat masalah yang tak terduga di sini..."
+    },
+    {
+      "id": 17,
+      "model": "베르길리우스",
+      "content": "Yah, Dante, tanggung jawabnya akan jadi sedikit terlalu berat untuk anda tanggung sendirian."
+    },
+    {
+      "id": 18,
+      "content": "Kalau Vergilius ngomong kayak gitu..."
+    },
+    {
+      "id": 19,
+      "content": "Kedengarannya seolah dia lagi bilang \"Kamu tuh nggak cukup bisa diandalkan buat dilepas tanpa pengawasan.\""
+    },
+    {
+      "id": 20,
+      "content": "...Tapi aku tahu mendingan hal ini kusimpan sendiri aja."
+    }
+  ]
+}
