@@ -1,0 +1,515 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pos Pemeriksaan K Corp.",
+      "model": "이스마엘",
+      "content": "Barisan ini bergerak cepat. Paling lambat sekitar 10 menit lagi giliran kita."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Apa kita bertiga belas harus ngejawab pertanyaan imigrasi? Mereka nggak bakal ngerti bahasanya Manajer Dante, terus kita harus gimana?"
+    },
+    {
+      "id": 2,
+      "content": "Ishmael tampaknya punya kebiasaan bicara cepat dan jadi lebih cerewet kalau lagi cemas."
+    },
+    {
+      "id": 3,
+      "model": "베르길리우스",
+      "content": "Saya baru saja mau membahas hal itu."
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Dengarkan. Petugas K Corp. hanya akan menanyakan pertanyaan yang sangat sederhana kepada pengunjung di barisan ini."
+    },
+    {
+      "id": 5,
+      "model": "베르길리우스",
+      "content": "Dan jawaban kalian juga harus sama singkatnya."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "Saat petugas perbatasan bertanya tentang tujuan kunjungan kalian..."
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "Katakan: “Saya di sini untuk urusan bisnis atas nama Limbus Company, silakan periksa visa kerja saya.”"
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스",
+      "content": "Ingat kalimat persis ini supaya kalian bisa mengucapkannya kata demi kata."
+    },
+    {
+      "id": 9,
+      "model": "베르길리우스",
+      "content": "Saya yang akan mengurus sisanya, jadi kalian hanya perlu membuktikan kalau kalian tidak ada di sini untuk membuat masalah."
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Kalau menghafal kalimat itu saja terlalu membebani kalian, saya sarankan kalian tutup mulut rapat-rapat."
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "Kalian bisa menyerahkan kartu pegawai kalian sebagai gantinya."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Diam dan jangan bikin masalah. Tugas paling gampang di dunia.>"
+    },
+    {
+      "id": 13,
+      "content": "Aku diam-diam menggumamkan komentar sarkastis."
+    },
+    {
+      "id": 14,
+      "content": "Aku sempat khawatir Faust bakal ngaduin aku, tapi syukurlah..."
+    },
+    {
+      "id": 15,
+      "content": "Vergilius lagi bengong menatap ke arah lain, membebaskanku dari omelan pedasnya."
+    },
+    {
+      "id": 16,
+      "model": "베르길리우스",
+      "content": "Sekarang, hal berikutnya."
+    },
+    {
+      "id": 17,
+      "model": "베르길리우스",
+      "content": "Jika kalian punya pertanyaan, pastikan dulu untuk bertanya pada diri sendiri apakah itu memang berbobot."
+    },
+    {
+      "id": 18,
+      "model": "베르길리우스",
+      "content": "Lalu angkat tangan dengan tenang."
+    },
+    {
+      "id": 19,
+      "content": "Beberapa tangan terangkat, termasuk tanganku."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "Rodion."
+    },
+    {
+      "id": 21,
+      "model": "로쟈",
+      "content": "Karena perjalanan ini buat urusan bisnis, kita boleh bawa senjata kita, kan~?"
+    },
+    {
+      "id": 22,
+      "model": "베르길리우스",
+      "content": "Benar. Selanjutnya."
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "content": "Terus, tangan serangga Greg yang menjijikkan dan kepala jam Dante yang norak itu juga dibolehin?"
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Harusnya begitu. Sebagai informasi buat lu, kepala manajer kita dihitung sebagai prostetik ketimbang senjata, yang artinya itu bakal disetujui bahkan kalau kita cuma punya visa turis, terlepas dari kekuatannya buat ngehidupin orang mati."
+    },
+    {
+      "id": 25,
+      "content": "Ishmael mengambil peran sebagai murid teladan dan menjawab mewakili Vergilius."
+    },
+    {
+      "id": 26,
+      "content": "Kayaknya ada yang berubah dari sikap Ishmael sejak tugas di kasino waktu itu..."
+    },
+    {
+      "id": 27,
+      "content": "Dia sepertinya memutuskan buat ngambil alih kendali setelah aku mengkhianati ekspektasinya soal kemampuanku sebagai pemimpin."
+    },
+    {
+      "id": 28,
+      "model": "베르길리우스",
+      "content": "Tepat sekali."
+    },
+    {
+      "id": 29,
+      "content": "Gregor dan aku menurunkan tangan kami di saat bersamaan."
+    },
+    {
+      "id": 30,
+      "model": "베르길리우스",
+      "content": "Dan, Ryōshū. Matikan rokokmu sebelum kamu bicara."
+    },
+    {
+      "id": 31,
+      "model": "료슈",
+      "content": "…Gue nggak angkat tangan."
+    },
+    {
+      "id": 32,
+      "model": "돈키호테",
+      "content": "……"
+    },
+    {
+      "id": 33,
+      "content": "Vergilius berusaha keras mengabaikan tangan Don Quixote yang terentang tinggi ke atas..."
+    },
+    {
+      "id": 34,
+      "content": "Tapi akhirnya dia menyerah dan memberikan wanita yang bersikeras mengangkat tangannya itu kesempatan untuk bicara."
+    },
+    {
+      "id": 35,
+      "model": "베르길리우스",
+      "content": "…Baiklah, Don Quixote. Ada apa?"
+    },
+    {
+      "id": 36,
+      "model": "더미",
+      "teller": "Don Quixote",
+      "title": "Sinner #3",
+      "content": "Untuk tujuan apakah gerangan penghalang kaca itu berdiri?"
+    },
+    {
+      "id": 37,
+      "content": "Mengikuti arah telunjuk Don Quixote, perhatian kami tertuju pada dinding kaca yang berdiri di tengah bangunan."
+    },
+    {
+      "id": 38,
+      "content": "Di sisi lain dinding pemisah yang bening itu..."
+    },
+    {
+      "id": 39,
+      "content": "Ada banyak sekali orang yang menunggu dalam antrean."
+    },
+    {
+      "id": 40,
+      "model": "그레고르",
+      "content": "Antrean itu lambatnya minta ampun, orang-orang pada duduk di lantai nunggu gilirannya maju."
+    },
+    {
+      "id": 41,
+      "model": "그레고르",
+      "content": "Kayaknya mereka udah di sana lumayan lama deh."
+    },
+    {
+      "id": 42,
+      "model": "뫼르소",
+      "content": "Ada banyak penjaga bersenjata juga. Jumlahnya tiga kali lipat dibandingkan sisi ini."
+    },
+    {
+      "id": 43,
+      "model": "베르길리우스",
+      "content": "…Sebagian besar dinding kaca yang kalian temukan di dalam bangunan ada di sana demi alasan keamanan."
+    },
+    {
+      "id": 44,
+      "model": "로쟈",
+      "content": "Yah~ Gampangnya, antrean itu buat orang-orang <ruby=Jalanan Belakang>Backstreets</ruby>. Tiap <ruby=Sarang>Nest</ruby> nanganin imigrasi dengan cara beda-beda, tapi di mana pun itu, masuk ke <ruby=Sarang>Nest</ruby> lain tanpa visa yang bener itu susahnya minta ampun."
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Menurut lu kenapa preman-preman itu nyerang kita pas di jalan ke pos pemeriksaan? Mereka mau visa kita biar bisa masuk ke <ruby=Sarang>Nest</ruby>."
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "…Sebuah masalah yang tidak berada dalam kuasa kita untuk diselesaikan."
+    },
+    {
+      "id": 47,
+      "content": "Namun, jawaban itu tak memuaskan Don Quixote."
+    },
+    {
+      "id": 48,
+      "content": "Entah apakah ini salah dari suasana suram namun menindas dari area di balik dinding kaca itu..."
+    },
+    {
+      "id": 49,
+      "content": "Atau keributan yang terjadi di dalam sana, aku tak bisa memastikannya."
+    },
+    {
+      "id": 50,
+      "model": "오티스",
+      "content": "Manajer, giliran kita sekarang."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<Hah? Oh iya…>"
+    },
+    {
+      "id": 52,
+      "content": "Antrean kami bergerak sangat cepat, kami hampir nggak punya waktu buat ngobrol sebelum tiba giliran kami menjawab pertanyaan petugas."
+    },
+    {
+      "id": 53,
+      "model": "이스마엘",
+      "content": "Ingat: Saat kalian ditanya tentang tujuan kunjungan kalian..."
+    },
+    {
+      "id": 54,
+      "model": "료슈",
+      "content": "…Ngingetin gue sekali lagi dan gue bakal nunjukin S.A.N.G.R.I.A ke lu dan petugas itu atau siapalah."
+    },
+    {
+      "id": 55,
+      "content": "Terlepas dari kekhawatiran Ishmael, pemeriksaan kami berjalan mulus."
+    },
+    {
+      "id": 56,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "Harap sebutkan afiliasi dan tujuan kunjungan Anda."
+    },
+    {
+      "id": 57,
+      "model": "그레고르",
+      "content": "Ah, gue dari Limbus Company mau ngurus bisnis. Ini kartu pegawai gue."
+    },
+    {
+      "id": 58,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "…Semua sudah diperiksa. Selanjutnya."
+    },
+    {
+      "id": 59,
+      "model": "로쟈",
+      "content": "Dari Limbus Company. Alasan bisnis. Liat aja kartu gue dan semacamnya."
+    },
+    {
+      "id": 60,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "…Semua sudah diperiksa. Selanjutnya."
+    },
+    {
+      "id": 61,
+      "content": "Setelah <ruby=Pendosa>Sinner</ruby> pertama kami membuktikan untuk siapa kita bekerja, sisanya jadi gampang banget buat kami."
+    },
+    {
+      "id": 62,
+      "content": "Petugas itu menanyakan pertanyaan yang sama dengan nada datar, melirik sekilas ke wajah dan kartu pegawai kami―meski dilihat dari kecepatannya, itu lebih terlihat seperti gestur formalitas ketimbang benar-benar memeriksa―lalu membiarkan tiap <ruby=Pendosa>Sinner</ruby> lewat."
+    },
+    {
+      "id": 63,
+      "model": "더미2",
+      "teller": "Orang-orang di Antrean",
+      "title": "Distrik 11",
+      "content": "…… ……"
+    },
+    {
+      "id": 64,
+      "model": "이스마엘",
+      "content": "…Ada yang nggak beres di sebelah sana."
+    },
+    {
+      "id": 65,
+      "content": "Dinding kaca yang berdiri di antara kami dan mereka cukup tebal untuk meredam suara."
+    },
+    {
+      "id": 66,
+      "content": "Sulit bagi kami untuk mengetahui apa yang sedang terjadi di balik dinding itu."
+    },
+    {
+      "id": 67,
+      "content": "Namun, aku bisa melihat apa yang terjadi dengan jelas; seseorang dengan tangan diborgol sedang diseret pergi oleh petugas keamanan."
+    },
+    {
+      "id": 68,
+      "content": "Dan seorang anak kecil menangis di sebelahnya, jelas-jelas ketakutan dan bingung."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "content": "…Kita nggak perlu ikut campur. Gue nggak tau apa yang terjadi, tapi tebakan gue seseorang ngelanggar <ruby=Larangan>Taboo</ruby>."
+    },
+    {
+      "id": 70,
+      "model": "히스클리프",
+      "content": "Iya, tentu aja. Para perusuh melarat itu dan kelancangan mereka ngelanggar <ruby=Larangan>Taboo</ruby> gara-gara nggak nyelipin cukup duit ke kantong orang yang tepat, bener kan?"
+    },
+    {
+      "id": 71,
+      "model": "이스마엘",
+      "content": "…Apa lu lagi ngejek gue sekarang?"
+    },
+    {
+      "id": 72,
+      "model": "히스클리프",
+      "content": "Hah. Apaan, gue kira lu nggak peduli? Kayaknya ada yang lagi uring-uringan nih."
+    },
+    {
+      "id": 73,
+      "content": "Sementara aku teralihkan oleh Heathcliff yang merayakan ejekan sukses pertamanya pada Ishmael dengan lantang..."
+    },
+    {
+      "id": 74,
+      "content": "Tersangka langganan kita tiba-tiba beraksi lagi di saat yang paling tak terduga darinya."
+    },
+    {
+      "id": 75,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "Harap sebutkan afiliasi dan tujuan kunjungan Anda."
+    },
+    {
+      "id": 76,
+      "model": "돈키호테",
+      "content": "……"
+    },
+    {
+      "id": 77,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby> datang untuk membebaskan mereka yang lemah dan tak berdaya!"
+    },
+    {
+      "id": 78,
+      "content": "Sebuah emosi terpancar untuk pertama kalinya di wajah petugas pos pemeriksaan itu."
+    },
+    {
+      "id": 79,
+      "content": "Tercengang."
+    },
+    {
+      "id": 80,
+      "content": "Mereka menatap ke arah Don Quixote dengan wajah yang menjeritkan keheranan."
+    },
+    {
+      "id": 81,
+      "model": "돈키호테",
+      "content": "Lepaskan mereka sekarang juga! Tidakkah <ruby=kalian>kisanak</ruby> melihat bahwa mereka sedang menderita?"
+    },
+    {
+      "id": 82,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "…Harap sebutkan afiliasi dan tujuan kunjungan Anda."
+    },
+    {
+      "id": 83,
+      "content": "Petugas itu mengabaikan tuntutannya dan membeo mengulang pertanyaan yang sama."
+    },
+    {
+      "id": 84,
+      "content": "Sementara itu, Don Quixote menjadi semakin kesal setiap menitnya."
+    },
+    {
+      "id": 85,
+      "content": "Dan kemudian..."
+    },
+    {
+      "id": 86,
+      "content": "Saat menatap menembus dinding transparan itu lagi..."
+    },
+    {
+      "id": 87,
+      "content": "Aku melihat anak yang putus asa itu meneriakkan sesuatu tanpa suara ke arah pria yang diseret dengan borgol:"
+    },
+    {
+      "id": 88,
+      "teller": "Anak Kecil",
+      "title": "???",
+      "content": "“A..."
+    },
+    {
+      "id": 89,
+      "teller": "Anak Kecil",
+      "title": "???",
+      "content": "yaaah!”"
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "Jika <ruby=kalian>kisanak</ruby> enggan untuk bertindak, maka <ruby=aku>hamba</ruby> sendiri yang akan melakukannya!"
+    },
+    {
+      "id": 91,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "…Hoo."
+    },
+    {
+      "id": 92,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "Kode ungu. Kode ungu. Pelanggaran <ruby=Larangan>Taboo</ruby> K185 di lokasi."
+    },
+    {
+      "id": 93,
+      "model": "검문소경비",
+      "teller": "Petugas Pos Pemeriksaan",
+      "title": "K Corp.",
+      "content": "Meminta unit <ruby=Trombosit>Thrombocyte</ruby>. Ulangi, meminta unit <ruby=Trombosit>Thrombocyte</ruby>…"
+    },
+    {
+      "id": 94,
+      "content": "Beralih dari interogasi layaknya kaset rusak, petugas itu menyuarakan respons imun yang mengintimidasi ke radionya."
+    },
+    {
+      "id": -1,
+      "model": "//효과음",
+      "content": "Kwang Kwang Kwang (suara pintu logam menghantam turun dengan keras)"
+    },
+    {
+      "id": -1,
+      "model": "//효과음",
+      "content": "Sirene"
+    },
+    {
+      "id": 95,
+      "model": "더미2",
+      "teller": "Pengumuman",
+      "title": "K Corp.",
+      "content": "Perhatian kepada seluruh personel: Kode ungu. Kode ungu. Aula Sirkulasi 2, Bilik Pemeriksaan 14. <ruby=Trombosit>Thrombocyte</ruby>, <ruby=Leukosit>Leukocyte</ruby>."
+    },
+    {
+      "id": 96,
+      "content": "Raungan sirene mengiringi pengumuman yang membingungkan itu, sementara gerbang logam tebal tertutup mengurung kami."
+    },
+    {
+      "id": 97,
+      "model": "히스클리프",
+      "content": "…Harusnya gue pecahin aja tuh tengkoraknya terus gue seret ke dalem karung mayat."
+    },
+    {
+      "id": 98,
+      "model": "이스마엘",
+      "content": "Gue ragu itu bakal banyak ngerubah keadaan."
+    },
+    {
+      "id": 99,
+      "model": "이상",
+      "content": "Thrombo, Leuko… Kurasa mereka masing-masing merujuk pada trombosit dan sel darah putih."
+    },
+    {
+      "id": 100,
+      "model": "파우스트",
+      "content": "Pasti mereka. Sangat cocok untuk K Corp, menurut Faust."
+    },
+    {
+      "id": 101,
+      "content": "Melihat ke arah yang ditunjuk Faust, kami semua melihat apa yang dia maksud."
+    },
+    {
+      "id": 102,
+      "content": "Pasukan keamanan yang mengenakan seragam mengancam sedang menatap kami."
+    }
+  ]
+}
