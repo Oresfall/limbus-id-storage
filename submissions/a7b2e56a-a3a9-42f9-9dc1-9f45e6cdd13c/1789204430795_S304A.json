@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pos Pemeriksaan K Corp",
+      "model": "단테",
+      "content": "<Beneran cuma mau nonton dari situ aja?>"
+    },
+    {
+      "id": 1,
+      "model": "베르길리우스",
+      "content": "Anda tidak akan bisa memengaruhi saya dengan tatapan seperti itu, Manajer."
+    },
+    {
+      "id": 2,
+      "model": "베르길리우스",
+      "content": "Saya tidak lebih dari sekadar pemandu yang tidak dihiraukan siapa pun; akan sangat tidak sopan jika saya menghunuskan senjata saya."
+    },
+    {
+      "id": 3,
+      "model": "베르길리우스",
+      "content": "Baiklah, sebagai campur tangan untuk yang terakhir kalinya: <ruby=Singularitas>Singularity</ruby> K Corp mengambil wujud peluru penyembuh yang dapat memulihkan sebagian besar luka dalam sekejap mata."
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Saya rasa hal itu bisa disamakan dengan kemampuan Anda."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Eh, tunggu…!>"
+    },
+    {
+      "id": 6,
+      "content": "Benar-benar mengabaikan permohonanku yang lemah—bukan berarti mereka bisa mendengarnya juga sih—para penjaga keamanan K Corp bergerak mengepung kami."
+    }
+  ]
+}
