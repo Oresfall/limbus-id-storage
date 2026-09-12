@@ -1,0 +1,470 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pos Pemeriksaan K Corp.",
+      "content": "Setelah dua belas putaran penderitaan, para <ruby=Pendosa>Sinners</ruby> akhirnya kembali utuh."
+    },
+    {
+      "id": 1,
+      "content": "Pembantaian tadi pasti memberi mereka pelajaran berharga karena rasanya agak aneh melihat mereka setenang ini."
+    },
+    {
+      "id": 2,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Bagaimana kabarmu, Red Gaze? Kita jarang punya kesempatan bertemu akhir-akhir ini. Kau juga sudah tak pernah muncul lagi di 'Liga Fixer Penghuni <ruby=Sarang>Nest</ruby> Unggulan'..."
+    },
+    {
+      "id": 3,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Apa kau tak bisa membaca puluhan undangan yang kukirimkan padamu?"
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Saya pindah alamat. Dan saya tidak punya waktu untuk menjilat sepatu atasan sepertimu."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Aku nggak tau apa yang terjadi di antara mereka berdua, tapi... Vergilius agak sedikit bermusuhan di sini, kan?>"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Perbedaan sifat di antara mereka berdua cukup jelas, bukan, Dante?"
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<Dalam hal apa?>"
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "Singkatnya, Tuan Siegfried bisa dideskripsikan sebagai Fixer pro-<ruby=Sayap>The Wing</ruby> berdasarkan pandangan yang disuarakannya."
+    },
+    {
+      "id": 9,
+      "model": "파우스트",
+      "content": "Di sisi lain, pemandu kita Vergilius mencari kebebasan sebagai seorang Fixer."
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Dia percaya bahwa seorang Fixer akan kehilangan prinsip inti mereka di saat mereka menjadi bawahan dari suatu entitas yang berpengaruh."
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "Bagaimanapun juga, dia adalah seseorang yang bersikap keras terhadap mereka yang berkuasa."
+    },
+    {
+      "id": 12,
+      "content": "Saat berbicara dengan Faust, aku melihat Don Quixote gemetar dan mendekati Siegfried dengan tangan yang bergetar."
+    },
+    {
+      "id": 13,
+      "content": "Dia pasti merasa sangat terhormat bisa melihatnya secara langsung, bahkan setelah dicincang oleh tangannya beberapa saat yang lalu."
+    },
+    {
+      "id": 14,
+      "model": "돈키호테",
+      "content": "P, pe, pe, peng... penggemar,<ruby=aku>hamba</ruby> adalah penggemar <ruby=Anda>kisanak</ruby>! <ruby=Aku>Hamba</ruby> telah mengumpulkan patung figurin yang diukir menyerupai <ruby=Anda>kisanak</ruby>! Meskipun <ruby=aku>hamba</ruby> belum berhasil mendapatkan edisi terbatasnya... <ruby=Aku>Hamba</ruby> telah membulatkan tekad untuk menjadi Fixer yang luar biasa seperti <ruby=Anda>kisanak</ruby>!"
+    },
+    {
+      "id": 15,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Aha! Seorang calon Fixer! Waktuku tak banyak, tapi masih lebih dari cukup untuk memberikan tanda tangan!"
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "A... Apa itu benar? Kalau begitu, maukah <ruby=Anda>kisanak</ruby> memberikan... tanda tangan... di sini... Ehehe..."
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "content": "Napas pelan-pelan, Don Quixote..."
+    },
+    {
+      "id": 18,
+      "teller": "Pengumuman",
+      "title": "Pos Pemeriksaan K Corp.",
+      "content": "Perhatian. Kode ungu, dicabut. Kode ungu, dicabut. Semua kode dibersihkan."
+    },
+    {
+      "id": 19,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Hore! Pekerjaan yang diselesaikan dengan baik!"
+    },
+    {
+      "id": 20,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Kalau begitu, sampai jumpa lagi nanti! Hahahaha!!"
+    },
+    {
+      "id": 21,
+      "content": "Melompat dengan tenaga luar biasa, Siegfried menghilang ke udara..."
+    },
+    {
+      "id": 22,
+      "content": "Meskipun ada sedikit penundaan, pada akhirnya kami mendapatkan izin perjalanan tersebut."
+    },
+    {
+      "id": 23,
+      "content": "Sementara itu Vergilius kembali ke bus. Atau, mungkin dia cuma turun karena tahu kita bakal berpapasan dengan si Siegfried itu."
+    },
+    {
+      "id": 24,
+      "content": "Dia kelihatan agak kesal saat berjalan pergi, tapi tak ada orang lain yang begitu peduli..."
+    },
+    {
+      "id": 25,
+      "model": "돈키호테",
+      "content": "Ufu, wuhuhu..."
+    },
+    {
+      "id": 26,
+      "content": "Tak peka pada suasana canggung di sekitarnya, Don Quixote girang bukan main, mengelus-elus secarik kertas yang telah ditandatangani oleh Siegfried."
+    },
+    {
+      "id": 27,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby> pasti sedang bermimpi! Paduka Manajer! Maukah <ruby=Anda>kisanak</ruby> mencubit pipi <ruby=ku>hamba</ruby> sekali saja?"
+    },
+    {
+      "id": 28,
+      "content": "Tepat saat aku hendak berbicara pada Don Quixote yang sedang mabuk kepayang itu sembari berjalan keluar dari pos perbatasan..."
+    },
+    {
+      "id": 29,
+      "content": "Sebuah kendaraan lapis baja berhenti di depan kami."
+    },
+    {
+      "id": 30,
+      "model": "오티스",
+      "content": "...Musuh baru? Berani sekali mereka menantang kita tepat di depan pos pemeriksaan <ruby=Sarang>Nest</ruby>."
+    },
+    {
+      "id": 31,
+      "model": "파우스트",
+      "content": "Kendaraan ini dari... LCC, departemen pembersihan."
+    },
+    {
+      "id": 32,
+      "content": "Menyusul jawaban datar Faust, pintu kendaraan itu terbuka."
+    },
+    {
+      "id": 33,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Astaga, kalian kok lama banget sih? Kita sampai harus muter tiga putaran nungguin urusan kalian kelar."
+    },
+    {
+      "id": 34,
+      "content": "Beberapa wajah yang familier muncul dari dalam mobil."
+    },
+    {
+      "id": 35,
+      "content": "Effie, dan Saude."
+    },
+    {
+      "id": 36,
+      "content": "Meskipun pakaian mereka telah berganti, wajah mereka tetap memancarkan kepercayaan diri dan ketenangan yang sama."
+    },
+    {
+      "id": 37,
+      "model": "그레고르",
+      "content": "Oh, orang-orang dari Tim Before, ya? Harus gue akuin, ada yang kelihatan beda dari kalian."
+    },
+    {
+      "id": 38,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Itu penyamaran yang kita pakai buat menyusup ke kasino. Walaupun pada akhirnya nggak berguna sih."
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 40,
+      "model": "그레고르",
+      "content": "…Mulut pedesnya juga masih sama ya."
+    },
+    {
+      "id": 41,
+      "content": "Dadaku agak sesak mengingat betapa kacaunya secara harmonis operasi terakhir kami."
+    },
+    {
+      "id": 42,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Pft... Saude, lu liat jarum di jam itu gemeteran? Lu bakal bikin mereka nangis."
+    },
+    {
+      "id": 43,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Aku cuma bercanda. Walaupun kalian masih punya banyak ruang buat berkembang dalam hal keahlian, aku udah mutusin buat mengakui kalau departemen LCB punya ciri khasnya sendiri."
+    },
+    {
+      "id": 44,
+      "content": "Meskipun jalan yang kami tempuh cukup berat, kedengarannya kami memang meninggalkan kesan positif pada mereka berdua."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Tim Before seharusnya sudah ada di lokasi pada jam segini, bukan?"
+    },
+    {
+      "id": 46,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Yang lain harusnya udah di sana. Kami mutusin buat nungguin kalian karena ada info intel berguna yang mau kita bagi."
+    },
+    {
+      "id": 47,
+      "model": "그레고르",
+      "content": "Hmm… Intinya, kalian peduli sama kita, kan?"
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Pfhu, apa kita punya dua fans baru yang mabuk kepayang sama pesona kita?"
+    },
+    {
+      "id": 49,
+      "model": "로쟈",
+      "content": "Lu tau lah~ Mirip kayak—makanan yang dimasak dari bahan-bahan mengerikan, tapi hasil akhirnya bener-bener kejutan yang enak."
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "content": "Yap, gue banyak nemu yang kayak gitu di medan perang. Menyiksa buat ditelan, tapi entah gimana bikin kangen..."
+    },
+    {
+      "id": 51,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "…Makanan macam apa yang kalian berdua makan selama ini?"
+    },
+    {
+      "id": 52,
+      "model": "홍루",
+      "content": "Um, ngomong-ngomong, info intel apa yang mau kalian bagikan ke kami?"
+    },
+    {
+      "id": 53,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Ini soal lokasi target kita. Sepertinya faksi lain udah menempati tempat itu duluan."
+    },
+    {
+      "id": 54,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Hasilnya, kita bakal mengerahkan lebih banyak tenaga dari biasanya."
+    },
+    {
+      "id": 55,
+      "model": "오티스",
+      "content": "Hmph, berani taruhan mereka itu segerombolan lalat pengganggu lagi yang tertarik oleh peluang."
+    },
+    {
+      "id": 56,
+      "content": "Seperti yang diutarakan Outis, kami tak asing lagi dengan perjumpaan kelompok musuh yang tertarik mendekati <ruby=Ranting Emas>Golden Bough</ruby>."
+    },
+    {
+      "id": 57,
+      "content": "Pada misi pertama kami, tentara G Corp. yang tercerai-berai berlindung di fasilitas terbengkalai itu."
+    },
+    {
+      "id": 58,
+      "content": "Dan di misi kedua kami, berbagai macam geng mendiami kasino tersebut."
+    },
+    {
+      "id": 59,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Sayangnya, lawan kita kali ini bukan kroco-kroco tanpa nama kayak sebelumnya."
+    },
+    {
+      "id": 60,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Kita ngintip catatan pemeriksaan imigrasi dan menemukan fakta kalau N Corp. udah ngirim sekelompok pegawainya beberapa minggu lalu. Tujuan mereka juga sama kayak kita."
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Dari N Corp.?"
+    },
+    {
+      "id": 62,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Meskipun ini bukan aktivitas yang diumumin secara resmi, ngeliat K Corp. ngebiarin mereka lewat berarti mereka mungkin udah bikin kesepakatan di bawah meja."
+    },
+    {
+      "id": 63,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Yang berarti... kalau bener N Corp. udah ngirim staf lebih dulu, perjalanan ini nggak bakal mulus."
+    },
+    {
+      "id": 64,
+      "model": "그레고르",
+      "content": "…Begitu ya. Gue khawatir kita bakal cari musuh sama beberapa <ruby=Sayap>The Wings</ruby> seiring berjalannya waktu."
+    },
+    {
+      "id": 65,
+      "model": "파우스트",
+      "content": "Dalam jangka panjang, konflik dengan <ruby=Sayap>The Wings</ruby> akan menjadi sebuah proses yang tak bisa dihindari."
+    },
+    {
+      "id": 66,
+      "model": "파우스트",
+      "content": "Dilihat dari fakta bahwa N Corp. tidak memberitahukan pergerakan ini secara resmi, ini bisa berakhir sekadar sebagai konflik kepentingan."
+    },
+    {
+      "id": 67,
+      "model": "파우스트",
+      "content": "Lebih jauh lagi... Kita tidak bisa mengesampingkan kemungkinan bahwa bukan <ruby=Ranting Emas>Golden Bough</ruby> yang sedang mereka incar."
+    },
+    {
+      "id": 68,
+      "model": "그레고르",
+      "content": "Tetep nggak ngerubah fakta kalau kita ini cuma pion yang praktis buat dilempar ke sana-sini sama atasan kita..."
+    },
+    {
+      "id": 69,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Oh iya, gue denger ada orang-orang tolol yang bikin keributan di pos pemeriksaan K Corp. Kalian pada liat siapa mereka?"
+    },
+    {
+      "id": 70,
+      "model": "돈키호테",
+      "content": "…K—Kabar menyebar dengan begitu pesatnya. Seolah-olah... menunggangi Rocinante."
+    },
+    {
+      "id": 71,
+      "content": "Don Quixote menundukkan kepalanya, mungkin karena malu."
+    },
+    {
+      "id": 72,
+      "content": "Mungkin akhirnya dia mulai belajar bahwa tindakan cerobohnya punya konsekuensi."
+    },
+    {
+      "id": 73,
+      "content": "…Entah itu, atau aku yang salah sangka dan dia malah senang karena semakin banyak orang tahu apa yang sudah dia lakukan."
+    },
+    {
+      "id": 74,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Sayang banget aku kelewatan. Tontonan semacam itu kan nggak tiap hari ada."
+    },
+    {
+      "id": 75,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Serius deh, siapa juga orang waras yang bakal cari ribut sama <ruby=Sayap>The Wing</ruby> di pos perbatasan kalau nyawa mereka nggak rangkap..."
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 77,
+      "model": "돈키호테",
+      "content": "……"
+    },
+    {
+      "id": 78,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "…Tolong, jangan bilang kalau."
+    },
+    {
+      "id": 79,
+      "model": "이스마엘",
+      "content": "Ayo, kita nggak punya banyak waktu, mending kita jalan sekarang."
+    },
+    {
+      "id": 80,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Ah, ya ampun. Tuan Vergilius nggak keliatan lagi."
+    },
+    {
+      "id": 81,
+      "model": "그레고르",
+      "content": "…Oh, dia? Dia udah balik ke bus duluan."
+    },
+    {
+      "id": 82,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Sayang sekali. Padahal aku nggak mau ngelewatin kesempatanku buat menyapa..."
+    },
+    {
+      "id": 83,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Kita bakal ninggalin kesan ke dia lain kali, pegang kata-kataku. Aku berencana buat nanya ke dia apa kita bisa gabung tim menggantikan kalian."
+    },
+    {
+      "id": 84,
+      "model": "단테",
+      "content": "<Apa, itu alasan kalian pengen ketemu sama dia?>"
+    },
+    {
+      "id": 85,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Itu nggak sepenuhnya bercanda lho. Sampai ketemu di lokasi kalau gitu."
+    },
+    {
+      "id": 86,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Yah, itu pun kalau kalian bisa sampai ke sana utuh, sih."
+    }
+  ]
+}
