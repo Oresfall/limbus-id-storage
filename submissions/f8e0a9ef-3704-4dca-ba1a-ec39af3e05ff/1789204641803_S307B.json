@@ -1,0 +1,297 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pos Pemeriksaan K Corp.",
+      "content": "Seseorang mendekati kami dengan kekuatan yang mengerikan, mengingatkan kami pada binatang buas yang mengamuk."
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Oi, apaan... Makhluk apaan tuh yang lari ke arah kita?"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "Perkiraan waktu tiba adalah tiga detik. Manajer, keputusan Anda?"
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<A... Aku nggak tau, aku nggak yakin harus ngapain...>"
+    },
+    {
+      "id": 4,
+      "content": "Vergilius adalah satu-satunya yang nggak kelihatan kaget."
+    },
+    {
+      "id": 5,
+      "content": "Lebih tepatnya, dia kelihatan lebih nggak senang ketimbang nggak kaget sama kedatangan yang sepertinya udah diduga ini."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "Ah, itu kau rupanya. Bintang utamanya K Corp."
+    },
+    {
+      "id": 7,
+      "content": "Seorang pria berpenampilan ceria muncul di tengah kekacauan itu dengan tawa yang menjengkelkan."
+    },
+    {
+      "id": 8,
+      "model": "지크프리트",
+      "teller": "???",
+      "title": "???",
+      "content": "Salam untuk kalian semua! Kalian bebas menceritakan kisah keperkasaan yang bakal kalian saksikan di sini, namun untuk berfoto dan sejenisnya, wajib meminta izin dari K Corp terlebih dahulu!"
+    },
+    {
+      "id": 9,
+      "model": "지크프리트",
+      "teller": "???",
+      "title": "???",
+      "content": "Sungguh disayangkan, aku mesti menghadiri wawancara majalah sejam lagi, sehingga tak bisa berlama-lama di sini. Mohon dimaklumi, wahai para pengagum!"
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "Saya sempat bertanya-tanya kapan kau akan datang."
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "Saya dengar kau jadi budak korporat yang melayani sebuah <ruby=Sayap>The Wing</ruby>, Siegfried."
+    },
+    {
+      "id": 12,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Ahaha! Rupanya lidahmu masih setajam dulu, kawan lama!"
+    },
+    {
+      "id": 13,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Aku bergegas kemari begitu mendengar kode ungu berkumandang, dan sepertinya kawan-kawanmu inilah biang keladinya!"
+    },
+    {
+      "id": 14,
+      "model": "베르길리우스",
+      "content": "Bukan teman juga. Saya harap kau mengerti kalau saya tidak ada hubungannya dengan keributan ini."
+    },
+    {
+      "id": 15,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Kalau begitu perkaranya..."
+    },
+    {
+      "id": 16,
+      "model": "베르길리우스",
+      "content": "Ya, saya mengandalkanmu untuk memberi mereka pelajaran yang keras."
+    },
+    {
+      "id": 17,
+      "model": "히스클리프",
+      "content": "Kalian berdua ngedumel apaan sih? Firasat gue nggak enak nih."
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "Setuju. Dari balik batu mana dia muncul?"
+    },
+    {
+      "id": 19,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Hahahah! Wah, wah, rupanya beberapa dari kalian datang dari negeri nan jauh. Kalau begitu, akan kuanugerahkan kalian kehormatan untuk berfoto bersama di kesempatan istimewa ini!"
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "Dia memperlakukan kita seperti pemuja di jalanan. Berani-beraniny—"
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "OOOOHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!"
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<Don Quixote, ada apa?>"
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "I, it, it, it, i-it, it, it, it, it, itu, IT, ITU, HH, PRIA ITU, DIA, DIRINYA, PRIA ITU SENDIRI!!!!!!!!!!!!!!!!"
+    },
+    {
+      "id": 24,
+      "model": "베르길리우스",
+      "content": "Kita sedang terburu-buru, jadi selesaikan ini dalam satu menit kalau bisa. Dan jangan libatkan si kepala jam itu."
+    },
+    {
+      "id": 25,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Hmm... sebuah prostetik rupanya? Kalau begitu, jadikanlah 50 detik!!!"
+    },
+    {
+      "id": -1,
+      "model": "//효과음",
+      "content": "Cekrek!"
+    },
+    {
+      "id": -1,
+      "model": "//CG",
+      "content": "Siegfried berswafoto sambil membantai para Sinner"
+    },
+    {
+      "id": 26,
+      "content": "Sebagai petarung yang ulung dan penampil yang berbakat, aku cuma bisa menonton dengan kagum saat dia membuktikan dirinya benar-benar pantas disebut sebagai seorang “pahlawan”."
+    },
+    {
+      "id": 27,
+      "model": "히스클리프",
+      "content": "Khgh!"
+    },
+    {
+      "id": 28,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Nah, tataplah ke sini sekali lagi! Aku yakin para penggemar kita akan menyukainya!"
+    },
+    {
+      "id": 29,
+      "model": "료슈",
+      "content": "Bajingan ini... kuat banget sialan."
+    },
+    {
+      "id": 30,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Hm? Apa gerangan yang barusan kaulakukan? Hahahah! Sungguh menggemaskan!"
+    },
+    {
+      "id": 31,
+      "model": "료슈",
+      "content": "Gah...!"
+    },
+    {
+      "id": 32,
+      "content": "Satu per satu, dia menghabisi para <ruby=Pendosa>Sinner</ruby> dengan cepat."
+    },
+    {
+      "id": 33,
+      "content": "Vergilius menonton pembantaian itu dengan ekspresi senang."
+    },
+    {
+      "id": 34,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 35,
+      "model": "베르길리우스",
+      "content": "Sudah waktunya mereka belajar apa yang akan terjadi jika mereka membuat keributan di dalam sebuah <ruby=Sarang>Nest</ruby> dan berpikir mereka bisa lolos begitu saja."
+    },
+    {
+      "id": 36,
+      "model": "베르길리우스",
+      "content": "…Dante, Anda mungkin tidak mengingatnya saat ini, tapi dulunya Anda pernah menjadi orang penting… bisa dibilang begitu."
+    },
+    {
+      "id": 37,
+      "model": "단테",
+      "content": "<A... Aku orang penting?>"
+    },
+    {
+      "id": 38,
+      "content": "Aku bener-bener nggak bisa ngebayanginnya."
+    },
+    {
+      "id": 39,
+      "content": "Saat ini, aku cuma pemimpin tak berdaya yang selalu gelagapan di situasi darurat—terus-menerus dikunyah, dimuntahkan, dan diabaikan kayak sampah oleh para <ruby=Pendosa>Sinner</ruby>-ku sendiri."
+    },
+    {
+      "id": 40,
+      "content": "Mereka bahkan mulai memperlakukanku layaknya medis lapangan tim ini; nggak nyangka kalau manajer menyedihkan ini dulunya adalah pemimpin yang dihormati oleh banyak orang di masa lalu."
+    },
+    {
+      "id": 41,
+      "content": "Aku ngerasa bener-bener pengen nanya ke Faust soal cara lain buat mulihin ingatanku."
+    },
+    {
+      "id": 42,
+      "model": "베르길리우스",
+      "content": "Namun, hilangnya ingatan Anda tidak sepenuhnya memaafkan semua kesalahan dalam kinerja Anda sebagai manajer. Saya yakin Anda mengerti maksud saya."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 44,
+      "content": "Aku teringat pada staf di pos pemeriksaan K Corp."
+    },
+    {
+      "id": 45,
+      "content": "Mereka nggak nunjukin rasa kasihan sedikit pun buat keluarga yang mau mereka hancurin, nganggap itu semua cuma bagian dari prosedur yang harus dilakuin."
+    },
+    {
+      "id": 46,
+      "content": "Walaupun Don Quixote bikin kita dapet masalah waktu dia maju buat ngebenerin ketidakadilan itu..."
+    },
+    {
+      "id": 47,
+      "content": "Aku cuma tau kalau ini bakal menghantui tidurku berhari-hari seandainya kita pura-pura nggak liat."
+    },
+    {
+      "id": 48,
+      "content": "Dan ngeliat Heathcliff ngeratin pegangan di senjatanya sampai urat-uratnya menonjol pas dia nyaksiin keributan itu..."
+    },
+    {
+      "id": 49,
+      "content": "Kalau bukan Don Quixote, aku ngerasa setidaknya salah satu dari kita bakal ikut campur."
+    },
+    {
+      "id": 50,
+      "content": "Sejujurnya, aku juga nggak ngelakuin semua yang kubisa buat nahan Don Quixote. Vergilius nggak sepenuhnya salah pas dia bilang kalau aku yang harus disalahin atas kejadian ini."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<Ngambil kembali kepalaku mungkin bukan pilihan terbaik, Vergilius.>"
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스",
+      "content": "Ah, ya ampun… Saya harus menyuruh mereka untuk memasang mikrofon lain kali."
+    },
+    {
+      "id": 53,
+      "model": "베르길리우스",
+      "content": "…Saya anggap Anda sudah mengerti maksud saya."
+    },
+    {
+      "id": 54,
+      "model": "지크프리트",
+      "teller": "Siegfried",
+      "title": "Seorang Fixer?",
+      "content": "Hore! 46,5 detik! Hari baru, kisah keperwiraan yang baru pun telah tergurat!!"
+    },
+    {
+      "id": 55,
+      "model": "베르길리우스",
+      "content": "Ah, sepertinya tirainya sudah ditutup. Waktunya memutar waktu, Dante."
+    }
+  ]
+}
