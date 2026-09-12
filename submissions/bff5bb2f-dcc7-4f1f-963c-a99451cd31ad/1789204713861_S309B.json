@@ -1,0 +1,326 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Di Dalam Mephistopheles",
+      "content": "Charon yang cemberut dan tatapan dingin Vergilius menanti kami di dalam bus…"
+    },
+    {
+      "id": 1,
+      "content": "Udaranya terasa berat dengan hawa penuh tekanan, hampir tak menyisakan ruang untuk sekadar melontarkan candaan ringan."
+    },
+    {
+      "id": 2,
+      "model": "카론",
+      "content": "Kalian telat. Charon udah ngitung sampai seratus tapi kalian belum juga dateng."
+    },
+    {
+      "id": 3,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Charon."
+    },
+    {
+      "id": 4,
+      "content": "Dia sepertinya masih punya beberapa kata yang siap dilontarkan dengan nada dingin itu, tapi Vergilius menaruh tangannya di bahu Charon dan memberinya tatapan sekilas."
+    },
+    {
+      "id": 5,
+      "model": "카론",
+      "content": "Verg, Charon bakal inget ini."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Maaf soal itu. Nanti kubelikan yang manis-manis."
+    },
+    {
+      "id": 7,
+      "content": "Charon duduk di kursi kemudi tanpa mengeluh lagi, dan Vergilius perlahan berbalik ke arah kami."
+    },
+    {
+      "id": 8,
+      "content": "Kalau ada satu hal yang sangat dikuasai olehku dan para <ruby=Pendosa>Sinner</ruby>, itu adalah merasakan bahaya yang mengancam dan langsung menyingkir."
+    },
+    {
+      "id": 9,
+      "content": "Membubarkan diri dari kelompok, kami bergegas menyingkir ke kursi masing-masing..."
+    },
+    {
+      "id": 10,
+      "content": "Menyisakan Don Quixote sendirian yang berdiri cemas di lorong bus."
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Mari kita dengar alasanmu, Don Quixote."
+    },
+    {
+      "id": 12,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby>… tidak bisa menutup mata saat melihat yang lemah ditindas—"
+    },
+    {
+      "id": 13,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Bukan, salah."
+    },
+    {
+      "id": 14,
+      "content": "Penglihatanku tak bisa mengikuti apa yang terjadi pada detik itu."
+    },
+    {
+      "id": 15,
+      "content": "Aku tidak punya mata untuk berkedip, jadi tidak mungkin aku bisa melewatkan satu momen pun, namun..."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "Gahgk…! Ghk…"
+    },
+    {
+      "id": 17,
+      "content": "Saat aku mulai memahami situasinya..."
+    },
+    {
+      "id": 18,
+      "content": "Hal pertama yang tertangkap penglihatanku adalah Don Quixote yang ambruk ke lantai, bahunya diinjak di bawah sepatu Vergilius."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Saya meminta alasan, bukan pembenaran atas pandanganmu."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "Gnnngh…!"
+    },
+    {
+      "id": 21,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Ini juga bukan yang pertama kalinya, Don Quixote. Kamu sudah bertanggung jawab atas tiga insiden berbeda."
+    },
+    {
+      "id": 22,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Tiga kali berturut-turut kamu telah membahayakan pekerjaan kita dengan kelakuan sintingmu itu."
+    },
+    {
+      "id": 23,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Bagaimana menurutmu? Bicaralah."
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "M… Meskipun tindakan <ruby=ku>hamba</ruby> sendiri telah menyusahkan rekan-rekan <ruby=ku>hamba</ruby>…"
+    },
+    {
+      "id": 25,
+      "model": "돈키호테",
+      "content": "Hngk… GUAAAH!!!"
+    },
+    {
+      "id": 26,
+      "content": "Erangan kesakitan Don Quixote semakin keras, tapi tak ada satu pun yang ikut campur."
+    },
+    {
+      "id": 27,
+      "content": "Tentu saja, dia sedang dihukum karena perbuatannya sendiri..."
+    },
+    {
+      "id": 28,
+      "content": "Tapi lebih dari apa pun, sudah jelas kalau mengganggu hukuman ini tak akan membuat situasinya membaik."
+    },
+    {
+      "id": 29,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Saya menanyakan apa pendapatmu. Kenapa kamu tidak mengerti juga?"
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby>—<ruby=aku>hamba</ruby> baru saja berbicara tapi malah disela!"
+    },
+    {
+      "id": 31,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Apa yang seharusnya kamu katakan kepada saya sejak awal adalah permintaan maaf, Don Quixote."
+    },
+    {
+      "id": 32,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Hal lain yang kamu tambahkan seharusnya adalah penjabaran tentang bagaimana kamu berencana untuk memperbaiki kelakuanmu."
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "Sungguh tidak adil... Agh! <ruby=Anda>Kisanak</ruby> menuntut sebuah jawaban spesifik dari <ruby=ku>hamba</ruby>…!"
+    },
+    {
+      "id": 34,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Apa kamu tidak tahu? Sebuah perusahaan sudah menyiapkan jawaban yang \"benar\" bagi para pegawainya. Pertanyaan-pertanyaan itu cuma ditanyakan untuk melihat apakah kamu bisa menjawabnya dengan tepat."
+    },
+    {
+      "id": 35,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Kamu salah besar kalau mengira perusahaan benar-benar peduli dengan pendapatmu."
+    },
+    {
+      "id": 36,
+      "model": "돈키호테",
+      "content": "Kagh… J-Jika perusahaan memang bersikeras demikian, maka <ruby=aku>hamba</ruby>—!"
+    },
+    {
+      "id": 37,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "…Saya muak dengan ini."
+    },
+    {
+      "id": 38,
+      "content": "Vergilius menendang Don Quixote, melemparnya ke lantai."
+    },
+    {
+      "id": 39,
+      "content": "Kemudian, mencengkeram kerahnya yang terjatuh..."
+    },
+    {
+      "id": 40,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Saya yakin kamu masih ingat apa yang terjadi saat kamu bergabung."
+    },
+    {
+      "id": 41,
+      "model": "돈키호테",
+      "content": "…!"
+    },
+    {
+      "id": 42,
+      "model": "베르길리우스",
+      "content": "Saya harap kamu belum melupakan kesepakatan yang kita buat hari itu. …Nona. Don. Quixote."
+    },
+    {
+      "id": 43,
+      "content": "Mata Vergilius berkilat dengan rona merah yang jauh lebih terang dari biasanya..."
+    },
+    {
+      "id": 44,
+      "content": "Menatap langsung ke matanya, Don Quixote segera memberikan anggukan balasan tanpa mengatakan sepatah kata pun."
+    },
+    {
+      "id": 45,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "…Cukup. Kembali ke kursimu."
+    },
+    {
+      "id": 46,
+      "content": "Melihat seseorang yang biasanya memancarkan harga diri dan kepercayaan diri dengan cepat berubah menjadi sosok yang patah semangat dan putus asa seperti itu jelas bukan pemandangan yang menyenangkan."
+    },
+    {
+      "id": 47,
+      "content": "Meskipun begitu, kesepakatan macam apa yang bisa membuat Don Quixote langsung terdiam hanya dengan mengungkitnya..."
+    },
+    {
+      "id": 48,
+      "content": "Itu membuatku bertanya-tanya tentang apa isi kesepakatan tersebut."
+    },
+    {
+      "id": 49,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Hal yang sama juga berlaku bagi kalian semua."
+    },
+    {
+      "id": 50,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Sebuah perusahaan bukanlah wadah untuk memenuhi mimpi-mimpi egosentris atau mendakwahkan gagasan-gagasan besar kalian."
+    },
+    {
+      "id": 51,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Jika kalian masih bersikeras melanggar ketentuan kontrak kerja kalian untuk bertindak sesuka hati, pertimbangkan dulu konsekuensinya sebelum kalian melakukannya."
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "Kalian akan menghabiskan masa-masa penderitaan di mana kalian tidak akan bisa kabur; baik melalui kematian, maupun melalui perjuangan saat pemutusan hubungan kerja."
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "Gue tebak dapet bantuan dari cowok itu―siapa sih namanya tadi, Tuan... Zack Friture, atau siapa lah―pasti udah bikin dia ngamuk."
+    },
+    {
+      "id": 54,
+      "model": "돈키호테",
+      "content": "Itu… Tuan Siegfried…"
+    },
+    {
+      "id": 55,
+      "model": "로쟈",
+      "content": "Ya ampun, misinya belum juga mulai tapi kita udah kena omel duluan~ Mikir-mikir dulu sebelum bertindak, oke?"
+    },
+    {
+      "id": 56,
+      "model": "이스마엘",
+      "content": "Huft… Gue udah tau hari ini bakal dateng cepat atau lambat. Kita semua harus lebih hati-hati mulai sekarang."
+    },
+    {
+      "id": 57,
+      "model": "히스클리프",
+      "content": "Ngapain lu berdua ngeliatin gue? Sialan, minta dihajar lu pada?"
+    },
+    {
+      "id": 58,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Pemandu",
+      "content": "……"
+    },
+    {
+      "id": 59,
+      "model": "히스클리프",
+      "content": "…Iya, gue ngerti! Cih."
+    }
+  ]
+}
