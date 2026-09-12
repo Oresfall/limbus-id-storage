@@ -1,0 +1,377 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Calw - Alun-alun Kota",
+      "model": "이스마엘",
+      "content": "…Mereka lawan yang tangguh. Kita harus bergerak sebelum mereka sadar."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "Hal yang memalukan untuk diucapkan. Seorang prajurit tidak akan mundur dari hadapan musuh ketika kemenangan sudah di depan mata."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Nggak bisakah lu simpan latihan militer lu buat waktu yang lebih pas?"
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Ishmael benar. Itu bukan orang yang bisa kita kalahkan dengan mudah.>"
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "…Kita akan mundur."
+    },
+    {
+      "id": 5,
+      "content": "Outis mengalah dengan enggan."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Sinclair, kamu tau apa maksud Kromer dengan “tempat yang familier itu”?>"
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Itu… yah…"
+    },
+    {
+      "id": 8,
+      "content": "Sinclair gemetar. Dia sepertinya diliputi rasa takut yang luar biasa."
+    },
+    {
+      "id": 9,
+      "content": "Tapi aku juga bisa melihat kemarahan yang membuatnya menggemeretakkan gigi, melampaui rasa takutnya."
+    },
+    {
+      "id": 10,
+      "content": "Melihatnya, sebuah pikiran terlintas di benakku."
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Kamu harus bicara, Sinclair.>"
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Kasih tau kami apa yang kamu tau, dan kamu bakal mencegah setengah dari kematian yang mungkin menimpa kita.>"
+    },
+    {
+      "id": 13,
+      "model": "오티스",
+      "content": "Itu juga akan meningkatkan kemungkinan kesuksesan kita. Aku tak sabar untuk mendengar sesuatu yang berguna."
+    },
+    {
+      "id": 14,
+      "content": "…Aku harap aku melakukan hal yang benar sebagai manajer."
+    },
+    {
+      "id": 15,
+      "content": "Sinclair menggelengkan kepalanya mendengar kata-kataku, menarik napas, dan akhirnya membuka mulutnya setelah sedikit ragu."
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "…Rumahku. Kromer pasti ada di sana."
+    },
+    {
+      "id": 17,
+      "model": "히스클리프",
+      "content": "Jadi, lu kenal sama cewek itu?"
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Brengsek, kepala gue masih nyut-nyutan gara-gara ketawanya yang melengking itu."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "…Aku bertemu dengannya di sekolah."
+    },
+    {
+      "id": 20,
+      "model": "로쟈",
+      "content": "Ya ampun, dia temen lu? Apa pun yang terjadi, semoga aja lu bisa bicarain ini baik-baik…"
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Dia bukan temanku. Kromer membunuh keluargaku."
+    },
+    {
+      "id": 22,
+      "model": "로쟈",
+      "content": "……"
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "content": "Maaf."
+    },
+    {
+      "id": 24,
+      "content": "Sebuah kepala prostetik yang tergantung di pohon perlahan berputar menghadap ke arah kami."
+    },
+    {
+      "id": 25,
+      "content": "Cahaya dan percikan api sesekali berkedip di dalamnya."
+    },
+    {
+      "id": 26,
+      "teller": "Sebuah Kepala Prostetik",
+      "title": "Penduduk Calw",
+      "content": "Sin…cl…a…ir… Bzt… Pzzt…"
+    },
+    {
+      "id": 27,
+      "teller": "Sebuah Kepala Prostetik",
+      "title": "Penduduk Calw",
+      "content": "Kenapa… kau… kembali…"
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "…Sinclair, apa mereka tetanggamu?"
+    },
+    {
+      "id": 29,
+      "content": "Rodya bertanya sambil melihat ke arah prostetik yang terpotong-potong itu."
+    },
+    {
+      "id": 30,
+      "model": "싱클레어",
+      "content": "Sepertinya begitu… Meskipun aku benar-benar berharap bukan itu kenyataannya…"
+    },
+    {
+      "id": 31,
+      "content": "Sinclair menjawab, menatap dengan ekspresi muram di wajahnya saat kabel-kabel mereka yang telanjang memercikkan api dan mengalami korsleting."
+    },
+    {
+      "id": 32,
+      "content": "Kepala robot itu tak lama kemudian berhenti bergerak, hanya mengeluarkan suara yang sumbang."
+    },
+    {
+      "id": 33,
+      "content": "Kemudian, sebuah lagu mulai memenuhi udara."
+    },
+    {
+      "id": 34,
+      "teller": "Sebuah Kepala Prostetik",
+      "title": "Penduduk Calw",
+      "content": "Malam kudus…"
+    },
+    {
+      "id": 35,
+      "content": "Semua kepala yang tergantung di pepohonan menyanyikan lagu yang sama."
+    },
+    {
+      "id": 36,
+      "content": "Lagu Natal yang mengalun dari unit vokal sekian banyak kepala tak bernyawa itu jatuh ditelan kobaran api di bawahnya."
+    },
+    {
+      "id": 37,
+      "teller": "Sebuah Kepala Prostetik",
+      "title": "Penduduk Calw",
+      "content": "Sunyi senyap…"
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Sekarang semuanya jadi lebih jelas… Bagian tubuh prostetik adalah “bidah” bagi mereka."
+    },
+    {
+      "id": 39,
+      "model": "파우스트",
+      "content": "Meskipun sudah cukup lama sejak prostetik pertama kali diperkenalkan ke Kota…"
+    },
+    {
+      "id": 40,
+      "model": "파우스트",
+      "content": "Banyak orang masih menganggapnya asing dan mengucilkannya."
+    },
+    {
+      "id": 41,
+      "model": "싱클레어",
+      "content": "…Kota kami."
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "Kota kami disebut… “Situs Suci Industri Prostetik <ruby=Sarang>Nest</ruby> K”. Sebagian besar penduduknya bekerja dalam pembuatan komponen prostetik kelas atas."
+    },
+    {
+      "id": 43,
+      "model": "싱클레어",
+      "content": "Kromer sudah lama mengawasi kota kami."
+    },
+    {
+      "id": 44,
+      "model": "그레고르",
+      "content": "Jadi, apa keluargamu…"
+    },
+    {
+      "id": 45,
+      "model": "싱클레어",
+      "content": "Ya, ayahku juga pemilik perusahaan prostetik yang baru berkembang."
+    },
+    {
+      "id": 46,
+      "model": "싱클레어",
+      "content": "Apa karena itu…"
+    },
+    {
+      "id": 47,
+      "model": "이스마엘",
+      "content": "Nggak."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "content": "Menurut gue, mengaitkannya dengan tujuan mulia apa pun itu sama aja ngasih mereka terlalu banyak pujian."
+    },
+    {
+      "id": 49,
+      "model": "이스마엘",
+      "content": "Mereka… cuma orang sinting, yang ditelan oleh kegilaan dan kekerasan."
+    },
+    {
+      "id": 50,
+      "content": "Ishmael menegaskannya pada Sinclair."
+    },
+    {
+      "id": 51,
+      "content": "Setelah beberapa saat menatap pohon “Natal” yang dihiasi dengan tetangganya, Sinclair menoleh ke arahku."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "content": "Manajer, aku punya pertanyaan kalau Anda tidak keberatan."
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<Ada apa?>"
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "Yah… Bagaimana rasanya?"
+    },
+    {
+      "id": 55,
+      "model": "단테",
+      "content": "<Rasanya?>"
+    },
+    {
+      "id": 56,
+      "model": "싱클레어",
+      "content": "Ya."
+    },
+    {
+      "id": 57,
+      "model": "싱클레어",
+      "content": "Maksudku, bagaimana rasanya memiliki prostetik sebagai pengganti kepalamu?"
+    },
+    {
+      "id": 58,
+      "content": "Aku sedikit terkejut karena belum pernah ada yang menanyakan pertanyaan seperti itu sebelumnya."
+    },
+    {
+      "id": 59,
+      "content": "Masalahnya adalah, tidak ada cara untuk mengetahui bagaimana perasaanku sebelum aku memiliki jam sebagai pengganti kepala."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Uhm… Itu…>"
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "Oh! Bukan—um… Aku tidak bermaksud berdebat dengan Anda atau semacamnya."
+    },
+    {
+      "id": 62,
+      "model": "싱클레어",
+      "content": "…I-Itu mungkin tidak sopan dariku. Aku minta maaf."
+    },
+    {
+      "id": 63,
+      "model": "단테",
+      "content": "<Nggak perlu, nggak apa-apa kok.>"
+    },
+    {
+      "id": 64,
+      "content": "Lagian, para <ruby=Pendosa>Sinner</ruby> yang lain bersikap miliaran kali lebih nggak sopan kepadaku dalam interaksi sehari-hari kami."
+    },
+    {
+      "id": 65,
+      "model": "단테",
+      "content": "<Sayangnya aku nggak bisa jawab pertanyaan itu… Aku nggak ingat apa pun tentang hidupku sebelum jam ini.>"
+    },
+    {
+      "id": 66,
+      "model": "싱클레어",
+      "content": "Begitu ya…"
+    },
+    {
+      "id": 67,
+      "model": "싱클레어",
+      "content": "Aku selalu penasaran bagaimana rasanya ketika ada sesuatu yang menempel di tempat kepalamu seharusnya berada…"
+    },
+    {
+      "id": 68,
+      "model": "싱클레어",
+      "content": "Keluargaku bilang itu tidak ada bedanya dengan memakai topi atau jam tangan…"
+    },
+    {
+      "id": 69,
+      "model": "싱클레어",
+      "content": "Tapi aku tidak bisa membayangkannya dengan baik tidak peduli dari sudut pandang mana pun aku mencoba memahaminya."
+    },
+    {
+      "id": 70,
+      "model": "싱클레어",
+      "content": "Dan sekarang, aku satu-satunya yang selamat berkat hal itu."
+    },
+    {
+      "id": 71,
+      "model": "단테",
+      "content": "<Aku yakin prosedurnya terasa mengerikan di usia yang begitu muda. Kamu nggak perlu merasa bersalah soal itu.>"
+    },
+    {
+      "id": 72,
+      "model": "싱클레어",
+      "content": "Bukan itu…"
+    },
+    {
+      "id": 73,
+      "model": "싱클레어",
+      "content": "Bukan seperti itu…"
+    },
+    {
+      "id": 74,
+      "model": "싱클레어",
+      "content": "Sayangnya aku tidak sepolos yang Anda kira, Dante…"
+    },
+    {
+      "id": 75,
+      "content": "Sinclair menundukkan kepalanya dalam diam."
+    },
+    {
+      "id": 76,
+      "content": "Aku memutar otak untuk mencari jawaban yang tepat, tapi tidak ada kata-kata penghiburan yang cocok yang terlintas."
+    },
+    {
+      "id": 77,
+      "content": "Hanya suara percikan api dan kobaran yang tak menyenangkan yang memenuhi jalanan itu."
+    }
+  ]
+}
