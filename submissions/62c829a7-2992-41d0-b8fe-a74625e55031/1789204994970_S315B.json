@@ -1,0 +1,308 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Calw - Alun-alun Kota",
+      "content": "Tubuh-tubuh prostetik menumpuk layaknya tempat pembuangan sampah di sudut kota."
+    },
+    {
+      "id": 1,
+      "content": "Aku bisa melihat beberapa dari mereka masih sadar, mengerang kesakitan."
+    },
+    {
+      "id": 2,
+      "content": "Para Penyelidik tak peduli; mereka dengan sekuat tenaga menancapkan paku menembus dada setiap korban mereka, berulang kali, mengeksekusi niat \"murni\" mereka."
+    },
+    {
+      "id": 3,
+      "model": "N사심문관1",
+      "teller": "Seorang Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Aku sudah pasti menusuk jantung mereka, namun masih ada detak nadi yang tersisa di tubuh mereka."
+    },
+    {
+      "id": 4,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Pasti sudah ditambal dengan baja. Bahkan inti dari kemanusiaan mereka telah dinodai oleh ajaran sesat."
+    },
+    {
+      "id": 5,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Betapa menjijikkan. Sebuah aib bagi daging dan tulang."
+    },
+    {
+      "id": 6,
+      "content": "Penyelidik itu mulai menuangkan sebotol cairan dengan hati-hati ke atas orang prostetik itu dalam apa yang terlihat seperti sebuah ritual yang khusyuk."
+    },
+    {
+      "id": 7,
+      "content": "Dilihat dari baunya yang menyengat, itu sudah pasti minyak."
+    },
+    {
+      "id": 8,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Resapilah minyak kemanusiaan ini, wahai tubuh sesat."
+    },
+    {
+      "id": 9,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Kalian yang tak bisa kembali ke bumi, temukanlah kedamaian dalam kepulan asap yang bertebaran."
+    },
+    {
+      "id": 10,
+      "content": "Sebatang korek api yang menyala kemudian dilemparkan ke tumpukan itu, memicu kobaran api yang besar."
+    },
+    {
+      "id": 11,
+      "content": "Diiringi suara percikan api yang berterbangan, udara segera dipenuhi dengan bau yang menyengat."
+    },
+    {
+      "id": 12,
+      "content": "Baunya tak sama seperti bau daging yang terbakar."
+    },
+    {
+      "id": 13,
+      "content": "Api yang menyebar akhirnya membawa kerlipan gemeretak di tubuh-tubuh prostetik itu menuju kegelapan abadi."
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Kalau pemandangan neraka ini adalah gagasan mereka soal penyucian, mending gue tetep kotor aja."
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "<ruby=Paku dan Palu>Nagel und Hammer</ruby> selalu mengabdikan diri untuk meneliti gagasan tentang kemanusiaan."
+    },
+    {
+      "id": 16,
+      "model": "뫼르소",
+      "content": "Beberapa pihak mengkritik penggunaan prostetik, karena mereka percaya bahwa rasa sakit adalah komponen penting dalam pengalaman manusia. Namun, hal itu tidak pernah meningkat sampai pada tindakan langsung seperti yang kita saksikan sekarang."
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "content": "Dari tadi gue mau nanya… Gimana lu bisa tau banyak banget soal N Corp.?"
+    },
+    {
+      "id": 18,
+      "model": "뫼르소",
+      "content": "…Aku dulu pernah dipekerjakan oleh N Corp."
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "Hah…? Lu dulu pernah kerja bareng orang-orang itu?"
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "Aku belum pernah bekerja dengan individu-individu tersebut secara spesifik, tapi dalam hal afiliasi, bisa dibilang begitu."
+    },
+    {
+      "id": 21,
+      "content": "Kalau dipikir-pikir, ini mungkin pertama kalinya aku mendengar Meursault berbicara secara aktif tentang dirinya sendiri."
+    },
+    {
+      "id": 22,
+      "content": "Dia jarang menceritakan apa pun yang berkaitan dengan dirinya. Mungkin dia merasa tidak perlu bicara sama sekali."
+    },
+    {
+      "id": 23,
+      "model": "그레고르",
+      "content": "Kenapa lu nggak ngasih tau kita dari awal? Apa lu juga bawa salah satu senjata aneh mereka itu?"
+    },
+    {
+      "id": 24,
+      "model": "뫼르소",
+      "content": "Apa aku wajib menjelaskannya?"
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "Sialan… Kenapa nggak lu jelasin aja apa bedanya lu sama orang-orang sinting itu kalau gitu?"
+    },
+    {
+      "id": 26,
+      "model": "히스클리프",
+      "content": "Denger ya, sobat… Sebanyak apapun gue suka manggil manajer tolol kita ini si muka jam, gue nggak ngerasa dia pantes buat dipancang atau dipenggal."
+    },
+    {
+      "id": 27,
+      "model": "히스클리프",
+      "content": "Keparat-keparat itu ngomong gede soal penyucian dan semacamnya, tapi yang gue liat cuma sekumpulan orang gila yang butuh alasan buat ngebunuh, kan?"
+    },
+    {
+      "id": 28,
+      "model": "히스클리프",
+      "content": "Ngomong dong. Apa lu sama aja kayak orang-orang berotak miring berhelm kaleng itu?"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Pernah ada masa di mana aku memikirkan hal-hal seperti itu."
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "Meskipun aku belum sampai pada sebuah kesimpulan."
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "Gue mau kesimpulan sialan itu sekarang! Apa lu bakal langsung ngebantai semua penduduk kota ini kalau manajer lu nyuruh begitu aja?"
+    },
+    {
+      "id": 32,
+      "model": "뫼르소",
+      "content": "Apa aku harus menjawabnya? Hal itu sama sekali tidak membantu kita dalam mengurus pekerjaan kita."
+    },
+    {
+      "id": 33,
+      "model": "뫼르소",
+      "content": "Seorang pegawai harus mematuhi perintah atasannya. Syarat-syarat yang dijabarkan Vergilius juga menyatakan demikian."
+    },
+    {
+      "id": 34,
+      "model": "뫼르소",
+      "content": "Jika manajer memerintahkanku untuk melakukan hal semacam itu, aku akan melakukannya. Aku mungkin akan memberikan masukanku jika memang dirasa perlu, tapi aku tidak punya kebiasaan meracaukan isi pikiranku tanpa diminta."
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "…Hah? Lu udah gila ya? Apa lu punya gumpalan logam yang jadi otak lu kayak orang-orang di sini?"
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "Aku terdiri dari 16% protein, 60% air, 7% mineral, dan seterusnya; aku jelas berbeda dari segi komposisi."
+    },
+    {
+      "id": 37,
+      "model": "뫼르소",
+      "content": "Lagipula, logam berat yang tidak diperlukan tidak menyusun bagian mana pun dari tubuhku."
+    },
+    {
+      "id": 38,
+      "model": "뫼르소",
+      "content": "Itu juga perbedaan yang lainnya."
+    },
+    {
+      "id": 39,
+      "content": "Wajah Heathcliff berkerut karena frustrasi."
+    },
+    {
+      "id": 40,
+      "content": "Meursault sudah menjadi sebuah teka-teki, dan dia hanya terasa semakin menjaga jarak setelah percakapan ini."
+    },
+    {
+      "id": 41,
+      "model": "홍루",
+      "content": "Karena kau menyinggung hal itu, ada sesuatu yang selalu kupertanyakan."
+    },
+    {
+      "id": 42,
+      "model": "홍루",
+      "content": "Aku selalu berpikir apakah Manajer Dante seharusnya dianggap sebagai seorang \"manusia\"."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Apa maksudmu?"
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "Bagaimana jika… saat Dante kita yang tersayang sedang bicara… itu sebenarnya adalah si jam dan bukanlah orang yang kita kenal sebagai \"Dante\" di balik kata-kata itu?"
+    },
+    {
+      "id": 45,
+      "model": "히스클리프",
+      "content": "Hah? Lu mau bilang ke gue kalau selama ini kita dipimpin sama jam beneran?"
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "content": "Ya ampun… Lu udah mencapai tingkat ketololan yang belum pernah terjamah sebelumnya dengan teori-teori lu itu. Gue bahkan males buat ngebantahnya."
+    },
+    {
+      "id": 47,
+      "model": "홍루",
+      "content": "Jangan salah paham, aku suka kok dengan Dante kita dan kepala jamnya."
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Jujur, gue juga. Kenapa lu nggak nyerah aja nyari kepala lama lu dan tetep pakai yang itu?"
+    },
+    {
+      "id": 49,
+      "model": "로쟈",
+      "content": "Gue tau mungkin nggak bakal gitu kenyataannya, tapi gimana kalau kepala asli Dante ternyata super jahat atau semacamnya?"
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "content": "Yah, cuma ada satu orang dari kita yang tau soal masa lalu sohib manajer kita…"
+    },
+    {
+      "id": 51,
+      "content": "Mata Gregor secara alamiah tertuju pada Faust."
+    },
+    {
+      "id": 52,
+      "model": "파우스트",
+      "content": "…Itu adalah informasi rahasia. Aksesnya dibatasi hanya untuk tingkat keamanan tertinggi."
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<…Dan aku merasa kalau aku nggak bakal bisa ngebacanya sendiri.>"
+    },
+    {
+      "id": 54,
+      "content": "Itu hal yang wajar."
+    },
+    {
+      "id": 55,
+      "content": "Aku sama sekali tidak tahu siapa atau apa aku pada awalnya, jadi aku tidak punya argumen apa pun yang bisa digunakan untuk membantah tuduhan ringan dari Hong Lu."
+    },
+    {
+      "id": 56,
+      "content": "Mungkin dia benar, dan aku ini beneran cuma sebuah jam."
+    },
+    {
+      "id": 57,
+      "content": "Bahkan jika aku bertanya pada Faust, tidak ada jaminan dia bakal memberiku jawaban yang sebenarnya, dan aku juga tidak akan bisa membedakan kebenarannya dari hal semacam itu."
+    },
+    {
+      "id": 58,
+      "content": "Bahkan ada kemungkinan kecil kalau ‘Dante’ yang asli disembunyikan di suatu tempat, dan aku hanyalah tiruan canggih yang dilatih untuk percaya kalau aku punya kehendak bebas."
+    },
+    {
+      "id": 59,
+      "content": "Lagipula, duduk di sini dan merenung nggak bakal membawaku ke mana-mana."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Siapa tau, mungkin aku bakal majang benda ini di dinding pas aku udah nemuin kepalaku yang asli.>"
+    },
+    {
+      "id": 61,
+      "content": "Ishmael memberiku tatapan menghakimi karena mengusulkan hal semacam itu, tapi dia tidak punya pilihan lain selain mengangkat bahunya."
+    },
+    {
+      "id": 62,
+      "content": "Yah, itu memang benar."
+    }
+  ]
+}
