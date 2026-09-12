@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pos Pemeriksaan K Corp.",
+      "content": "<ruby=Singularitas>Singularity</ruby> K Corp: Peluru HP."
+    },
+    {
+      "id": 1,
+      "content": "Luka fatal apa pun yang berhasil kami kasih langsung sembuh cuma dengan satu tembakan dari peluru regeneratif itu."
+    },
+    {
+      "id": 2,
+      "content": "Tinggal nunggu waktu aja sebelum kesabaran Heathcliff bener-bener habis."
+    },
+    {
+      "id": 3,
+      "model": "히스클리프",
+      "content": "Gue udah nggak tahan lagi tai! Ini pasti pertarungan paling nggak ada gunanya di dunia! Lu pada buta apa gimana?"
+    },
+    {
+      "id": 4,
+      "model": "파우스트",
+      "content": "Sudah Faust bilang. Mencari ribut dengan <ruby=Sayap>The Wing</ruby> adalah tindakan yang sia-sia."
+    },
+    {
+      "id": 5,
+      "model": "로쟈",
+      "content": "Cuma nggak nyangka aja kesia-siaannya bakal langsung kerasa secepat ini~"
+    },
+    {
+      "id": 6,
+      "model": "뫼르소",
+      "content": "Dagingnya tumbuh kembali segera setelah terpotong."
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "Sangat sulit untuk melanjutkan pertarungan ini."
+    },
+    {
+      "id": 8,
+      "model": "료슈",
+      "content": "……"
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "Bener-bener dah… Seni ternyata bisa seampas ini ya…"
+    },
+    {
+      "id": 10,
+      "content": "Ryōshū nunjukin ekspresi paling tersiksa yang pernah kulihat darinya, mengayunkan sarung pedangnya dengan ogah-ogahan."
+    },
+    {
+      "id": 11,
+      "content": "Sayatan dan tebasan bakal langsung sembuh bahkan sebelum setetes darah sempet keluar. Nggak ada pertarungan yang lebih buruk dari ini buat Ryōshū."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Apa nggak ada yang bisa kita lakuin…?>"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "HP, atau Helapoiesis, adalah teknologi rekayasa hayati yang memungkinkan perbaikan terus-menerus pada sel-sel yang rusak atau hilang."
+    },
+    {
+      "id": 14,
+      "model": "파우스트",
+      "content": "Satu dosis saja sudah bertahan cukup lama, jadi bayangkan apa artinya bagi mereka di dalam <ruby=Sarang>Nest</ruby> yang menerima pasokan secara konstan…"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Singkatnya, Anda tidak akan bisa mengalahkan mereka secara logis dalam pertarungan."
+    },
+    {
+      "id": 16,
+      "content": "Bahkan Faust menggelengkan kepalanya dengan putus asa, tapi kemudian…"
+    },
+    {
+      "id": 17,
+      "teller": "???",
+      "title": "???",
+      "content": "Mwahahahahaha!!! Di puncak kekacauan ini, aku akhirnya tiba!!"
+    },
+    {
+      "id": 18,
+      "content": "Ledakan tawa yang luar biasa penuh semangat menggema di udara."
+    }
+  ]
+}
