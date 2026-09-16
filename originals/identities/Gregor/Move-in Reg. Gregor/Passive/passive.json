@@ -1,0 +1,9 @@
+{
+  "datalist": [
+    {
+      "id": 2121011,
+      "name": "Processing Transfer Reg",
+      "desc": "At 3+ highest Reson.: On Hit using a Skill, inflict 1 [Binding] next turn on the main target (once per turn)\n\nAt 3+ [Charge] Potency, the following Base Skills deal +10% damage:\n- Base Skills that gain or consume [Charge] Count\n- Base Skills that inflict [Combustion] Potency or Count on the enemy"
+    }
+  ]
+}
