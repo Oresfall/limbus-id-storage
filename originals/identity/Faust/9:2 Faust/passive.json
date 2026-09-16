@@ -1,0 +1,14 @@
+{
+  "datalist": [
+    {
+      "id": 2020511,
+      "name": "Flamebrand",
+      "desc": "On Heads Hit using a Lust affinity Skill, inflict 1 [Combustion] on target (6 times per turn)"
+    },
+    {
+      "id": 2020512,
+      "name": "Flamebrand",
+      "desc": "On Heads Hit using a <style=\"highlight\">Wrath or</style> a Lust Skill, inflict 1 [Combustion] (6 times per turn)\n<style=\"highlight\">- If target has max [Combustion] Potency, inflict 1 [DefenseDown] instead\n\nOn Gluttony Base Skill Use, gain 1 Gluttony E.G.O resource (once per turn)</style>"
+    }
+  ]
+}
