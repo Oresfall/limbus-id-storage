@@ -1,0 +1,19 @@
+{
+  "datalist": [
+    {
+      "id": "battle_awaken_20405_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Go on, open wide. Relax and cram this drink down your throats, heheh."
+    },
+    {
+      "id": "battle_awaken_20405_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Right, then. Open wide, all of you."
+    },
+    {
+      "id": "battle_erosion_20405_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Starting to feel drowsy... aren't you?"
+    }
+  ]
+}
