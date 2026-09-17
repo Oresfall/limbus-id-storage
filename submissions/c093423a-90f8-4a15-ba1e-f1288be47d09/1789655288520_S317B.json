@@ -1,0 +1,439 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Perumahan Tua Keluarga Sinclair",
+      "content": "Rumah Sinclair adalah mansion terbesar di daerah itu, terletak di bagian paling dalam kota."
+    },
+    {
+      "id": 1,
+      "content": "Dari kejauhan, terlihat bahwa api yang sangat besar sedang melahap tempat itu."
+    },
+    {
+      "id": 2,
+      "content": "Aku menghabiskan beberapa saat untuk mencoba membayangkan seperti apa rupa kota ini pada saat-saat damai."
+    },
+    {
+      "id": 3,
+      "content": "Untuk mengenang masa-masa ketika pepohonan yang kami lihat di dekat kota itu masih memiliki dedaunan yang segar dan rimbun."
+    },
+    {
+      "id": 4,
+      "content": "Bagaimana kira-kira keadaan Sinclair pada saat itu."
+    },
+    {
+      "id": 5,
+      "content": "Atau ketika semua orang di sekelilingnya telah meninggal."
+    },
+    {
+      "id": 6,
+      "content": "Aku tidak bisa menggambarkan dengan jelas seperti apa kebahagiaan maupun keputusasaan itu."
+    },
+    {
+      "id": 7,
+      "content": "Meski begitu, aku cuma berharap Sinclair siap menghadapi nasib buruk yang sebentar lagi akan menimpanya."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "Ini… mengerikan, bisa dibilang…"
+    },
+    {
+      "id": 9,
+      "content": "Sebuah halaman yang dulu mungkin pernah menjadi taman yang luas dan subur kini dipenuhi paku-paku yang ditancapkan dengan tinggi."
+    },
+    {
+      "id": 10,
+      "content": "Berbagai macam tubuh prostetik tertusuk oleh paku-paku yang menjulang tinggi itu."
+    },
+    {
+      "id": 11,
+      "content": "Dan rumah itu diselimuti api yang mengamuk, siap melahap semua yang ada di sekitarnya."
+    },
+    {
+      "id": 12,
+      "content": "Ketika semua perhatian tertuju pada prostesis-prostesis itu…"
+    },
+    {
+      "id": 13,
+      "content": "Pandangan Sinclair mengarah ke sudut halaman."
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "content": "Makam-makam itu, apakah… telah digali…?"
+    },
+    {
+      "id": 15,
+      "content": "Mengikuti pandangannya, aku melihat tiga kuburan yang telah dirusak."
+    },
+    {
+      "id": 16,
+      "content": "Raut wajah Sinclair saja sudah cukup bagiku dan Sinners lainnya untuk menebak siapa tujuan mereka."
+    },
+    {
+      "id": 17,
+      "model": "이상",
+      "content": "…Mengeksekusi orang yang sudah meninggal—ini sama saja dengan perbuatan iblis."
+    },
+    {
+      "id": 18,
+      "content": "Ayah, ibu, dan kakak perempuan."
+    },
+    {
+      "id": 19,
+      "content": "Keluarga yang dia sebutkan… Mereka seharusnya beristirahat di sana."
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "Berhenti… Sebuah seragam, di depan."
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Siulan itu…"
+    },
+    {
+      "id": 22,
+      "teller": "???",
+      "title": "???",
+      "content": "Kehehe. Maksudku, jika dipikir-pikir, ini benar-benar lucu sekali."
+    },
+    {
+      "id": 23,
+      "content": "Seseorang muncul dari rumah yang terbakar itu."
+    },
+    {
+      "id": 24,
+      "content": "Tawanya sungguh menyeramkan dalam berbagai aspek."
+    },
+    {
+      "id": 25,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Kenapa harus repot-repot mengubur mayat yang bahkan nggak bisa membusuk… Benar, kan?"
+    },
+    {
+      "id": 26,
+      "model": "싱클레어",
+      "content": "Kromer…"
+    },
+    {
+      "id": 27,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Aku yakin kamu bakal menemukan mereka kalau kamu mencari dengan teliti. Aku masih ingat pernah berhasil membunuh mereka bertiga."
+    },
+    {
+      "id": 28,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Jadilah anak yang baik, dan mungkin saja aku akan memberitahumu di mana mereka berada…"
+    },
+    {
+      "id": 29,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Nah, Sinclair? Kamu tumbuh menjadi orang yang berani, bisa datang sampai ke sini."
+    },
+    {
+      "id": 30,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Cukup satu orang saja untuk melihat beberapa mayat, kan?"
+    },
+    {
+      "id": 31,
+      "model": "싱클레어",
+      "content": "Kenapa… Kenapa… Apa maksudnya semua ini…?"
+    },
+    {
+      "id": 32,
+      "content": "Sinclair sampai tidak bisa berbicara dengan benar."
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Apa yang terjadi dengan Before Tim kita? Mereka harusnya sudah tiba di sini sekarang…"
+    },
+    {
+      "id": 34,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Ah~ Ternyata Sinclair memiliki beberapa teman!"
+    },
+    {
+      "id": 35,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Lagi nyari pengerat kotor lainnya yang menyelinap masuk ke sini?"
+    },
+    {
+      "id": 36,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Oke, oke. Perhatikan baik-baik. Aku akan menyalakan lampu, jadi buka matamu lebar-lebar!"
+    },
+    {
+      "id": 37,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Tadaa!"
+    },
+    {
+      "id": 38,
+      "model": "제복에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Krgh, khaag…"
+    },
+    {
+      "id": 39,
+      "model": "그레고르",
+      "content": "Effie…?"
+    },
+    {
+      "id": 40,
+      "content": "Effie nyaris tak bernapas. Anggota tubuhnya telah dipotong, dan prostetik yang cacat dipasang secara asal-asalan sebagai penggantinya."
+    },
+    {
+      "id": 41,
+      "model": "싱클레어",
+      "content": "Effie!!!"
+    },
+    {
+      "id": 42,
+      "content": "Kondisinya begitu parah hingga dia tidak mampu mengucapkan sepatah kata pun."
+    },
+    {
+      "id": 43,
+      "model": "파우스트",
+      "content": "……"
+    },
+    {
+      "id": 44,
+      "model": "파우스트",
+      "content": "Dalam kondisi saat ini, dibutuhkan waktu sekitar dua hari baginya untuk benar-benar mati."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Dan tiang yang menembus tubuhnya itu hanya akan memperparah penderitaannya."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Lalu…>"
+    },
+    {
+      "id": 47,
+      "model": "오티스",
+      "content": "Pak Manajer, aku tahu sebuah cara untuk mengakhiri hidup dengan rasa sakit yang seminimal mungkin."
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "Ini adalah benda yang ternyata memiliki banyak kegunaan…"
+    },
+    {
+      "id": 49,
+      "model": "오티스",
+      "content": "Bolehkah saya meminta Anda untuk memberikan tugas itu kepada saya?"
+    },
+    {
+      "id": 50,
+      "content": "Aku menatap Gregor dan Ishmael bergantian."
+    },
+    {
+      "id": 51,
+      "content": "Mereka menatapku balik, dan… seolah-olah sebagai tanda pengakuan, mereka menundukkan kepala dan menggigit bibir."
+    },
+    {
+      "id": 52,
+      "content": "Aku mengerti maksudnya."
+    },
+    {
+      "id": 53,
+      "model": "오티스",
+      "content": "…Semoga kamu beristirahat dengan tenang."
+    },
+    {
+      "id": 54,
+      "content": "Kerah pakaian Outis terhembus angin."
+    },
+    {
+      "id": 55,
+      "content": "Lalu, hening."
+    },
+    {
+      "id": 56,
+      "content": "Dan—suasana itu berakhir karena tawa Kromer yang menggelegar."
+    },
+    {
+      "id": 57,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Pfh… Pwahahahaha!!"
+    },
+    {
+      "id": 58,
+      "model": "싱클레어",
+      "content": "Ah."
+    },
+    {
+      "id": 59,
+      "content": "Pada saat yang sama, aku mendengar hal lain yang pecah."
+    },
+    {
+      "id": 60,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Sungguh, lucu sekali melihat kalian semua saling peduli, karena pada akhirnya kalian semua akan menghadapi nasib yang sama!"
+    },
+    {
+      "id": 61,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Mengingatkanmu kembali, bukan begitu, Sinclair?"
+    },
+    {
+      "id": 62,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Wajahmu saat itu benar-benar luar biasa."
+    },
+    {
+      "id": 63,
+      "model": "싱클레어",
+      "content": "Kromer."
+    },
+    {
+      "id": 64,
+      "model": "싱클레어",
+      "content": "Kau harus mati."
+    },
+    {
+      "id": 65,
+      "model": "싱클레어",
+      "content": "Ya, menurutku memang begitu seharusnya."
+    },
+    {
+      "id": 66,
+      "model": "싱클레어",
+      "content": "Kau akan mati di tangan—!"
+    },
+    {
+      "id": 67,
+      "content": "Dia berhenti karena mendengar suara paku yang digesekkan di lantai."
+    },
+    {
+      "id": 68,
+      "model": "오티스",
+      "content": "…Itu Guido."
+    },
+    {
+      "id": 69,
+      "content": "Kami mengira telah mengalahkannya dengan segala kemampuan yang kami miliki, akan tetapi tubuhnya tidak ada goresan sedikit pun. Seolah-olah semua lukanya telah sembuh dalam waktu yang singkat itu."
+    },
+    {
+      "id": 70,
+      "content": "Melihatnya berjalan mendekati kami dalam kondisi prima membuat para Sinners merasa kelelahan.…"
+    },
+    {
+      "id": 71,
+      "content": "Kehabisan kata-kata, satu-satunya yang bisa mereka ungkapkan dari lubuk hati mereka hanyalah keluh kesal yang penuh hinaan."
+    },
+    {
+      "id": 72,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Guido, kenapa kamu tidak bisa menghabisi yang lainnya?"
+    },
+    {
+      "id": 73,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Maafkan ketidakmampuanku, O One Who Grips. Karena ketidakmampuanku, mereka berhasil melarikan diri."
+    },
+    {
+      "id": 74,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Kau harus tetap waspada. Kau tidak pernah tahu apa yang tersembunyi di balik tengkorak baja terkutuk itu."
+    },
+    {
+      "id": 75,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Aku akan menyimpan firman-Mu di dalam hatiku, O One Who Grips."
+    },
+    {
+      "id": 76,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Karena acara reuni sudah selesai, aku harus segera kembali."
+    },
+    {
+      "id": 77,
+      "content": "Kromer berbalik arah dan berjalan masuk ke dalam rumah besar yang terbakar itu."
+    },
+    {
+      "id": 78,
+      "model": "싱클레어",
+      "content": "Kromer!!!"
+    },
+    {
+      "id": 79,
+      "model": "싱클레어",
+      "content": "Kembali ke sini! Aku akan… Aku bersumpah, kau—! Aku akan menangkapmu dengan tanganku dan—"
+    },
+    {
+      "id": 80,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Bukan, Sinclair."
+    },
+    {
+      "id": 81,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Yang terjadi justru sebaliknya…"
+    },
+    {
+      "id": 82,
+      "content": "Senyuman sinis yang lebar menghiasi seluruh wajah Kromer; tidak mudah untuk mengetahui apakah yang lain habis termakan oleh kobaran api atau oleh keburukan Kromer sendiri."
+    },
+    {
+      "id": 83,
+      "content": "Lalu…"
+    },
+    {
+      "id": 84,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "I am the One Who Grips."
+    }
+  ]
+}
