@@ -1,0 +1,106 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Area Ruang Bawah Tanah",
+      "content": "Kami memasuki mansion yang hangus itu, dan Sinclair membawa kami ke ruang bawah tanah."
+    },
+    {
+      "id": 1,
+      "content": "Ketika dia membuka pintu…"
+    },
+    {
+      "id": 2,
+      "place": "Terowongan Bawah Tanah",
+      "content": "Sebuah terowongan bawah tanah yang panjang mengarah ke suatu tempat muncul di hadapan kami."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Siapa yang menyangka bahwa ada sebuah terowongan di dalam sini…>"
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Jadi… kalau tebakanku benar, maka terowongan ini seharusnya mengarah ke fasilitas cabang."
+    },
+    {
+      "id": 5,
+      "model": "히스클리프",
+      "content": "Kenapa kau menyimpan sesuatu yang mencurigakan di ruang bawah tanahmu?"
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Dulu tidak ada di sini."
+    },
+    {
+      "id": 7,
+      "model": "히스클리프",
+      "content": "Apa? Kalau begitu, gimana caramu tahu kalau kita harus pergi ke ruang bawah tanah?"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Rasanya seperti cara medan magnet menarik jarum kompas ke arah utara… Aku dibawa ke sini oleh intuisiku."
+    },
+    {
+      "id": 9,
+      "model": "파우스트",
+      "content": "……"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "…Bukankah memang begitu?"
+    },
+    {
+      "id": 11,
+      "model": "싱클레어",
+      "content": "Kalian mengajak kami bergabung untuk dijadikan sensor bagi Boughs."
+    },
+    {
+      "id": 12,
+      "content": "Sinclair menatap Faust secara diam-diam."
+    },
+    {
+      "id": 13,
+      "content": "Alih-alih menjawab, dia melangkah melewatinya dan berdiri di depan pintu."
+    },
+    {
+      "id": 14,
+      "model": "파우스트",
+      "content": "Berdasarkan bahan yang digunakan, terowongan ini tampaknya baru saja dibangun."
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Tempat ini kemungkinan besar digali oleh pasukan ekspedisi N Corp saat mereka menguasai kota."
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Ini tidak akan menjadi perjalanan yang singkat. Mengingat jalur ini digali khusus untuk keperluan mereka, kita pasti akan berhadapan dengan musuh di sepanjang perjalanan."
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "…Kita sebaiknya berangkat segera setelah semuanya siap."
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 19,
+      "model": "파우스트",
+      "content": "Jangan melihatku dengan tatapan seperti itu, Dante."
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "…Aku hanya tidak dalam posisi untuk memberikan komentar mengenai hal tersebut."
+    }
+  ]
+}
