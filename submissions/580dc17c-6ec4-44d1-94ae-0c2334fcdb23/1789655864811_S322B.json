@@ -1,0 +1,157 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Distrik 11 - Interior Cabang LC",
+      "content": "Fasilitas cabang yang kami kunjungi tidak terawat dengan baik seperti yang pernah kami kunjungi pada Distrik 4."
+    },
+    {
+      "id": 1,
+      "content": "Sepertinya para Inkuisitor dari N Corp telah menggunakan tempat ini sebagai markas mereka selama beberapa waktu; berbagai alat penyiksaan serta potongan-potongan daging dan mesin seperti yang kami lihat di kota terlihat di hadapanku."
+    },
+    {
+      "id": 2,
+      "teller": "Prosthesis yang Tersiksa",
+      "title": "Warga Kota Calw",
+      "content": "Tolong hentikan… Ini sakit… Sangat menyakitkan…!"
+    },
+    {
+      "id": 3,
+      "model": "N사심문관1",
+      "teller": "Inkuisitor Penyiksa",
+      "title": "Nagel und Hammer",
+      "content": "Hah. Yang satu ini hanya mengeluarkan suara penderitaan."
+    },
+    {
+      "id": 4,
+      "model": "N사심문관2",
+      "teller": "Inkuisitor Interogatif",
+      "title": "Nagel und Hammer",
+      "content": "Ini pasti tangisan palsu. Jangan dipedulikan."
+    },
+    {
+      "id": 5,
+      "teller": "Prosthesis yang Tersiksa",
+      "title": "Warga Kota Calw",
+      "content": "Tidak… Rasa sakitnya… Ini nyata, aku bersumpah…"
+    },
+    {
+      "id": 6,
+      "model": "N사심문관1",
+      "teller": "Inkuisitor Penyiksa",
+      "title": "Nagel und Hammer",
+      "content": "Tidakkah terasa menyakitkan untuk menempelkan semua ketidaksucian ini pada dirimu? Tidakkah hati nuranimu berteriak saat kau membuang sisi kemanusiaanmu?"
+    },
+    {
+      "id": 7,
+      "model": "N사심문관2",
+      "teller": "Inkuisitor Interogatif",
+      "title": "Nagel und Hammer",
+      "content": "Cukup. Yang satu ini sudah terlalu jauh untuk dapat bertobat."
+    },
+    {
+      "id": 8,
+      "model": "N사심문관2",
+      "teller": "Inkuisitor Interogatif",
+      "title": "Nagel und Hammer",
+      "content": "Bukankah dengan tidak adanya air mata sudah cukup menjadi bukti? Yang satu ini hanya berpura-pura mengakui perbuatannya."
+    },
+    {
+      "id": 9,
+      "teller": "Prosthesis yang Tersiksa",
+      "title": "Warga Kota Calw",
+      "content": "Tidak, tunggu! Aku bisa… aku bisa meneteskan air mata! Jadi, kumohon padamu, tolong…"
+    },
+    {
+      "id": 10,
+      "model": "N사심문관1",
+      "teller": "Inkuisitor Penyiksa",
+      "title": "Nagel und Hammer",
+      "content": "Kita bisa saja melakukan pengecekan, bukan begitu?"
+    },
+    {
+      "id": 11,
+      "model": "N사심문관2",
+      "teller": "Inkuisitor Interogatif",
+      "title": "Nagel und Hammer",
+      "content": "…Hm. Memang, curahan kesedihan yang tulus itu mencerminkan sisi kemanusiaan."
+    },
+    {
+      "id": 12,
+      "teller": "Prosthesis yang Tersiksa",
+      "title": "Warga Kota Calw",
+      "content": "Terima kasih… Terima kasih banyak…"
+    },
+    {
+      "id": 13,
+      "model": "N사심문관2",
+      "teller": "Inkuisitor Interogatif",
+      "title": "Nagel und Hammer",
+      "content": "Sekarang, kami akan menarik matamu."
+    },
+    {
+      "id": 14,
+      "model": "N사심문관1",
+      "teller": "Inkuisitor Penyiksa",
+      "title": "Nagel und Hammer",
+      "content": "Kebejatan sesat mereka tidak mengenal batas; mereka bahkan membuat alat-alat keji yang dapat meniru kelenjar air mata. Kita harus melihat dengan mata kepala sendiri bahwa hal ini tidak benar."
+    },
+    {
+      "id": 15,
+      "model": "N사심문관1",
+      "teller": "Inkuisitor Penyiksa",
+      "title": "Nagel und Hammer",
+      "content": "Kami akan membiarkanmu pergi jika kami dapat memastikan bahwa rongga matamu memang terbuat dari daging dan darah."
+    },
+    {
+      "id": 16,
+      "teller": "Prosthesis yang Tersiksa",
+      "title": "Warga Kota Calw",
+      "content": "Ap… Tidak—berhenti!!!"
+    },
+    {
+      "id": 17,
+      "model": "로쟈",
+      "content": "…Huzzah!"
+    },
+    {
+      "id": -1,
+      "model": "//퍽"
+    },
+    {
+      "id": 18,
+      "model": "N사심문관1",
+      "teller": "Inkuisitor Penyiksa",
+      "title": "Nagel und Hammer",
+      "content": "Gah… Ngh…"
+    },
+    {
+      "id": -1,
+      "model": "//효과음",
+      "content": "털썩"
+    },
+    {
+      "id": 19,
+      "model": "N사심문관2",
+      "teller": "Inkuisitor Interogatif",
+      "title": "Nagel und Hammer",
+      "content": "…Kalian para orang sesat benar-benar seperti hama."
+    },
+    {
+      "id": 20,
+      "model": "N사심문관2",
+      "teller": "Inkuisitor Interogatif",
+      "title": "Nagel und Hammer",
+      "content": "Tidak pernah sendirian, memiliki kebiasaan yang terus-menerus menghalangi tugas mulia kita; kalian memang makhluk yang serupa."
+    },
+    {
+      "id": 21,
+      "content": "Rodya mengangkat bahu saat aku menoleh ke arahnya."
+    },
+    {
+      "id": 22,
+      "model": "로쟈",
+      "content": "Apa? Sekali-sekali aku ingin memimpin, kau tahu."
+    }
+  ]
+}
