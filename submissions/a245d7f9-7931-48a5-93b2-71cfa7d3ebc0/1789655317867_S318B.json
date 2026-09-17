@@ -1,0 +1,262 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Perumahan Tua Keluarga Sinclair",
+      "model": "싱클레어",
+      "content": "Rrraaaaaaah!!!"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Hei, tunggu…!"
+    },
+    {
+      "id": 2,
+      "content": "Sinclair melompat ke depan untuk mengejar Kromer sebelum ada yang sempat menghentikannya."
+    },
+    {
+      "id": 3,
+      "content": "Namun, dia dicegah oleh para Inkuisitor N Corp. yang masih tersisa."
+    },
+    {
+      "id": -1,
+      "model": "//효과음 – 퍽"
+    },
+    {
+      "id": 4,
+      "content": "Sebagai balasannya, dia mengayunkan senjatanya dengan kekuatan dahsyat yang tak pernah kubayangkan mampu dia keluarkan, menghancurkan kepala orang yang menggenggamnya."
+    },
+    {
+      "id": 5,
+      "content": "Inkuisitor itu terjatuh ke tanah sebelum sempat mengeluarkan napas dari mulutnya."
+    },
+    {
+      "id": 6,
+      "content": "Sinclair biasanya berada di bagian belakang kelompok kami; ini adalah pertama kalinya aku melihatnya menerobos masuk begitu saja tanpa ragu-ragu."
+    },
+    {
+      "id": 7,
+      "model": "히스클리프",
+      "content": "…Apa-apaan ini—? Kalau kau bisa melakukan itu, kenapa selama ini kau cuma berdiri di belakang?"
+    },
+    {
+      "id": 8,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Aku ingat dengan jelas bahwa aku telah mengakhiri nyawa kalian."
+    },
+    {
+      "id": 9,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Aku benar-benar menyaksikan jaringan otak kalian yang robek mengalir keluar melalui celah-celah pada tengkorak kalian."
+    },
+    {
+      "id": 10,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Namun, lihatlah, kalian para orang sesat, kini berdiri di hadapanku."
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Kamu bukan orang yang tepat untuk mengeluh soal pemulihan yang ajaib…"
+    },
+    {
+      "id": 12,
+      "content": "Guido mengamatiku dengan saksama menggunakan tatapannya yang tajam."
+    },
+    {
+      "id": 13,
+      "content": "Kemudian dia perlahan mengangguk, seolah-olah pengamatannya telah memberinya pengetahuan yang dia butuhkan."
+    },
+    {
+      "id": 14,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Kamu di sana, yang punya kepala seperti orang sesat."
+    },
+    {
+      "id": 15,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Kamu pasti penggembala palsu yang menggoda kawanan ini untuk melakukan penistaan."
+    },
+    {
+      "id": 16,
+      "content": "Dia lalu mengarahkan dagunya ke arah mayat-mayat yang dipaku di halaman."
+    },
+    {
+      "id": 17,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Mereka telah melakukan dosa besar dengan memasuki tempat upacara suci dalam keadaan tubuh yang tidak suci."
+    },
+    {
+      "id": 18,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Oleh karena itu, mereka telah mendapatkan hukuman yang sama dengan hukuman bagi para pengikut ajaran sesat."
+    },
+    {
+      "id": 19,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Mereka juga harus mengalami penghinaan berupa pemasangan alat-alat mekanis ke dalam tubuh mereka secara paksa."
+    },
+    {
+      "id": 20,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Tapi kau berbeda."
+    },
+    {
+      "id": 21,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Dosa menyembah orang sesat lebih ringan daripada terjebak dalam kesesatan itu sendiri."
+    },
+    {
+      "id": 22,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Oleh karena itu, selama kalian bersedia bertobat dan membersihkan pikiran kalian dari dosa…"
+    },
+    {
+      "id": 23,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Kami, para Hammer, bersedia memberikan pengampunan."
+    },
+    {
+      "id": 24,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Maka kutegaskan kepada kalian, wahai orang-orang penuh dosa yang malang dan tersesat oleh godaan."
+    },
+    {
+      "id": 25,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Selamatkan dirimu dari pesona keajaiban palsu itu, dan berlututlah di hadapanku."
+    },
+    {
+      "id": 26,
+      "content": "Konfrontasi berakhir begitu saja. Tak seorang pun yang terlihat bersedia untuk membuka suara lebih dulu."
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<Jadi, selama ini kalian semua sebenarnya terpesona olehku atau semacamnya? Siapa sangka.>"
+    },
+    {
+      "id": 28,
+      "content": "Aku mencoba melontarkan lelucon untuk sedikit meringankan suasana, tapi tak ada yang tertawa."
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "content": "Dante… Pria itu… Dia baru saja menghinamu. Dia bahkan tidak menganggapmu sebagai manusia."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<Sebenarnya, kalian juga sering mengolok-olokku dengan sebutan clockface…>"
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "Hal itu tidak sama! Selain itu, aku tidak pernah memanggilmu begitu..."
+    },
+    {
+      "id": 32,
+      "content": "Ishmael menggerutu."
+    },
+    {
+      "id": 33,
+      "model": "히스클리프",
+      "content": "Jadi, kau pikir dengan mengucapkan kata-kata indah saja sudah cukup untuk meyakinkan kami, ya…"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Dengar baik-baik, Faceplate: Justru kamu yang perlu sedikit disadarkan. Menurutku, otak manusiamu juga sama-sama cacat."
+    },
+    {
+      "id": 35,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "……"
+    },
+    {
+      "id": 36,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Kalian telah diberi kesempatan yang cukup."
+    },
+    {
+      "id": 37,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Pada akhirnya, kalian tidak berbeda dengan orang-orang yang telah kami gantung dan paku itu."
+    },
+    {
+      "id": 38,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Aku seorang Hammer."
+    },
+    {
+      "id": 39,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Aku adalah alat bagi One Who Grips, yang dipercayakan dengan misi agung untuk menembus daging palsu para orang sesat."
+    },
+    {
+      "id": 40,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Aku akan mengikat kalian pada sebuah paku, dan meletakkan kalian di tempat yang paling jauh dari tanah."
+    },
+    {
+      "id": 41,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Karena bagi mereka yang tidak bertobat…"
+    },
+    {
+      "id": 42,
+      "model": "히스클리프",
+      "content": "Oi, mau sampai kapan kau terus mengoceh omongan bodohmu itu?"
+    },
+    {
+      "id": 43,
+      "model": "귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "…tidak diizinkan untuk beristirahat di dalam tanah."
+    }
+  ]
+}
