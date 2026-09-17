@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Calw - Alun-alun Kota",
+      "model": "이스마엘",
+      "content": "Baiklah, apa yang harus kita lakukan sekarang? Kalau kita bergerak secara diam-diam, mungkin kita dapat melewati para Inkuisitor tanpa ketahuan."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Dante… Aku… Aku ingin meminta maaf sebelumnya."
+    },
+    {
+      "id": 2,
+      "model": "싱클레어",
+      "content": "Seperti yang kamu tahu… aku tidak begitu berpengalaman dalam bertarung seperti yang lain…"
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Musuh-musuh kita mungkin akan menusuk hatiku berulang kali untuk itu…"
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Maukah kamu… menanggungnya untukku?"
+    },
+    {
+      "id": 5,
+      "content": "Sinclair begitu gemetar dan terlihat sangat menyedihkan bagi siapa pun yang melihatnya."
+    },
+    {
+      "id": 6,
+      "content": "Aku bisa melihat bahwa dia sedang berusaha sekuat tenaga untuk menahan rasa takutnya."
+    },
+    {
+      "id": 7,
+      "content": "Ini bukan kali pertama Sinclair mengalami kematian. Setiap kali dia tewas, aku selalu memastikan untuk menghidupkannya kembali."
+    },
+    {
+      "id": 8,
+      "content": "Tapi hari ini, dia kembali meminta pengertianku. Dia tampak bertekad untuk menghadapi mereka secara langsung, meski jika dia harus mati berulang kali."
+    },
+    {
+      "id": 9,
+      "content": "Sebuah perasaan yang sama sekali berbeda dari rasa takut yang biasanya ditimbulkan oleh pertempuran…"
+    },
+    {
+      "id": 10,
+      "content": "Mungkin dia sedang merasakan rasa takut yang disertai dengan sebuah keberanian."
+    },
+    {
+      "id": 11,
+      "content": "Dalam hal itu…"
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Apakah kamu takut, Sinclair?>"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "…!"
+    },
+    {
+      "id": 15,
+      "content": "Sinclair tiba-tiba berbalik dan menatapku dengan tatapan terkejut."
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<Hmm? Apa aku baru saja mengatakan sesuatu yang aneh?>"
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Tidak, hanya saja… aku jadi teringat seorang teman yang pernah menanyakan hal yang sama kepadaku."
+    },
+    {
+      "id": 18,
+      "content": "Sinclair membuka mulutnya setelah beberapa saat terdiam. Suaranya terdengar serak."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "…Aku setuju dengan apa yang dikatakan Heathcliff."
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "Entah dengan kepala prostetik atau tidak, kamu tetaplah orang yang sama, Dante."
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Kurasa hal yang sama juga berlaku untuk keluargaku."
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<Terima kasih, Sinclair.>"
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "…Hoo."
+    },
+    {
+      "id": 24,
+      "model": "싱클레어",
+      "content": "Jangan dipikirkan. Aku nggak mau kamu terlalu berterima kasih padaku, padahal sebentar lagi aku bakal bikin kamu menderita dengan mengorbankan nyawaku. Haha."
+    },
+    {
+      "id": 25,
+      "content": "Tepat ketika aku sadar bahwa aku lupa menanyakan apa jawaban dia untuk pertanyaan yang sama yang diajukan temannya…"
+    },
+    {
+      "id": 26,
+      "content": "Sinclair langsung bergabung dalam pertempuran."
+    }
+  ]
+}
