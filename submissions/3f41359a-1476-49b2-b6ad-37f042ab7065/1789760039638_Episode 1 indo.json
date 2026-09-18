@@ -1,0 +1,660 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "<color=#293b95>Ingatan berguncang di dalam kaleng berlabel.</color>"
+    },
+    {
+      "id": 1,
+      "content": "<color=#293b95>Pengalaman larut menjadi sisa rasa menyengat yang tertinggal di lidah seseorang.</color>"
+    },
+    {
+      "id": 2,
+      "content": "<color=#293b95>aku menghantamnya hingga menjadi kemasan, mematuhi petunjuk yang dipaku didinding.</color>"
+    },
+    {
+      "id": 3,
+      "content": "<color=#293b95>Pandanganku tertuju pada goyangan cairan dalam kaleng.</color>"
+    },
+    {
+      "id": 4,
+      "content": "<color=#293b95>Di hidup ini, apa yang bisa menjadi bukti dari \"aku\"?</color>"
+    },
+    {
+      "id": 5,
+      "content": "<color=#293b95>Ingatan? Pengalaman?</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#293b95>Dan apabila bukan keduanya...</color>"
+    },
+    {
+      "id": 7,
+      "place": "Dalam Mephistopheles, Masa lalu",
+      "model": "베르길리우스",
+      "content": "Yet another peculiar question, I see."
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스",
+      "content": "Apakah pernah ada satu misi yang berjalan sesuai dengan harapan mu, Dante? Mengapa misi yang satu ini akan berbeda?"
+    },
+    {
+      "id": 9,
+      "content": "Kamu benar..."
+    },
+    {
+      "id": 10,
+      "content": "Apakah sesulit itu untuk memberikan kami <i>Beberapa</i> petunjuk, Vergilius?"
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "Orang akan bertanya-tanya mengapa perusahaan terus-menerus menempatkan karyawannya dalam situasi berbahaya tanpa memberi tahu mereka tentang informasi yang tersedia... Ah, Aku seolah-olah bisa mendengar keluhan mu dari suara detak jam mekanikmu itu."
+    },
+    {
+      "id": 12,
+      "model": "베르길리우스",
+      "content": "Suka atau tidak, inilah bagaimana bus ini beroperasi, Dante:"
+    },
+    {
+      "id": 13,
+      "model": "베르길리우스",
+      "content": "Mengangkut penumpangnya dari satu stasiun ke stasiun lain, tetapi tidak ke tujuan mereka. Bagian terakhir itu tanggung jawab dari setiap penumpang."
+    },
+    {
+      "id": 14,
+      "model": "베르길리우스",
+      "content": "*sigh* Detak jammu semakin cepat dengan nada marah—baiklah, Aku akan berhenti dengan metafora yang berlebihan ini sekarang."
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "Jika aku jelaskan dengan lebih sederhana..."
+    },
+    {
+      "id": 16,
+      "model": "베르길리우스",
+      "content": "... Ya, perusahaan telah mempertimbangkan semua faktor tetap dan variabel yang berkaitan dengan Golden Boughs. Secara teori, seharusnya semua berjalan sesuai rencana, kamu bisa langsung masuk dan mengambil Golden Bough... Tapi itu tidak ada gunanya."
+    },
+    {
+      "id": 17,
+      "model": "베르길리우스",
+      "content": "Coba tanya pada dirimu sendiri mengapa perusahaan tidak memilih untuk merekrut tim yang profesional yang cenderung tidak melakukan... kenakalan."
+    },
+    {
+      "id": 18,
+      "model": "카론",
+      "content": "Bis sunyi? Bukan hal yang menyenangkan bagi Charon."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스",
+      "content": "Setidaknya hal ini bisa aku beritahu:"
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "Sinner #5... tidak pernah bermaksud untuk kembali ke distrik ini."
+    },
+    {
+      "id": 21,
+      "model": "베르길리우스",
+      "content": "Yang artinya adalah semua yang akan terjadi disini, sebenarnya sedari awal..."
+    },
+    {
+      "id": 22,
+      "model": "베르길리우스",
+      "content": "... sama sekali diluar dugaan."
+    },
+    {
+      "id": 23,
+      "content": "Vergilius memang cenderung samar dan tidak langsung,"
+    },
+    {
+      "id": 24,
+      "content": "Jadi kali ini pun aku tidak terlalu memikirkannya."
+    },
+    {
+      "id": 25,
+      "content": "Jika maksud dari \"diluar dugaan\" adalah sesuatu mungkin akan membunuh para Sinners, itu bukanlah hal baru. Hal itu sudah menjadi keseharian bagi kami, dan aku bisa menghidupkan mereka kembali."
+    },
+    {
+      "id": 26,
+      "model": "베르길리우스",
+      "content": "... Seperti biasa."
+    },
+    {
+      "id": 27,
+      "content": "Tetapi saat itu, bahkan dalam mimpi terliarku tidak pernah membayangkan bahwa..."
+    },
+    {
+      "id": 28,
+      "content": "... Aku akan dihidupkan kembali bersama para Sinners."
+    },
+    {
+      "id": 29,
+      "place": "Butter Street, District 14",
+      "model": "단테",
+      "content": "<Apakah kamu sudah mengetahui ini akan terjadi, Meursault?!>"
+    },
+    {
+      "id": 30,
+      "content": "Baru setelah mendengar pertanyaan itu terlontar dari mulutku, Meursault menoleh ke arahku."
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Ya, Manager."
+    },
+    {
+      "id": 32,
+      "content": "Seperti biasa, jawabannya dilontarkan tanpa ada jeda."
+    },
+    {
+      "id": 33,
+      "content": "Tidak ada tanda terkejut sedikitpun saat ditahan. Bahkan sekedar alasan pun tidak ada."
+    },
+    {
+      "id": 34,
+      "content": "Dan aku tidak memiliki pilihan selain mengakui bahwa inilah dia yang sebenarnya. Selalu seperti itu."
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "Jika tidak ada alasan yang dapat dibenarkan, seperti kontrak, sangat tidak dianjurkan untuk terlibat dalam pertarungan dengan badan usaha milik kota."
+    },
+    {
+      "id": 36,
+      "model": "히스클리프",
+      "content": "Terus?! kami harus diam saja sembari melihat mereka membawa dia?!"
+    },
+    {
+      "id": 37,
+      "model": "로쟈",
+      "content": "Ke-kemana kalian akan membawa dia?"
+    },
+    {
+      "id": 38,
+      "model": "N사해결사1",
+      "content": "Sidang ulang akan dijadwalkan untuk pelaksanaan hukuman terhadap orang yang diasingkan."
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<Semuanya, Tenang... kami semua tenang dulu.>"
+    },
+    {
+      "id": 40,
+      "model": "단테",
+      "content": "<... Adakah yang bisa meminta mereka untuk menjelaskan lebih rinci? kami perlu mengetahui apa yang sedang terjadi dengan sidang dan pengasingan Meursault.>"
+    },
+    {
+      "id": 41,
+      "model": "그레고르",
+      "content": "Uh... Sebentar... Aku tidak tahu harus bertanya mulai dari mana..."
+    },
+    {
+      "id": 42,
+      "model": "N사해결사1",
+      "content": "Sekarang kami akan menahannya. Jika anda keberatan, mohon kirimkan pernyataan resmi mengenai hak negosiasi pada kesempatan berikutnya."
+    },
+    {
+      "id": 43,
+      "content": "Ezra, yang setidaknya memiliki sedikit pengetahuan mengenai N Corp., melangkah maju sementara Gregor masih berusaha mencari kata-kata yang tepat untuk bertanya tentang sidang Meursault."
+    },
+    {
+      "id": 44,
+      "model": "에즈라먼지",
+      "content": "Tidak, kami tidak keberatan dengan apapun <i>saat ini</i>... Hanya saja kami sama sekali tidak tahu dengan apa yang sedang terjadi."
+    },
+    {
+      "id": 45,
+      "model": "N사해결사1",
+      "content": "Apakah pria ini tidak memberitahu apapun?"
+    },
+    {
+      "id": 46,
+      "content": "Untuk pertama kalinya, raut kebingungan sekilas terlihat di wajah tenang milik pekerja N Corp."
+    },
+    {
+      "id": 47,
+      "model": "에즈라먼지",
+      "content": "Jadi? Apakah dia?"
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "content": "Tidak. Tidak sama sekali—bahkan aku tidak mengingat dia pernah memberi isyarat tentang hal itu."
+    },
+    {
+      "id": 49,
+      "model": "이상",
+      "content": "Sayangnya... Ishmael benar."
+    },
+    {
+      "id": 50,
+      "model": "N사해결사1",
+      "content": "Tersangka, Meursault, melanggar perintah pengasingan permanen dari pengadilan dan tetap berada di distrik N Corp tanpa izin."
+    },
+    {
+      "id": 51,
+      "model": "N사해결사1",
+      "content": "Lapiran 3 dari peraturan pengusiran mengizinkan penundaan hingga 6 jam untuk memperhitungkan kemungkinan transit dalam perjalanan menuju distrik lain..."
+    },
+    {
+      "id": 52,
+      "model": "N사해결사1",
+      "content": "Tetapi sudah lewat 6 jam, kami telah menyimpulkan bahwa tujuan kunjungan tersangka bukan untuk singgah sementara. Apakah terdakwa keberatan dengan ini?"
+    },
+    {
+      "id": 53,
+      "model": "뫼르소",
+      "content": "Tidak."
+    },
+    {
+      "id": 54,
+      "model": "오티스",
+      "content": "... Tunggu. Bagaimana statusnya tiba-tiba berubah dari \"tersangka\" menjadi \"terdakwa\"?"
+    },
+    {
+      "id": 55,
+      "model": "N사해결사1",
+      "content": "Karena dakwaan tersebut sudah diajukan saat ini juga."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 57,
+      "model": "오티스",
+      "content": "……."
+    },
+    {
+      "id": 58,
+      "content": "Outis, yang menatap tajam Meursault, terlihat hanya satu tarikan napas sebelum melontaran teguran yang mungkin akan diawali dengan \"Dasar bodoh! kenapa kamu tidak memberi kami tahu sebelumnya?!\" Tetapi, entah bagaimana, dia bisa menahannya."
+    },
+    {
+      "id": 59,
+      "model": "뉴김삿갓",
+      "content": "Setidaknya, apakah kalian dapat memberi tahu kami mengenai jadwal sidangnya? Seperti yang kami katakan, pria itu tidak memberitahu apapun, tidak ada, sama sekali tidak ada mengenai hal ini."
+    },
+    {
+      "id": 60,
+      "model": "이상",
+      "content": "Kami ingin mengetahui apakah ada persyaratan untuk memasuki ruang sidang sebagai pengamat."
+    },
+    {
+      "id": 61,
+      "model": "N사해결사1",
+      "content": "Sidang akan dimulai hari ini, dalam 3 jam kedepan."
+    },
+    {
+      "id": 62,
+      "model": "N사해결사1",
+      "content": "Walaupun sidang tidak terbuka untuk umum, Anda boleh, sebagai orang terdekat terdawa, diperbolehkan untuk hadir jika memohon untuk mendapatkan kursi di bagian pengamat <i>saat ini juga</i>."
+    },
+    {
+      "id": 63,
+      "model": "오티스",
+      "content": "Bagian pengamat... Saya tidak berasumsi bahwa ada cara bagi pengamat untuk ikut campur dalam sidang, apakah benar?"
+    },
+    {
+      "id": 64,
+      "model": "N사해결사1",
+      "content": "Benar, Sebagaimana biasanya. Saya... tidak tahu mengapa anda berasumsi sebaliknya, meskipun pengetahuan saya terbatas pada persidangan di N Corp."
+    },
+    {
+      "id": 65,
+      "model": "로쟈",
+      "content": "Tunggu! Bagaimana dengan juri? Apakah bisa dapat ikut sebagai bagian dari juri...?"
+    },
+    {
+      "id": 66,
+      "model": "N사해결사1",
+      "content": "Pilihan tersebut tidak tersedia."
+    },
+    {
+      "id": 67,
+      "model": "그레고르",
+      "content": "Baiklah, ini persidangan, dan dalam persidangan, mereka memiliki... Benar, seorang pengacara. Bukankah kamu harus mencari pengacara? Apakah kamu sudah menemukan pengacara, Meursault?"
+    },
+    {
+      "id": 68,
+      "model": "뫼르소",
+      "content": "Tidak, saya belum mempunyai pengacara."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "content": "Kamu serius? Meursault selama ini bersama kami. Kapan seharusnya dia mendapatkan pengacara?!"
+    },
+    {
+      "id": 70,
+      "content": "Ishmael yang frustasi berteriak kepada Gregor yang kebingungan, yang tampaknya masih terguncang oleh berita tersebut."
+    },
+    {
+      "id": 71,
+      "model": "그레고르",
+      "content": "B-benar, benar..."
+    },
+    {
+      "id": 72,
+      "model": "로쟈",
+      "content": "Lalu... siapa yang akan membela dia? Oh, Aku tahu—bukankah kalian memiliki pengacara yang ditunjuk oleh pengadilan?"
+    },
+    {
+      "id": 73,
+      "model": "N사해결사1",
+      "content": "Pilihan tersebut tidak tersedia."
+    },
+    {
+      "id": 74,
+      "model": "뫼르소",
+      "content": "... Untuk persidangan ini, terdakwa dapat memilih untuk membela dirinya sendiri jika tidak memiliki pengacara."
+    },
+    {
+      "id": 75,
+      "content": "Meursault menjawab dengan tenang dan tidak begitu peduli, seolah-olah seluruh kejadian ini tidak melibatkan dirinya."
+    },
+    {
+      "id": 76,
+      "model": "N사해결사1",
+      "content": "Saya rasa penjelasan mengenai kejadian ini sudah mencukupi."
+    },
+    {
+      "id": 77,
+      "model": "이스마엘",
+      "content": "Tunggu, kami masih memiliki—"
+    },
+    {
+      "id": 78,
+      "model": "N사해결사1",
+      "content": "Anda perlu mendapatkan dokumen negosiasi resmi jika anda masih memiliki pertanyaan."
+    },
+    {
+      "id": 79,
+      "content": "Mereka memotong pembicaraan kami dengan nada tidak acuh layaknya pekerja yang sudah tidak mau diganggu lagi, kemudian mereka membawa pergi Meursault."
+    },
+    {
+      "id": 80,
+      "content": "Meursault pun mengikuti irama langkah mereka, pasrah pada laju langkah para penangkapnya."
+    },
+    {
+      "id": 81,
+      "model": "돈키호테",
+      "content": "Berhenti, orang-orang baik...! dimana lokasi pengadilan untuk sidang ini?!"
+    },
+    {
+      "id": 82,
+      "model": "N사해결사1",
+      "content": "*sigh*"
+    },
+    {
+      "id": 83,
+      "content": "Menatap kami dengan tatapan yang tertekan, pekerja menjawab pertanyaan Don Quixote hanya dengan helaan napas dan segera pergi."
+    },
+    {
+      "id": 84,
+      "model": "돈키호테",
+      "content": "Sa-saya mohon, setidaknya berikan kami jawaban!"
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "Para kolektor di T Corp. cukup kasar juga, tapi... orang-orang ini lebih dari mereka. Mereka itu seperti mencoba untuk memberi tahu bahawa kami itu mengganggu secara tidak langsung."
+    },
+    {
+      "id": 86,
+      "model": "이상",
+      "content": "Di T Corp., waktu dan kekayaan itu hal yang sama. Orang bisa merasakan keputusasaan yang mendesak agar tidak menyia-nyiakan sedetik pun."
+    },
+    {
+      "id": 87,
+      "model": "이상",
+      "content": "Namun, disini... semua orang terlihat terjebak dalam... kebosanan."
+    },
+    {
+      "id": 88,
+      "model": "뉴김삿갓",
+      "content": "Aku menutup mulutku, karena aku pikir lebih bijak untuk melihat bagaimana situasi akan berkembang..."
+    },
+    {
+      "id": 89,
+      "model": "뉴김삿갓",
+      "content": "Namun sekarang aku rasa apa pun yang mungkin kami tambahkan setelahnya pasti akan diabaikan begitu saja, jika tidak malah memicu reaksi yang lebih buruk. Orang-orang itu tampak sama tidak berkomitmennya terhadap pekerjaan mereka seperti para kleptokrat korup di S Corp."
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "Astaga, setidaknya mereka bisa memberi kami jawaban, setidaknya...! ini tentang sopan santun..."
+    },
+    {
+      "id": 91,
+      "model": "에즈라먼지",
+      "content": "Ugh, lupakan mereka, mereka tidak ingin menjawab kami. aku tahu dimana pengadilannya, aku akan menggambar map untuk kalian."
+    },
+    {
+      "id": 92,
+      "model": "뉴앵두",
+      "content": "T-tunggu sebentar, nyonya ezra. Mari kami serahkan pembuatan peta itu kepada Mentor. Sebaiknya Anda mengalihkan perhatian Anda ke—"
+    },
+    {
+      "id": 93,
+      "content": "Saat ketiga anggota LCD itu sedang menggambar peta di selembar kertas, Rodya menghampiri Faust dengan langkah yang berat, penuh amarah yang nyaris tak tersembunyi. Nada suaranya terdengar dingin dan tajam."
+    },
+    {
+      "id": 94,
+      "model": "로쟈",
+      "content": "Aku cukup yakin kamu akan menjawab apa, tetapi aku akan tetap bertanya."
+    },
+    {
+      "id": 95,
+      "model": "로쟈",
+      "content": "Kamu tau ini akan terjadi, iya kan, Fau? Kamu tau tentang semua selama ini."
+    },
+    {
+      "id": 96,
+      "model": "파우스트",
+      "content": "... Iya."
+    },
+    {
+      "id": 97,
+      "model": "로쟈",
+      "content": "Kamu nggak merasa seharusnya setidaknya kamu sudah memperingatkan kami soal itu?! Kamu tahu betul kalau Meur bukan tipe orang yang bakal membebani orang lain dengan masalahnya!"
+    },
+    {
+      "id": 98,
+      "model": "파우스트",
+      "content": "Faust mengambil inisatif bahwa itu tidak akan berguna."
+    },
+    {
+      "id": 99,
+      "model": "파우스트",
+      "content": "Itu tidak terjadi. Dan tidak akan pernah terjadi."
+    },
+    {
+      "id": 100,
+      "model": "로쟈",
+      "content": "Kamu itu benar-benar... *sigh* lupakan saja."
+    },
+    {
+      "id": 101,
+      "content": "Sebuah helaan napas yang dahsyat keluar dari bibir rodya. Dia mengalihkan pembisaraan, seolah-olah ia tau bahwa menekan Faust lebih jauh tidak akan menghasilkan apa-apa."
+    },
+    {
+      "id": 102,
+      "model": "이스마엘",
+      "content": "Apa yang akan terjadi terhadap Meursault jika... jika tidak berjalan lancar?"
+    },
+    {
+      "id": 103,
+      "model": "돈키호테",
+      "content": "Tidak usah khawatir, karena aku telah menyusun rencana."
+    },
+    {
+      "id": 104,
+      "model": "오티스",
+      "content": "... Dan apa rencana itu?"
+    },
+    {
+      "id": 105,
+      "model": "돈키호테",
+      "content": "Dengan kerja sama, kami halus mengalahkan penjaga pengadilan dan membuat jalan masuk. Sementara itu Ishmael muda berjaga, Aku sendiri akan menyusup kedalam penjara bawah tanah! kami hanya perlu heathcliff muda untuk mencuri kunci dari penjaga dan—"
+    },
+    {
+      "id": 106,
+      "model": "싱클레어",
+      "content": "Kamu mengambil rencana itu dari buku yang kemarin kamu baca di bis ya?"
+    },
+    {
+      "id": 107,
+      "model": "이스마엘",
+      "content": "... Penjara bawah tanah? Di N Corp? Darimana kamu menemukan itu?"
+    },
+    {
+      "id": 108,
+      "model": "돈키호테",
+      "content": "Eeep...! Itu... Aku memang berpendapat bahwa benteng-benteng dilengkapi dengan ruang bawah tanah, jadi..."
+    },
+    {
+      "id": 109,
+      "model": "오티스",
+      "content": "Dan inilah akibatnya jika aku terus-terusan memuaskan rasa ingin tau ku."
+    },
+    {
+      "id": 110,
+      "model": "에즈라먼지",
+      "content": "Bamboo, Aeng-du, mulai untuk mencari pengacara yang bisa mewakili Meursault. Aku akan menghubungi ketua tim, memberi tau semua yang terjadi, dan apakah dia mempunyai saran untuk kami."
+    },
+    {
+      "id": 111,
+      "model": "그레고르",
+      "content": "Kalian akan melakukan itu untuk kami? Itu akan menjadi bantuan yang sangat baik!"
+    },
+    {
+      "id": 112,
+      "model": "파우스트",
+      "content": "... Tidak, sebenarnya itukan akan merepotkan."
+    },
+    {
+      "id": 113,
+      "model": "파우스트",
+      "content": "Apakah Tim LCD memiliki tugas lain untuk diselesaikan hari ini?"
+    },
+    {
+      "id": 114,
+      "model": "에즈라먼지",
+      "content": "Geh... Maksudku, iya, kami punya, tetapi kalian dalam masalah besar dan membutuhkan banyak bantuan untuk keluar dari masalah ini."
+    },
+    {
+      "id": 115,
+      "model": "뉴김삿갓",
+      "content": "Hmm...? Apakah iya?"
+    },
+    {
+      "id": 116,
+      "model": "뉴김삿갓",
+      "content": "Tapi kata wanita itu sebaliknya. Ayo kami kembali dan bersiap untuk tugas kami."
+    },
+    {
+      "id": 117,
+      "model": "뉴앵두",
+      "content": "Tapi..."
+    },
+    {
+      "id": 118,
+      "model": "뉴김삿갓",
+      "content": "Apakah kamu tidak dengar, Aeng-du? \"Cukup merepotkan,\" dia bilang. Aku tidak terlalu yakin mengenai kesulitan yang mereka hadapi, tapi sepertinya bidak-bidak di papan catur mereka harus bermain tanpa saran dari kami."
+    },
+    {
+      "id": 119,
+      "model": "뉴앵두",
+      "content": "Apakah itu alasan sebenarnya anda untuk mengabaikan saran kami, Mentor?"
+    },
+    {
+      "id": 120,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 121,
+      "content": "Ezra mengerutkan alisnya dengan cemas ketika mendengar jawaban Kim... tetapi akhirnya, dia pun mengalah sambil menghela napas. Dia menggelengkan kepalanya sebagai tanda kekalahan."
+    },
+    {
+      "id": 122,
+      "model": "에즈라먼지",
+      "content": "... Baiklah. Kamu bilang ini tanggung jawab LCB oke. Kalau begitu, kami serahkan saja pada kalian, tapi pastikan untuk menghubungi kami kalau situasinya memburuk, oke?"
+    },
+    {
+      "id": 123,
+      "model": "파우스트",
+      "content": "... kami akan memberitahu."
+    },
+    {
+      "id": 124,
+      "content": "Dengan LCD meninggalkan kami untuk menjalankan tugasnya..."
+    },
+    {
+      "id": 125,
+      "content": "Faust dengan perlahan membuka mulutnya ditengan tatapan tajam para Sinners."
+    },
+    {
+      "id": 126,
+      "model": "파우스트",
+      "content": "Faust bukanlah orang yang tanpa rencana."
+    },
+    {
+      "id": 127,
+      "model": "이스마엘",
+      "content": "Tentu saja kamu bukan. Akan lebih baik kalau kali ini kamu mau membagikan rahasianya kepada kami."
+    },
+    {
+      "id": 128,
+      "model": "이스마엘",
+      "content": "*sigh* Tapi kamu tidak bisa, karena<i>itu</i> klausal di dalam kontrak kami yang bilang bahwa kamu dilarang untuk memberitahu kami tentang masa lalu seorang Sinner, kan?"
+    },
+    {
+      "id": 129,
+      "model": "파우스트",
+      "content": "Iya. Sepertinya memang begitu."
+    },
+    {
+      "id": 130,
+      "model": "오티스",
+      "content": "Mengapa kamu menolak bantuan dari LCD??"
+    },
+    {
+      "id": 131,
+      "model": "파우스트",
+      "content": "Karena tidak ada bantuan berarti yang dapat mereka berikan, mengingat sifat persidangan ini. Analisa Faust menyimpulkan keberadaan mereka di ruang sidang hanya akan menjadi penghambat misi kami."
+    },
+    {
+      "id": 132,
+      "model": "단테",
+      "content": "<Baik. Jadi apa yang kamu rencanakan—>"
+    },
+    {
+      "id": 133,
+      "model": "파우스트",
+      "content": "... Keterbatasan waktu saat ini tidak memungkinkan untuk mengadakan sesi pengarahan."
+    },
+    {
+      "id": 134,
+      "model": "돈키호테",
+      "content": "Hanya tersisa 3 jam lagi sebelum persidangan dimulai... Ah, sungguh, kami sedang berlomba melawan waktu."
+    },
+    {
+      "id": 135,
+      "model": "파우스트",
+      "content": "Pertama... Mari kami menuju pengadilan. Rencana akan menjadi jelas ketika kami sampai..."
+    },
+    {
+      "id": 136,
+      "model": "파우스트",
+      "content": "... tanpa membutuhkan penjelasan lebih lanjut."
+    }
+  ]
+}
