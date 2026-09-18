@@ -1,0 +1,370 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "<color=#d4e1e8>Kami bukanlah orang-orang yang ambisius maupun hering yang serakah; kami hanyalah anak-anak yang menyukai teknologi.</color>"
+    },
+    {
+      "id": 1,
+      "content": "<color=#d4e1e8>Apakah kamu ingat hari ketika kita pertama kali merasakan bahwa kita sedang bernapas?</color>"
+    },
+    {
+      "id": 2,
+      "content": "<color=#d4e1e8>Ketika itu…</color>"
+    },
+    {
+      "id": 3,
+      "content": "<color=#d4e1e8>Hanya dengan bernapas saja sudah cukup.</color>"
+    },
+    {
+      "id": 4,
+      "content": "<color=#d4e1e8>Atau mungkin…</color>"
+    },
+    {
+      "id": 5,
+      "content": "<color=#d4e1e8>Udara pada hari itu sangat jernih.</color>"
+    },
+    {
+      "id": 6,
+      "place": "Jalan-jalan yang Hancur di Nest K",
+      "content": "Pemandangan terhalang oleh asap dan debu."
+    },
+    {
+      "id": 7,
+      "content": "Teriakan ketakutan, seruan putus asa, rintihan kesakitan, dan suara benda-benda keras yang pecah menciptakan kakofoni."
+    },
+    {
+      "id": 8,
+      "model": "이상",
+      "content": "Sudah waktunya… untuk memutar jamnya."
+    },
+    {
+      "id": 9,
+      "content": "Aku bisa mendengar Yi Sang, satu-satunya Sinners yang masih tersadar saat ini, mengerahkan sisa tenaganya untuk berbicara."
+    },
+    {
+      "id": 10,
+      "content": "Sementara yang lain tergeletak di lantai bersama mayat-mayat yang terpotong-potong, seperti boneka yang tidak berdaya."
+    },
+    {
+      "id": 11,
+      "content": "Luka fatal tersebut disebabkan oleh Abnormality."
+    },
+    {
+      "id": 12,
+      "content": "Tetapi, saat ini kami berada di tengah-tengah sebuah Nest."
+    },
+    {
+      "id": 13,
+      "content": "Bukankah para Abnormalities… seharusnya dikurung di dalam fasilitas cabang atau ruang bawah tanah Lobotomy Corp?"
+    },
+    {
+      "id": 14,
+      "content": "Sementara itu, Abnormality itu menembus perut Yi Sang ketika aku sedang bertanya-tanya."
+    },
+    {
+      "id": 15,
+      "content": "Tidak ada orang lain yang bisa kuajak bicara mengenai hal ini."
+    },
+    {
+      "id": 16,
+      "place": "Di Dalam Mephistopheles",
+      "model": "홍루",
+      "content": "Kali ini kita mau ke mana?"
+    },
+    {
+      "id": 17,
+      "content": "Para Sinners tampaknya sudah cukup terbiasa dengan pekerjaan ini."
+    },
+    {
+      "id": 18,
+      "content": "Seolah-olah kita sedang melakukan perjalanan, beberapa dari mereka tidak ragu untuk bertanya tentang tujuan berikutnya."
+    },
+    {
+      "id": 19,
+      "model": "파우스트",
+      "content": "Pertanyaan itu kurang tepat. Misi ini dimulai dari seseorang, bukan dari suatu tempat."
+    },
+    {
+      "id": 20,
+      "model": "이상",
+      "content": "Seseorang?"
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Kita kebetulan memiliki seorang klien."
+    },
+    {
+      "id": 22,
+      "model": "이스마엘",
+      "content": "Maksudmu… Kita menerima permintaan dari luar seolah-olah kita ini semacam kantor Fixer atau semacamnya?"
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "Oho, apakah kereta kita mulai dibanjiri permintaan? ¡Excelente! Mungkin tidak akan butuh waktu yang lama untuk menjadi seorang Fixer terkenal!"
+    },
+    {
+      "id": 24,
+      "model": "베르길리우스",
+      "content": "Diam. Aku akan menjawab pertanyaannya."
+    },
+    {
+      "id": 25,
+      "model": "베르길리우스",
+      "content": "Seperti yang kalian semua tahu, Golden Boughs merupakan penemuan yang relatif baru."
+    },
+    {
+      "id": 26,
+      "model": "베르길리우스",
+      "content": "Untungnya, J Corp. dan D Corp. tidak terlalu tertarik saat kita mengunjungi wilayah mereka."
+    },
+    {
+      "id": 27,
+      "model": "베르길리우스",
+      "content": "Itulah sebabnya tempat-tempat itu hanya dipenuhi oleh para penjahat dari Backstreets atau kelompok-kelompok sindikat yang tidak teratur."
+    },
+    {
+      "id": 28,
+      "model": "베르길리우스",
+      "content": "Namun… Ada beberapa pihak yang sudah lebih dulu mengetahui keberadaan dan nilai dari benda ini, seperti K Corp. yang saat ini wilayahnya sedang kita masuki."
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "Hmm? Tapi bukankah kita sudah mengambil Golden Bough di sini, di K Corp Nest?"
+    },
+    {
+      "id": 30,
+      "model": "베르길리우스",
+      "content": "Aku tidak pernah mengatakan bahwa ada aturan yang menyatakan bahwa hanya boleh ada satu Bough di sebuah Distrik."
+    },
+    {
+      "id": 31,
+      "model": "베르길리우스",
+      "content": "Penyebaran fasilitas cabang Lobotomy Corp ternyata lebih rumit daripada yang kalian pikirkan. Fasilitas tersebut dapat ditemukan di segala tempat… tersebar persis seperti cabang-cabang pohon."
+    },
+    {
+      "id": 32,
+      "model": "싱클레어",
+      "content": "Seperti salah satunya yang terhubung ke ruang bawah tanah kompleks perumahan kami…"
+    },
+    {
+      "id": 33,
+      "model": "베르길리우스",
+      "content": "Selain itu, belum ada definisi yang jelas mengenai siapa pemilik Boughs."
+    },
+    {
+      "id": 34,
+      "model": "베르길리우스",
+      "content": "Itulah sebabnya semua orang selama ini mengikuti aturan kuno yang menyatakan bahwa “siapa yang pertama kali menemukan Bough, maka dia yang berhak memilikinya”."
+    },
+    {
+      "id": 35,
+      "model": "로쟈",
+      "content": "Yah, begitulah biasanya nasib dari harta karun yang tersembunyi~"
+    },
+    {
+      "id": 36,
+      "model": "그레고르",
+      "content": "Kalau begitu… Apakah maksudmu kita telah menyetujui permintaan untuk mendapatkan hak kepemilikan Golden Bough?"
+    },
+    {
+      "id": 37,
+      "model": "베르길리우스",
+      "content": "Lebih tepatnya, merekalah yang mengajukan tawaran itu lebih dulu."
+    },
+    {
+      "id": 38,
+      "model": "베르길리우스",
+      "content": "Karena Golden Bough sedang dipertaruhkan, kita jadi…"
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Tidak punya pilihan… Aku mengerti sekarang."
+    },
+    {
+      "id": 40,
+      "model": "베르길리우스",
+      "content": "Jadi… Haaa, aku tidak tahu sudah berapa kali aku harus mengingatkanmu soal ini, tapi jangan lakukan apa pun yang bisa membuat klien kesal."
+    },
+    {
+      "id": 41,
+      "model": "단테",
+      "content": "<Ngomong-ngomong…>"
+    },
+    {
+      "id": 42,
+      "model": "베르길리우스",
+      "content": "Kalau begitu, tutup mulut kalian sampai kalian tiba di sana. Seperti biasanya."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 44,
+      "model": "파우스트",
+      "content": "Dante sepertinya ingin mengatakan sesuatu."
+    },
+    {
+      "id": 45,
+      "model": "단테",
+      "content": "<…Terima kasih, Faust.>"
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "Ah, maaf tentang itu, Dante. Aku harap kamu mengerti bahwa cukup sulit untuk terbiasa dengan konsep suara detakan jam dapat menjadi suatu hal yang perlu direspons."
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<…Jadi, sebenarnya untuk apa Golden Boughs itu digunakan?>"
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<Ketika aku memikirkannya, yang kami terima hanyalah perintah samar-samar untuk mengumpulkannya… Dan tidak ada penjelasan sama sekali mengenai apa yang akan dilakukan perusahaan terhadap benda-benda itu.>"
+    },
+    {
+      "id": 49,
+      "model": "파우스트",
+      "content": "……"
+    },
+    {
+      "id": 50,
+      "model": "파우스트",
+      "content": "Dia bertanya tentang tujuan dari mengumpulkan Golden Boughs."
+    },
+    {
+      "id": 51,
+      "model": "베르길리우스",
+      "content": "…Uh-huh."
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스",
+      "content": "Kamu akhirnya mulai merenungkan berbagai hal, Manajer Dante. Kamu bahkan mulai penasaran dengan rencana perusahaan."
+    },
+    {
+      "id": 53,
+      "model": "베르길리우스",
+      "content": "Kalau begitu, sebaiknya aku membantumu sebagai seorang pemandu dengan memberikan sedikit penjelasan."
+    },
+    {
+      "id": 54,
+      "model": "베르길리우스",
+      "content": "Golden Boughs…"
+    },
+    {
+      "id": 55,
+      "model": "베르길리우스",
+      "content": "Mereka adalah cabang, seperti namanya. Kami menyebutnya sebagai batang yang tumbuh dari pohon. Cabang-cabang ini kebetulan memancarkan cahaya keemasan."
+    },
+    {
+      "id": 56,
+      "model": "돈키호테",
+      "content": "Ohoooo… Benar-benar…"
+    },
+    {
+      "id": 57,
+      "content": "Don Quixote hanya satu-satunya yang menanggapi informasi ini dengan penuh semangat."
+    },
+    {
+      "id": 58,
+      "content": "Berkat percakapan ini, dia menganggapku sebagai orang bodoh yang bahkan tidak tahu apa itu cabang pohon."
+    },
+    {
+      "id": 59,
+      "content": "Rodya mengangkat bahunya seolah-olah ingin mengolok-olokku karena mengharapkan jawaban yang serius."
+    },
+    {
+      "id": 60,
+      "model": "카론",
+      "content": "Verg, jalannya terblokir. Haruskah aku memutar?"
+    },
+    {
+      "id": 61,
+      "model": "베르길리우스",
+      "content": "……"
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "content": "Terblokir?"
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "content": "Aneh sekali jalannya terblokir. Mengingat kita berada di tengah-tengah K Corp’s Nest; kayaknya nggak mungkin bakal terjadi sesuatu—"
+    },
+    {
+      "id": 64,
+      "content": "Sebelum Ishmael sempat menyelesaikan kalimatnya, sebuah bunyi dentuman tumpul di jendela menyela ucapannya."
+    },
+    {
+      "id": 65,
+      "model": "로쟈",
+      "content": "…Barusan ada sesuatu yang terlempar ke arah bus dan memantul… Tadi itu orang, kan?"
+    },
+    {
+      "id": 66,
+      "model": "뫼르소",
+      "content": "Seorang pria yang tampaknya berusia sekitar 40-an awal. Tampaknya ada cedera serius di daerah oksipitalnya. Dia sudah meninggal sebelum terjadinya benturan."
+    },
+    {
+      "id": 67,
+      "model": "베르길리우스",
+      "content": "Yah, sepertinya ini bukan perselisihan biasa."
+    },
+    {
+      "id": 68,
+      "model": "베르길리우스",
+      "content": "Pitstop. Jika itu masalah yang dapat kamu tangani, kembalilah setelah masalah itu selesai."
+    },
+    {
+      "id": 69,
+      "model": "로쟈",
+      "content": "…Kalau ternyata nggak bisa?"
+    },
+    {
+      "id": 70,
+      "model": "베르길리우스",
+      "content": "Maka jam itu harus terus berputar sampai masalahnya terselesaikan."
+    },
+    {
+      "id": 71,
+      "model": "단테",
+      "content": "<Itu adalah cara yang sangat halus untuk menyuruh kami mati berulang kali…>"
+    },
+    {
+      "id": 72,
+      "model": "로쟈",
+      "content": "Hm, baiklah…"
+    },
+    {
+      "id": 73,
+      "model": "로쟈",
+      "content": "Saatnya pergi."
+    },
+    {
+      "id": 74,
+      "model": "베르길리우스",
+      "content": "……"
+    },
+    {
+      "id": 75,
+      "model": "로쟈",
+      "content": "Apa? Kamu pasti akan mengatakan hal yang sama? Aku hanya mencoba membantu~"
+    },
+    {
+      "id": 76,
+      "model": "홍루",
+      "content": "Aku benar-benar nggak sabar, petualangan macam apa yang menanti kita kali ini?"
+    }
+  ]
+}
