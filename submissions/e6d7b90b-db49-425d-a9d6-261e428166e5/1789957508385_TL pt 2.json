@@ -1,0 +1,1651 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pengadilan N Corp.",
+      "content": "Ruang pengadilan N Corp.'s adalah sebuah ruangan putih bersih dengan suasana yang hening."
+    },
+    {
+      "id": 1,
+      "content": "Seperti perkiraan dari sebuah tempat yang didirikan untuk para penegak hukum mengadili para kriminal, tempat ini sangat megah dan agung..."
+    },
+    {
+      "id": 2,
+      "content": "Tapi keagungan tersebut membuat tempat ini hampa."
+    },
+    {
+      "id": 3,
+      "place": "Ruang Penonton Persidangan N Corp.",
+      "model": "이스마엘",
+      "content": "*sigh* Sekarang sudah tidak bisa mundur lagi. Sebaiknya kita pikirkan apa yang bisa kita lakukan."
+    },
+    {
+      "id": 4,
+      "model": "이스마엘",
+      "content": "Kita sama sekali tidak tahu tentang masa lalu Meursault di N Corp...."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Jadi kita harus fokus untuk mendengar dan memperhatikan setiap hal saat persidangan."
+    },
+    {
+      "id": 6,
+      "model": "히스클리프",
+      "content": "Harusnya bisa dapat jawaban dari dia sebelum ditahan. Orang itu tidak akan menjawab jika tidak ditanya."
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Benar, tapi bagaimana kita bisa tau jika dia tiba-tiba ditahan?"
+    },
+    {
+      "id": 8,
+      "model": "이상",
+      "content": "Setidaknya... kita bisa sedikit berasumsi jika dia tidak melanggar <i>Tabu</i> N Corp."
+    },
+    {
+      "id": 9,
+      "model": "그레고르",
+      "content": "Benar... Kalau tidak, kita bisa saja berhadapan dengan pemburu tabu N Corp dimana saja ketika kita pertama kali bertemu dia."
+    },
+    {
+      "id": 10,
+      "model": "돈키호테",
+      "content": "Seandainya waktu berpihak, kemungkinan kita bisa melihat si Tombak Kuning saat dia menjadi pemburu tabu di N Corp.... namun sayangnya..."
+    },
+    {
+      "id": 11,
+      "model": "싱클레어",
+      "content": "yaaah... dan terbunuh oleh si Tombak Kuning berkali-kali?"
+    },
+    {
+      "id": 12,
+      "content": "Mendengarkan percakapan para Sinners, Aku mencoba membayangkan \"kejahatan\" apa yang Meursault mungkin lakukan di N Corp."
+    },
+    {
+      "id": 13,
+      "content": "Meursaultyang kita tau sejauh ini..."
+    },
+    {
+      "id": 14,
+      "content": "... Bukanlah seseorang yang akan asal bertarung atau melakukan kekerasan ke orang lain tanpa alasan yang jelas, tidak seperti <i>beberapa orang dari kita</i>."
+    },
+    {
+      "id": 15,
+      "model": "히스클리프",
+      "content": "Kenapa kamu menatapku seperti itu Kepala Jam? Cari perkara?"
+    },
+    {
+      "id": 16,
+      "model": "료슈9장이후반담배",
+      "content": "Mau cari perkara Kepala Jam?"
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Tunggu, Heathcliff... kamu ikutan juga menggunakan akronim?"
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Ack, Siala— hal itu menular...!"
+    },
+    {
+      "id": 19,
+      "model": "료슈9장이후반담배",
+      "content": "*puff* Era kepala Jam dimulai. dipenuhi dengan gairah."
+    },
+    {
+      "id": 20,
+      "content": "Dia juga bukan orang yang berperilaku semena-mena tanpa memikirkan konsekuensi yang akan terjadi..."
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "Aku tidak menyukai gagasan Meursault melakukan perbuatan keji sehingga dia layak diadili...! Meskipun diberi perintah, dia tidak akan langsung menghantam wajah musuhnya, dan akan melepas rahang mereka, meskipun mereka sudah memegang ujung celana dia sembari menangis meminta ampun..."
+    },
+    {
+      "id": 22,
+      "model": "오티스",
+      "content": "Hm. Dari semua tindakan yang diambil oleh kita selama tugas sebelumnya, tindakan dia sudah layak mendapat pujian. Itu adalah metode paling efisien untuk mengalahkan musuh."
+    },
+    {
+      "id": 23,
+      "content": "Dia juga bukan tipe orang yang pendendam... seperti seseorang yang ku kenal..."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "... Kenapa kamu menatap ku? ... Oh."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Dante, Aku hampir bisa melihat mesin jam mu bergerak, tapi tebakan liar tidak akan membawa kita kemana-mana."
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "content": "Coba pikirkan. Jika kejahatan yang dia lakukan mudah ditebak, tidak mungkin dia akan diasingkan selamanya. Jadi ayo kita berhenti memikirkan hal lain, duduk, dan fokus pada persidangan."
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<Itu benar...>"
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "Kamu tahu, saat kamu menatap <i>ku</i> sambil mencoba menebak apa yang mungkin Meursault lakukan hingga dia disidang itu masih mengganggu ku... sudahlah. Kita fokus saja ke persidangannya."
+    },
+    {
+      "id": 29,
+      "content": "... Ishmael menghembuskan napas panjang dan kembali mengamati keributan orang-orang di sekitar saat bersiap untuk mulainya sidang."
+    },
+    {
+      "id": 30,
+      "model": "홍루",
+      "content": "Ada sesuatu yang aneh dari dia. Bagaimana aku menjelaskannya..."
+    },
+    {
+      "id": 31,
+      "model": "홍루",
+      "content": "Dia seperti tidak hadir bersama kita di ruang pengadilan."
+    },
+    {
+      "id": 32,
+      "model": "로쟈",
+      "content": "Apa yang kau maksud? Meur berdiri disana."
+    },
+    {
+      "id": 33,
+      "model": "홍루",
+      "content": "Um, iya, dia disana..."
+    },
+    {
+      "id": 34,
+      "model": "홍루",
+      "content": "Tetapi serasa jauh dari semua orang, seperti dia disini sebagai penonton sidang orang lain, bukan menjadi terdakwa..."
+    },
+    {
+      "id": 35,
+      "model": "홍루",
+      "content": "Dia seperti melihat ke arah <i>lain</i> walaupun tubuhnya berdiri disini..."
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<Benarkah? Seharusnya seperti apa penampilan seorang terdakwa saat persidang biasa?>"
+    },
+    {
+      "id": 37,
+      "model": "히스클리프",
+      "content": "Persidangan biasa ya? Seperti ini:"
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "Dada dibusungkan, mata terlihat sangat marah, menatap hakim kemudian mengatakan \"Apa yang akan kamu lakukan soal hal ini, bajingan?\""
+    },
+    {
+      "id": 39,
+      "model": "싱클레어",
+      "content": "Apakah itu pengalaman mu Heathcliff...? Oh, lupakan saja. Aku tidak mau tau..."
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "……."
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Dalam sekejap..."
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Aku merasa sendirian, terisolasi dari semua orang yang ada di dunia ini."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Semua yang telah ku lakukan, semua pilihan terbaik yang aku buat pada saat itu..."
+    },
+    {
+      "id": 44,
+      "model": "오티스",
+      "content": "... dipertanyakan tanpa henti. <i>Apakah kamu yakin itu adalah pilihan terbaik? Apakah kamu bisa mengatakan bawha itu bukanlah keputusan seketika?</i>"
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Dan pada satu saat, saat kamu terus mencoba menjelaskannya..."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "... kamu sadar bahwa keputusan yang diambil kembali menjadi konsekuensi, seperti rantai yang mengikat."
+    },
+    {
+      "id": 47,
+      "content": "Ucap Outis dengan suara rendah, sembari menatap ruang sidang."
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Bagaimana kamu... Bagaimana kamu mengahadapi sesuatu seperti itu?"
+    },
+    {
+      "id": 49,
+      "model": "오티스",
+      "content": "Kamu bilang pada dirimu sendiri bahwa kamu itu benar. berulang kali."
+    },
+    {
+      "id": 50,
+      "model": "오티스",
+      "content": "Kamu bilang pada dirimu sendiri kamu tidak memiliki pilihan lain. Tidak ada pilihan lain. Bohongi dirimu sendiri jika itu diperlukan."
+    },
+    {
+      "id": 51,
+      "model": "오티스",
+      "content": "... Pada akhirnya itu tidak lebih dari akal-akalan agar seseorang tidak menyerah."
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "Tapi di persidangan ini, apa yang seharusnya kita perhatikan bukanlah membela diri sendiri, tetapi bagaimana sikap dia terhadap hakim."
+    },
+    {
+      "id": 53,
+      "model": "오티스",
+      "content": "Apa yang sebenarnya telah kaum lakukan... tidak sepenting seberapa meyakinkan kamu saat saat berada dihadapan hakim."
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<*sigh* Tetapi dia tidak memiliki pengacara untuk itu...>"
+    },
+    {
+      "id": 55,
+      "place": "Pengadilan N Corp",
+      "model": "법정 경위",
+      "teller": "Petugas Pengadilan",
+      "title": "N Corp.",
+      "content": "Mohon untuk tertib."
+    },
+    {
+      "id": 56,
+      "model": "법정 경위",
+      "teller": "Petugas Pengadilan",
+      "title": "N Corp.",
+      "content": "Semuanya dimohon untuk berdiri. Sidang kini dimulai, dipimpin oleh Yang Mulia Hakim."
+    },
+    {
+      "id": 57,
+      "content": "Seluruh penonton langsung berdiri ketika petugas pengadilan selesai bicara."
+    },
+    {
+      "id": 58,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "이스마엘",
+      "content": "*groan* Heathcliff... Bisakah kamu bergerak dan berdiri dari kursi itu? Mereka tau kita disini bersama Meursault. Apakah kamu mau terlihat buruk oleh mereka bahkan sebelum sidang ini dimulai?"
+    },
+    {
+      "id": 59,
+      "model": "히스클리프",
+      "content": "Seperti yang aku katakan, terlihat takut merupakan hal terburuk yang bisa kamu lakukan di ruang persidangan... Kau terlihat seperti burung kecil yang ketakutan; mereka akan menghabisi mu."
+    },
+    {
+      "id": 60,
+      "place": "Pengadilan N Corp",
+      "content": "Tidak lama kemudian, tiga orang dengan kerah yang kaku memasuki ruang sidang."
+    },
+    {
+      "id": 61,
+      "model": "법정 경위",
+      "teller": "Petugas Pengadilan",
+      "title": "N Corp.",
+      "content": "Semua dipersilahkan duduk."
+    },
+    {
+      "id": 62,
+      "model": "판사",
+      "content": "Karena kasus ini sangat mendesak, pengadilan ini telah menunda sidang yang dijadwalkan sebelumnya untuk memprioritaskan sidang darurat ini."
+    },
+    {
+      "id": 63,
+      "model": "판사",
+      "content": "Sidang ini akan berjalan singkat. Kecuali terdakwa dapat membuktikan fakta-fakta yang bertentangan dengan dakwaan yang diajukan, pengadilan ini akan mengeluarkan putusan dan menyelesaikan persidangan saat ini juga."
+    },
+    {
+      "id": 64,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "오티스",
+      "content": "... Ini pertanda buruk. Mereka bertujuan untuk menyelesaikan dengan cepat."
+    },
+    {
+      "id": 65,
+      "model": "오티스",
+      "content": "Ketika pengadilan tidak memberi waktu banyak itu selalu menjadi pertanda buruk."
+    },
+    {
+      "id": 66,
+      "place": "Pengadilan N Corp",
+      "model": "판사",
+      "content": "Terdakwa : Meursault. Alamat resmi: Dicabut... Mantan anggota tim pemeliharaan dan manajemen di Grand Magasin Sisyphe, saat itu termasuk dalam the Ones Who Nails."
+    },
+    {
+      "id": 67,
+      "model": "판사",
+      "content": "Apakah benar?"
+    },
+    {
+      "id": 68,
+      "model": "뫼르소",
+      "content": "Iya, Benar."
+    },
+    {
+      "id": 69,
+      "model": "판사",
+      "content": "Penuntut and pengacara terdakwa—Sebutkan kehadiran anda untuk dicatat dalam berita acara."
+    },
+    {
+      "id": 70,
+      "model": "검사",
+      "content": "Untuk pihak penuntut, Yang Mulia."
+    },
+    {
+      "id": 71,
+      "model": "판사",
+      "content": "... Pengacara? Apakah pengacara tidak hadir?"
+    },
+    {
+      "id": 72,
+      "model": "판사",
+      "content": "Apakah terdakwa tidak memiliki pengacara?"
+    },
+    {
+      "id": 73,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "그레고르",
+      "content": "... Kita menghadapi ini tanpa pengacara ya?"
+    },
+    {
+      "id": 74,
+      "model": "그레고르",
+      "content": "Dan Meursault... uh, membela dirinya sendiri?"
+    },
+    {
+      "id": 75,
+      "model": "히스클리프",
+      "content": "... walaupun bersama kita, dia hanya mengeluarkan tiga kata dalam sehari. Sejujurnya, kita akan beruntung jika dia tidak menjawab hanya dengan, \"Mm. Mm.\" dari awal hingga akhir."
+    },
+    {
+      "id": 76,
+      "model": "홍루",
+      "content": "Tetap saja... apakah kamu ingat tentang lomba memasak K Corp.? Sesuatu tentang hidangan ayam itu membuat Meursault menjadi pembicara yang baik."
+    },
+    {
+      "id": 77,
+      "model": "히스클리프",
+      "content": "Mungkin kamu benar... Satu suapan penuh dari hidangan menjijikan itu mengeluarkan semua kata yang dia simpan selama hidupnya..."
+    },
+    {
+      "id": 78,
+      "model": "히스클리프",
+      "content": "Apakah disini tidak ada yang bisa kita cekoki ke mulutnya?"
+    },
+    {
+      "id": 79,
+      "content": "Mata Heathcliff dengan cepat mengamati seluruh isi ruangan mencari \"hidangan menjijikan\" untuk diberikan kepada Meursault."
+    },
+    {
+      "id": 80,
+      "model": "이스마엘",
+      "content": "Kamu pikir akan menemukan makanan di ruang sidang...? Dan apa yang akan kit—kamu lakukan, melempar ke mulutnya dari sini? Ayolah, ini bukan kartun..."
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Tunggu, Faust pergi kemana?>"
+    },
+    {
+      "id": 82,
+      "model": "로쟈",
+      "content": "Fau? Oh, Dia disi—sebentar, tadi dia ada disini bersama ku... Dia lari kemana?"
+    },
+    {
+      "id": 83,
+      "model": "이상",
+      "content": "... Apakah, seiring mendekatnya waktu persidangan, dia pergi untuk mencari pengacara?"
+    },
+    {
+      "id": 84,
+      "model": "그레고르",
+      "content": "Apakah waktunya cukup...? Maksud ku, memohon untuk menjadi penonton saja sangat lama..."
+    },
+    {
+      "id": 85,
+      "model": "그레고르",
+      "content": "Kalau begini, salah satu dari kita harus maju dan menjadi pengacara."
+    },
+    {
+      "id": 86,
+      "model": "이스마엘",
+      "content": "Salah satu dari kita menjadi pengacara...? Untuk terakhir kalinya, ini bukan kartun..."
+    },
+    {
+      "id": 87,
+      "model": "히스클리프",
+      "content": "Ada apa kamu dengan kartun untuk hari ini?"
+    },
+    {
+      "id": 88,
+      "model": "돈키호테",
+      "content": "Hm? Jika yang kalian cari adalah Faust, dia berdiri disana?"
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<Eh?>"
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "Apakah kalian tidak melihatnya? Disana, di dekat Meursault! Dia berdiri tegap dalam tatapan tajam seluruh ruang sidang!"
+    },
+    {
+      "id": 91,
+      "model": "이스마엘",
+      "content": "Apa yang kau katakan? Kenapa Faust..."
+    },
+    {
+      "id": 92,
+      "model": "이스마엘",
+      "content": "... berdiri..."
+    },
+    {
+      "id": 93,
+      "model": "이스마엘",
+      "content": "... di dekat Meursault...?"
+    },
+    {
+      "id": 94,
+      "place": "Pengadilan N Corp",
+      "content": "Aku melihat ke arah kursi terdakwa..."
+    },
+    {
+      "id": 95,
+      "content": "... dan aku cukup yakin, seperti yang Don Quixote katakan, Faust berdiri di dekat Meursault..."
+    },
+    {
+      "id": 96,
+      "content": "... tepat dibagian yang tertulis \"Meja pengacara.\""
+    },
+    {
+      "id": 97,
+      "model": "파우스트",
+      "content": "Maaf atas keterlambatannya."
+    },
+    {
+      "id": 98,
+      "model": "파우스트",
+      "content": "Pengacara untuk terdakwa, Yang Mulia."
+    },
+    {
+      "id": 99,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "단테",
+      "content": "<Dia benar-benar akan menjadi pengacara...?>"
+    },
+    {
+      "id": 100,
+      "model": "히스클리프",
+      "content": "Lihat? Sudah ku bilang dia punya sesuatu dalam kepalanya yang besar itu."
+    },
+    {
+      "id": 101,
+      "model": "이스마엘",
+      "content": "Jangan bohong."
+    },
+    {
+      "id": 102,
+      "model": "이상",
+      "content": "Tidak terpikirkan oleh ku jika hal ini bisa kita lakukan. Mungkin... kita bisa sedikit lega."
+    },
+    {
+      "id": 103,
+      "model": "이상",
+      "content": "Dalam hal pengamatan... tidak ada dari kita yang bisa menandingi Faust."
+    },
+    {
+      "id": 104,
+      "model": "그레고르",
+      "content": "Yeah... Dengan dia berada disana cukup melegakan."
+    },
+    {
+      "id": 105,
+      "model": "히스클리프",
+      "content": "Kau pasti bisa! Penuntut itu tidak ada apa-apanya dibandingkan dengan mu! Tindih wanita itu sampai dia berdarah! Secara kiasan!"
+    },
+    {
+      "id": 106,
+      "model": "오티스",
+      "content": "... Masih ada satu hal yang dikhawatirkan."
+    },
+    {
+      "id": 107,
+      "model": "오티스",
+      "content": "Apa yang <i>dia</i> lakukan disana bersama Faust?"
+    },
+    {
+      "id": 108,
+      "place": "Pengadilan N Corp",
+      "content": "Sesuai dengan pengamatan Outis,"
+    },
+    {
+      "id": 109,
+      "content": "Disaat itulah kita melihat Sinclair berada di sisi Faust."
+    },
+    {
+      "id": 110,
+      "model": "싱클레어",
+      "content": "...?"
+    },
+    {
+      "id": 111,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "단테",
+      "content": "<... Aku tidak yakin jika dia sendiri menyadarinya?>"
+    },
+    {
+      "id": 112,
+      "model": "돈키호테",
+      "content": "Pengkhianatan macam apa ini?! kenapa harus Sinclair yang diberi hak istimewa untuk mencuri perhatian seluruh isi ruang sidang?! Aah, ini membuatku sangat iri!"
+    },
+    {
+      "id": 113,
+      "place": "Pengadilan N Corp",
+      "model": "판사",
+      "content": "Tim pengacara hanya kalian berdua, benar?"
+    },
+    {
+      "id": 114,
+      "model": "싱클레어",
+      "content": "Err... ya?"
+    },
+    {
+      "id": 115,
+      "model": "파우스트",
+      "content": "Iya, itu benar."
+    },
+    {
+      "id": 116,
+      "model": "판사",
+      "content": "... Pengacara diakui."
+    },
+    {
+      "id": 117,
+      "content": "... Sepertinya \"Err, ya?\" dihitung sebagai pengakuan?"
+    },
+    {
+      "id": 118,
+      "model": "판사",
+      "content": "penuntuk, diperbolehkan untuk menyampaikan dakwaan."
+    },
+    {
+      "id": 119,
+      "content": "Penuntut membuka berkas dan mulai berbicara dengan tenang."
+    },
+    {
+      "id": 120,
+      "model": "검사",
+      "content": "Yang Mulia. Tuntutan menunjukan bahwa terdakwa, Meursault, sudah pernah berdiri disini sebelumnya atas kerusakan properti yang disebabkan terhadap N Corp."
+    },
+    {
+      "id": 121,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "단테",
+      "content": "<Kerusakan properti?>"
+    },
+    {
+      "id": 122,
+      "model": "로쟈",
+      "content": "uuhh... seperti menjebol pintu untuk masuk kedalam sebuah toko..."
+    },
+    {
+      "id": 123,
+      "model": "히스클리프",
+      "content": "Ada juga yang mencuri ban gerobak. Lebih baik kalau itu milik orang kaya."
+    },
+    {
+      "id": 124,
+      "model": "이상",
+      "content": "\"Co-re-tan\" di dinding juga termasuk kategori itu..."
+    },
+    {
+      "id": 125,
+      "model": "로쟈",
+      "content": "Di tempat ku, kau bisa lepas dengan hanya sedikit teguran atau sedikit denda untuk bebas. Itulah mengapa sangat penting untuk mengingat wajah polisi sekitar."
+    },
+    {
+      "id": 126,
+      "model": "로쟈",
+      "content": "'Tentu saja, aku tidak <size=70%>Hampir</size> pernah tertangkap~. Yang kikuk dan lambat biasanya menjadi yang tertangkap. Kasihan, tetapi itulah bagaimana bisanya terjadi. Bukankah tidak masuk akal jika semuanya tertangkap hanya untuk membantu satu orang?"
+    },
+    {
+      "id": 127,
+      "model": "히스클리프",
+      "content": "Benar sekali kawan! Kau lari secepat mungkin tanpa melihat ke belakang. Aturan pertama di Backstreets."
+    },
+    {
+      "id": 128,
+      "content": "Dari cara Heathcliff menceritakan kepada Rodya mengingatkan kita, sekali lagi, karena banyak kemiripan dengan masa lalu mereka."
+    },
+    {
+      "id": 129,
+      "model": "이상",
+      "content": "Bagaimanapun juga, Aku pikir meninggalkan seorang teman yang tertinggal dengan cara seperti itu sama saja dengan merusak pertemanan..."
+    },
+    {
+      "id": 130,
+      "model": "이상",
+      "content": "... Hanya karena berlari lambat bukan berarti tekadnya tidak selemah larinya."
+    },
+    {
+      "id": 131,
+      "model": "이스마엘",
+      "content": "Yi Sang, kamu... uh, pernah tertangkap atau tidak?"
+    },
+    {
+      "id": 132,
+      "model": "이상",
+      "content": "Hanya sekali. Saat aku masih ceroboh... ketika aku bersama teman-teman menggambar di sebuah dinding, dengan tujuan sebagai cerminan penderitaan saat masa sulit. Aku tidak tahu bahwa sebenarnya kita menggabar di dinding milik seseorang yang bisa menjadi masalah serius..."
+    },
+    {
+      "id": 133,
+      "model": "이스마엘",
+      "content": "Apa...? Bukankah tujuan mencoret dinding adalah untuk melanggar aturan? Seperti menjadi nakal atau sebagainya?"
+    },
+    {
+      "id": 134,
+      "model": "이상",
+      "content": "Tidak...Aku tidak tau hal seperti itu. Tidak ada satu pun wajah bersalah yang diperlihatkan oleh teman-teman ku. Aku pikir aku sendirian dalam hal ketidaktahuan akan budaya baru, tapi..."
+    },
+    {
+      "id": 135,
+      "model": "히스클리프",
+      "content": "Kawan... Itulah arti dari kesetiaan. Kau tertangkap, kau akan bangga terhadap dirimu, karena hanya teman-teman <i>sejati</i> yang bersedia menanggung kesalahan."
+    },
+    {
+      "id": 136,
+      "model": "이상",
+      "content": "Mungkin saja, tapi aku merasa tertawa terbahak-bahak sembari berlarian adalah hal yang tidak penting, meninggalkan dalam keadaan terjatuh di tanah membuatku sedih..."
+    },
+    {
+      "id": 137,
+      "model": "로쟈",
+      "content": "Pokoknya, Aku yakin Meursault masih memiliki kesempatan lepas dengan hukuman ringan jika dia hanya merusak beberapa properti~"
+    },
+    {
+      "id": 138,
+      "model": "이스마엘",
+      "content": "Aku tidak tau harus berapa kali untuk memberitahu ini, tetapi jika dia hanya \"merusak beberapa properti,\" N Corp. seharusnya tidak sampai diasingkan bukan?"
+    },
+    {
+      "id": 139,
+      "model": "로쟈",
+      "content": "Oh, kamu benar. Yaa, Aku juga penasaran..."
+    },
+    {
+      "id": 140,
+      "model": "히스클리프",
+      "content": "Woi, Kawan! Kebodohan apa yang kau lakukan sebelum bergabung dengan kita?!"
+    },
+    {
+      "id": 141,
+      "model": "오티스",
+      "content": "Kita di ruang sidang! Kecilkan suara mu, bodoh!"
+    },
+    {
+      "id": 142,
+      "model": "이스마엘",
+      "content": "Bisakah kamu jangan berisik untuk sebentar saja?! Kau akan membuat kita diusir!"
+    },
+    {
+      "id": 143,
+      "content": "... Tidak ada hal lain yang bisa lakukan selain menonton."
+    },
+    {
+      "id": 144,
+      "place": "Pengadilan N Corp",
+      "model": "검사",
+      "content": "Yang Mulia, Seperti yang sudah diketahui oleh pengadilan, peristiwa tersebut menimbulkan kerugian yang sangat besar dan merugikan terhadap kepentingan N Corp."
+    },
+    {
+      "id": 145,
+      "model": "판사",
+      "content": "Saya tahu."
+    },
+    {
+      "id": 146,
+      "model": "판사",
+      "content": "Pengacara diperbolehkan untuk berbicara mengenai peristiwa tersebut."
+    },
+    {
+      "id": 147,
+      "model": "파우스트",
+      "content": "Baik, Yang Mulia. Pertama-tama, konfirmasi fakta."
+    },
+    {
+      "id": 148,
+      "model": "파우스트",
+      "content": "Apakah anda bisa menceritakan tentang peristiwa tersebut, Tuan Sinclair?"
+    },
+    {
+      "id": 149,
+      "model": "싱클레어",
+      "content": "... Huh?"
+    },
+    {
+      "id": 150,
+      "model": "싱클레어",
+      "content": "Um, uh... Jadi Meur—Maksudku, terdakwa berada di N Corp., kemudian..."
+    },
+    {
+      "id": 151,
+      "model": "판사",
+      "content": "Apakah saya boleh berasumsi bahwa pengacara tidak mempelajari dokumen perkara sebelum sidang?"
+    },
+    {
+      "id": 152,
+      "model": "싱클레어",
+      "content": "Sa... Saya tidak memiliki cukup waktu untuk membacanya..."
+    },
+    {
+      "id": 153,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "히스클리프",
+      "content": "Kenapa dia malah mengacaukannya?!"
+    },
+    {
+      "id": 154,
+      "model": "그레고르",
+      "content": "Mau bagaimana lagi, Faust tiba-tiba membawanya padahal dia tidak tau apa-apa... Bahkan aku ragu jika kalian bisa lebih baik darinya."
+    },
+    {
+      "id": 155,
+      "model": "로쟈",
+      "content": "Kenapa Fau memilih untuk mengajak Sinclaire?"
+    },
+    {
+      "id": 156,
+      "place": "Pengadilan N Corp",
+      "model": "파우스트",
+      "content": "... Izikan saya untuk menjawabnya."
+    },
+    {
+      "id": 157,
+      "model": "파우스트",
+      "content": "3 tahun lalu, terdakwa, Meursault, didakwa atas pembunuhan salah satu anggota Besar Sisyphe di N Corp. Dikarenakan hal ini melanggar tabu N Corp, hal itu dianggap tindakan pidana kerusakan berat, atas hal tersebut ia secara resmi didakwa."
+    },
+    {
+      "id": 158,
+      "model": "파우스트",
+      "content": "Pekerja yang dimaksud adalah ibu dari terdakwa."
+    },
+    {
+      "id": 159,
+      "model": "싱클레어",
+      "content": "... Apa?"
+    },
+    {
+      "id": 160,
+      "model": "파우스트",
+      "content": "Terdakwa berdiri disini sebelumnya setelah hari ke 3 peristiwa terjadi,"
+    },
+    {
+      "id": 161,
+      "model": "파우스트",
+      "content": "mengakui bersalah atas seluruh dakwaan, dan dijatuhi hukuman pengasingan selamanya dari N Corp."
+    },
+    {
+      "id": 162,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "단테",
+      "content": "<Apakah... Apakah aku mendengarnya dengan benar...?>"
+    },
+    {
+      "id": 163,
+      "model": "이스마엘",
+      "content": "Di-dia bilang \"membunuh\"?"
+    },
+    {
+      "id": 164,
+      "model": "히스클리프",
+      "content": "<i>ibu</i> nya sendiri...?"
+    },
+    {
+      "id": 165,
+      "place": "Pengadilan N Corp",
+      "content": "Faust berbicara tanpa ada sedikit emosi. Kata-katanya bergema di telinga ku seperti mendengarnya dalam mimpi."
+    },
+    {
+      "id": 166,
+      "place": "Didalam Mephistopheles, Masa lalu",
+      "content": "Membunuh ibunya, diasingkan, resiko persidangan—Meursault tidak pernah memberitahu ini sama sekali ketika Vergillius mengumumkan bahwa bis akan menuju District 14. Sebenarnya dia bisa memberitahu; sebenarnya ada telinga yang mau mendengarkan, tetapi dia memilih diam."
+    },
+    {
+      "id": 167,
+      "content": "Apakah karena tidak ada yang bertanya? Tentu saja. Tapi..."
+    },
+    {
+      "id": 168,
+      "model": "베르길리우스",
+      "content": "<i>Sinner #5... tidak pernah bertujuan untuk kembali ke Distrik ini.</i>"
+    },
+    {
+      "id": 169,
+      "content": "Jadi ini yang dia maksud..."
+    },
+    {
+      "id": 170,
+      "place": "Pengadilan N Corp",
+      "model": "검사",
+      "content": "... Contoh nyatanya."
+    },
+    {
+      "id": 171,
+      "model": "검사",
+      "content": "Terdakwa mengakui fakta-fakta tersebut—saat pemeriksaan fakta dan interogasi dilakukan setelah aset N Corp. diamankan."
+    },
+    {
+      "id": 172,
+      "model": "검사",
+      "content": "Namun demikian, dia berada disini, disaat ini, beridi di pengadilan yang berlokasi di N Corp. Tidak ada bukti yang lebih jelas dari dia melanggar tabu."
+    },
+    {
+      "id": 173,
+      "model": "검사",
+      "content": "Yang Mulia."
+    },
+    {
+      "id": 174,
+      "model": "판사",
+      "content": "... Apakah pengacara memiliki penyataan atas hal ini?"
+    },
+    {
+      "id": 175,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "오티스",
+      "content": "... Ini akan sulit."
+    },
+    {
+      "id": 176,
+      "model": "로쟈",
+      "content": "Dia... pasti bisa."
+    },
+    {
+      "id": 177,
+      "model": "로쟈",
+      "content": "Kita berbicara Fau disini."
+    },
+    {
+      "id": 178,
+      "content": "Rodion bergumam seperti sangat putus asa untuk mempercayai mereka."
+    },
+    {
+      "id": 179,
+      "place": "Pengadilan N Corp",
+      "model": "파우스트",
+      "content": "... Yang Mulia."
+    },
+    {
+      "id": 180,
+      "content": "Faust langsung menjawab. Itulah Faust yang kita kenal. Aku tau dia sudah menyiapkan strategi brilian dan untuk menyelamatkan Meursault dari hukuman..."
+    },
+    {
+      "id": 181,
+      "model": "파우스트",
+      "content": "Terdakwa..."
+    },
+    {
+      "id": 182,
+      "model": "파우스트",
+      "content": "... telah memasuki N Corp. tanpa mematuhi proses imigrasi yang dibutuhkan."
+    },
+    {
+      "id": 183,
+      "model": "파우스트",
+      "content": "Pada dasarnya, tidakannya dapat diartikan sebagai upaya masuk secara ilegal."
+    },
+    {
+      "id": 184,
+      "model": "검사",
+      "content": "...?!"
+    },
+    {
+      "id": 185,
+      "model": "판사",
+      "content": "... Dimengerti."
+    },
+    {
+      "id": 186,
+      "model": "판사",
+      "content": "Apakah penuntut tahu akan hal ini?"
+    },
+    {
+      "id": 187,
+      "model": "검사",
+      "content": "T-tidak, Yang Mulia."
+    },
+    {
+      "id": 188,
+      "model": "검사",
+      "content": "Jaksa penuntut mengajukan permohonan untuk menambahkan dakwaan tersebut..."
+    },
+    {
+      "id": 189,
+      "content": "Penuntut memberikan tatapan kebingungan kepada Faust, dihadapkan dengan sebuah argumen yang tidak pernah disangka dari pihak <i>lawan</i> . Kita pun sama."
+    },
+    {
+      "id": 190,
+      "model": "싱클레어",
+      "content": "F-Faust...?"
+    },
+    {
+      "id": 191,
+      "model": "싱클레어",
+      "content": "Kamu berada di pihak Meursault kan, bukan N Corp.'...?"
+    },
+    {
+      "id": 192,
+      "model": "파우스트",
+      "content": "......."
+    },
+    {
+      "id": 193,
+      "model": "검사",
+      "content": "Singkatnya, Yang Mulia... Terdakwa tidak hanya menghancurkan aset paling berharga N Corp untuk produksi Pengalaman Instan; dan juga melanggar perintah pengadilan atas pengasingan permanen, berpergian melalui District 14, dan masuk ke N Corp secara ilegal."
+    },
+    {
+      "id": 194,
+      "model": "검사",
+      "content": "Perbuatan keji terdakwa sudah merusak keberlanjutan dan persaingan N Corp diantara para Sayap, Yang Mulia. Saat ini, Pengalaman instant tidak bisa diproduksi sebanyak sebelumnya. Jaksa penuntut menyampaikan detail lanjutan mengenai kasus ini:"
+    },
+    {
+      "id": 195,
+      "model": "검사",
+      "content": "Catatan menunjukan bahwa dia mengunjungi sebuah bioskop sehari setelah membunuh ibunya. Bagaimana bisa seorang manusia..."
+    },
+    {
+      "id": 196,
+      "content": "Faust mengangkat tangan."
+    },
+    {
+      "id": 197,
+      "model": "파우스트",
+      "content": "... Keberatan."
+    },
+    {
+      "id": 198,
+      "model": "싱클레어",
+      "content": "Whew... Aku tau dia akan membela dia! tadi cuma sedikit kesalahan kan, Faust?"
+    },
+    {
+      "id": 199,
+      "model": "파우스트",
+      "content": "Terdakwa mengunjungi bioskop bukan sehari setelahnya, tetapi di hari yang sama."
+    },
+    {
+      "id": 200,
+      "model": "싱클레어",
+      "content": "...?"
+    },
+    {
+      "id": 201,
+      "model": "싱클레어",
+      "content": "T-tunggu... sebentar! T-t-tapi...!"
+    },
+    {
+      "id": 202,
+      "model": "싱클레어",
+      "content": "Tuan Meursault... Maksudku, Tuan terdakwa... mempunyai alasan yang tidak bisa ia kontrol. Itulah mengapa dia... dan setelah apa yang terjadi pada ibunya, dia... dia membutuhkan sesuatu untuk mnegatasi rasa sedihnya, jadi... ya, jadi... dia tidak bisa menahan diri..."
+    },
+    {
+      "id": 203,
+      "content": "Wajahnya memucat, Sinclair mencoba yang terbaik untuk memaparkan pernyataannya."
+    },
+    {
+      "id": 204,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "돈키호테",
+      "content": "Wow, keringat di pipi Sinclair sudah seperti tangisan... "
+    },
+    {
+      "id": 205,
+      "model": "이상",
+      "content": "Mungkin itu benar, not a metaphorbukan sekedar kiasan... Keringatnya memang tebuat dari air mata..."
+    },
+    {
+      "id": 206,
+      "model": "단테",
+      "content": "<... Mungkin Faust... tidak pernah mencoba untuk membela Meursault dari sejak awal.>"
+    },
+    {
+      "id": 207,
+      "place": "Pengadilan N Corp",
+      "model": "파우스트",
+      "content": "Keberatan."
+    },
+    {
+      "id": 208,
+      "content": "Faust terus menerus mengajukan keberatan meskipun Sinclair sudah mencoba untuk membela dengan lemah."
+    },
+    {
+      "id": 209,
+      "model": "판사",
+      "content": "Diperbolehkan untuk bicara."
+    },
+    {
+      "id": 210,
+      "model": "파우스트",
+      "content": "Syarat-syarat yang melekat pada pengasingan terdakwa mencakup ketentuan yang dirancang untuk mempertimbangkan memberikan keringanan."
+    },
+    {
+      "id": 211,
+      "model": "파우스트",
+      "content": "Apabila ada hal yang mendesak dan dia harus memasuki Distrik 14, terdakwa harus mengirim detail tujuan kedatangan dan perjanjian tertulis yang menunjukan bahwa dia tidak akan memasuki N Corp. itu sendiri, setidaknya 14 hari sebelum kedatangan."
+    },
+    {
+      "id": 212,
+      "model": "파우스트",
+      "content": "Tambahan, jika terdakwa memasuki Distrik 14 tanpa izin terlebih dahulu, ia harus pergi dengan keinginannya sendiri dalam jangka waktu toleransi selama 6 jam."
+    },
+    {
+      "id": 213,
+      "model": "파우스트",
+      "content": "Meskipun ada kondisi tersebut, terdakwa tidak menyerahkan dokumen yang dibutuhkan ataupun pergi dengan keinginan sendiri."
+    },
+    {
+      "id": 214,
+      "model": "싱클레어",
+      "content": "... Kenapa kamu melakukan ini? Kenapa kamu menyatakan keberatan kepada diri <i>ku</i>?!"
+    },
+    {
+      "id": 215,
+      "model": "검사",
+      "content": "S-seperti yang telah disampaikan pengacara, Yang Mulia."
+    },
+    {
+      "id": 216,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "히스클리프",
+      "content": "... Apa yang salah dengan rambut putih? Apakah dia punya dendam yang tidak kita ketahui?"
+    },
+    {
+      "model": "로쟈",
+      "content": "Keadaan sudah terlihat buruk... dan sekarang seluruh isi ruang sidang menatap Meur."
+    },
+    {
+      "id": 218,
+      "place": "Pengadilan N Corp",
+      "model": "싱클레어",
+      "content": "T-tapi...! Tapi...!! Tapi!!!"
+    },
+    {
+      "id": 219,
+      "content": "Sinclair masih belum menyerah."
+    },
+    {
+      "id": 220,
+      "model": "싱클레어",
+      "content": "Terdakwa... sudah memperlihatkan... tanda-tanda penyesalan. Dia..."
+    },
+    {
+      "id": 221,
+      "model": "파우스트",
+      "content": "Keberatan."
+    },
+    {
+      "id": 222,
+      "model": "파우스트",
+      "content": "Pengacara keberatan, Yang Mulia. Terdakwa sama sekali tidak memperlihatan rasa menyesalan sedikit pun."
+    },
+    {
+      "id": 223,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 224,
+      "content": "Meursault tetap diam, bahkan dibawah serangan tanpa henti dari Faust."
+    },
+    {
+      "id": 225,
+      "content": "Jaksa penuntut tampaknya tidak perlu banyak bicara. Faust melakukan itu untuknya. Jika memang ada, dia mungkin merasa bersyukur."
+    },
+    {
+      "id": 226,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "content": "Aku menatap para penonton. Semuanya menatap ke arah Meursault."
+    },
+    {
+      "id": 227,
+      "content": "Lebih tepatnya—mereka sedang menatap Meursault sebagaimana didefinisikan oleh pengadilan ini.."
+    },
+    {
+      "id": 228,
+      "content": "Dan hal itu menggambarkannya sebagai penjahat yang tak tahu malu, setelah membunuh ibunya, telah melanggar ketentuan pengasingan permanennya tanpa menunjukkan penyesalan dan kembali N Corp."
+    },
+    {
+      "id": 229,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 230,
+      "content": "Untuk sesaat, Aku melihat seorang wanita duduk diantara penonton,"
+    },
+    {
+      "id": 231,
+      "content": "Tatapannya terkunci pada Meursault."
+    },
+    {
+      "id": 232,
+      "content": "Aku tidak bisa menjelaskan kenapa hanya ia sendiri yang sangat menonjol diantara banyaknya penonton."
+    },
+    {
+      "id": 233,
+      "content": "Entah bagaimana, Aku pikir... tatapannya bukan ditujukan untuk seorang pembunuh keji seorang ibu, tetapi kepada sorang manusia yang terisolasi dari dunia luar."
+    },
+    {
+      "id": 234,
+      "model": "히스클리프",
+      "content": "Sialan... Kenapa tiba-tiba sangat silau?"
+    },
+    {
+      "id": 235,
+      "content": "But thenNamun kemudian cahaya yang menyilaukan menerangi ruang sidang, menelan lekuk-lekuk wajahnya hingga ia lenyap dari pandanganku."
+    },
+    {
+      "id": 236,
+      "model": "그레고르",
+      "content": "... Jadi... dakwaan yang ditujukan pada Meursault sekarang..."
+    },
+    {
+      "id": 237,
+      "content": "Gregor membuka mulutnya dengan suara serak. Suaranya terdengar seolah-olah tenggorokannya tiba-tiba menjadi kering."
+    },
+    {
+      "id": 238,
+      "model": "그레고르",
+      "content": "... koreksi jika salah... pengadilan bilang dia membunuh ibunya sendiri?"
+    },
+    {
+      "id": 239,
+      "model": "돈키호테",
+      "content": "... Mm."
+    },
+    {
+      "id": 240,
+      "model": "오티스",
+      "content": "... Sepertinya memang begitu, memngingat konteksnya."
+    },
+    {
+      "id": 241,
+      "content": "Dan hanya itu yang bisa kita katakan. Karena tidak ada satu orang pun dari kita yang diberi tau tentang peristiwa ini, apapun yang kita katakan hanya sebatas spekulasi."
+    },
+    {
+      "id": 242,
+      "place": "Pengadilan N Corp",
+      "model": "파우스트",
+      "content": "Mengingat fakta-fakta tersebut, pengacara... memohon untuk hukuman maksimal yang tersedia bagi terdakwa."
+    },
+    {
+      "id": 243,
+      "model": "판사",
+      "content": "Pengacara. pihak pembela tidak bisa membuat permohonan hukuman di pengadilan ini."
+    },
+    {
+      "id": 244,
+      "model": "파우스트",
+      "content": "... itu bagian dari jaksa penuntut."
+    },
+    {
+      "id": 245,
+      "model": "검사",
+      "content": "Ah... iya, tentu saja..."
+    },
+    {
+      "id": 246,
+      "model": "싱클레어",
+      "content": "... Sekarang aku mengerti. Dari awal kamu memang tidak ingin membelanya kan, Faust?"
+    },
+    {
+      "id": 247,
+      "model": "파우스트",
+      "content": "... Pihak pembela selesai, Yang Mulia."
+    },
+    {
+      "id": 248,
+      "content": "Faust mengakhiri pernyataannya dengan tegas."
+    },
+    {
+      "id": 249,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "content": "Keheningan menyelimuti kamu. Saat ini, bahkan keluhan Heathcliff tentang cuaca yang panas telah berhenti."
+    },
+    {
+      "id": 250,
+      "content": "Para penonton mengipas-ngipas diri mereka sendiri dengan serempak."
+    },
+    {
+      "id": 251,
+      "place": "Pengadilan N Corp",
+      "model": "판사",
+      "content": "... Terdakwa, apakah ingin menambahkan kalimat penutup?"
+    },
+    {
+      "id": 252,
+      "model": "뫼르소",
+      "content": "Tidak."
+    },
+    {
+      "id": 253,
+      "content": "Entah tindakan tidak terduga Fuast atau \"hukuman maksimal\" sama sekali tidak mempengaruhi Meursault."
+    },
+    {
+      "id": 254,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "단테",
+      "content": "<...!>"
+    },
+    {
+      "id": 255,
+      "content": "Dan saat pikiran itu terlintas dibenakku, Sebuah gambaran sesaat tentang apa yang sedang dialaminya mulai terbentang di hadapanku...."
+    },
+    {
+      "id": 256,
+      "content": "... seperti yang sudah terjadi sebelumnya dengan Sinners lainnya."
+    },
+    {
+      "id": 257,
+      "content": "Harus ku akui, tanpa mengetahui apa yang ia pikirkan, Aku tak bisa menahan diri untuk tidak menghela napas sambil merasakan rasa kagum yang jarang kurasakan terhadap fenomena ini."
+    },
+    {
+      "id": 258,
+      "content": "Sejauh ini, pengelihatan yang aku lihat tentang Sinners lainnya berbeda-beda, tergantung pada pengalaman masa lalu mereka dan keadaan yang melingkupinya."
+    },
+    {
+      "id": 259,
+      "content": "Beberapa menunjukan ingatan masa lalu..."
+    },
+    {
+      "id": 260,
+      "content": "Beberapa, menunjukan masa depan yang mereka capai..."
+    },
+    {
+      "id": 261,
+      "content": "Dan yang lainnya memperlihatkan emosi yang sudah diluar batas mereka."
+    },
+    {
+      "id": 262,
+      "content": "Tetapi yang aku lihat sekarang..."
+    },
+    {
+      "id": 263,
+      "content": "Meursault berdiri ditengah-tengah ruang sidang, namun tampaknya dia tidak berada bersama kita diruangan yang sama."
+    },
+    {
+      "id": 264,
+      "content": "Dia terlihat seperti di kirim sendirian ke tempat yang sangat jauh,"
+    },
+    {
+      "id": 265,
+      "content": "atau dia merasa bosan dengan apa yang terjadi disini."
+    },
+    {
+      "id": 266,
+      "content": "Semua terlihat bergoyang dalam pandangannya, seperti permukaan air tak berwarna yang tak bisa diam sedetik pun."
+    },
+    {
+      "id": 267,
+      "content": "Segalanya terasa begitu jauh dari jati dirinya, sia-sia dan tak bermakna."
+    },
+    {
+      "id": 268,
+      "content": "Ini sangat aneh dan tidak biasa dari apa yang pernah aku alami sebelumnya."
+    },
+    {
+      "id": 269,
+      "content": "Tak seorang pun di antara kami yang tahu apa yang harus dilakukan selanjutnya."
+    },
+    {
+      "id": 270,
+      "model": "오티스",
+      "content": "... Sidang sudah mendekati akhir."
+    },
+    {
+      "id": 271,
+      "model": "오티스",
+      "content": "Jaksa penuntut dan pihak pembela telah meninggalkan posisinya. Kami akan segera mengumumkan keputusannya."
+    },
+    {
+      "id": 272,
+      "content": "Seperti yang Outis katakan, Faust kembali kepada kita; bagian dia dari proses persidangan sudah selesai."
+    },
+    {
+      "id": 273,
+      "content": "Sinclair berjalan lesuh dibelakangnya, setiap langkah seperti ada bola beli yang diikatkan pada kakinya."
+    },
+    {
+      "id": 274,
+      "model": "히스클리프",
+      "content": "Sialan kau...!"
+    },
+    {
+      "id": 275,
+      "model": "로쟈",
+      "content": "Fau, kenapa...?!"
+    },
+    {
+      "id": 276,
+      "model": "오티스",
+      "content": "LU...!"
+    },
+    {
+      "id": 277,
+      "model": "돈키호테",
+      "content": "Engkau...!"
+    },
+    {
+      "id": 278,
+      "content": "Sebelum para Sinners yang marah mengatakan sesuatu, Faust memotong mereka dengan ekspresi wajah yang lelah."
+    },
+    {
+      "id": 279,
+      "model": "파우스트",
+      "content": "Ini akan dijelaskan secara ringkas, apa yang akan kalian akan katakan sudah bisa aku prediksi."
+    },
+    {
+      "id": 280,
+      "model": "파우스트",
+      "content": "Tanpa dendam atau disfungsi neurologis yang terlibat. Faust tidak memiliki dendam kepada Meursault, atau ada perjanjian dengan N Corp."
+    },
+    {
+      "id": 281,
+      "model": "로쟈",
+      "content": "Terus tadi itu apa-apaan? Kenapa meminta hukuman maksimal untuk meursault kepada mereka—"
+    },
+    {
+      "id": 282,
+      "model": "오티스",
+      "content": "Tunggu. Mereka sedang mengumumkan putusan."
+    },
+    {
+      "id": 283,
+      "place": "Pengadilan N Corp",
+      "model": "판사",
+      "content": "Pengadilan ini sekarang akan membacakan putusan akhir dalam perkara terdakwa Meursault."
+    },
+    {
+      "id": 284,
+      "model": "판사",
+      "content": "... Ini adalah putusan pengadilan ini...."
+    },
+    {
+      "id": 285,
+      "model": "판사",
+      "content": "... terdakwa dijatuhi hukuman Sisyphe, hukuman tertinggi N Corp. yang diizinkan oleh undang-undang."
+    },
+    {
+      "id": 286,
+      "model": "뫼르소",
+      "content": "........"
+    },
+    {
+      "id": 287,
+      "content": "Kalau dipikir-pikir, Meursault sama sekali tidak menatap kita selama sidang berlangsung."
+    },
+    {
+      "id": 288,
+      "content": "Sama sekali tidak meminta bantuan, atau meminta kita untuk menyelamatkannya."
+    },
+    {
+      "id": 289,
+      "content": "Dia juga tidak menjelaskan apapun mengenai peristiwa itu dan tidak memberikan kami rasa tenang. Dia tidak memberitahu kami bahwa dia akan baik-baik saja."
+    },
+    {
+      "id": 290,
+      "content": "Di sisi lain, melihat kembali kepada reaksi Meursault selama persidangan..."
+    },
+    {
+      "id": 291,
+      "content": "... apakah dia pernah memperlihatkan reaksi seperti orang \"normal\"?"
+    },
+    {
+      "id": 292,
+      "model": "판사",
+      "content": "Hukuman tersebut akan segera dilaksanakan, tanpa ada kemungkinan banding atau pembatalan."
+    },
+    {
+      "id": 293,
+      "model": "판사",
+      "content": "Sidang ini telah selesai."
+    },
+    {
+      "id": 294,
+      "content": "Suara palu sidang menggema di ruangan."
+    },
+    {
+      "id": 295,
+      "content": "Petugas-petugas N Corp. telah mengambil posisi di kedua sisi Meursault untuk membawanya pergi."
+    },
+    {
+      "id": 296,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "이스마엘",
+      "content": "Hukuman Sisyphe...? Ada yang tau itu apa?"
+    },
+    {
+      "id": 297,
+      "model": "이스마엘",
+      "content": "Hakim bilang itu adalah hukuman terberat yang ada di N Corp. Apakah itu nama lain dari... hukuman mati?"
+    },
+    {
+      "id": 298,
+      "place": -1,
+      "content": "Kami pernah menyaksikan hal serupa pada saat berada di T Corp."
+    },
+    {
+      "id": 299,
+      "content": "Meursault naik timbangan waktu hanya karena dia disuruh. Itu adalah salah satu memori absurd yang biasa kita jadikan candaan."
+    },
+    {
+      "id": 300,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "로쟈",
+      "content": "Aku tau kematian bukanlah hal yang besar bagi kita, baik karena digantung atau apapun, tapi..."
+    },
+    {
+      "id": 301,
+      "content": "... apakah ini sesuatu yang harus kita saksisan tanpa mencoba untuk menyelamatkannya?"
+    },
+    {
+      "id": 302,
+      "content": "Meursault memanjat rangka dengan langkah yang teratur dan tanpa terburu-buru."
+    },
+    {
+      "id": 303,
+      "content": "Butiran keringat terlihat di keningnya karena sinar matahari yang panas. Keringat mungkin merupakan satu-satunya reaksi yang bisa ditimbulkan oleh sinar matahari yang panas dan menyengat itu darinya, karena ia tampaknya tidak terlalu gugup atau takut."
+    },
+    {
+      "id": 304,
+      "model": "파우스트",
+      "content": "... Rencana dan tujuan misi ini tidak berubah."
+    },
+    {
+      "id": 305,
+      "model": "오티스",
+      "content": "... Baiklah. Aku yakin rintangan ini tidak akan menghalangi kita. Ini bukan pertama kalinya kita menghadapi hal tak terduga dan duluar akal sehat. Pasti ada alasan untuk ini semua..."
+    },
+    {
+      "id": 306,
+      "model": "이스마엘",
+      "content": "Tetap saja, ini <i>adalah</i> kali pertama kita melihat salah satu dari kita mati digantung..."
+    },
+    {
+      "id": 307,
+      "place": "Pengadilan N Corp",
+      "content": "Ketika tali sudah mengikat di leher Meursault, para algojo itu mundur. Cukup jauh."
+    },
+    {
+      "id": 308,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 309,
+      "content": "Hanya sebentar sebelum digantung, pandangan Meursault bertemu dengan ku."
+    },
+    {
+      "id": 310,
+      "content": "Mungkin aku hanya berimajinasi. Atau mungkin pandangannya kebetulan tertuju pada sepotong pemandangan yang sangat asing, yang hanya bisa dilihat dari tiang gantungan tempat ia berdiri."
+    },
+    {
+      "id": 311,
+      "content": "Wajah Meursault tetap tanpa ekspresi sampai saat-saat terakhir."
+    },
+    {
+      "id": 312,
+      "content": "Dia menutup matanya, seperti manusia yang melindungi pengelihatannya dari sinar matahari yang menyilaukan."
+    },
+    {
+      "id": 313,
+      "content": "Tali itu tidak menunggu. dengan bunyi klik yang keras, mesin itu berputar. tali itu menarik Meursault ke udara..."
+    },
+    {
+      "id": 314,
+      "model": "단테",
+      "content": "<...!>"
+    },
+    {
+      "id": 315,
+      "content": "Kemudian, itu semua selesai."
+    },
+    {
+      "id": 316,
+      "place": "Ruang Penonton Persidangan N Corp",
+      "model": "료슈9장이후반담배",
+      "content": "Sudah selesai."
+    },
+    {
+      "id": 317,
+      "model": "그레고르",
+      "content": "Jadi... sekarang apa? Apakah kita bersembunyi disuatu tempat sampai mas manajer mengidupkannya kembali?"
+    },
+    {
+      "id": 318,
+      "model": "파우스트",
+      "content": "Tidak. Ini adalah saat yang penting untuk memulai misi."
+    },
+    {
+      "id": 319,
+      "model": "그레고르",
+      "content": "Eh...?"
+    },
+    {
+      "id": 320,
+      "model": "파우스트",
+      "content": "pertama, penjatuhan hukuman Meursault ke Sisyphe, kemudian dia dijatuhi hukuman gantung."
+    },
+    {
+      "id": 321,
+      "model": "파우스트",
+      "content": "Ini adalah langkah pertama untuk misi ini."
+    },
+    {
+      "id": 322,
+      "model": "그레고르",
+      "content": "... Jadi inilah mengapa kau menyabotase kasus ini ya?"
+    },
+    {
+      "id": 323,
+      "content": "Faust mengangguk. Dia sepertinya menganggap tidak perlu untuk membela diri."
+    },
+    {
+      "id": 324,
+      "model": "싱클레어",
+      "content": "... Aku paham bagian itu, tapi kenapa kamu membawa ku? Aku benar-benar mengira aku akan menangis di sana, Faust..."
+    },
+    {
+      "id": 325,
+      "model": "파우스트",
+      "content": "Mengenai itu... aku meminta maaf. Langkah persiapan ini membutuhkan seseorang yang bisa... \"menurunkan\" kompetensi Faust. Kondisi yang mendesak tidak memberikan pilihan lain."
+    },
+    {
+      "id": 326,
+      "model": "히스클리프",
+      "content": "Itu artinya apa...?"
+    },
+    {
+      "id": 327,
+      "model": "파우스트",
+      "content": "Gagasan ini mungkin cukup sulit untuk kau pahami, tetapi penyembunyian yang disengaja dari kejeniusan Faust jauh lebih melelahkan daripada yang mungkin kamu bayangkan."
+    },
+    {
+      "id": 328,
+      "model": "싱클레어",
+      "content": "Jadi kamu bilang... kamu menggusurku untuk maju kesana hanya untuk membuat mu terlihat... bodoh?"
+    },
+    {
+      "id": 329,
+      "model": "파우스트",
+      "content": "Heathcliff mungkin menjadi kandidat bagus untuk tujuan ini; Namun, kemampuan nalurinya telah berkembang hingga tingkat yang cukup luar biasa belakangan ini. Dalam kasus yang sangat jarang terjadi, ia telah menunjukkan kemampuan untuk sampai pada wawasan yang bahkan aku sendiri tidak duga."
+    },
+    {
+      "id": 330,
+      "model": "파우스트",
+      "content": "Ada juga pilihan untuk membawa seorang Sinner yang cenderung bertindak secara spontan dan tak terduga... Namun, hal itu berisiko menimbulkan tuduhan penghinaan terhadap pengadilan dalam skenario terburuk, yang tidak hanya akan menunda proses persidangan, tetapi juga membuat perusahaan dikenai denda hukuman..."
+    },
+    {
+      "id": 331,
+      "model": "파우스트",
+      "content": "Pengorbanan mu merupakan hal yang penting."
+    },
+    {
+      "id": 332,
+      "model": "싱클레어",
+      "content": "... Awas aja lu..."
+    },
+    {
+      "id": 333,
+      "model": "료슈9장이후반담배",
+      "content": "Heh."
+    },
+    {
+      "id": 334,
+      "model": "로쟈",
+      "content": "Sebagai catatan saja, Sinc... kamu benar-benar berkorban demi tim..."
+    },
+    {
+      "id": 335,
+      "content": "Ruang sidang segera dikosongkan begitu eksekusi selesai."
+    },
+    {
+      "id": 336,
+      "place": "Pengadilan N Corp Corridor",
+      "model": "로쟈",
+      "content": "Fau, kamu tau kemana mereka membawa Meur... membawa itunya Meur?"
+    },
+    {
+      "id": 337,
+      "teller": "???",
+      "title": "???",
+      "content": "Itu... pertanyaan yang akan aku jawab."
+    }
+  ]
+}
