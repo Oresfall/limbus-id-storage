@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "rpg_suicidebox_reset_button_text",
+      "content": "Liquidasi\n(Reset)"
+    },
+    {
+      "id": "rpg_suicidebox_reset_confirm_desc",
+      "content": "Melanjutkan proses likuidasi?\n\nMemilih opsi ini akan mereset sesi saat ini dan tidak bisa dikembalikan."
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_button_text",
+      "content": "Penutupan\n(Hard Reset)"
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_confirm_desc",
+      "content": "Tutup semua toko?\n\nMemilih opsi ini akan mereset semua sesi dan tidak bisa dikembalikan."
+    },
+    {
+      "id": "rpg_suicidebox_main_screen_desc_default",
+      "content": "Untuk mengakhiri hideup seseorang adalah untuk mengakui kehidupan tidak pernah benar-benar dipahami.\nDengan cara apa, kamu akan bunuh diri sebagai ungkapan penghormatan kepada kehidupan itu sendiri?"
+    },
+    {
+      "id": "rpg_suicidebox_coming_soon",
+      "content": "Akan diperbarui pada {0}-{1} (KST)"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_1",
+      "content": "Nikmati pengalaman paling mengesankan dari momen yang hanya terjadi sekali seumur hidup.\nTerima kasih telah menggunakan kembali mesin penjual bunuh diri otomatis kami."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_2",
+      "content": "model ini ditunjukan untuk beberapa pengguna sekali gus seperti keluarga, teman, atau pasangan."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_3",
+      "content": "Model ini tidak mendukung beberapa pengalaman, seperti terdampar di sebuah pulau, tabrakan kereta, overdosis narkoba, tersambar petir, dan mati karena hipotermia.\nUntuk pengalaman yang lebih banyak, silahkan kunjungi salah satu Mesin Penjual Bunuh Diri Otomatis khusus untuk satu orang."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_4",
+      "content": "Semua teror. Sensasi mendebarkan. Tidak ada beban sama sekali.\nTekan salah satu tombol dan rasakan pengalaman kematian."
+    },
+    {
+      "id": "rpg_suicidebox_pressed_dialog_ab",
+      "content": "Ibu hamil, lansia, pengguna narkoba, and pasien dengan penyakit kardiovaskular disarankan untuk berhati-hati.\nSetiap kecelakaan yang disebabkan oleh penggunaan yang berlebihan sepenuhnya menjadi tanggung jawab pengguna."
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_b",
+      "content": "- Identitas : Tingkat Uptie 4\n- E.G.O : Tingkat Threadspinning4"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_b",
+      "content": "Aktifkan Mensin Benjual Bunuh Diri Otomatis?"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_c",
+      "content": "- Identitas : Tingkat Uptie 4\n- E.G.O : Tingkat Threadspinning4"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_c",
+      "content": "Aktifkan Mensin Benjual Bunuh Diri Otomatis?"
+    }
+  ]
+}
