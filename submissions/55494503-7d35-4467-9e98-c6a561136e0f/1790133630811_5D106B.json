@@ -1,0 +1,659 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kantor Ahab",
+      "model": "로쟈",
+      "content": "Um... Apa yang tertulis di papan itu?"
+    },
+    {
+      "id": 1,
+      "model": "스타벅",
+      "content": "Jumlah keping emas yang diberikan kepada... setiap awak kapal."
+    },
+    {
+      "id": 2,
+      "model": "스타벅",
+      "content": "Kami bisa mendapatkannya dengan mem...ancing benda berguna atau memburu Putri Duyung."
+    },
+    {
+      "id": 3,
+      "model": "그레고르",
+      "content": "Hm... Dan siapa yang membayar kalian?"
+    },
+    {
+      "id": 4,
+      "model": "스타벅",
+      "content": "Kapten, ten...tu saja?"
+    },
+    {
+      "id": 5,
+      "model": "오티스",
+      "content": "Apa kau mengatakan bahwa ada kegiatan ekonomi di dalam perut Paus?"
+    },
+    {
+      "id": 6,
+      "model": "오티스",
+      "content": "Apa gunanya koin emas bagi kalian di sini? Belum lagi cara untuk mendapatkannya?"
+    },
+    {
+      "id": 7,
+      "model": "스타벅",
+      "content": "Sudah kubilang. Kita akan keluar dari sini... sebentar lagi."
+    },
+    {
+      "id": 8,
+      "model": "스타벅",
+      "content": "Dan setelah keluar dari Paus ini, aku akan dib...ayar 63 keping emas."
+    },
+    {
+      "id": 9,
+      "model": "스타벅",
+      "content": "Dengan uang sebanyak itu... mungkin aku bisa mendapatkan kapal yang lum...ayan bagus. Kecuali inflasi sudah mengg...ila."
+    },
+    {
+      "id": 10,
+      "model": "스타벅",
+      "content": "Oh, ngomong-ngomong, apa kau baru-baru ini per...nah ke pelabuhan Marlin? Apa kau melihat kedai ikan pa...ri panggang? Aku penasaran apakah masih... buka."
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "Ohh... Kedengarannya enak! Di mana tempatnya?"
+    },
+    {
+      "id": 12,
+      "content": "Sepertinya Ahab memberi keping emas kepada awaknya sebagai upah."
+    },
+    {
+      "id": 13,
+      "content": "Imbalan atas jasa yang diberikan... Aku yakin itu motivasi yang kuat."
+    },
+    {
+      "id": 14,
+      "model": "스타벅",
+      "content": "Hei, Ishmael. Kau benar-benar membuatku terke...jut tadi."
+    },
+    {
+      "id": 15,
+      "model": "스타벅",
+      "content": "Sungguh, aku tidak... menyangka akan mene...mukanmu di sini."
+    },
+    {
+      "id": 16,
+      "model": "스타벅",
+      "content": "Saat keluar nanti, kita harus mampir ke bar dan minum rum langsung dari ba...rel! Kita jadikan kompetisi, seperti masa la...lu!"
+    },
+    {
+      "id": 17,
+      "model": "스타벅",
+      "content": "Jadi, apa kau sempat menyapa semua o...rang? Mengobrol sedikit?"
+    },
+    {
+      "id": 18,
+      "model": "스타벅",
+      "content": "Dan astaga, rambutmu benar-benar meman...jang! Bagaimana dengan ucapanmu 'rambut panjang itu menyebalkan'?"
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "... Banyak sekali pertanyaan yang diajukan sekaligus."
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "Kurasa tak satu pun dari mereka ingin mengobrol denganku. Aku bisa melihatnya dari tatapan mereka..."
+    },
+    {
+      "id": 21,
+      "model": "스타벅",
+      "content": "Terkadang, o...rang dari kapal... lain bergabung dengan kami di desa..."
+    },
+    {
+      "id": 22,
+      "model": "스타벅",
+      "content": "... Tapi tak satu pun bertahan lebih dari se...hari. Hanya kami yang bertahan selama ini."
+    },
+    {
+      "id": 23,
+      "model": "스타벅",
+      "content": "Dan semua ini berkat so...lusi yang ditemukan Kapten kami."
+    },
+    {
+      "id": 24,
+      "model": "오티스",
+      "content": "... Solusi?"
+    },
+    {
+      "id": 25,
+      "model": "스타벅",
+      "content": "Cara untuk mencegah tubuh dan pikiran kami menjadi pu...cat."
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<Apa itu?>"
+    },
+    {
+      "id": 27,
+      "model": "스타벅",
+      "content": "Seperti yang kalian lihat... tan...pa Kapten, kami sudah lama beru...bah menjadi Putri Duyung. Tanpa Kapten, desa ini takkan ada."
+    },
+    {
+      "id": 28,
+      "model": "스타벅",
+      "content": "Jadi siapa pun yang berani me...nantang Kapten... adalah mu...suh kami."
+    },
+    {
+      "id": 29,
+      "model": "스타벅",
+      "content": "Karena melawan Kap...ten berarti melawan kelangsungan hidup kami sendiri."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Kau sudah berubah, Starbuck."
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "Aku ingat kau selalu berselisih dengan Kapten."
+    },
+    {
+      "id": 32,
+      "model": "스타벅",
+      "content": "... Benarkah?"
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "... Jangan lupa siapa yang menjebak kalian semua di sini. Yang membawa kita menuju kematian."
+    },
+    {
+      "id": 34,
+      "content": "Ishmael berjalan melewati Starbuck dengan dingin sebelum masuk ke dalam kantor."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<Kukira dia kawan lamamu?>"
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "content": "Starbuck... <ruby=first mate>mualim pertama</ruby> Pequod."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Dia ingin menjadi orang yang baik bagi semua orang. Dan dia adalah awak yang paling dekat dengan Kapten."
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Artinya mereka juga sering bertengkar, tapi... pada akhirnya itu tidak penting."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Bagaimanapun juga, Ahab sama sekali tidak peduli dengan semua orang."
+    },
+    {
+      "id": 40,
+      "model": "에이해브",
+      "content": "Maafkan kondisi kantorku."
+    },
+    {
+      "id": 41,
+      "model": "에이해브",
+      "content": "Dengan sebotol rum, percakapan ini pasti akan berjalan lebih lancar. Namun setelah sekian lama terjebak di sini... aku belum pernah melihat satu botol pun mengapung kemari."
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Manajer Eksekutif, izinkan aku memimpin negosiasi ini."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Ishmael... tidak bisa dipercaya untuk mengambil keputusan rasional. Dan kau, Manajer Eksekutif, tidak bisa berkomunikasi dengan baik dengan wanita ini. Dia hanya akan mendengar suara detakmu."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Baiklah...>"
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Kapten Ahab, ya? Kami..."
+    },
+    {
+      "id": 46,
+      "model": "에이해브",
+      "content": "Izinkan aku menebak. Kalian mendayung kemari secara sukarela, mencari sesuatu yang ditelan Paus Pucat."
+    },
+    {
+      "id": 47,
+      "model": "에이해브",
+      "content": "Artinya kau dan rekan-rekanmu juga menemukan cara agar tidak berubah menjadi Putri Duyung."
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "... Yah, kurasa tak ada gunanya menyembunyikannya setelah kami sejauh ini."
+    },
+    {
+      "id": 49,
+      "model": "돈키호테",
+      "content": "Kami sedang mencari... benda tertentu. Penampilannya seperti ini..."
+    },
+    {
+      "id": 50,
+      "content": "Don Quixote mulai menjelaskan, memandang sekeliling dengan bersemangat seolah berharap Kapten tiba-tiba mengeluarkan Golden Bough dari sakunya."
+    },
+    {
+      "id": 51,
+      "model": "그레고르",
+      "content": "Tunggu, apa kita benar-benar akan memberitahu semuanya? Kenapa kita tidak berdiskusi terlebih dahulu, lalu—"
+    },
+    {
+      "id": 52,
+      "model": "에이해브",
+      "content": "Aku tahu apa yang kalian cari. Semacam tongkat keemasan, kurasa."
+    },
+    {
+      "id": 53,
+      "model": "에이해브",
+      "content": "Apa aku salah?"
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "content": "A-apa?"
+    },
+    {
+      "id": 55,
+      "content": "Kami bahkan tidak dapat menyangkal tuduhannya karena reaksi Gregor yang terlalu jelas."
+    },
+    {
+      "id": 56,
+      "model": "에이해브",
+      "content": "Aku tahu di mana benda itu berada."
+    },
+    {
+      "id": 57,
+      "model": "에이해브",
+      "content": "Aku bahkan bisa membawa kalian ke sana."
+    },
+    {
+      "id": 58,
+      "model": "오티스",
+      "content": "Hmph, bagaimana kami tahu kau tidak sedang menggertak?"
+    },
+    {
+      "id": 59,
+      "model": "싱클레어",
+      "content": "Ya. B-bagaimana jika kau hanya mendengar percakapan kami...?"
+    },
+    {
+      "id": 60,
+      "model": "에이해브",
+      "content": "Kalau begitu akan kubuktikan. Dari cabang itu terpancar cahaya keemasan yang menjangkau sangat jauh. Cahayanya hangat dan terang, tetapi tidak cukup terang untuk menyilaukan."
+    },
+    {
+      "id": 61,
+      "model": "파우스트",
+      "content": "... Tampaknya dia sedikit mengetahui tentang Golden Bough."
+    },
+    {
+      "id": 62,
+      "model": "파우스트",
+      "content": "Apa yang baru saja dia katakan lebih dari yang seharusnya diketahui oleh orang awam."
+    },
+    {
+      "id": 63,
+      "model": "오티스",
+      "content": "Hm... Namun aku tidak percaya dia benar-benar akan memberi tahu lokasi Bough."
+    },
+    {
+      "id": 64,
+      "model": "에이해브",
+      "content": "Kau mengira aku tidak akan membagikan informasi ini? Aku tidak menyembunyikan apa pun!"
+    },
+    {
+      "id": 65,
+      "content": "Ahab membanting meja dan mencondongkan tubuh ke arah kami dengan agresif."
+    },
+    {
+      "id": 66,
+      "content": "Dia menyeringai penuh pengertian, seolah tahu persis apa yang kami inginkan dan apa yang akan kami katakan untuk mendapatkannya."
+    },
+    {
+      "id": 67,
+      "model": "에이해브",
+      "content": "Mari bicara terus terang. Aku tidak menyembunyikan apa pun dari kalian. Kurasa justru kalianlah yang menyembunyikan sesuatu dariku."
+    },
+    {
+      "id": 68,
+      "model": "에이해브",
+      "content": "Kalian menyebut tongkat itu 'Golden Bough', bukan? Kalau begitu, 'Golden Bough' itu berada tepat di pusat Paus terkutuk ini."
+    },
+    {
+      "id": 69,
+      "model": "홍루",
+      "content": "Tepat di pusat..."
+    },
+    {
+      "id": 70,
+      "model": "에이해브",
+      "content": "Episentrum dentuman dalam yang bergema ini. Sumber kehidupan yang menggerakkan binatang ini."
+    },
+    {
+      "id": 71,
+      "model": "에이해브",
+      "content": "Jantung. Jantung yang merembeskan segala kejahatan di dunia."
+    },
+    {
+      "id": 72,
+      "model": "단테",
+      "content": "<…!>"
+    },
+    {
+      "id": 73,
+      "model": "에이해브",
+      "content": "Namun... kalian beruntung."
+    },
+    {
+      "id": 74,
+      "model": "에이해브",
+      "content": "Kebetulan Pequod telah menentukan arah menuju tujuan yang sama. Dan kami berencana berlayar dalam waktu dekat."
+    },
+    {
+      "id": 75,
+      "model": "에이해브",
+      "content": "Karena satu-satunya jalan keluar dari Paus adalah menghancurkan jantungnya."
+    },
+    {
+      "id": 76,
+      "model": "홍루",
+      "content": "Menarik. Aku penasaran apakah ini hanya sebuah kebetulan?"
+    },
+    {
+      "id": 77,
+      "model": "싱클레어",
+      "content": "Apa yang menarik dari itu?"
+    },
+    {
+      "id": 78,
+      "model": "홍루",
+      "content": "Bukankah menarik bahwa setelah bertahun-tahun mempersiapkan perjalanan menuju jantung, kita kebetulan tiba disaat yang tepat ketika mereka hendak berlayar~?"
+    },
+    {
+      "id": 79,
+      "model": "에이해브",
+      "content": "Aku tidak punya hal lain untuk dikatakan selain menyebut ini sebagai takdir. Benang takdir yang ditenun agar aku, Ahab, menjadi orang yang menembus jantung <ruby=Pallid Whale>Paus Pucat</ruby>."
+    },
+    {
+      "id": 80,
+      "model": "에이해브",
+      "content": "Aku sudah sering berlayar di dalam perut binatang ini daripada jumlah gigi kalian yang terkatup. Aku telah mendatangi setiap sudut tempat ini, dan mengingat semuanya dengan jelas."
+    },
+    {
+      "id": 81,
+      "model": "에이해브",
+      "content": "Tidak ada metode di dunia ini yang belum kucoba untuk menembus kulit binatang ini."
+    },
+    {
+      "id": 82,
+      "model": "에이해브",
+      "content": "Jadi izinkan aku menutup beberapa pilihan bagi kalian. Kulit binatang ini setebal dan setahan benteng R Corp. Tak ada senjata di dunia yang mampu menembusnya."
+    },
+    {
+      "id": 83,
+      "model": "퀴케그",
+      "content": "Mencoba menusuknya. Dengan harpunku."
+    },
+    {
+      "id": 84,
+      "model": "퀴케그",
+      "content": "Melukainya, ya. Membuat lubang, tidak."
+    },
+    {
+      "id": 85,
+      "model": "에이해브",
+      "content": "Jika kata-kataku sulit untuk dipercaya, silakan coba dengan senjata kalian sendiri."
+    },
+    {
+      "id": 86,
+      "model": "돈키호테",
+      "content": "Percobaanku nyaris tidak meninggalkan bekas..."
+    },
+    {
+      "id": 87,
+      "model": "로쟈",
+      "content": "Jika memang benar, maka... apa yang sedang dilakukan oleh Indigo Elder terdengar mustahil, dan apa yang akan dilakukan oleh LCA nantinya..."
+    },
+    {
+      "id": 88,
+      "model": "로쟈",
+      "content": "Seberapa keras pun mereka berusaha, mereka tidak bisa mengeluarkan kita dari sini..."
+    },
+    {
+      "id": 89,
+      "model": "에이해브",
+      "content": "Aku... kami tahu lebih baik daripada siapa pun."
+    },
+    {
+      "id": 90,
+      "model": "에이해브",
+      "content": "Rasa sakit dari kehancuran karena bertahan di tempat seperti ini tanpa ada harapan untuk diselamatkan. Tak ada pikiran waras yang mampu bertahan dari siksaan seperti itu lama-lama."
+    },
+    {
+      "id": 91,
+      "model": "에이해브",
+      "content": "Lihatlah awak kapalku yang menyedihkan! Mereka berjuang mati-matian mempertahankan jati diri saat selaput pucat berusaha melahap mereka bulat-bulat!"
+    },
+    {
+      "id": 92,
+      "model": "퀴케그",
+      "content": "Tidak ada apa-apa di sini. Tidak ada apa pun. Tidak ada."
+    },
+    {
+      "id": 93,
+      "model": "에이해브",
+      "content": "Di sini kami hanya bisa mengais benda-benda yang terdampar di dalam lambungnya. Mayat Putri Duyung yang dibawa pulang Queequeg dari buruannya adalah satu-satunya sumber makanan kami."
+    },
+    {
+      "id": 94,
+      "model": "퀴케그",
+      "content": "Sirip. Lunak."
+    },
+    {
+      "id": 95,
+      "model": "로쟈",
+      "content": "... Terus gimana cara kalian bertahan hidup di sini...?"
+    },
+    {
+      "id": 96,
+      "model": "스타벅",
+      "content": "Keyakinan. Keyakinan bahwa selama kami meng...ikuti Kapten, pada akhirnya dia akan membawa kami... keluar dari sini."
+    },
+    {
+      "id": 97,
+      "model": "스타벅",
+      "content": "Itulah harapan yang selalu kami pegang."
+    },
+    {
+      "id": 98,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 99,
+      "model": "에이해브",
+      "content": "Sekarang, dengarkan tawaranku."
+    },
+    {
+      "id": 100,
+      "model": "에이해브",
+      "content": "Aku, Kapten Ahab dari Pequod dan pemimpin Kota Pequod, bertanggung jawab membawa setiap awak kapalku pulang. Karena itu aku menawarkan ini kepada kalian."
+    },
+    {
+      "id": 101,
+      "model": "에이해브",
+      "content": "Aku akan menghancurkan jantung bajingan ini. Sudah lama aku mempersiapkannya; kini yang tersisa hanyalah menjalankan rencana."
+    },
+    {
+      "id": 102,
+      "model": "에이해브",
+      "content": "Tujuan kita sama, tetapi kita mencari harta yang berbeda."
+    },
+    {
+      "id": 103,
+      "model": "에이해브",
+      "content": "Bantu aku menjalankan rencana ini. Kita akan memburu Paus ini dan melarikan diri, lalu Golden Bough akan menjadi milik kalian."
+    },
+    {
+      "id": 104,
+      "model": "오티스",
+      "content": "... Kami harus berdiskusi terlebih dahulu."
+    },
+    {
+      "id": 105,
+      "model": "에이해브",
+      "content": "Gunakan waktu sebanyak yang kalian perlukan."
+    },
+    {
+      "id": 106,
+      "content": "Ahab mengangguk dengan senyum murah hati. Kami berkumpul di salah satu sudut kantornya untuk membahasnya."
+    },
+    {
+      "id": 107,
+      "model": "뫼르소",
+      "content": "Perahu yang membawa kita kemari tidak bisa diselamatkan."
+    },
+    {
+      "id": 108,
+      "model": "뫼르소",
+      "content": "Karena itu, kita membutuhkan perahu baru untuk melarikan diri dari Paus."
+    },
+    {
+      "id": 109,
+      "model": "뫼르소",
+      "content": "Selain itu, kita perlu bergerak melintasi cairan tubuh Paus ini untuk menyelidiki bagian dalamnya. Untuk itu, kita membutuhkan perahu baru."
+    },
+    {
+      "id": 110,
+      "model": "오티스",
+      "content": "Hmph, kalau begitu merebut kapal mereka juga menjadi salah satu pilihan kita—"
+    },
+    {
+      "id": 111,
+      "model": "싱클레어",
+      "content": "Teman-teman, mereka bisa mendengar kita! Pelankan suara!"
+    },
+    {
+      "id": 112,
+      "model": "퀴케그",
+      "content": "Kapal kami. Sulit dikemudikan. Rumit."
+    },
+    {
+      "id": 113,
+      "model": "퀴케그",
+      "content": "Hanya awak Pequod yang bisa mengendalikan perahu Pequod."
+    },
+    {
+      "id": 114,
+      "model": "싱클레어",
+      "content": "Apa kubilang...?"
+    },
+    {
+      "id": 115,
+      "model": "오티스",
+      "content": "... Berapa lama waktu yang dibutuhkan jika kita membuat perahu dari awal?"
+    },
+    {
+      "id": 116,
+      "model": "파우스트",
+      "content": "Mengingat kita tidak memiliki bahan yang diperlukan dan harus memperkuatnya agar tahan terhadap asam Paus... Perkiraan waktu penyelesaiannya adalah..."
+    },
+    {
+      "id": 117,
+      "model": "단테",
+      "content": "<Tidak, tidak. Jangan... pikirkan itu.>"
+    },
+    {
+      "id": 118,
+      "model": "파우스트",
+      "content": "Sebaiknya jangan."
+    },
+    {
+      "id": 119,
+      "model": "이스마엘",
+      "content": "Ha, jadi itu tawarannya? Aku bisa mencium omong kosongnya dari jauh."
+    },
+    {
+      "id": 120,
+      "model": "이스마엘",
+      "content": "Dia tidak berubah sedikit pun. Mendorong orang menuju kematian dengan omong kosong yang sekilas tampak masuk akal."
+    },
+    {
+      "id": 121,
+      "model": "이스마엘",
+      "content": "... Tidak ada yang berubah."
+    },
+    {
+      "id": 122,
+      "model": "싱클레어",
+      "content": "Ya... ada yang aneh dengannya. Mungkin kita harus melakukannya sendiri..."
+    },
+    {
+      "id": 123,
+      "model": "히스클리프",
+      "content": "Benar. Jangan pernah percaya sesuatu yang membutuhkan terlalu banyak penjelasan."
+    },
+    {
+      "id": 124,
+      "model": "홍루",
+      "content": "Kurasa mereka telah lama menyusun rencana untuk menghancurkan jantung dan melarikan diri dari tempat ini... Apakah kita mampu melakukannya sendiri dari awal?"
+    },
+    {
+      "id": 125,
+      "model": "홍루",
+      "content": "Aku... juga tidak tahu berapa lama kita bisa bertahan di sini."
+    },
+    {
+      "id": 126,
+      "model": "로쟈",
+      "content": "Ya... Kapten itu mungkin mengenal tempat ini lebih baik daripada siapa pun..."
+    },
+    {
+      "id": 127,
+      "model": "그레고르",
+      "content": "Jadi pilihan kita yang lain... berubah menjadi Putri Duyung dan saling membunuh, atau tetap terjebak di sini selamanya. Apa benar hanya itu pilihan kita?"
+    },
+    {
+      "id": 128,
+      "model": "돈키호테",
+      "content": "<ruby=Vergilius>Red Gaze</ruby> tidak akan meninggalkan kita...! Bwaah hah haaah..."
+    },
+    {
+      "id": 129,
+      "model": "료슈",
+      "content": "Kita kesulitan mencapai kesepakatan. Aku akan menengahi. Mari bertarung sampai orang terakhir berdiri, lalu biarkan dia yang memutuskan."
+    },
+    {
+      "id": 130,
+      "content": "Para Sinners menyampaikan pendapat masing-masing... yang semuanya bertentangan dan hampir tidak mungkin memiliki jalan tengah."
+    },
+    {
+      "id": 131,
+      "content": "Dan aku..."
+    },
+    {
+      "id": 132,
+      "content": "... merasa gelisah melihat betapa mudahnya Ahab membaca pikiran kami."
+    }
+  ]
+}
