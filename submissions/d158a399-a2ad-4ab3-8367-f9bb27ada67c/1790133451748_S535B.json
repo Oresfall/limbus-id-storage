@@ -1,0 +1,276 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Perahu Kecil Mephistopheles",
+      "content": "Seperti yang telah kami bahas sebelumnya, kami mengambil rute berbeda dari Indigo Elder. Sesuai rencana, kami harus tiba di tempat yang berbeda terlebih dahulu."
+    },
+    {
+      "id": 1,
+      "model": "단테2",
+      "content": "<... Ada sesuatu yang mengambang di sana.>"
+    },
+    {
+      "id": 2,
+      "content": "Tak lama setelah melewati batas tempat air Danau berubah menjadi abu-abu gelap, kami melihat sesuatu yang pucat muncul dari permukaan."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Apakah itu... pulau? Jumlahnya banyak..."
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "Mungkin itu terumbu. Mungkin itulah tantangan Danau ini... Menavigasinya sambil menghindari mereka sebaik mungkin."
+    },
+    {
+      "id": 5,
+      "model": "싱클레어",
+      "content": "Memang terlihat berbatu. Tapi... ukurannya terlalu besar untuk disebut terumbu."
+    },
+    {
+      "id": 6,
+      "model": "이상",
+      "content": "Apa kau merasakan sesuatu, Dante?"
+    },
+    {
+      "id": 7,
+      "model": "이상",
+      "content": "Kita bisa mencoba mencari jalur yang tidak menuju area penuh rintangan seperti ini, tetapi kita harus mengambil risiko melalui jalur yang tidak dikenal. Itu dapat menghancurkan rencana ini."
+    },
+    {
+      "id": 8,
+      "model": "단테2",
+      "content": "<Hmm...>"
+    },
+    {
+      "id": 9,
+      "model": "파우스트",
+      "content": "Jika kau dapat merasakan arah yang paling umum dari Golden Bough, beri tahu aku. Aku bisa menggunakannya untuk memperkirakan lokasinya."
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Aku bisa menjamin tingkat akurasinya pada titik tertentu, karena kita memiliki data tambahan dari Indigo Elder."
+    },
+    {
+      "id": 11,
+      "model": "히스클리프",
+      "content": "Hah? Kenapa sejak awal kau tidak menjadi kompas ajaib kami, kepala jam?"
+    },
+    {
+      "id": 12,
+      "model": "파우스트",
+      "content": "Kemampuan itu hanya bisa digunakan dalam kondisi khusus Great Lake, yang memiliki sedikit rintangan."
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Wilayah perkotaan City dipenuhi bangunan, baik tinggi maupun rendah, hingga ke bawah tanah. Kepadatan penduduk yang lebih tinggi juga memperumit keadaan. Mengingat Dante hanya bisa mendeteksi Golden Bough dari jarak dekat dan mungkin ada rintangan yang tidak bisa dilewati, kemampuan itu tidak akan banyak membantu di sana."
+    },
+    {
+      "id": 14,
+      "model": "히스클리프",
+      "content": "Tsk. Jadi di tempat lain kau kembali menjadi kepala jam biasa."
+    },
+    {
+      "id": 15,
+      "model": "단테2",
+      "content": "<Oh, jadi itu sebabnya... itu sebabnya aku bisa merasakan Golden Bough di sini meski jaraknya begitu jauh...>"
+    },
+    {
+      "id": 16,
+      "content": "Aku mengangkat jari dan menunjuk ke arah umum dari perasaan samar itu."
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Dikonfirmasi. Kita akan memutar kapal ke arah itu."
+    },
+    {
+      "id": 18,
+      "content": "Ishmael mengemudikan kapal tanpa berkata-kata sesuai perkataan Faust."
+    },
+    {
+      "id": 19,
+      "content": "Kami semakin dekat ke pulau... atau terumbu. Keheningan berat menyelimuti para Sinners."
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "... Oh."
+    },
+    {
+      "id": 21,
+      "content": "Sampai Ishmael terengah karena tiba-tiba menyadari sesuatu."
+    },
+    {
+      "id": 22,
+      "model": "이스마엘",
+      "content": "Danau ini."
+    },
+    {
+      "id": 23,
+      "content": "Ekspresi yang tak dapat dipahami tampak di wajah Ishmael."
+    },
+    {
+      "id": 24,
+      "content": "Mungkin yang kulihat adalah kegembiraan tak terkendali. Kegembiraan karena menemukan sesuatu yang telah lama dia cari. Kebahagiaan yang begitu besar dan memenuhi segalanya hingga otot wajahnya mulai berkedut sendiri."
+    },
+    {
+      "id": 25,
+      "content": "Mungkin yang kulihat adalah ketakutan ekstrem. Ketakutan menghadapi kengerian yang ditakdirkan dan tak terhindarkan. Ombak Danau menghantam wajahnya yang gemetar lalu mengalir di pipinya. Atau mungkin dia berkeringat karena gentar."
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "Ishmael, apakah kau memiliki informasi baru untuk kami?"
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "... Ya. Di sini... Aku tahu apa yang harus dilakukan. Aku tahu persis apa yang harus dilakukan."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "Outis, aku tidak bisa melihat jelas apa yang ada di depan dari sini. Beri tahu secara tepat apa yang kau lihat. Jumlah dan ukurannya, semuanya."
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "... Berusaha menghindari arus liar dan menemukan jalur aman di sekitar batu-batu ini? Dimengerti."
+    },
+    {
+      "id": 30,
+      "content": "Outis mengangguk tegas sebelum bangkit dari tempat duduknya untuk mengamati jalur di depan. Dia menjaga keseimbangan saat kapal bergoyang."
+    },
+    {
+      "id": 31,
+      "model": "오티스",
+      "content": "Sekitar 350 meter di depan. Batu kecil berkilau dengan pola sederhana. Sekitar 500 meter setelahnya ada batu berukuran sedang. Ada tonjolan mencolok di atasnya."
+    },
+    {
+      "id": 32,
+      "model": "이스마엘",
+      "content": "Lanjutkan."
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Hmm. Tidak jauh dari sana ada pulau besar dengan permukaan kasar dan berpori... Oh, setelah diamati lebih dekat, itu seperti kepulauan yang terdiri dari tiga... empat pulau serupa."
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "Bagus."
+    },
+    {
+      "id": 35,
+      "content": "Ishmael mulai memainkan kemudi dan tuas keluaran mesin seolah sesuatu telah tersambung dalam pikirannya."
+    },
+    {
+      "id": 36,
+      "model": "오티스",
+      "content": "... Bagus. Kita sudah melewati batu pertama."
+    },
+    {
+      "id": 37,
+      "model": "홍루",
+      "content": "Teksturnya agak... berbeda dari batu biasa, bukan?"
+    },
+    {
+      "id": 38,
+      "model": "료슈",
+      "content": "<ruby=Good Eye>G.E.</ruby> Itu bukan tekstur batu. Bahkan bukan tanah."
+    },
+    {
+      "id": 39,
+      "model": "오티스",
+      "content": "Kita baru saja melewati yang kedua."
+    },
+    {
+      "id": 40,
+      "model": "히스클리프",
+      "content": "Hei, apa ada yang aneh dari teksturnya? Aku nggak bisa melihat apa pun karena terhalang yang besar dan yang panjang itu."
+    },
+    {
+      "id": 41,
+      "model": "료슈",
+      "content": "Hmph. Yang di sana... adalah makhluk hidup yang bernapas."
+    },
+    {
+      "id": 42,
+      "model": "히스클리프",
+      "content": "Apa?"
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "... Tunggu... Awak kapal! Perhatikan arah kapal ini! Kalau begini kita akan menabrak batu ketiga!"
+    },
+    {
+      "id": 44,
+      "model": "이스마엘",
+      "content": "Dan itulah yang akan kulakukan, Outis. Di sanalah kita akan turun."
+    },
+    {
+      "id": 45,
+      "model": "히스클리프",
+      "content": "Batu itu? Batu berpori yang menyeramkan di sana?"
+    },
+    {
+      "id": 46,
+      "model": "히스클리프",
+      "content": "Hei, silakan menabrak batu di waktu luangmu, tapi jangan ajak-ajak kami juga! Tidak ada satu pohon pun di sana, apalagi manusia. Untuk apa kita berlabuh di sana?"
+    },
+    {
+      "id": 47,
+      "model": "이스마엘",
+      "content": "Kau harus memutar cara berpikirmu di Great Lake, Heathcliff."
+    },
+    {
+      "id": 48,
+      "model": "히스클리프",
+      "content": "Apa yang kau bicarakan—"
+    },
+    {
+      "id": 49,
+      "content": "Benturan keras dan suara memekakkan saat perahu kecil bergesekan dengan sesuatu memotong ucapan Heathcliff."
+    },
+    {
+      "id": 50,
+      "model": "히스클리프",
+      "content": "Apa kau tahu ke mana kita akan pergi, Wanita?!"
+    },
+    {
+      "id": 51,
+      "model": "료슈",
+      "content": "... Oh ya, dia tahu. Huhu."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "content": "Tunggu, warna putih itu... Ishmael?"
+    },
+    {
+      "id": 53,
+      "model": "이스마엘",
+      "content": "Ya. Itu bukan pulau atau batu."
+    },
+    {
+      "id": 54,
+      "content": "Apa yang kami kira pulau tiba-tiba bergemuruh dan bergetar seperti guncangan tanah akibat gempa."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "content": "Mereka... semuanya bagian dari seekor Paus."
+    },
+    {
+      "id": 56,
+      "content": "Makhluk kolosal itu bergetar saat terbangun dari tidur panjangnya."
+    }
+  ]
+}
