@@ -1,0 +1,49 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "이스마엘",
+      "content": "Starbuck...! Kau... kaulah satu-satunya awak kapal yang bisa menantang Ahab."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Jadi, bagaimana mungkin kau..."
+    },
+    {
+      "id": 2,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Bodoh sekali, Ishmael! Bodoh sekali!"
+    },
+    {
+      "id": 3,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Starbuck adalah orang pertama yang berlutut. Tidak peduli berapa banyak ombak yang telah dilalui seorang mualim... Kedudukan seorang mualim tetap berada di bawah Kaptennya...!"
+    },
+    {
+      "id": 4,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Atas kehendaknya sendiri, dia membutakan matanya karena keyakinan dirinya bahwa jalan apa pun yang kami tempuh, Kapten akan membawanya ke tujuan!"
+    },
+    {
+      "id": 5,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Jika kau tahu dia mencari jalan yang lebih baik, lalu kenapa kau tidak membantunya melihat jalan itu?!"
+    },
+    {
+      "id": 6,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Jadi, sekali lagi kesalahan ini ada padamu, Ishmael!"
+    }
+  ]
+}
