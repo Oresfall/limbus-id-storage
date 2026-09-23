@@ -1,0 +1,35 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Jantung Paus Pucat",
+      "model": "다친이스마엘",
+      "content": "Kau bisa memberi awak kapalmu kesempatan!"
+    },
+    {
+      "id": 1,
+      "model": "다친이스마엘",
+      "content": "Kesempatan untuk melihat sendiri di mana posisi mereka berada...!"
+    },
+    {
+      "id": 2,
+      "model": "에이해브",
+      "content": "Di belakangku selalu... ada jejak-jejak pucat yang buram."
+    },
+    {
+      "id": 3,
+      "model": "에이해브",
+      "content": "Kau bilang aku merampas kesempatan mereka? Salah. Mereka hanya mengikuti jejakku, mengarahkan haluan ke tujuan yang sama denganku."
+    },
+    {
+      "id": 4,
+      "model": "에이해브",
+      "content": "Karena jika tidak begitu, mereka takkan mampu bertahan di dunia ini. Karena mereka lemah! Aku adalah mercusuar mereka di dunia penuh badai ini... Aku memberi mereka jalan yang jelas untuk diikuti!"
+    },
+    {
+      "id": 5,
+      "model": "에이해브그림자",
+      "content": "Awak kapalku yang terakhir! Ikut aku! Patuhi perintahku! Kejar mereka!"
+    }
+  ]
+}
