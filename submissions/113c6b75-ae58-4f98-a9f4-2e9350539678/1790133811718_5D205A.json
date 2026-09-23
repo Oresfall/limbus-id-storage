@@ -1,0 +1,299 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pequod",
+      "model": "핍과거",
+      "content": "Dia digigit saat mencoba menyelamatkan Pip. Paus menggigitnya saat dia mencoba menyelamatkan Pip, dia..."
+    },
+    {
+      "id": 1,
+      "model": "스타벅과거",
+      "content": "Sial, kenapa tong minyak itu harus jatuh menimpa pendayung kita...?"
+    },
+    {
+      "id": 2,
+      "model": "스타벅과거",
+      "content": "Sejak awal semua ini tidak masuk akal, menyuruh anak itu mendayung sebagai pengganti...!"
+    },
+    {
+      "id": 3,
+      "model": "핍과거",
+      "content": "Kapten, tolong beri tahu Pip. Apakah Stubb akan mati?"
+    },
+    {
+      "id": 4,
+      "model": "에이해브과거",
+      "content": "……."
+    },
+    {
+      "id": 5,
+      "model": "에이해브과거",
+      "content": "Apa kataku?"
+    },
+    {
+      "id": 6,
+      "model": "에이해브과거",
+      "content": "Selama kalian adalah awak kapalku! Tak seorang pun dari kalian! Boleh mati tanpa izinku."
+    },
+    {
+      "id": 7,
+      "model": "에이해브과거",
+      "content": "Dan aku tidak ingat pernah mengizinkan kalian mati."
+    },
+    {
+      "id": 8,
+      "model": "스텁",
+      "content": "T-tapi... aku... Apa yang akan terjadi pada..."
+    },
+    {
+      "id": 9,
+      "model": "에이해브과거",
+      "content": "Pequod hampir mencapai <ruby=Pallid Whale>Paus Pucat</ruby> kebencian! Yang kita butuhkan hanyalah kompas bagus yang akan membawa kita kepadanya."
+    },
+    {
+      "id": 10,
+      "model": "에이해브과거",
+      "content": "Putri Duyung di hadapan kita ini akan menjalankan peran itu lebih baik daripada apa pun."
+    },
+    {
+      "id": 11,
+      "model": "스텁",
+      "content": "T-tapi, Kapten, aku... bukan... Putri Duyung..."
+    },
+    {
+      "id": 12,
+      "model": "스타벅과거",
+      "content": "…!"
+    },
+    {
+      "id": 13,
+      "model": "에이해브과거",
+      "content": "Apa pun yang dilahap Paus itu pada akhirnya akan berubah menjadi Putri Duyung Pucat. Kau pasti sudah tahu itu."
+    },
+    {
+      "id": 14,
+      "model": "에이해브과거",
+      "content": "Kurung Putri Duyung ini di tangki besar dekat ruang penyimpanan. Nalurinya akan mendorongnya menuju Paus kebencian."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘과거",
+      "content": "……."
+    },
+    {
+      "id": 16,
+      "model": "스텁",
+      "content": "Kapten... Kapten... Tolong, jangan...!"
+    },
+    {
+      "id": 17,
+      "model": "에이해브과거",
+      "content": "Starbuck, turunkan perahu kecil."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘과거",
+      "content": "... Apa? Sekarang?"
+    },
+    {
+      "id": 19,
+      "model": "스타벅과거",
+      "content": "... Aye."
+    },
+    {
+      "id": 20,
+      "model": "이스마엘과거",
+      "content": "Beberapa saat kemudian, aku mendengar suara air terciprat. Semua awak kapal meninggalkan pos dan berkumpul di sekitar Ahab."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘과거",
+      "content": "Dan Ahab... menggelegar."
+    },
+    {
+      "id": 22,
+      "model": "에이해브과거",
+      "content": "Oh! Aku mendengarnya! Dengarkan baik-baik, karena Stubb yang berbicara! Dengarkan suaranya!"
+    },
+    {
+      "id": 23,
+      "model": "핍과거",
+      "content": "…?"
+    },
+    {
+      "id": 24,
+      "model": "이스마엘과거",
+      "content": "Apa-apaan dia..."
+    },
+    {
+      "id": 25,
+      "model": "에이해브과거",
+      "content": "Kalian semua! Dengarkan baik-baik! Suara pelaut hebat Stubb menggema dari seberang Danau itu! Pelaut hebat Stubb yang rela mempertaruhkan nyawa demi memburu Paus!"
+    },
+    {
+      "id": 26,
+      "model": "스텁그림자",
+      "content": "... Aku... yang hebat..."
+    },
+    {
+      "id": 27,
+      "model": "에이해브과거",
+      "content": "Karena terburu-buru, kami tidak sempat membawanya kembali ke kapal!"
+    },
+    {
+      "id": 28,
+      "model": "에이해브과거",
+      "content": "Namun dia hidup! Dia tidak mati! Meski kini berada di luar kapal, mengapung di Danau setelah pertempuran nahas ini, dia akan segera selamat di atas perahu kecil yang kuturunkan untuknya!"
+    },
+    {
+      "id": 29,
+      "model": "에이해브과거",
+      "content": "Dia berteriak! Oh ya, dia meraungkan kemenangan kita! Dan dia meraungkan bahwa kita harus terus maju, berlayar menuju kemenangan!"
+    },
+    {
+      "id": 30,
+      "model": "이스마엘과거",
+      "content": "Kegilaan macam apa ini..."
+    },
+    {
+      "id": 31,
+      "model": "퀴케그과거",
+      "content": "... Kita. Terus berlayar."
+    },
+    {
+      "id": 32,
+      "model": "이스마엘과거",
+      "content": "... Queequeg?"
+    },
+    {
+      "id": 33,
+      "model": "에이해브과거",
+      "content": "Pelayaran ini akan segera mencapai akhir yang gemilang. Lalu aku akan berlayar ke pelabuhan terdekat!"
+    },
+    {
+      "id": 34,
+      "model": "에이해브과거",
+      "content": "Dan di sana Stubb yang hebat akan menunggu kita! Dia akan menyambut kita dengan senyuman lebar."
+    },
+    {
+      "id": 35,
+      "model": "에이해브과거",
+      "content": "Dia akan menerima penghargaan yang pantas. Dan tentu saja, kita semua akan berbagi kisah tentang pelayaran panjang ini setiap malam tanpa tidur!"
+    },
+    {
+      "id": 36,
+      "model": "스텁그림자",
+      "content": "Dengan... senyuman... yang lebar... Aku..."
+    },
+    {
+      "id": 37,
+      "model": "에이해브과거",
+      "content": "Dan kalian semua juga akan berada di sana! Kita akan mentraktir minuman untuk semua orang di kedai atas nama Stubb!"
+    },
+    {
+      "id": 38,
+      "model": "에이해브과거",
+      "content": "Begitu! Pelayaran ini berakhir! SEMUANYA! AKAN! TERWUJUD!"
+    },
+    {
+      "id": 39,
+      "model": "스타벅과거",
+      "content": "... Setelah pelayaran ini berakhir."
+    },
+    {
+      "id": 40,
+      "model": "퀴케그과거",
+      "content": "Setelah pelayaran ini... Berakhir."
+    },
+    {
+      "id": 41,
+      "model": "스텁그림자",
+      "content": "Setelah... pelayaran ini... berakhir..."
+    },
+    {
+      "id": 42,
+      "model": "스텁그림자",
+      "content": "Paus Kebencian... akhirnya... terlihat..."
+    },
+    {
+      "id": 43,
+      "model": "스텁그림자",
+      "content": "Kau akan membunuhnya, kan...? Kapten..."
+    },
+    {
+      "id": 44,
+      "model": "에이해브과거",
+      "content": "Mari jawab panggilannya! Kita akan membunuh Paus Kebencian... KITA AKAN MEMBUNUH PAUS PUCAT!"
+    },
+    {
+      "id": 45,
+      "model": "에이해브과거",
+      "content": "Naik ke kapal, semuanya! Naik untuk memburu kejahatan...!"
+    },
+    {
+      "id": 46,
+      "model": "에이해브과거",
+      "content": "Naiklah dalam pelayaran untuk memburu sumber segala kejahatan dunia dan City, kejahatan penuh kebencian yang mendorong kalian menuju ambang kematian!"
+    },
+    {
+      "id": 47,
+      "model": "에이해브과거",
+      "content": "Semua perjuangan, ketidakadilan, rasa sakit, dan kehilangan kalian... kejahatan itu berasal dari Paus tersebut..."
+    },
+    {
+      "id": 48,
+      "model": "에이해브과거",
+      "content": "Jadi kita akan membunuhnya! Kita akan membunuhnya dan menyaksikan fajar baru menyinari dunia yang telah dipulihkan!"
+    },
+    {
+      "id": 49,
+      "model": "퀴케그과거",
+      "content": "... Aye!"
+    },
+    {
+      "id": 50,
+      "model": "에이해브과거",
+      "content": "BERSORAKLAH! BERTERIAKLAH!"
+    },
+    {
+      "id": 51,
+      "model": "스타벅과거",
+      "content": "Siap, Kapten...!"
+    },
+    {
+      "id": 52,
+      "model": "핍과거",
+      "content": "Ehehehe, selamat tinggal! Stubb!! Mari bertemu lagi! Lagi dan lagi!"
+    },
+    {
+      "id": 53,
+      "model": "스텁그림자",
+      "content": "... Aye!!!"
+    },
+    {
+      "id": 54,
+      "model": "이스마엘과거",
+      "content": "Ya. Semua ini akan berakhir saat kita membunuh Paus Pucat."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘과거",
+      "content": "Saat kita membunuh Paus dari segala kejahatan..."
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57,
+      "place": "Bilik Kanan Paus Pucat",
+      "model": "단테",
+      "content": "<Jadi selama ini, kita bukan hanya...>"
+    },
+    {
+      "id": 58,
+      "model": "단테",
+      "content": "<... terjebak di dalam Paus, tapi juga di telapak tangannya selama ini...>"
+    }
+  ]
+}
