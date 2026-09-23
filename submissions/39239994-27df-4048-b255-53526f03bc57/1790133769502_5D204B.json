@@ -1,0 +1,102 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bilik Kanan Paus Pucat",
+      "model": "오티스",
+      "content": "Jadi ini serambi kedua yang dibicarakan Kapten..."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<Setelah melewati ini, kita akan sampai di pusat jantung, huh...>"
+    },
+    {
+      "id": 2,
+      "content": "Queequeg mendekatiku."
+    },
+    {
+      "id": 3,
+      "model": "퀴케그",
+      "content": "Namamu, aku tahu. Mereka memanggilmu Dante."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Ya. Itulah namaku. Mereka memanggilku Dante...>"
+    },
+    {
+      "id": 5,
+      "model": "퀴케그",
+      "content": "Perkataanmu. Aku tidak dapat mendengarnya. Seperti suara Paus, seperti suara Putri Duyung."
+    },
+    {
+      "id": 6,
+      "model": "퀴케그",
+      "content": "Kau menghidupkan kembali awak yang mati."
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<... Yah, kurasa memang itu yang kulakukan...>"
+    },
+    {
+      "id": 8,
+      "model": "퀴케그",
+      "content": "Tapi bukan hanya tubuh."
+    },
+    {
+      "id": 9,
+      "model": "퀴케그",
+      "content": "Hati juga."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<... Hati?>"
+    },
+    {
+      "id": 11,
+      "content": "Aku merasa bingung mendengar ucapan Queequeg."
+    },
+    {
+      "id": 12,
+      "content": "Kecuali jika dia membicarakan hati yang sesungguhnya... Aku tidak pernah memiliki kekuatan semacam itu. Tak seorang pun pernah memberitahuku bahwa aku memilikinya."
+    },
+    {
+      "id": 13,
+      "model": "퀴케그",
+      "content": "Kau tidak membuat mereka kehilangan jalan."
+    },
+    {
+      "id": 14,
+      "model": "퀴케그",
+      "content": "Jalan mereka. Ke mana mereka benar-benar ingin pergi."
+    },
+    {
+      "id": 15,
+      "model": "퀴케그",
+      "content": "Kau memberitahukannya kepada mereka. Dengan suara jam-mu."
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 17,
+      "model": "퀴케그",
+      "content": "Dante. Ada sesuatu yang kuharapkan."
+    },
+    {
+      "id": 18,
+      "model": "퀴케그",
+      "content": "Aku ingin... Ishmael..."
+    },
+    {
+      "id": 19,
+      "model": "퀴케그",
+      "content": "... menemukan jalannya."
+    }
+  ]
+}
