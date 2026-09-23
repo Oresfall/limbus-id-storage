@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pintu Masuk Klub Pelabuhan Marlin",
+      "model": "홍루",
+      "content": "Wah, aku tidak percaya mereka akan membiarkan kita masuk seperti ini!"
+    },
+    {
+      "id": 1,
+      "model": "단테2",
+      "content": "<... Ayo.>"
+    },
+    {
+      "id": 2,
+      "content": "Aku ingin mengoreksinya bahwa para penjaga tidak membiarkan kita masuk; mereka terkapar di suatu parit atau melarikan diri, dan kita masuk begitu saja..."
+    },
+    {
+      "id": 3,
+      "content": "Tapi sepertinya aku sedang tidak ingin melakukannya."
+    },
+    {
+      "id": 4,
+      "place": "Marlin Port Club Entrance",
+      "model": "클럽손님",
+      "teller": "Guest",
+      "title": "U Corp.",
+      "content": "Hei... kau datang bersama siapa?"
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "Ya. Aku membawa dua belas orang bersamaku."
+    },
+    {
+      "id": 6,
+      "model": "클럽손님",
+      "teller": "Guest",
+      "title": "U Corp.",
+      "content": "D-dua belas...?"
+    },
+    {
+      "id": 7,
+      "model": "쌍갈고리파조직원4",
+      "teller": "Bajak Laut Twinhook?",
+      "title": "???",
+      "content": "Di sana! Tangkap mereka!"
+    },
+    {
+      "id": 8,
+      "model": "클럽손님",
+      "teller": "Guest",
+      "title": "U Corp.",
+      "content": "Aaah! M-maaf sudah mengganggu!"
+    },
+    {
+      "id": 9,
+      "teller": "DJ Klub",
+      "title": "U Corp.",
+      "content": "Baik, semuanya~ Mari lakukan 'Tarian Marlin' yang terkenal dari Pelabuhan Marlin tercinta kita!"
+    },
+    {
+      "id": 10,
+      "teller": "Club DJ",
+      "title": "U Corp.",
+      "content": "Rentangkan tangan~ Seperti ini! Ayunkan~ lalu kunci! Ayunkan~ lalu kunci!"
+    },
+    {
+      "id": 11,
+      "model": "히스클리프",
+      "content": "Ngh... kenapa suara basnya keras sekali?"
+    },
+    {
+      "id": 12,
+      "model": "이상",
+      "content": "Rasanya seperti gelombang suara itu menggetarkan seluruh otakku..."
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Menyingkir dari jalanku atau kalian semua akan menyesal."
+    },
+    {
+      "id": 14,
+      "content": "Ishmael mengayunkan gada dan menghancurkan meja di dekatnya..."
+    },
+    {
+      "id": 15,
+      "content": "Dan hal itu sudah lebih dari cukup untuk membuat para pengunjung klub menyadari betapa seriusnya situasi saat ini. Mereka pun segera berlari menuju pintu keluar dan meninggalkan klub."
+    }
+  ]
+}
