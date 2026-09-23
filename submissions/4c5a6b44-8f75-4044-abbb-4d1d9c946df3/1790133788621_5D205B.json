@@ -1,0 +1,108 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bilik Kanan Paus Pucat",
+      "model": "단테",
+      "content": "<Huft, kita hanya perlu melewati Abnormality itu. Setelahnya kita bisa mulai memotong arteri Paus.>"
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "Sepertinya kita bisa menyeberangi jembatan mirip urat di sana."
+    },
+    {
+      "id": 2,
+      "content": "Queequeg tiba-tiba berdiri di antara kami dan jembatan."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "<ruby=Hey, Wait>H.W.</ruby> Apa yang kaulakukan?"
+    },
+    {
+      "id": 4,
+      "model": "퀴케그",
+      "content": "Jembatannya. Terbuat dari urat yang rapuh."
+    },
+    {
+      "id": 5,
+      "model": "료슈",
+      "content": "Lewat sini. Rencana semula."
+    },
+    {
+      "id": 6,
+      "model": "퀴케그",
+      "content": "Sekilas ini terlihat seperti jalannya, tapi tidak. Ini bukan jalan yang benar. Setelah satu orang berhasil menyeberang, jembatannya akan terputus saat orang berikutnya lewat."
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<Apa...?>"
+    },
+    {
+      "id": 8,
+      "content": "Outis adalah orang pertama yang menyatukan kepingan-kepingannya."
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Aku mengerti. Kau sudah tahu jalan ini akan putus. Meski begitu, kau memimpin kami kemari. Itu berarti..."
+    },
+    {
+      "id": 10,
+      "model": "오티스",
+      "content": "Kau berniat menyeberangi jembatan ini dan menjatuhkan kami semua di belakangmu."
+    },
+    {
+      "id": 11,
+      "model": "히스클리프",
+      "content": "... Astaga. Apa kubilang? Ada yang mencurigakan dari rencana ini! Oi, apakah ini perintah Kapten gila itu?"
+    },
+    {
+      "id": 12,
+      "model": "퀴케그",
+      "content": "... Dia bilang... pengorbanan, diperlukan."
+    },
+    {
+      "id": 13,
+      "model": "퀴케그",
+      "content": "Kita tidak bisa maju kecuali seseorang jatuh."
+    },
+    {
+      "id": 14,
+      "model": "퀴케그",
+      "content": "Aku ingin melarikan diri. Aku ingin melarikan diri bersama awak Pequod."
+    },
+    {
+      "id": 15,
+      "model": "히스클리프",
+      "content": "Dan kami hanyalah korban yang bisa diterima di sepanjang perjalanan, ya? Seperti itu?"
+    },
+    {
+      "id": 16,
+      "model": "퀴케그",
+      "content": "Benar."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Kalau begitu kenapa... kau berubah pikiran?"
+    },
+    {
+      "id": 18,
+      "model": "퀴케그",
+      "content": "Saat ini, ingin tahu."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "Tentang... apa?"
+    },
+    {
+      "id": 20,
+      "model": "퀴케그",
+      "content": "Jalanku. Jalan yang kupilih."
+    }
+  ]
+}
