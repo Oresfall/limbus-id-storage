@@ -1,0 +1,385 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Lambung Paus Pucat",
+      "content": "Kami berlari, berusaha menyelinap di antara asam lambung yang mengalir deras..."
+    },
+    {
+      "id": 1,
+      "content": "... tanpa tahu arah ke mana kami pergi."
+    },
+    {
+      "id": 2,
+      "teller": "???",
+      "title": "???",
+      "content": "Wah, Bung. Sungguh... pemandangan yang lucu, ya?"
+    },
+    {
+      "id": 3,
+      "teller": "???",
+      "title": "???",
+      "content": "Lucu? Ini lebih mencurigakan daripada lucu."
+    },
+    {
+      "id": 4,
+      "teller": "???",
+      "title": "???",
+      "content": "Kau terlalu keras...! Bagus, sekarang kita menarik perhatian mereka."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<...? Siapa di sana?>"
+    },
+    {
+      "id": 6,
+      "teller": "???",
+      "title": "???",
+      "content": "Hei. Aku mendengar kalian... berbicara dari bawah sana."
+    },
+    {
+      "id": 7,
+      "model": "이상",
+      "content": "Putri Duyung itu... bisa bicara...?"
+    },
+    {
+      "id": 8,
+      "teller": "???",
+      "title": "???",
+      "content": "Kami bukan... Putri Duyung. Pernah melihat Putri Du...yung yang banyak bicara?"
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "Efek Pemucatan mereka baru berkembang sebagian."
+    },
+    {
+      "id": 10,
+      "model": "로쟈",
+      "content": "Jadi mereka itu apa? Setengah manusia, setengah ikan?"
+    },
+    {
+      "id": 11,
+      "teller": "???",
+      "title": "???",
+      "content": "Yah, kita tidak punya... banyak waktu. Jadi akan kubuat... singkat."
+    },
+    {
+      "id": 12,
+      "teller": "???",
+      "title": "???",
+      "content": "Zona ini... dibanjiri asam setiap 10 menit... kurang lebih."
+    },
+    {
+      "id": 13,
+      "teller": "???",
+      "title": "???",
+      "content": "Kecuali kalian semua... terbuat dari baja..."
+    },
+    {
+      "id": 14,
+      "teller": "???",
+      "title": "???",
+      "content": "... sebaiknya kalian cepat memutuskan! Ambil ta...li yang akan kami turunkan, atau..."
+    },
+    {
+      "id": 15,
+      "teller": "???",
+      "title": "???",
+      "content": "... menjadi nutrisi berlumpur... bagi Paus dan menyatu dengannya... selamanya."
+    },
+    {
+      "id": 16,
+      "teller": "???",
+      "title": "???",
+      "content": "Yah, bahkan jika kalian semua berubah menjadi lumpur, kami masih bisa menyelamatkan senjata kalian. Kami tidak rugi apa-apa."
+    },
+    {
+      "id": 17,
+      "teller": "???",
+      "title": "???",
+      "content": "Beberapa di antaranya sudah mulai meleleh."
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Apa kita punya pilihan?>"
+    },
+    {
+      "id": 19,
+      "model": "히스클리프",
+      "content": "TALI! SEKARANG!"
+    },
+    {
+      "id": 20,
+      "content": "Mereka bergumam satu sama lain, seolah menganggap situasi ini lucu... lalu melemparkan tali yang tampak aneh ke arah kami."
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "Tali ini terasa aneh."
+    },
+    {
+      "id": 22,
+      "teller": "???",
+      "title": "???",
+      "content": "Tali itu... terbuat dari kapiler yang kami tarik langsung... dari paru-parunya. Tali ini akan bertahan lebih dari... satu jam, bahkan dalam asam lambungnya."
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "content": "Greg... Kenapa kau bertanya sih...? Eugh, aku benci ini..."
+    },
+    {
+      "id": 24,
+      "content": "Dengan Rodya dan keluhannya, kami bersusah payah memanjat rangkaian tali kapiler itu."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<... Huft. Aku tidak tahu siapa kalian... Tapi terima kasih.>"
+    },
+    {
+      "id": 26,
+      "model": "피쿼드호주민1",
+      "teller": "???",
+      "title": "???",
+      "content": "Sial, tangkapan yang bagus! Kita bisa mendapatkan lebih dari 3 keping emas untuk ini."
+    },
+    {
+      "id": 27,
+      "model": "피쿼드호주민2",
+      "teller": "???",
+      "title": "???",
+      "content": "Kurasa kawan yang berdetak-detak ini mungkin lebih berharga dari itu."
+    },
+    {
+      "id": 28,
+      "model": "료슈",
+      "content": "Tangkapan? Kalian pikir kalian memancing kami?"
+    },
+    {
+      "id": 29,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Kami datang kemari setiap... sesekali untuk memeriksa apakah... ada yang terdampar."
+    },
+    {
+      "id": 30,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Tapi sebagian besar para terdampar malang itu... sudah hampir sepenuhnya menjadi Putri Duyung saat kami menemukan mereka. Dalam hitungan... menit, mereka semua siap membunuh kami. Dan sisanya... hanya Putri Duyung biasa."
+    },
+    {
+      "id": 31,
+      "model": "홍루",
+      "content": "Haha, jadi ini kejadian istimewa, benar kan?"
+    },
+    {
+      "id": 32,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Mungkin ini pertama kalinya... kami menemukan pelaut yang bukan hanya... bisa bicara, tetapi juga belum setengah berubah... menjadi Putri Duyung."
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<Kalau begitu kenapa kalian datang kemari sesekali?>"
+    },
+    {
+      "id": 34,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Teman kepala jam... ini terus berdetak. Apa dia mengatakan se...suatu? Kurasa dia bukan robot sepenuhnya."
+    },
+    {
+      "id": 35,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Bukankah ke...banyakan orang ingin tetap bisa bicara saat me...ngganti tubuh mereka dengan prostetik? Kurasa tren saat ini benar-benar... berubah sejak kami tiba di sini."
+    },
+    {
+      "id": 36,
+      "model": "그레고르",
+      "content": "Uh, jadi teman kami itu... Yah, ceritanya panjang. Tapi ya, dia tidak bisa berkomunikasi secara normal."
+    },
+    {
+      "id": 37,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Hm, tidak... apa-apa. Semua orang punya ce...rita yang tidak ingin mereka ceritakan."
+    },
+    {
+      "id": 38,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Kami bisa sedikit bersimpati. Berbicara bukan... hal yang mu...dah dilakukan."
+    },
+    {
+      "id": 39,
+      "model": "피쿼드호주민1",
+      "teller": "???",
+      "title": "???",
+      "content": "Anggap diri kalian beruntung, kawan! Dari sekian banyak hal, kalian bertemu kami!"
+    },
+    {
+      "id": 40,
+      "model": "피쿼드호주민2",
+      "teller": "???",
+      "title": "???",
+      "content": "Karena kami akan segera keluar dari tempat ini!"
+    },
+    {
+      "id": 41,
+      "content": "Kami mengikuti langkah mereka yang memandu dengan percaya diri, tapi mustahil memandang situasi ini tanpa sedikit kecurigaan."
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<Menurutmu mereka membawa kita ke mana?>"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Bagaimana jika mereka membawa kita ke dalam jebakan...?>"
+    },
+    {
+      "id": 44,
+      "model": "이스마엘",
+      "content": "Jika mereka ingin menyerang kita, mereka pasti sudah melakukannya saat kita hampir mencapai puncak tebing. Saat itu kita sangat rentan terhadap serangan."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "Dan..."
+    },
+    {
+      "id": 46,
+      "content": "Ishmael membuka mulut seolah hendak mengatakan sesuatu, lalu menghentikannya sebelum berbalik. Tampaknya dia belum selesai memahami pikirannya sendiri."
+    },
+    {
+      "id": 47,
+      "model": "이스마엘",
+      "content": "... Aku yakin pernah melihat harpun itu di suatu tempat..."
+    },
+    {
+      "id": 48,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Jadi kalian berasal dari kapal a...pa?"
+    },
+    {
+      "id": 49,
+      "model": "그레고르",
+      "content": "Um... Namanya... Limbus. Kalian mungkin belum pernah mendengarnya..."
+    },
+    {
+      "id": 50,
+      "model": "피쿼드호주민1",
+      "teller": "???",
+      "title": "???",
+      "content": "Bicaralah terus terang! Kau bukan Putri Duyung. Siapa Kapten kalian? Jika berasal dari U Corp, namanya mungkin terdengar tidak asing."
+    },
+    {
+      "id": 51,
+      "model": "그레고르",
+      "content": "Um... siapa... Kapten kami?"
+    },
+    {
+      "id": 52,
+      "model": "단테",
+      "content": "<Entahlah. Aku belum pernah memegang kemudi. Tidak yakin bisa menyebut diriku Kapten di sini.>"
+    },
+    {
+      "id": 53,
+      "model": "돈키호테",
+      "content": "Kemudi... Sungguh... Jika ini hanya soal siapa yang memegang kemudi..."
+    },
+    {
+      "id": 54,
+      "model": "돈키호테",
+      "content": "Aku sangat tahu siapa Kapten kami!!! Charon adalah Kapten kami!"
+    },
+    {
+      "id": 55,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Aha... tidak. Belum pernah men...dengar nama itu. Kalau begitu, sudah cukup... lama..."
+    },
+    {
+      "id": 56,
+      "content": "Dia menggaruk kepalanya. 'Kapten' Charon jelas terdengar asing baginya."
+    },
+    {
+      "id": 57,
+      "model": "이스마엘",
+      "content": "Kalian... Sudah berapa lama kalian terjebak di sini?"
+    },
+    {
+      "id": 58,
+      "model": "피쿼드호주민1",
+      "teller": "???",
+      "title": "???",
+      "content": "Delapan bulan."
+    },
+    {
+      "id": 59,
+      "model": "피쿼드호주민2",
+      "teller": "???",
+      "title": "???",
+      "content": "Tidak, bodoh! Ini tahun ketiga kami! Hitungan terakhir kami mencapai 644 hari, jadi..."
+    },
+    {
+      "id": 60,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Entahlah, No...na. Aku berhenti mengh...itung hari beberapa waktu lalu. Aku benar-benar kehilangan je...jak waktu sejak kami terjebak jauh di... dalam, di tempat yang tak tersinari oleh matahari."
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "... Begitu."
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "content": "Aku hanya tahu satu orang yang mengikat simpul pada harpunnya seperti itu..."
+    },
+    {
+      "id": 63,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh, ini? Namanya Simpul Ke...putusasaan. Bahkan di kota kami, hanya se...gelintir orang berpengalaman yang tahu cara mengikatnya."
+    },
+    {
+      "id": 64,
+      "model": "이스마엘",
+      "content": "Jadi... mereka ada di sini...?"
+    },
+    {
+      "id": 65,
+      "model": "이스마엘",
+      "content": "Aku... kurasa aku mengenalmu."
+    },
+    {
+      "id": 66,
+      "content": "Ishmael tiba-tiba berhenti. Para pemandu kami juga."
+    },
+    {
+      "id": 67,
+      "content": "... Bukan karena perkataannya."
+    }
+  ]
+}
