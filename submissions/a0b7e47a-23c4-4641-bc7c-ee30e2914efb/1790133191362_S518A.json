@@ -1,0 +1,109 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dek Mephistopheles",
+      "model": "이상",
+      "content": "Tidak ada kata yang terlintas untuk menggambarkan... makhluk itu dengan tepat."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Entitas tak terduga yang menghuni kedalaman Danau disebut 'Paus'. Dan yang muncul dari mereka disebut 'Mermaid'."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Itu adalah 'Paus Tangan Berpori'... Aku... benar-benar berharap tidak bertemu yang satu itu..."
+    },
+    {
+      "id": 3,
+      "model": "단테2",
+      "content": "<Apakah itu... salah satu Paus yang mereka bicarakan di U Corp.?>"
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Apakah Mermaid juga menyerang kapal...? Aku pernah membaca tentang mereka saat kecil, tapi yang ini sama sekali tidak seperti di dalam buku..."
+    },
+    {
+      "id": 5,
+      "model": "홍루",
+      "content": "Mermaid... Aku masih ingat cerita menakutkan sebelum tidur yang dulu diceritakan kakakku tentang mereka..."
+    },
+    {
+      "id": 6,
+      "model": "그레고르",
+      "content": "Jadi... mereka membuat parfum dari... makhluk-makhluk ini...?"
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "Vergie... bukankah ini waktu yang tepat bagimu untuk membantu kami sesekali?"
+    },
+    {
+      "id": 8,
+      "model": "그레고르",
+      "content": "Kau serius? Dia orang yang hanya menonton seperti saat kita dibantai di K Corp. Dia bahkan tidak berkedip."
+    },
+    {
+      "id": 9,
+      "model": "홍루",
+      "content": "Ah, tapi dia melambaikan tangan kepada kita! Tapi aku tidak dapat membalasnya karena pergelangan tanganku patah saat itu!"
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "Tentu saja, aku tidak akan berdiam diri saat Mephistopheles tenggelam, jika sampai itu terjadi. Tapi..."
+    },
+    {
+      "id": 11,
+      "model": "베르길리우스",
+      "content": "Ketahuilah bahwa aku hanya akan bertindak dalam keadaan yang sangat genting."
+    },
+    {
+      "id": 12,
+      "model": "베르길리우스",
+      "content": "Seperti ketika kalian semua terbantai, musuh telah menghancurkan kepala manajer dan hendak mencabik tangan jam itu."
+    },
+    {
+      "id": 13,
+      "model": "단테2",
+      "content": "<Kau... kau pasti sedang bercanda...?>"
+    },
+    {
+      "id": 14,
+      "model": "베르길리우스",
+      "content": "Dante, aku tidak mungkin membiarkan mereka mengambil aset berharga perusahaan tepat di depan mataku, bukan?"
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "Jadi, kurasa kalian tidak akan melihatku turun tangan sebelum kalian semua mati."
+    },
+    {
+      "id": 16,
+      "model": "로쟈",
+      "content": "Tuan Pemandu... Apa benar kamu sehebat yang mereka katakan? Bisa jadi rumor yang beredar tentangmu itu cuma dilebih-lebihkan, lho..."
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "Sebaiknya... jangan."
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Uh, ya. Sebaiknya— Jangan..."
+    },
+    {
+      "id": 19,
+      "content": "Dua korban Vergilius sebelumnya menyela perkatannya, meski dengan suara hampa, untuk membantah ucapan Rodya yang cukup berbahaya."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "Jadi singkirkan mereka, sambut mereka dengan tangan terbuka, atau apa pun. Aku serahkan kepada kalian semua."
+    }
+  ]
+}
