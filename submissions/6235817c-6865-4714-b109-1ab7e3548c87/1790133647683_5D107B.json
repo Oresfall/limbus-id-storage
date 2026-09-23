@@ -1,0 +1,407 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kantor Ahab",
+      "model": "에이해브",
+      "content": "Kulihat kalian kesulitan dalam mencapai kesepakatan."
+    },
+    {
+      "id": 1,
+      "model": "에이해브",
+      "content": "Sangat bisa dimengerti. Seharusnya sudah jelas bahwa jawabannya ada tepat di depan mata kalian. Tawaranku sempurna untuk situasi kalian yang cukup putus asa saat ini."
+    },
+    {
+      "id": 2,
+      "model": "에이해브",
+      "content": "Namun begitulah kehendak takdir! Kesempatan yang tampaknya mustahil dan kebetulan ini adalah benang-benang takdir yang menenun jalan di depan kita!"
+    },
+    {
+      "id": 3,
+      "model": "에이해브",
+      "content": "Kalian harus belajar menjadi orang yang menggenggam takdir saat takdir itu muncul. Itu sudah menjadi pengetahuan umum di kalangan setiap pelaut."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Ugh..."
+    },
+    {
+      "id": 5,
+      "content": "Sinclair sedikit bergidik."
+    },
+    {
+      "id": 6,
+      "content": "Banyak hal telah terjadi. Berbagai momen 'kebetulan' di masa lalu pasti terlintas pada setiap Sinners."
+    },
+    {
+      "id": 7,
+      "content": "Saat kami hampir terjepit di antara dua kapal, saat kami bertemu Putri Duyung mengambang di atas kapal yang ditinggalkan,"
+    },
+    {
+      "id": 8,
+      "content": "Saat kami melawan Paus dan produk sampingannya yang datang bersama <ruby=Waves>Ombak...</ruby>"
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Kau dan pidatomu yang angkuh dan sok tahu sama sekali tidak berubah."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Jangan menipu diri sendiri. Aku tidak akan pernah bekerja sama denganmu lagi. Bahkan sekarang aku sudah tidak sabar untuk mengunyah dan mencabik-cabikmu."
+    },
+    {
+      "id": 11,
+      "model": "에이해브",
+      "content": "Hahaha! Wajah itu! Kata-kata itu! Gadis itu akhirnya belajar cara berbicara seperti seorang pelaut sejati yang tangguh! Benar kan, Ishmael?"
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "Aku tidak menyangka kau akan mengingat namaku."
+    },
+    {
+      "id": 13,
+      "model": "에이해브",
+      "content": "Bagaimana mungkin aku tidak mengingatnya?"
+    },
+    {
+      "id": 14,
+      "model": "에이해브",
+      "content": "Aku mendengar suaramu sesaat sebelum Paus ini menelanku bulat-bulat. Gema suaramu memanggil namaku, menyebar bersama angin di tengah kehancuran. Hah. Aku bisa mendengarnya dengan jelas, seolah baru terjadi kemarin."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 16,
+      "model": "에이해브",
+      "content": "Meski hanya sesaat, di tengah badai, mata kita bertemu. Dan aku mengintip ke dalam hatimu."
+    },
+    {
+      "id": 17,
+      "model": "에이해브",
+      "content": "Ke dalam keinginanmu yang sebenarnya."
+    },
+    {
+      "id": 18,
+      "content": "Ahab melangkah menuju Ishmael."
+    },
+    {
+      "id": 19,
+      "content": "Ishmael tetap berdiri di tempatnya. Dia menatap wanita tua itu dengan mata merah."
+    },
+    {
+      "id": 20,
+      "model": "에이해브",
+      "content": "Akan kuberikan apa yang kauinginkan."
+    },
+    {
+      "id": 21,
+      "content": "Suaranya rendah... namun terasa personal."
+    },
+    {
+      "id": 22,
+      "model": "이스마엘",
+      "content": "Huh. Mari kita lihat omong kosong apa yang akan kau lontarkan kali ini."
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "Karena yang kuinginkan..."
+    },
+    {
+      "id": 24,
+      "model": "에이해브",
+      "content": "... Adalah jantungku."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "…!"
+    },
+    {
+      "id": 26,
+      "model": "에이해브",
+      "content": "Ishmael. Dengarkan baik-baik. Akulah... orang pertama dan satu-satunya yang menyaksikan lahirnya keinginan terbesar dalam hidupmu."
+    },
+    {
+      "id": 27,
+      "model": "에이해브",
+      "content": "Ada sesuatu yang terbangun jauh di dalam dirimu. Obsesi penuh kebencian yang menjerit dan meronta dengan ganas agar suatu hari kau sendiri bisa mengeluarkan isi perutku."
+    },
+    {
+      "id": 28,
+      "model": "에이해브",
+      "content": "Keinginan itulah yang membawamu ke hadapanku, melewati cobaan dan kesulitan yang dilemparkan dunia ke jalanmu. Apa aku salah?"
+    },
+    {
+      "id": 29,
+      "model": "에이해브",
+      "content": "Golden Bough yang mereka cari? Kau sama sekali tidak peduli. Tentu saja tidak."
+    },
+    {
+      "id": 30,
+      "model": "에이해브",
+      "content": "Jantungku adalah Golden Bough-mu, rampasanmu, harta yang kaucari mati-matian di akhir perjalananmu."
+    },
+    {
+      "id": 31,
+      "model": "에이해브",
+      "content": "Aku tahu bahwa jauh di dalam dirimu, kau masih seorang pelaut dan pelempar harpun. Yang juga sangat hebat."
+    },
+    {
+      "id": 32,
+      "model": "에이해브",
+      "content": "Sejak kita bertemu kembali hingga sekarang, kau telah menusukku berulang kali dalam pikiranmu. Dan tak sekalipun kau memalingkan pandangan."
+    },
+    {
+      "id": 33,
+      "model": "에이해브",
+      "content": "Sungguh hebat dirimu sebagai pelempar harpun! Jika aku adalah Paus, aku akan dengan sukarela memberikan jantungku untuk kaubunuh."
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "Kau akan memberiku jantungmu..."
+    },
+    {
+      "id": 35,
+      "model": "에이해브",
+      "content": "Kau lebih tahu daripada siapa pun bahwa aku tidak berbohong, Ishmael! Kau tahu ke mana haluan hasratku yang terakumulasi diarahkan!"
+    },
+    {
+      "id": 36,
+      "model": "에이해브",
+      "content": "Bantu aku menghancurkan jantung Paus ini...!"
+    },
+    {
+      "id": 37,
+      "model": "에이해브",
+      "content": "Dan aku, Kapten Ahab, akan dengan sukarela memberikan nyawaku kepadamu."
+    },
+    {
+      "id": 38,
+      "model": "에이해브",
+      "content": "Tidak penting bagaimana kau menghabisiku. Aku akan menerima semuanya dengan senang hati."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Haah..."
+    },
+    {
+      "id": 40,
+      "content": "Ahab merampas harpun Ishmael dan mendekatkannya ke tenggorokannya."
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "content": "...!"
+    },
+    {
+      "id": 42,
+      "model": "에이해브",
+      "content": "Sekarang! Bukankah kau ingin merobek arteriku?"
+    },
+    {
+      "id": 43,
+      "model": "에이해브",
+      "content": "Biarkan aku membuat tugas ini menjadi lebih mudah bagimu. Haruskah aku memutar leher agar urat nadiku terlihat jelas?! Semua ini milikmu... selama aku bisa mencapai tujuanku."
+    },
+    {
+      "id": 44,
+      "model": "에이해브",
+      "content": "Oh, betapa tajamnya harpun yang kauasah! Aku bisa membayangkan malam-malam yang kauhabiskan untuk mengasahnya, membayangkan kematianku yang menyakitkan. Kau pasti merasakannya—panggilan takdir, nasibmu! Sama sepertiku!!!"
+    },
+    {
+      "id": 45,
+      "model": "에이해브",
+      "content": "Tak seorang pun di dunia ini memahamimu lebih baik dariku, Ishmael! Aku tahu kerinduan itu, kebencian membara yang menghabiskan hari-harimu!"
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "content": "Ya... Kau benar. Aku nyaris tidak mampu menahan diri untuk merobek arterimu."
+    },
+    {
+      "id": 47,
+      "model": "에이해브",
+      "content": "Namun kau tidak bertindak."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 49,
+      "model": "에이해브",
+      "content": "Karena bahkan sekarang, saat ujung harpunmu yang setajam silet menggelitik bulu di leherku, kau sangat mengetahui kebenarannya."
+    },
+    {
+      "id": 50,
+      "model": "에이해브",
+      "content": "Bahwa kau masih terlalu lemah untuk membunuhku."
+    },
+    {
+      "id": 51,
+      "model": "에이해브",
+      "content": "Sungguh menyedihkan, namun juga cerdas... Gadis itu tahu posisinya."
+    },
+    {
+      "id": 52,
+      "model": "에이해브",
+      "content": "Dan kecerdasan itu sangat berguna bagimu. Pelaut bodoh tidak akan menerima tawaranku yang begitu murah hati."
+    },
+    {
+      "id": 53,
+      "model": "에이해브",
+      "content": "Selama aku bisa membunuh <ruby=Pallid Whale>Paus Pucat</ruby> dengan kedua tanganku... aku tidak peduli apa yang akan terjadi setelahnya."
+    },
+    {
+      "id": 54,
+      "model": "에이해브",
+      "content": "Jantungku milikmu untuk diharpun, Ishmael."
+    },
+    {
+      "id": 55,
+      "model": "에이해브",
+      "content": "Aku akan menjadi utuh pada saat itu. Apa yang terjadi setelahnya... sama sekali tidak kupedulikan."
+    },
+    {
+      "id": 56,
+      "model": "이스마엘",
+      "content": "Ha... Haha... Ha..."
+    },
+    {
+      "id": 57,
+      "content": "Ishmael tertawa dan terus tertawa."
+    },
+    {
+      "id": 58,
+      "content": "Dia tidak melawan dengan lidahnya yang tajam, juga tidak mengkritik kata-kata Kapten dengan tajam dan rasional seperti saat mengkritik kami."
+    },
+    {
+      "id": 59,
+      "content": "Dia tertawa dan terus tertawa, menatap lurus ke mata Ahab."
+    },
+    {
+      "id": 60,
+      "model": "에이해브",
+      "content": "Ya... Aku menyukai tatapan matamu."
+    },
+    {
+      "id": 61,
+      "model": "에이해브",
+      "content": "Aku sudah bisa melihatnya. Bahkan, rasanya aku sudah mendengar keputusanmu dari tatapan itu."
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "content": "Ya... Nikmati pelayaran terakhirmu, Ahab."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "content": "Dan apa pun yang terjadi, bertahanlah sampai akhir pelayaran ini, sampai kau menghancurkan jantung Paus."
+    },
+    {
+      "id": 64,
+      "model": "이스마엘",
+      "content": "Dan aku akan dengan senang hati menghancurkanmu saat kau sudah menjadi utuh."
+    },
+    {
+      "id": 65,
+      "model": "에이해브",
+      "content": "Ha! Ahahahaha!!"
+    },
+    {
+      "id": 66,
+      "model": "에이해브",
+      "content": "YA! Kini kulihat mata seorang pelaut sejati! Akhirnya keyakinan membara di matamu!"
+    },
+    {
+      "id": 67,
+      "model": "에이해브",
+      "content": "Aku tidak akan mengecewakanmu, Ishmael. Biarkan jantungku berdetak seperti badai, biarkan jantungku berdarah lebih panas daripada darah Paus Lava yang mendidih. Agar jantung ini menjadi sasaran yang pantas bagi harpumu."
+    },
+    {
+      "id": 68,
+      "model": "이스마엘",
+      "content": "HA! HAHAHAHA!!"
+    },
+    {
+      "id": 69,
+      "content": "Rasa ngeri yang luar biasa terpancar dari tawa gila mereka berdua. Baik aku maupun Sinners lainnya tidak berani menyela."
+    },
+    {
+      "id": 70,
+      "content": "Tawa mereka sangat mirip."
+    },
+    {
+      "id": 71,
+      "content": "Sampai-sampai aku tidak yakin mana yang milik Ishmael dan mana yang milik Ahab."
+    },
+    {
+      "id": 72,
+      "content": "Apa yang kupikirkan saat itu... aku sendiri tidak yakin."
+    },
+    {
+      "id": 73,
+      "content": "Bukan seolah kami punya pilihan lain, tetapi..."
+    },
+    {
+      "id": 74,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 75,
+      "content": "... mungkin aku berharap Ishmael menolak tawaran itu."
+    },
+    {
+      "id": 76,
+      "place": "Kota Pequod",
+      "model": "스타벅",
+      "content": "Jadi kau memutuskan untuk bergabung dalam perja...lanan menuju jantung?"
+    },
+    {
+      "id": 77,
+      "model": "스타벅",
+      "content": "Bukankah itu... bagus. Menyenangkan memiliki kalian yang tampak berse...mangat dalam perjalanan ini! Tak ada sedikit pun selaput pucat... di tubuh kalian."
+    },
+    {
+      "id": 78,
+      "model": "스타벅",
+      "content": "Oh, ngomong-ngomong... Bagaimana kalian bisa... baik-baik saja?"
+    },
+    {
+      "id": 79,
+      "model": "스타벅",
+      "content": "Kenapa Paus Puca...t tidak berdampak pada satu... pun dari kalian?"
+    },
+    {
+      "id": 80,
+      "content": "Starbuck bertanya dengan penasaran."
+    },
+    {
+      "id": 81,
+      "model": "돈키호테",
+      "content": "Sungguh, itu— Mmmph?!"
+    },
+    {
+      "id": 82,
+      "model": "그레고르",
+      "content": "... Ceritanya panjang. Kami hanya kebetulan beruntung... dan itu saja."
+    },
+    {
+      "id": 83,
+      "content": "Gregor menyela dan menutup mulut Don Quixote."
+    }
+  ]
+}
