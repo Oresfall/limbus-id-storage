@@ -1,0 +1,291 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kota Pequod",
+      "model": "에이해브",
+      "content": "Ada beberapa tugas yang harus diselesaikan terlebih dahulu jika kita ingin mencapai jantung itu."
+    },
+    {
+      "id": 1,
+      "model": "에이해브",
+      "content": "Dua kapal, dua rute. Mereka harus menempuh jalan berbeda untuk mencapai jantung."
+    },
+    {
+      "id": 2,
+      "model": "에이해브",
+      "content": "Pequod akan melewati pankreas."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "Pertanyaan."
+    },
+    {
+      "id": 4,
+      "model": "에이해브",
+      "content": "Silakan."
+    },
+    {
+      "id": 5,
+      "model": "료슈",
+      "content": "Kenapa kalian yang melewati pankreas?"
+    },
+    {
+      "id": 6,
+      "model": "에이해브",
+      "content": "Pankreas Paus sangat luas dan dipenuhi asam berbahaya. Masuk ke sana tanpa tahu kapan dan dari mana asam akan menyembur sama saja menari bersama kematian."
+    },
+    {
+      "id": 7,
+      "model": "에이해브",
+      "content": "Jadi aku memilih membawa mereka yang telah bekerja keras di sini selama bertahun-tahun, bukan orang darat tak berpengalaman seperti kalian."
+    },
+    {
+      "id": 8,
+      "content": "Starbuck mengangkat bahu di samping Kapten."
+    },
+    {
+      "id": 9,
+      "model": "에이해브",
+      "content": "Aku juga harus menyebutkan bahwa pankreas dipenuhi Putri Duyung. Lebih baik kami para pelaut, yang menghabiskan seluruh hidup memburu Putri Duyung dan Paus, menempuh rute itu."
+    },
+    {
+      "id": 10,
+      "model": "에이해브",
+      "content": "Meskipun tidak ada Putri Duyung yang sangat kuat atau merepotkan di sana, keunggulan jumlah kami tetap berguna di jalur itu."
+    },
+    {
+      "id": 11,
+      "model": "에이해브",
+      "content": "Di ujung pankreasnya, kami akan membelah urat terbesarnya."
+    },
+    {
+      "id": 12,
+      "model": "에이해브",
+      "content": "Lalu serambi jantung kirinya akan terbuka untuk memasok darah ke area tersebut."
+    },
+    {
+      "id": 13,
+      "model": "그레고르",
+      "content": "Oke, lalu bagaimana dengan kami...?"
+    },
+    {
+      "id": 14,
+      "model": "에이해브",
+      "content": "Kalian akan menempuh jalur ini. Serambi jantung kanan yang terhubung ke paru-paru. Jalur ini sempit, jadi kapal yang lebih kecil akan cocok untuk kalian."
+    },
+    {
+      "id": 15,
+      "model": "에이해브",
+      "content": "Beberapa... hal lain juga berada di jalur yang akan kalian ambil. Mereka bukan Paus maupun Putri Duyung. Jumlahnya sedikit, tetapi mungkin dapat menjadi lawan yang sulit."
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 17,
+      "model": "에이해브",
+      "content": "Kekurangan kalian dalam hal jumlah, kurasa, akan ditutupi oleh kemampuan tiap individu. Kau dan anak buahmu akan unggul dalam serangan terarah, bukan pertempuran habis-habisan yang akan dihadapi Pequod di pankreas."
+    },
+    {
+      "id": 18,
+      "model": "에이해브",
+      "content": "Jika kalian tidak muncul di sini, aku harus mengirim Starbuck, Queequeg, dan setidaknya delapan orang lainnya ke jalur itu. Kapal yang terbagi akan membuat kemungkinan gagal semakin tinggi. Sebenarnya, itu cukup mengkhawatirkanku."
+    },
+    {
+      "id": 19,
+      "model": "에이해브",
+      "content": "Namun kalian telah tiba, mengisi teka-teki rumit ini dengan sempurna seolah takdir sendiri yang mengaturnya. Takdir memang berubah-ubah, bukan?"
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "Nona Ahab... pasti mengacu pada Abnormality yang tertelan bersama Cabang Lobotomy Corp."
+    },
+    {
+      "id": 21,
+      "model": "에이해브",
+      "content": "Jadi kau tahu sesuatu tentang makhluk-makhluk aneh itu. Benar, pertemuan kita telah ditentukan takdir! Takdir yang membawaku menuju jantung Paus!"
+    },
+    {
+      "id": 22,
+      "model": "에이해브",
+      "content": "Bunuh monster-monster di sana, belah arterinya, dan serambi kanan akan terbuka."
+    },
+    {
+      "id": 23,
+      "model": "에이해브",
+      "content": "Dan kita akan bertemu lagi di jantung, tempat kedua serambi bertemu."
+    },
+    {
+      "id": 24,
+      "model": "에이해브",
+      "content": "Lalu aku akan masuk dan menghancurkan intinya... Jantung dari jantung, kalau boleh kusebut begitu."
+    },
+    {
+      "id": 25,
+      "model": "돈키호테",
+      "content": "Benarkah, apa kau menyatakan bahwa ada jantung di dalam jantung?!"
+    },
+    {
+      "id": 26,
+      "model": "에이해브",
+      "content": "Kulihat kau tidak berpengalaman menghadapi lawan sebesar Paus."
+    },
+    {
+      "id": 27,
+      "model": "에이해브",
+      "content": "Jelas bahwa makhluk kolosal seperti itu memiliki jantung lain yang menggerakkan jantung utama."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Apa sesuatu seperti itu seharusnya bisa ditebak...? >"
+    },
+    {
+      "id": 29,
+      "model": "에이해브",
+      "content": "Matahari akan kembali menyinari kita hanya setelah kita menghancurkan jantung yang berdetak dengan hakikat kejahatan! Melalui daging Paus yang terbelah, cahaya lembut akan menghujani kita!"
+    },
+    {
+      "id": 30,
+      "model": "에이해브",
+      "content": "Dan kau akan menusukku dengan harpun terakhir, untuk mengakhiri napasku selamanya!"
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "... Heh."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "Meskipun aku belum menganalisis geografi entitas ini... Gambaran umum rencana tersebut tampak masuk akal bagiku, Manajer Eksekutif."
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<Ya... Aku setuju.>"
+    },
+    {
+      "id": 34,
+      "content": "Sepertinya Ahab tidak bercanda soal memeriksa setiap sudut perut Paus."
+    },
+    {
+      "id": 35,
+      "content": "Dia melakukan semua itu dengan satu keinginan: memburu dan membunuh Paus besar ini untuk selamanya. Dalam kurun waktu yang lama itu..."
+    },
+    {
+      "id": 36,
+      "model": "히스클리프",
+      "content": "Aku masih tidak suka ini. Apa kita harus mendengarkan Kapten mencurigakan itu untuk memerintah kita? Kukira kepala jam ini adalah bos kita."
+    },
+    {
+      "id": 37,
+      "model": "히스클리프",
+      "content": "Kenapa kita tidak menyelesaikan ini dengan tangan kita sendiri daripada bergantung kepadanya? Mari kita lakukan sendiri. Biarkan satu atau dua orang dari kita menjadi gila dan berubah menjadi Putri Duyung. Setidaknya itu hasil kerja kita sendiri."
+    },
+    {
+      "id": 38,
+      "model": "오티스",
+      "content": "Saran yang sangat tidak bertanggung jawab."
+    },
+    {
+      "id": 39,
+      "model": "오티스",
+      "content": "Aku pasti akan jadi orang pertama yang mengusulkan hal itu, seandainya aku tidak memperkirakan jumlah korban di pihak kita lebih banyak daripada ‘satu atau dua’ orang."
+    },
+    {
+      "id": 40,
+      "model": "히스클리프",
+      "content": "Lalu kenapa tidak kau sarankan?"
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Kita sangat dirugikan dalam hal informasi tentang medan perang ini. Nyawa Manajer Eksekutif bisa terancam kapan saja."
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Bahkan pemula tanpa akal pun tidak akan pernah mempertaruhkan nyawa atasannya. Dan semua itu kau lakukan demi harga dirimu? Sungguh bodoh."
+    },
+    {
+      "id": 43,
+      "model": "히스클리프",
+      "content": "... Tsk."
+    },
+    {
+      "id": 44,
+      "model": "이스마엘",
+      "content": "Selama kita menghancurkan jantungnya... aku dapat menghabisinya."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "Selama kita menghancurkan jantungnya..."
+    },
+    {
+      "id": 46,
+      "content": "Dia mengertakkan gigi sambil mengulanginya seperti mantra."
+    },
+    {
+      "id": 47,
+      "content": "Agar dia tidak pernah lupa, walaupun hanya sesaat."
+    },
+    {
+      "id": 48,
+      "model": "에이해브",
+      "content": "Baiklah. Kita akan bertemu lagi di titik pertemuan."
+    },
+    {
+      "id": 49,
+      "model": "에이해브",
+      "content": "Semoga ini menjadi pelayaran yang baik bagi kita semua."
+    },
+    {
+      "id": 50,
+      "model": "퀴케그",
+      "content": "……."
+    },
+    {
+      "id": 51,
+      "model": "에이해브",
+      "content": "Cahaya matahari berada dalam genggaman kita, awak kapalku tersayang."
+    },
+    {
+      "id": 52,
+      "model": "에이해브",
+      "content": "Sebentar lagi kita akan menghirup dalam-dalam bau logam pengkhianat dari udara Kota."
+    },
+    {
+      "id": 53,
+      "content": "Ahab menyediakan perahu yang dapat membawa kami sampai ke jantung."
+    },
+    {
+      "id": 54,
+      "model": "퀴케그",
+      "content": "Hanya awak Pequod yang mengemudikan perahu Pequod."
+    },
+    {
+      "id": 55,
+      "model": "퀴케그",
+      "content": "Jadi, aku yang mengemudi."
+    },
+    {
+      "id": 56,
+      "content": "Queequeg bergabung sebagai juru mudi kami."
+    },
+    {
+      "id": 57,
+      "content": "Queequeg tidak berbohong—perahu ini tidak seperti perahu mana pun yang pernah kami lihat. Tubuhnya terbuat dari daging dan tulang. Aku juga melihat beberapa lempeng logam di antara bahan organiknya."
+    },
+    {
+      "id": 58,
+      "content": "... Hanya awak Pequod yang tahu cara mengemudikan kapal aneh ini."
+    }
+  ]
+}
