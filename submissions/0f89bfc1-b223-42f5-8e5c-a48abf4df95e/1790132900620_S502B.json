@@ -1,0 +1,705 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dek Mephistopheles",
+      "model": "오티스",
+      "content": "Para prajurit! Perintah yang jelas dan solidaritas sangatlah penting di masa-masa seperti ini!"
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "Kaki kanan pada 'HEAVE', kaki kiri pada 'HO'! Ayo!"
+    },
+    {
+      "id": 2,
+      "model": "오티스",
+      "content": "HEAVE!"
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "content": "HO!"
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "HEAVE!"
+    },
+    {
+      "id": 5,
+      "model": "히스클리프",
+      "content": "... HEAVE HO BAGAIMANA bisa ini terlihat adil jika kau hanya berdiri di sana sambil memberi perintah, sementara kami disini sedang mengayuh mati-matian?"
+    },
+    {
+      "id": 6,
+      "model": "오티스",
+      "content": "Pertanyaan yang bodoh. Seorang Kapten harus menjaga kekuatannya agar tidak membahayakan bawahannya."
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "Itulah alasan mengapa aku memilih untuk tidak terlibat dalam kegiatan kolaboratif ini!"
+    },
+    {
+      "id": 8,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 9,
+      "model": "히스클리프",
+      "content": "... Sejak kapan kau menjadi Komandan kami?"
+    },
+    {
+      "id": 10,
+      "model": "단테2",
+      "content": "<Yah, dia memang bilang dia Kapten, bukan Komandan...>"
+    },
+    {
+      "id": 11,
+      "model": "료슈",
+      "content": "……."
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "Burung camar sialan ini sebaiknya segera pergi."
+    },
+    {
+      "id": 13,
+      "model": "히스클리프",
+      "content": "Bagaimana kalau kita menculik burung camar itu dan melatih mereka untuk menganyuh generator?"
+    },
+    {
+      "id": 14,
+      "model": "히스클리프",
+      "content": "Oi, Faust! Si Paling Tahu! Aku pikir kau itu seorang jenius; lakukanlah! Itu pasti hal yang mudah untuk kecerdasanmu yang brilian, bukan?"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Aku memang dapat melakukannya. Namun, aku tidak ingin melakukannya karena itu tidak efisien. Latihan dasar untuk memakai toilet akan menjadi langkah pertama yang harus dilakukan agar mereka dapat dipakai sebagai tenaga kerja yang konsisten."
+    },
+    {
+      "id": 16,
+      "model": "카론",
+      "content": "Charon bosan. Charon mau vroom-vroom."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "Aku minta ganti. Kamu sopirnya, jadi lakukan tugasmu. Itu seharusnya bisa membuatmu tetap sibuk untuk sementara waktu."
+    },
+    {
+      "id": 18,
+      "model": "로쟈",
+      "content": "Oho, kau yakin? Vergie tidak akan membiarkannya lewat begitu saja~ Nanti kau akan mendapat 'konsultasi', tahu?"
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "Haah... Tunggu...! Mari kita pikirkan ini sebentar."
+    },
+    {
+      "id": 20,
+      "model": "그레고르",
+      "content": "Mari kita pikirkan alasan sebenarnya kita berkeringat dan mengayuh generator ini, huh?"
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "... Selalu mencari-cari kesalahan dan menyalahkan orang lain atas hal-hal kecil adalah... pemikiran yang menjijikkan. Segala sesuatu yang terjadi sepanjang perjalanan menuju kesuksesan hanyalah bagian dari proses tersebut."
+    },
+    {
+      "id": 22,
+      "model": "그레고르",
+      "content": "Dengar, aku tidak bilang kita harus saling menyalahkan. Aku hanya bertanya kenapa kita mengayuh sekeras ini sejak awal. Tidak ada sesuatu yang mengejar kita saat ini."
+    },
+    {
+      "id": 23,
+      "model": "그레고르",
+      "content": "Kita menuju salah satu pelabuhan terbesar U Corp., dan kita tahu persis diaman dan bagaimana cara menuju sana."
+    },
+    {
+      "id": 24,
+      "model": "그레고르",
+      "content": "Bukan berarti pelabuhan itu akan berlayar pergi, kan? Kenapa semua ini mendadak terburu-buru?"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 26,
+      "model": "그레고르",
+      "content": "Maksudku, apakah aku salah? Great Lake sampai sekarang sangat tenang. Sepertinya tidak akan ada monster yang tiba-tiba muncul dan menyerang kita, kan?"
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "Tampaknya pengalaman lapangan yang terakumulasi itu telah berkembang menjadi bentuk intuisi. Menarik, Gregor."
+    },
+    {
+      "id": 28,
+      "model": "그레고르",
+      "content": "Apa...?"
+    },
+    {
+      "id": 29,
+      "model": "파우스트",
+      "content": "Faust memandang perkembangan ini sebagai hal yang optimis."
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "Kita harus keluar dari area ini dalam 10 menit ke depan. Kita... sedikit tertinggal dari perkiraan yang aku prediksi."
+    },
+    {
+      "id": 31,
+      "model": "그레고르",
+      "content": "Baik... itu terdengar menyeramkan. Kenapa tepat 10 menit?"
+    },
+    {
+      "id": 32,
+      "model": "파우스트",
+      "content": "Karena 'hukum Great Lake'."
+    },
+    {
+      "id": 33,
+      "model": "로쟈",
+      "content": "Ohh... sudah kuduga! hukum Great Lake yang menyebalkan itu lagi, huh?!"
+    },
+    {
+      "id": 34,
+      "model": "파우스트",
+      "content": "……?"
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "Pengetahuanmu tentang hukum Great Lake merupakan perkembangan yang tidak terduga, Rodion. Sulit dipercaya, bahkan dengan pengalaman yang telah terkumpul, intuisimu akan—"
+    },
+    {
+      "id": 36,
+      "model": "로쟈",
+      "content": "Maaf, maaf~ Aku cuma pengen kelihatan seolah-olah aku mengerti. Kamu tahu, cewek itu kadang merasa capek jika harus terus-terusan nanya."
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "Great Lake U Corp. memiliki hukum yang... tidak boleh dilanggar."
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "Dan ya. Pelabuhan itu bisa dan akan berlayar pergi, Gregor."
+    },
+    {
+      "id": 39,
+      "model": "히스클리프",
+      "content": "Ini hanyalah danau... Hukum apa yang mungkin dimilikinya?"
+    },
+    {
+      "id": 40,
+      "model": "히스클리프",
+      "content": "Apakah polisi danau akan datang menghajar anak-anak nakal dengan tongkat karena melanggar aturan kelas?"
+    },
+    {
+      "id": 41,
+      "model": "료슈",
+      "content": "Semoga ada hukum yang memungkinkan aku untuk SYNC, bocah cerewet. Telingaku mulai berdarah."
+    },
+    {
+      "id": 42,
+      "content": "'Haah... Sudahlah kawan-kawan.'"
+    },
+    {
+      "id": 43,
+      "content": "Aku hampir mendengar helaan napas yang diikuti oleh kata-kata jujur, brutal, dan menusuk. Seperti seseorang merekam helaannya dan memutarnya di kepalaku."
+    },
+    {
+      "id": 44,
+      "content": "Tapi Ishmael tidak terlihat di dek."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "Jadi, jika ada sesuatu yang ingin kau minta dariku mulai sekarang, katakan. Dengan jelas."
+    },
+    {
+      "id": 46,
+      "content": "Dia tidak bercanda. Ishmael tetap berada di kamarnya, tidak sedikit pun terlihat dan terdengar meski terdapat keributan."
+    },
+    {
+      "id": 47,
+      "content": "Tidak terlihat sama sekali sejak... insiden itu."
+    },
+    {
+      "id": 48,
+      "model": "파우스트",
+      "content": "Meski aku ingin memberikan penjelasan kepada kalian, keluar dari zona ini adalah prioritas utama."
+    },
+    {
+      "id": 49,
+      "model": "파우스트",
+      "content": "Berdasarkan perhitunganku, percakapan terakhir kita membuat waktu kita tersisa 7 menit."
+    },
+    {
+      "id": 50,
+      "model": "뫼르소",
+      "content": "Kita berjarak sekitar 15 km dari tepi zona ini dalam garis lurus."
+    },
+    {
+      "id": 51,
+      "model": "뫼르소",
+      "content": "Setiap orang harus mengayuh untuk menghasilkan cukup energi agar dapat menempuh setidaknya 10 km per jam jika kita ingin keluar tepat waktu."
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스",
+      "content": "Luar biasa. Senang rasanya dapat melihat kerja sama tim yang baik untuk sesekali."
+    },
+    {
+      "id": 53,
+      "model": "돈키호테",
+      "content": "Hyaah! Rocinante! Tujuan kita sudah dekat! Berlarilah!"
+    },
+    {
+      "id": 54,
+      "model": "로쟈",
+      "content": "Darimana... gadis itu... mendapat tenaga... Ugh, augh..."
+    },
+    {
+      "id": 55,
+      "model": "그레고르",
+      "content": "Cough, cough... Aku rasa aku sudah selesai... Tinggalkan saja aku di sini..."
+    },
+    {
+      "id": 56,
+      "model": "싱클레어",
+      "content": "Meninggalkanmu dimana... Kita sedang berada... di kapal... agh."
+    },
+    {
+      "id": 57,
+      "model": "뫼르소",
+      "content": "Hup. Hup. Hup. Hup."
+    },
+    {
+      "id": 58,
+      "model": "뫼르소",
+      "content": "Pernapasan diafragma membantu menjaga kecepatan yang konsisten pada olahraga dengan intensitas seperti ini."
+    },
+    {
+      "id": 59,
+      "model": "파우스트",
+      "content": "Terutama ketika setiap Sinner bertanggung jawab atas sekitar 10 km per jam produksi energi. Lebih tinggi dari itu, kita akan membutuhkan hiperpnea untuk mempertahankan kecepatan."
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "Kamu pernah merasa capek, nggak sih?!"
+    },
+    {
+      "id": 61,
+      "model": "파우스트",
+      "content": "Tidak. 3 menit tersisa sekarang."
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Aough... Kita bahkan tidak tahu apa yang akan terjadi dalam 3 menit! Kenapa kita melakukan ini?!"
+    },
+    {
+      "id": 63,
+      "model": "단테2",
+      "content": "<Dia bilang tidak ada waktu! Kayuh saja dengan nyawa kalian!>"
+    },
+    {
+      "id": 64,
+      "model": "카론",
+      "content": "Charon ingin vroom-vroom. Ini squeak-squeak."
+    },
+    {
+      "id": 65,
+      "model": "카론",
+      "content": "Squeak-squeak. Itu tidak menyenangkan."
+    },
+    {
+      "id": 66,
+      "model": "홍루",
+      "content": "Hm hm hm~ Aku tidak menyangka kalau lagu-lagu kerja dapat membuat semangat."
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "content": "Huuh?! Kok kalian masih punya energi sebanyak itu?"
+    },
+    {
+      "id": 68,
+      "model": "홍루",
+      "content": "Ini bahkan belum seberapa dibandingkan dengan latihan yang dipaksakan keluargaku kepadaku~"
+    },
+    {
+      "id": 69,
+      "model": "히스클리프",
+      "content": "Ach, kalian! Tutup mulut kalian dan terus mengayuh!"
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "30 detik tersisa."
+    },
+    {
+      "id": 71,
+      "model": "싱클레어",
+      "content": "30... 30 detik...!"
+    },
+    {
+      "id": 72,
+      "model": "돈키호테",
+      "content": "Khaaaa! Ini benar-benar mendebarkan!!! Ini baru! Petualangan yang sesungguhnya!!!"
+    },
+    {
+      "id": 73,
+      "model": "돈키호테",
+      "content": "Rasanya seperti menyerbu musuh yang sangat besar, bukan— Ach?! Cough! Ack!"
+    },
+    {
+      "id": 74,
+      "model": "뫼르소",
+      "content": "Simpan kata-katamu. Napasmu. Tetap. Dalam alur. Tarik napas. Keluar. Tarik napas. Keluar. Tarik napas. Keluar. Tarik napas. Keluar. Tarik napas. Keluar."
+    },
+    {
+      "id": 75,
+      "model": "그레고르",
+      "content": "Huff... Huff... Berapa... sisa..."
+    },
+    {
+      "id": 76,
+      "model": "파우스트",
+      "content": "10 detik tersisa."
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "4 detik."
+    },
+    {
+      "id": 78,
+      "model": "싱클레어",
+      "content": "4? Kenapa kau tidak... menghitungnya dengan kelipatan 5...?!"
+    },
+    {
+      "id": 79,
+      "model": "오티스",
+      "content": "Jangan malas, para awak kapal! Kerjakan dengan sungguh-sungguh! Bekerja keras, rekan-rekan! Bekerja keras!"
+    },
+    {
+      "id": 80,
+      "content": "Entah bagaimana, kami berhasil lolos dari zona itu sebelum Faust menghitung mundur sampai nol."
+    },
+    {
+      "id": 81,
+      "content": "Beberapa Sinners langsung menghempaskan diri ke dek kapal layaknya boneka yang lemas, sementara yang lain tampak seolah-olah baru saja beristirahat sejenak di bangku taman."
+    },
+    {
+      "id": 82,
+      "model": "단테2",
+      "content": "<Jadi... entah bagaimana kita berhasil, tapi...>"
+    },
+    {
+      "id": 83,
+      "model": "그레고르",
+      "content": "Aku tidak melihat tanda-tanda dari 'hukum' itu... Apakah aku melewatkan sesuatu... Nyonya Faust?"
+    },
+    {
+      "id": 84,
+      "model": "히스클리프",
+      "content": "Agh... Aku bersumpah, kalau semua omong kosong 'hukum Great Lake' itu cuma kebohongan yang kau buat..."
+    },
+    {
+      "id": 85,
+      "model": "히스클리프",
+      "content": "... hanya untuk membuat perjalanan ini sedikit lebih cepat, aku akan benar-benar..."
+    },
+    {
+      "id": 86,
+      "content": "Permukaan danau tenang yang baru saja kita arungi... menghilang seakan tidak pernah ada."
+    },
+    {
+      "id": 87,
+      "content": "Sebagai gantinya, muncul sesuatu yang luar biasa besar. Dengan kaki-kaki—atau tentakel—yang tak terhitung jumlahnya, makhluk itu menggeliat, menjulang di atas permukaan danau. Aku bahkan tidak bisa membedakan di mana makhluk itu berakhir dan di mana danau itu dimulai."
+    },
+    {
+      "id": 88,
+      "content": "Apakah itu berasal dari danau? Atau..."
+    },
+    {
+      "id": 89,
+      "content": "Apakah selama ini kita berjalan tanpa sadar di atas tubuhnya?"
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "PHWAAAH?!"
+    },
+    {
+      "id": 91,
+      "content": "Aku bahkan tidak dapat menemukan kata yang tepat untuk menggambarkan betapa besarnya makhluk itu. Kemunculannya menciptakan ombak di seluruh perairan hingga ke zona tempat kami berada..."
+    },
+    {
+      "id": 92,
+      "content": "Tidak perlu diragukan lagi jika para Sinners yang berada di atas dek terkena siraman tak terduga."
+    },
+    {
+      "id": 93,
+      "model": "로쟈",
+      "content": "Woah... hampir saja! Kita nyaris menjadi pancake..."
+    },
+    {
+      "id": 94,
+      "model": "돈키호테",
+      "content": "Y-Yah! Tidak ada petualangan yang lengkap tanpa uh, cough, cough... ma-mara bahaya, tentu saja..."
+    },
+    {
+      "id": 95,
+      "model": "료슈",
+      "content": "<ruby=Not Bad>N.B.</ruby> Ini baru seperti yang diharapkan."
+    },
+    {
+      "id": 96,
+      "model": "뫼르소",
+      "content": "Kita tidak mungkin dapat bertahan dari serangan yang dilancarkan oleh salah satu lengan makhluk itu."
+    },
+    {
+      "id": 97,
+      "model": "베르길리우스",
+      "content": "Teuntu tidak. Tapi 'makhluk itu' tidak akan menyakiti kita selama kita berada 'di sini'."
+    },
+    {
+      "id": 98,
+      "model": "베르길리우스",
+      "content": "Itu adalah hukum Great Lake."
+    },
+    {
+      "id": 99,
+      "model": "파우스트",
+      "content": "Sekarang kita memiliki waktu bagiku untuk memberikan penjelasan."
+    },
+    {
+      "id": 100,
+      "model": "파우스트",
+      "content": "Meskipun hukum Great Lake sangat banyak, aku hanya akan menyampaikan informasi yang relevan untuk saat ini."
+    },
+    {
+      "id": 101,
+      "model": "파우스트",
+      "content": "Berada terlalu lama di satu danau pada waktu yang ditentukan akan membuat seseorang terkena <ruby=Waves>'Ombak'</ruby> dari masing-masing danau."
+    },
+    {
+      "id": 102,
+      "model": "그레고르",
+      "content": "'Ombak'...? Itu tidak seperti ombak yang pernah kulihat."
+    },
+    {
+      "id": 103,
+      "model": "파우스트",
+      "content": "Selain itu, terdapat juga hukum yang mengatur waktu dan arah di mana kapal diizinkan untuk melintasi batas antar danau."
+    },
+    {
+      "id": 104,
+      "model": "그레고르",
+      "content": "Tunggu. Jadi... kalau kita berhenti sebentar, benda yang... mirip tentakel gurita itu akan memukul kita?"
+    },
+    {
+      "id": 105,
+      "model": "파우스트",
+      "content": "Benar. Jadi, wajar saja jika segala sesuatu di Great Lake selalu bergerak untuk menyesuaikan posisinya sesuai dengan hukum tersebut."
+    },
+    {
+      "id": 106,
+      "model": "파우스트",
+      "content": "Dan rute menuju tujuan kita juga akan berubah sesuai dengan hal itu."
+    },
+    {
+      "id": 107,
+      "model": "홍루",
+      "content": "Hmm... Bisakah aku mendapatkan, seperti, daftar tertulis tentang hukum-hukum ini? Pengasuhku dulu suka menempelkan selembar kertas berisi aturan keluarga di kamarku. Bukan berarti aku dapat mengikutinya semua, tapi…"
+    },
+    {
+      "id": 108,
+      "content": "Pada saat itulah..."
+    },
+    {
+      "id": 109,
+      "content": "... aku mendengar suara pintu terbuka. Siapa pun yang membukanya, terlihat sangat kesal saat melakukannya."
+    },
+    {
+      "id": 110,
+      "model": "이스마엘",
+      "content": "... Ombak akhirnya datang, ya?"
+    },
+    {
+      "id": 111,
+      "model": "단테2",
+      "content": "<Ish... mael?>"
+    },
+    {
+      "id": 112,
+      "content": "Setelah lama mengisolasi diri, Ishmael akhirnya keluar dari kamarnya."
+    },
+    {
+      "id": 113,
+      "model": "이스마엘",
+      "content": "Kau tidak bisa hanya menuliskan hukum Great Lake di buku catatan dan menyebutnya selesai. Setiap danau memiliki hukum yang berbeda, meskipun hukum yang mengatur Great Lake secara umum cukup sederhana."
+    },
+    {
+      "id": 114,
+      "model": "이스마엘",
+      "content": "Lebih penting lagi, kalian harus tahu bahwa merekam hukum-hukum mereka tanpa izin adalah salah satu Tabu yang dikenal di U Corp."
+    },
+    {
+      "id": 115,
+      "model": "료슈",
+      "content": "Kalau gitu tubuhku saja yang akan mengingatnya."
+    },
+    {
+      "id": 116,
+      "model": "파우스트",
+      "content": "... Menato mereka di tubuhmu, jika itu yang kau maksud, juga dilarang."
+    },
+    {
+      "id": 117,
+      "model": "파우스트",
+      "content": "Taboo Hunters U Corp. telah dikirim untuk mengejar individu yang pernah mencoba hal yang serupa. Sebaiknya kita tidak membuat catatan tertulis tentang hukum mereka."
+    },
+    {
+      "id": 118,
+      "model": "단테2",
+      "content": "<… Apa yang selama ini kau lakukan, Ishmael?>"
+    },
+    {
+      "id": 119,
+      "model": "이스마엘",
+      "content": "Mengasah tombakku."
+    },
+    {
+      "id": 120,
+      "model": "단테2",
+      "content": "<Tombakmu? Kenapa?>"
+    },
+    {
+      "id": 121,
+      "model": "이스마엘",
+      "content": "Karena aku perlu membuatnya lebih tajam."
+    },
+    {
+      "id": 122,
+      "model": "이스마엘",
+      "content": "Karena aku akan memberinya rasa sakit yang membuatnya berharap mati. Dia akan merasakannya, bahkan dari luka sekecil apa pun."
+    },
+    {
+      "id": 123,
+      "model": "히스클리프",
+      "content": "… Kalau begitu, kenapa kau tidak membebaskan kami dari penderitaanmu dan kembali ke sarangmu saja."
+    },
+    {
+      "id": 124,
+      "model": "이스마엘",
+      "content": "Aku takut kalau aku melakukannya, aku akan keluar lagi dan menemukan dek dipenuhi daging kalian yang meleleh dan tidak dapat dikenali."
+    },
+    {
+      "id": 125,
+      "model": "이스마엘",
+      "content": "Dan aku tidak ingin melihat pemandangan seperti itu lagi."
+    },
+    {
+      "id": 126,
+      "model": "이스마엘",
+      "content": "Selain itu..."
+    },
+    {
+      "id": 127,
+      "model": "이스마엘",
+      "content": "Menonton kalian orang darat membuang-buang waktu dengan menyibukkan diri pada kapal yang tidak kalian pahami, membuang waktu yang berharga... benar-benar tak tertahankan."
+    },
+    {
+      "id": 128,
+      "content": "Meskipun sudah lama sejak insiden di Boatworks, omongannya yang tajam namun cemas itu belum pudar sama sekali."
+    },
+    {
+      "id": 129,
+      "content": "Aku takut dia mungkin memicu masalah di antara para Sinner lagi..."
+    },
+    {
+      "id": 130,
+      "model": "단테2",
+      "content": "<... Baiklah, baiklah.>"
+    },
+    {
+      "id": 131,
+      "content": "Tapi dia ada di sini bersama kami, dan aku ingin percaya bahwa itu sudah cukup. Aku memutuskan untuk tidak menanyakannya lagi."
+    },
+    {
+      "id": 132,
+      "model": "이스마엘",
+      "content": "... Hm. Aku sudah tahu ini bakal terjadi."
+    },
+    {
+      "id": 133,
+      "content": "Ishmael berjalan menuju kemudi."
+    },
+    {
+      "id": 134,
+      "model": "오티스",
+      "content": "Apa yang sedang kau lakukan? Kita sedang berlayar dengan baik saat ini. Angin utara mendorong kita."
+    },
+    {
+      "id": 135,
+      "model": "이스마엘",
+      "content": "Mungkin memang terlihat seperti itu bagi sebagian orang. Bagi orang-orang yang sederhana, satu dimensi, dan mudah ditebak seperti kalian."
+    },
+    {
+      "id": 136,
+      "model": "오티스",
+      "content": "Dasar kau... Berani-beraninya kau menghina—"
+    },
+    {
+      "id": 137,
+      "model": "단테2",
+      "content": "<Outis, biarkan dia bicara.>"
+    },
+    {
+      "id": 138,
+      "model": "오티스",
+      "content": "... Kau beruntung, bajingan."
+    },
+    {
+      "id": 139,
+      "model": "단테2",
+      "content": "<Baiklah, Ishmael. Katakan padaku... Bagaimana bisa kita tidak berlayar dengan mulus? Kita sedang mendapat angin yang mendukung.>"
+    },
+    {
+      "id": 140,
+      "model": "이스마엘",
+      "content": "Itu bukan angin."
+    },
+    {
+      "id": 141,
+      "model": "이스마엘",
+      "content": "Kita sedang ditarik."
+    },
+    {
+      "id": 142,
+      "model": "단테2",
+      "content": "<Ditarik? Oleh apa?>"
+    },
+    {
+      "id": 143,
+      "model": "이스마엘",
+      "content": "Kapal-kapal itu."
+    }
+  ]
+}
