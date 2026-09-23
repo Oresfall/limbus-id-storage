@@ -1,0 +1,281 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kota Pequod",
+      "model": "퀴케그가면",
+      "teller": "???",
+      "title": "Kota Pequod",
+      "content": "Kalian semua. Kuat."
+    },
+    {
+      "id": 1,
+      "model": "퀴케그가면",
+      "teller": "???",
+      "title": "Pequod Town",
+      "content": "Tapi bukan pelaut."
+    },
+    {
+      "id": 2,
+      "model": "료슈",
+      "content": "Kenapa bicara begitu lambat? Menyebalkan."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "Jika kau tidak menyingkat dengan akronim... berarti kau hanya membuang waktu."
+    },
+    {
+      "id": 4,
+      "content": "Gada Ishmael menggores topeng pelempar harpun itu. Dia nyaris menghancurkan tengkoraknya."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Seharusnya kau menyingkir saat kuberi kesempatan... Sekarang aku harus menghancurkan wajahmu."
+    },
+    {
+      "id": 6,
+      "model": "퀴케그",
+      "teller": "???",
+      "title": "Pequod Town",
+      "content": "Tapi kau. Kau adalah pelaut."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "... Benar."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "... Kita berdua pelaut."
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Queequeg!!!"
+    },
+    {
+      "id": 10,
+      "content": "Dengan ledakan energi yang tiba-tiba, Ishmael melesat seperti peluru meriam ke arah Queequeg sebelum memeluknya erat."
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "Huft... bukannya beberapa detik lalu dia ngomong ingin menghancurkan wajahnya?"
+    },
+    {
+      "id": 12,
+      "model": "이상",
+      "content": "Pelukan ini adalah hal yang sering dilakukan ketika bertemu kawan lama."
+    },
+    {
+      "id": 13,
+      "model": "이상",
+      "content": "Kau takut bahwa dia akan terbang menjauh jika tidak memeluknya dengan erat."
+    },
+    {
+      "id": 14,
+      "model": "퀴케그",
+      "teller": "Queequeg",
+      "title": "Kota Pequod",
+      "content": "Warna rambutmu. Tidak bisa kulupakan."
+    },
+    {
+      "id": 15,
+      "model": "퀴케그",
+      "teller": "Queequeg",
+      "title": "Pequod Town",
+      "content": "Namamu. Aku tahu."
+    },
+    {
+      "id": 16,
+      "model": "퀴케그",
+      "teller": "Queequeg",
+      "title": "Pequod Town",
+      "content": "Tapi jangan menyerang Kapten."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Kenapa...? Aku hanya..."
+    },
+    {
+      "id": 18,
+      "model": "퀴케그",
+      "teller": "Queequeg",
+      "title": "Pequod Town",
+      "content": "Jika kau menyerang Kapten lagi, aku akan menyerangmu."
+    },
+    {
+      "id": 19,
+      "model": "퀴케그",
+      "teller": "Queequeg",
+      "title": "Pequod Town",
+      "content": "Lalu membunuh atau dibunuh. Salah satu dari kita."
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 21,
+      "model": "에이해브",
+      "content": "Nah, sekarang apa yang akan kalian lakukan? Starbuck di sini, dengan kebaikan hatinya, telah menyelamatkan kalian dari rahang kematian. Mengundang kalian ke desaku!"
+    },
+    {
+      "id": 22,
+      "model": "에이해브",
+      "content": "Namun kalian memilih untuk menyerangku, seolah meludahi kebaikan itu."
+    },
+    {
+      "id": 23,
+      "model": "에이해브",
+      "content": "Jika kita sedang berlayar di Great Lake, aku akan mengikat dan melempar kalian semua ke laut untuk dihancurkan di bawah lunas kapal, paru-paru kalian mengembung dipenuhi air Danau."
+    },
+    {
+      "id": 24,
+      "content": "Setidaknya ada 40 orang yang tinggal di Kota Pequod. Itu pun perkiraan paling rendah."
+    },
+    {
+      "id": 25,
+      "content": "Dari tatapan kejam mereka, aku bisa tahu bahwa semuanya adalah pengikut Ahab yang sangat setia."
+    },
+    {
+      "id": 26,
+      "content": "Di sinilah kami berada, di lingkungan asing, terjebak dan tersesat..."
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<Situasinya tidak terlihat bagus...>"
+    },
+    {
+      "id": 28,
+      "content": "Satu kata dari Ahab, dan mereka semua akan menyerang kami..."
+    },
+    {
+      "id": 29,
+      "content": "Jika kami mundur... di belakang kami ada sungai asam lambung. Di depan kami merupakan wilayah yang tidak dikenal."
+    },
+    {
+      "id": 30,
+      "model": "에이해브",
+      "content": "Haha!! Anak-anak! Buang rasa takut dari hati kalian."
+    },
+    {
+      "id": 31,
+      "model": "에이해브",
+      "content": "Beruntung bagi kalian bahwa..."
+    },
+    {
+      "id": 32,
+      "model": "에이해브",
+      "content": "... aku sangat berbelas kasih. Aku akan mengampuni pelanggaran kalian sejauh ini."
+    },
+    {
+      "id": 33,
+      "model": "에이해브",
+      "content": "Aku memiliki beberapa pertanyaan untuk kalian, dan aku yakin kalian juga memiliki beberapa pertanyaan untukku."
+    },
+    {
+      "id": 34,
+      "model": "에이해브",
+      "content": "Jika kalian bersedia berbicara, masuklah ke kabin Kapten."
+    },
+    {
+      "id": 35,
+      "model": "에이해브",
+      "content": "Dengan damai, ingat itu."
+    },
+    {
+      "id": 36,
+      "content": "Ahab berbalik dengan santai dan berjalan menuju salah satu bangunan. Dia membawa dirinya dengan penuh percaya diri."
+    },
+    {
+      "id": 37,
+      "content": "Seolah-olah dia tahu kami akan mengikuti. Bahwa kami tidak punya pilihan selain mengikutinya."
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "... Oi, orang-orang yang menatap kita tadi... Mereka pergi, seolah tak terjadi apa-apa."
+    },
+    {
+      "id": 39,
+      "model": "퀴케그",
+      "content": "Kapten mengampuni. Maka semua orang juga mengampuni. Aku juga mengampuni."
+    },
+    {
+      "id": 40,
+      "model": "히스클리프",
+      "content": "Huh... Membelakangi seseorang yang baru saja menyerangnya dengan niat membunuh... Itu..."
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Ya. Dia percaya diri."
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Percaya diri karena unggul jumlah, bahkan jika kita menyerang. Percaya diri karena tahu kita akan kehilangan lebih banyak dengan menyerangnya daripada mengikuti kemauannya."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Dengan apa yang baru saja terjadi... dia telah memperjelas bahwa setidaknya selama kita berada di sini, dia memegang kendali mutlak atas situasi."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "Berbicara dengannya? Dengan damai...? Omong kosong..."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Lagipula, kita juga tidak punya jalan keluar dari sini...>"
+    },
+    {
+      "id": 47,
+      "content": "Pandangan Ishmael mengikuti Queequeg, yang berjalan tanpa berkata-kata di belakang Kapten."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "content": "Haah."
+    },
+    {
+      "id": 49,
+      "model": "이스마엘",
+      "content": "... Ayo pergi."
+    },
+    {
+      "id": 50,
+      "model": "이스마엘",
+      "content": "Mari dengarkan apa yang ingin dikatakan bajingan itu."
+    },
+    {
+      "id": 51,
+      "model": "이스마엘",
+      "content": "Bagaimanapun juga, tidak ada tempat untuk melarikan diri."
+    },
+    {
+      "id": 52,
+      "model": "이스마엘",
+      "content": "Baik untuknya maupun untuk kita."
+    },
+    {
+      "id": 53,
+      "model": "퀴케그",
+      "content": "……."
+    }
+  ]
+}
