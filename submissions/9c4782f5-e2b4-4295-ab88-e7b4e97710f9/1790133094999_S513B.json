@@ -1,0 +1,342 @@
+{
+  "dataList": [
+    {
+      "model": "이스마엘",
+      "content": "Yang ini... Pasti kontainer pengiriman ini. Dan di dalamnya seharusnya ada Kapten Tim LCCB..."
+    },
+    {
+      "id": 0,
+      "place": "Twinhook Pirates' Hideout",
+      "model": "파일럿",
+      "teller": "???",
+      "title": "???",
+      "content": "Pshaw...! Aku... aku benar-benar mengira aku bakalan mati. Hiks, hiks..."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "……"
+    },
+    {
+      "id": 2,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Namaku Pilot. Asisten Manajer Unit 3 <ruby=Observasi Awal>Preliminary Observation</ruby> LCCB."
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Tunggu, kau bukan Pemimpin Tim? Tapi para bajak laut berkata mereka menangkap Pemimpin Tim LCCB...?"
+    },
+    {
+      "id": 4,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Hei... aku sedang berdiri di sini... Kenapa kalian tampak begitu kecewa...?"
+    },
+    {
+      "id": 5,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Bagaimanapun— terima kasih sudah menyelamatkan nyawaku! Aku mendengar banyak cerita tentang kalian. LCB, benar?"
+    },
+    {
+      "id": 6,
+      "model": "단테2",
+      "content": "<Aku penasaran cerita seperti apa...>"
+    },
+    {
+      "id": 7,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Senang berkenalan dengan kalian, Tuan dan Nyonya! Aku telah menjadi penggemar berat kalian sejak pertama kali bergabung dengan perusahaan!"
+    },
+    {
+      "id": 8,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "... Uh, kenapa kalian menatapku seperti itu...?"
+    },
+    {
+      "id": 9,
+      "model": "그레고르",
+      "content": "Singkat cerita, banyak masalah yang terjadi dengan orang lain yang mengaku sebagai penggemar. Jadi... ya. Kau harus memakluminya."
+    },
+    {
+      "id": 10,
+      "model": "이상",
+      "content": "Khm, ahm..."
+    },
+    {
+      "id": 11,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Oh, dan aku juga punya pesan untuk kalian."
+    },
+    {
+      "id": 12,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Ahem, ahem..."
+    },
+    {
+      "id": 13,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "\"Hai. Aku yakin kalian sedang berlarian dengan kacau di suatu tempat di U Corp. seperti ayam tanpa kepala dan mengacaukan semuanya.\""
+    },
+    {
+      "id": 14,
+      "model": "료슈",
+      "content": "... Saatnya <ruby=Obliteration Of Forehead>O.O.F.</ruby>."
+    },
+    {
+      "id": 15,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "T-tunggu! Aku hanya menyampaikan pesan itu persis seperti yang dia katakan, termasuk intonasinya!"
+    },
+    {
+      "id": 16,
+      "model": "로쟈",
+      "content": "Hati-hati~ Bukankah lebih baik kalau dimulai dengan \"dan saya kutip\"~? Dan juga beri tahu kami siapa sih ‘dia’ itu."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "Singkatan dan penghapusan adalah dua hal yang berbeda. Kali ini akan kumaafkan, anak baru. Hanya kali ini."
+    },
+    {
+      "id": 18,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Siapa 'dia'? Tentu saja! Dia tidak lain adalah..."
+    },
+    {
+      "id": 19,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Manajer Nona Saude sendiri!"
+    },
+    {
+      "id": 20,
+      "model": "단테2",
+      "content": "<...!>"
+    },
+    {
+      "id": 21,
+      "model": "이스마엘",
+      "content": "Saude... masih hidup?"
+    },
+    {
+      "id": 22,
+      "model": "그레고르",
+      "content": "M-manajer...? Dia mendapat promosi?"
+    },
+    {
+      "id": 23,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Dia masih dalam pemulihan, tapi <ruby=LCCA>After Team</ruby> tiba tepat waktu dan merawat lukanya, menyelamatkan nyawanya."
+    },
+    {
+      "id": 24,
+      "model": "오티스",
+      "content": "... Aku merasa senang karena itu bukan promosi <ruby=anumerta>setelah wafat</ruby>."
+    },
+    {
+      "id": 25,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Manajer Saude juga ingin bertemu kalian semua, tapi tidak bisa karena sedang menjalankan misi lain."
+    },
+    {
+      "id": 26,
+      "model": "단테2",
+      "content": "<Syukurlah dia baik-baik saja...>"
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "Apa Saude... baik-baik saja?"
+    },
+    {
+      "id": 28,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Tentu! Pemulihannya memang tidak mudah, tapi sekarang dia cukup sehat untuk makan dan berbicara panjang lebar."
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "content": "Itu bagus, tapi aku bertanya karena..."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Dia kehilangan rekannya. Tepat di depan matanya."
+    },
+    {
+      "id": 31,
+      "model": "싱클레어",
+      "content": "......"
+    },
+    {
+      "id": 32,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Oh..."
+    },
+    {
+      "id": 33,
+      "content": "Pilot mengeluarkan selembar kertas tua yang terlipat dan mulai membacanya."
+    },
+    {
+      "id": 34,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "'Ini adalah pengingat bagi seluruh karyawan LCCB. Kami, Before Team, diberi tugas utama untuk membuka jalan sebelum orang lain melakukannya. Setiap langkah penuh dengan darah, setiap pengorbanan yang diberikan akan menjadi batu loncatan bagi rekan-rekan Limbus Company untuk melangkah menuju masa depan.'"
+    },
+    {
+      "id": 35,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Barusan itu adalah kalimat pertama dari panduan pelatihan karyawan baru yang kami terima."
+    },
+    {
+      "id": 36,
+      "model": "파일럿",
+      "teller": "Pilot",
+      "title": "LCCB P-Obs. Unit 3",
+      "content": "Dan aku bangga akan hal itu! Aku bangga dengan pengorbanan yang kami lakukan. Namun, sebagian besar rekan kerjaku di LCCB hanya ingin mencari uang dengan cepat sebelum resign dan bilang kalau aku adalah orang yang aneh."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Kau... bangga dengan pengorbanan?"
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Kau pasti bercanda?"
+    },
+    {
+      "id": 39,
+      "model": "로쟈",
+      "content": "Tenanglah, Ishy~ Apaaa? Kau ingin es krim rasa Paus Sardine? Nggak mungkin, sama kayak aku dong! Yuk, kita pergi beli bareng aja~?"
+    },
+    {
+      "id": 40,
+      "model": "이스마엘",
+      "content": "Hei, lepaskan aku. Lepaskan aku— Aduh, kamu kok bisa sekuat ini—"
+    },
+    {
+      "id": 41,
+      "content": "Rodya mencengkeram lengan Ishmael dan mulai menyeretnya ke luar."
+    },
+    {
+      "id": 42,
+      "model": "단테2",
+      "content": "<Yah... sekadar berjaga-jaga jika dia terlibat perkelahian lagi...>"
+    },
+    {
+      "id": 43,
+      "model": "파우스트",
+      "content": "......"
+    },
+    {
+      "id": 44,
+      "content": "Aku memutuskan untuk mengikuti mereka dari kejauhan secara diam-diam."
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Ishy, kamu harus berhenti membuat suasana jadi suram begitu~ Kita baru saja berhasil menyelamatkan nyawanya, benar kan?"
+    },
+    {
+      "id": 46,
+      "model": "로쟈",
+      "content": "Aku mengerti kalau situasinya lagi sulit sekarang, tapi coba bersabar sedikit lagi, oke~?"
+    },
+    {
+      "id": 47,
+      "model": "이스마엘",
+      "content": "Rodion, yang di belakang sana... itu cuma indoktrinasi. <ruby=brainwashed>Otak mereka sedang dicuci</ruby>."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "content": "Tidak ada yang mau mengakui bahwa mereka hanya melemparkan diri ke dalam penggiling daging. Jadi, mereka membungkusnya dengan rapi atas nama pengorbanan diri..."
+    },
+    {
+      "id": 49,
+      "model": "로쟈",
+      "content": "Aku tahu."
+    },
+    {
+      "id": 50,
+      "model": "이스마엘",
+      "content": "Lalu kenapa..."
+    },
+    {
+      "id": 51,
+      "model": "로쟈",
+      "content": "Setiap orang harus punya cara untuk menghadapi kenyataan dan terus menjalani hidup dengan cara apa pun. Ada orang yang hidup dari gaji ke gaji. Terkadang... mereka memang tidak punya pilihan lain."
+    },
+    {
+      "id": 52,
+      "model": "이스마엘",
+      "content": "......"
+    },
+    {
+      "id": 53,
+      "model": "로쟈",
+      "content": "Ayo kita dengarkan dulu teman kita yang terlalu bersemangat itu, bagaimana menurutmu?"
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "... Jangan bicara kepadaku dengan nada seperti sedang memanjakan bayi."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "content": "Kita tidak sedekat itu, Rodion."
+    },
+    {
+      "id": 56,
+      "model": "이스마엘",
+      "content": "Tapi aku akan mendengarkanmu, untuk kali ini saja."
+    },
+    {
+      "id": 57,
+      "model": "로쟈",
+      "content": "... Oke, oke~"
+    },
+    {
+      "id": 58,
+      "content": "Rodya sepertinya sadar kalau aku telah mengikuti mereka sejak tadi. Dia memberi isyarat padaku dengan kedipan mata..."
+    },
+    {
+      "id": 59,
+      "content": "... Dan aku berhasil kembali ke tempat di mana para Sinners lainnya berada sebelum mereka berdua tiba di sana."
+    }
+  ]
+}
