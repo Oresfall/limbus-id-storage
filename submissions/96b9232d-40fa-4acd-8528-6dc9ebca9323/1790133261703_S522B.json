@@ -1,0 +1,170 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kapal Pesiar",
+      "model": "단테2",
+      "content": "<Di sini cukup gelap...>"
+    },
+    {
+      "id": 1,
+      "content": "Lorong menuju ruang penyimpanan jauh lebih sempit daripada dek pesta."
+    },
+    {
+      "id": 2,
+      "content": "Aku hanya dibimbing oleh cahaya samar yang sesekali berkedip saat melewati lorong gelap ini. Aku memutuskan untuk melangkah dengan hati-hati."
+    },
+    {
+      "id": 3,
+      "model": "단테2",
+      "content": "<Serius, tempat ini jauh lebih menyeramkan dari apa pun itu yang diceritakan oleh Hong Lu...>"
+    },
+    {
+      "id": 4,
+      "model": "단테2",
+      "content": "<Sinclair...?>"
+    },
+    {
+      "id": 5,
+      "model": "단테2",
+      "content": "<Kau di sana?>"
+    },
+    {
+      "id": 6,
+      "content": "Aku tidak tahu dari mana tetesan air ini jatuh, tapi suara itu benar-benar menggangguku."
+    },
+    {
+      "id": 7,
+      "content": "Aku tidak melihat apa pun di sini. Lagipula, dalam kegelapan seperti ini aku tidak akan bisa melihatnya meski ada sesuatu..."
+    },
+    {
+      "id": 8,
+      "content": "Yang kulihat hanya seberkas cahaya yang sangat samar, dan..."
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "……."
+    },
+    {
+      "id": 10,
+      "model": "단테2",
+      "content": "<Sinclair?>"
+    },
+    {
+      "id": 11,
+      "content": "... dan Sinclair. Sepertinya dia sudah berdiri di sini cukup lama. Tepatnya berapa lama... aku tidak begitu yakin."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "... Uh."
+    },
+    {
+      "id": 13,
+      "content": "Sinclair berdiri di sana, diam seperti orang mati. Dia mendongak."
+    },
+    {
+      "id": 14,
+      "model": "단테2",
+      "content": "<... Apa yang kau lihat?>"
+    },
+    {
+      "id": 15,
+      "content": "Sekarang setelah berada di sini... aku menyadari ada sesuatu yang aneh dari seberkas cahaya itu."
+    },
+    {
+      "id": 16,
+      "content": "Awalnya kukira cahaya yang kulihat berasal dari lampu atau semacamnya, tapi... bukan. Cahaya itu begitu saja berada di sana, mengelilingi area tempat Sinclair berdiri."
+    },
+    {
+      "id": 17,
+      "content": "Tidak ada sumber cahaya."
+    },
+    {
+      "id": 18,
+      "content": "Jadi mungkin cahaya itu masuk dari luar...?"
+    },
+    {
+      "id": 19,
+      "content": "Tidak, itu juga tidak masuk akal. Kami berada jauh di dalam ruang penyimpanan kapal, kotak logam besar tanpa celah untuk masuknya seberkas cahaya alami sekalipun."
+    },
+    {
+      "id": 20,
+      "content": "Lagi pula, sekarang malam. Ini semakin aneh setiap detiknya. Dari mana cahaya ini berasal...?"
+    },
+    {
+      "id": 21,
+      "model": "단테2",
+      "content": "<…!>"
+    },
+    {
+      "id": 22,
+      "model": "단테2",
+      "content": "<Sinclair, kita harus keluar dari sini!>"
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "……."
+    },
+    {
+      "id": 24,
+      "model": "단테2",
+      "content": "<Lari, SEKARANG!>"
+    },
+    {
+      "id": 25,
+      "model": "단테2",
+      "content": "<Ayo!>"
+    },
+    {
+      "id": 26,
+      "content": "Ketakutan terhadap hal yang tidak diketahui semakin kuat. Apa yang kulihat menentang semua akal sehat yang kukumpulkan selama perjalanan, dan aku harus mengeluarkan Sinclair dari sana—kuraih dan kutarik pergelangan tangannya yang lemas."
+    },
+    {
+      "id": 27,
+      "model": "단테2",
+      "content": "<Ayo, bangun!!!>"
+    },
+    {
+      "id": 28,
+      "content": "Sepertinya itu berhasil. Sinclair tiba-tiba tersadar dan mulai berteriak. Dia berlari keluar ruangan."
+    },
+    {
+      "id": 29,
+      "model": "싱클레어",
+      "content": "AAAAAAAAAAAAAAAAAAA!!!"
+    },
+    {
+      "id": 30,
+      "model": "히스클리프",
+      "content": "Hah?! Anak itu sudah gila! Apa-apaan sih—"
+    },
+    {
+      "id": 31,
+      "model": "싱클레어",
+      "content": "ADAORANGMELAYANGDIUDARAADAORANGDIUDARAMELAYANGSESEORANGADADIATASSANATERGANTUNGDIUDARA!!!"
+    },
+    {
+      "id": 32,
+      "model": "로쟈",
+      "content": "... Oke, sekarang aku benar-benar merinding."
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "Itu tidak mungkin... manusia."
+    },
+    {
+      "id": 34,
+      "model": "로쟈",
+      "content": "Kalau begitu, itu adalah..."
+    },
+    {
+      "id": 35,
+      "model": "이스마엘",
+      "content": "Apa, kau pikir kita punya waktu untuk ceramah? Bersiap untuk bertempur."
+    }
+  ]
+}
