@@ -1,0 +1,154 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kapal Bajak Laut Twinhook",
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Dasar bajingan licik, kami tadinya akan menaiki kapal kalian lebih dulu...!"
+    },
+    {
+      "id": 1,
+      "model": "로쟈",
+      "content": "Kami harus segera pergi, ada tugas yang harus diselesaikan~ Oke~?"
+    },
+    {
+      "id": 2,
+      "model": "히스클리프",
+      "content": "Sekarang, jawab pertanyaanku. Berbohong atau terus membual omong kosong, maka akan kucabik bibir kalian."
+    },
+    {
+      "id": 3,
+      "model": "히스클리프",
+      "content": "Bicara. Siapa yang mengirim kalian untuk mengejar kami?"
+    },
+    {
+      "id": 4,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Kami tidak bisa membiarkan orang yang berani menyentuh wakil kapten kami pergi dalam keadaan utuh."
+    },
+    {
+      "id": 5,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Napasmu saja sudah menjadi aib Sindikat kami! Atas perintah Kapten Hook, kalian tidak akan keluar dari sini hidup-hidup!"
+    },
+    {
+      "id": 6,
+      "model": "히스클리프",
+      "content": "Heh, sungguh mengharukan. Aku suka melihat rasa solidaritas yang kuat."
+    },
+    {
+      "id": 7,
+      "model": "히스클리프",
+      "content": "... Jadi, apa yang tadi kukatakan soal membual omong kosong?"
+    },
+    {
+      "id": 8,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Khaha! Kalian pikir ancaman kalian bisa membuat kami gentar? Kami bukan anak kemarin sore, dasar bodoh!"
+    },
+    {
+      "id": 9,
+      "model": "로쟈",
+      "content": "Mereka benar-benar merepotkan... Kita telah mengampuni nyawa wakil kapten mereka, dan ini yang kita dapat sebagai balasannya?"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Menurutmu, apakah ini yang dimaksud oleh Smee? Bahwa kita akan menyesal jika..."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Tidak."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "Rengekan kekanak-kanakan kalian... Itu bukan rasa malu."
+    },
+    {
+      "id": 13,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Huh?"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Saat semua rekan kalian terbaring mati, dilahap, dimanipulasi, dan digiring ke penggiling daging oleh kegilaan seorang wanita gila... saat kalian tertinggal di kehampaan tanpa akhir yang hanya diisi suara detak jantung kalian..."
+    },
+    {
+      "id": 15,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "T-tunggu..."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "Dan saat kalian menyadari bahwa... jantung kalian terus berdetak karena masih berpegang erat pada kehidupan dengan putus asa dan menyedihkan, meski semua itu telah terjadi..."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Saat itulah... kalian akan merasakan rasa malu yang sebenarnya."
+    },
+    {
+      "id": 18,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Tunggu, tunggu. Melihat kondisi kapal kalian yang menyedihkan, aku bisa menebak kalian tidak tahu apa yang kalian lakukan di sini..."
+    },
+    {
+      "id": 19,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Ampuni aku dan akan kuberi tahu apa yang ingin kalian ketahui. Bahkan akan kusampaikan hal baik tentang kalian kepada bos."
+    },
+    {
+      "id": 20,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Kalian tidak akan rugi apa-apa, kawan? Kalian tidak akan punya siapa pun untuk menyampaikan... hal baik!... jika membunuhku."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘",
+      "content": "......"
+    },
+    {
+      "id": 22,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Bajak Laut yang Panik",
+      "title": "Bajak Laut Twinhook",
+      "content": "Haha...! Apa kau sudah mengerti? Ampuni aku, dan mungkin kalian bisa berlayar keluar dari Danau ini dengan—"
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "... Hah. Aku lelah mendengarkan omong kosong ini."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Dia yang terakhir, bukan? Ayo segera kembali ke kapal kita."
+    },
+    {
+      "id": 25,
+      "content": "Kapal itu sunyi senyap seperti kematian. Layarnya berkibar-kibar menari dengan sedih diterpa angin."
+    }
+  ]
+}
