@@ -1,0 +1,294 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kapal Pengebor Lobotomy Corp. yang Terbengkalai",
+      "model": "단테2",
+      "content": "<Tidak ada Golden Bough, tidak ada penyintas...>"
+    },
+    {
+      "id": 1,
+      "model": "료슈",
+      "content": "<ruby=All That For Nothing>A.T.F.N</ruby>"
+    },
+    {
+      "id": 2,
+      "model": "료슈",
+      "content": "Tidak. Ini kesempatan bagus untuk mengamati seni dari sudut pandang berbeda. Kurasa semua itu tidak sia-sia. Heh."
+    },
+    {
+      "id": 3,
+      "model": "로쟈",
+      "content": "Yah~ Kita bakal baik-baik saja. Kekalahan besar kayak gini biasanya selalu diikuti dengan kemenangan besar~"
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Kita harus menyisir bagian tengah Great Lake untuk menemukan Golden Bough itu... Hmm. Mungkin aku seharusnya belajar berenang..."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Jika kita percaya pada Rim, Golden Bough itu... berada di dalam <ruby=Pallid Whale>Paus Pucat</ruby>."
+    },
+    {
+      "id": 6,
+      "model": "돈키호테",
+      "content": "Apa kita benar-benar akan melakukan perjalanan untuk mencari Paus Pucat..."
+    },
+    {
+      "id": 7,
+      "model": "돈키호테",
+      "content": "Paus sebesar kincir ang— maksudku, sebesar mansion? Tidak, sebesar kastil?"
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Apa... kita beneran bisa menangkap sesuatu semacam itu?"
+    },
+    {
+      "id": 9,
+      "model": "로쟈",
+      "content": "Bahkan jika kita berhasil mengejarnya, terus apa? Memintanya dengan sopan agar mau memuntahkan Bough ke telapak tangan kita?"
+    },
+    {
+      "id": 10,
+      "model": "로쟈",
+      "content": "Teman-teman, sebaiknya kita kembali aja gak sih..."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Kembali?"
+    },
+    {
+      "id": 12,
+      "model": "로쟈",
+      "content": "Oh, m-maksudku~"
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Lalu apa? Apa yang akan kau lakukan setelah kita 'kembali'? Menyerahkan Golden Bough begitu saja?"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Berpura-pura tidak terjadi apa-apa lalu melanjutkan ke misi berikutnya?"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "Aku tidak tahu bagaimana atau kapan membuang Golden Bough begitu saja menjadi hal yang dapat diterima dalam kelompok ini, tapi..."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "... bukan aku. Aku tidak akan kembali. Aku sudah terlalu banyak menderita untuk kembali sekarang..."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "content": "Hanya ada SATU hal yang membuatku terus bertahan di perusahaan menyebalkan ini. Satu hal."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "Dan kau tahu apa itu, Faust."
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Seperti yang dikatakan Ishmael. Menghentikan pencarian Golden Bough dalam situasi seperti ini tidak diperbolehkan. Keberhasilan masih dapat diraih."
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Namun... kita tidak dapat bergerak untuk saat ini."
+    },
+    {
+      "id": 23,
+      "model": "파우스트",
+      "content": "Sebaiknya kita bertemu Vergilius sebelum membahas tindakan selanjutnya."
+    },
+    {
+      "id": 24,
+      "model": "히스클리프",
+      "content": "Hah, begitu. Hukum Great Lake yang bodoh itu lagi, ya?"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Benar. Kita masih memiliki sisa waktu dua jam."
+    },
+    {
+      "id": 26,
+      "model": "홍루",
+      "content": "Wah! Kerja bagus, Heathcliff! Kau pintar sekali."
+    },
+    {
+      "id": 27,
+      "model": "히스클리프",
+      "content": "Dasar kau..."
+    },
+    {
+      "id": 28,
+      "teller": "Sinners",
+      "title": "Sinners",
+      "content": "Wah!"
+    },
+    {
+      "id": 29,
+      "content": "Sebuah guncangan tiba-tiba mengejutkan semua orang."
+    },
+    {
+      "id": 30,
+      "model": "단테2",
+      "content": "<Sebaiknya kita keluar dari sini dulu!>"
+    },
+    {
+      "id": 31,
+      "place": "Pintu Masuk Kapal Pengebor Lobotomy Corp.",
+      "model": "돈키호테",
+      "content": "K-kegilaan macam apa ini?!"
+    },
+    {
+      "id": 32,
+      "model": "뫼르소",
+      "content": "Aku melihat banyak kapal di cakrawala, di balik dinding kabut. Tak satu pun siluetnya menyerupai Mephistopheles."
+    },
+    {
+      "id": 33,
+      "model": "그레고르",
+      "content": "A-apa... Mungkin mereka salah tembak?"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "T-tunggu! Lihat sekeliling!"
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "Permukaan air... sebentar lagi akan setinggi pinggang kita!"
+    },
+    {
+      "id": 36,
+      "content": "Seperti kata Heathcliff. Saat pertama tiba di cabang ini, permukaan air berada jauh di bawah... Tapi sekarang airnya naik hingga ombak menjilat platform tempat kami berdiri."
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "Saat ini sedang pasang. Tampaknya ketinggian air danau ini naik dan turun tergantung pada waktunya."
+    },
+    {
+      "id": 38,
+      "model": "뫼르소",
+      "content": "Mereka meluncurkan sesuatu ke arah kita."
+    },
+    {
+      "id": 39,
+      "model": "오티스",
+      "content": "Bersiap menghadapi benturan! Datang satu lagi!"
+    },
+    {
+      "id": 40,
+      "model": "그레고르",
+      "content": "Jadi... bukan salah tembak..."
+    },
+    {
+      "id": 41,
+      "content": "Banyak harpun tiba-tiba menancap di tanah tempat kami berdiri."
+    },
+    {
+      "id": 42,
+      "content": "Kami dihujani tembakan harpun—dilemparkan tanpa peduli apakah mengenai seseorang atau tidak."
+    },
+    {
+      "id": 43,
+      "model": "료슈",
+      "content": "Agh..."
+    },
+    {
+      "id": 44,
+      "content": "Ryōshū menangkis beberapa harpun dengan sisi belakang pedangnya, tapi jumlahnya terlalu banyak."
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "Bajak Laut Twinhook itu lagi, ya... Harus kuakui, kegigihan mereka patut dihormati."
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "content": "Sampah-sampah itu ada di sini karena belas kasihanmu yang keras kepala, Dante."
+    },
+    {
+      "id": 47,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 48,
+      "model": "돈키호테",
+      "content": "Jangan berkata begitu... Keputusan Tuan Manajer hari itu sangat mulia. Sungguh bukan keputusan yang mudah..."
+    },
+    {
+      "id": 49,
+      "model": "히스클리프",
+      "content": "Tunggu! Gunakan kepala kalian kali ini saja."
+    },
+    {
+      "id": 50,
+      "model": "히스클리프",
+      "content": "Mereka terikat pada Danau itu, sama seperti kita terikat pada Danau ini."
+    },
+    {
+      "id": 51,
+      "model": "히스클리프",
+      "content": "Biarkan mereka menembaki kita dengan harpun sesuka hati, bukan berarti mereka bisa menarik kapal mereka kemari. Jadi, sementara itu... apa ya..."
+    },
+    {
+      "id": 52,
+      "model": "이스마엘",
+      "content": "Tidak."
+    },
+    {
+      "id": 53,
+      "model": "이스마엘",
+      "content": "Itu... bukan kegunaan harpun bagi para Bajak Laut."
+    },
+    {
+      "id": 54,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 55,
+      "model": "단테2",
+      "content": "<Jadi begitulah caranya...>"
+    },
+    {
+      "id": 56,
+      "teller": "Jolly Pirate",
+      "title": "Twinhook Pirates",
+      "content": "Ha ha, sekarang kalian tahu mengapa kami disebut Twinhook!"
+    },
+    {
+      "id": 57,
+      "teller": "Jolly Pirate",
+      "title": "Twinhook Pirates",
+      "content": "Kalian siap, anak-anak? Siapa yang mau menaiki harpun?!"
+    }
+  ]
+}
