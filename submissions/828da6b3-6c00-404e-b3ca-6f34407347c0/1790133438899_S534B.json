@@ -1,0 +1,610 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kabin Mephistopheles",
+      "model": "베르길리우스",
+      "content": "Aku tidak menyangka kau akan begini, Faust."
+    },
+    {
+      "id": 1,
+      "model": "베르길리우스",
+      "content": "Dari semua Sinners, kaulah yang berhasil membawa ‘orang penting’ ke tempat sederhana kita."
+    },
+    {
+      "id": 2,
+      "model": "히스클리프",
+      "content": "Tsk, kau tahu berapa kali bajingan itu membunuh kita? Setidaknya kau bisa—"
+    },
+    {
+      "id": 3,
+      "model": "베르길리우스",
+      "content": "Ya... itu mengingatkanku. Aku harus membuka kembali jam konsultasi pribadi untuk seorang kleptomania tertentu di antara kita."
+    },
+    {
+      "id": 4,
+      "model": "히스클리프",
+      "content": "…….."
+    },
+    {
+      "id": 5,
+      "content": "Ketidaksenangan Vergilius yang jelas atas keterlibatan orang luar tampaknya tidak mengganggu Faust."
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Aku menganggapnya penting untuk menyelesaikan misi ini."
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "Mengapa begitu?"
+    },
+    {
+      "id": 8,
+      "model": "쪽빛노인",
+      "teller": "???",
+      "title": "???",
+      "content": "Karena aku satu-satunya yang bisa memburu <ruby=Pallid Whale>Paus Pucat</ruby> itu."
+    },
+    {
+      "id": 9,
+      "model": "베르길리우스",
+      "content": "... Tentu saja."
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "<ruby=Color Fixer>The Indigo Elder</ruby>."
+    },
+    {
+      "id": 11,
+      "model": "돈키호테",
+      "content": "Indigo? Dia seorang Color?! Maksudmu saat ini aku berbagi tempat dengan bukan hanya SATU, tetapi DUA COLOR FIXER...?"
+    },
+    {
+      "id": 12,
+      "model": "베르길리우스",
+      "content": "Aku dengar kau mengembara di Great Lake hanya untuk memburu Paus."
+    },
+    {
+      "id": 13,
+      "model": "베르길리우스",
+      "content": "Dan terakhir kali kudengar, kau memburu salah satu dari <ruby=Five Calamities>lima Bencana</ruby>, Paus Marlin Penusuk Segalanya."
+    },
+    {
+      "id": 14,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "... Hrm."
+    },
+    {
+      "id": 15,
+      "content": "Orang tua itu mendengus. Itu bukan pengakuan maupun penyangkalan, tapi memang begitulah dirinya. Semua orang memahaminya."
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Semua bukti tidak langsung menunjukkan bahwa Golden Bough telah dilahap oleh Paus yang terdampar di Great Lake."
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Ya, Paus Pucat dari Lima Bencana yang sama, yang biasanya terlihat di Outskirts."
+    },
+    {
+      "id": 18,
+      "model": "베르길리우스",
+      "content": "... Hmm. Tentu saja. Begitulah biasanya hal-hal ini berjalan."
+    },
+    {
+      "id": 19,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Kita sudah membuang-buang banyak waktu, akan kukatakan terus terang. Aku ingin memburu Paus Pucat."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "Ya. Dan waktu adalah satu-satunya yang kita miliki."
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Selain itu, kita tahu ke arah mana Paus itu pergi."
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Dan aku yakin kau telah menghabiskan banyak waktu mengamati dan mempelajari Paus itu untuk memburunya."
+    },
+    {
+      "id": 23,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Aku punya rencana."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Dan aku akan melakukan apa pun agar berhasil. Bahkan jika kalian hanya menginginkanku sebagai umpan."
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "content": "Dan begini cara kita akan melakukannya."
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "… …… … ……."
+    },
+    {
+      "id": 28,
+      "content": "Semua orang terdiam setelah Ishmael selesai menjelaskan rencananya."
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "... Kau gila. Semua guncangan itu akhirnya membuatmu benar-benar kehilangan akal."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Aku pergi ke sana demi misiku. Dan kebetulan Golden Bough berada di arah yang sama."
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "Aku serahkan kepadamu. Atau kepada manajer, karena keputusannya paling penting."
+    },
+    {
+      "id": 32,
+      "model": "이스마엘",
+      "content": "Perusahaan ini dan aku... kami hanya berusaha menemukan cara mencapai tujuan masing-masing. Hanya itu."
+    },
+    {
+      "id": 33,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "Lagipula, apa ada yang punya ide lebih baik?"
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "Tidak. Aku tidak bisa menyetujui itu. Kita sudah membuat kesalahan hanya dengan mempertimbangkan ide gila itu."
+    },
+    {
+      "id": 36,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "……"
+    },
+    {
+      "id": 37,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku harus menanyakan satu hal terakhir."
+    },
+    {
+      "id": 38,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Maukah kau bergabung memancing bersama kami, <ruby=Red Gaze>Merah</ruby>?"
+    },
+    {
+      "id": 39,
+      "content": "Indigo Elder tiba-tiba memecah keheningan dengan sebuah pertanyaan."
+    },
+    {
+      "id": 40,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 41,
+      "model": "베르길리우스",
+      "content": "Aku tidak berpengalaman atau terampil dalam berburu makhluk laut, tapi..."
+    },
+    {
+      "id": 42,
+      "model": "베르길리우스",
+      "content": "... Aku memiliki urusan lain yang lebih penting sehingga tidak bisa ikut."
+    },
+    {
+      "id": 43,
+      "model": "베르길리우스",
+      "content": "Jadi, tidak. Kecuali ada hal buruk yang terjadi, aku tidak akan ikut."
+    },
+    {
+      "id": 44,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 45,
+      "content": "Orang tua itu bangkit dari tempat duduknya dan berjalan pergi seolah hendak meninggalkan tempat ini."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "Tunggu... Tunggu sebentar."
+    },
+    {
+      "id": 47,
+      "model": "오티스",
+      "content": "Kita tidak membutuhkan pemandu. Dengan rencana yang tepat, kita lebih dari mampu menyelesaikan misi ini."
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "Menyerah begitu cepat itu—"
+    },
+    {
+      "id": 49,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku tidak pernah mengatakan akan menyerah."
+    },
+    {
+      "id": 50,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Kapal berisik yang berteriak ini tidak cocok untuk memburu Paus Pucat."
+    },
+    {
+      "id": 51,
+      "model": "단테2",
+      "content": "<Berteriak? Aku tidak mengira Mephistopheles seberisik itu.>"
+    },
+    {
+      "id": 52,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Untuk memburunya, kapal harus tetap dekat dan tersembunyi. Kita membutuhkan kapal yang sempit dan kokoh."
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "... Hah? Jadi yang perlu kau dengar hanyalah Vergilius yang tidak akan ikut membantu? Kenapa?"
+    },
+    {
+      "id": 54,
+      "model": "로쟈",
+      "content": "Benar, kan? Kalau Vergie ikut, semuanya pasti bakal berjalan lebih lancar."
+    },
+    {
+      "id": 55,
+      "model": "파우스트",
+      "content": "Kami bisa menyiapkan kapal sesuai spesifikasimu jika kau memintanya."
+    },
+    {
+      "id": 56,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Tidak perlu. Aku akan berlayar dengan perahu kecilku sendiri."
+    },
+    {
+      "id": 57,
+      "model": "히스클리프",
+      "content": "Perahu tua itu? Paus itu bisa membelahnya hanya dengan kibasan ekor."
+    },
+    {
+      "id": 58,
+      "model": "오티스",
+      "content": "... Tidak. Perahu kecil itu... mungkin tampak biasa, tapi sangat kuat."
+    },
+    {
+      "id": 59,
+      "model": "이상",
+      "content": "Kulihat paduan logam X Corp. digunakan dalam pembuatannya. Bahan itu tidak mudah untuk didapatkan."
+    },
+    {
+      "id": 60,
+      "model": "돈키호테",
+      "content": "Ooh... jadi ini manfaat lain yang dianugerahi kepada Color?! Aku pernah mendengar kisah tentang—"
+    },
+    {
+      "id": 61,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Hrm..."
+    },
+    {
+      "id": 62,
+      "content": "Alih-alih meladeni rentetan pertanyaan itu..."
+    },
+    {
+      "id": 63,
+      "content": "... dia mendekatiku."
+    },
+    {
+      "id": 64,
+      "model": "단테2",
+      "content": "<...?>"
+    },
+    {
+      "id": 65,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku menyadarinya dalam perkelahian tadi. Jam itu tampaknya menjadi penyelamatmu dan kru-mu."
+    },
+    {
+      "id": 66,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku tidak tahu cara kerjanya, tapi kurasa itu semacam Singularity."
+    },
+    {
+      "id": 67,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Benda itu tidak akan bekerja melawan Paus."
+    },
+    {
+      "id": 68,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Jadi mulai sekarang. Biasakan dirimu dengan gagasan bahwa tidak semuanya dapat dihidupkan kembali."
+    },
+    {
+      "id": 69,
+      "model": "단테2",
+      "content": "<Kenapa...>"
+    },
+    {
+      "id": 70,
+      "model": "단테2",
+      "content": "<Kenapa kau menerima? Bahkan setelah Vergilius menolak untuk ikut?>"
+    },
+    {
+      "id": 71,
+      "content": "Itu pertanyaan yang tidak bisa kulepaskan."
+    },
+    {
+      "id": 72,
+      "model": "파우스트",
+      "content": "Dante bertanya mengapa kau menerima permintaan kami, bahkan setelah Vergilius menolak untuk terlibat."
+    },
+    {
+      "id": 73,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Kau menanyakan hal yang salah. Justru aku akan menolak permintaan kalian jika <ruby=Red Gaze>Merah</ruby> setuju untuk ikut."
+    },
+    {
+      "id": 74,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Anggaplah Merah bergabung. Kami akan bersama-sama melawan Paus dalam pertarungan panjang dan berat. Pada akhirnya Paus pasti tumbang—dan membawa salah satu dari kami bersamanya."
+    },
+    {
+      "id": 75,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Itulah sebabnya aku akan menolak jika Merah memilih bergabung."
+    },
+    {
+      "id": 76,
+      "model": "단테2",
+      "content": "<…?>"
+    },
+    {
+      "id": 77,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Karena perburuan itu tidak lagi menjadi milikku."
+    },
+    {
+      "id": 78,
+      "model": "돈키호테",
+      "content": "Apa maksudmu? Aku tidak memahami niatmu..."
+    },
+    {
+      "id": 79,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Maksudku, aku tidak akan bisa menguji batasan-batasan itu."
+    },
+    {
+      "id": 80,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 81,
+      "model": "이스마엘",
+      "content": "Batasan? Apa yang sebenarnya kau bicarakan?"
+    },
+    {
+      "id": 82,
+      "model": "이스마엘",
+      "content": "Dengar, untuk memburu Paus itu, kita harus mempersiapkan apa pun yang kita punya. Dan..."
+    },
+    {
+      "id": 83,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Karena ketakutan, manusia bahkan membuat perbatasan hingga mencapai Outskirts yang berada di luar batas City."
+    },
+    {
+      "id": 84,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Di baliknya ada bintang-bintang di luar batas pemahaman, bahkan di luar konsep ketakutan itu sendiri."
+    },
+    {
+      "id": 85,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku hanyalah nelayan yang ingin melintasi perbatasan dan menantang pemahaman itu sendiri."
+    },
+    {
+      "id": 86,
+      "model": "오티스",
+      "content": "... Apa yang kau maksud adalah sesuatu di luar Outskirts? Wilayah terluarnya?"
+    },
+    {
+      "id": 87,
+      "model": "이스마엘",
+      "content": "Paus itu... melahap segalanya. Dia hanya membawa bencana... Bagaimana mungkin kau..."
+    },
+    {
+      "id": 88,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Ah, jadi kau pernah menjadi mangsa, Pelaut."
+    },
+    {
+      "id": 89,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Danau tak terbatas di sini juga ikut melahap. Memanggil sejumlah bencana."
+    },
+    {
+      "id": 90,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Jika kau berada di persimpangan, jika hidupmu terasa tidak berarti di hadapan sesuatu yang ada di depanmu..."
+    },
+    {
+      "id": 91,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Ingat percakapan ini."
+    },
+    {
+      "id": 92,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 93,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku tidak pandai memberi nasihat. Tidak pernah."
+    },
+    {
+      "id": 94,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Tetap saja, kupikir aku akan menyampaikan beberapa kata..."
+    },
+    {
+      "id": 95,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "... sebagai sesama pelaut. Kurasa aku merasa sedikit memiliki ikatan."
+    },
+    {
+      "id": 96,
+      "content": "Sesuai arahan orang tua itu, kami menaiki perahu kecil yang disiapkan di Mephistopheles."
+    },
+    {
+      "id": 97,
+      "place": "Dek Mephistopheles",
+      "content": "Aku melihat Ishmael sesaat sebelum menaiki perahu kecil di Mephistopheles."
+    },
+    {
+      "id": 98,
+      "content": "Ini adalah rencana Ishmael, tapi... aku tidak tahu apa yang sebenarnya dia pikirkan."
+    },
+    {
+      "id": 99,
+      "content": "Aku memang punya firasat. Dan sejauh ini, aku mengikuti dugaan samar itu. Dugaan samar yang membawa bencana."
+    },
+    {
+      "id": 100,
+      "content": "Jadi aku harus bertanya langsung kepadanya."
+    },
+    {
+      "id": 101,
+      "model": "단테2",
+      "content": "<Ishmael. Apa yang sebenarnya kau inginkan?>"
+    },
+    {
+      "id": 102,
+      "model": "이스마엘",
+      "content": "Yang sebenarnya kuinginkan..."
+    },
+    {
+      "id": 103,
+      "model": "단테2",
+      "content": "<…!>"
+    },
+    {
+      "id": 104,
+      "content": "Aku melihat penglihatan lain tentang Ishmael."
+    },
+    {
+      "id": 105,
+      "content": "Dia menyembunyikannya dengan baik dari Sinners lain dan Vergilius. Tapi aku bisa melihat jelas apa yang sebenarnya dia inginkan. Hasrat sejatinya."
+    },
+    {
+      "id": 106,
+      "model": "단테2",
+      "content": "<Ishmael, kau...!>"
+    },
+    {
+      "id": 107,
+      "content": "Dia mengangkat tubuh dari dalam air."
+    },
+    {
+      "id": 108,
+      "content": "Tubuh yang tercabik-cabik. Tulang remuk, serpihan otot, daging... Ishmael gemetar penuh kegembiraan di hadapan sesuatu yang tampak seperti mayat Kapten yang dimutilasi."
+    },
+    {
+      "id": 109,
+      "model": "이스마엘",
+      "content": "Apa?"
+    },
+    {
+      "id": 110,
+      "model": "이스마엘",
+      "content": "Ayo, kita berangkat."
+    }
+  ]
+}
