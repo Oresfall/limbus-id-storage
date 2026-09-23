@@ -1,0 +1,169 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dek Mephistopheles",
+      "model": "그레고르",
+      "content": "Jadi, Ishmael... Cabang Lobotomy Corp. masih cukup jauh. Kenapa kau tidak beristirahat sebentar selagi bisa? Bagaimanapun juga, itu yang selalu kita lakukan."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "Atau setidaknya biarkan aku mengambil giliran berikutnya. Aku sudah cukup sering berjaga... nguap... malam."
+    },
+    {
+      "id": 2,
+      "content": "Kantuk Gregor mengkhianati kepercayaan dirinya. Ishmael tidak peduli—dia tidak akan beranjak dari posnya."
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "......"
+    },
+    {
+      "id": 4,
+      "content": "Ishmael tampak seperti sedang menunggu sesuatu terjadi. Atau mungkin dia sangat takut terhadap sesuatu..."
+    },
+    {
+      "id": 5,
+      "content": "Dia tidak meninggalkan teleskop yang terpasang pada Mephistopheles yang telah dimodifikasi (kemungkinan berkat Rain), bahkan sedetik pun."
+    },
+    {
+      "id": 6,
+      "model": "오티스",
+      "content": "Sikap yang bagus, pelaut. Sudah lama kupercaya bahwa lengah berarti mengecewakan rekan-rekanmu."
+    },
+    {
+      "id": 7,
+      "content": "Karena penasaran, aku menanyakan pendapat Outis, tapi dia hanya menjawab bahwa Vergilius sudah menangani masalah itu. Jika Manajer Eksekutif tidak mengambil tindakan, berarti tidak ada yang dapat dilakukan."
+    },
+    {
+      "id": 8,
+      "content": "Dia juga menjelaskan bahwa tidak akan ragu jika harus berkonfrontasi dengan Ishmael lagi, dia tidak akan melanjutkan pertikaian sia-sia yang hanya menurunkan moral tim."
+    },
+    {
+      "id": 9,
+      "model": "단테2",
+      "content": "<Kurasa itu sudah cukup...>"
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "Hmm... Tapi kita berada di tengah <ruby=Great Lake>Danau...</ruby>"
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Dan selama kita mematuhi, uh, hukum Great Lake, aku piki kita tidak akan—"
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "...!"
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Di sana, di depan..."
+    },
+    {
+      "id": 14,
+      "place": "Kabin Mephistopheles",
+      "content": "Ishmael tiba-tiba berdiri dan bergegas menuju kabin seolah melihat sesuatu melalui teleskop."
+    },
+    {
+      "id": 15,
+      "model": "그레고르",
+      "content": "—diserang oleh sesuatu. Salahku."
+    },
+    {
+      "id": 16,
+      "model": "카론",
+      "content": "Sudah waktunya untuk melakukan drift lagi, rambut merah?"
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Sudah terlambat untuk mengubah arah. Trik itu tidak akan bekerja kali ini."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "content": "Mereka bersusah payah menyembunyikan diri dalam kabut buatan... Jelas kita adalah target mereka."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스",
+      "content": "Tinggal masalah waktu sebelum mereka menyusul kapal ini, sekarang mereka sudah mengetahui posisi kita."
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "Hadapi mereka sesuka kalian."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘",
+      "content": "Manajer, izinkan kami menaiki kapal mereka."
+    },
+    {
+      "id": 22,
+      "model": "단테2",
+      "content": "<Kau yakin menaiki kapal mereka adalah tindakan terbaik jika kita ingin menyelamatkan kapal kita?>"
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "Menurut pengalamanku, ya."
+    },
+    {
+      "id": 24,
+      "model": "단테2",
+      "content": "<... Baiklah. Aku serahkan kepadamu.>"
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "... Kuharap kau terus membuat pilihan bijak seperti itu."
+    },
+    {
+      "id": 26,
+      "content": "Aku menghela napas lega karena untuk saat ini dia tampaknya mau bekerja sama denganku..."
+    },
+    {
+      "id": 27,
+      "content": "Setelah itu, aku mengambil beberapa langkah ke belakang para Sinners lainnya dan mengamatinya."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "Kita akan mengaitkan kapal mereka dengan tombak, lalu memaksa mereka masuk ke jarak pertarungan jarak dekat! Seseorang ambil roda kemudi dan putar sesuai aba-aba dariku!"
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "Hm. Kalau begitu seseorang harus bersiaga untuk mematikan mesin pada saat yang tepat."
+    },
+    {
+      "id": 30,
+      "model": "오티스",
+      "content": "Hei, kau! Bawa tali tambahan. Kau! Tunggu aba-abanya di ruang kemudi!"
+    },
+    {
+      "id": 31,
+      "content": "Penjelasan Ishmael begitu cepat dan penuh keyakinan. Outis mengangguk setuju. Sinners lainnya segera mengikuti instruksi mereka."
+    },
+    {
+      "id": 32,
+      "content": "Saat melihat Ishmael melempar harpun setajam silet ke arah kapal bajak laut... aku mulai merasa... ada sesuatu yang tidak beres."
+    },
+    {
+      "id": 33,
+      "content": "Di sanalah mereka, para Sinners... bekerja sama dengan sangat baik seperti mesin jam. Tapi di balik semua itu, mungkin yang penting bagi mereka hanyalah... tujuan masing-masing."
+    },
+    {
+      "id": 34,
+      "content": "Aku bertanya-tanya apakah semua waktu yang kuhabiskan untuk berpikir, berharap, dan merenungkan masa depan kita bersama... sia-sia.\n... Pikiran itu terus terngiang di kepalaku selama beberapa waktu."
+    }
+  ]
+}
