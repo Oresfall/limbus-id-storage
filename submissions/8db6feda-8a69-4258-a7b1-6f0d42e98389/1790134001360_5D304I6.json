@@ -1,0 +1,55 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Ishmael perlahan mendekati Ahab. Wajahnya diselimuti bayangan muram."
+    },
+    {
+      "id": 1,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Jadi akhirnya kau membunuh semua orang. Tak menyisakan satu pun dari mereka untuk hidup."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Ya. Dan kaulah yang terakhir."
+    },
+    {
+      "id": 3,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Hah..."
+    },
+    {
+      "id": 4,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "HA! HA! AHAHAHAHAHAHA!!!!"
+    },
+    {
+      "id": 5,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "YA! Kini kita telah menjadi satu dan sama, Ishmael."
+    },
+    {
+      "id": 6,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Jalan menuju tujuan kita kini sama-sama terlihat jelas. Pengorbanan apa pun, kematian sebanyak apa pun, dapat dibenarkan selama kita dapat menuntaskan misi kita!"
+    },
+    {
+      "id": 7,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Selama kita membunuh bajingan itu, tak ada lagi yang perlu kita harapkan dalam hidup ini!"
+    }
+  ]
+}
