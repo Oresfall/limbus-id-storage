@@ -1,0 +1,299 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "이스마엘",
+      "content": "Paus Pucat, dan... Ahab..."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Mereka memaksa masuk ke dalam celah hati kita."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Semua orang memiliki celah di dalam hati mereka. Celah itulah yang membuat kita ragu dan goyah."
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Kebingungan. Kesepian. Kecemasan terhadap hal yang tak diketahui. Ketakutan karena tahu bahwa orang-orang... hal-hal yang kau hargai... suatu hari akan meninggalkanmu."
+    },
+    {
+      "id": 4,
+      "model": "이스마엘",
+      "content": "Mereka mencekik erat celah rapuh yang tak terhitung dalam hati kita hingga hampir hancur."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Sebelum kusadari, celah di dalam hatiku... telah dipenuhi satu obsesi. Sedemikian rupa hingga napasku terasa sesak."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "\"Aku akan membunuh Kapten Ahab. Sumber segala kejahatan di dunia yang membawaku sampai ke titik ini.\""
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Obsesi itu telah membungkusku begitu erat, dalam begitu banyak lapisan yang tak tertembus, sehingga aku..."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "... Aku bahkan tidak lagi bisa mengenali waktu yang kuhabiskan bersama semua orang... dan pilihan-pilihan yang telah kubuat..."
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Dan tiba-tiba..."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Aku mulai tenggelam, bahkan ingatan tentang wujud diriku sendiri memudar menuju ketiadaan."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Aku tersesat di sini. Aku tak tahu harus pergi ke mana lagi."
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "……."
+    },
+    {
+      "id": 13,
+      "model": "히스클리프",
+      "content": "Apa-apaan yang kaulakukan di sana?"
+    },
+    {
+      "id": 14,
+      "model": "히스클리프",
+      "content": "Keluarlah."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Heath... cliff...?"
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "Kapan... kapan ini terjadi...? Sejak kapan... Aku-aku tidak menyadarinya..."
+    },
+    {
+      "id": 17,
+      "place": "Jantung Paus Pucat",
+      "model": "히스클리프",
+      "content": "Tidak. Aku sudah melihat raut yang sama di wajahmu sejak pertama kali kita bertemu."
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Kupikir kau akan mati karena kehabisan napas."
+    },
+    {
+      "id": 19,
+      "model": "다친이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 20,
+      "content": "Selaput pucat melahap Queequeg di depan mata Ishmael."
+    },
+    {
+      "id": 21,
+      "model": "다친이스마엘",
+      "content": "Maafkan aku, Queequeg... Aku... tidak dapat menyelamatkanmu..."
+    },
+    {
+      "id": 22,
+      "model": "퀴케그녹음",
+      "content": "Tidak. Aku yang terlambat."
+    },
+    {
+      "id": 23,
+      "model": "퀴케그녹음",
+      "content": "Terlambat untuk berpikir. Tentang apa yang benar dan salah. Untuk berpikir bagi diriku sendiri. Terlambat."
+    },
+    {
+      "id": 24,
+      "model": "다친이스마엘",
+      "content": "Aku, aku seharusnya lebih... Aku seharusnya..."
+    },
+    {
+      "id": 25,
+      "model": "퀴케그녹음",
+      "content": "Hei."
+    },
+    {
+      "id": 26,
+      "model": "퀴케그녹음",
+      "content": "Namamu. Katakan kepadaku. Sekali lagi."
+    },
+    {
+      "id": 27,
+      "place": "Pequod",
+      "model": "이스마엘과거",
+      "content": "Great Lake mungkin merupakan salah satu tempat terburuk di City... tapi mataharinya terbenam dengan sangat indah."
+    },
+    {
+      "id": 28,
+      "model": "퀴케그과거",
+      "content": "……."
+    },
+    {
+      "id": 29,
+      "model": "퀴케그과거",
+      "content": "Namamu. Siapa?"
+    },
+    {
+      "id": 30,
+      "model": "이스마엘과거",
+      "content": "Namaku? K-kenapa?"
+    },
+    {
+      "id": 31,
+      "model": "퀴케그과거",
+      "content": "Karena warna rambutmu. Aku menyukainya."
+    },
+    {
+      "id": 32,
+      "model": "퀴케그과거",
+      "content": "Paus. Saat mati, mereka menghadap matahari."
+    },
+    {
+      "id": 33,
+      "model": "퀴케그과거",
+      "content": "Dan warna rambutmu. Warnanya seperti matahari terbenam."
+    },
+    {
+      "id": 34,
+      "model": "퀴케그과거",
+      "content": "Jadi saat aku melempar harpun, Paus berubah menjadi dirimu."
+    },
+    {
+      "id": 35,
+      "model": "퀴케그과거",
+      "content": "Kita bisa menjadi teman baik."
+    },
+    {
+      "id": 36,
+      "model": "이스마엘과거",
+      "content": "Kalau begitu... panggil aku Ishmael."
+    },
+    {
+      "id": 37,
+      "place": "Jantung Paus Pucat",
+      "model": "다친이스마엘",
+      "content": "... Panggil aku... Ishmael..."
+    },
+    {
+      "id": 38,
+      "model": "퀴케그녹음",
+      "content": "……."
+    },
+    {
+      "id": 39,
+      "content": "Queequeg terurai hingga tak tersisa."
+    },
+    {
+      "id": 40,
+      "model": "다친이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 41,
+      "content": "Ishmael berjalan pincang menuju Ahab. Sang Kapten tergeletak di tanah dalam keadaan kalah."
+    },
+    {
+      "id": 42,
+      "content": "Di tangan Ishmael terdapat harpun yang telah diasah untuk momen ini."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 44,
+      "model": "다친이스마엘",
+      "content": "Kau menghalangi jalanku, Dante. Lagi."
+    },
+    {
+      "id": 45,
+      "model": "다친이스마엘",
+      "content": "Kenapa kau melakukan ini? Kenapa kau terus menghalangi jalanku? Kenapa kau bahkan memutar jam untukku? Apa yang sebenarnya kau dapatkan dari semua ini?"
+    },
+    {
+      "id": 46,
+      "model": "다친이스마엘",
+      "content": "Apa berpura-pura menjadi orang baik dapat membuatmu merasa lebih baik?"
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<Aku ingin tahu lebih banyak tentangmu.>"
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<Agar aku bisa... menemukan jalan untukmu yang tidak berputar-putar.>"
+    },
+    {
+      "id": 49,
+      "model": "다친이스마엘",
+      "content": "Apa kau... Apa kau sendiri tahu?"
+    },
+    {
+      "id": 50,
+      "model": "다친이스마엘",
+      "content": "Apa kau tahu ke mana kau pergi?"
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<Aku... terus mencari.>"
+    },
+    {
+      "id": 52,
+      "content": "Mungkin aku memanggil arus waktu untuk menggerakkan jarum jamku..."
+    },
+    {
+      "id": 53,
+      "content": "... untuk menemukan jalan bagi para Sinners yang mengembara tanpa akhir."
+    },
+    {
+      "id": 54,
+      "content": "Untuk semua orang yang tersesat."
+    },
+    {
+      "id": 55,
+      "content": "Agar aku tidak tersesat."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<Ishmael, kita semua adalah Kapten bagi hati kita sendiri.>"
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<Kita hanya kebetulan berlayar di jalan yang sama, dan terkadang kita membiarkan satu sama lain memegang kemudi...>"
+    },
+    {
+      "id": 58,
+      "model": "단테",
+      "content": "<Namun pada akhirnya, kau tetap harus menjadi Kapten kapalmu sendiri. Kaulah yang harus mengarahkan jalanmu sendiri...>"
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Jadi jangan berani melepaskan kemudimu sebelum pelayaran berakhir. Karena aku... aku juga tidak akan melakukannya.>"
+    }
+  ]
+}
