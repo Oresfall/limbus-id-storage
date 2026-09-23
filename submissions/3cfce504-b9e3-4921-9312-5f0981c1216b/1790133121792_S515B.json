@@ -1,0 +1,243 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Kami melewati tumpukan kontainer pengiriman dan kembali ke tempat kami pertama kali berlabuh..."
+    },
+    {
+      "id": 1,
+      "place": "Pelabuhan Marlin U Corp.",
+      "content": "Aku melihat Vergilius dan Charon duduk di bangku, mengawasi kami mendekat. Charon jelas merasa sangat bosan."
+    },
+    {
+      "id": 2,
+      "model": "카론",
+      "content": "Charon makan es krim. Dingin, tapi cepat menghilang."
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "content": "A-apakah es krim itu tidak berbau busuk seperti laut?"
+    },
+    {
+      "id": 4,
+      "model": "카론",
+      "content": "Busuk? Charon tidak mengerti."
+    },
+    {
+      "id": 5,
+      "model": "돈키호테",
+      "content": "Itu... rasa yang tidak jauh berbeda saat menjilat ikan..."
+    },
+    {
+      "id": 6,
+      "model": "카론",
+      "content": "Gadis pirang menjilat ikan? Selera yang aneh. Charon, merinding, merinding."
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "Sesuatu telah terjadi, terlihat dari wajah kalian semua."
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스",
+      "content": "Jelaskan."
+    },
+    {
+      "id": 9,
+      "model": "돈키호테",
+      "content": "Izinkan aku menjelaskan...! Saat kami tiba di lokasi yang dijanjikan—"
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "... Itu bukan urusanku. Aku hanya ingin tahu informasi apa yang kalian dapatkan. Dan singkat saja."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Kami tahu lokasi Golden Bough. Benda itu berada pada Cabang Lobotomy Corp. di tengah Great Lake."
+    },
+    {
+      "id": 12,
+      "model": "베르길리우스",
+      "content": "... Tentu saja berada di Cabang Lobotomy Corp. Apa kalian mempelajari hal lain?"
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Kami mendapatkan koordinat variabelnya."
+    },
+    {
+      "id": 14,
+      "model": "로쟈",
+      "content": "Aku tahu apa yang mau kau katakan... \"Hanya itu? Cuma itu yang kalian dapatkan?\" atau semacamnya... Tapi dengarkan dulu kesulitan yang kami lalui untuk..."
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "Tidak, itu sudah cukup. Hampir membuatku ingin bertepuk tangan untuk kalian."
+    },
+    {
+      "id": 16,
+      "model": "로쟈",
+      "content": "Astaga?"
+    },
+    {
+      "id": 17,
+      "model": "오티스",
+      "content": "Vergilius, ada sesuatu..."
+    },
+    {
+      "id": 18,
+      "model": "베르길리우스",
+      "content": "Ah, aku tahu persis apa yang ingin kau katakan."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스",
+      "content": "Aku akan menanganinya. Tidak perlu ikut campur."
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 21,
+      "model": "베르길리우스",
+      "content": "Kau tampak tidak sabar, Ishmael."
+    },
+    {
+      "id": 22,
+      "model": "베르길리우스",
+      "content": "Kulihat... 'konsultasi' kita sebelumnya tidak meredakan kecemasanmu."
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "Tentu saja tidak. Aku bahkan tidak tahu apa yang terjadi dengan misiku. Kita berjalan membabi buta melewati lautan berkabut..."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Namun di sinilah kita, selalu ikut campur dalam berbagai hal, di segala tempat. Ini membuatku frustrasi."
+    },
+    {
+      "id": 25,
+      "model": "베르길리우스",
+      "content": "Hah, santai. Kau pasti sudah tahu bahwa tidak ada jalur yang benar-benar lurus di Great Lake. Aku tidak menyangka orang yang telah menghabiskan sebagian besar hidupnya di sini bisa begitu tidak sabar."
+    },
+    {
+      "id": 26,
+      "model": "베르길리우스",
+      "content": "Bolehkah aku berasumsi bahwa kondisi bahu manajer yang berantakan... merupakan akibat dari ketidaksabaranmu?"
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "Itu..."
+    },
+    {
+      "id": 28,
+      "model": "베르길리우스",
+      "content": "Yah... Jelas itu kesalahan yang tidak disengaja. Jika tidak, kau tidak akan berada tepat di depanku dengan kondisi tenggorokan masih utuh."
+    },
+    {
+      "id": 29,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 30,
+      "model": "베르길리우스",
+      "content": "Mengapa kau gagal untuk melihat lebih jauh, Ishmael? Sekarang kau pasti sudah menyadari apa yang menantimu di akhir perjalanan ini."
+    },
+    {
+      "id": 31,
+      "model": "베르길리우스",
+      "content": "'Klausul kontrak' yang sangat tidak sabar ingin kau ketahui itu... pasti akan muncul selama kau mengikuti petualangan aneh sang manajer."
+    },
+    {
+      "id": 32,
+      "model": "베르길리우스",
+      "content": "Sikap agresifmu terhadap manajer hanya akan menunda hal yang tak terhindarkan itu."
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "Hal itu terjadi empat kali. Itu bukanlah sampel yang terlalu besar."
+    },
+    {
+      "id": 34,
+      "model": "베르길리우스",
+      "content": "Yah... Aku pandai membaca bagaimana hal-hal seperti ini biasanya berjalan."
+    },
+    {
+      "id": 35,
+      "model": "이스마엘",
+      "content": "...!"
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "content": "... Jika kau begitu yakin... baiklah. Aku tidak akan membiarkan frustrasi menguasaiku. Aku tidak akan melanggar batas... lebih dari yang diperlukan."
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "Ishmael, yang sudah terjadi... biarlah terjadi. Kau tetap harus mengisi formulir yang menjelaskan tindakanmu dan keadaan di sekitarnya."
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Dengan senang hati."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Asalkan panduannya benar."
+    },
+    {
+      "id": 40,
+      "model": "이상",
+      "content": "A-apakah kau membawa es krim untuk kami, mungkin..."
+    },
+    {
+      "id": 41,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 42,
+      "model": "이상",
+      "content": "Tidak apa-apa... Aku hanya penasaran dengan es krim terkenal di Pelabuhan Marlin... Aku akan segera naik busboat..."
+    },
+    {
+      "id": 43,
+      "model": "로쟈",
+      "content": "Aku menghargai usahamu, Yi Sang~"
+    },
+    {
+      "id": 44,
+      "model": "이상",
+      "content": "Ucapan terima kasihmu sudah lebih dari cukup..."
+    },
+    {
+      "id": 45,
+      "model": "단테2",
+      "content": "<Dia juga tidak akan menjawabku, tapi... Apa yang kalian berdua lakukan?>"
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "Dante mengajukan pertanyaan yang tidak bermakna."
+    },
+    {
+      "id": 47,
+      "model": "베르길리우스",
+      "content": "Jangan sampai mereka memengaruhimu, Dante. Apa aku benar-benar harus membawa satu bak es krim Paus untuk semua orang?"
+    }
+  ]
+}
