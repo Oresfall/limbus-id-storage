@@ -1,0 +1,340 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Lokasi yang ditandai dengan darah bajak laut itu membawa kami ke..."
+    },
+    {
+      "id": 1,
+      "place": "Pintu Masuk Klub Pelabuhan Marlin",
+      "content": "... Pintu masuk sebuah klub. Musik samar terdengar menggema dari balik pintu."
+    },
+    {
+      "id": 2,
+      "model": "단테2",
+      "content": "<Jadi... ini tempatnya?>"
+    },
+    {
+      "id": 3,
+      "model": "로쟈",
+      "content": "... Adakah di antara kita yang pernah pergi ke klub malam mewah, meriah, dan berisik seperti ini?"
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Ya, jika aku harus bertaruh... seharusnya itu kau."
+    },
+    {
+      "id": 5,
+      "model": "로쟈",
+      "content": "Oh, serius deh~ Bar mewah kayak gini? Di Backstreets-ku?"
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Aku ragu tempat semacam ini akan memiliki banyak pelanggan di sana, hmm?"
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "Beberapa orang terkadang mengadakan pesta di Backstreets secara diam-diam, tapi entah bagaimana Sonya selalu tahu~"
+    },
+    {
+      "id": 8,
+      "model": "단테2",
+      "content": "<Jadi, kenapa kita membicarakan hal ini?>"
+    },
+    {
+      "id": 9,
+      "model": "로쟈",
+      "content": "Kamu nggak lihat, Dante? Ada penjaga di pintu masuk."
+    },
+    {
+      "id": 10,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Penjaga",
+      "title": "???",
+      "content": "Selamat datang; berapa orang yang bersamamu hari ini?"
+    },
+    {
+      "id": 11,
+      "model": "클럽손님",
+      "teller": "Tamu",
+      "title": "U Corp.",
+      "content": "Dua. Ayolah. Kau tidak ingat aku? Aku ada di daftar."
+    },
+    {
+      "id": 12,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Ah... maaf. Silakan masuk. "
+    },
+    {
+      "id": 13,
+      "model": "로쟈",
+      "content": "Lihat, lihat! Mereka mengecek sesuatu pada para tamu sebelum mengizinkan mereka masuk. Kita harus bisa menyelinap masuk ke sana dengan mulus..."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Yah, karena Rodya tidak cocok... Orang berikutnya adalah..."
+    },
+    {
+      "id": 15,
+      "model": "히스클리프",
+      "content": "Hah? Apa, aku?"
+    },
+    {
+      "id": 16,
+      "model": "히스클리프",
+      "content": "Apa yang kau bicarakan? Akan kuhancurkan kepalamu!"
+    },
+    {
+      "id": 17,
+      "model": "로쟈",
+      "content": "Mm~ Kalau aku jadi kamu, aku bakal menganggapnya sebagai pujian, Heath~"
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Ahem... H-haruskah aku?"
+    },
+    {
+      "id": 19,
+      "model": "히스클리프",
+      "content": "Khm. Maaf jika mengecewakan, tapi Sindikat-ku tidak terlalu berkaitan dengan musik dan tarian, melainkan... darah, kesetiaan, dan semacamnya."
+    },
+    {
+      "id": 20,
+      "model": "히스클리프",
+      "content": "Aku lebih cocok berada di kedai kecil atau pub tua daripada klub mewah. Mabuk-mabukan, minum dari meja tua yang reyot... Ya, itu lebih cocok."
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "content": "Aku."
+    },
+    {
+      "id": 22,
+      "model": "료슈",
+      "content": "Musik: Jeritan ketakutan dan rasa sakit. Mewah: Dinding dicat merah dengan darah. Tarian: Orang-orang dengan persendian remuk, dipaksa menari..."
+    },
+    {
+      "id": 23,
+      "model": "그레고르",
+      "content": "Ya, itu... bukan klub."
+    },
+    {
+      "id": 24,
+      "model": "그레고르",
+      "content": "Kalau begitu, aku tidak bisa memikirkan orang lain..."
+    },
+    {
+      "id": 25,
+      "model": "뫼르소",
+      "content": "Aku pernah datang ke klub seperti itu."
+    },
+    {
+      "id": 26,
+      "model": "뫼르소",
+      "content": "Cukup sering."
+    },
+    {
+      "id": 27,
+      "model": "단테2",
+      "content": "<......>"
+    },
+    {
+      "id": 28,
+      "model": "그레고르",
+      "content": "... K-kau bercanda."
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Tidak. Aku tidak mengerti mengapa itu sulit untuk kau terima."
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "Itu hanya salah satu tempat yang kukunjungi saat dahulu berkelana mencari kesenangan hidup."
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Pengamatan sekilas terhadap prosedur mereka menunjukkan bahwa ini memang klub pribadi. Secara umum, pengunjung harus mendapat izin penjaga sebelum diperbolehkan masuk."
+    },
+    {
+      "id": 32,
+      "model": "뫼르소",
+      "content": "Kebanyakan penjaga memiliki massa tubuh di atas rata-rata dan kemungkinan bersenjata."
+    },
+    {
+      "id": 33,
+      "model": "뫼르소",
+      "content": "Hal paling penting untuk melewati para penjaga adalah..."
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "Kau benar... kalau ini hanya klub biasa."
+    },
+    {
+      "id": 35,
+      "model": "로쟈",
+      "content": "Ishy...?"
+    },
+    {
+      "id": 36,
+      "content": "Ishmael berjalan melewati kami menuju pintu masuk klub."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Ini adalah kediaman pemimpin sebuah Sindikat. Pertanyaan yang seharusnya kalian ajukan adalah... apa *cara lain* untuk memasuki tempat ini?"
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Dan aku yakin jawabannya ada pada anggota Sindikat."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Mudah, kan?"
+    },
+    {
+      "id": 40,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Apa yang membawamu kemari, kalau boleh aku bertanya?"
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "content": "Aku..."
+    },
+    {
+      "id": 42,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "...?"
+    },
+    {
+      "id": 43,
+      "model": "이스마엘",
+      "content": "Aku... teman... Queequeg."
+    },
+    {
+      "id": 44,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Kau... teman siapa?"
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "Queequeg."
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "content": "Kau mengenali nama itu, bukan?"
+    },
+    {
+      "id": 47,
+      "content": "Begitu nama itu disebut, ekspresi penjaga berubah dari acuh tak acuh menjadi tidak percaya."
+    },
+    {
+      "id": 48,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Wait..."
+    },
+    {
+      "id": 49,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "$@$#@$@#…."
+    },
+    {
+      "id": 50,
+      "content": "Penjaga itu membisikkan sesuatu melalui radio."
+    },
+    {
+      "id": 51,
+      "model": "단테2",
+      "content": "<Apakah dia akan membiarkan kita masuk?>"
+    },
+    {
+      "id": 52,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Apa kau benar-benar teman Queequeg ini?"
+    },
+    {
+      "id": 53,
+      "model": "이스마엘",
+      "content": "... Kalau memang begitu?"
+    },
+    {
+      "id": 54,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Di mana Queequeg?"
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 56,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Bos yang bertanya."
+    },
+    {
+      "id": 57,
+      "model": "이스마엘",
+      "content": "Begitu... jadi Bos kalian ada di klub ini, ya."
+    },
+    {
+      "id": 58,
+      "model": "쌍갈고리파조직원3",
+      "teller": "Bouncer",
+      "title": "???",
+      "content": "Aku bertanya lagi. Di mana Queeq..."
+    },
+    {
+      "id": 59,
+      "teller": "The Twinhooks?",
+      "title": "???",
+      "content": "Twinhooks sedang menuju kemari. Kuulangi. Kami..."
+    },
+    {
+      "id": 60,
+      "model": "단테2",
+      "content": "<Bukankah kita berusaha untuk menyelinap masuk?!>"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Tidak."
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "content": "Aku hanya ingin tahu apakah Bos mereka ada di sini. Kita seharusnya bisa mendapatkan semua informasi yang kita inginkan dari mereka."
+    }
+  ]
+}
