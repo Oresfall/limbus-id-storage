@@ -1,0 +1,111 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Di Dalam Paus Pucat",
+      "model": "오티스",
+      "content": "Semuanya! Kita akan memulai pencarian. Perahu itu harus ditemukan secepat mungkin."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "Tidak, tidak perlu mencarinya."
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "400 meter di sebelah kananmu. Di sana perahunya—"
+    },
+    {
+      "id": 3,
+      "model": "오티스",
+      "content": "Pengamatanmu sangat tajam. Jangan buang waktu dan mari kembali ke perahu."
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "Biarkan aku menyelesaikan kalimatku. Perahunya berada di dalam parit. 75% dari bagian lambungnya telah rusak dan kepingan-kepingannya berserakan di tanah."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 6,
+      "model": "홍루",
+      "content": "Wah, jadi ini bagian dari perahu kita, ya?"
+    },
+    {
+      "id": 7,
+      "model": "파우스트",
+      "content": "... Kapal itu dirancang untuk digunakan lebih dari tiga kali."
+    },
+    {
+      "id": 8,
+      "content": "Hong Lu menunjuk pemandangan menyedihkan berupa potongan baling-baling yang hancur total..."
+    },
+    {
+      "id": 9,
+      "content": "... Yah, tepatnya potongan baling-baling yang hancur dan sesuatu yang tampaknya merupakan mesin perahu kami. Sesuatu itu berhenti tersendat-sendat di antara reruntuhan."
+    },
+    {
+      "id": 10,
+      "model": "이상",
+      "content": "Maka benda ini akan bersemayam di sini selamanya..."
+    },
+    {
+      "id": 11,
+      "model": "이상",
+      "content": "Pemandangan ini pasti sangat menyakitkan bagi Mika dan Rain."
+    },
+    {
+      "id": 12,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<... Ini juga pemandangan yang cukup menyakitkan bagi kita.>"
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "content": "Uh, jadi... Apa yang kita..."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Manajer. Kau masih bisa merasakan Golden Bough, kan?"
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<Ya. Berbeda dari di Cabang Lobotomy Corp., aku bisa merasakan bahwa benda itu berada 'di dalam sini'. Tapi jaraknya cukup jauh, jadi aku tidak tahu persis di mana—>"
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "... Bagus. Apa kau siap memutar jam?"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Apa maksudmu dengan memutar jam?>"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Ohh...>"
+    },
+    {
+      "id": 20,
+      "content": "Warna pucat Paus telah menguasai tubuh dan pikiran mereka."
+    },
+    {
+      "id": 21,
+      "content": "Tentu saja. Masuk akal jika tempat ini dipenuhi Putri Duyung."
+    }
+  ]
+}
