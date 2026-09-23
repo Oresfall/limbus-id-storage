@@ -1,0 +1,185 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Dikatakan bahwa tali Queequeg, yang dipilin dengan genggaman kuat dan teknik esoterisnya...</color=#ff9500>"
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>... lebih kuat daripada tali mana pun di dunia.</color=#ff9500>"
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Queequeg memintaku untuk tidak meninggalkannya sendirian di Danau yang dingin dan gelap.</color=#ff9500>"
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Bahwa dia tidak ingin para Paus dan Putri Duyung mencabik-cabik dirinya</color=#ff9500>\n<color=#ff9500>dan melahapnya saat jenazahnya tenggelam jauh ke dalam perairan.</color=#ff9500>"
+    },
+    {
+      "id": 4,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Aku setuju.</color=#ff9500>"
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Luka-luka di kulitnya yang hanya aku yang tahu... kenangan akan penderitaannya...</color=#ff9500>\n<color=#ff9500>Aku tidak ingin monster-monster itu tanpa belas kasihan mencabiknya, lalu melahap dagingnya yang penuh bekas luka.</color=#ff9500>"
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Jadi, Queequeg membuat petinya sendiri.</color=#ff9500>"
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Dibuat dengan kokoh dan diikat dengan tali-tali yang dipelintir dan diikat dengan segenap tenaganya.</color=#ff9500>\n<color=#ff9500>Agar peti matinya tidak tenggelam, betapapun hebatnya kapal bergoyang.</color=#ff9500>"
+    },
+    {
+      "id": 8,
+      "teller": "Ishmael",
+      "title": "The Pequod",
+      "content": "Hah... Hah..."
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Tanganku yang menggenggam tali yang sama, yang terikat pada peti itu... mulai mengelupas dan berdarah."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Dan peti kosong sahabatku adalah satu-satunya benda yang membuatku tetap mengapung di Danau yang berputar itu."
+    },
+    {
+      "id": 11,
+      "teller": "Ishmael",
+      "title": "The Pequod",
+      "content": "Ada... apakah ada orang di luar sana?"
+    },
+    {
+      "id": 12,
+      "teller": "Ishmael",
+      "title": "The Pequod",
+      "content": "SIAPA PUN?!!!!!!!!"
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Di Danau kosong itu, terdampar di tengah kehancuran Pequod, aku berteriak sekuat tenaga."
+    },
+    {
+      "id": 14,
+      "teller": "Ishmael",
+      "title": "The Pequod",
+      "content": "Tolong, siapa pun... katakan sesuatu. Apa saja."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Saat kusadari bahwa semua orang yang pernah bersamaku telah direnggut dari dunia ini dalam sekejap,"
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "diriku yang terengah-engah dan nyaris tidak bertahan hidup ini seolah..."
+    },
+    {
+      "id": 17,
+      "content": "<color=#63a130>Naiklah ke kapalku. Dan berlayarlah bersamaku menuju jurang dingin danau itu.</color=#63a130>"
+    },
+    {
+      "id": 18,
+      "teller": "Ishmael",
+      "title": "The Pequod",
+      "content": "…!"
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "Bahkan aku yang tenggelam namun masih bernapas tidak bisa melarikan diri dari Kapten Ahab..."
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "Bahkan dalam kesunyian yang memekakkan ini, raungan Ahab yang menggema mencekikku..."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘",
+      "content": "Bahkan dalam kematian, rekan-rekanku tetap terperangkap bersama Kapten."
+    },
+    {
+      "id": 22,
+      "teller": "Ishmael",
+      "title": "The Pequod",
+      "content": "Agh... Argh..."
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Baik dalam suka maupun duka... Aku takkan pernah melupakannya...</color=#ff9500>"
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>... untaian-untaian yang telah terlepas dari diriku.</color=#ff9500>"
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Aku akan terkubur di danau ini selamanya hingga nafas terakhirku.</color=#ff9500>"
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "content": "<color=#ff9500>Betapapun kerasnya aku berusaha melarikan diri dari air yang semakin naik, yang memenuhi paru-paruku hanyalah kesepian.</color=#ff9500>"
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "Haah... Haaah... Gah..."
+    },
+    {
+      "id": 28,
+      "model": "퀴케그그림자",
+      "teller": "???",
+      "title": "???",
+      "content": "Aku selalu mengatakannya."
+    },
+    {
+      "id": 29,
+      "model": "퀴케그그림자",
+      "teller": "???",
+      "title": "???",
+      "content": "Tali. Pegang erat. Atau tenggelam."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Kau..."
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "Sudah berapa lama kau... berada di sini?"
+    },
+    {
+      "id": 32,
+      "model": "퀴케그그림자",
+      "teller": "???",
+      "title": "???",
+      "content": "Selalu. Selalu berada di sini."
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "……."
+    }
+  ]
+}
