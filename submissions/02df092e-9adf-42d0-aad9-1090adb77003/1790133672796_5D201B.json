@@ -1,0 +1,368 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pintu Masuk Serambi Kanan Paus Pucat",
+      "content": "Ishmael menatap Queequeg tanpa berkata-kata."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Aku... kukira kau... semua orang... mati."
+    },
+    {
+      "id": 2,
+      "model": "퀴케그",
+      "content": "Aku juga. Kukira kau mati."
+    },
+    {
+      "id": 3,
+      "model": "퀴케그",
+      "content": "Di tempat asalku, kami mengubur orang mati. Tidak membakar."
+    },
+    {
+      "id": 4,
+      "model": "퀴케그",
+      "content": "Di tanah. Di dalam hati. Dalam-dalam. Tak pernah digali lagi."
+    },
+    {
+      "id": 5,
+      "model": "퀴케그",
+      "content": "Karena kami harus melupakan."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Apa kau menguburku... juga?"
+    },
+    {
+      "id": 7,
+      "model": "퀴케그",
+      "content": "Aku..."
+    },
+    {
+      "id": 8,
+      "model": "퀴케그",
+      "content": "... ingin melihat matahari terbenam lagi."
+    },
+    {
+      "id": 9,
+      "model": "퀴케그",
+      "content": "Hal itu yang membuatku terus hidup. Bernapas. Melempar harpun."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "... Kukira kau tidak menyukai dunia luar?"
+    },
+    {
+      "id": 11,
+      "model": "퀴케그",
+      "content": "Matahari terbenam selalu hangat. Di mana pun dia tenggelam."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Aku mendengar jeritan mengerikan... datang dari kejauhan...>"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Itu jeritan para Putri Duyung..."
+    },
+    {
+      "id": 15,
+      "model": "퀴케그",
+      "content": "Masa depan kita. Jika kita gagal melarikan diri."
+    },
+    {
+      "id": 16,
+      "model": "퀴케그",
+      "content": "Menjerit dan terus menjerit. Berusaha membunuh semua yang terlihat."
+    },
+    {
+      "id": 17,
+      "model": "퀴케그",
+      "content": "Lalu meleleh. Sangat perlahan. Dan setelah itu..."
+    },
+    {
+      "id": 18,
+      "model": "퀴케그",
+      "content": "Mengapung pergi. Seolah kami tidak pernah ada di sini."
+    },
+    {
+      "id": 19,
+      "model": "퀴케그",
+      "content": "Tidak ingin menjadi Putri Duyung."
+    },
+    {
+      "id": 20,
+      "model": "퀴케그",
+      "content": "Paus Pucat. Harus membunuhnya. Hanya dengan begitu kita bisa keluar."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<…!>"
+    },
+    {
+      "id": 22,
+      "content": "Aku melihat penglihatan lain tentang Ishmael."
+    },
+    {
+      "id": 23,
+      "content": "Penglihatan itu semakin sering muncul... Mungkin ini pengaruh dari Golden Bough."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Menangis."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Setiap malam, jeritan mengerikan menggema dari ruang penyimpanan."
+    },
+    {
+      "id": 26,
+      "place": "Pequod",
+      "model": "스타벅과거",
+      "content": "Pip, sekarang giliranmu untuk turun ke sana."
+    },
+    {
+      "id": 27,
+      "model": "이스마엘과거",
+      "content": "Para Putri Duyung selalu menjerit setiap malam. Jadi, kami harus mengunci mereka jauh di dalam ruang penyimpanan."
+    },
+    {
+      "id": 28,
+      "model": "핍과거",
+      "content": "Pip tidak mau turun ke sana... Menakutkan."
+    },
+    {
+      "id": 29,
+      "model": "스타벅과거",
+      "content": "Itu sudah nasibmu, Pip. Maaf, tapi... kau harus menerimanya."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘과거",
+      "content": "Aneh, bukan, Queequeg...?"
+    },
+    {
+      "id": 31,
+      "model": "이스마엘과거",
+      "content": "Kenapa kita... melakukan semua ini?"
+    },
+    {
+      "id": 32,
+      "model": "퀴케그과거",
+      "content": "……."
+    },
+    {
+      "id": 33,
+      "model": "퀴케그과거",
+      "content": "Ishmael. Teguhkan hatimu."
+    },
+    {
+      "id": 34,
+      "model": "퀴케그과거",
+      "content": "Kita akan melihat Paus Pucat. Segera."
+    },
+    {
+      "id": 35,
+      "model": "퀴케그과거",
+      "content": "Artinya semua ini akan segera berakhir."
+    },
+    {
+      "id": 36,
+      "model": "이스마엘과거",
+      "content": "Ya. Semua ini akan segera berakhir..."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘과거",
+      "content": "Jadi setelah pelayaran ini berakhir..."
+    },
+    {
+      "id": 38,
+      "model": "에이해브과거",
+      "content": "Apa-apaan ini? Apa kalian bahkan tidak bisa menjaga pos dengan benar, para awak kapal?"
+    },
+    {
+      "id": 39,
+      "model": "핍과거",
+      "content": "Kapten! Pip tidak mau turun ke sana. Pip sangat ketakutan. Tempat itu menakutkan."
+    },
+    {
+      "id": 40,
+      "model": "핍과거",
+      "content": "Setiap malam Pip mendengar suara itu. Setiap malam dia menggaruk pintu yang terkunci."
+    },
+    {
+      "id": 41,
+      "model": "에이해브과거",
+      "content": "Kendalikan dirimu, Pip. Itu hanya Putri Duyung."
+    },
+    {
+      "id": 42,
+      "model": "핍과거",
+      "content": "Pip tahu, Pip melihatnya... Itu..."
+    },
+    {
+      "id": 43,
+      "model": "핍과거",
+      "content": "Itu rekan kita Stubb, Kapten. Paus Pucat memakan Stubb dan perahu yang dinaikinya, lalu..."
+    },
+    {
+      "id": 44,
+      "model": "에이해브과거",
+      "content": "Pip. Jangan hiraukan suara dari ruang penyimpanan. Pandang jauh ke Great Lake."
+    },
+    {
+      "id": 45,
+      "model": "에이해브과거",
+      "content": "Hari penghakiman <ruby=Pallid Whale>Paus Pucat</ruby> semakin dekat."
+    },
+    {
+      "id": 46,
+      "model": "에이해브과거",
+      "content": "Semakin keras jeritan Putri Duyung, semakin dekat kita dengan tujuan."
+    },
+    {
+      "id": 47,
+      "model": "에이해브과거",
+      "content": "Makhluk itu akan membawa kita kepada Paus Pucat."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘과거",
+      "content": "……."
+    },
+    {
+      "id": 49,
+      "model": "이스마엘과거",
+      "content": "Malam itu, aku menyelinap ke dalam kabin Kapten Ahab."
+    },
+    {
+      "id": 50,
+      "model": "이스마엘과거",
+      "content": "Memasuki kabin Kapten tanpa izin sama saja dengan melanggar Tabu. Setiap pelaut tahu itu."
+    },
+    {
+      "id": 51,
+      "model": "이스마엘과거",
+      "content": "Jika tertangkap... aku harus menerima hukuman apa pun yang mereka jatuhkan karena melakukan dosa yang bisa dianggap sebagai pemberontakan."
+    },
+    {
+      "id": 52,
+      "model": "이스마엘과거",
+      "content": "Tapi aku tidak tahu apa yang kupikirkan saat masuk ke sana."
+    },
+    {
+      "id": 53,
+      "model": "이스마엘과거",
+      "content": "...!"
+    },
+    {
+      "id": 54,
+      "model": "이스마엘과거",
+      "content": "K-Kapten Ahab... Aku..."
+    },
+    {
+      "id": 55,
+      "model": "에이해브",
+      "content": "……."
+    },
+    {
+      "id": 56,
+      "model": "이스마엘과거",
+      "content": "K-Kapten?"
+    },
+    {
+      "id": 57,
+      "model": "이스마엘과거",
+      "content": "Mata Kapten terpaku pada peta Great Lake yang ditempel di langit-langit kabinnya."
+    },
+    {
+      "id": 58,
+      "model": "이스마엘과거",
+      "content": "Dia tidak bergerak."
+    },
+    {
+      "id": 59,
+      "model": "이스마엘과거",
+      "content": "Aku memandangi pemandangan itu sejenak... sebelum keluar sempoyongan dari kabin Kapten."
+    },
+    {
+      "id": 60,
+      "model": "이스마엘과거",
+      "content": "Aku harus melakukannya."
+    },
+    {
+      "id": 61,
+      "model": "스타벅과거",
+      "content": "Jadi, kau masuk ke kabin Kapten, ya?"
+    },
+    {
+      "id": 62,
+      "model": "이스마엘과거",
+      "content": "T-Tuan Starbuck..."
+    },
+    {
+      "id": 63,
+      "model": "스타벅과거",
+      "content": "Kapten tidak pernah tidur dengan nyenyak. Bahkan saat tidur, matanya tetap terbuka lebar."
+    },
+    {
+      "id": 64,
+      "model": "스타벅과거",
+      "content": "Dia selalu mencari Paus Pucat itu di suatu tempat di Great Lake. Bahkan saat bermimpi..."
+    },
+    {
+      "id": 65,
+      "model": "스타벅과거",
+      "content": "Kapten tidak tidur. Dia terjaga. Selalu begitu."
+    },
+    {
+      "id": 66,
+      "model": "이스마엘",
+      "content": "Ya... di Pequod, Kapten mengendalikan kami dengan ketat."
+    },
+    {
+      "id": 67,
+      "model": "이스마엘",
+      "content": "Kami hanya terengah-engah dengan sedikit udara yang dia izinkan untuk kami hirup."
+    },
+    {
+      "id": 68,
+      "model": "스타벅과거",
+      "content": "Pergilah beristirahat. Seperti kata Kapten, Paus itu pasti sudah dekat."
+    },
+    {
+      "id": 69,
+      "model": "스타벅과거",
+      "content": "Aku tidak selalu memahami Kapten, dan terkadang aku berharap dia mau mempertimbangkan ide lainnya..."
+    },
+    {
+      "id": 70,
+      "model": "스타벅과거",
+      "content": "... Tapi kita tidak perlu menanggungnya lebih lama lagi."
+    },
+    {
+      "id": 71,
+      "model": "스타벅과거",
+      "content": "Kita semua akan segera bebas."
+    },
+    {
+      "id": 72,
+      "model": "스타벅과거",
+      "content": "Setelah kita membunuh Paus Pucat dan meninggalkan kapal ini... Kita..."
+    }
+  ]
+}
