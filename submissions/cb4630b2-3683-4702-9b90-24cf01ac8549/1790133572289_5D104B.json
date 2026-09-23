@@ -1,0 +1,139 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kota Pequod",
+      "model": "피쿼드호주민1",
+      "teller": "???",
+      "title": "???",
+      "content": "Kita sampai! Selamat datang di Kota Pequod."
+    },
+    {
+      "id": 1,
+      "model": "피쿼드호주민2",
+      "teller": "???",
+      "title": "???",
+      "content": "Kami kembali, Kapten! Lihat apa yang kami pancing!"
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Kapten?>"
+    },
+    {
+      "id": 3,
+      "model": "에이해브",
+      "teller": "Captain?",
+      "title": "???",
+      "content": "Tangkapan yang bagus! Kau memang pengintai yang hebat, Starbuck!"
+    },
+    {
+      "id": 4,
+      "content": "Seorang wanita tua kurus mendekati kami, suaranya yang kasar menggelitik telinga kami."
+    },
+    {
+      "id": 5,
+      "model": "에이해브",
+      "teller": "Captain?",
+      "title": "???",
+      "content": "Dua keping emas untukmu, Nak. Dan ini satu untuk si kembar."
+    },
+    {
+      "id": 6,
+      "model": "피쿼드호주민1",
+      "teller": "???",
+      "title": "???",
+      "content": "Terima kasih, Kapten."
+    },
+    {
+      "id": 7,
+      "model": "에이해브",
+      "teller": "Captain?",
+      "title": "???",
+      "content": "Sudah lama sekali sejak Kota Pequod kami mendapatkan penduduk baru."
+    },
+    {
+      "id": 8,
+      "model": "그레고르",
+      "content": "... Penduduk? Bukan tamu?"
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Wanita itu sepertinya menganggap kami sudah terikat pada desa ini."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Aku sudah menduganya..."
+    },
+    {
+      "id": 11,
+      "model": "에이해브",
+      "teller": "Captain?",
+      "title": "???",
+      "content": "Selamat datang. Aku membangun desa ini dan menjaga jiwa-jiwa malang yang menyedihkan ini. Sebentar lagi, aku akan berlayar dalam pelayaran terakhir bersama awak kapalku."
+    },
+    {
+      "id": 12,
+      "model": "에이해브",
+      "content": "Aku Kapten Ahab."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<... Ah, Ishmael...!>"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Kau... tidak tahu betapa lama aku menunggu... betapa kuimpikan momen ini. Kau takkan pernah tahu."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Karena aku akan mengeluarkan isi perutmu seperti ikan sebelum kau sempat mengetahuinya."
+    },
+    {
+      "id": 16,
+      "content": "Sambil bergumam, Ishmael menyerbu Ahab."
+    },
+    {
+      "id": 17,
+      "model": "에이해브",
+      "content": "Sungguh cara yang bagus untuk menyapa Kaptenmu, Ishmael."
+    },
+    {
+      "id": 18,
+      "content": "Kapten Ahab tetap tenang, bahkan saat Ishmael tiba-tiba menyerangnya."
+    },
+    {
+      "id": 19,
+      "model": "스타벅",
+      "teller": "???",
+      "title": "Pequod Town",
+      "content": "I-Ishmael...?! Tu...nggu, kalau kau menyebutnya—"
+    },
+    {
+      "id": 20,
+      "model": "피쿼드호주민1",
+      "teller": "Penduduk Desa Pequod yang Buta",
+      "title": "Kota Pequod",
+      "content": "Dasar tidak tahu berterima kasih. Beraninya kalian menyerang Kapten kami?!"
+    },
+    {
+      "id": 21,
+      "model": "피쿼드호주민2",
+      "teller": "Penduduk Desa Pequod yang Tersumpal",
+      "title": "Pequod Town",
+      "content": "Akan kami tunjukkan kemampuan kami!"
+    },
+    {
+      "id": 22,
+      "model": "피쿼드호주민1",
+      "teller": "Penduduk Desa Pequod yang Buta",
+      "title": "Pequod Town",
+      "content": "Akan kami lempar kalian kembali ke dalam sungai asam itu!"
+    }
+  ]
+}
