@@ -1,0 +1,453 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruang VIP Klub Pelabuhan Marlin",
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "T-tunggu! Sebaiknya kalian menjauh! Coba saja sentuh aku dan kalian akan menyesalinya!"
+    },
+    {
+      "id": 1,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Kalian tidak tahu siapa yang melindungiku."
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Apa?"
+    },
+    {
+      "id": 3,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Dia... jangan panik... seorang <ruby=gelar>Big Brother</ruby>. Dari <ruby=Sindikat>'The Middle'</ruby>."
+    },
+    {
+      "id": 4,
+      "model": "료슈",
+      "content": "... Oho. Seorang <ruby=Bitch Brother>B.B.</ruby>?"
+    },
+    {
+      "id": 5,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Dan Queequeg ini? The Middle memasang hadiah yang sangat besar untuk kepalanya, kalau kalian belum tahu."
+    },
+    {
+      "id": 6,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Dia tidak hanya berani keluar dari The Middle, tapi juga memutuskan untuk menghilang dari muka bumi. Itulah kebodohan yang sesungguhnya."
+    },
+    {
+      "id": 7,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Mengingat bahwa The Middle... tidak akan pernah lupa."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "... Oke. Kau sudah selesai?"
+    },
+    {
+      "id": 9,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Tunggu, kau serius...? Kau masih akan membunuhku?"
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Kekacauan ini terjadi karena kami. Aku tidak ingin meninggalkan masalah yang belum selesai."
+    },
+    {
+      "id": 11,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Kita sedang membicarakan The Middle! The Middle! Apa kau tidak tahu siapa mereka?!"
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "......"
+    },
+    {
+      "id": 13,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Tunggu! Baik, baik! Akan kuberi tahu lokasi temanmu!"
+    },
+    {
+      "id": 14,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Kontainer pengiriman yang kalian cari... Kami menyimpan sandera yang masih hidup di kontainer bertanda segitiga hijau. Karena dia baru kami tangkap, mungkin kalian bisa mencarinya di sisi Timur..."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Segitiga hijau, ya? Bagaimana kalau ada lebih dari satu? Bagaimana kalau warnanya berbeda? Bagaimana kalau kau hanya berbohong untuk menyelamatkan diri?"
+    },
+    {
+      "id": 16,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Kalian seharusnya bisa mengetahuinya! Kalian pasti langsung tahu! Aku serius... Tolong!"
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "... Sekarang semuanya sudah jelas. Menurutku itu sudah cukup sebagai konfirmasi. Sudah puas, Sinclair?"
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "......"
+    },
+    {
+      "id": 19,
+      "content": "Sinclair tampak merengut, tapi Ishmael sepertinya tidak peduli."
+    },
+    {
+      "id": 20,
+      "content": "Dia berdiri di sana, menggosok pergelangan pada lengan senjatanya. Seolah-olah dia sedang mengukur kekuatan yang diperlukan untuk menghancurkan kepala Smee dalam satu serangan."
+    },
+    {
+      "id": 21,
+      "model": "단테2",
+      "content": "<... Tunggu. Membunuhnya bisa menimbulkan banyak masalah bagi kita.>"
+    },
+    {
+      "id": 22,
+      "model": "단테2",
+      "content": "<Kita tahu lokasi sandera itu, dan kurasa itu sudah cukup. Ayo kembali.>"
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "... Aku tidak merasa perlu meyakinkanmu, manajer. Minggirlah."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Aku tidak ingin membuang-buang waktu lagi untuk hal seperti ini."
+    },
+    {
+      "id": 25,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "K-kau tahu apa lagi yang membuang waktu? Membunuhku. Bagaimana kalau kita pergi dengan tenang, setuju?"
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "content": "Aku tidak setuju."
+    },
+    {
+      "id": 27,
+      "model": "단테2",
+      "content": "<Ishmael!>"
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "Aku bisa bergerak cukup cepat."
+    },
+    {
+      "id": 29,
+      "content": "Mata Ishmael masih kosong dan menerawang. Dia menarik lengan harpunya, siap menyerang, dan..."
+    },
+    {
+      "id": 30,
+      "content": "Sebelum sempat menyadari apa yang kulakukan... aku sudah melompat menghalangi."
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "...!"
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "Manajer Eksekutif!"
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "Dante... apa kau sudah gila?"
+    },
+    {
+      "id": 34,
+      "model": "오티스",
+      "content": "Kau, kaulah yang gila!!! Berani-beraninya kau menyakiti Manajer Eksekutif kita? Apa pembangkangan saja belum cukup?!"
+    },
+    {
+      "id": 35,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "P... Pilihan yang cerdas."
+    },
+    {
+      "id": 36,
+      "model": "다친스미",
+      "teller": "Smee",
+      "title": "Twinhook Pirates",
+      "content": "Jika kau membunuhku... seorang Big Brother atau bahkan Big Sister akan memburumu."
+    },
+    {
+      "id": 37,
+      "content": "Aku teringat saat... hal yang sebaliknya terjadi."
+    },
+    {
+      "id": 38,
+      "content": "Saat Ishmael melompat ke depanku dan menerima peluru mesin yang rusak itu menggantikanku..."
+    },
+    {
+      "id": 39,
+      "content": "Dan memanggil namaku saat tubuhnya mencair."
+    },
+    {
+      "id": 40,
+      "content": "Seolah-olah dia percaya dengan namaku saja dapat mengembalikan semuanya seperti semula."
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "content": "Apa kau baru saja... menerima harpun demi perempuan jalang itu?"
+    },
+    {
+      "id": 42,
+      "model": "이스마엘",
+      "content": "Kalau aku membidik sedikit ke samping, aku bisa saja mengenai wajahmu! Wajah jam bodohmu itu!! Kau mengerti?!"
+    },
+    {
+      "id": 43,
+      "model": "단테2",
+      "content": "<Ya, aku mengerti... Boy, kau benar-benar menancapkan harpun itu sangat dalam... Ini terasa sakit sekali.>"
+    },
+    {
+      "id": 44,
+      "model": "이스마엘",
+      "content": "Apa... Kau bisa berhenti! Dengan lelucon bodohmu itu!"
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Manajer Eksekutif."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "Perkataan dan tindakannya barusan sudah cukup untuk dianggap sebagai pemberontakan. Dia mencoba untuk membunuh atasannya!"
+    },
+    {
+      "id": 47,
+      "model": "오티스",
+      "content": "Aku tidak bisa lagi jika harus duduk diam dan menonton. Meskipun kau mungkin tidak memiliki wewenang untuk menghukum..."
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "Kita harus membuat laporan rinci mengenai insiden ini dan menyampaikannya kepada petinggi perusahaan untuk membahas tindakan kita selanjutnya."
+    },
+    {
+      "id": 49,
+      "model": "단테2",
+      "content": "<Tidak apa-apa, Outis. Aku memilih untuk menghalanginya.>"
+    },
+    {
+      "id": 50,
+      "model": "오티스",
+      "content": "Ini TIDAK baik-baik saja!!"
+    },
+    {
+      "id": 51,
+      "model": "오티스",
+      "content": "Individu itu secara konsisten dan berulang kali telah menimbulkan hambatan serius bagi misi kita!"
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "Dan hal itu, Manajer Eksekutif, sudah melewati batas!"
+    },
+    {
+      "id": 53,
+      "model": "단테2",
+      "content": "<Outis. Sudah kukatakan tidak apa-apa.>"
+    },
+    {
+      "id": 54,
+      "model": "단테2",
+      "content": "<Aku tidak menerima harpun demi wanita itu. Aku menerimanya demi Ishmael.>"
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "content": "Hah?"
+    },
+    {
+      "id": 56,
+      "model": "이스마엘",
+      "content": "Apa, kau tiba-tiba menekan tombol dan memutuskan menjadi seorang humanis?"
+    },
+    {
+      "id": 57,
+      "model": "이스마엘",
+      "content": "Kau tidak pernah mengotori tanganmu dengan setetes darah pun. Bahkan sekali saja..."
+    },
+    {
+      "id": 58,
+      "model": "이스마엘",
+      "content": "Kau hanya duduk dan memerintahkan kami mengotori tangan kami menggantikanmu."
+    },
+    {
+      "id": 59,
+      "model": "이스마엘",
+      "content": "Dan sekarang kau menyuruh kami untuk apa, 'mengurangi pembunuhan'? Apa sebenarnya yang ingin kau katakan? Kau tidak ingin kami mengalami trauma lagi? Omong kosong sentimental macam apa itu?"
+    },
+    {
+      "id": 60,
+      "model": "단테2",
+      "content": "<Bukan, ini hanya intuisiku.>"
+    },
+    {
+      "id": 61,
+      "model": "단테2",
+      "content": "<... Itu mungkin tidak terlalu meyakinkan, benar?>"
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "content": "Tidak. Tentu saja tidak... Intuisi berasal dari pengalaman. Dari ingatan."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "content": "Kau sama sekali tidak mengingat apa pun sebelum <ruby=kepala prostetik>jam</ruby> itu, Dante. Bagaimana aku bisa mempercayai intuisimu?"
+    },
+    {
+      "id": 64,
+      "model": "단테2",
+      "content": "<Wanita itu... Kurasa dia memiliki posisi yang cukup penting, setidaknya di Distrik ini. Membunuhnya sebelum memikirkan semuanya dapat memperumit keadaan.>"
+    },
+    {
+      "id": 65,
+      "model": "이스마엘",
+      "content": "Apa tidak terpikir olehmu bahwa TIDAK membunuhnya juga dapat memperumit keadaan?"
+    },
+    {
+      "id": 66,
+      "model": "단테2",
+      "content": "<... Aku hanya berpikir membunuh semua orang yang menghalangi kita seperti ini...>"
+    },
+    {
+      "id": 67,
+      "model": "단테2",
+      "content": "<... Tidak akan membantu kita di masa depan.>"
+    },
+    {
+      "id": 68,
+      "model": "이스마엘",
+      "content": "... Di masa depan, ya."
+    },
+    {
+      "id": 69,
+      "model": "단테2",
+      "content": "<Maaf... Aku tidak... memiliki penjelasan yang lebih baik untuk apa yang baru saja kulakukan.>"
+    },
+    {
+      "id": 70,
+      "model": "이스마엘",
+      "content": "Aku tidak tahu masa depan sejauh apa yang kau maksud, tapi..."
+    },
+    {
+      "id": 71,
+      "model": "이스마엘",
+      "content": "... Aku yakin hal yang menanti kita di sana akan berbeda, Dante."
+    },
+    {
+      "id": 72,
+      "model": "단테2",
+      "content": "<Ah...>"
+    },
+    {
+      "id": 73,
+      "model": "이상",
+      "content": "Dante..."
+    },
+    {
+      "id": 74,
+      "model": "이상",
+      "content": "Jangan pernah membahayakan dirimu seperti itu lagi."
+    },
+    {
+      "id": 75,
+      "model": "단테2",
+      "content": "<Kau pasti sedang bercanda... Saran seperti itu datang dari salah satu dari kalian? Tidak terlalu meyakinkan.>"
+    },
+    {
+      "id": 76,
+      "model": "이상",
+      "content": "Tanggung jawab atas dua belas nyawa berada di pundakmu, Dante. Karena itu, kau harus menjaga dirimu dua belas kali lebih baik."
+    },
+    {
+      "id": 77,
+      "model": "이상",
+      "content": "Terlebih lagi... jika kau binasa... kami tidak memiliki cara untuk menghidupkanmu kembali."
+    },
+    {
+      "id": 78,
+      "model": "이상",
+      "content": "Dan..."
+    },
+    {
+      "id": 79,
+      "model": "이상",
+      "content": "Mereka yang tidak bisa dihidupkan kembali... meninggalkan ruang hampa yang sangat menyakitkan."
+    },
+    {
+      "id": 80,
+      "content": "Yi Sang benar. Bahuku terasa sangat sakit."
+    },
+    {
+      "id": 81,
+      "model": "히스클리프",
+      "content": "Hei... Kau baik-baik saja, kepala jam?"
+    },
+    {
+      "id": 82,
+      "model": "단테2",
+      "content": "<Ya, aku baik-baik saja. Jamnya masih berfungsi.>"
+    },
+    {
+      "id": 83,
+      "model": "히스클리프",
+      "content": "Apa? Bukan itu maksudku... Hah, dasar orang sinting. Kau juga tidak sepenuhnya waras. Atau mungkin kau hanya butuh waktu lebih lama untuk menjadi gila, eh?"
+    },
+    {
+      "id": 84,
+      "model": "히스클리프",
+      "content": "Kupikir setidaknya ada satu orang waras di bus ini. Tapi kau sama saja."
+    },
+    {
+      "id": 85,
+      "content": "Heathcliff menggelengkan kepala lalu pergi."
+    }
+  ]
+}
