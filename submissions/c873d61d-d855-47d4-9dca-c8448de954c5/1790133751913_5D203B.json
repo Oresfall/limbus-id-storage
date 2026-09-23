@@ -1,0 +1,427 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Serambi Kanan Paus Pucat",
+      "model": "히스클리프",
+      "content": "Oi, ikat kepalamu...!"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Semuanya berlumuran darah. Sekarang kau terlihat sangat menyeramkan, bukan...?"
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Membilasnya sebentar dengan air dapat membersihkannya."
+    },
+    {
+      "id": 3,
+      "model": "퀴케그",
+      "content": "Ikat kepalamu. Tidak asing."
+    },
+    {
+      "id": 4,
+      "model": "퀴케그",
+      "content": "Simpul yang tidak asing. Simpul Keputusasaan."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Queequeg... Aku selamat dengan berpegangan pada tali yang kauikatkan pada petimu."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Tali yang seharusnya kaupegang... Namun, justru aku yang memegangnya sekuat tenaga..."
+    },
+    {
+      "id": 7,
+      "model": "퀴케그",
+      "content": "Tali itu..."
+    },
+    {
+      "id": 8,
+      "model": "퀴케그",
+      "content": "... juga untukmu."
+    },
+    {
+      "id": 9,
+      "place": "Pequod",
+      "model": "이스마엘과거",
+      "content": "Kau ingin aku... menimba minyak dari dalam sana?"
+    },
+    {
+      "id": 10,
+      "model": "스타벅과거",
+      "content": "Yep. Ini tidak sesulit kelihatannya."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘과거",
+      "content": "Bangkai seekor paus tergantung di sebuah kait dan bergoyang-goyang dari kiri ke kanan. Baunya busuk sekali."
+    },
+    {
+      "id": 12,
+      "model": "스타벅과거",
+      "content": "Semakin kecil dan lincah dirimu, semakin mudah pekerjaan ini."
+    },
+    {
+      "id": 13,
+      "model": "이스마엘과거",
+      "content": "Tapi aku tidak sekecil itu..."
+    },
+    {
+      "id": 14,
+      "model": "스텁",
+      "content": "Bagaimanapun juga ini adalah pekerjaan untuk pemula! Kurangi bicara, perbanyak menimba minyak. Cepat kerjakan, mengerti?"
+    },
+    {
+      "id": 15,
+      "model": "이스마엘과거",
+      "content": "Pekerjaan pemburu Paus tidak berakhir setelah membunuh Paus."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘과거",
+      "content": "Para pemburu Paus juga harus menimba dan membawa minyak dalam jumlah besar dari Paus yang telah mati."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘과거",
+      "content": "Maksudku... Bagaimana aku tahu apa yang ada di dalam sana...?"
+    },
+    {
+      "id": 18,
+      "model": "스텁",
+      "content": "Menurutmu apa? Minyak Paus! Minyak itu memberi kita makan dan menghangatkan kita..."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘과거",
+      "content": "Di atas Pequod ada seorang pria bernama Stubb, <ruby=second mate>mualim kedua</ruby>. Dia orang yang mudah tersinggung."
+    },
+    {
+      "id": 20,
+      "model": "이스마엘과거",
+      "content": "Aku..."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘과거",
+      "content": "Aku tidak bisa. Masuk ke jurang itu hanya dengan tali yang tampaknya akan terputus jika tertiup angin sepoi-sepoi? Aku tidak bisa..."
+    },
+    {
+      "id": 22,
+      "model": "이스마엘과거",
+      "content": "... Kata-kata itu hampir terlontar dari mulutku, ketika..."
+    },
+    {
+      "id": 23,
+      "model": "퀴케그과거",
+      "content": "……."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘과거",
+      "content": "Apa... yang kaulakukan?"
+    },
+    {
+      "id": 25,
+      "model": "퀴케그과거",
+      "content": "Talimu. Ikatkan ke pinggangku."
+    },
+    {
+      "id": 26,
+      "model": "이스마엘과거",
+      "content": "T-tapi kenapa?"
+    },
+    {
+      "id": 27,
+      "model": "퀴케그과거",
+      "content": "Jika diikat seperti ini. Kalau kau jatuh, aku jatuh."
+    },
+    {
+      "id": 28,
+      "model": "퀴케그과거",
+      "content": "Kau. Aku. Bersama."
+    },
+    {
+      "id": 29,
+      "model": "이스마엘과거",
+      "content": "Kalimatnya terbata-bata dan tidak lengkap. Namun entah kenapa ada sesuatu di sana yang menenangkanku."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘과거",
+      "content": "Bersama..."
+    },
+    {
+      "id": 31,
+      "model": "이스마엘과거",
+      "content": "Seseorang yang menangkapku jika aku jatuh."
+    },
+    {
+      "id": 32,
+      "model": "이스마엘과거",
+      "content": "Seseorang yang menjagaku jika aku jatuh."
+    },
+    {
+      "id": 33,
+      "model": "이스마엘과거",
+      "content": "Jadi kuikat salah satu ujung tali ke pinggang Queequeg, dan ujung lainnya ke pinggangku."
+    },
+    {
+      "id": 34,
+      "model": "이스마엘과거",
+      "content": "Ah... Huh...?"
+    },
+    {
+      "id": 35,
+      "model": "이스마엘과거",
+      "content": "Lucu juga aku menyebutkannya."
+    },
+    {
+      "id": 36,
+      "model": "이스마엘과거",
+      "content": "Talinya terlalu pendek dan rapuh. Tali itu langsung putus..."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘과거",
+      "content": "Dan aku meluncur jatuh ke dalam perut Paus yang dipenuhi lemak."
+    },
+    {
+      "id": 38,
+      "model": "이스마엘과거",
+      "content": "Kah! Gaah..."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘과거",
+      "content": "Yang lebih sulit ditanggung daripada usus, jeroan, minyak, dan berbagai hal lain yang tak ingin kupikirkan... adalah kegelapan pekat."
+    },
+    {
+      "id": 40,
+      "model": "이스마엘과거",
+      "content": "Mmph! Mmrph!"
+    },
+    {
+      "id": 41,
+      "model": "이스마엘과거",
+      "content": "Minyak Paus mengeluarkan suara saat bergetar dan bergema."
+    },
+    {
+      "id": 42,
+      "model": "이스마엘과거",
+      "content": "Minyak yang bergema itu mencoba untuk bersatu dengan segala sesuatu yang disentuhnya."
+    },
+    {
+      "id": 43,
+      "model": "이스마엘과거",
+      "content": "Sebagian warga City membicarakan fenomena ini dengan istilah rumit seperti fusi ultravibro dan frekuensi osilasi... Bagaimana unsur-unsur itu digunakan untuk menghasilkan <ruby=Singularity>garpu tala</ruby> resonansi, panjang gelombang, dan bahan bakarnya..."
+    },
+    {
+      "id": 44,
+      "model": "이스마엘과거",
+      "content": "Namun intinya, minyak Paus menutupi dan melahap siapa pun yang bersentuhan dengannya."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘과거",
+      "content": "Dan ketika dilahap minyak Paus yang masih hidup, kau menjadi Putri Duyung."
+    },
+    {
+      "id": 46,
+      "model": "이스마엘과거",
+      "content": "Dan ketika dilahap minyak Paus yang telah mati, keberadaanmu terasa perlahan tercerai-berai hingga tak ada lagi yang tersisa."
+    },
+    {
+      "id": 47,
+      "model": "이스마엘과거",
+      "content": "... Ha, ha... Haah..."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘과거",
+      "content": "Saat itulah aku..."
+    },
+    {
+      "id": 49,
+      "model": "이스마엘과거",
+      "content": "... menyadari betapa kecil dan rapuhnya diriku. Betapa tidak berdayanya diriku."
+    },
+    {
+      "id": 50,
+      "model": "이스마엘과거",
+      "content": "Mungkin para Paus hanya kesepian."
+    },
+    {
+      "id": 51,
+      "model": "이스마엘과거",
+      "content": "Dan itulah sebabnya mereka membawa minyak yang mampu mengubah orang lain menjadi seperti mereka."
+    },
+    {
+      "id": 52,
+      "model": "이스마엘과거",
+      "content": "Mungkin manusia juga sama..."
+    },
+    {
+      "id": 53,
+      "model": "이스마엘과거",
+      "content": "Karena kesepian, kita ingin menjadikan sesuatu atau seseorang milik kita. Mewarnai mereka seperti diri kita, mengisinya dengan hal-hal yang membentuk kita."
+    },
+    {
+      "id": 54,
+      "model": "이스마엘과거",
+      "content": "Aku bahkan tidak tahu apa yang membentuk diriku. Bagaimana mungkin aku mewarnai orang lain seperti diriku... jika aku sendiri tidak tahu siapa diriku?"
+    },
+    {
+      "id": 55,
+      "model": "이스마엘과거",
+      "content": "Mungkin aku lebih dangkal daripada Paus."
+    },
+    {
+      "id": 56,
+      "model": "이스마엘과거",
+      "content": "Aku, yang menaiki Pequod hanya karena ingin menjalani hidup yang berbeda dari orang lain. Hanya karena hidup yang biasa-biasa saja terlalu membosankan bagiku..."
+    },
+    {
+      "id": 57,
+      "model": "이스마엘과거",
+      "content": "Aku..."
+    },
+    {
+      "id": 58,
+      "model": "이스마엘과거",
+      "content": "Apa sebenarnya yang kuinginkan?"
+    },
+    {
+      "id": 59,
+      "model": "이스마엘과거",
+      "content": "Di dalam kegelapan, ketika perbedaan dari segala sesuatu mulai kabur..."
+    },
+    {
+      "id": 60,
+      "model": "이스마엘과거",
+      "content": "Aku melihat cahaya."
+    },
+    {
+      "id": 61,
+      "model": "이스마엘과거",
+      "content": "Seberkas cahaya menembus sebuah celah. Aku melihat tali dijatuhkan dari sana. Tali yang diturunkan dari langit ke dalam jurang gelap dan sunyi ini."
+    },
+    {
+      "id": 62,
+      "model": "이스마엘과거",
+      "content": "Tali ini. Aku ingin berpegangan pada tali ini dan tetap hidup."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘과거",
+      "content": "Karena tali itu ada di sana, tepat di hadapanku."
+    },
+    {
+      "id": 64,
+      "model": "퀴케그과거",
+      "content": "Ishmael!"
+    },
+    {
+      "id": 65,
+      "model": "퀴케그과거",
+      "content": "Talinya, pegang dengan erat!"
+    },
+    {
+      "id": 66,
+      "model": "이스마엘과거",
+      "content": "Ah..."
+    },
+    {
+      "id": 67,
+      "model": "스타벅과거",
+      "content": "Astaga... Mati di dalam minyak ni... Takkan ada yang tersisa darimu untuk dapat dikenang oleh siapa pun."
+    },
+    {
+      "id": 68,
+      "model": "이스마엘과거",
+      "content": "Ya. Kurasa aku hampir mati dalam salah satu kematian paling tidak berarti di City..."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘과거",
+      "content": "Mungkin hari itu aku terlahir kembali."
+    },
+    {
+      "id": 70,
+      "model": "이스마엘과거",
+      "content": "Tali yang kupegang hari itu... adalah tali yang takkan pernah bisa diputus."
+    },
+    {
+      "id": 71,
+      "place": "Serambi Kanan Paus Pucat",
+      "model": "퀴케그",
+      "content": "Tali itu. Tali itu putus."
+    },
+    {
+      "id": 72,
+      "model": "이스마엘",
+      "content": "Tidak, tidak. Tali itu bisa... Kita bisa menyambungkannya lagi. Kita akan membuat simpul lain. Selama kita bisa sampai ke jantung..."
+    },
+    {
+      "id": 73,
+      "model": "이스마엘",
+      "content": "... kau akan bebas."
+    },
+    {
+      "id": 74,
+      "model": "퀴케그",
+      "content": "Saat kami terjebak di sini..."
+    },
+    {
+      "id": 75,
+      "model": "퀴케그",
+      "content": "Kami hanya memikirkan satu hal. Hanya satu. Agar tidak menjadi Putri Duyung."
+    },
+    {
+      "id": 76,
+      "model": "퀴케그",
+      "content": "Keraguan. Kebimbangan. Dan warna pucat mulai tumbuh di kulit."
+    },
+    {
+      "id": 77,
+      "model": "퀴케그",
+      "content": "Kau tahu. Seperti minyak Paus."
+    },
+    {
+      "id": 78,
+      "model": "퀴케그",
+      "content": "Aku memikirkan satu hal. Untuk bertemu denganmu lagi, untuk menjalani petualangan baru bersamamu, aku harus melarikan diri. Harus membunuh Paus."
+    },
+    {
+      "id": 79,
+      "model": "퀴케그",
+      "content": "Tapi untuk melakukan itu, aku harus memutus... talinya."
+    },
+    {
+      "id": 80,
+      "model": "퀴케그",
+      "content": "Agar tidak menjadi Putri Duyung, aku memikirkan satu hal itu. Kupikirkan hal itu berulang kali. Dan tiba-tiba..."
+    },
+    {
+      "id": 81,
+      "model": "퀴케그",
+      "content": "Aku menguburmu."
+    },
+    {
+      "id": 82,
+      "model": "퀴케그",
+      "content": "Jantung Paus. Untuk membunuhnya..."
+    },
+    {
+      "id": 83,
+      "model": "퀴케그",
+      "content": "Aku menidurkan hatiku."
+    }
+  ]
+}
