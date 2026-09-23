@@ -1,0 +1,250 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Perahu Kecil Mephistopheles",
+      "model": "단테2",
+      "content": "<Aku masih tidak dapat melihat siapa pun di dek...>"
+    },
+    {
+      "id": 1,
+      "model": "돈키호테",
+      "content": "Tunggu sebentar. Akan kugunakan paru-paruku untuk mengeluarkan raungan dahsyat yang memaksa mereka memperhatikan kita!"
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "content": "HEEEI!!!!!"
+    },
+    {
+      "id": 3,
+      "model": "히스클리프",
+      "content": "Diam! Kau akan memecahkan gendang telingaku."
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Ngomong-ngomong... apa tidak masalah kita menerobos masuk ke... pesta kapal pesiar seperti ini?"
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "Kita juga tidak punya, uh... undangan atau semacamnya."
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Busungkan dadamu, Greg~ Semakin banyak, semakin meriah, benar? Mereka pasti mengerti~"
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Aku tidak peduli pada pesta. Kita di sini untuk mengumpulkan informasi. Membuang-buang waktu lagi dan aku akan pergi meninggalkan kalian."
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Wah... Tempat... tempat ini benar-benar mewah...!"
+    },
+    {
+      "id": 9,
+      "place": "Kapal Pesiar",
+      "content": "Banyak botol minuman keras dan makanan yang tersisa setengah berserakan di seluruh dek."
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Sepertinya pesta ini baru saja berakhir secara tiba-tiba."
+    },
+    {
+      "id": 11,
+      "model": "돈키호테",
+      "content": "Ah! AKu melihat sebuah cahaya dari dalam kapal! Aku akan melesat seperti angin dan memeriksa sumbernya!!!"
+    },
+    {
+      "id": 12,
+      "content": "Don Quixote, didorong kegembiraan terhadap pesta, bergegas menuju kabin."
+    },
+    {
+      "id": 13,
+      "model": "히스클리프",
+      "content": "Yah, satu bocah berisik sudah pergi... Kalau begitu...!"
+    },
+    {
+      "id": 14,
+      "content": "Heathcliff menghantam pengeras suara yang sejak tadi memutar musik dengan sangat keras menggunakan tinjunya."
+    },
+    {
+      "id": 15,
+      "model": "히스클리프",
+      "content": "Astaga... Lega rasanya. Kukira gendang telingaku akan pecah."
+    },
+    {
+      "id": 16,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 17,
+      "content": "Aku memutuskan untuk tetap diam. Musiknya memang cukup keras."
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "Yah, sekarang tempat ini menjadi sangat sunyi setelah musiknya berhenti."
+    },
+    {
+      "id": 19,
+      "model": "홍루",
+      "content": "Oh, ini mengingatkanku pada cerita serupa yang dulu pernah diceritakan oleh pengasuhku. Cerita lama, tapi..."
+    },
+    {
+      "id": 20,
+      "content": "Don Quixote kembali dengan ekspresi tercengang."
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "Tidak ada... apa-apa..."
+    },
+    {
+      "id": 22,
+      "model": "로쟈",
+      "content": "Apa? Tidak ada apa? Makanan? Minuman? Keduanya?"
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "Tidak ada... siapa-siapa."
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "Namun... lampunya dibiarkan menyala... Tanpa satu jiwa pun terlihat di dalam..."
+    },
+    {
+      "id": 25,
+      "model": "오티스",
+      "content": "Konyol. Jelas beberapa saat lalu sekelompok orang sedang berpesta di dek. Bagaimana mungkin tidak ada siapa pun di kapal saat ini?"
+    },
+    {
+      "id": 26,
+      "model": "돈키호테",
+      "content": "S-sungguh! Mungkin... mereka sedang bermain petak umpet...?"
+    },
+    {
+      "id": 27,
+      "model": "그레고르",
+      "content": "Sulit membayangkan bahwa orang-orang yang meninggalkan semua botol minuman keras ini adalah tipe orang yang suka bermain petak umpet seperti anak-anak di sebuah pesta..."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "Lalu apa, mereka tiba-tiba menghilang begitu saja? Seolah-olah mereka— Tunggu, apakah Ombak sudah...?"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Masih tersisa satu kemungkinan: ruang penyimpanan kapal."
+    },
+    {
+      "id": 30,
+      "model": "로쟈",
+      "content": "Maksudmu, orang-orang yang berpesta ini... meninggalkan semua makanan dan minuman yang belum habis ini hanya untuk berkerumun di ruang penyimpanan yang sempit...?"
+    },
+    {
+      "id": 31,
+      "model": "홍루",
+      "content": "Ohh~ Sekarang aku ingat! Ya! Ceritanya memang seperti ini!"
+    },
+    {
+      "id": 32,
+      "model": "홍루",
+      "content": "Suatu ketika, sebuah rumah besar mengirimkan undangan untuk sebuah pesta megah. Namun, ketika para tamu tiba, mereka mendapati rumah itu kosong dan diselimuti keheningan yang mencekam..."
+    },
+    {
+      "id": 33,
+      "model": "싱클레어",
+      "content": "B-bagaimana kalau kita nyalakan musiknya lagi?"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Aku menghancurkan radionya, Nak."
+    },
+    {
+      "id": 35,
+      "model": "이스마엘",
+      "content": "Jika kapal ini terkena Ombak, berarti kita harus segera keluar dari sini..."
+    },
+    {
+      "id": 36,
+      "model": "홍루",
+      "content": "Lalu... Boom! Boom! Suara benturan terdengar dari balik pintu yang sedikit terbuka...! Jadi, tentu saja, mereka masuk untuk menyelidikinya, dan..."
+    },
+    {
+      "id": 37,
+      "model": "돈키호테",
+      "content": "Dan...?! Dan?!"
+    },
+    {
+      "id": 38,
+      "model": "싱클레어",
+      "content": "……."
+    },
+    {
+      "id": 39,
+      "model": "홍루",
+      "content": "... Dan di sanalah mereka berada! Tubuh-tubuh sekaku mayat yang mengalami <ruby=pengerasan dan kaku otot>rigor mortis</ruby>, lengan terentang ke depan, melompat naik turun...!"
+    },
+    {
+      "id": 40,
+      "model": "싱클레어",
+      "content": "OH! Itu... A-aku...!!! Kurasa aku akan memeriksa ruang penyimpanan!!"
+    },
+    {
+      "id": 41,
+      "model": "돈키호테",
+      "content": "Sinclair, mengapa telapak tanganmu begitu basah?"
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "Genetik...!"
+    },
+    {
+      "id": 43,
+      "content": "Sinclair buru-buru meninggalkan ruangan untuk mencari ruang penyimpanan kapal."
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "... Rupanya itu tarian yang sangat populer saat itu~"
+    },
+    {
+      "id": 45,
+      "model": "돈키호테",
+      "content": "... Seni menari... sungguh merupakan seni yang sangat mendalam..."
+    },
+    {
+      "id": 46,
+      "model": "히스클리프",
+      "content": "Yah, ternyata antiklimaks. Kukira ceritanya bakal mengarah ke sesuatu."
+    },
+    {
+      "id": 47,
+      "model": "이상",
+      "content": "Aku cukup yakin ini akan menjadi kisah tentang orang mati yang hidup kembali."
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Kenapa kau melakukan itu? Kau menakuti anak itu... Ke mana dia pergi?"
+    },
+    {
+      "id": 49,
+      "model": "단테2",
+      "content": "<... Aku akan mencari Sinclair.>"
+    }
+  ]
+}
