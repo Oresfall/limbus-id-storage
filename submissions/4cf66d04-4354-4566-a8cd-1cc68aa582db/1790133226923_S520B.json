@@ -1,0 +1,317 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dek Mephistopheles",
+      "model": "이스마엘",
+      "content": "Danau itu..."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Saat aku menatap airnya... kulihat bayanganku yang berkilauan."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Mungkin aku sama terdistorsinya dan bengkok seperti bayanganku di air. Tidak peduli di Danau mana kita berada... aku selalu tampak begitu kacau, begitu tidak stabil..."
+    },
+    {
+      "id": 3,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 4,
+      "content": "Aku mendengar renungan Ishmael saat kami menuju Cabang Lobotomy Corp. yang sulit ditemukan di Great Lake. Sudah cukup lama sejak insiden terakhir yang membawa bencana."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Mungkin bayanganku yang terdistorsi itu memang... diriku."
+    },
+    {
+      "id": 6,
+      "content": "Bahkan dari jauh, terlihat jelas bahwa Ishmael sedang menatap bayangannya sendiri di permukaan air."
+    },
+    {
+      "id": 7,
+      "content": "Aku menghentikan langkahku dan memutuskan mengawasinya sejenak."
+    },
+    {
+      "id": 8,
+      "content": "Aku... ingin melihat apa yang Ishmael lihat. Bersama-sama."
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Tanganku... mengelupas... berdarah..."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Air asin merembes ke luka-lukaku yang terbuka. Sakit sekali. Begitu sakit sampai kupikir aku akan pingsan jika tidak melepaskan diri..."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Tapi aku tidak bisa."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "A..."
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Apa yang sedang kupegang?"
+    },
+    {
+      "id": 14,
+      "model": "단테2",
+      "content": "<…!>"
+    },
+    {
+      "id": 15,
+      "model": "오티스",
+      "content": "Manajer Eksekutif, ada masalah yang membutuhkan perhatianmu! Kita mendekati koordinat berikutnya."
+    },
+    {
+      "id": 16,
+      "model": "단테2",
+      "content": "<B-baik!>"
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Aku akan kesana untuk melihatnya juga."
+    },
+    {
+      "id": 18,
+      "content": "Ishmael tersadar dari lamunannya dan menegakkan tubuh. Dia berjalan ke arah kami."
+    },
+    {
+      "id": 19,
+      "place": "Kabin Mephistopheles",
+      "model": "이스마엘",
+      "content": "Apa yang ada di depan?"
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "Radar menangkap sesuatu. Kami melihat..."
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "... Sebuah kapal tunggal."
+    },
+    {
+      "id": 22,
+      "model": "오티스",
+      "content": "Dan sepertinya kita harus menunggu tiga jam sebelum diizinkan melanjutkan ke Danau berikutnya. Kecuali..."
+    },
+    {
+      "id": 23,
+      "model": "오티스",
+      "content": "... Manajer Eksekutif mengizinkan kita menghadapi Ombak sekali lagi..."
+    },
+    {
+      "id": 24,
+      "model": "단테2",
+      "content": "<Tidak, Outis.>"
+    },
+    {
+      "id": 25,
+      "model": "단테2",
+      "content": "<Kerugiannya lebih parah dari perkiraanku... Dan ingat kata Ishmael. Kita sangat beruntung Ombak yang datang menghadapi kita relatif mudah ditangani.>"
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "Baik, Manajer Eksekutif."
+    },
+    {
+      "id": 27,
+      "content": "Berkat Outis yang segera membatalkan gagasan itu, aku dan para Sinners dapat mengamati kapal baru ini dengan hati yang sedikit lega."
+    },
+    {
+      "id": 28,
+      "place": "Dek Mephistopheles",
+      "model": "싱클레어",
+      "content": "Ah, sungguh melegakan. Itu tidak tampak seperti kapal bajak laut. Itu..."
+    },
+    {
+      "id": 29,
+      "model": "돈키호테",
+      "content": "OOOOOOOOOOOHHH!"
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "LIHAT! Itu kapal Mini-Cruuuiise di sana!"
+    },
+    {
+      "id": 31,
+      "model": "돈키호테",
+      "content": "Kapal pesta sungguhan! Kapal untuk berpesta!"
+    },
+    {
+      "id": 32,
+      "content": "Bahkan dari jarak sejauh ini, aku dapat melihat balon dan spanduk warna-warni yang menghiasi kapal."
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "AKU! SUKA! BERPESTAAAA!"
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "content": "Tidak seorang pun akan terganggu, seberapa pun aku bersenang-senang di pesta! Tidak akan ada yang akan memedulikan aku melompat, berlari, dan berteriak di sana! Sungguh menyenangkan, bukan?!"
+    },
+    {
+      "id": 35,
+      "model": "로쟈",
+      "content": "Vergie... Jangan terlalu keras dengannya, oke...?"
+    },
+    {
+      "id": 36,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 37,
+      "model": "로쟈",
+      "content": "Tapi... mmm. Aku yakin mereka juga menjual makanan khas setempat di sana... Minuman keras... Camilan lain yang nggak bisa ditemukan <ruby=The City>di tempat ini...</ruby>"
+    },
+    {
+      "id": 38,
+      "content": "Rodya dan Don Quixote sama-sama melirikku dengan mata berbinar, lalu ke arah Vergilius. Kemudian kembali menatapku."
+    },
+    {
+      "id": 39,
+      "content": "Vergilius mengangkat bahu. Apa pun yang kami lakukan di sini bukanlah urusannya."
+    },
+    {
+      "id": 40,
+      "model": "단테2",
+      "content": "<... Yah... Mungkin mereka bisa memberi tahu sesuatu tentang Cabang Lobotomy Corp. di dekat sini. Atau mungkin mereka tahu sesuatu tentang para Agen LCCB...?>"
+    },
+    {
+      "id": 41,
+      "model": "돈키호테",
+      "content": "Hmm, hmhm~ Hm hm~"
+    },
+    {
+      "id": 42,
+      "content": "Don Quixote menggerakkan bahunya mengikuti irama... Mungkin dia mencoba meniru Tarian Marlin yang dilihatnya di Klub."
+    },
+    {
+      "id": 43,
+      "model": "돈키호테",
+      "content": "Heigh-ho!!! Izinkan aku untuk mengajukan beberapa pertanyaan kepada kalian!!"
+    },
+    {
+      "id": 44,
+      "content": "Musik yang samar dan menggelegar adalah satu-satunya jawaban dari kapal itu."
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "Mungkin mereka tidak bisa mendengar kita karena musiknya. Astaga, musik zaman sekarang... terlalu keras bagiku..."
+    },
+    {
+      "id": 46,
+      "model": "그레고르",
+      "content": "Akan lebih cepat jika kita pergi ke sana dan bertanya langsung."
+    },
+    {
+      "id": 47,
+      "model": "단테2",
+      "content": "<......>"
+    },
+    {
+      "id": 48,
+      "model": "단테2",
+      "content": "<Kurasa kita bisa mampir sebentar dan mengajukan beberapa pertanyaan.>"
+    },
+    {
+      "id": 49,
+      "content": "Lagipula, kami masih punya waktu tiga jam untuk bersantai. Sebaiknya kita memanfaatkannya untuk mengumpulkan informasi."
+    },
+    {
+      "id": 50,
+      "content": "Ishmael melirik Vergilius sebelum menatap lantai tanpa berkata-kata."
+    },
+    {
+      "id": 51,
+      "model": "이스마엘",
+      "content": "... Menurutku mendayung ke kapal yang tidak kita ketahui apa pun tentangnya, seperti pemilik atau sejarahnya, adalah gagasan yang ceroboh, tapi jika Manajer Eksekutif bersikeras..."
+    },
+    {
+      "id": 52,
+      "model": "이스마엘",
+      "content": "Baiklah. Ayo 'mampir' sebentar."
+    },
+    {
+      "id": 53,
+      "model": "히스클리프",
+      "content": "Ucapanmu benar-benar mirip Outis, eh?"
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "... Tadi itu hanya sikap yang kuputuskan untuk diterapkan."
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56,
+      "place": "Perahu Kecil Mephistopheles",
+      "model": "파우스트",
+      "content": "Saat ini, perahu kecil ini sangat berguna."
+    },
+    {
+      "id": 57,
+      "model": "이상",
+      "content": "Apa perahu ini... tidak akan terbalik?"
+    },
+    {
+      "id": 58,
+      "model": "싱클레어",
+      "content": "Haruskah aku membawa jaket pelampung atau ban pelampung?"
+    },
+    {
+      "id": 59,
+      "content": "Saat kami bertiga belas berhasil masuk, perahu kecil itu terasa sesak dan bergoyang-goyang tidak stabil. Beberapa Sinners tampak cemas."
+    },
+    {
+      "id": 60,
+      "model": "단테2",
+      "content": "<Jangan khawatir. Bahkan jika kalian semua tenggelam, aku akan segera menghidupkan kalian kembali. Kalian akan baik-baik saja.>"
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "……."
+    },
+    {
+      "id": 62,
+      "model": "단테2",
+      "content": "<B-bercanda...>"
+    },
+    {
+      "id": 63,
+      "place": "Dek Mephistopheles",
+      "model": "베르길리우스",
+      "content": "Baiklah. Minumlah dengan bertanggung jawab, semuanya."
+    },
+    {
+      "id": 64,
+      "content": "Dengan sikap yang tidak seperti biasanya, Vergilius melambaikan tangannya kepada kami. ... Apakah dia mengetahui sesuatu yang tidak kami ketahui?"
+    }
+  ]
+}
