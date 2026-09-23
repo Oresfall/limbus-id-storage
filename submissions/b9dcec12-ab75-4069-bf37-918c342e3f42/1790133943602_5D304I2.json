@@ -1,0 +1,63 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "핍",
+      "content": "Ehehehe, heheh. Hehe!"
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Kematian Stubb yang membuatmu jadi seperti ini, ya...?"
+    },
+    {
+      "id": 2,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Stubb tidak mati, Nona Ishmael!"
+    },
+    {
+      "id": 3,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Pip sendiri pasti akan mengatakan hal yang sama! Dia meremukkan hatinya sendiri dan menyerahkan dirinya kepadaku agar terbebas dari rasa bersalahnya!"
+    },
+    {
+      "id": 4,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Jangan begitu kejam kepada seorang anak kecil, Ishmael! Tatap aku!"
+    },
+    {
+      "id": 5,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Hatinya yang hancur membawanya kepadaku, dan aku telah membebaskannya dari rasa bersalahnya sebaik mungkin!"
+    },
+    {
+      "id": 6,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Tapi apa yang kau lakukan? Tidak ada! Setidaknya kau bisa menawarkan diri untuk mendayung menggantikan Pip pada hari itu!"
+    },
+    {
+      "id": 7,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Kesalahan ini ada padamu, Ishmael!"
+    },
+    {
+      "id": 8,
+      "model": "에이해브",
+      "teller": "Ahab",
+      "title": "Effloresced E.G.O::GasHarpoon",
+      "content": "Namun kau bilang bahwa akulah yang jahat di sini?"
+    }
+  ]
+}
