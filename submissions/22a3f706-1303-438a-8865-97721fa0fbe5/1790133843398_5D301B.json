@@ -1,0 +1,38 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Area Pertemuan Sebelum Jantung",
+      "model": "싱클레어",
+      "content": "Akhirnya, setelah semua ini selesai... Kita bisa keluar dari sini."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<Kurasa Ahab belum sampai di sini...>"
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Tsk... apakah itu Abnormality?"
+    },
+    {
+      "id": 3,
+      "content": "Sesuatu sedang bergerak di hadapan kami. Sosok yang tertusuk banyak batang <ruby=fluoresen>memancarkan cahaya</ruby>."
+    },
+    {
+      "id": 4,
+      "model": "이스마엘",
+      "content": "... Minggir dari jalanku."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Awas, dia menyerang!>"
+    },
+    {
+      "id": 6,
+      "content": "Mungkin dia merasa terancam saat Ishmael meraih harpun. Sosok itu melompat keluar dari Danau dan mulai menyerbu kami."
+    }
+  ]
+}
