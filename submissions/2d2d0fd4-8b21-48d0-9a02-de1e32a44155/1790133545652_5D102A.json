@@ -1,0 +1,156 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Di Dalam Paus Pucat",
+      "model": "그레고르",
+      "content": "Haa... Ya, ayo pergi sebelum lebih banyak Putri Duyung muncul."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Pergi ke mana...? Kita terjebak di dalam Paus."
+    },
+    {
+      "id": 2,
+      "model": "로쟈",
+      "content": "Apa kita... apa kita akan berakhir seperti mereka juga? Kau tahu, kita telah... 'dilahap'."
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "Golden Bough di dalam kepala Dante kemungkinan menangkal efek Pemucatan pada tubuh para Sinners."
+    },
+    {
+      "id": 4,
+      "model": "파우스트",
+      "content": "Namun tidak ada jaminan bahwa efek perlindungan ini akan bertahan selamanya."
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "Kita harus memperhitungkan bahwa kita berada di lingkungan yang tidak dikenal."
+    },
+    {
+      "id": 6,
+      "content": "Dengan kata lain, terlalu lama berada di sini dapat mengubah kita menjadi Putri Duyung seperti mereka..."
+    },
+    {
+      "id": 7,
+      "content": "Aku tidak yakin jika dapat menghidupkan kembali Sinners yang telah berubah menjadi Putri Duyung."
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<Tapi... Kita harus pergi ke mana?>"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Aku bahkan tidak punya sedikit pun gambaran tentang tempat kita berada...>"
+    },
+    {
+      "id": 10,
+      "model": "홍루",
+      "content": "Aneh... Aku tidak tahu kalau hujan bisa turun di dalam perut Paus."
+    },
+    {
+      "id": 11,
+      "content": "Aku masih tidak tahu harus pergi ke mana, bahkan mulai merasa benar-benar tersesat... ketika Hong Lu tiba-tiba mengatakan sesuatu tentang hujan."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<... Apa yang kau bicarakan?>"
+    },
+    {
+      "id": 13,
+      "model": "홍루",
+      "content": "Oh, aku hanya merasakan beberapa tetes air di bahuku."
+    },
+    {
+      "id": 14,
+      "model": "히스클리프",
+      "content": "... Tunggu."
+    },
+    {
+      "id": 15,
+      "model": "히스클리프",
+      "content": "Ini tempat pertama kita mendarat setelah Paus itu menelan kita bulat-bulat, iya kan?"
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<Benar...>"
+    },
+    {
+      "id": 17,
+      "model": "히스클리프",
+      "content": "Maaf, terkadang aku hanya perlu seseorang untuk memastikan nalarku."
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Saat kau memakan sesuatu... di mana biasanya benda itu pertama kali mendarat?"
+    },
+    {
+      "id": 19,
+      "model": "로쟈",
+      "content": "Perutku, tentu saja. Perutku yang malang dan kelaparan..."
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "... Aku mengerti maksudmu, Heathcliff."
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Lambung terus-menerus mengeluarkan asam untuk mencerna makanan secara efektif."
+    },
+    {
+      "id": 22,
+      "model": "싱클레어",
+      "content": "Ya, kurasa aku mempelajarinya di sekolah. Biasanya berupa asam yang sangat kuat..."
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "Yang... melarutkan segala sesuatu yang disentuhnya..."
+    },
+    {
+      "id": 24,
+      "model": "홍루",
+      "content": "Ohh~"
+    },
+    {
+      "id": 25,
+      "model": "홍루",
+      "content": "Jadi itu sebabnya pakaianku meleleh di tempat yang terkena air. Rasanya juga agak perih."
+    },
+    {
+      "id": 26,
+      "content": "Aku menatap bahu Hong Lu. Sesuatu telah melubanginya, dan kulit di sekitarnya mendesis serta meleleh."
+    },
+    {
+      "id": 27,
+      "model": "돈키호테",
+      "content": "Apakah kita ditakdirkan untuk menjadi bubur... segera setelah tiba di sini...?"
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "Namun, ada satu penemuan yang positif. Makhluk ini tampaknya memiliki mekanisme biologis dan bentuk yang mirip dengan organisme biasa."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<Semuanya... Kita harus lari...!>"
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<Aku tidak peduli berapa banyak bagian tubuh kalian yang tersisa, pastikan masih ada yang tersisa agar dapat kuhidupkan kembali...>"
+    }
+  ]
+}
