@@ -1,0 +1,252 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "???",
+      "content": "Sensasi pertama yang kurasakan saat terbangun adalah lembap dan dingin, tapi anehnya juga terasa hangat di beberapa tempat."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<Di mana... kita sekarang?>"
+    },
+    {
+      "id": 2,
+      "model": "홍루",
+      "content": "Hmm... Ada sesuatu seperti sungai panjang. Kalau kita mengikutinya, mungkin..."
+    },
+    {
+      "id": 3,
+      "model": "홍루",
+      "content": "... mungkin akan ada sesuatu di ujungnya?"
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Hong Lu... Bagaimana kau selalu bisa setenang itu dalam menghadapi segala hal?"
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "Benarkah...? Kurasa memang begitulah sikapnya dalam menghadapi hampir segala hal."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Bukan... Bukan itu maksudku..."
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Maksudku, menurut kalian tempat apa ini...?"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Kita baru saja..."
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Aku menyadarinya."
+    },
+    {
+      "id": 10,
+      "model": "오티스",
+      "content": "Kita mendayung menuju rahang binatang itu. Atas kemauan kita sendiri."
+    },
+    {
+      "id": 12,
+      "content": "Beberapa waktu sebelumnya..."
+    },
+    {
+      "id": 13,
+      "place": "Kabin Mephistopheles",
+      "model": "이스마엘",
+      "content": "Aku mengusulkan agar kita... masuk ke dalam perut <ruby=Pallid Whale>Paus</ruby> yang menelan Golden Bough."
+    },
+    {
+      "id": 14,
+      "model": "히스클리프",
+      "content": "... Kau gila. Semua perkelahian itu akhirnya membuatmu kehilangan akal."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Aku hanya pergi ke sana demi menyelesaikan misiku. Dan kebetulan Golden Bough menghalangi jalanku."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "Aku serahkan keputusan kepadamu. Tepatnya, kepada Manajer, karena keputusannya yang paling penting."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Perusahaan ini dan aku... Kami hanya berusaha menemukan cara untuk mencapai tujuan masing-masing. Hanya itu."
+    },
+    {
+      "id": 18,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "Lagipula, apakah ada yang punya ide lebih baik?"
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "Jika benda itu menelan Golden Bough... dan jika Golden Bough itu benar-benar dapat menangkal efek Pemucatan Paus Pucat terkutuk itu, maka..."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘",
+      "content": "... mungkin kita bisa bertahan tanpa terkena efek sampingnya."
+    },
+    {
+      "id": 22,
+      "model": "로쟈",
+      "content": "Itu sebuah pertaruhan, Ishy. Hanya saja..."
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "Ya. Kau seharusnya lebih mengerti. Karena itu adalah salah satu hal favoritmu."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Bagaimana menurutmu, Manajer?"
+    },
+    {
+      "id": 25,
+      "content": "Ishmael menatapku dengan penuh harapan, seolah dia tahu bahwa aku tak punya pilihan selain menyetujui rencana ini."
+    },
+    {
+      "id": 26,
+      "content": "Matanya seolah berkata: 'Kau sudah sejauh ini demi Golden Bough. Kau tidak akan pulang dengan tangan kosong sekarang, kan?'"
+    },
+    {
+      "id": 27,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 28,
+      "model": "베르길리우스",
+      "content": "Enam jam."
+    },
+    {
+      "id": 29,
+      "model": "베르길리우스",
+      "content": "Jika aku tidak mendengar kabar dari kalian dalam enam jam, LCA akan mengambil alih sisa misi ini."
+    },
+    {
+      "id": 30,
+      "model": "그레고르",
+      "content": "Oke, LCA mengambil alih misi, lalu... apa?"
+    },
+    {
+      "id": 31,
+      "model": "베르길리우스",
+      "content": "Begini. Jika mereka mendengar kabar buruk bahwa kalian semua memutuskan mendayung masuk ke perut Paus dan terjebak..."
+    },
+    {
+      "id": 32,
+      "model": "베르길리우스",
+      "content": "Mereka akan berdiskusi panjang tentang cara meledakkan Paus Pucat itu."
+    },
+    {
+      "id": 33,
+      "model": "베르길리우스",
+      "content": "Lalu pertempuran yang sangat panjang akan terjadi."
+    },
+    {
+      "id": 34,
+      "model": "단테",
+      "content": "<Oke, biar kuperjelas... Jika kita gagal menemukan Golden Bough yang tersangkut di suatu tempat dalam perut Paus dalam enam jam, kau takkan ragu meledakkan kami berkeping-keping bersama Paus itu? Begitu, kan?>"
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "Aku tidak akan menyampaikan komentar itu."
+    },
+    {
+      "id": 36,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 37,
+      "model": "단테",
+      "content": "<Faust, bagaimana peluang kita?>"
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "Peluang kita tidak nol. Namun bisa dibilang nyaris nihil."
+    },
+    {
+      "id": 39,
+      "model": "파우스트",
+      "content": "Setidaknya berdasarkan variabel yang diketahui saat ini."
+    },
+    {
+      "id": 40,
+      "model": "이스마엘",
+      "content": "Jadi kita masih *punya* peluang."
+    },
+    {
+      "id": 41,
+      "model": "단테",
+      "content": "<... Apa kau punya ide lain yang bisa membawa kita mendapatkan Golden Bough?>"
+    },
+    {
+      "id": 42,
+      "model": "파우스트",
+      "content": "Tidak, untuk saat ini."
+    },
+    {
+      "id": 43,
+      "model": "파우스트",
+      "content": "Namun, yang bisa kukatakan adalah kita memiliki sejarah menyelesaikan misi secara dramatis meski peluang suksesnya sangat rendah."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Oke kalau begitu. Mari kita selesaikan ini.>"
+    },
+    {
+      "id": 45,
+      "place": "Di Dalam Paus Pucat",
+      "model": "파우스트",
+      "content": "... Benar. Ketiadaan rencana menjadi rencana itu sendiri."
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "Ini semakin menegaskan kebenaran teori baruku."
+    },
+    {
+      "id": 47,
+      "content": "Untungnya, kami tidak kehilangan satu pun Sinner dalam perjalanan turun. Kedua belas orang berhasil sampai di sini, seperti yang telah direncanakan."
+    },
+    {
+      "id": 48,
+      "content": "Tapi..."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Teman-teman, di mana—di mana perahunya?>"
+    },
+    {
+      "id": 50,
+      "content": "Perahu itu tak terlihat di mana pun."
+    }
+  ]
+}
