@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Klub Pelabuhan Marlin",
+      "model": "싱클레어",
+      "content": "S-sebaiknya kau beri tahu lokasi bosmu sebelum s-situasinya memburuk..."
+    },
+    {
+      "id": 1,
+      "model": "쌍갈고리파조직원4",
+      "teller": "Bajak Laut Twinhook?",
+      "title": "???",
+      "content": "Hmph... Minum susu yang banyak dulu sebelum mulai mengancaman seperti ini, Nak."
+    },
+    {
+      "id": 2,
+      "model": "싱클레어",
+      "content": "A-aku serius! Bicara, atau yang berikutnya yang akan hancur adalah k-k..."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "... Tengkorakmu."
+    },
+    {
+      "id": 4,
+      "model": "쌍갈고리파조직원4",
+      "teller": "Twinhook Pirates?",
+      "title": "???",
+      "content": "Ha... ha ha... B-baiklah. Tenang dulu."
+    },
+    {
+      "id": 5,
+      "model": "쌍갈고리파조직원4",
+      "teller": "Twinhook Pirates?",
+      "title": "???",
+      "content": "Kapten tidak ada di sini. Kalau kalian mencari sandera... wakil kapten seharusnya tahu."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Tunjukkan arahnya."
+    },
+    {
+      "id": 7,
+      "model": "쌍갈고리파조직원4",
+      "teller": "Twinhook Pirates?",
+      "title": "???",
+      "content": "Ruangan terakhir... di ujung... uh, lorong itu..."
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "... Pergi."
+    },
+    {
+      "id": 9,
+      "model": "쌍갈고리파조직원4",
+      "teller": "Twinhook Pirates?",
+      "title": "???",
+      "content": "Aaah..."
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Bukan ke sana...! Keluar dari klub ini."
+    },
+    {
+      "id": 11,
+      "model": "쌍갈고리파조직원4",
+      "teller": "Twinhook Pirates?",
+      "title": "???",
+      "content": "Hah?! B-baik! Maaf!!"
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "... Hei, Nak... Kau semakin mahir dalam melakukan hal ini, bukan?"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "Aku tidak ingin dipuji karena melakukan hal seperti ini..."
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "content": "Aku hanya... aku hanya berpikir kita harus segera menemukan sandera itu."
+    }
+  ]
+}
