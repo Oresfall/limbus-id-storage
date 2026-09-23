@@ -1,0 +1,251 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Sudut Gelap U Corp.",
+      "model": "쌍갈고리파조직원2",
+      "teller": "Penculik 2",
+      "title": "???",
+      "content": "Dasar bajingan... Kalau bos kami tahu soal ini, tamat riwayat kalian semua...!"
+    },
+    {
+      "id": 1,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Penculik 2",
+      "title": "???",
+      "content": "Jika kalian tidak... uh, bersujud dan... memohon..."
+    },
+    {
+      "id": 2,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Penculik 2",
+      "title": "???",
+      "content": "T-tunggu! Aku belum selesai! Menjauh! Pergi!"
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Oh, ini sangat gampang."
+    },
+    {
+      "id": 4,
+      "model": "단테2",
+      "content": "<......>"
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Bagus. Sekarang kita dapat naik ke atas dan berbicara dengan 'bos' yang bertanggung jawab. Jangan membuang-buang waktu lagi."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Aku tidak mau membuka satu per satu kontainer pengiriman ini dan mencari pada tumpukan mayat yang membusuk ini."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Kamu masih bisa menunjukkan jalannya, kan?"
+    },
+    {
+      "id": 8,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Penculik 2",
+      "title": "???",
+      "content": "......"
+    },
+    {
+      "id": 9,
+      "model": "쌍갈고리파조직원2",
+      "teller": "Penculik 2",
+      "title": "???",
+      "content": "T... tolong..."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Lokasi bos kalian. Tandai di peta ini dengan jari kalian."
+    },
+    {
+      "id": 11,
+      "content": "Aku tidak yakin kapan dia mengambilnya, tapi Ishmael membawa brosur perjalanan Marlin Port. Dia mendorongnya ke wajah bajak laut itu, yang sempat meronta sejenak sebelum menunjuk lokasi di peta."
+    },
+    {
+      "id": 12,
+      "content": "Begitu jari yang gemetar itu menyentuh kertas..."
+    },
+    {
+      "id": 13,
+      "model": "단테2",
+      "content": "<Ishmael, tunggu—>"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Nah, sekarang kita punya tujuan berikutnya. Kita mau menunggu apa lagi?"
+    },
+    {
+      "id": 15,
+      "content": "Ishmael pergi sambil meninggalkan kontainer-kontainer pengiriman yang penuh dengan mayat lama dan baru di belakangnya."
+    },
+    {
+      "id": 16,
+      "model": "그레고르",
+      "content": "Seberapa besar kemungkinan Agen LCCB yang seharusnya kita temui masih hidup...?"
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Tergantung seberapa kaya kita dalam pikiran mereka."
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "... Kalau begitu, dia mungkin telah mati."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "Bahkan jika hal terburuk terjadi, kita tetap harus menemukan mayatnya. Setidaknya itu akan memberi kita sesuatu."
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "... Jika itu satu-satunya yang kami temukan di ujung jalan ini, mayatnya... Ishmael..."
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Aku... tidak yakin aku bisa memaafkan..."
+    },
+    {
+      "id": 22,
+      "model": "이스마엘",
+      "content": "Ha... siapa, aku?"
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "Bukan. Kita. Kita yang... bahkan tidak mencoba untuk menyelamatkannya."
+    },
+    {
+      "id": 24,
+      "model": "단테2",
+      "content": "<Faust.>"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Aku mendengarkan."
+    },
+    {
+      "id": 26,
+      "model": "단테2",
+      "content": "<Haruskah kita melakukan sesuatu? Apa dia akan baik-baik saja? Maksudku, Ishmael...>"
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "Aku bisa memberi jawaban tentang pembangkangannya dan kondisi emosinya."
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "Tetapi ini bukan masalah yang dapat banyak dibantu oleh jawaban Faust."
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "Manajer Eksekutif, pembangkangan seperti itu dan perilaku nyaris seperti penjahat akan berujung pada eksekusi pada organisasi mana pun."
+    },
+    {
+      "id": 30,
+      "model": "오티스",
+      "content": "Aku tahu bahwa menghukum Sinners bukan bagian dari wewenang yang diberikan padamu, tapi harus ada hukuman yang layak sesuai dengan perbuatan yang dia lakukan, agar manajemen dapat berjalan dengan baik."
+    },
+    {
+      "id": 31,
+      "model": "단테2",
+      "content": "<Outis, kau selalu di pihakku.>"
+    },
+    {
+      "id": 32,
+      "model": "단테2",
+      "content": "<Hampir selalu, setelah dipikir-pikir lagi...>"
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Aku pernah... menjadi pemimpin orang-orang, seperti dirimu sekarang. Aku dapat memahami kesulitanmu."
+    },
+    {
+      "id": 34,
+      "model": "단테2",
+      "content": "<Aku tidak tahu apakah aku masih bisa mengendalikan Ishmael... Aku benar-benar tidak tahu.>"
+    },
+    {
+      "id": 35,
+      "model": "단테2",
+      "content": "<Meski dia tampak bertindak gegabah, mungkin itu... mungkin dia tahu hal yang benar untuk dilakukan dalam situasi seperti ini.>"
+    },
+    {
+      "id": 36,
+      "model": "단테2",
+      "content": "<Kalau Ishmael tiba-tiba memutuskan untuk berhenti, atau semacamnya...>"
+    },
+    {
+      "id": 37,
+      "content": "Faust pasti akan mengajariku berbagai klausul yang dapat mencegah Ishmael untuk mengundurkan diri..."
+    },
+    {
+      "id": 38,
+      "content": "Tapi aku tidak dapat memaksanya ikut jika ketegangan ini memuncak. Lagi pula, dia telah bertindak sendiri tanpa perintahku sebelumnya."
+    },
+    {
+      "id": 39,
+      "content": "Dia memang bilang akan mengikuti perintahku. Tapi aku tidak yakin berapa lama hal itu bertahan."
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "Manajer Eksekutif. Itu tidak penting."
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Kita tidak membutuhkan 12 Sinners."
+    },
+    {
+      "id": 42,
+      "model": "단테2",
+      "content": "<... Apa maksudmu kita akan meninggalkan Ishmael begitu saja?>"
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Manajer Eksekutif. Aku sudah berkelana bertahun-tahun di negeri yang sangat jauh sebelum memulai perjalanan ini. Dan aku melakukannya dengan tekad yang kuat demi satu klausul dalam kontrakku dengan perusahaan."
+    },
+    {
+      "id": 44,
+      "model": "오티스",
+      "content": "Aku datang dengan keadaan siap dalam menghadapi semua kesulitan yang dibawa perjalanan ini. Kesulitan, konflik, dan kehilangan rekan adalah fakta yang harus aku hadapi dalam petualangan ini. Sejujurnya, aku mengharapkan semuanya terjadi di suatu titik dalam perjalanan kita."
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Oh, tentu saja, aku akan selalu berada di sisimu."
+    },
+    {
+      "id": 46,
+      "content": "Dia menambahkan bagian terakhir itu dengan lancar, tapi..."
+    },
+    {
+      "id": 47,
+      "content": "Tapi ada kecurigaan yang tumbuh di benakku: mungkin tidak semua orang merasa memiliki tempat dalam kelompok ini."
+    },
+    {
+      "id": 48,
+      "content": "Mungkin akulah satu-satunya yang mencari rasa memiliki dari mereka. Bahwa kita akan bertarung sebagai satu hati apa pun masalah yang menghadang perjalanan ini."
+    }
+  ]
+}
