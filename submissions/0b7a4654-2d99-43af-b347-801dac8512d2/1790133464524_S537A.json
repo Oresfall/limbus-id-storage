@@ -1,0 +1,265 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Perahu Kecil Mephistopheles",
+      "model": "히스클리프",
+      "content": "Baik... Aku mengerti. Sekarang aku mengerti. Semua 'batu' ini sebenarnya adalah Paus. Dan Putri Duyung keluar dari pori-pori itu."
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Tapi menurutku sangat gila kalau... Kenapa kita malah membuat mereka marah? Kita bisa saja menghindari mereka!"
+    },
+    {
+      "id": 2,
+      "model": "히스클리프",
+      "content": "Kau ingin melampiaskan amarahmu? Tiba-tiba ingin bermain pukul tikus tanah? Begitu?"
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Tentu saja tidak."
+    },
+    {
+      "id": 4,
+      "model": "이스마엘",
+      "content": "Ini satu-satunya metode yang kuketahui."
+    },
+    {
+      "id": 5,
+      "model": "히스클리프",
+      "content": "... Sebaiknya kau bersiap untuk menjelaskan maksud dari ucapanmu."
+    },
+    {
+      "id": 6,
+      "content": "Heathcliff yang murka... bukanlah satu-satunya Sinner yang menatap Ishmael dengan rasa penasaran."
+    },
+    {
+      "id": 7,
+      "content": "Outis dan Sinners lainnya juga menoleh kepadanya untuk meminta jawaban."
+    },
+    {
+      "id": 8,
+      "model": "단테2",
+      "content": "<Ishmael.>"
+    },
+    {
+      "id": 9,
+      "content": "Tentu saja aku juga."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Hah... Aku juga tidak menyangka akan benar-benar melakukan ini..."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Yah... ada sebuah kisah seperti legenda."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Legenda...?"
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Setiap Danau di Great Lake memiliki budayanya sendiri, dengan banyak orang mengembara lalu memilih tempat itu sebagai rumah. Jadi tentu saja ada banyak kisah seperti jumlah Danau."
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Namun ada satu kisah tentang Danau tertentu yang diwariskan secara lisan dari pelaut ke pelaut. Seperti legenda zaman dahulu."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Legenda 'Danau Kelabu Suram yang Berembus dan Bergemuruh'. Para pelaut menyanyikan legenda Danau itu dan mewariskannya selama bertahun-tahun."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "Doom, tebaslah jalanmu yang terselubung menuju lautan berkabut."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "Begloom, biarkan Paus menarik mutiara mereka demi mencari rona pucat."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "content": "Toom, jadilah jalan berkabutmu, dengan mengindahkan tangisan Paus."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "... Apa maksudnya?"
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "Sederhana. Pukul Paus Berpori untuk membangunkan mereka, pancing dan buru Putri Duyung mereka, maka jalan menuju Paus Pucat akan terbebas dari kabut."
+    },
+    {
+      "id": 21,
+      "model": "히스클리프",
+      "content": "Kau benar-benar percaya itu? Kau berharap kami... mempercayai omong kosong itu?"
+    },
+    {
+      "id": 22,
+      "model": "히스클리프",
+      "content": "Astaga, tidak kusangka akan pernah mengucapkan kata-kata ini sebelum ajal, tapi..."
+    },
+    {
+      "id": 23,
+      "model": "히스클리프",
+      "content": "Apa kau bodoh?"
+    },
+    {
+      "id": 24,
+      "model": "로쟈",
+      "content": "... Pfft."
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "Hah... Dengar. Apa hubungannya membangunkan Paus ini dengan menghilangkan kabut tebal itu? Setidaknya harus sedikit masuk akal, benar?"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "Heathcliff sedang membahas hubungan antara sebab dan akibat. Ini benar-benar pengalaman langka."
+    },
+    {
+      "id": 27,
+      "model": "히스클리프",
+      "content": "Diam, sok pintar... Aku serius."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "... Dan kau pikir hukum yang mengirim Ombak untuk mengejar kita jika tidak melewati perbatasan pada waktu yang tepat itu masuk akal?"
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "Huh?"
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Kau pikir hukum yang membuat kita berputar-putar sebelum mencapai tujuan, hukum yang tidak membiarkan kita kembali melalui jalan yang sama, masuk akal?"
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "Sudah kukatakan sejak awal. Bahwa akal sehat tidak berlaku di Great Lake."
+    },
+    {
+      "id": 32,
+      "model": "이스마엘",
+      "content": "Memang begitulah cara tempat ini bekerja, oke? Kau hanya... harus menerimanya."
+    },
+    {
+      "id": 33,
+      "model": "히스클리프",
+      "content": "... Baiklah. Aku mengakuinya. Tapi hukum itu seperti hukum City. Seaneh apa pun, itu tetap hukum ketat yang bisa dihitung melalui koordinat variabel atau semacamnya. Yang kau ocehkan di sini hanyalah lagu lama yang samar. Apa aku harus percaya sesuatu yang absurd?"
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "Ya. Karena aku melihatnya sendiri."
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "......"
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "content": "Bertahun-tahun lalu, saat seorang pelaut muda, bodoh, tetapi bersemangat menaiki kapal, dia mendapat kesempatan paling tidak menyenangkan untuk menyaksikan legenda ini dengan matanya sendiri."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Karena begitulah dia melihat <ruby=Pallid Whale>Paus Pucat</ruby>."
+    },
+    {
+      "id": 38,
+      "content": "Heathcliff terdiam sambil menggaruk kepalanya. Sinners lainnya juga mengangguk dan mulai berbisik."
+    },
+    {
+      "id": 39,
+      "model": "히스클리프",
+      "content": "... Aku benar-benar tidak menyukaimu."
+    },
+    {
+      "id": 40,
+      "model": "이스마엘",
+      "content": "Aku juga baru saja ingin mengatakan itu."
+    },
+    {
+      "id": 41,
+      "model": "히스클리프",
+      "content": "Aku tidak suka... semua ini. Tapi aku tahu kau bukan tipe gadis yang berbohong atau mengarang cerita hanya untuk menang dalam pertengkaran kecil."
+    },
+    {
+      "id": 42,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 43,
+      "model": "히스클리프",
+      "content": "Baiklah, mari kita lanjutkan sampai akhir. Aku akan terus memukul makhluk seperti tikus tanah itu dengan gada ini."
+    },
+    {
+      "id": 44,
+      "model": "오티스",
+      "content": "Aku juga bisa menerima penjelasanmu. Tapi... mulai sekarang, aku akan menghargai jika kau membagikan pengetahuanmu kepada kami sebelum melakukan apa pun."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "... Akan kucoba."
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "Di satu sisi, aku lega karena sekarang kita memiliki jalan yang jelas ke depan."
+    },
+    {
+      "id": 47,
+      "model": "단테2",
+      "content": "<... Ya. Kalau begitu, mari mencari Paus berikutnya.>"
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "Baik, Manajer Eksekutif."
+    },
+    {
+      "id": 49,
+      "model": "오티스",
+      "content": "Semuanya naik!"
+    },
+    {
+      "id": 50,
+      "model": "이상",
+      "content": "... Sungguh, kabut laut itu terbelah seolah ditebas pedang."
+    },
+    {
+      "id": 51,
+      "content": "Setelah kami menyingkirkan Putri Duyung dari Paus terakhir yang ditunjuk Ishmael, kabut perlahan mulai menghilang. Di baliknya terdapat Danau yang berbeda, di luar lautan kelabu."
+    },
+    {
+      "id": 52,
+      "model": "이스마엘",
+      "content": "Hah... Akhirnya."
+    }
+  ]
+}
