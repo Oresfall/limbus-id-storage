@@ -1,0 +1,580 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Jantung Paus Pucat",
+      "model": "에이해브다침",
+      "content": "Seharusnya kau menusukku! Harpun itu seharusnya menembus jantungku! Bagaimana! Kenapa harus kau yang—!"
+    },
+    {
+      "id": 1,
+      "model": "에이해브다침",
+      "content": "Kita harus menemukan Paus Pucat! Bersiap, anak buahku! Bangkit! Menggema!"
+    },
+    {
+      "id": 2,
+      "model": "에이해브다침",
+      "content": "Pelempar harpun, kencangkan tali di sekitar harpun kalian! Juru kemudi, arahkan haluan ke Paus!"
+    },
+    {
+      "id": 3,
+      "model": "에이해브다침",
+      "content": "Bentangkan layar sepenuhnya! Bentangkan layar sepenuhnya, <ruby=first mate>mualim pertamaku!</ruby> Mendayung! Kita berlayar menuju Paus Pucat tempat segala kejahatan dunia menyembur!"
+    },
+    {
+      "id": 4,
+      "model": "에이해브다침",
+      "content": "Navigator, petakan jalurnya...! Kita berlayar! Kita... berlayar..."
+    },
+    {
+      "id": 5,
+      "content": "Ahab meraung. Dia memanggil awak kapalnya, tapi mereka takkan pernah kembali."
+    },
+    {
+      "id": 6,
+      "content": "Suaranya lenyap di dalam kehampaan."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Aku akan menyaksikanmu hidup. Karena kau adalah bukti dari tahun-tahun pengembaraanku."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "Agar aku bisa terus berjuang melawan lautan yang melahap. Kesaksian atas dosa-dosaku. Pausku."
+    },
+    {
+      "id": 9,
+      "model": "에이해브다침",
+      "content": "Tidak, kau takkan memandang rendah diriku...!"
+    },
+    {
+      "id": 10,
+      "model": "에이해브다침",
+      "content": "Aku Kapten Ahab. Aku, aku...!"
+    },
+    {
+      "id": 11,
+      "content": "Darah pucat menyembur dari luka robek di jantung Paus."
+    },
+    {
+      "id": 12,
+      "content": "Seolah-olah awak Pequod sedang bersulang untuk kemenangan."
+    },
+    {
+      "id": 13,
+      "content": "Bersulang untuk kematian Paus Pucat."
+    },
+    {
+      "id": 14,
+      "content": "Bersulang untuk kejatuhan Kapten Ahab."
+    },
+    {
+      "id": 15,
+      "content": "Begitulah pelayaran ini berakhir."
+    },
+    {
+      "id": 16,
+      "model": "히스클리프",
+      "content": "Oi... Paus itu tidak membiarkan kita keluar, tubuhnya malah runtuh ke dalam...!"
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Jadi perkataannya tentang menghancurkan jantung dan melarikan diri..."
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "Tentu saja... Penuh kebohongan sampai akhir."
+    },
+    {
+      "id": 19,
+      "model": "오티스",
+      "content": "Secara teknis, itu bukan kebohongan. Pada akhirnya kita akan berada di luar Paus."
+    },
+    {
+      "id": 20,
+      "model": "로쟈",
+      "content": "Kurasa dia tidak pernah ngomong kalau kita bakalan keluar dari Paus dalam keadaan utuh. Ugh, seharusnya aku sudah menduga hal ini bakal terjadi~"
+    },
+    {
+      "id": 21,
+      "content": "THUMP!"
+    },
+    {
+      "id": 22,
+      "content": "Seseorang, atau sesuatu, menjatuhkan tali besar dan kuat dari atas kami."
+    },
+    {
+      "id": 23,
+      "model": "이스마엘",
+      "content": "…!"
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Siapa yang menjatuhkan tali itu...? >"
+    },
+    {
+      "id": 25,
+      "model": "로쟈",
+      "content": "Nggak penting, ayo kita pakai aja!"
+    },
+    {
+      "id": 26,
+      "content": "Ishmael menatap tali itu sejenak."
+    },
+    {
+      "id": 27,
+      "model": "히스클리프",
+      "content": "Kenapa kau masih berdiri di sana? Ayo pergi."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "Tali ini..."
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "content": "Aku merasa tali ini tidak akan putus."
+    },
+    {
+      "id": 30,
+      "model": "에이해브다침",
+      "content": "Kau... Seharusnya kau membunuhku..."
+    },
+    {
+      "id": 31,
+      "model": "에이해브다침",
+      "content": "Seharusnya akulah yang membunuh Paus itu...!"
+    },
+    {
+      "id": 32,
+      "model": "히스클리프",
+      "content": "Bagaimana... dengannya?"
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "... Kita biarkan dia menyaksikan tempat ini runtuh di sekelilingnya."
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "Bagaimanapun juga, Seorang kapten harus ikut tenggelam bersama kapalnya."
+    },
+    {
+      "id": 35,
+      "content": "Kami semua berpegangan pada tali dan memanjat."
+    },
+    {
+      "id": 36,
+      "content": "Seperti kata Ishmael, tali ini tidak putus. Kami merasakan angin sejuk bertiup dari luar."
+    },
+    {
+      "id": 37,
+      "content": "Kami tak pernah menoleh ke belakang, ke jurang yang dulu merupakan seekor Paus."
+    },
+    {
+      "id": 38,
+      "content": "Tak pernah."
+    },
+    {
+      "id": 39,
+      "content": "Beberapa waktu kemudian..."
+    },
+    {
+      "id": 40,
+      "place": "Kabin Mephistopheles",
+      "model": "로쟈",
+      "content": "Ternyata kulit Paus terlalu tebal dan keras untuk ditembus kebanyakan benda..."
+    },
+    {
+      "id": 41,
+      "model": "로쟈",
+      "content": "... Jadi gimana cara kau melakukannya? Hmm? Hmmm?"
+    },
+    {
+      "id": 42,
+      "content": "Sang Indigo Elder tampaknya tidak keberatan dengan pertanyaan Rodya yang dilontarkan terus-menerus dan sedikit kasar; dia menjawabnya dengan sabar."
+    },
+    {
+      "id": 43,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku tidak tahu apakah itu karena Paus Pucat telah menelan Golden Bough... atau karena dia menelan kalian semua. Namun perilakunya berubah dengan cara yang belum pernah kulihat sebelumnya. Kurasa ada sesuatu yang salah dengan otaknya."
+    },
+    {
+      "id": 44,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Jadi aku melubanginya dengan jangkarku. Hanya itu."
+    },
+    {
+      "id": 45,
+      "model": "베르길리우스",
+      "content": "Sekarang... dua dari <ruby=Five Calamities>lima Bencana</ruby> Danau telah menemui ajalnya di tanganmu."
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "Apakah kau akan tetap di sini, Indigo Elder?"
+    },
+    {
+      "id": 47,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Kenapa aku harus pergi? Laut masih menyimpan tiga Bencana lainnya."
+    },
+    {
+      "id": 48,
+      "model": "베르길리우스",
+      "content": "Hm."
+    },
+    {
+      "id": 49,
+      "model": "싱클레어",
+      "content": "Oh... Kupu-kupu itu..."
+    },
+    {
+      "id": 50,
+      "place": "Dek Mephistopheles",
+      "content": "Seekor kupu-kupu berhenti sejenak untuk beristirahat, sebelum mengepakkan sayap di atas permukaan Danau."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "Kupu-kupu itu mirip dengan yang kita lihat di Cabang Lobotomy Corp."
+    },
+    {
+      "id": 52,
+      "model": "뫼르소",
+      "content": "Tampaknya itu Kupu-kupu yang sama persis."
+    },
+    {
+      "id": 53,
+      "model": "홍루",
+      "content": "Aku iri. Bisa menyeberangi Danau sebebas dan tanpa ikatan seperti itu."
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<Menurutmu apa maksudnya? Rim...>"
+    },
+    {
+      "id": 55,
+      "model": "단테",
+      "content": "<Pada akhirnya dia memang membantu kita, tapi...>"
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "Dia memiliki harapan tertentu terhadap kita. Kurasa dia akan kembali."
+    },
+    {
+      "id": 57,
+      "model": "히스클리프",
+      "content": "Aku tidak suka menjadi pion dalam permainan pria mencurigakan itu."
+    },
+    {
+      "id": 58,
+      "model": "싱클레어",
+      "content": "Kurasa... dia mengawasi kita dari jarak dekat. Mungkin jaraknya hanya selangkah."
+    },
+    {
+      "id": 59,
+      "content": "Ishmael menatap melampaui cakrawala Danau."
+    },
+    {
+      "id": 60,
+      "content": "Dia tak lagi mengarahkan pandanganya ke perairan."
+    },
+    {
+      "id": 61,
+      "model": "단테",
+      "content": "<Ishmael.>"
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "content": "Oh, aku sedang membaca arah angin."
+    },
+    {
+      "id": 63,
+      "model": "오티스",
+      "content": "Waktunya semakin singkat. Kurasa <ruby=Waves>Ombak</ruby> akan menyerbu kita kapan saja."
+    },
+    {
+      "id": 64,
+      "model": "이스마엘",
+      "content": "... Heh."
+    },
+    {
+      "id": 65,
+      "content": "Ishmael tertawa kecil."
+    },
+    {
+      "id": 66,
+      "model": "이스마엘",
+      "content": "Kalau begitu kali ini mari kita hadapi secara langsung. Apa kau siap, Dante?"
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<Aku... tidak tahu caranya berlayar.>"
+    },
+    {
+      "id": 68,
+      "model": "이스마엘",
+      "content": "Haa... Apa kau belum mengerti? Setelah semua yang terjadi? Tidak penting seberapa hebat kau sebagai pelaut."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "content": "Yang terpenting... ada seseorang yang dapat membantu mengarahkanmu ke jalan yang benar."
+    },
+    {
+      "id": 70,
+      "model": "이스마엘",
+      "content": "Dan sebagai <ruby=first mate>mualim pertama</ruby> kapal ini, aku akan memercayai dan mengikuti arahanmu."
+    },
+    {
+      "id": 71,
+      "model": "이스마엘",
+      "content": "Jadi... kau adalah Kaptenku. Untuk sekarang."
+    },
+    {
+      "id": 72,
+      "model": "이스마엘",
+      "content": "Perahuku suatu hari akan berpetualang sendiri. Tapi untuk sekarang, akan kuikat perahu itu pada kapal yang lebih besar bernama Limbus Company dan padamu."
+    },
+    {
+      "id": 73,
+      "model": "이스마엘",
+      "content": "Karena aku benar-benar ingin tahu apa yang menungguku di akhir pelayaran ini."
+    },
+    {
+      "id": 74,
+      "model": "이스마엘",
+      "content": "... Lagipula, kalian adalah satu-satunya teman yang tersisa bagiku."
+    },
+    {
+      "id": 75,
+      "model": "단테",
+      "content": "<Ishmael...>"
+    },
+    {
+      "id": 76,
+      "model": "이스마엘",
+      "content": "Aku akan memercayai keputusan dan perintahmu, Kapten. Tapi aku tidak akan menerimanya begitu saja. Aku akan terus mempertanyakannya dan berusaha memahaminya."
+    },
+    {
+      "id": 77,
+      "model": "이스마엘",
+      "content": "Agar ketika kompas milikku tak lagi searah dengan milikmu, aku bisa membawa perahuku dan berlayar pergi."
+    },
+    {
+      "id": 78,
+      "model": "이스마엘",
+      "content": "Agar aku tidak membiarkan apa pun menguasaiku lagi. Agar aku tidak kehilangan diriku lagi."
+    },
+    {
+      "id": 79,
+      "content": "Aku bisa melihat Ombak menyerbu ke arah kita dari kejauhan."
+    },
+    {
+      "id": 80,
+      "content": "Ombak itu tetap besar biasanya. Ada sedikit rasa takut di hatiku."
+    },
+    {
+      "id": 81,
+      "content": "Namun..."
+    },
+    {
+      "id": 82,
+      "model": "단테",
+      "content": "<Kurasa kita dapat mengatasinya.>"
+    },
+    {
+      "id": 83,
+      "model": "이스마엘",
+      "content": "Heh."
+    },
+    {
+      "id": 84,
+      "place": "Kabin Mephistopheles",
+      "model": "오티스",
+      "content": "Ombak tiba dalam 15 detik. Menuju kemudi, pel— Tidak."
+    },
+    {
+      "id": 85,
+      "model": "오티스",
+      "content": "Mualim pertama Ishmael."
+    },
+    {
+      "id": 86,
+      "model": "이스마엘",
+      "content": "Kau bahkan bukan Kaptennya, Outis. Ayolah."
+    },
+    {
+      "id": 87,
+      "model": "카론",
+      "content": "Maaf menyela."
+    },
+    {
+      "id": 88,
+      "model": "카론",
+      "content": "Tapi Charon yang memegang kemudi. Berpegangan semuanya."
+    },
+    {
+      "id": 89,
+      "model": "오티스",
+      "content": "Khm..."
+    },
+    {
+      "id": 90,
+      "model": "이스마엘",
+      "content": "Haaah..."
+    },
+    {
+      "id": 91,
+      "content": "Nah, itu baru helaan napas Ishmael yang sebenarnya. Sudah lama aku tidak mendengarnya menghela napas seperti itu."
+    },
+    {
+      "id": 92,
+      "content": "Sambil menghela napas, dia menggenggam erat pegangan bus, pandangannya tertuju pada Ombak yang mendekat."
+    },
+    {
+      "id": 93,
+      "content": "Bertekad untuk tidak pernah membiarkan dirinya tersapu badai yang dibawa ombak."
+    },
+    {
+      "id": 94,
+      "content": "Rambutnya yang berwarna matahari terbenam mengalir dan berkibar ditiup angin."
+    },
+    {
+      "id": 95,
+      "model": "이스마엘",
+      "content": "Anginnya terasa... menyenangkan."
+    },
+    {
+      "id": 96,
+      "model": "이스마엘",
+      "content": "Angin yang sempurna untuk mendorong kita menuju pelayaran baru."
+    },
+    {
+      "id": 97,
+      "model": "카론",
+      "content": "Mhm. Pelayaran menuju es krim. Ciprat ciprat."
+    },
+    {
+      "id": 98
+    },
+    {
+      "id": 99,
+      "place": "Great Lake",
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Astaga, sungguh berantakan..."
+    },
+    {
+      "id": 100,
+      "teller": "Ahab",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 101,
+      "teller": "Ahab",
+      "title": "???",
+      "content": "Apakah masih... belum terlihat...?"
+    },
+    {
+      "id": 102,
+      "teller": "Ahab",
+      "title": "???",
+      "content": "Itu tidak mungkin... Kita harus melanjutkan pencarian... Sisir... setiap sudut..."
+    },
+    {
+      "id": 103,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Sayang sekali Paus itu telah mati."
+    },
+    {
+      "id": 104,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Tapi kau tidak perlu sepenuhnya menyerah pada hidup, bukan? Yang hilang darimu hanyalah 'satu' Paus."
+    },
+    {
+      "id": 105,
+      "teller": "Ahab",
+      "title": "???",
+      "content": "Kau... Kau datang untuk mengolok-olok dan mencemooh Kapten Ahab ini, bukan begitu...?"
+    },
+    {
+      "id": 106,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Kapten. Di dunia dengan kemungkinan tak terbatas ini... Apa kau sungguh berpikir hanya ada satu Paus Pucat?"
+    },
+    {
+      "id": 107,
+      "model": "에이해브",
+      "content": "……."
+    },
+    {
+      "id": 108,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Ya, kini terdapat kilatan cahaya di matamu. Kurasa kita mulai saling memahami."
+    },
+    {
+      "id": 109,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Aku akan membantumu membunuh Paus itu. Dan kali ini akan kupastikan kaulah yang melakukannya."
+    },
+    {
+      "id": 110,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Agar kau dapat memburu setiap Paus Pucat di setiap dunia."
+    },
+    {
+      "id": 111,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Yang kubutuhkan darimu hanyalah tekad dan keyakinan yang teguh."
+    },
+    {
+      "id": 112,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Jadi, apakah itu cukup menjadi alasan bagimu untuk naik ke kapalku?"
+    },
+    {
+      "id": 113,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Mari kita jadikan pelayaran ini pelayaran yang baik."
+    }
+  ]
+}
