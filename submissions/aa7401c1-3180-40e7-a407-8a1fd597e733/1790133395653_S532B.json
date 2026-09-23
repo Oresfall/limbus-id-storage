@@ -1,0 +1,618 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pintu Masuk Kapal Pengebor Lobotomy Corp.",
+      "model": "단테2",
+      "content": "<Entah bagaimana kita masih bisa menahan mereka, tapi...>"
+    },
+    {
+      "id": 1,
+      "model": "홍루",
+      "content": "Kapal di tengah itu benar-benar menarik perhatian."
+    },
+    {
+      "id": 2,
+      "model": "홍루",
+      "content": "Biasanya sesuatu yang semencolok itu punya alasan sendiri, kau tahu?"
+    },
+    {
+      "id": 3,
+      "model": "로쟈",
+      "content": "...! Uh... oh..."
+    },
+    {
+      "id": 4,
+      "model": "로쟈",
+      "content": "P-pria itu, yang berdiri di tengah..."
+    },
+    {
+      "id": 5,
+      "content": "Rodya jarang sekali menunjukkan ketakutan dan kecemasan sebesar ini."
+    },
+    {
+      "id": 6,
+      "model": "단테2",
+      "content": "<Pria aneh di sana? Dia sudah berpose seperti itu sejak kekacauan ini dimulai.>"
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "Berpose? Bukan itu maksudku, Dante..."
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Tidakkah kau mengenali tato-tatonya? Dia..."
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "Hmph. Seorang <ruby=Bitch Brother>B.B.</ruby> dari The Middle."
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Apa... itu B**ch Brother...?"
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "... Kurasa maksudnya 'Big Brother'...?"
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "…!"
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 14,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 15,
+      "model": "단테2",
+      "content": "<Maaf membahas ini sekarang, tapi...>"
+    },
+    {
+      "id": 16,
+      "model": "단테2",
+      "content": "<Apa itu... <ruby=Sindikat>The Middle?</ruby>>"
+    },
+    {
+      "id": 17,
+      "model": "단테2",
+      "content": "<Sekadar menyebut atau melihat mereka saja tampaknya... membuat banyak orang terkejut dan ketakutan. Ingat bagaimana mereka membuat Pilot trauma?...>"
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "Aku dengar <ruby=Sindikat>Fingers</ruby>, yang merupakan bagian dari The Middle..."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "... berada... di tingkat yang jauh berbeda dari Sindikat biasa. Aku belum pernah bertemu mereka secara langsung, tapi..."
+    },
+    {
+      "id": 20,
+      "model": "로쟈",
+      "content": "Tidak. Orang seperti kita... seharusnya tidak pernah bertemu mereka dalam keadaan seperti ini."
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "content": "Kita semua akan <ruby=Fucked Up Beyond Any Repair>F.U.B.A.R</ruby>."
+    },
+    {
+      "id": 22,
+      "model": "료슈",
+      "content": "Saatnya merokok untuk yang terakhir kalinya. Hari yang bagus untuk mati, bukan?"
+    },
+    {
+      "id": 23,
+      "model": "단테2",
+      "content": "<... Ryōshū, bahkan kau...?>"
+    },
+    {
+      "id": 24,
+      "model": "이상",
+      "content": "... Jika ujian harus dihadapi, kita akan menghadapinya dengan martabat dan keteguhan, Dante."
+    },
+    {
+      "id": 25,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Baiklah. Bagaimana pemanasannya?"
+    },
+    {
+      "id": 26,
+      "teller": "Little Brother",
+      "title": "The Middle",
+      "content": "Big Bro memberi kalian waktu untuk pemanasan! Hargai itu!"
+    },
+    {
+      "id": 27,
+      "model": "단테2",
+      "content": "<Dia memakai kacamata hitam? Dalam cuaca suram seperti ini...?>"
+    },
+    {
+      "id": 28,
+      "model": "오티스",
+      "content": "Semuanya. Bersiap untuk bertempur."
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "Manajer Eksekutif, pertempuran ini... musuh ini... tidak seperti yang sebelumnya pernah kita hadapi. Dalam keadaan genting seperti ini, memastikan keselamatan komandan harus menjadi prioritas utama kami."
+    },
+    {
+      "id": 30,
+      "model": "오티스",
+      "content": "Tolong segera cari tempat aman untuk bersembunyi. Pastikan kau tidak terlihat olehnya..."
+    },
+    {
+      "id": 31,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Membosankan. Kukira pemanasan kalian tidak akan selama ini."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "Mari bernegosiasi! Jika kau ingin bernegosiasi... kami siap mendengarkan."
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "Bernegosiasi dengan penjahat seperti dia...? Bagaimana..."
+    },
+    {
+      "id": 34,
+      "model": "그레고르",
+      "content": "Yah, sepertinya sekarang giliran kita yang memohon untuk diampuni..."
+    },
+    {
+      "id": 35,
+      "model": "로쟈",
+      "content": "A-aku tidak menyangka Big Brother dari The Middle akan turun langsung..."
+    },
+    {
+      "id": 36,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Ya. Tapi aku di sini sekarang."
+    },
+    {
+      "id": 37,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Jadi... Selama bertahun-tahun menjadi bagian dari The Middle..."
+    },
+    {
+      "id": 38,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Aku memiliki SATU aturan ketat yang tidak pernah kulanggar."
+    },
+    {
+      "id": 39,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "... Sampai hari ini."
+    },
+    {
+      "id": 40,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Penyusupan kalian ke dalam brankas pribadiku memaksaku untuk bertindak!"
+    },
+    {
+      "id": 41,
+      "model": "작은아우",
+      "teller": "Little Brother",
+      "title": "The Middle",
+      "content": "Astaga... Tidak bisa dipercaya! Pikiran mengerikan macam apa yang dapat melakukan hal sekeji itu...?"
+    },
+    {
+      "id": 42,
+      "model": "히스클리프",
+      "content": "... Apa? Bukankah ini tentang kejadian di klub Twinhook?"
+    },
+    {
+      "id": 43,
+      "content": "Buku kuno yang besar tergantung di pinggangnya, terikat rantai tebal. Dia mengangkatnya dengan tangan."
+    },
+    {
+      "id": 44,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Maka pada hari ini, kunyatakan dosa-dosa kalian, wahai orang-orang bersalah."
+    },
+    {
+      "id": 45,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Dosa-dosa kalian yang tak termaafkan...!"
+    },
+    {
+      "id": 46,
+      "model": "로쟈",
+      "content": "Dengar, kami memang sedikit berselisih dengan Nona Smee, tapi..."
+    },
+    {
+      "id": 47,
+      "model": "이상",
+      "content": "... Bawahanmu itu... tetap aman dan tidak terluka."
+    },
+    {
+      "id": 48,
+      "model": "그레고르",
+      "content": "T-tunggu, jangan! Berhenti—"
+    },
+    {
+      "id": 49,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "......"
+    },
+    {
+      "id": 50,
+      "model": "작은형님안경",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Smee? Siapa itu?"
+    },
+    {
+      "id": 51,
+      "model": "작은아우",
+      "teller": "Little Brother",
+      "title": "The Middle",
+      "content": "Oh, uh... bisik, bisik..."
+    },
+    {
+      "id": 52,
+      "model": "단테2",
+      "content": "<... Jangan-jangan. Dia tidak tahu...?>"
+    },
+    {
+      "id": 53,
+      "model": "이상",
+      "content": "... Sepertinya ucapanku tadi tidak diperlukan."
+    },
+    {
+      "id": 54,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Kalau begitu... uh, baiklah. Mari kita lihat... Dengan dosa tambahan itu..."
+    },
+    {
+      "id": 55,
+      "content": "Big Brother mulai membalik halaman, sesekali membasahi jarinya..."
+    },
+    {
+      "id": 56,
+      "model": "료슈",
+      "content": "Itu 'Book of Vengeance'. Begitu nama kalian tertulis di buku itu... <ruby=Fucked Up Beyond Any Repair>F.U.B.A.R</ruby> juga tertulis dalam takdir kalian. Lucu. Begitu lucu sampai aku bisa gila... Ha ha."
+    },
+    {
+      "id": 57,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Dengar baik-baik. Kita hidup di dunia biner. Dunia yang lembut... dan dunia yang kasar. Apa kalian tahu perbedaannya?"
+    },
+    {
+      "id": 58,
+      "content": "Keheningan."
+    },
+    {
+      "id": 59,
+      "content": "Dorongan untuk meneriakkan \"apa yang kau bicarakan?\" terasa kuat, namun ditekan oleh kekuatan tak dikenal dengan sangat sabar."
+    },
+    {
+      "id": 60,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Yang lembut..."
+    },
+    {
+      "id": 61,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Adalah sesuatu yang mengalir dan membungkus tanganmu dengan lembut saat jemarimu menyisirnya..."
+    },
+    {
+      "id": 62,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Sedangkan yang kasar... menusuk dan mencuat kasar di antara jari-jarimu."
+    },
+    {
+      "id": 63,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Kesabaran, ketekunan, dan sepasang tangan terampil yang lembut sangat penting untuk menjadi selembut mungkin."
+    },
+    {
+      "id": 64,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 65,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Apa kalian mengerti?"
+    },
+    {
+      "id": 66,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Sekarang kalian mengerti berapa besar usaha yang diperlukan untuk menjaga rambut ini tetap berbentuk dan selembut sempurna?"
+    },
+    {
+      "id": 67,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Dahulu ada kupon. Kupon untuk mendapatkan perawatan rambut pribadi yang sangat didambakan..."
+    },
+    {
+      "id": 68,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "... dari direktur salon rambut mewah kelas atas di salah satu pelabuhan terkaya U Corp., Kapal Pelabuhan Stingray! Selama LIMA JAM penuh!"
+    },
+    {
+      "id": 69,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Katanya, dengan kupon itu siapa pun bisa memasuki dunia kelembutan! Dan siapa pun yang memiliki kupon bisa berkunjung tanpa janji!"
+    },
+    {
+      "id": 70,
+      "model": "단테2",
+      "content": "<…….>"
+    },
+    {
+      "id": 71,
+      "model": "히스클리프",
+      "content": "Oh."
+    },
+    {
+      "id": 72,
+      "model": "단테2",
+      "content": "<Jadi... kita dituduh mengambil... kupon salon rambut miliknya?>"
+    },
+    {
+      "id": 73,
+      "model": "싱클레어",
+      "content": "Jadi saat kau menyebutnya B**ch Brother..."
+    },
+    {
+      "id": 74,
+      "model": "료슈",
+      "content": "Maksudku, dia benar-benar menyebalkan untuk disingkirkan setelah kau membuatnya marah."
+    },
+    {
+      "id": 75,
+      "model": "료슈",
+      "content": "Sialan... Seharusnya kita menjauhi bajingan-bajingan ini..."
+    },
+    {
+      "id": 76,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Kupon-kupon itu seharusnya menjadi langkah pertamaku memasuki dunia kelembutan."
+    },
+    {
+      "id": 77,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Namun, pencuri kupon itu..."
+    },
+    {
+      "id": 78,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "... membuatku terdampar tanpa batas di dunia yang kasar..."
+    },
+    {
+      "id": 79,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Lihat. Lihat bukti dosa-dosa keji kalian."
+    },
+    {
+      "id": 80,
+      "content": "Big Brother melemparkan selembar kertas ke hadapan kami."
+    },
+    {
+      "id": 81,
+      "content": "Di atasnya ada... sebuah gambar."
+    },
+    {
+      "id": 82,
+      "model": "단테2",
+      "content": "<... Heathcliff?>"
+    },
+    {
+      "id": 83,
+      "model": "히스클리프",
+      "content": "A-aku tidak tahu brankas itu miliknya! Lihat! Ada stiker kucing warna-warni di atasnya! Kalian benar-benar gila kalau mengira itu brankas Big Brother The Middle, kan?!"
+    },
+    {
+      "id": 84,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Setiap orang memiliki... selera berbeda, seperti banyaknya Danau warna-warni di Great Lake."
+    },
+    {
+      "id": 85,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Kurangnya rasa hormat kalian terhadap selera yang beragam juga harus ditambahkan ke dalam Book of Vengeance."
+    },
+    {
+      "id": 86,
+      "model": "로쟈",
+      "content": "Seseorang, tolong bungkam Heath sebelum dia menambah hal lain lagi ke dalam buku itu..."
+    },
+    {
+      "id": 87,
+      "model": "히스클리프",
+      "content": "Hup..."
+    },
+    {
+      "id": 88,
+      "model": "단테2",
+      "content": "<Heathcliff... Apa kau tahu kupon ini untuk siapa, apa, atau di mana?>"
+    },
+    {
+      "id": 89,
+      "model": "히스클리프",
+      "content": "Tentu saja tidak... Sialan..."
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "Sob... Jadi selama ini kita penjahatnya dalam kisah ini? Apakah kita hanya menjadi pencuri kecil? Mengapa kau melakukan kejahatan seperti itu, Heathcliff..."
+    },
+    {
+      "id": 91,
+      "model": "돈키호테",
+      "content": "Kau bahkan tidak pernah melirik salon rambut, lalu mengapa..."
+    },
+    {
+      "id": 92,
+      "model": "히스클리프",
+      "content": "A-aku punya alasan..."
+    },
+    {
+      "id": 93,
+      "model": "뫼르소",
+      "content": "Namun ada satu kabar baik..."
+    },
+    {
+      "id": 94,
+      "model": "뫼르소",
+      "content": "Peluang pengampunan kita, bahkan jika kuponnya dikembalikan, sangat kecil. Lebih tepatnya, hampir tidak ada."
+    },
+    {
+      "id": 95,
+      "model": "뫼르소",
+      "content": "Jadi menyimpan kupon tidak akan mengubah hasil dari pertemuan ini, Heathcliff. Kupon itu sekarang milikmu."
+    },
+    {
+      "id": 96,
+      "model": "뫼르소",
+      "content": "Kabar buruknya..."
+    },
+    {
+      "id": 97,
+      "model": "싱클레어",
+      "content": "... kita semua akan <ruby=P.D>Penghapusan Dahi.</ruby> sebelum Heathcliff sempat menggunakannya..."
+    },
+    {
+      "id": 98,
+      "content": "Saat pidato panjang dan penuh semangatnya berakhir, Big Brother The Middle dan Don Quixote sama-sama menyeka air mata."
+    },
+    {
+      "id": 99,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Dan harga dosa-dosa kalian..."
+    },
+    {
+      "id": 100,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Uh... Mari kita lihat. Bab 8, Bagian 20 mengatakan..."
+    },
+    {
+      "id": 101,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Pasal A... Ayat 6... Kupon Salon Rambut..."
+    },
+    {
+      "id": 102,
+      "model": "단테2",
+      "content": "<Buku itu punya instruksi jika seseorang mencuri kupon salon rambut mereka?!>"
+    },
+    {
+      "id": 103,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Aha! Aku menemukannya."
+    },
+    {
+      "id": 104,
+      "model": "작은형님책",
+      "teller": "Big Brother",
+      "title": "The Middle",
+      "content": "Pemusnahan total semua pihak yang terlibat; eksekusi pencuri kupon dan semua rekannya. Berlaku segera."
+    },
+    {
+      "id": 105,
+      "model": "료슈",
+      "content": "Hmph. Benar-benar seorang <ruby=Bitch Brother>B.B.</ruby>"
+    },
+    {
+      "id": 106,
+      "model": "작은형님발광",
+      "teller": "Ricardo",
+      "title": "The Middle's Big Brother",
+      "content": "Namaku Ricardo, Big Brother dari The Middle. Biarkan namaku menjadi hal terakhir yang kalian ingat sebelum binasa. Bagaimanapun juga, ingatan itu sangat penting."
+    },
+    {
+      "id": 107,
+      "content": "Ryōshū melempar rokok terakhirnya ke tanah, yang sudah terbakar hingga habis..."
+    },
+    {
+      "id": 108,
+      "model": "료슈",
+      "content": "Tidak memuaskan... Lain kali aku akan mendapatkan rokok mewah yang layak. ... Jika masih ada lain kali."
+    },
+    {
+      "id": 109,
+      "content": "Dan Big Brother itu melesat ke udara."
+    }
+  ]
+}
