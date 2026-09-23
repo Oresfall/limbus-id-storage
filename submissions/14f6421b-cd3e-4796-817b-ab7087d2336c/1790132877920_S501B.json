@@ -1,0 +1,414 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dek Mephistopheles",
+      "content": "Belum lama ini, bus ini... maksudku, perahu-bus ini terus dibuntuti oleh sirene dan lampu hijau yang berkedip-kedip."
+    },
+    {
+      "id": 1,
+      "content": "Para Sinners duduk dengan gelisah, berusaha tidur sebentar di kabin kapal (yang sebelumnya merupakan kabin bus). Mereka sepertinya sama sekali tidak berpikir untuk kembali ke kamar masing-masing."
+    },
+    {
+      "id": 2,
+      "model": "파우스트",
+      "content": "......"
+    },
+    {
+      "id": 3,
+      "content": "Setelah menatap ke luar jendela sebentar, Faust berdiri dan menghampiri kemudi kapal (yang sebelumnya merupakan kemudi bus)."
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "Nyonya Faust."
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "Ya. Kita telah menerima sinyal."
+    },
+    {
+      "id": 6,
+      "model": "단테2",
+      "content": "<Faust?>"
+    },
+    {
+      "id": 7,
+      "model": "이상",
+      "content": "Hurk... Haah... Apakah sinyal yang telah lama dinantikan akhirnya tiba...?"
+    },
+    {
+      "id": 8,
+      "model": "돈키호테",
+      "content": "Oooh! Apakah petualangan kita di Great Lake akhirnya akan segera dimulai?!"
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "Sinyal apa? Aku nggak dengar atau melihat apapun ...Bahkan alarm pun tidak berbunyi."
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Sinyal asap di luar jangkauan penglihatan kita telah terdeteksi oleh Mephistopheles."
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Sinyal asap... berarti mercusuar telah dinyalakan. Kurasa itulah alasan kita harus menunggu lama di sini."
+    },
+    {
+      "id": 12,
+      "model": "카론",
+      "content": "Saatnya berlayar. Splish splash."
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "Sebentar lagi... kita akan meninggalkan daerah pesisir dan mendekati apa yang disebut sebagai Great Lake."
+    },
+    {
+      "id": 14,
+      "model": "파우스트",
+      "content": "Mengaktifkan sistem navigasi otomatis sekarang."
+    },
+    {
+      "id": 15,
+      "model": "돈키호테",
+      "content": "Apa, apa! Maksudmu, apa yang selama ini kita lalui... bukanlah Great Lake?"
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Secara definisi, Ya, memang begitu. Kita sudah berada di dalam wilayah Great Lake selama beberapa waktu. Namun, aku membuat perbedaan berdasarkan informasi yang kau ketahui, karena sejauh ini perjalanan kita belum menghadapi ancaman yang nyata."
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "Bukan ancaman... yang sesungguhnya, katamu. Setelah semua itu..."
+    },
+    {
+      "id": 18,
+      "model": "돈키호테",
+      "content": "Lo! Yi Sang hingga saat ini terus-menerus membenamkan wajahnya ke dalam ember itu, aku ingin kau mengetahuinya...!"
+    },
+    {
+      "id": 19,
+      "model": "이상",
+      "content": "Aku... jangan hiraukan aku, tolong— hurk..."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "Aku selalu berpikir bahwa fungsi ember itu adalah untuk menguras air dari kapal jika terjadi kebanjiran... namun yang selama ini dibuang hanyalah isi perut Yi Sang..."
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "Dan! Itu, eh, Wal-puree-gisoonaught? Kejadian itu masih sangat terngiang di benakku!"
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Walpurgis Night."
+    },
+    {
+      "id": 23,
+      "model": "파우스트",
+      "content": "Dan... tidak banyak dari ‘ancaman’ tersebut yang dapat dianggap sebagai bahaya yang berasal dari Great Lake."
+    },
+    {
+      "id": 24,
+      "model": "뫼르소",
+      "content": "Kesalahan logika karena kesalahan asumsi."
+    },
+    {
+      "id": 25,
+      "model": "돈키호테",
+      "content": "... Benar-benar banyak hal menakutkan yang kamu lontarkan ke arahku. Maka, mulai sekarang aku hanya akan tidur saja..."
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "TIDAK! Kita baru saja memasuki lingkungan yang berbahaya. Kita harus tetap terjaga dan bersiap untuk menghadapi bahaya apa pun yang muncul."
+    },
+    {
+      "id": 27,
+      "model": "단테2",
+      "content": "<Outis?>"
+    },
+    {
+      "id": 28,
+      "model": "오티스",
+      "content": "Seluruh awak kapal, menuju pos pertahanan!"
+    },
+    {
+      "id": 29,
+      "content": "Outis tiba-tiba bangkit dan mulai memberikan perintah kepada para Sinners."
+    },
+    {
+      "id": 30,
+      "model": "그레고르",
+      "content": "Guh?!"
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "... Apa-apaan ini..."
+    },
+    {
+      "id": 32,
+      "model": "그레고르",
+      "content": "... Aduh, jantungku sejenak berhenti berdetak tadi."
+    },
+    {
+      "id": 33,
+      "model": "파우스트",
+      "content": "Outis, saat ini kapalnya dikendalikan oleh sistem navigasi otomatis. Sesuai namanya, sistem ini akan secara otomatis menghindari segala ancaman yang mungkin timbul di Great Lake. Jika suatu ancaman terbukti tidak dapat dihindari, sistem ini akan membunyikan alarm."
+    },
+    {
+      "id": 34,
+      "model": "오티스",
+      "content": "Bah... Apa kau berharap aku percaya pada alat aneh yang sulit dimengerti itu?"
+    },
+    {
+      "id": 35,
+      "model": "오티스",
+      "content": "Lagipula, ‘sistem navigasi otomatis’ ini tak lebih dari sekadar pemasangan asal-asalan yang dilakukan di menit-menit terakhir oleh Boatworks Fixers!"
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "... Memang benar, Faust bukanlah orang yang memasang sistem ini. Jadi, tidak. Sistem ini tidak sepenuhnya dapat diandalkan."
+    },
+    {
+      "id": 37,
+      "model": "오티스",
+      "content": "Tepat sekali. Sudah menjadi rahasia umum bahwa perjalanan seorang pelaut penuh dengan bahaya yang tak terduga, yang artinya manusia harus mampu menghadapinya!"
+    },
+    {
+      "id": 38,
+      "model": "돈키호테",
+      "content": "Lalu, apakah dirimu yang akan memimpin kapal ini menuju kemenangan?!"
+    },
+    {
+      "id": 39,
+      "model": "오티스",
+      "content": "Saya harus memanfaatkan kesempatan ini, karena sayangnya Manajer Eksekutif sama sekali tidak memiliki pengalaman yang berkaitan dengan berlayar. Untungnya, saya cukup berpengalaman dalam menjabat posisi kepemimpinan."
+    },
+    {
+      "id": 40,
+      "model": "돈키호테",
+      "content": "Ooho... Komandan!"
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Aku bukan Komandan! Aku... Kaptenmu!"
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Manajer Eksekutif! Izinkan saya untuk sementara mengambil alih wewenang Anda agar saya dapat memimpin kapal ini sebagai Kapten sementara."
+    },
+    {
+      "id": 43,
+      "content": "Dia terus berbicara sebelum aku sempat menjawab."
+    },
+    {
+      "id": 44,
+      "model": "오티스",
+      "content": "Perhatian! Berlayar, yang berarti melakukan perjalanan melintasi perairan..."
+    },
+    {
+      "id": 45,
+      "content": "Setelah beberapa lama."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "... Dengan demikian, itulah dasar-dasar dari berlayar! Kalian telah mencatat semuanya, bukan?"
+    },
+    {
+      "id": 47,
+      "model": "카론",
+      "content": "Snore, snore."
+    },
+    {
+      "id": 48,
+      "model": "돈키호테",
+      "content": "Oho, Luar biasa! Betapa banyak sekali pengetahuan baru yang telah saya peroleh! Rasanya seperti sebuah petualangan, bukan begitu?!"
+    },
+    {
+      "id": 49,
+      "model": "돈키호테",
+      "content": "Salah satu dari delapan ratus enam puluh tiga impian lamaku adalah berlayar di Great Lake sebagai seorang petualang, layaknya penantang badai, penakluk ombak ganas!"
+    },
+    {
+      "id": 50,
+      "model": "이상",
+      "content": "Betapa banyaknya impian yang kamu miliki."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "Outis, Bu? Saya punya pe-pertanyaan!"
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "Tentu, silahkan bertanya."
+    },
+    {
+      "id": 53,
+      "model": "싱클레어",
+      "content": "Eh... Tuas yang kelihatannya rumit itu buat apa?"
+    },
+    {
+      "id": 54,
+      "model": "오티스",
+      "content": "... Um."
+    },
+    {
+      "id": 55,
+      "model": "돈키호테",
+      "content": "Ah, itu memang menjadi teka-teki di benakku juga! Kira-kira apa fungsi dari alat aneh ini?"
+    },
+    {
+      "id": 56,
+      "model": "돈키호테",
+      "content": "Ooh, mungkinkah benda ini dapat memuat dan menembakkan rentetan peluru meriam hanya dengan menekan sebuah tombol? Kacha-chaw! Puh-puh-puh-pow!"
+    },
+    {
+      "id": 57,
+      "model": "이상",
+      "content": "Sebuah tuas yang sangat inovatif. Pasti akan menjadi hari yang menyenangkan ketika kita dapat menyaksikan alat ini bekerja."
+    },
+    {
+      "id": 58,
+      "model": "오티스",
+      "content": "......"
+    },
+    {
+      "id": 59,
+      "model": "오티스",
+      "content": "... Hm..."
+    },
+    {
+      "id": 60,
+      "model": "싱클레어",
+      "content": "Uh, Outis...?"
+    },
+    {
+      "id": 61,
+      "model": "오티스",
+      "content": "Hmph. Akhir-akhir ini aku semakin sering menjumpai hal-hal semacam ini. Teknologi yang sering disebut sebagai ‘mutakhir’ ini hanyalah penemuan kosong yang tidak memiliki prestasi apa pun selain penampilannya yang menarik."
+    },
+    {
+      "id": 62,
+      "model": "오티스",
+      "content": "Upaya untuk mengejar kemudahan secara membabi buta justru menimbulkan risiko yang semakin besar. Tidak ada apa pun selain kehancuran di ujung jalan yang penuh dengan ketergantungan berlebihan pada teknologi mutakhir ini!"
+    },
+    {
+      "id": 63,
+      "model": "오티스",
+      "content": "Semangat yang berkobar dalam tungku baut dan oli mesin, darah dan keringat dari kapal ini..."
+    },
+    {
+      "id": 64,
+      "model": "오티스",
+      "content": "Perpaduan antara kepemimpinan yang tegas dari komandan dan kesetiaan yang teguh dari para bawahannya."
+    },
+    {
+      "id": 65,
+      "model": "단테2",
+      "content": "<Darah? Apa?>"
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "content": "Begitulah seharusnya workshop yang mengajarkan tradisi dan sejarah benar-benar dijalankan! Nah, INILAH cara lahirnya rekan-rekan sejati!"
+    },
+    {
+      "id": 67,
+      "model": "싱클레어",
+      "content": "Aku tidak begitu mengerti apa yang dia bicarakan... tapi itu lumayan keren...! Aku bisa merasakan ada sesuatu yang bangkit dari dalam dadaku...!"
+    },
+    {
+      "id": 68,
+      "model": "돈키호테",
+      "content": "Komandan! Ah, maksudku, Kapten! Teknologi ‘mutakhir’ ini bersuara seperti keledai! Apa yang harus kita lakukan?"
+    },
+    {
+      "id": 69,
+      "model": "오티스",
+      "content": "......"
+    },
+    {
+      "id": 70,
+      "model": "오티스",
+      "content": "Aku, Outis... Akan membuktikannya kepada dunia."
+    },
+    {
+      "id": 71,
+      "model": "오티스",
+      "content": "Bahwa aku tidak membutuhkan teknologi canggih ini untuk berlayar!"
+    },
+    {
+      "id": 72,
+      "model": "오티스",
+      "content": "Dan sekarang, pelaut Don Quixote, atur tuas daya ke tingkat output maksimum!"
+    },
+    {
+      "id": 73,
+      "model": "돈키호테",
+      "content": "Tuas daya ke output maksimum! Aye aye, Kapten!"
+    },
+    {
+      "id": 74,
+      "model": "오티스",
+      "content": "Pelaut Sinclair! Atur kemudi ke posisi netral dan tekan tombolnya!"
+    },
+    {
+      "id": 75,
+      "model": "싱클레어",
+      "content": "Atur kemudi ke posisi netral, atur kemudi ke posisi netral, dan... te-tekan tombolnya!"
+    },
+    {
+      "id": 76,
+      "model": "오티스",
+      "content": "AYO BERANGKAT!"
+    },
+    {
+      "id": 77,
+      "model": "이상",
+      "content": "Mesinnya... tidak lagi bekerja."
+    },
+    {
+      "id": 78,
+      "model": "파우스트",
+      "content": "Sistem navigasi otomatis mengalami kegagalan. Sistem ini merupakan model lama; proses reboot akan selesai dalam waktu sekitar lima jam."
+    },
+    {
+      "id": 79,
+      "model": "카론",
+      "content": "Itulah akibatnya ketika kamu mengabaikan sopir bismu."
+    },
+    {
+      "id": 80,
+      "model": "단테2",
+      "content": "<Tunggu, tunggu. Jadi, kita terjebak di sini?>"
+    },
+    {
+      "id": 81,
+      "model": "파우스트",
+      "content": "Tentu saja tidak. Meskipun mesin Mephistopheles kemungkinan tidak dapat beroperasi karena telah menyatu dengan sistem navigasi otomatis, kapal ini sendiri masih tetap dapat bergerak."
+    },
+    {
+      "id": 82,
+      "model": "파우스트",
+      "content": "Kita masih memiliki sistem cadangan yang dapat diaktifkan secara manual."
+    }
+  ]
+}
