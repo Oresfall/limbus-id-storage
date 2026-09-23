@@ -1,0 +1,283 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kabin Mephistopheles",
+      "content": "Seperti yang dikatakan Ishmael, dua kapal raksasa yang berada tidak jauh dari tempat kami sedang mendekat ."
+    },
+    {
+      "id": 1,
+      "model": "단테2",
+      "content": "<Kita tidak benar-benar berada di jalur tabrakan dengan mereka, kan...?>"
+    },
+    {
+      "id": 2,
+      "content": "Ishmael tidak memberi jawaban. Sebaliknya, dia mengambil kemudi dan membantingnya ke satu arah."
+    },
+    {
+      "id": 3,
+      "model": "단테2",
+      "content": "<Woaah!>"
+    },
+    {
+      "id": 4,
+      "model": "카론",
+      "content": "Keterampilan ini... Drift spektakuler...?"
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "Hah, tidak kusangka kapal dapat meluncur seperti bus..."
+    },
+    {
+      "id": 6,
+      "model": "카론",
+      "content": "Charon, terkesan. Rambut merah... tidak buruk."
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "Kau punya saingan, Charon."
+    },
+    {
+      "id": 8,
+      "model": "그레고르",
+      "content": "...! Tunggu dulu."
+    },
+    {
+      "id": 9,
+      "model": "그레고르",
+      "content": "Aneh. Dia memutar kemudi sepenuhnya... Kenapa kita masih melaju menuju dua kapal itu?"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "I-itu seakan kita terjebak di rel..."
+    },
+    {
+      "id": 11,
+      "content": "Meski Ishmael memutar kemudi Mephistopheles ke arah berlawanan dengan dua kapal itu..."
+    },
+    {
+      "id": 12,
+      "content": "... kita malah ditarik semakin cepat oleh mereka."
+    },
+    {
+      "id": 13,
+      "content": "Dan tidak ada yang bisa kami lakukan tentang itu."
+    },
+    {
+      "id": 14,
+      "model": "로쟈",
+      "content": "Ishy?! Jangan bilang kau menginjak gigi mundur?!"
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Aku mematikan mesinnya."
+    },
+    {
+      "id": 16,
+      "model": "로쟈",
+      "content": "Apa..."
+    },
+    {
+      "id": 17,
+      "model": "홍루",
+      "content": "Woah... apakah kapal-kapal itu menyatu satu sama lain?"
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Dasar orang gila!! Itu yang ingin kau katakan?! Sebentar lagi kita bakal dihancurkan seperti serangga!"
+    },
+    {
+      "id": 19,
+      "model": "오티스",
+      "content": "Kau, pelaut! Apa yang terjadi dengan semua kesombonganmu tadi—"
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "Diam."
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "...!"
+    },
+    {
+      "id": 22,
+      "model": "이스마엘",
+      "content": "Aku akan memanfaatkan momentum tarikan itu saat kekuatannya maksimal untuk membawa kita keluar dari sini. Dan..."
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "K-kita akan bertabrakan!!!"
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Sekarang."
+    },
+    {
+      "id": 25,
+      "content": "Tepat sebelum tabrakan, Ishmael dengan cepat menghidupkan mesin dan mengatur beberapa tuas melalui serangkaian gerakan tegas, lalu melaju kencang membawa kami melewati kedua kapal tersebut."
+    },
+    {
+      "id": 26,
+      "model": "싱클레어",
+      "content": "Bagian belakang kapal kita..."
+    },
+    {
+      "id": 27,
+      "content": "Buritan kapal hancur... tapi itu lebih baik daripada terjepit sepenuhnya di antara dua kapal itu."
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "Mesin Mephistopheles dapat memperbaiki kerusakan sebesar ini dalam beberapa hari ke depan."
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "Tunggu, ini bukan sekadar kerusakan biasa... Mereka seperti menghapus bagian kapal kita."
+    },
+    {
+      "id": 30,
+      "model": "이상",
+      "content": "Hilang, seolah-olah bagian itu tidak pernah ada dalam blueprint kapal."
+    },
+    {
+      "id": 31,
+      "content": "Aku melihat lagi ke arah tempat di mana buritan kapal dulu berada. Sama seperti yang dikatakan para Sinner; buritan itu bukan hancur. Bagian itu benar-benar dihapus seolah tidak pernah ada."
+    },
+    {
+      "id": 32,
+      "content": "Meninggalkan penampang yang terlihat aneh."
+    },
+    {
+      "id": 33,
+      "place": "Di Atas Dek Mephistopheles",
+      "model": "이스마엘",
+      "content": "Benda itu adalah Singularitas U Corp., garpu resonansi."
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "Kapal yang berlayar di Great Lake dapat menyatu dan berpisah sesuai kebutuhan. Seolah-olah mereka selalu menjadi satu kapal, atau seolah-olah mereka tidak pernah menjadi bagian dari kapal yang sama."
+    },
+    {
+      "id": 35,
+      "model": "이스마엘",
+      "content": "Garpu resonansi yang dipakai oleh kapal sebesar itu cukup kuat untuk menarik kapal-kapal kecil tanpa garpu seperti kita, atau bahkan kapal yang punya garpu dengan panjang gelombang yang tidak cocok."
+    },
+    {
+      "id": 36,
+      "model": "이스mael",
+      "content": "... Oh, benar. Maaf karena mengambil alih kemudi tanpa perintah Anda, Manajer."
+    },
+    {
+      "id": 37,
+      "model": "단테2",
+      "content": "<Tidak, jangan khawatir. Kamu baru saja menyelamatkan nyawa kita semua...>"
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Aku tidak bermaksud begitu. Tapi terima kasih sudah mau mengerti."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Oh, dan maafkan aku karena sudah memberi nasihat yang tidak kamu minta. Ada seseorang yang terus-menerus mengoceh kepadaku, jadi aku terpaksa melakukannya. Lagipula, aku tidak bisa menutup telingaku di tengah perjalanan, bukan?"
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "......"
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Tsk. Aku sudah cukup sering mendengar omongan yang pedas dan kotor selama perang. Dia bukan orang pertama yang melakukannya."
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Tak masalah. Selama dia bisa menepati ucapannya... tidak perlu ikut campur, kurasa."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Maaf, Manajer Eksekutif. Aku harus... beristirahat sebentar."
+    },
+    {
+      "id": 44,
+      "model": "돈키호테",
+      "content": "Jangan terlalu kecewa, Komandan... Maksudku... Kapten...!"
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Diam. Manajer Eksekutif adalah perwira komando kita. Selalu begitu."
+    },
+    {
+      "id": 46,
+      "content": "Dengan wajah muram dan bahu yang tertunduk, Outis masuk ke kabin kapal (yang sebelumnya adalah kabin bus)."
+    },
+    {
+      "id": 47,
+      "model": "파우스트",
+      "content": "Tujuan kita sudah dekat. Selamat datang di salah satu dari Lima Pelabuhan Besar U Corp., Pelabuhan Marlin."
+    },
+    {
+      "id": 48,
+      "content": "Suara Faust terdengar kering dan tanpa emosi, seolah-olah apa yang baru saja terjadi tidak memengaruhinya sama sekali."
+    },
+    {
+      "id": 49,
+      "model": "홍루",
+      "content": "Wow... Sangat besar."
+    },
+    {
+      "id": 50,
+      "model": "홍루",
+      "content": "Benda itu merupakan salah satu kapal terbesar yang pernah aku lihat."
+    },
+    {
+      "id": 51,
+      "content": "Hong Lu benar. Kami sedang mendekati sebuah kapal raksasa, begitu besar hingga nyaris terlihat seperti sebuah pulau."
+    },
+    {
+      "id": 52,
+      "content": "Bagaimanapun juga, terlihat jelas bahwa pelabuhan itu merupakan struktur mega yang dibangun dari puluhan ribu kontainer logam."
+    },
+    {
+      "id": 53,
+      "model": "이상",
+      "content": "Kabutnya mulai menghilang, dan yang sebelumnya tidak tampak kini terlihat jelas. Aku sama sekali tidak menyangka bahwa kabut pekat itu dapat menyelimuti bangunan seperti ini."
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "content": "Kapal...? Aku tidak tahu, apakah kita masih bisa menyebut benda itu kapal pada titik ini?"
+    },
+    {
+      "id": 55,
+      "model": "단테2",
+      "content": "<Aku tidak dapat menyangkalnya. Ishmael, apakah itu masih dapat disebut sebagai kapal di Great Lake?>"
+    },
+    {
+      "id": 56,
+      "model": "이스마엘",
+      "content": "Akal sehat orang daratan tidak akan berguna di Great Lake."
+    },
+    {
+      "id": 57,
+      "model": "이스마엘",
+      "content": "Kapal-kapal yang menggunakan garpu resonansi seperti itu sudah biasa ditemukan seperti kejahatan di Backstreets. Atau, kurasa, sama seperti ikan paus yang ada di Great Lake."
+    }
+  ]
+}
