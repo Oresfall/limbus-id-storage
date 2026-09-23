@@ -1,0 +1,143 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruang VIP Klub Pelabuhan Marlin",
+      "model": "스미",
+      "teller": "???",
+      "title": "???",
+      "content": "Whew~ Kalian benar-benar membuat kekacauan di luar sana. Katakan. Siapa yang mengirim kalian? Kapten sebelah? Atau kalian ingin mengambil kepalaku demi hadiahnya?"
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "Hah... Jadi kau bos di sini?"
+    },
+    {
+      "id": 2,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Ya. Aku Smee, wakil kapten Bajak Laut Twinhook."
+    },
+    {
+      "id": 3,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Kudengar kalian ingin menemuiku. Ada urusan apa, mau minta tanda tangan?"
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "Informasi terakhir yang kami terima menyebutkan bahwa kau adalah wakil kapten."
+    },
+    {
+      "id": 5,
+      "model": "뫼르소",
+      "content": "Kami sedang mencari atasanmu. Beri tahu kami keberadaannya."
+    },
+    {
+      "id": 6,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Hook? ... Bajingan itu pasti sedang tenggelam dalam botol-botol Fairy Wine di suatu tempat, benar-benar mabuk berat."
+    },
+    {
+      "id": 7,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Memang benar, pada dasarnya akulah yang menjalankan tempat ini. Secara de facto dan sebagainya, kau tahu?"
+    },
+    {
+      "id": 8,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Dan kalian harus paham tentang kondisi kami. Bisnis parfum tidak pernah menjadi usaha yang paling menguntungkan di pelabuhan ini, jadi kami hanya ingin melebarkan sayap... Keputusan bisnis, yang murni dirancang oleh diriku sendiri."
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "Dimengerti. Kalau begitu, kau pasti memiliki informasi yang kami cari."
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Kami sedang mencari seseorang yang disandera oleh tempat ini. Serahkan informasi mengenai keberadaannya."
+    },
+    {
+      "id": 11,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Sandera? Sungguh pilihan kata yang kasar. Kami lebih suka menyebutnya sebagai tamu."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "... Tamu?"
+    },
+    {
+      "id": 13,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Ya. Kalau begitu... bagaimana jika kita membuat sebuah kesepakatan?"
+    },
+    {
+      "id": 14,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Ceritakan semua yang kalian ketahui tentang Queequeg. Aku akan memastikan tamu yang kalian cari dikembalikan dengan selamat."
+    },
+    {
+      "id": 15,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Lagi pula, tamu kami itu... Dia orang penting, bukan? Pemimpin Tim LC... apa pun itu, benar?"
+    },
+    {
+      "id": 16,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Oh, dan salah satu dari kalian adalah... teman Queequeg, benar?"
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "......"
+    },
+    {
+      "id": 18,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Ceritakan semua yang kalian ketahui tentang Queequeg."
+    },
+    {
+      "id": 19,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Apa yang dia lakukan, dengan siapa dia saat ini, hal terakhir yang dia katakan kepada kalian... Aku ingin mendengar semuanya."
+    },
+    {
+      "id": 20,
+      "model": "스미",
+      "teller": "Smee",
+      "title": "Bajak Laut Twinhook",
+      "content": "Kurasa tidak perlu mengingatkan kalian siapa yang lebih unggul di sini."
+    },
+    {
+      "id": 21,
+      "model": "이스마엘",
+      "content": "Ha... Andai aku bisa memberitahumu. Sungguh."
+    }
+  ]
+}
