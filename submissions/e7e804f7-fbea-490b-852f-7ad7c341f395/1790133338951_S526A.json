@@ -1,0 +1,543 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kapal Pengebor Lobotomy Corp. yang Terbengkalai",
+      "model": "LCCB직원백화1",
+      "teller": "LCCB Agent?",
+      "title": "Putri Duyung",
+      "content": "… … …. …"
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Putri Duyung... Kurasa jumlah mereka sekarang berkurang..."
+    },
+    {
+      "id": 2,
+      "content": "Seseorang berdiri di sana, menunggu kami. Dia pasti tiba jauh lebih awal daripada kami."
+    },
+    {
+      "id": 3,
+      "model": "림",
+      "teller": "???",
+      "title": "???",
+      "content": "Sungguh perjalanan berat yang telah kalian lalui."
+    },
+    {
+      "id": 4,
+      "content": "Kupu-kupu yang kami ikuti melipat sayapnya dan hinggap perlahan..."
+    },
+    {
+      "id": 5,
+      "content": "... di atas kepalanya yang bergoyang-goyang."
+    },
+    {
+      "id": 6,
+      "content": "Suara dari sosok itu terdengar jelas dan tegas, tidak seperti suara Putri Duyung."
+    },
+    {
+      "id": 7,
+      "content": "Dan juga tidak seperti Abnormality."
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "…!"
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "Aku tidak menyangka akan menemukan penyintas yang tidak terluka..."
+    },
+    {
+      "id": 10,
+      "model": "단테2",
+      "content": "<Tidak, tunggu. Apa dia... Distortion...?>"
+    },
+    {
+      "id": 11,
+      "model": "히스클리프",
+      "content": "Hei, kepala jam. Kau berteman dengan kepala mangkuk itu?"
+    },
+    {
+      "id": 12,
+      "model": "그레고르",
+      "content": "Distortion? Seperti... pemilik Bingbong's Bar & Fryers tadi?"
+    },
+    {
+      "id": 13,
+      "model": "림",
+      "teller": "???",
+      "title": "???",
+      "content": "Kulihat banyak dari kalian merasa kebingungan dengan penampilanku."
+    },
+    {
+      "id": 14,
+      "model": "림",
+      "teller": "???",
+      "title": "???",
+      "content": "Ini hanyalah salah satu dari banyak cara untuk memahami perjalanan yang disebut dengan dunia."
+    },
+    {
+      "id": 15,
+      "model": "림",
+      "teller": "???",
+      "title": "???",
+      "content": "Jadi, jangan terlalu waspada."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "Oooh... Kepalamu... bergoyang-goyang."
+    },
+    {
+      "id": 17,
+      "model": "림",
+      "teller": "???",
+      "title": "???",
+      "content": "Di bawah langit malam saat bintang-bintang telah padam, aku menanti fajar yang akan datang."
+    },
+    {
+      "id": 18,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Panggil aku Rim."
+    },
+    {
+      "id": 19,
+      "model": "이상",
+      "content": "……."
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "Kami datang ke sini bukan untuk memperkenalkan diri. Jadi, langsung saja ke intinya."
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "Jelaskan dirimu. Pasti ada alasan kau datang ke tempat gila yang dipenuhi Putri Duyung ini."
+    },
+    {
+      "id": 22,
+      "model": "오티스",
+      "content": "Dan kami tidak melihat kapal lain selain kapal kami di dermaga bangunan ini. Jadi jelaskan bagaimana kau—"
+    },
+    {
+      "id": 23,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Aku tidak membutuhkan kapal untuk menyeberangi lautan."
+    },
+    {
+      "id": 24,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Aku hanya datang untuk melihat kalian semua."
+    },
+    {
+      "id": 25,
+      "model": "홍루",
+      "content": "Wah~ Nama kita benar-benar mulai dikenal!"
+    },
+    {
+      "id": 26,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Kalian adalah orang-orang yang mengikuti sinar keemasan Golden Bough."
+    },
+    {
+      "id": 27,
+      "model": "로쟈",
+      "content": "Oke, kalau kamu ke sini untuk menemui kami, pasti tahu dong apa yang sedang kami cari..."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "... Jangan-jangan, kamu mau memberitahu kami lokasi Golden Bough?"
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "Hah, bukankah jelas dia datang untuk menghentikan kita—"
+    },
+    {
+      "id": 30,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Ya, memang begitu."
+    },
+    {
+      "id": 31,
+      "model": "그레고르",
+      "content": "... Astaga, aku benar-benar salah menilai."
+    },
+    {
+      "id": 32,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Mencari <ruby=Golden Bough>dahan</ruby> di dalam bangunan ini berarti memahami kesia-siaan waktu."
+    },
+    {
+      "id": 33,
+      "content": "Aku masih tidak dapat merasakan Golden Bough meskipun sudah berada di bagian terdalam Cabang ini; perkataannya memang benar. Golden Bough sudah tidak ada di sini."
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "content": "Kalau begitu, ke mana kami harus pergi?!"
+    },
+    {
+      "id": 35,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Aku yakin kalian sudah menyadari bahwa ada pihak lain selain kalian yang tertarik pada Golden Bough."
+    },
+    {
+      "id": 36,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Bahkan, setelah bersusah payah mendapatkannya, kalian telah menyerahkan satu kepada mereka."
+    },
+    {
+      "id": 37,
+      "model": "그레고르",
+      "content": "Tsk..."
+    },
+    {
+      "id": 38,
+      "model": "싱클레어",
+      "content": "B-bagaimana kau tahu?"
+    },
+    {
+      "id": 39,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Paus yang dahulu ditakdirkan berkeliaran di Outskirts selamanya... kini tertarik oleh panggilan keemasan yang sama."
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "Maksudmu Paus itu datang dari Outskirts hingga ke Great Lake U Corp. demi Golden Bough?"
+    },
+    {
+      "id": 41,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Benar. Dan menelan bangunan ini seluruhnya bersama Golden Bough yang rapuh itu."
+    },
+    {
+      "id": 42,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Abnormality di sini juga pergi bersama Paus yang megah namun rapuh itu, tertarik oleh panggilan yang sama."
+    },
+    {
+      "id": 43,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Yang kalian cari sudah tidak dapat ditemukan di sini."
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "Permisi, mengapa kau membagikan informasi ini kepada kami?"
+    },
+    {
+      "id": 45,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Tidak penting siapa yang memiliki Golden Bough atau untuk tujuan apa mereka menggunakannya. Itu tidak lebih dari kepakan sayap."
+    },
+    {
+      "id": 46,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Kami hanya berusaha mengarahkan gema kepakan itu menuju arah yang lebih baik."
+    },
+    {
+      "id": 47,
+      "model": "료슈",
+      "content": "Kami? Siapa yang kau maksud?"
+    },
+    {
+      "id": 48,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Kami adalah mereka yang mengawasi semuanya, mereka yang menunggu waktu. Mereka yang akan menjadi penguasa sebuah Bintang."
+    },
+    {
+      "id": 49,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Namun, kami adalah mereka semua yang tidak dapat mewakili Bintang yang sama."
+    },
+    {
+      "id": 50,
+      "content": "Tanda merah sempat berkilat di kepalanya."
+    },
+    {
+      "id": 51,
+      "content": "Aku pernah melihat tanda itu."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "content": "…!"
+    },
+    {
+      "id": 53,
+      "model": "이상",
+      "content": "Mereka yang mengawasi, katamu..."
+    },
+    {
+      "id": 54,
+      "content": "Yi Sang melontarkan tatapan diam ke arah Rim."
+    },
+    {
+      "id": 55,
+      "model": "이상",
+      "content": "Rim."
+    },
+    {
+      "id": 56,
+      "model": "이상",
+      "content": "Jadi, apakah kau juga menyaksikan kehancuran <ruby=Nine Littérateurs>League</ruby>? Apa kau tahu nasib yang menimpa kawan-kawan lama kita?"
+    },
+    {
+      "id": 57,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Aku tahu."
+    },
+    {
+      "id": 58,
+      "model": "이상",
+      "content": "Namun yang kau lakukan... hanya mengamati?"
+    },
+    {
+      "id": 59,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 60,
+      "model": "홍루",
+      "content": "Apakah dia salah satu... teman lamamu, Yi Sang?"
+    },
+    {
+      "id": 61,
+      "model": "이상",
+      "content": "Bagian dari hidupku yang pernah kau saksikan."
+    },
+    {
+      "id": 62,
+      "model": "이상",
+      "content": "Salah satu dari mereka yang pergi saat League of Nine tercerai-berai."
+    },
+    {
+      "id": 63,
+      "model": "이상",
+      "content": "Terakhir kali kau berkata kepadaku bahwa kau akan pergi ke lautan, tetapi..."
+    },
+    {
+      "id": 64,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Benar, aku pernah menjadi salah satu dari mereka. Dahulu."
+    },
+    {
+      "id": 65,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Akan kujawab pertanyaanmu, Yi Sang. Kau bertanya apakah aku hanya mengamati?"
+    },
+    {
+      "id": 66,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Itu pertanyaan yang lahir dari kehampaan."
+    },
+    {
+      "id": 67,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Bagimu, League telah mati. Namun bagi sebagian orang, kematiannya hanyalah awal."
+    },
+    {
+      "id": 68,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Aku yakin kau... sangat menyadari hal itu."
+    },
+    {
+      "id": 69,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Kapan sesuatu berakhir? Kapan sesuatu dimulai? Perbedaannya sewenang-wenang dan tidak berarti apa-apa."
+    },
+    {
+      "id": 70,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Hancurnya League juga merupakan awal bagi Saudara Young-ji."
+    },
+    {
+      "id": 71,
+      "model": "이상",
+      "content": "……."
+    },
+    {
+      "id": 72,
+      "model": "이상",
+      "content": "Aku mengerti... Kau sudah mengabaikannya sejak lama sekali."
+    },
+    {
+      "id": 73,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Mataku hanya telah terbuka untuk melihat hakikat dunia ini."
+    },
+    {
+      "id": 74,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Hakikat tunggal, namun sangat penting."
+    },
+    {
+      "id": 75,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Begitu matamu terbuka terhadapnya... semua yang lain menjadi..."
+    },
+    {
+      "id": 76,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "... Sehampa gugurnya kelopak yang layu."
+    },
+    {
+      "id": 77,
+      "model": "이스마엘",
+      "content": "Aku hanya perlu tahu satu hal."
+    },
+    {
+      "id": 78,
+      "model": "이스마엘",
+      "content": "Jika... Golden Bough berada di dalam Paus yang melahap tempat ini... Dan jika Golden Bough benar-benar bisa..."
+    },
+    {
+      "id": 79,
+      "model": "이스마엘",
+      "content": "Entah bagaimana... menangkal efek Pallidification..."
+    },
+    {
+      "id": 80,
+      "content": "Napas Ishmael menjadi cepat dan pendek. Dia tidak bisa menyelesaikan kalimatnya."
+    },
+    {
+      "id": 81,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Dapat dikatakan bahwa apa yang kau percaya, apa yang kau harap benar, memang benar."
+    },
+    {
+      "id": 82,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 83,
+      "model": "이스마엘",
+      "content": "Aku mengerti."
+    },
+    {
+      "id": 84,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Kuharap aku telah menjadi penunjuk jalan yang berguna bagi kalian semua."
+    },
+    {
+      "id": 85,
+      "model": "이상",
+      "content": "Ke mana kau hendak pergi lagi?"
+    },
+    {
+      "id": 86,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Dahulu aku hanyalah kolam yang hanya tahu letak laut, sungai, dan City."
+    },
+    {
+      "id": 87,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Kini aku ingin mencapai tempat itu dengan sayapku."
+    },
+    {
+      "id": 88,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Hanya itu."
+    },
+    {
+      "id": 89,
+      "model": "오티스",
+      "content": "Berhenti di sana... Kau tahu terlalu banyak! Kau pikir kami akan membiarkanmu pergi begitu saja?"
+    },
+    {
+      "id": 90,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Sayang sekali. Sekeras apa pun kalian mencoba menahanku, aku mengalir di antara jari-jari kalian."
+    },
+    {
+      "id": 91,
+      "model": "림",
+      "teller": "Rim",
+      "title": "???",
+      "content": "Kalau begitu."
+    },
+    {
+      "id": 92,
+      "content": "Setelah itu, dia melangkah ke dalam genangan air... dan menghilang ke kedalamannya."
+    }
+  ]
+}
