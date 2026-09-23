@@ -1,0 +1,671 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "뫼르소",
+      "content": "Cuaca di sana sangat buruk."
+    },
+    {
+      "id": 1,
+      "content": "Meursault benar. Danau di balik perbatasan terlihat hitam pekat. Ombaknya menjulang tinggi, naik dan menghantam dengan ganas di bawah hujan badai yang menggelegar."
+    },
+    {
+      "id": 2,
+      "model": "이상",
+      "content": "Hmm... Angin liar mulai menggoyangkan kapal..."
+    },
+    {
+      "id": 3,
+      "content": "Wajah Yi Sang mulai memucat."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Aku mulai bertanya-tanya apakah kita... benar-benar dapat melakukan ini."
+    },
+    {
+      "id": 5,
+      "model": "히스클리프",
+      "content": "Bukankah kita tidak pernah membiarkan hal itu menghentikan usaha kita?"
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Ha, kurasa benar~"
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "... Baiklah. Kita memasuki zona."
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "Apakah ada hukum dari Danau itu yang harus kita perhatikan?"
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Aku tidak tahu hukum Danau itu maupun Ombak-nya."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Aku ingat bagaimana kabut terbelah. Aku ingat lautan obsidian dan badai tanpa akhir."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Tapi sisanya... Yang kuingat hanyalah Kapten berpidato dengan penuh semangat saat menyaksikan legenda menjadi nyata, sementara kami sibuk mempersiapkan perburuan Paus."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "... Jadi, petualangan sungguhan menanti kita. Kita akan berlayar membabi buta ke dalam malam."
+    },
+    {
+      "id": 13,
+      "model": "돈키호테",
+      "content": "... Glup."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Kalau begitu... kita harus menghadapi semuanya secara langsung."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Ya. Jika Ombak datang untuk menjemput kita, kita akan menghadapinya. Secara langsung."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "... Bahkan Paus."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "... Meski belum ada tanda-tanda dari Paus itu."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "content": "Dulu, dia menyerang kami tepat beberapa menit setelah kami memasuki Danau."
+    },
+    {
+      "id": 19,
+      "content": "Semua orang menjadi tegang, memandang sekeliling dengan gelisah..."
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "Tunggu, apa... itu? Ada sesuatu di sana, sesuatu yang tinggi."
+    },
+    {
+      "id": 21,
+      "model": "뫼르소",
+      "content": "Aku sarankan untuk segera mendekat. Aku memiliki sumber cahaya untuk meningkatkan jarak pandang kita."
+    },
+    {
+      "id": 22,
+      "content": "Meursault bangkit membawa lentera dan mengarahkan cahayanya ke tempat yang ditunjuk Sinclair."
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "Ada... beberapa...?"
+    },
+    {
+      "id": 24,
+      "model": "그레고르",
+      "content": "Apa itu...? Sial, siapa yang menaruhnya di sana? Untuk apa benda-benda itu?"
+    },
+    {
+      "id": 25,
+      "model": "로쟈",
+      "content": "Mungkin semacam mercusuar...?"
+    },
+    {
+      "id": 26,
+      "model": "싱클레어",
+      "content": "Mercusuar? Ya, aku bisa melihat kemiripannya..."
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "......"
+    },
+    {
+      "id": 28,
+      "model": "단테2",
+      "content": "<Apa kau ingat pernah melihat sesuatu seperti itu, Ishmael?>"
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "content": "Tidak... Aku bahkan tidak memiliki ingatan samar tentangnya. Aku belum pernah melihatnya dalam..."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "...!"
+    },
+    {
+      "id": 31,
+      "model": "이상",
+      "content": "I-Ishmael. Apa rasa mual akibat laut yang bergoyang juga menyerangmu?"
+    },
+    {
+      "id": 32,
+      "model": "이상",
+      "content": "Wajahmu tampak sangat pucat..."
+    },
+    {
+      "id": 33,
+      "content": "Aku tahu itu tidak mungkin benar."
+    },
+    {
+      "id": 34,
+      "content": "Pelaut yang mabuk laut hanya ada dalam lelucon. Lagi pula, Ishmael baik-baik saja beberapa saat lalu."
+    },
+    {
+      "id": 35,
+      "content": "Kalau begitu... dia pasti telah menyadari sesuatu."
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "content": "Aku mengerti... Jadi seperti itulah rupanya. Bahkan sebagian kecilnya saja sudah..."
+    },
+    {
+      "id": 37,
+      "content": "Kesadaran yang mengerikan."
+    },
+    {
+      "id": 38,
+      "model": "싱클레어",
+      "content": "A-apa itu?"
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Kau akan segera mengetahuinya. Meskipun tidak menginginkannya."
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "Di sana, ombak liar di depan...!"
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Semuanya, bersiap! Pegang apa pun yang bisa kalian pegang!"
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "A-ah! Agh...!"
+    },
+    {
+      "id": 43,
+      "content": "Sebelum sempat mengatakan apa pun, ombak raksasa menjulang lalu menghantam kami dari atas..."
+    },
+    {
+      "id": 44,
+      "content": "Ombak itu menyeret kami jauh ke dalam Danau sebelum melemparkan kami kembali ke permukaan."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Pah...!"
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "... Kita beruntung. Ada kemungkinan besar pusaran berikutnya akan menyeret kapal jauh ke bawah air."
+    },
+    {
+      "id": 47,
+      "model": "히스클리프",
+      "content": "B-beruntung? Kau melihat apa yang ada di bawah sana, itu..."
+    },
+    {
+      "id": 48,
+      "model": "단테2",
+      "content": "<... Semua baik-baik saja?>"
+    },
+    {
+      "id": 49,
+      "content": "Mereka semua basah kuyup dan hampir mengalami <ruby=penurunan kadar karbon dioksida>hiperventilasi</ruby>, tapi... lebih banyak terpana oleh apa yang baru saja kami saksikan."
+    },
+    {
+      "id": 50,
+      "model": "오티스",
+      "content": "Semua orang ada, tapi..."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "Hah? Hah...? Yang baru saja kita lihat di bawah... adalah..."
+    },
+    {
+      "id": 52,
+      "model": "홍루",
+      "content": "Itu bukan mercusuar... Itu adalah..."
+    },
+    {
+      "id": 53,
+      "model": "홍루",
+      "content": "Ekor Paus kolosal...!"
+    },
+    {
+      "id": 54,
+      "model": "로쟈",
+      "content": "Wah... Oke... Sekarang aku benar-benar ingin menyerah, ha ha."
+    },
+    {
+      "id": 55,
+      "model": "로쟈",
+      "content": "Aku ingin kembali saat aku tidak tahu seperti apa bentuk Paus..."
+    },
+    {
+      "id": 56,
+      "model": "이스마엘",
+      "content": "Jadi Danau ini adalah tempat Paus datang untuk tidur..."
+    },
+    {
+      "id": 57,
+      "model": "이스마엘",
+      "content": "Ya. Jika mereka berada jauh di dalam air dengan leher tertekuk seperti itu... aku bisa melihat ekor mereka menjulang di atas permukaan."
+    },
+    {
+      "id": 58,
+      "model": "이스마엘",
+      "content": "Tapi... tidak mungkin mereka tidak menyadari keributan ini."
+    },
+    {
+      "id": 59,
+      "model": "싱클레어",
+      "content": "K-k-kapalnya... Kita... kita miring!"
+    },
+    {
+      "id": 60,
+      "model": "이스마엘",
+      "content": "... Para Paus mulai bangun."
+    },
+    {
+      "id": 61,
+      "content": "'Akhirnya kita sampai.'"
+    },
+    {
+      "id": 62,
+      "content": "... Kurasa itulah yang dibisikkan Ishmael. Tapi badai dan ombak menenggelamkan suaranya jauh ke dalam Danau."
+    },
+    {
+      "id": 63,
+      "model": "파우스트",
+      "content": "Jika Indigo Elder berhasil tiba di sini sesuai rencana..."
+    },
+    {
+      "id": 64,
+      "model": "돈키호테",
+      "content": "WOAAAAAAHHHHH!"
+    },
+    {
+      "id": 65,
+      "model": "돈키호테",
+      "content": "DI SANA, A-APAKAH ITU PAUSNYA?!"
+    },
+    {
+      "id": 66,
+      "content": "Kami tidak perlu bertanya sedetik pun tentang apa yang diteriaki Don Quixote."
+    },
+    {
+      "id": 67,
+      "content": "Sekawanan entitas, berukuran lebih besar daripada Paus mana pun yang kami hadapi sepanjang perjalanan, muncul dari air sekaligus. Serempak, mereka mulai bermigrasi ke satu arah. Menyaksikan sesuatu seperti itu..."
+    },
+    {
+      "id": 68,
+      "model": "뫼르소",
+      "content": "……."
+    },
+    {
+      "id": 69,
+      "content": "... cukup untuk membuat Meursault pun ternganga karena kebingungan."
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "Sepertinya, semuanya berjalan sesuai rencana."
+    },
+    {
+      "id": 71,
+      "model": "오티스",
+      "content": "Kalau begitu kita harus melakukan bagian kita."
+    },
+    {
+      "id": 72,
+      "model": "이스마엘",
+      "content": "Ah!"
+    },
+    {
+      "id": 73,
+      "model": "이스마엘",
+      "content": "Di sana, itu dia!"
+    },
+    {
+      "id": 74,
+      "content": "Ada seekor Paus yang menonjol bahkan di antara kawanan Paus yang luar biasa besar itu."
+    },
+    {
+      "id": 75,
+      "content": "Sepucat kematian... Kulitnya dipenuhi jaringan parut."
+    },
+    {
+      "id": 76,
+      "model": "오티스",
+      "content": "Yang itu memiliki bekas luka paling banyak."
+    },
+    {
+      "id": 77,
+      "model": "이스마엘",
+      "content": "Ha, ha ha ha... Aku menemukannya!"
+    },
+    {
+      "id": 78,
+      "model": "이스마엘",
+      "content": "Ya... Dia benar. Luka dan bekas luka yang kami... yang dibuat Pequod... semuanya masih ada."
+    },
+    {
+      "id": 79,
+      "model": "베르길리우스",
+      "content": "Kurasa kalian akhirnya menemukan Paus itu?"
+    },
+    {
+      "id": 80,
+      "model": "파우스트",
+      "content": "Kurasa begitu."
+    },
+    {
+      "id": 81,
+      "model": "베르길리우스",
+      "content": "Seperti biasa... peluang keberhasilannya pasti sangat kecil."
+    },
+    {
+      "id": 82,
+      "model": "파우스트",
+      "content": "Memang begitu."
+    },
+    {
+      "id": 83,
+      "model": "이스마엘",
+      "content": "PENDAYUNG!!!!!!!"
+    },
+    {
+      "id": 84,
+      "content": "Ishmael menggelegar."
+    },
+    {
+      "id": 85,
+      "model": "단테2",
+      "content": "<Ishmael...?>"
+    },
+    {
+      "id": 86,
+      "content": "Tidak, lebih keras daripada petir itu sendiri. Seolah kepribadiannya tiba-tiba berubah. Suaranya seakan mengalahkan badai itu sendiri."
+    },
+    {
+      "id": 87,
+      "model": "이스마엘",
+      "content": "JAWAB, DASAR ANJING!!!!! PENDAYUNG!!!!"
+    },
+    {
+      "id": 88,
+      "model": "히스클리프",
+      "content": "Hah?! B-baik!"
+    },
+    {
+      "id": 89,
+      "model": "이스마엘",
+      "content": "Tetapkan rute menuju benda pucat itu! MAJU DENGAN KECEPATAN PENUH!!!! DAYUNG!"
+    },
+    {
+      "id": 90,
+      "model": "오티스",
+      "content": "... Maju dengan kecepatan penuh! Dayung!"
+    },
+    {
+      "id": 91,
+      "content": "Bahkan Outis ikut terbawa perubahan suasan yang mendadak ini dan mengulangi perintah Ishmael yang menggelegar."
+    },
+    {
+      "id": 92,
+      "content": "Apakah seperti ini kondisi Ishmael yang sebenarnya saat berlayar di Danau? Atau..."
+    },
+    {
+      "id": 93,
+      "model": "이스마엘",
+      "content": "Ha... HA HA...!"
+    },
+    {
+      "id": 94,
+      "content": "... Atau inikah sang Kapten?"
+    },
+    {
+      "id": 95,
+      "model": "파우스트",
+      "content": "Aku melihat cahaya. ... Itu Indigo Elder."
+    },
+    {
+      "id": 96,
+      "content": "Orang tua itu dan perahu kecilnya meluncur di atas air menuju Paus."
+    },
+    {
+      "id": 97,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Dengarkan baik-baik!"
+    },
+    {
+      "id": 98,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Paus-paus lain yang terbangun telah mengejar umpan yang kupasang untuk mereka!"
+    },
+    {
+      "id": 99,
+      "model": "오티스",
+      "content": "Kalau begitu rencananya berhasil! Sekarang... Ah...!"
+    },
+    {
+      "id": 100,
+      "content": "Tidak jelas apakah petir atau raungan orang tua itu yang membangunkan Paus Pucat. Kelopak matanya mulai terangkat."
+    },
+    {
+      "id": 101,
+      "model": "오티스",
+      "content": "... Sudah lama sekali sejak aku menyaksikan sesuatu seperti ini dari dekat."
+    },
+    {
+      "id": 102,
+      "content": "Itu adalah mata dengan proporsi astronomis, begitu besar hingga tidak lagi menyerupai mata—melainkan cermin reflektif dunia."
+    },
+    {
+      "id": 103,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Ah, betapa aku ingin melihatmu secara langsung."
+    },
+    {
+      "id": 104,
+      "content": "Orang tua itu mendekati Paus dengan harpun di tangan dan ekspresi muram membatu. Ishmael juga mengarahkan harpunnya ke Paus besar itu, wajahnya hampir retak karena kegembiraan yang tak terbendung. Beberapa Sinners gemetar ketakutan, sementara yang lain bersiap."
+    },
+    {
+      "id": 105,
+      "content": "Semuanya, seluruh dunia... terkandung dalam satu mata reflektif yang bahkan membentang melampaui penglihatan periferal kami."
+    },
+    {
+      "id": 106,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "... Ini umpanmu, ikan. Gigitlah."
+    },
+    {
+      "id": 107,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku tahu kau tidak punya pilihan lain. Menggigit dan melahap adalah satu-satunya hal yang kau kenal."
+    },
+    {
+      "id": 108,
+      "model": "이스마엘",
+      "content": "PENDAYUNG!!!!! BELAH LAUT DENGAN DAYUNG KALIAN!!!!!"
+    },
+    {
+      "id": 109,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku menghormatimu, Paus Pucat. Aku menghormati tahun-tahun yang telah kau jalani, yang bahkan tidak mampu kubayangkan. Aku menghormati asalmu dari tempat di luar pemahamanku."
+    },
+    {
+      "id": 110,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Tapi..."
+    },
+    {
+      "id": 111,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Aku akan menggunakan kesempatan ini untuk berdiri di hadapanmu dan menantangmu. Dengan tantangan ini, aku akan mendayung hingga batas pemahaman."
+    },
+    {
+      "id": 112,
+      "content": "Harpun raksasa melesat melintasi langit hitam seperti kilat dan menghantam Paus Pucat."
+    },
+    {
+      "id": 113,
+      "model": "오티스",
+      "content": "Sekarang kesempatan kita! Terus dayung, terus dayung!"
+    },
+    {
+      "id": 114,
+      "content": "Ishmael berdiri tegak sendirian, menatap lurus melewati haluan kapal yang bergoyang dan melaju, dengan harpun di tangan."
+    },
+    {
+      "id": 115,
+      "model": "이스마엘",
+      "content": "Sejak saat itu... aku terus berpikir... perasaan apa yang akan kau gali dari hatiku jika aku melihatmu lagi."
+    },
+    {
+      "id": 116,
+      "model": "이스마엘",
+      "content": "Ha... Tapi perasaan ini jauh lebih sederhana daripada yang kukira."
+    },
+    {
+      "id": 117,
+      "model": "이스마엘",
+      "content": "... Senang bertemu lagi denganmu, PAUS SIALAN!"
+    },
+    {
+      "id": 118,
+      "model": "창백한 고래",
+      "teller": "The Pallid Whale",
+      "title": "Outskirts",
+      "content": "...! ......!"
+    },
+    {
+      "id": 119,
+      "content": "Dibandingkan dengan harpun orang tua itu, harpun yang dilempar Ishmael tampak seperti jarum."
+    },
+    {
+      "id": 120,
+      "content": "Namun begitu terkena, seolah tubuhnya dilanda rasa sakit besar yang tak tertahankan, mulut <ruby=Pallid Whale>Paus Pucat</ruby> terbuka—dan udara disekitar mulai bergetar."
+    },
+    {
+      "id": 121,
+      "model": "오티스",
+      "content": "Mulutnya terbuka!"
+    },
+    {
+      "id": 122,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "......"
+    },
+    {
+      "id": 123,
+      "model": "쪽빛노인",
+      "teller": "The Indigo Elder",
+      "title": "???",
+      "content": "Pergilah. Sekarang aku akan memancing binatang ini."
+    },
+    {
+      "id": 124,
+      "content": "Para Sinner mendengar suara orang tua itu."
+    },
+    {
+      "id": 125,
+      "content": "Para Sinner mulai mendayung dengan sekuat tenaga."
+    },
+    {
+      "id": 126,
+      "content": "Dalam keputusasaan. Seolah-olah kematian itu sendiri sedang mengejar kami."
+    },
+    {
+      "id": 127,
+      "content": "Seolah-olah itulah takdir kita, nasib kita untuk terus mendayung."
+    },
+    {
+      "id": 128,
+      "content": "Kami tersedot ke dalam jurang tanpa dasar..."
+    },
+    {
+      "id": 129,
+      "content": "... dan pusaran yang dahsyat menyeret kami ke dalam rahang sang raksasa, gelap gulita bagaikan sumur di bawah langit tanpa bulan."
+    },
+    {
+      "id": 130,
+      "model": "단테2",
+      "content": "<…!>"
+    },
+    {
+      "id": 131,
+      "content": "Terdengar suara yang menggelegar."
+    },
+    {
+      "id": 132,
+      "content": "Dan layaknya setetes air di lautan, kami larut ke dalam kegelapan yang tak terukur."
+    },
+    {
+      "id": 133,
+      "model": "베르길리우스",
+      "content": "Panggilan. Panggilan. Bagaimana perkembangan rencananya?"
+    },
+    {
+      "id": 134,
+      "model": "베르길리우스",
+      "content": "Panggilan. Hei!"
+    },
+    {
+      "id": 135,
+      "model": "베르길리우스",
+      "content": "... Sepertinya radionya telah rusak total."
+    },
+    {
+      "id": 136,
+      "model": "카론",
+      "content": "Mhm. Khawatir."
+    }
+  ]
+}
