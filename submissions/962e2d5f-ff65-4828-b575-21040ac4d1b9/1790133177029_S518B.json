@@ -1,0 +1,390 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dek Mephistopheles",
+      "model": "단테2",
+      "content": "<Ada sesuatu yang menggangguku...>"
+    },
+    {
+      "id": 1,
+      "model": "단테2",
+      "content": "<Bukankah aneh mereka semua tampak begitu... yakin?>"
+    },
+    {
+      "id": 2,
+      "model": "단테2",
+      "content": "<Bahwa jika kita terus begini, kita akan menghadapi bencana besar lainnya?>"
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "Itu bukan hal penting, manajer. Hal itu hanyalah hasil dari keyakinan kuat bahwa mereka lebih unggul daripada kita."
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "Namun, aku mengamati sesuatu yang aneh. Mereka memasang banyak duri pada bagian bawah lambung kapal mereka."
+    },
+    {
+      "id": 5,
+      "model": "오티스",
+      "content": "Bukankah itu digunakan untuk menabrak kapal lain? Aku pernah mendengar taktik semacam itu terkadang digunakan dalam pertempuran laut."
+    },
+    {
+      "id": 6,
+      "model": "뫼르소",
+      "content": "Duri itu dipasang terlalu rendah di dalam air untuk dapat digunakan sebagai alat menabrak kapal lain. Dari tingkat korosi logamnya dapat disimpulkan bahwa duri yang terkonsentrasi di lunas kapal itu baru dipasang."
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "Bagaimana kau bisa melihat lunas kapal...?"
+    },
+    {
+      "id": 8,
+      "model": "뫼르소",
+      "content": "Airnya lebih jernih dari dekat daripada yang terlihat dari jauh."
+    },
+    {
+      "id": 9,
+      "model": "홍루",
+      "content": "Mm~ Mungkin mereka ingin mencegah sesuatu naik ke kapal?"
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "Aku tidak dapat membayangkan jika beberapa ikan akan berenang menuju lunas kapal. Mereka bukan burung yang menabrak jendela."
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "Mungkin itu cuma hal sepele~ Kamu tahu kan kalau bajak laut percaya sama takhayul. Bagaimana kalau itu sebenarnya jimat keberuntungan?"
+    },
+    {
+      "id": 12,
+      "model": "그레고르",
+      "content": "Hmm... Mungkin seharusnya kita mengajak Asisten Manajer Pilot."
+    },
+    {
+      "id": 13,
+      "model": "그레고르",
+      "content": "Kau tahu sesuatu tentang ini, Nona Faust?"
+    },
+    {
+      "id": 14,
+      "model": "파우스트",
+      "content": "Tidak ada informasi relevan yang diperbarui."
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Yang bisa kita lakukan hanyalah memastikan kita tidak melanggar hukum Great Lake."
+    },
+    {
+      "id": 16,
+      "content": "Begitulah perjalanan kami menuju Cabang Lobotomy Corp. dengan koordinat variabel yang diberikan oleh Pilot..."
+    },
+    {
+      "id": 17,
+      "content": "... Dengan paranoia terhadap hal yang tidak diketahui membebani pundak kami."
+    },
+    {
+      "id": 18,
+      "content": "Selang beberapa waktu..."
+    },
+    {
+      "id": 19,
+      "place": "Kabin Mephistopheles",
+      "model": "파우스트",
+      "content": "... Outis, kita harus segera mengarahkan kapal ke kiri."
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "... Apa?"
+    },
+    {
+      "id": 21,
+      "content": "Outis, yang sedang melihat ke depan dari haluan kapal, berbalik cepat. Perkataan Faust sepertinya mengejutkannya."
+    },
+    {
+      "id": 22,
+      "model": "오티스",
+      "content": "Hei. Belum satu jam sejak kau mengatakan kita harus melewati zona ini dalam garis lurus."
+    },
+    {
+      "id": 23,
+      "model": "파우스트",
+      "content": "Kecepatan kita tidak mencapai target. Dengan laju saat ini, kita akan dihantam <ruby=Waves>Ombak</ruby> dari zona berikutnya begitu keluar dari sini."
+    },
+    {
+      "id": 24,
+      "model": "오티스",
+      "content": "Apakah itu hukum terkutuk zona ini?"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Benar."
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "Meski pertemuan dengan para bajak laut tadi selesai dengan cepat, kita tetap terlambat dari jadwal. Koordinat variabel kini menunjuk ke rute berbeda."
+    },
+    {
+      "id": 27,
+      "model": "오티스",
+      "content": "... Berapa banyak waktu yang harus kita buang di sini?"
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "Menurut koordinat variabel... jalur memutar yang diperlukan akan memakan waktu tiga hari lagi."
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "... Hah."
+    },
+    {
+      "id": 30,
+      "content": "Outis menggigit bibir karena kesal sebelum tiba-tiba menoleh ke arahku."
+    },
+    {
+      "id": 31,
+      "model": "오티스",
+      "content": "Manajer Eksekutif, aku memiliki rencana jenius. Rencana yang tidak hanya mempercepat operasi ini, tetapi juga meningkatkan peluang mengamankan dan menyelamatkan nyawa para Agen LCCB."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "Jika kita membuang tiga hari lagi di laut, kecil kemungkinan keselamatan mereka dapat terjamin."
+    },
+    {
+      "id": 33,
+      "model": "단테2",
+      "content": "<Yah... Apa rencananya?>"
+    },
+    {
+      "id": 34,
+      "model": "오티스",
+      "content": "... Kita terus maju."
+    },
+    {
+      "id": 35,
+      "content": "Setelah itu, Outis perlahan menaikkan tuas akselerasi."
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "…!"
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Apa?"
+    },
+    {
+      "id": 38,
+      "model": "베르길리우스",
+      "content": "... Hm."
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "Apa kau gila? Kita akan berlayar langsung menuju <ruby=Waves>Ombak</ruby>, kau tahu itu?"
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "Aku tahu apa itu Ombak, pelaut. Aku tidak sebodoh yang kau kira tentang Great Lake. Kau juga punya banyak pengalaman menghadapi dan menaklukkan Ombak, bukan?"
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "content": "Ya! Tapi itu karena mereka tidak bisa dihindari! Karena kita kekurangan informasi untuk mengambil jalur memutar! Sebelumnya aku belum pernah dengan sengaja berlayar menuju Ombak."
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Tapi kau tetap berhasil, bukan?"
+    },
+    {
+      "id": 43,
+      "model": "이스마엘",
+      "content": "......."
+    },
+    {
+      "id": 44,
+      "model": "오티스",
+      "content": "Dan saat itu kau tidak memiliki seseorang untuk menghidupkanmu kembali. Menurutku ini masih berada dalam kemampuan kita."
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Selain itu, ada keuntungan tambahan berupa percepatan misi dan peluang penyelamatan yang lebih besar, seperti yang diinginkan Manajer Eksekutif dan beberapa bawahan lainnya."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "Jelas bagiku bahwa kau, Ishmael, tidak senang dengan lambatnya kemajuan kita. Ada apa? Tiba-tiba ingin berjemur selama tiga hari?"
+    },
+    {
+      "id": 47,
+      "content": "Alih-alih menjawab sindiran Outis, Ishmael menyipitkan mata ke arah tujuan kapal melaju."
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "content": "Pasang surut... baunya... kecepatannya... warnanya... Danau di sana adalah... Danau Biru Berputar yang Keruh dan Berbau Ikan. Aku belum pernah mengalami Ombak-nya, tapi aku tahu banyak kapal yang pernah. Banyak di antaranya kini terbaring di dasar Danau itu."
+    },
+    {
+      "id": 49,
+      "model": "오티스",
+      "content": "Baiklah. Selama kita tidak bergabung dengan mereka."
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "B-bagaimana kalau kita hanya melihat sebentar... Jika terasa terlalu berat, kita bisa kembali melalui jalan kita datang... Benar?"
+    },
+    {
+      "id": 51,
+      "model": "이스마엘",
+      "content": "Kembali melalui— Tidak ada yang namanya... kembali di Danau ini!"
+    },
+    {
+      "id": 52,
+      "model": "파우스트",
+      "content": "Keputusanmu, Dante?"
+    },
+    {
+      "id": 53,
+      "model": "단테2",
+      "content": "<... Mari kita ikuti rencana Outis.>"
+    },
+    {
+      "id": 54,
+      "model": "파우스트",
+      "content": "Dimengerti. Melewati batas zona menuju Danau tujuan."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "content": "Kau pasti bercanda... Hah. Outis, sebaiknya kau benar..."
+    },
+    {
+      "id": 56,
+      "content": "Begitu kata-kata itu keluar dari mulut Ishmael, kilatan cahaya terlihat di langit."
+    },
+    {
+      "id": 57,
+      "place": "Aboard Mephistopheles's Deck",
+      "model": "단테2",
+      "content": "<Petir...?>"
+    },
+    {
+      "id": 58,
+      "model": "홍루",
+      "content": "... Hujannya mulai deras."
+    },
+    {
+      "id": 59,
+      "model": "료슈",
+      "content": "Kita berada di pusat badai."
+    },
+    {
+      "id": 60,
+      "model": "단테2",
+      "content": "<Tunggu... Padahal langit baru saja cerah! Bagaimana mungkin...?>"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Ombak-nya sudah tiba, manajer."
+    },
+    {
+      "id": 62,
+      "place": "Kabin Mephistopheles",
+      "model": "베르길리우스",
+      "content": "... Hmm. Pertunjukan yang menghibur."
+    },
+    {
+      "id": 63,
+      "model": "베르길리우스",
+      "content": "Charon, ini kesempatan bagus untuk menguji fungsi itu."
+    },
+    {
+      "id": 64,
+      "model": "카론",
+      "content": "Oke. Beralih ke mode Bertahan."
+    },
+    {
+      "id": 65
+    },
+    {
+      "id": 66,
+      "content": "Saat itulah kenyataan mulai meresap."
+    },
+    {
+      "id": 67,
+      "content": "Apa yang telah terjadi, apa yang sedang terjadi, dan apa yang akan terjadi pada semua orang dan segala sesuatu yang memasuki Danau ini tanpa persiapan menghadapi apa yang akan datang."
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69,
+      "place": "Dek Mephistopheles",
+      "model": "단테2",
+      "content": "<Apa yang harus... Apa yang harus kita lakukan sekarang, Ishmael?>"
+    },
+    {
+      "id": 70,
+      "model": "이스마엘",
+      "content": "... Ada pepatah yang sering didengar oleh setiap pelaut pemula Great Lake sebelum pergi berlayar untuk pertama kalinya."
+    },
+    {
+      "id": 71,
+      "model": "이스마엘",
+      "content": "'Hanya ada satu hal yang bisa kau andalkan saat berada di Danau asing dengan Ombak yang tidak kau kenal.'"
+    },
+    {
+      "id": 72,
+      "content": "Ombak kolosal menjulang di hadapan kami."
+    },
+    {
+      "id": 73,
+      "model": "료슈",
+      "content": "... <ruby=Something Is Coming>S.I.C.</ruby> Siapkan senjata kalian jika ingin menunda hal yang tak terhindarkan."
+    },
+    {
+      "id": 74,
+      "model": "이스마엘",
+      "content": "'Bukan keahlian berlayarmu, mata tajam seorang penunjuk jalan, atau ikatan tak terpatahkan antara dirimu dan rekan-rekanmu.'"
+    },
+    {
+      "id": 75,
+      "model": "이스마엘",
+      "content": "'Banyak pelaut gagal melewati ujian ini dan memilih menjadi korban bagi kedalaman Danau.'"
+    },
+    {
+      "id": 76,
+      "model": "싱클레어",
+      "content": "Hah? S-sesuatu sedang memanjat kapal kita?!"
+    },
+    {
+      "id": 77,
+      "teller": "Ishmael & Outis",
+      "title": "Sinners",
+      "content": "'Jangan percaya apa pun selain tekadmu sendiri untuk tetap teguh menghadapi teror, menghadapi bencana.'"
+    },
+    {
+      "id": 78,
+      "model": "이스마엘",
+      "content": "'Meski Danau yang mengamuk mungkin tetap tidak peduli pada kehendak keberadaanmu yang rapuh.'"
+    }
+  ]
+}
