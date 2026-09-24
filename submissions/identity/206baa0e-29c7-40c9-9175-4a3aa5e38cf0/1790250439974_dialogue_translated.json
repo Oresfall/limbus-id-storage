@@ -1,0 +1,39 @@
+{
+  "datalist": [
+    {
+      "id": "battle_awaken_20610_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Suatu hari, kamu juga akan merindukannya...\ndunia yang pernah menjadi milik kita. Ah—Aah—!"
+    },
+    {
+      "id": "battle_awaken_20610_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Suatu hari, kamu juga akan merindukannya...\ndunia yang pernah menjadi milik kita."
+    },
+    {
+      "id": "battle_awaken_20610_3",
+      "desc": "E.G.O Activation",
+      "dlg": "Aa—"
+    },
+    {
+      "id": "battle_awaken_20610_4",
+      "desc": "E.G.O Activation",
+      "dlg": "Aah—!"
+    },
+    {
+      "id": "battle_awaken_20610_3-01",
+      "desc": "E.G.O Activation",
+      "dlg": "Aa—"
+    },
+    {
+      "id": "battle_awaken_20610_4-01",
+      "desc": "E.G.O Activation",
+      "dlg": "Aah—!"
+    },
+    {
+      "id": "battle_erosion_20610_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Tidak! Jangan, jangan! Menjauhlah dariku!\nJangan ulurkan tanganmu padaku!!"
+    }
+  ]
+}
