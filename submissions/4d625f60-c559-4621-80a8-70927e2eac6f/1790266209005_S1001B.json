@@ -1,0 +1,310 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Lantai yang dipenuhi paku masuk dalam pandanganku. Semuanya berdiri dengan ujung yang tajam mengarah ke atas."
+    },
+    {
+      "id": 1,
+      "content": "Tidak diragukan lagi, mereka pasti akan menusukku jika aku terus terjatuh tepat ke arah mereka."
+    },
+    {
+      "id": 2,
+      "content": "Aku tidak bisa melakukan apapun selain terjun bebas, lebih menakutkan rasa sakit dan siksaan yang menanti di bawah sana daripada pada benturan akibat terjatuh itu sendiri."
+    },
+    {
+      "id": 3,
+      "content": "Tetapi seketika, Aku mendengar suara."
+    },
+    {
+      "id": 4,
+      "content": "<color=#4457b1>... Menjadi lautan, lalu...</color>"
+    },
+    {
+      "id": 5,
+      "content": "Begitu mendengar suara itu, lantai yang dipenuhi paku berubah menjadi lautan luas, permukaannya yang biru bergelombang dengan lembut."
+    },
+    {
+      "id": 6,
+      "content": "Dan ketika gelombang-gelombang yang tak terduga itu akhirnya menerjang ke arahku..."
+    },
+    {
+      "id": 7,
+      "content": "<color=#916e46>Kami mengucapkan selamat datang yang hangat kepada para tamu terhormat Grand Magasin Sisyphe yang berkunjung hari ini.</color>"
+    },
+    {
+      "id": 8,
+      "content": "<color=#916e46>Grand Magasin Sisyphe selalu berkomitmen untuk menghargai setiap pengalaman yang diperoleh pelanggan kami di dalam.</color>"
+    },
+    {
+      "id": 9,
+      "content": "<color=#916e46>Untuk selalu mengikuti tren mode terkini, kami secara aktif mendorong beragam toko yang ada di pusat perbelanjaan tersebut agar membuka dan menutup tokonya sesuai dengan tren. Harap berhati-hati agar tidak tersesat saat mengunjungi tempat ini.</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#916e46>Seperti biasa, Toilet di setiap lantai saat ini sedang dalam proses perbaikan. Harap perhatikan hal ini saat merencanakan kunjungan Anda. Kami mohon maaf atas ketidaknyamanan yang ditimbulkan.</color>"
+    },
+    {
+      "id": 11,
+      "content": "<color=#916e46>Untuk mencegah masalah kebersihan, akses ke setiap lantai akan dibatasi hanya bagi pelanggan yang telah mencapai Tingkat Prestige yang disyaratkan. Silakan kunjungi Pusat Layanan Pelanggan kami di lantai enam jika ada pertanyaan lebih lanjut.</color>"
+    },
+    {
+      "id": 12,
+      "content": "<color=#916e46>Pelanggan dipersilakan untuk menyentuh semua manekin yang dipajang. Sebaliknya, manekin juga diperbolehkan untuk menyentuh semua pelanggan. Jika Anda ingin berpartisipasi, silakan hubungi staf penjualan di toko yang bersangkutan; mereka akan dengan senang hati membantu Anda.</color>"
+    },
+    {
+      "id": 13,
+      "content": "<color=#916e46>Kami mengimbau kepada semua pihak untuk berupaya semaksimal mungkin guna memastikan hari ini kembali menjadi hari yang penuh pengalaman berbelanja yang memuaskan bagi para pelanggan kami. Terima kasih telah memilih Grand Magasin Sisyphe, dan selamat berbelanja.</color>"
+    },
+    {
+      "id": 14,
+      "place": "Toilet?",
+      "model": "이상",
+      "content": "Apa yang baru saja kita alami..."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "Aku hanya tau itu sesuatu yang aku tidak mau alami lagi... maksudku, Aku telah terbunuh dengan berbagai macam cara saat berada di tim ini, tetapi untuk menghadapi kematian secara langsung ketika itu bukanlah dalam pertarungan... dan diatas itu semua, harus merasakan sensasi <i>melakukannya sendiri</i> itu... aku tidak mau lagi."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "Tidak bisa dipercaya penduduk N Corp. mengeluarkan <i>uang</i> untuk membeli pengalaman najis itu. Kau tidak bisa membayarku untuk mengalaminya lagi."
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 18,
+      "model": "돈키호테",
+      "content": "Mengemas pemutusan nyawa itu sendiri sebagai hiburan, lalu menjualnya sebagai produk..."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "Meskipun mengatasi kebosanan memang bukanlah hal yang mudah, ini adalah... hmm..."
+    },
+    {
+      "id": 20,
+      "model": "홍루",
+      "content": "Terasa sangat nyata dari apa yang ku pikirkan."
+    },
+    {
+      "id": 21,
+      "model": "홍루",
+      "content": "Aku tau bahwa semua itu terjadi di dalam sebuah mesin... Tetapi di momen itu, Aku benar-benar merasa seolah-olah... Aku menyaksikan akhir dari hidup ku."
+    },
+    {
+      "id": 22,
+      "model": "로쟈",
+      "content": "Ketika tali gantung itu mengetat, Aku pikir leherku akan patah..."
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "content": "Aku bersama Ishy... Orang-orang benar-benar mengeluarkan <i>uang</i> untuk merasakan semua ini?"
+    },
+    {
+      "id": 24,
+      "model": "파우스트",
+      "content": "Ada orang-orang tanpa tujuan yang jelas, mengikatkan diri pada seutas tali lalu melompat dari ketinggian, atau menyerahkan diri pada ombak yang ganas untuk melihat apakah mereka akan tersapu ke dalam air atau tidak."
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Konon, orang-orang menjadi lebih peka merasakan sensasi hidup melalui pengalaman-pengalaman yang membawa mereka sangat dekat dengan kematian."
+    },
+    {
+      "id": 26,
+      "model": "로쟈",
+      "content": "... Jadi kau bilang mereka melakukannya dengan sengaja?"
+    },
+    {
+      "id": 27,
+      "model": "로쟈",
+      "content": "Menjijikkan."
+    },
+    {
+      "id": 28,
+      "content": "Keheningan menyelimuti saat semua orang masih terguncang akibat pengalaman tersebut."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<Sebenarnya kita ada dimana sekarang...?>"
+    },
+    {
+      "id": 30,
+      "content": "Sungguh pertanyaan yang sia-sia. Pemandangan yang muncul di hadapanku dengan jelas menunjukkan kepadaku apa sebenarnya fungsi ruangan ini."
+    },
+    {
+      "id": 31,
+      "place": "Toilet",
+      "model": "이스마엘",
+      "content": "... Ini toilet."
+    },
+    {
+      "id": 32,
+      "model": "돈키호테",
+      "content": "Benar sekali, ini toilet!"
+    },
+    {
+      "id": 33,
+      "model": "이상",
+      "content": "Sebuah tempat di mana seseorang dapat meluapkan masalah-masalah terdalamnya."
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Kita harus melalui semua omong kosong itu di dalam mesin sialan itu... hanya untuk ke toilet?"
+    },
+    {
+      "id": 35,
+      "model": "홍루",
+      "content": "Memang benar kebohongan Nelly pernah membahayakan kita sebelumnya, tapi menurutku kali ini sepertinya dia tidak bermaksud menyakiti atau menipu kita..."
+    },
+    {
+      "id": 36,
+      "model": "로쟈",
+      "content": "Fau. Mesin yang kita gunakan... apakah itu semacam alat teleportasi?"
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "Kesimpulan yang diambil akan berbeda-beda tergantung pada cara kita menafsirkan pengalaman tersebut, tetapi yang pasti tubuh kita tidak benar-benar dibawa ke tempat ini. Namun, hal itu seharusnya tidak menjadi masalah, karena memang inilah tujuan yang kita tuju, dan kita telah berhasil mencapainya."
+    },
+    {
+      "id": 38,
+      "model": "로쟈",
+      "content": "Jadi... kita ada dimana? kita harus kemana untuk menemukan Meursault?"
+    },
+    {
+      "id": 39,
+      "content": "Rodya bertanya, kehilangan arah."
+    },
+    {
+      "id": 40,
+      "model": "파우스트",
+      "content": "Sebagaimana disebutkan dalam pengumuman tersebut, tempat ini adalah..."
+    },
+    {
+      "id": 41,
+      "model": "파우스트",
+      "content": "Grand Magasin Sisyphe. Kita dapat menemukan Meursault disini."
+    },
+    {
+      "id": 42,
+      "model": "그레고르",
+      "content": "Itu kan pabrik yang memproduksi “Kaleng Pengalaman Inastan”, ya...?"
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "... Wanita yang berdiri di sana mungkin tahu lebih banyak tentang tempat ini."
+    },
+    {
+      "id": 44,
+      "model": "싱클레어",
+      "content": "...!"
+    },
+    {
+      "id": 45,
+      "model": "싱클레어",
+      "content": "Dia terlihat mirip... dengan Demian..."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "Perkenalkan dirimu. Apa yang kau tau dengan tempat ini?"
+    },
+    {
+      "id": 47,
+      "model": "푸른여인",
+      "content": "... Tempat ini..."
+    },
+    {
+      "id": 48,
+      "content": "Wanita itu, dengan senyuman ramah yang menghiasi bibirnya, ia memandang kami dengan tenang."
+    },
+    {
+      "id": 49,
+      "content": "Melihat senyumnya saja sudah cukup untuk membuatku merasa tenang."
+    },
+    {
+      "id": 50,
+      "model": "푸른여인",
+      "content": "... Ini adalah tempat dimana segala sesuatu yang terbawa arus akhirnya berlabuh. \"Asal\"..."
+    },
+    {
+      "id": 51,
+      "model": "오티스",
+      "content": "... Itu bukan apa yang kita tanyakan."
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "Apakah kau bekerja sama dengan tempat ini? Tidak bisa dipungkiri ada sesuatu yang tidak asing dengan mu."
+    },
+    {
+      "id": 53,
+      "model": "푸른여인",
+      "content": "... Segala sesuatu tampak... sebagaimana yang diyakini orang."
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "Yah, sepertinya dia bukan musuh kita..."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "content": "Apakah kau tah apa yang... seharusnya kita lakukan di sini...? Jika kau tahu, bisakah kau memberitahu kita?"
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "... Demian, Rim, Sansón..."
+    },
+    {
+      "id": 57,
+      "model": "오티스",
+      "content": "Dia memberikan kesan yang hampir sama dengan ketiganya. Terutama dalam hal betapa sulitnya membedakan apakah dia teman atau musuh."
+    },
+    {
+      "id": 58,
+      "model": "오티스",
+      "content": "Namun, pada akhirnya, ketiganya itu memang terbukti cukup membantu kami, meskipun niat mereka sulit ditebak. Mungkin yang satu ini pun akan sama."
+    },
+    {
+      "id": 59,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 60,
+      "content": "Mungkin ia sudah mengatakan semua yang ingin ia sampaikan, karena ia hanya membalasnya dengan senyuman tanpa sepatah kata pun. Senyuman ramah yang sama seperti yang ia tunjukkan kepada kita sebelumnya."
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "Apakah masih aman kalau kita... keluar lewat pintu di sana saja?"
+    },
+    {
+      "id": 62,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 63,
+      "content": "... Ia tetap diam, tetapi aku merasa melihatnya sedikit menganggukkan kepala sebagai tanda setuju."
+    },
+    {
+      "id": 64,
+      "model": "단테",
+      "content": "<... Sepertinya kita tidak punya pilihan lain. Ayo kita keluar saja dan lihat apa yang ada di sana.>"
+    }
+  ]
+}
