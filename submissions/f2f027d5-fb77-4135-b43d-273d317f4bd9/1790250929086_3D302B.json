@@ -1,0 +1,169 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "싱클레어",
+      "content": "Sebagai aturan di rumah, keluargaku biasanya sarapan di meja yang sama setiap pagi."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Itu adalah waktu yang menyenangkan saat seluruh keluarga kami berbagi cerita dan kata-kata penyemangat."
+    },
+    {
+      "id": 2,
+      "model": "싱클레어",
+      "content": "Aku menyukai pagi-pagi itu, aturan itu selalu terasa begitu baik dan lembut di hatiku."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Sebuah dunia yang wajar dan tak berubah yang menjadi milikku. Duniaku."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Dunia itu mulai terasa mengasingkan suatu hari..."
+    },
+    {
+      "id": 5,
+      "model": "싱클레어",
+      "content": "Hari ketika kakak perempuanku duduk di meja itu setelah transformasi prostetiknya selesai."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Duniaku telah mulai berubah ketika kepala ayahku digantikan dengan mesin baja, sirkuit, dan kabel yang tak kukenali."
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Sarapan keluarga kami tidak lagi memberikan kehangatan dan rasa saling terhubung. Momen itu berubah menjadi momen yang terasa berjarak di mana aku semakin jarang berbicara."
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Ah... Aku mulai merasakan kebencian bawaan terhadap prostetik."
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "“Itu menjijikkan…”"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Hatiku tidak bisa menerima gagasan mengganti daging dan tulang seseorang dengan hal lain, apalagi harus merasa membutuhkannya."
+    },
+    {
+      "id": 11,
+      "model": "싱클레어",
+      "content": "Kenapa kita menggunakan tubuh prostetik?"
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Aku dengan hati-hati meminta penjelasan, dan jawabannya sangat sederhana."
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "Tubuh manusia, dalam keadaan alaminya yang tidak dimodifikasi, itu terlalu “kuno”."
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "content": "Tubuh perlu ditopang dengan makanan, dipulihkan dengan tidur agar tidak tumbang karena kelelahan, dan luka membutuhkan waktu lama untuk sembuh."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Semua ini membuat tubuh manusia menjadi sangat tidak efisien."
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "Dia menyimpulkan bahwa prostetik akan menjadi semakin lazim seiring berjalannya waktu, dan pada akhirnya menjadi bagian biasa dari kehidupan kita sehari-hari."
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Aku berpikir dalam hati:"
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "“Kenapa aku tidak tertinggal zaman saja kalau memang itu yang akan menjadi tren utamanya nanti?”"
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "…Meskipun itu bukanlah argumen yang berakar pada logika."
+    },
+    {
+      "id": 20,
+      "place": "Ruang Kelas",
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Yo, Sinclair... Kau sebenarnya nggak mau ikut prosedur penggantian itu, kan?"
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Aku mengangguk tanpa mengucapkan sepatah kata pun."
+    },
+    {
+      "id": 22,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Tapi orang tuamu pasti nggak bakal suka kalau kau mengakuinya."
+    },
+    {
+      "id": 23,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Bikin frustrasi kan karena nggak ada yang bisa kau lakukan soal itu?"
+    },
+    {
+      "id": 24,
+      "model": "싱클레어",
+      "content": "Aku mengangguk lagi."
+    },
+    {
+      "id": 25,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Gimana kalau aku membantumu? Kau bisa menjalani hidup dengan bebas tanpa perlu mengkhawatirkan rongsokan-rongsokan itu."
+    },
+    {
+      "id": 26,
+      "model": "싱클레어",
+      "content": "T-Tapi, bagaimana caranya?"
+    },
+    {
+      "id": 27,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Soal itu, kau akan cari tahu lain kali."
+    },
+    {
+      "id": 28,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Sebagai gantinya..."
+    },
+    {
+      "id": 29,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Sebagai balasan karena sudah membantumu dengan masalahmu, kau juga harus membantuku mengurus dendamku sendiri."
+    }
+  ]
+}
