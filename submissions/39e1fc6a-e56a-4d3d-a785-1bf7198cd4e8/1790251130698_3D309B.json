@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bukit Mayat yang Tak Berujung",
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Nah? Sinclair? Apa kau berhasil menemukan jawaban di jalan hatimu?"
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "…Kromer."
+    },
+    {
+      "id": 2,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Ahaha, jangan menatapku seperti itu."
+    },
+    {
+      "id": 3,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Ini bahkan belum waktunya…"
+    },
+    {
+      "id": 4,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Kau membuatku ingin membunuhmu."
+    },
+    {
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Ahu… Tidak, tidak. Aku harus menahan diri… Aku tidak boleh membiarkan hiburan sesaat mengalihkanku dari hal-hal yang lebih penting."
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "Sinclair, satu-satunya cara untuk mengambil kembali <ruby=Ranting Emas>Golden Bough</ruby> yang sudah mulai beresonansi adalah…"
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Aku tahu."
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Bahkan seandainya ini bukan karena misi kita…"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Aku tetap bakal mencabik-cabik perempuan jalang itu… dan meminum habis sisa-sisanya."
+    },
+    {
+      "id": 9,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Pfh… Ahahaha!!"
+    },
+    {
+      "id": 10,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Kuhuu… Oh, Sinclair…! Sejak kapan kau belajar bertingkah sok jagoan begini? Itu sama sekali nggak mirip denganmu… Lucu sekali… Pfft."
+    },
+    {
+      "id": 11,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Tapi… Yah, kurasa kau sudah punya beberapa teman sejak saat itu."
+    },
+    {
+      "id": 12,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Kau nggak bakal kabur lagi kali ini, kan?"
+    }
+  ]
+}
