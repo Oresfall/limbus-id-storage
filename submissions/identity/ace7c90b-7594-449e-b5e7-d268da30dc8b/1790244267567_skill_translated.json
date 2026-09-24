@@ -1,0 +1,294 @@
+{
+  "datalist": [
+    {
+      "id": 1091701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Jika target adalah kawan, beri +3 Count [Charge] dan 1 [AttackUp]\n[EndSkill] Jika target adalah kawan, aktifkan efek berikut (sekali per giliran):\n- Beri Perisai setara dengan 5% dari maks HP unit ini (min 1)\n- Beri 1 [NoirScissorShield]\n- Jika target adalah [PersonalityCharge], beri 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Jika target adalah kawan, beri +<style=\"highlight\">4</style> Count [Charge] dan 1 [AttackUp]\n[EndSkill] Jika target adalah kawan, aktifkan efek berikut (sekali per giliran):\n- Beri Perisai setara dengan 5% dari maks HP unit ini (min 1)\n- Beri 1 [NoirScissorShield]\n- Jika target adalah [PersonalityCharge], beri 1 [Enhancement]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Retouche",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[EndSkill] Jika target adalah kawan, beri +4 Count [Charge] dan 1 [AttackUp]\n[EndSkill] Jika target adalah kawan, aktifkan efek berikut <style=\"highlight\">(2 kali per giliran)</style>:\n- Beri Perisai setara dengan <style=\"highlight\">10%</style> dari maks HP unit ini (min 1)\n- Beri 1 [NoirScissorShield]\n- Jika target adalah [PersonalityCharge], beri 2 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semat dan Pangkas Sepanjang Pola",
+          "desc": "[StartBattle] Berikan efek berikut pada 1 kawan lain dengan Urutan Pengerahan ter-awal (prioritaskan [PersonalityCharge]; sekali per giliran):\n- Beri 2 [AttackUp]\n- Beri Perisai setara dengan 5% dari maks HP unit ini (min 1)\n- Jika Identitas tersebut adalah [PersonalityCharge], beri tambahan 1 [AttackUp] dan Perisai setara dengan 5% dari maks HP unit ini\n\n[WhenUse] Jika target memiliki 6+ Potency [Vibration], Coin Power +1\n[WhenUse] Konsumsi 5 Count [ChargeKhakiAlly] untuk peroleh Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +6 Count [ChargeKhakiAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Semat dan Pangkas Sepanjang Pola",
+          "desc": "[StartBattle] Berikan efek berikut pada <style=\"highlight\">unit ini dan</style> 1 kawan lain dengan Urutan Pengerahan ter-awal (prioritaskan [PersonalityCharge]; sekali per giliran):\n- Beri 2 [AttackUp]\n- Beri Perisai setara dengan 5% dari maks HP unit ini (min 1)\n- Jika Identitas tersebut adalah [PersonalityCharge], beri tambahan 1 [AttackUp] dan Perisai setara dengan 5% dari maks HP unit ini\n\n[WhenUse] Jika target memiliki 6+ Potency [Vibration], Coin Power +1\n[WhenUse] Konsumsi 5 Count [ChargeKhakiAlly] untuk peroleh Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +6 Count [ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Semat dan Pangkas Sepanjang Pola",
+          "desc": "[StartBattle] Berikan efek berikut pada unit ini, 1 kawan lain dengan Urutan Pengerahan ter-awal (prioritaskan [PersonalityCharge]), <style=\"highlight\">dan 1 kawan dengan persentase HP terendah saat ini</style> (sekali per giliran):\n- Beri 2 [AttackUp]\n- Beri Perisai setara dengan 5% dari maks HP unit ini (min 1)\n- Jika kawan tersebut adalah [PersonalityCharge], beri tambahan 1 [AttackUp] dan Perisai setara dengan 5% dari maks HP unit ini\n\n<style=\"highlight\">[WhenUse] Coin Power +1 untuk setiap 6 Potency [Vibration] pada target (max 2)</style>\n[WhenUse] Konsumsi 5 Count [ChargeKhakiAlly] untuk peroleh Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +6 Count [ChargeKhakiAlly]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AmberResistDown] (sekali per giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Coupez dans le Biais",
+          "desc": "Beri +15% damage untuk setiap [NoirScissorCut] pada diri sendiri (max 30%)\n\n[StartBattle] Berikan efek berikut pada 1 kawan lain dengan Urutan Pengerahan ter-awal (prioritaskan [PersonalityCharge]) dan 1 kawan dengan persentase HP terendah saat ini (sekali per giliran):\n- Beri 1 [NoirScissorShield]\n- Beri Perisai setara dengan 5% dari maks HP unit ini (min 1)\n\n[WhenUse] Jika target memiliki 6+ Potency [Vibration], Coin Power +1\n[WhenUse] Final Power +1 untuk setiap 3 [ChargeKhakiAlly] Potency (max 2)\n[WhenUse] Konsumsi 5 Count [ChargeKhakiAlly] untuk peroleh Final Power +2\n\n[EndSkill] Peroleh +5 Count [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 5+ Count [ChargeKhakiAlly], konsumsi 5 Count [ChargeKhakiAlly] untuk mengaktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Coupez dans le Biais",
+          "desc": "Beri <style=\"highlight\">+30%</style> damage untuk setiap [NoirScissorCut] pada diri sendiri <style=\"highlight\">(max 60%)</style>\n\n[StartBattle] Berikan efek berikut pada unit ini, 1 kawan lain dengan Urutan Pengerahan ter-awal (prioritaskan [PersonalityCharge]), dan 1 kawan dengan persentase HP terendah saat ini (sekali per giliran):\n- Beri 1 [NoirScissorShield]\n- Beri Perisai setara dengan <style=\"highlight\">10%</style> dari maks HP unit ini (min 1)\n\n<style=\"highlight\">[WhenUse] Coin Power +1 untuk setiap 6 Potency [Vibration] pada target (max 2)</style>\n[WhenUse] Final Power +1 untuk setiap 3 [ChargeKhakiAlly] Potency (max 2)\n[WhenUse] Konsumsi 5 Count [ChargeKhakiAlly] untuk peroleh Final Power +2\n\n[EndSkill] Peroleh +5 Count [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirScissorAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirScissorAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 5+ Count [ChargeKhakiAlly], konsumsi 5 Count [ChargeKhakiAlly] untuk mengaktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Memangkas",
+          "desc": "[DuelCounter]\n[StartBattle] Peroleh +5 Count [ChargeKhakiAlly] (2 kali per giliran)\n[StartBattle] Beri Perisai setara dengan 5% dari maks HP unit ini ke unit ini dan 2 kawan lain dengan persentase HP terendah saat ini (min 1, sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Memangkas",
+          "desc": "[DuelCounter]\n[StartBattle] Peroleh +5 Count [ChargeKhakiAlly] (2 kali per giliran)\n[StartBattle] Beri Perisai setara dengan <style=\"highlight\">10%</style> dari maks HP unit ini ke unit ini dan 2 kawan lain dengan persentase HP terendah saat ini (min 1, sekali per giliran)\n\n<style=\"highlight\">[WhenUse] Clash Power +1 untuk setiap 5 Count [ChargeKhakiAlly] (max 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Membuat Pola",
+          "desc": "[CantDuel]\n[WhenUse] Peroleh +3 Count [ChargeKhakiAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 3+ [ChargeKhakiAlly] Potency, Gunakan ulang Coin ini (sekali per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirScissorAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Potongan",
+          "desc": "[CantDuel]\n[WhenUse] Final Power +1 untuk setiap 3 [ChargeKhakiAlly] Potency (max 2)\n[WhenUse] Peroleh +5 Count [ChargeKhakiAlly]\n\n[EndSkill] Konsumsi 2 [NoirScissorAlly] pada target\n[EndSkill] Peroleh 1 [NoirScissorCut]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
