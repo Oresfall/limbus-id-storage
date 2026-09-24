@@ -1,0 +1,205 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dapur Eunbong’s Bar & Fryers",
+      "model": "뒤틀린주인카운트1",
+      "teller": "Pemilik Eunbong’s Bar & Fryers",
+      "title": "Eunbong’s Bar & Fryers",
+      "content": "……"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "…Angka-angka apaan nih?"
+    },
+    {
+      "id": 2,
+      "model": "이상",
+      "content": "Itu mungkin sebuah indikator… yang memperingatkan bahwa kita telah menyia-nyiakan dua dari lima kesempatan…"
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Sepertinya setiap tim bisa menyiapkan satu hidangan lagi kalau begitu. Bagaimana menurut kalian?>"
+    },
+    {
+      "id": 4,
+      "content": "Dan begitu saja…"
+    },
+    {
+      "id": 5,
+      "content": "Maka dimulailah kompetisi memasak kecil-kecilan Limbus Company…"
+    },
+    {
+      "id": 6,
+      "model": "그레고르요리사",
+      "content": "Baiklah, sekarang… Mari kita tentukan peran masing-masing. Bukannya itu bakal bikin banyak perubahan sih, tapi…"
+    },
+    {
+      "id": 7,
+      "model": "그레고르요리사",
+      "content": "Ngomong-ngomong, Hong Lu… Apa lu pernah melihat dapur sebelumnya?"
+    },
+    {
+      "id": 8,
+      "model": "돈키호테",
+      "content": "Ehem…!"
+    },
+    {
+      "id": 9,
+      "model": "홍루",
+      "content": "Yah, kamarku tidak punya dapur kecil. Tapi, aku memang pernah menyusup ke ruang makan besar di lantai dua beberapa kali untuk mencari camilan waktu aku masih kecil."
+    },
+    {
+      "id": 10,
+      "model": "돈키호테",
+      "content": "Eheeem!!"
+    },
+    {
+      "id": 11,
+      "model": "그레고르요리사",
+      "content": "Selanjutnya, kita punya Yi Sang…"
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "Bukannya dia satu-satunya yang baik-baik aja waktu kita minum susu basi tempo hari?"
+    },
+    {
+      "id": 13,
+      "model": "이상",
+      "content": "Mmmmmh… Aromanya sungguh sensual, meresap hingga ke lubuk paru-paruku."
+    },
+    {
+      "id": 14,
+      "model": "돈키호테",
+      "content": "EHEEEEEMMMM!!!"
+    },
+    {
+      "id": 15,
+      "model": "그레고르요리사",
+      "content": "Don Quixote, apa ada yang salah dengan tenggorokanmu?"
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "Bagaimana jika kau izinkan <ruby=aku>hamba</ruby> yang memegang kendali?"
+    },
+    {
+      "id": 17,
+      "content": "Dia mengatakan itu dengan ekspresi tersipu, menyembunyikan kedua tangannya di belakang punggung."
+    },
+    {
+      "id": 18,
+      "model": "그레고르요리사",
+      "content": "Don Quixote… Ini bukan waktunya main-main."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby> bukan anak kecil! Dan mengapa <ruby=aku>hamba</ruby> ditolak untuk posisi koki sementara Sinclair diizinkan melakukannya di tim sebelah!"
+    },
+    {
+      "id": 20,
+      "model": "그레고르요리사",
+      "content": "Hm?"
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "Ayamnya dipotong terlalu tidak rata. Kau harus memotongnya dengan lebih baik. Tegakkan punggungmu."
+    },
+    {
+      "id": 22,
+      "model": "싱클레어",
+      "content": "B-Baik… Oke…!"
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "content": "Nak~ Bukannya ini agak hambar? Kayaknya ini butuh sedikit lebih banyak rasa manis deh."
+    },
+    {
+      "id": 24,
+      "model": "싱클레어",
+      "content": "M-Manis? Uhh, coba kulihat… Di mana gulanya…"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Berdasarkan apa yang Faust lihat, apinya perlu dinaikkan satu tingkat."
+    },
+    {
+      "id": 26,
+      "model": "료슈요리사",
+      "content": "Payah. Pegangan pisaunya salah total."
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "Kenapa kalian tidak berhenti jadi koki sok tahu dan mulai benar-benar membantu?"
+    },
+    {
+      "id": 28,
+      "model": "그레고르요리사",
+      "content": "Hmm… Maksud gue, lu pasti bisa memercayai Sinclair buat ngurusin hal-hal semacam itu… Lidahnya juga pasti bisa jadi penilai yang cukup bagus, karena dia dibesarkan di keluarga kaya dan semacamnya…"
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "Tunggu sebentar, kenapa nggak ada yang ngasih gue saran? Liat nih, gue bisa masak telur—"
+    },
+    {
+      "id": 30,
+      "model": "히스클리프",
+      "content": "Bangsat! Kenapa wajan sialan ini panas banget? Gue hampir mati kepanggang!"
+    },
+    {
+      "id": 31,
+      "content": "Semua orang hanya memperhatikan saat wajan yang dilempar Heathcliff membentur dinding dan hancur berkeping-keping."
+    },
+    {
+      "id": 32,
+      "model": "뫼르소",
+      "content": "…Restoran ini berbau jamur dan noda kotor lainnya. Kemungkinan besar dapur ini telah dibiarkan begitu saja setidaknya selama 140 hari."
+    },
+    {
+      "id": 33,
+      "model": "뫼르소",
+      "content": "Memasak di luar mungkin lebih higienis untuk situasi saat ini."
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby> memohon, berikanlah <ruby=aku>hamba</ruby> izin untuk memasak!!!"
+    },
+    {
+      "id": 35,
+      "model": "뒤틀린닭1",
+      "teller": "Ayam Mentah",
+      "title": "Makhluk Terdistorsi",
+      "content": "Bwakbwakbawkbawkbawk!!!!"
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<“Beraninya kalian mengacaukan dapur kami! Kalian akan menanggung kemurkaan kami atas perbuatan busuk kalian!”>"
+    },
+    {
+      "id": 37,
+      "model": "그레고르요리사",
+      "content": "……"
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<Rasanya dia cuma ngomong begitu…>"
+    },
+    {
+      "id": 39,
+      "model": "그레고르요리사",
+      "content": "…Ayolah, tetap fokus, Gregor."
+    }
+  ]
+}
