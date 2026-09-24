@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10917_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Jahitan bahu terlalu rendah... hem lengan terlalu pendek. Dan benang lepas dari kerah bajumu akan terlihat jauh lebih bersih jika dipotong.\nFuhu~ Banyak kerjaan yang harus diselesaikan, pelangganku. Jadi, mulai dari mana dulu yang mau diubah?"
+    },
+    {
+      "id": "lobby_morning_10917_1",
+      "desc": "Morning Greeting",
+      "dlg": "Oh, cahayanya akhirnya sampai ke pintu depan—Dua-bagian pasti sudah diurus. Dan itu berarti... semua pelanggan Noir yang menunggu tokoku buka akan segera menyerbu tempat ini.\n... Para Noir tidak begitu menyukai orang asing. Belilah yang kalian perlukan dan pergilah selagi bisa."
+    },
+    {
+      "id": "lobby_noon_10917_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Matahari terasa sangat lembut pada jam seperti ini. Rambut dan bahuku terasa hangat, begitu nyaman sehingga sulit untuk tetap bangun...\nKalau engga berhati-hati, bisa jadi ketiduran dan kelewatan pelanggan yang pernah datang ke toko."
+    },
+    {
+      "id": "lobby_night_10917_1",
+      "desc": "Evening Greeting",
+      "dlg": "Pemesanan musim ini telah ditutup. Aku masih bisa menambal robekan atau menjahit sesuatu yang sederhana, tapi... jika ingin kain berkualitas, kamu harus menunggu.\nTidak banyak yang tersisa di sini selain benang kelas dua, dan tidak ada penjahit yang mampu menghasilkan kain elegan dan modis darinya."
+    },
+    {
+      "id": "smalltalk_10917_1",
+      "desc": "Chatter #1",
+      "dlg": "Seperti yang kamu lihat, tempat ini tidak seperti toko lainnya. Ini bukan tempat pameran, juga bukan tempat untuk menyelesaikan karya. Di sinilah aku menjual kain yang telah kujahit penuh keheningan sekian lamanya sejak diriku duduk di sini. Ingin sesuatu yang kokoh dengan kain tahan berjumbai? Atau jika tidak sesuai dengan seleramu, aku bisa mencarikan kain kotak-kotak lebih ringan dan menunggu untuk dibentuk."
+    },
+    {
+      "id": "smalltalk_10917_2",
+      "desc": "Chatter #2",
+      "dlg": "Beberapa benang sudah terikat hingga tidak dapat lagi diurai. Yang lainnya dikemas begitu rapat hingga tidak ada ruang untuk menyelipkan gunting. Toko departemen ini dipenuhi dengan ujung-ujung longgar dan serat yang tak pernah dipotong. Setiap kali aku melihatnya, selalu ada godaan untuk mengambil guntingku... Apa pun yang terjadi."
+    },
+    {
+      "id": "smalltalk_10917_3",
+      "desc": "Chatter #3",
+      "dlg": "Cahaya yang bocor dari Resin Emas telah menarik lebih banyak penganut dalam beberapa hari terakhir. Apa mereka membutuhkan lebih dari apa yang bisa diberikan oleh Suara Tegas Le Noir...?\nNamun demikian, tak ada yang sehangat dan semenyenangkan kayak sinar matahari ketika menggigil kedinginan."
+    },
+    {
+      "id": "smalltalk_10917_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Oh, Aku sudah mendengar semua tentang si merah. *haha* Benang mereka untuk menjahit bagian dalam tubuh mereka berwarna merah tua sehingga niat mereka terlihat dari luar... dan itu sangat jelas.\nCepat atau lambat, mereka akan berkunjung untuk melihatku dipotong—mereka mendambakan Kain Emas-ku, dan bodoh sekali jika aku tidak menyadari ketakutan mereka akan semua pakaian yang mungkin dibuat oleh guntingku ini."
+    },
+    {
+      "id": "smalltalk_10917_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Kain yang masuk berita artikel pakaian di Grand Magasin, baik yang diinginkan maupun yang dibenci, bermula dari satu benang. Dapatkan benangnya, dan kita hanya perlu seutas paku untuk menyelesaikan sisanya. Dan mata guntingku, tentu."
+    },
+    {
+      "id": "neglect_10917_1",
+      "desc": "Idle",
+      "dlg": "... Nah, dan udah selesai. Sudah kujahit dengan penuh perhatian. Seharusnya tidak akan terurai untuk waktu yang lama."
+    },
+    {
+      "id": "gacksung_10917_1",
+      "desc": "Uptying",
+      "dlg": "Robek atau terbakar—bawalah yang tidak sempurna padaku, dan dengan jariku semuanya akan menjadi utuh. Bahkan yang belum lahir... dan mereka yang tertidur."
+    },
+    {
+      "id": "formation_10917_1",
+      "desc": "Deployment",
+      "dlg": "Aku bisa lihat semangat untuk <i>snip-snip!</i> di matamu. Mengapa tidak memberitahuku mau kemana gunting ini pergi?"
+    },
+    {
+      "id": "battleentry_10917_1",
+      "desc": "Stage Entry",
+      "dlg": "Sudah siap untuk menjadi potongan?"
+    },
+    {
+      "id": "battle_select_10917_1",
+      "desc": "Viewed in Battle",
+      "dlg": "... Kain mana yang harus kupakai untuk mempermudah proses menjahitnya?"
+    },
+    {
+      "id": "battle_endcommand_10917_1",
+      "desc": "Commencing Attack",
+      "dlg": "Dari benang ke jarum."
+    },
+    {
+      "id": "battle_enemy_break_10917_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Potong di sepanjang serat..."
+    },
+    {
+      "id": "battle_break_10917_1",
+      "desc": "Staggered",
+      "dlg": "... Hidup tergantung pada seutas benang."
+    },
+    {
+      "id": "battle_kill_10917_1",
+      "desc": "Enemy Killed",
+      "dlg": "... sampai jahitan terakhir."
+    },
+    {
+      "id": "battle_dead_10917_1",
+      "desc": "Death",
+      "dlg": "Semuanya jadi berantakan... tiap untaian benang..."
+    },
+    {
+      "id": "choice_success_p_10917_2",
+      "desc": "Check Passed",
+      "dlg": "Sudah kubilang, kan? Sekali njahit, ga akan rusak begitu aja."
+    },
+    {
+      "id": "choice_fail_n_10917_1",
+      "desc": "Check Failed",
+      "dlg": "Kayaknya jahitannya kurang rapi. Harus ada yang ku ubah."
+    },
+    {
+      "id": "battle_clear_10917_1",
+      "desc": "Victory Cry",
+      "dlg": "Kamu pergi dengan tenang tanpa banyak keributan. Sepertinya kamu sudah siap untuk terpotong-potong, hmm?\nUntuk potongan yang kamu tinggalkan... Hmm, tentu. Akan kujahit dengan bagus dan rapi.\nPara Noir pasti menyukai ini."
+    },
+    {
+      "id": "battle_clear_ex_10917_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Kainnya telah dipotong hingga bagus, dan semua jarumnya sudah dijalin... Kini yang tersisa hanyalah menjahitnya pada tempatnya, menutupi tepinya, dan menyembunyikan hasil akhirnya dengan jahitan buta.\nTemui aku lagi jika perlu mengubah hal lain. Tapi lain kali... Akan lebih mahal, oke?"
+    },
+    {
+      "id": "battle_defeat_10917_1",
+      "desc": "Defeat Wail",
+      "dlg": "... Kamu lumayan. Sekarang setelah aku terpotong, kamu menyulitkan para Noir untuk mendapatkan kainku lagi.\nMatamu itu telah melihat denyut nadi yang begitu kuat... Jadi aku yakin... kamu akan memanfaatkan apa pun yang tersisa dari diriku dengan baik."
+    }
+  ]
+}
