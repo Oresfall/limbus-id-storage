@@ -1,0 +1,9 @@
+{
+  "datalist": [
+    {
+      "id": 2091011,
+      "name": "Schismatic Stereognosis",
+      "desc": "Ketika unit ini memperoleh Potency atau Count [Breath], peroleh +1 Count [Breath] (2 kali per giliran)\n\nJika unit ini adalah [PersonalityBreath] atau [PersonalityVibration], Skill Dasar yang memiliki 1 Atk Weight atau [WideAreaRampage] beri +10% damage\n\nPada Akhir Serangan, jika target terkena Stagger atau dikalahkan, secara acak beri 1/3 dari Potency [Vibration] pada target diantara musuh lainnya pada giliran berikutnya (dibulatkan ke atas; untuk Pertemuan Terfokus, Bagian)\n - Efek ini tidak menumpuk dengan efek dari E.G.O Gift \"Mirror Tactile Synaesthesia\""
+    }
+  ]
+}
