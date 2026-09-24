@@ -1,0 +1,294 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruang Kelas",
+      "model": "싱클레어",
+      "content": "Suatu hari, seorang murid pindahan baru bernama Demian ditempatkan di kelas sebelah kelasku."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Dia selalu dikelilingi kerumunan setiap kali aku melihatnya."
+    },
+    {
+      "id": 2,
+      "model": "싱클레어",
+      "content": "Tapi aku mendapat firasat kalau dia tidak merasa terikat dengan siapa pun di sekitarnya."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Bagiku, dia terlihat seolah-olah hampir melayang di udara; dia sangat berjarak."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Begitu juga sebaliknya, dia sepertinya tidak terlalu tertarik padaku."
+    },
+    {
+      "id": 5,
+      "model": "싱클레어",
+      "content": "Setidaknya, begitulah awalnya."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Itu terjadi selama kelas teknik yang membosankan."
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Mataku terus teralihkan dari papan tulis, dan tanpa sadar, aku malah melihat ke luar jendela."
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Dari balik jendela itu, aku melihatnya sedang berjalan-jalan."
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "Seperti biasa, dia dikelilingi oleh murid-murid lainnya, dengan senyum tipis di wajahnya."
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Bahkan ekspresinya terasa berbeda dari yang seharusnya ditunjukkan oleh anak seusianya; senyuman itu membawa aura dewasa namun menyendiri."
+    },
+    {
+      "id": 11,
+      "model": "싱클레어",
+      "content": "Bermandikan sinar matahari, dia membelai rambutnya."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Hah?"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "Kukira aku sekilas melihat sesuatu yang aneh berwarna merah di dahinya."
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "content": "Apa aku salah lihat? Mungkin itu hanya pantulan sinar matahari yang menyilaukan dari kulitnya."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Dan kemudian…"
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "Aku merasa kalau aku sempat bertatapan mata dengannya."
+    },
+    {
+      "id": 17,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "……"
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "Beberapa siswa masih mengobrol di luar."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "Segera setelah aku merasakan tatapannya, aku langsung memalingkan wajah dan menunduk ke mejaku."
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "Sejak kejadian aneh itu, Demian mulai berbicara denganku dengan ramah."
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Anehnya, pada hari-hari ketika Demian menghampiriku, Kromer tidak datang untuk menyapaku."
+    },
+    {
+      "id": 22,
+      "model": "싱클레어",
+      "content": "Meskipun begitu, setiap kali dia punya kesempatan, dia akan datang dan memastikanku agar mengingat janji kami."
+    },
+    {
+      "id": 23,
+      "place": "Ruang Kelas",
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Aku sering mendapat mimpi ini, Sinclair."
+    },
+    {
+      "id": 24,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Di dalamnya, aku memanjat tangga yang panjangnya tak berujung. Kemudian semua yang ada di bawah mulai terlihat. <ruby=Sarang>Nest</ruby>, <ruby=Jalanan Belakang>Backstreets</ruby>, <ruby=Pinggiran>Outskirts</ruby>, semuanya."
+    },
+    {
+      "id": 25,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Dan saat aku melihat ke bawah kakiku, semua lampu di Kota padam, seolah-olah akhir dari segalanya telah tiba."
+    },
+    {
+      "id": 26,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Jatuh ke dalam kematian yang sunyi, hampa dari pergerakan apa pun."
+    },
+    {
+      "id": 27,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Sungguh, itu adalah wujud dari kematian itu sendiri."
+    },
+    {
+      "id": 28,
+      "model": "싱클레어",
+      "content": "Demian, apa kau pernah ke <ruby=Pinggiran>Outskirts</ruby>?"
+    },
+    {
+      "id": 29,
+      "model": "싱클레어",
+      "content": "Aku berbisik padanya, ketakutan."
+    },
+    {
+      "id": 30,
+      "model": "싱클레어",
+      "content": "Dia membicarakan tempat terlarang di mana tak seorang pun bisa atau boleh pergi ke sana."
+    },
+    {
+      "id": 31,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Sinclair, dunia sebagaimana orang-orang ingin mendefinisikannya tak bisa dibagi menjadi tempat ke mana kau boleh dan tak boleh pergi."
+    },
+    {
+      "id": 32,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Apa kau pikir cinta dan kebebasan bisa ditemukan dalam kurungan <ruby=Sarang>Nest</ruby> ini? Dibandingkan dengan di sini, kehidupan jauh lebih kaya di <ruby=Pinggiran>Outskirts</ruby>."
+    },
+    {
+      "id": 33,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Ada sesuatu yang telah kurenungkan sejak lama, dan kupikir mungkin di sanalah aku bisa menemukan jawabannya."
+    },
+    {
+      "id": 34,
+      "model": "싱클레어",
+      "content": "Setiap kali aku berbicara dengan Demian, aku bisa merasakan jiwaku sedikit lebih dewasa."
+    },
+    {
+      "id": 35,
+      "model": "싱클레어",
+      "content": "Tapi aku tak pernah menyinggung ketakutanku mengenai prosedur prostetik yang akan datang atau hubunganku yang ganjil dengan Kromer."
+    },
+    {
+      "id": 36,
+      "model": "싱클레어",
+      "content": "Meskipun dia ingin tahu lebih banyak tentangku, aku ragu untuk membagikan rahasiaku."
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "Aku terlalu malu untuk membeberkan ketakutanku yang terpendam dalam-dalam di hadapannya."
+    },
+    {
+      "id": 38,
+      "model": "싱클레어",
+      "content": "Dan akhirnya…"
+    },
+    {
+      "id": 39,
+      "model": "싱클레어",
+      "content": "Hari yang dijanjikan telah tiba."
+    },
+    {
+      "id": 40,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Yo, Sinclair, bisa tunjukin ruang bawah tanahmu?"
+    },
+    {
+      "id": 41,
+      "model": "싱클레어",
+      "content": "Kata-katanya menghantamku entah dari mana, namun terasa seringan bulu."
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "Dia memintanya seolah-olah itu hal yang sama mudahnya dengan memungut penghapus, dan aku hampir saja menyetujuinya."
+    },
+    {
+      "id": 43,
+      "model": "싱클레어",
+      "content": "K-Kenapa harus ruang bawah tanah kami?"
+    },
+    {
+      "id": 44,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Kalau rumor yang kebetulan kudengar itu benar, rumahmu terhubung ke tempat yang penuh skandal. Ada sesuatu yang harus kuperiksa."
+    },
+    {
+      "id": 45,
+      "model": "싱클레어",
+      "content": "Tapi orang tuaku…"
+    },
+    {
+      "id": 46,
+      "model": "싱클레어",
+      "content": "“…nggak bakal suka.”\nAku bahkan tidak sanggup untuk menyelesaikan kalimat yang memalukan ini."
+    },
+    {
+      "id": 47,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Kalau kau membiarkanku memeriksanya, Sinclair…"
+    },
+    {
+      "id": 48,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Aku bersumpah aku bakal nepatin janji itu padamu, suwer."
+    },
+    {
+      "id": 49,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Selundupkan saja kunci ruang bawah tanahnya padaku dan aku bisa menyelinap masuk dengan mudah…"
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "Tak mampu mendeteksi perasaan familier dan samar yang tersembunyi di balik kata-katanya, aku perlahan mengangguk…"
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "Maka, dunia kejahatan bermula di sana, tepat di tengah-tengah rumah kami."
+    }
+  ]
+}
