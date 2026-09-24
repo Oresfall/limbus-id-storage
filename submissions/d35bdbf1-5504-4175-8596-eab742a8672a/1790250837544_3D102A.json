@@ -1,0 +1,451 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Distrik 11 - Bagian Dalam Cabang LC",
+      "content": "Aku mendengar suara familier yang membawa firasat buruk dari paku yang diseret di lantai dari arah yang tak terlalu jauh."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "…Manajer. Jika aku boleh lancang, aku menyarankan agar Anda segera memasukkan tahap untuk memastikan musuh kita benar-benar telah mati ke dalam protokol tempur Anda."
+    },
+    {
+      "id": 2,
+      "content": "Membayangkan pria itu kembali membuat bulu-bulu yang bahkan tak kumiliki ini berdiri."
+    },
+    {
+      "id": 3,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Wahai Kaum Sesat... kalian harus dimusnahkan."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Sejak kapan kamu...>"
+    },
+    {
+      "id": 5,
+      "content": "Guido mendekat dengan langkah yang lebih lambat dari sebelumnya, tapi tatapannya tertuju lurus ke arahku."
+    },
+    {
+      "id": 6,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Dan... sisanya... akan disucikan."
+    },
+    {
+      "id": 7,
+      "content": "Aku harus memutar waktu."
+    },
+    {
+      "id": 8,
+      "content": "Sebagian besar <ruby=Pendosa>Sinner</ruby> sudah mati atau terluka parah."
+    },
+    {
+      "id": 9,
+      "content": "Mana mungkin seorang manajer yang praktis bukan petarung dan seseorang yang nyaris tak bisa mempertahankan nyawanya bisa menghadapinya."
+    },
+    {
+      "id": 10,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Tolong berhenti..."
+    },
+    {
+      "id": 11,
+      "content": "Saat itu juga, Saude mengeluarkan sebuah pistol."
+    },
+    {
+      "id": 12,
+      "content": "Dia menodongkan larasnya ke arahku."
+    },
+    {
+      "id": 13,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Aku mau kau... tetap diam..."
+    },
+    {
+      "id": 14,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Saat kau mencoba memutar jam itu, pistolku... akan meledakkan kepalamu..."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Saude…?>"
+    },
+    {
+      "id": 16,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Jangan tatap aku... seperti itu... Aku nggak bisa dengar suaramu. Tapi, aku bisa memberitahumu ini."
+    },
+    {
+      "id": 17,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Mereka berjanji... akan membiarkan Effie pergi... kalau aku membantu menyingkirkanmu..."
+    },
+    {
+      "id": 18,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Aku membiarkan terlalu banyak waktu berlalu."
+    },
+    {
+      "id": 19,
+      "content": "Guido menghampiriku dan mencengkeram leherku."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<Kahk, ghhng...>"
+    },
+    {
+      "id": 21,
+      "content": "Kemudian, dia mencengkeram kepalaku erat-erat dengan tangannya yang lain seolah-olah berniat menghancurkannya."
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<Nngh...>"
+    },
+    {
+      "id": 23,
+      "content": "Suara derit, retak, dan gemeretak terngiang di dalam kepalaku."
+    },
+    {
+      "id": 24,
+      "content": "Jari-jarinya yang hanya berjarak beberapa inci dari meremukkan kepalaku membuatku sangat ketakutan."
+    },
+    {
+      "id": 25,
+      "content": "Apa cuma sampai di sini saja? Apa begini caraku mati?"
+    },
+    {
+      "id": 26,
+      "content": "Apa hal ini... bakal berakhir beda seandainya aku adalah manajer yang lebih baik?"
+    },
+    {
+      "id": 27,
+      "content": "Aku teringat saat Heathcliff dengan nada mengancam menanyakan apa ada cara buat ngebuka kepalaku biar dia bisa ngeliat apa isinya."
+    },
+    {
+      "id": 28,
+      "content": "Sayang sekali, Heathcliff."
+    },
+    {
+      "id": 29,
+      "content": "Lu bakal kelewatan tontonan yang bagus..."
+    },
+    {
+      "id": -1,
+      "model": "//효과음",
+      "content": "//Brak"
+    },
+    {
+      "id": 30,
+      "content": "Aku mendengar sebuah suara."
+    },
+    {
+      "id": 31,
+      "content": "Itu adalah suara sesuatu yang patah."
+    },
+    {
+      "id": 32,
+      "content": "Beruntungnya..."
+    },
+    {
+      "id": 33,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Ngh..."
+    },
+    {
+      "id": 34,
+      "content": "Suara itu bukan berasal dari kepalaku."
+    },
+    {
+      "id": 35,
+      "model": "싱클레어",
+      "content": "Huff, hoogh... Hahk."
+    },
+    {
+      "id": 36,
+      "content": "Guido terhuyung."
+    },
+    {
+      "id": 37,
+      "content": "Sebatang paku menancap di punggungnya, dan Sinclair terengah-engah di belakangnya."
+    },
+    {
+      "id": 38,
+      "content": "Dia nyaris tak sadarkan diri, terbaring diam beberapa saat yang lalu—sungguh sebuah keajaiban dia berhasil bangkit dan melakukan ini."
+    },
+    {
+      "id": 39,
+      "content": "Aku berhasil lepas dari cengkeraman Guido berkat dirinya..."
+    },
+    {
+      "id": 40,
+      "content": "Namun Guido tetap berdiri kokoh meski menerima serangan mematikan dari Sinclair; dia mengatur napasnya dan perlahan berbalik."
+    },
+    {
+      "id": 41,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "...Begitu ya."
+    },
+    {
+      "id": 42,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Kau, juga, adalah kaum sesat yang kotor..."
+    },
+    {
+      "id": 43,
+      "model": "싱클레어",
+      "content": "Kalian... semua gila... kalian udah nggak waras..."
+    },
+    {
+      "id": 44,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Sang Penggenggam pernah berkata..."
+    },
+    {
+      "id": 45,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Bahwa kau juga bisa menjadi Sang Penggenggam."
+    },
+    {
+      "id": 46,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Sungguh disayangkan..."
+    },
+    {
+      "id": 47,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Kau menggenggam di arah yang salah."
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<Sinclair... lari... aku nggak bisa... ngebantuin kamu...>"
+    },
+    {
+      "id": 49,
+      "model": "싱클레어",
+      "content": "Nggak... Aku nggak bakal lari lagi."
+    },
+    {
+      "id": 50,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "...Aku suka jawaban itu, Sinclair."
+    },
+    {
+      "id": -1,
+      "model": "탕!",
+      "content": "Dor!"
+    },
+    {
+      "id": 51,
+      "content": "Suara tembakan memenuhi telingaku."
+    },
+    {
+      "id": 52,
+      "content": "Namun peluru itu menembus kepala Guido."
+    },
+    {
+      "id": 53,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "……"
+    },
+    {
+      "id": 54,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Kau, yang membawa kehancuran pada dirimu sendiri..."
+    },
+    {
+      "id": 55,
+      "model": "피묻은귀도",
+      "teller": "Guido",
+      "title": "Nagel und Hammer",
+      "content": "Palu akan terus memburumu..."
+    },
+    {
+      "id": 56,
+      "content": "Dengan kata-kata itu..."
+    },
+    {
+      "id": 57,
+      "content": "Guido ambruk ke lantai, tak bernyawa."
+    },
+    {
+      "id": 58,
+      "content": "Dan dalam kesunyian itu..."
+    },
+    {
+      "id": 59,
+      "content": "Aku mendengar pistol Saude jatuh ke lantai."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<...Saude.>"
+    },
+    {
+      "id": 61,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Effie, dia... dia udah mati, kan?"
+    },
+    {
+      "id": 62,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kalian semua pembohong yang payah. Setidaknya cobalah bikin supaya kedengaran lebih meyakinkan."
+    },
+    {
+      "id": 63,
+      "model": "그레고르",
+      "content": "...Ayolah Saude, mari kita pergi dari sini. Lu bakal baik-baik aja... Kita cuma perlu menghentikan pendarahannya, dan... ngobatin lu."
+    },
+    {
+      "id": 64,
+      "model": "이스마엘",
+      "content": "Benar. Aku akan ambil *tourniquet*..."
+    },
+    {
+      "id": 65,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Jangan bodoh. Aku bahkan nyaris nggak bisa menggerakkan jariku."
+    },
+    {
+      "id": 66,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Lagipula, para Penyelidik itu bakal terus berdatangan, kan? Kalian harus terus turun ke bawah."
+    },
+    {
+      "id": 67,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Aku akan menahan mereka di sini. Kalian pergilah."
+    },
+    {
+      "id": 68,
+      "model": "싱클레어",
+      "content": "Kamu nggak boleh—Kamu nggak boleh ngelakuin itu..."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "content": "Lu sendiri yang bilang kalau lu nyaris nggak bisa gerakin jari lu. Gue nggak bisa ngebiarin lu ngelindungin kita dari belakang pas lu lagi sekarat kayak gini... Tolonglah?"
+    },
+    {
+      "id": 70,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kalian tahu kan... di saat-saat seperti ini... kalian seharusnya mengangguk saja padaku dan melanjutkan perjalanan kalian."
+    },
+    {
+      "id": 71,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kenapa kalian begitu peduli pada orang yang secara sukarela memilih untuk tinggal di belakang?"
+    },
+    {
+      "id": 72,
+      "model": "싱클레어",
+      "content": "Kamu nggak boleh... Kamu nggak bisa gitu aja..."
+    },
+    {
+      "id": 73,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Ya ampun... Kalian bikin suasananya jadi lumayan canggung, kalian tahu nggak? Padahal kukira aku bisa dapat perpisahan yang keren."
+    },
+    {
+      "id": 74,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Faust, tolong bawa orang-orang idiot ini pergi dari sini."
+    },
+    {
+      "id": 75,
+      "model": "파우스트",
+      "content": "Akan kupastikan untuk menyampaikan salammu pada Vergilius."
+    },
+    {
+      "id": 76,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Nggak perlu."
+    },
+    {
+      "id": 77,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "...Katakan saja padanya untuk datang berkunjung dan menyapaku suatu hari nanti. Kau mengerti maksudku, kan?"
+    },
+    {
+      "id": 78,
+      "model": "파우스트",
+      "content": "……"
+    },
+    {
+      "id": 79,
+      "model": "파우스트",
+      "content": "Tentu saja."
+    },
+    {
+      "id": 80,
+      "content": "Kami menuju ke area berikutnya, meninggalkan Saude untuk menemui ajalnya."
+    },
+    {
+      "id": 81,
+      "content": "Kami semua terdiam untuk waktu yang lama."
+    }
+  ]
+}
