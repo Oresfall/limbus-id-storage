@@ -1,0 +1,294 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bukit Mayat yang Tak Berujung",
+      "content": "Bukit daging itu mengeluarkan asam pekat, melelehkan kaki Sinclair.\nSemua <ruby=Pendosa>Sinner</ruby> sedang dilarutkan oleh sekresi kaustik tersebut."
+    },
+    {
+      "id": 1,
+      "content": "Dia tersandung dan menghantam tanah. Tidak, mungkin lebih tepat jika kukatakan dia terlempar dari pijakannya."
+    },
+    {
+      "id": 2,
+      "content": "Meskipun begitu,\ndia tetap merangkak ke arah Kromer."
+    },
+    {
+      "id": 3,
+      "model": "변신크로머",
+      "content": "Ya! Itu dia! Sakit, kan? Kau dipenuhi dengan amarah, kan? Terima semuanya! Sambutlah dengan tangan terbuka!"
+    },
+    {
+      "id": 4,
+      "model": "변신크로머",
+      "content": "Dan lihat aku! Lihatlah tubuh agungku ini, lebih dekat dengan wujud umat manusia yang paling murni dari sebelumnya! Daging ini!\nKekuatan murni yang tak tertandingi!"
+    },
+    {
+      "id": 5,
+      "model": "변신크로머",
+      "content": "Ohh, Sinclair... Lihatlah betapa manusianya dirimu juga!\nKau bisa menjadi sepertiku!"
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Aku akan... Kau..."
+    },
+    {
+      "id": 7,
+      "model": "변신크로머",
+      "content": "Kau ketakutan selama ini, kan, Sinclair? Kau kehilangan keluargamu, dan kau harus menaiki bus bersama orang-orang asing ini, dipaksa melakukan hal-hal yang tak kau inginkan."
+    },
+    {
+      "id": 8,
+      "model": "변신크로머",
+      "content": "Dalam hatimu kau tahu kalau kau tidak pantas berada di sana, kan?"
+    },
+    {
+      "id": 9,
+      "model": "변신크로머",
+      "content": "Tidakkah kau ingin lari? Tidakkah kau ingin berhenti dari semua ini? Aku benar, kan?"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Aku bersumpah, aku..."
+    },
+    {
+      "id": 11,
+      "model": "변신크로머",
+      "content": "Bergabunglah denganku, Sinclair! Jangan hindari ini, rangkullah!\nSelesaikan dendamku!"
+    },
+    {
+      "id": 12,
+      "content": "Lengan Sinclair yang memegang senjatanya semakin terkulai lemas dari detik ke detik."
+    },
+    {
+      "id": 13,
+      "content": "Namun demikian dia terus bergerak ke arah Kromer."
+    },
+    {
+      "id": 14,
+      "model": "변신크로머",
+      "content": "Kau harus menerima rasa sakitnya! Hanya ketika kita telah melampaui penderitaan itu sendiri barulah kita bisa terlahir kembali!"
+    },
+    {
+      "id": 15,
+      "model": "변신크로머",
+      "content": "Kembangkan dagingnya, tumpahkan darahnya! Menambahkan hal-hal yang paling manusiawi setiap detiknya!"
+    },
+    {
+      "id": 16,
+      "model": "변신크로머",
+      "content": "Ke dalam dunia yang paling murni di mana ketidakmurnian yang mewabah di kota semua orang telah disaring!"
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Ibu... Ayah... Kak..."
+    },
+    {
+      "id": 18,
+      "content": "Sinclair bergumam kosong, menatap wajah sesama <ruby=Pendosa>Sinner</ruby>-nya yang telah mati."
+    },
+    {
+      "id": 19,
+      "content": "Aku tidak bisa membiarkannya."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<Sinclair! Dengarkan aku!>"
+    },
+    {
+      "id": 21,
+      "content": "Aku merasa malu karena butuh waktu lama bagiku untuk bertindak, tapi lebih baik terlambat daripada tidak sama sekali."
+    },
+    {
+      "id": 22,
+      "content": "Harus bertindak layaknya seorang manajer, sebagaimana diriku ini."
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<Aku tahu kau memikirkan banyak hal! Aku tahu ada banyak hal yang berkecamuk di kepalamu yang tidak bisa kau ceritakan pada orang lain!>"
+    },
+    {
+      "id": 24,
+      "content": "Sinclair memang seperti itu."
+    },
+    {
+      "id": 25,
+      "content": "Khawatir bahwa dirinya mungkin menjadi beban, ia terus-menerus membiarkan pikirannya diliputi keraguan dan berbagai pikiran, yang sebagian besar tidak pernah ia ungkapkan."
+    },
+    {
+      "id": 26,
+      "content": "Dia telah menelan banyak pikiran dalam bentuk rasa bersalah."
+    },
+    {
+      "id": 27,
+      "model": "싱클레어",
+      "content": "Keluargaku mati karenaku..."
+    },
+    {
+      "id": 28,
+      "model": "싱클레어",
+      "content": "Aku mengatakan hal-hal yang seharusnya tak kukatakan..."
+    },
+    {
+      "id": 29,
+      "model": "변신크로머",
+      "content": "Ya! Ini semua salahmu, jadi rangkullah! Itulah caranya untuk menjadi utuh!"
+    },
+    {
+      "id": 30,
+      "model": "변신크로머",
+      "content": "Ikuti aku... Dan beristirahatlah di tanganku!"
+    },
+    {
+      "id": 31,
+      "model": "단테",
+      "content": "<Jangan dengarkan dia!>"
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<Kau harus melihatnya! Lihat dia, perhatikan dia baik-baik!>"
+    },
+    {
+      "id": 33,
+      "content": "Sayangnya, suaraku sepertinya tidak mencapainya."
+    },
+    {
+      "id": 34,
+      "model": "싱클레어",
+      "content": "Ah..."
+    },
+    {
+      "id": 35,
+      "content": "Senjata Sinclair terlepas dari tangannya dan jatuh ke tanah."
+    },
+    {
+      "id": 36,
+      "content": "Laju geraknya telah berhenti."
+    },
+    {
+      "id": 37,
+      "content": "Ya, sepertinya ini adalah akhir bagi kita."
+    },
+    {
+      "id": 38,
+      "content": "Aku bisa merasakan tubuhku meleleh ke dalam gundukan itu."
+    },
+    {
+      "id": 39,
+      "content": "Aku sudah tahu aku bakal mati karena mencoba menjadi manajer cepat atau lambat."
+    },
+    {
+      "id": 40,
+      "content": "Tapi..."
+    },
+    {
+      "id": 41,
+      "model": "단테",
+      "content": "<Sinclair…>"
+    },
+    {
+      "id": 42,
+      "content": "Aku harus memberitahunya lebih banyak lagi."
+    },
+    {
+      "id": 43,
+      "content": "Aku harus memberitahunya bahwa apa yang dikatakan Kromer hanyalah setumpuk kebohongan, ancaman, kemunafikan, dan bualan yang berlebihan."
+    },
+    {
+      "id": 44,
+      "content": "Seluruh saraf di tubuhku berteriak kepadaku bahwa aku tak boleh menyerah padanya."
+    },
+    {
+      "id": 45,
+      "content": "Merasakan rasa sakit yang membakar dari tubuhku yang meleleh..."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Lihat, lihat baik-baik! Sinclair!>"
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<Bukan dengan matamu, tapi dengan hatimu!>"
+    },
+    {
+      "id": 48,
+      "content": "Aku berteriak pada Sinclair."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Dengan begitu... Hanya dengan begitu, kau akan melihat apa yang paling penting.>"
+    },
+    {
+      "id": 50,
+      "teller": "???",
+      "title": "???",
+      "content": "Hanya dengan begitu, kau akan melihat apa yang paling penting."
+    },
+    {
+      "id": 51,
+      "content": "Pada saat itu..."
+    },
+    {
+      "id": 52,
+      "content": "Seseorang muncul dengan tenang."
+    },
+    {
+      "id": 53,
+      "model": "데미안",
+      "teller": "???",
+      "title": "???",
+      "content": "Dan ketika kau bisa melihat hal yang paling penting..."
+    },
+    {
+      "id": 54,
+      "model": "데미안",
+      "teller": "???",
+      "title": "???",
+      "content": "Kau tak perlu mencekik dirimu sendiri dengan ancaman dangkal atau trik murahan."
+    },
+    {
+      "id": 55,
+      "model": "데미안",
+      "teller": "???",
+      "title": "???",
+      "content": "...Benar begitu, kan, Sinclair?"
+    },
+    {
+      "id": -1,
+      "content": "Transisi adegan in-game"
+    },
+    {
+      "id": 56,
+      "content": "Dia bergerak dengan anggun dan ringan, seolah-olah dia melayang di udara."
+    },
+    {
+      "id": 57,
+      "content": "Dia tampak lebih ringan dari siapa pun, tak terikat oleh apa pun."
+    },
+    {
+      "id": 58,
+      "content": "Bertolak belakang dengan kesan kebebasannya dari segala kerinduan duniawi, udara yang menyesakkan seakan mengiringi setiap langkah yang diambilnya."
+    },
+    {
+      "id": 59,
+      "content": "Dan saat dia melambaikan lengan kirinya..."
+    },
+    {
+      "id": -1,
+      "content": "Kromer tertebas"
+    },
+    {
+      "id": 60,
+      "content": "Tubuh bagian atas Kromer lenyap dalam satu tebasan bersih."
+    }
+  ]
+}
