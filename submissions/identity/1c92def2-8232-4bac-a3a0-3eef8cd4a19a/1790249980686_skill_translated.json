@@ -1,0 +1,164 @@
+{
+  "datalist": [
+    {
+      "id": 2061011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[BeforeAttack] Peroleh +1 Count [Charge]\n[BeforeAttack] Konsumsi hingga 6 Count [Charge] pada diri sendiri; lalu, beri 5 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks 5 unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "<style=\"highlight\">[WhenUse] Peroleh Clash Power setara dengan Potency [Charge] pada diri sendiri (maks 2)</style>\n[BeforeAttack] Peroleh +<style=\"highlight\">3</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">8</style> Count [Charge] pada diri sendiri; lalu, beri 5 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">6</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[WhenUse] Peroleh Clash Power setara dengan Potency [Charge] pada diri sendiri (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh +<style=\"highlight\">5</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">10</style> Count [Charge] pada diri sendiri; lalu, beri 5 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">7</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +15% damage terhadap target yang memiliki Perisai\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Peroleh +3 Count [Charge]\n[BeforeAttack] Konsumsi hingga 6 Count [Charge]; lalu, beri 7 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks 5 unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi hingga 10 Count [Charge]; lalu, Coin ini memperoleh Final Power setara dengan Count yang dikonsumsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +<style=\"highlight\">20</style>% damage terhadap target yang memiliki Perisai\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n<style=\"highlight\">[BeforeAttack] Peroleh Final Power setara dengan Potency [Charge] pada diri sendiri (maks 2)</style>\n[BeforeAttack] Peroleh +<style=\"highlight\">4</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">8</style> Count [Charge] pada diri sendiri; lalu, beri 7 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">6</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi hingga 10 Count [Charge]; lalu, Coin ini memperoleh Final Power setara dengan Count yang dikonsumsi"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +<style=\"highlight\">25</style>% damage terhadap target yang memiliki Perisai\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Peroleh Final Power setara dengan Potency [Charge] pada diri sendiri (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh +<style=\"highlight\">5</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">10</style> Count [Charge] pada diri sendiri; lalu, beri 7 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">7</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi hingga 10 Count [Charge]; lalu, Coin ini memperoleh Final Power setara dengan Count yang dikonsumsi"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
