@@ -1,0 +1,558 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bukit Mayat yang Tak Berujung",
+      "content": "Aku melihat tumpukan mayat tanpa akhir."
+    },
+    {
+      "id": 1,
+      "content": "Para Penyelidik mengangkat tangan mereka secara bersamaan seolah sedang memuja sesuatu."
+    },
+    {
+      "id": 2,
+      "content": "Dan di sana Kromer berdiri di puncak tertinggi."
+    },
+    {
+      "id": 3,
+      "content": "Dia mengulurkan tangannya dengan gestur seperti berdoa ke arah <ruby=Ranting Emas>Golden Bough</ruby> yang berada di atas altar."
+    },
+    {
+      "id": 4,
+      "model": "파우스트",
+      "content": "Kedalaman ego sudah terbuka. Faust melihat seseorang telah beresonansi dengan <ruby=Ranting Emas>Bough</ruby> sebelum kita."
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "Apa-apaan yang mereka lakuin? Buat apa mereka ngangkat tangan segala?"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "…Doa."
+    },
+    {
+      "id": -1,
+      "model": "파우스트",
+      "content": "Dulu sekali… orang-orang terbiasa percaya pada dewa, atau begitu yang Faust dengar."
+    },
+    {
+      "id": -1,
+      "model": "//효과음",
+      "content": "Tring-tring-tring (Bel sekolah)"
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "…Suara apa ini?"
+    },
+    {
+      "id": 8,
+      "model": "히스클리프",
+      "content": "Suara ini familier banget… Rasanya bikin kuping gatal dan nggak nyaman…"
+    },
+    {
+      "id": 9,
+      "model": "그레고르",
+      "content": "…Suara bel sekolah. Anak kita benci banget sama sekolah rupanya, ya."
+    },
+    {
+      "id": 10,
+      "content": "Obrolan santai itu sepertinya sedikit mencairkan suasana hati para <ruby=Pendosa>Sinner</ruby>."
+    },
+    {
+      "id": 11,
+      "content": "Kecuali satu orang."
+    },
+    {
+      "id": 12,
+      "content": "Orang yang seharusnya menjadi pemilik kedalaman itu masih menunjukkan rasa gelisah."
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "T-Tidak… Aku nggak mau nunjukin kenanganku, kenangan itu, itu…"
+    },
+    {
+      "id": 14,
+      "content": "Sayangnya, permohonannya tidak memiliki kekuatan apa pun di alam tersebut."
+    },
+    {
+      "id": 15,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Baiklah semuanya! Dengar baik-baik!"
+    },
+    {
+      "id": 16,
+      "model": "N사심문관1",
+      "teller": "Seorang Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Begitu titah Sang Penggenggam."
+    },
+    {
+      "id": 17,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Begitu titah Sang Penggenggam."
+    },
+    {
+      "id": 18,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Bukannya puas mengganggu ritual suci kita, kaum sesat itu sekarang mengincar persembahan yang seharusnya menjadi hak kita untuk disucikan!"
+    },
+    {
+      "id": 19,
+      "model": "N사심문관1",
+      "teller": "Seorang Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Sungguh hina dan ternoda diri mereka."
+    },
+    {
+      "id": 20,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Sungguh hina dan ternoda diri mereka."
+    },
+    {
+      "id": 21,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Maju dan matilah! Jangan takuti akhir kalian!"
+    },
+    {
+      "id": 22,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Selama persembahan emas itu bersama kita, kalian akan dihidupkan kembali terus-menerus!"
+    },
+    {
+      "id": 23,
+      "model": "N사심문관1",
+      "teller": "Seorang Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Kita tidak perlu takut, karena Sang Penggenggam bersama kita."
+    },
+    {
+      "id": 24,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Kita tidak perlu takut, karena Sang Penggenggam bersama kita."
+    },
+    {
+      "id": 25,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Dan… Sinclair."
+    },
+    {
+      "id": 26,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Cepatlah kemari. Kau adalah tanganku."
+    },
+    {
+      "id": 27,
+      "model": "N사심문관1",
+      "teller": "Seorang Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Tidak ada kebahagiaan yang lebih besar selain digenggam oleh Sang Penggenggam."
+    },
+    {
+      "id": 28,
+      "model": "N사심문관2",
+      "teller": "Rekan Penyelidik",
+      "title": "Nagel und Hammer",
+      "content": "Tidak ada kebahagiaan yang lebih besar selain digenggam oleh Sang Penggenggam."
+    },
+    {
+      "id": 29,
+      "model": "싱클레어",
+      "content": "A—Aku…"
+    },
+    {
+      "id": 30,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Sinclair."
+    },
+    {
+      "id": 31,
+      "model": "크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Apa kau membawa koinnya?"
+    },
+    {
+      "id": 32,
+      "place": "Kelas yang Ramai",
+      "model": "싱클레어",
+      "content": "…Jam istirahat selalu terasa meriah karena semua orang berkumpul untuk mengobrol."
+    },
+    {
+      "id": 33,
+      "model": "싱클레어",
+      "content": "Para orang dewasa sering kali mengawasi kami dari jauh dan menganggap ini sebagai pemandangan yang menghangatkan hati."
+    },
+    {
+      "id": 34,
+      "model": "싱클레어",
+      "content": "Tapi ada satu hal yang tidak mereka sadari."
+    },
+    {
+      "id": 35,
+      "model": "싱클레어",
+      "content": "Saat kau memeriksanya lebih dekat, interaksi riang ini dipenuhi dengan rasa iri, kesombongan, kebanggaan, dan tipu daya."
+    },
+    {
+      "id": 36,
+      "model": "싱클레어",
+      "content": "Anak-anak adalah makhluk yang licik."
+    },
+    {
+      "id": 37,
+      "teller": "Teman Sekelas Masa Lalu",
+      "title": "Siswa",
+      "content": "Aku dengar Rahul dari kelas sebelah mau dioperasi di kedua lengannya sama ayahnya. Katanya pakai teknologi baru yang belum pernah ditampilin sebelumnya. Keren banget, kan?"
+    },
+    {
+      "id": 38,
+      "teller": "Teman Sekolah Masa Lalu",
+      "title": "Siswa",
+      "content": "Kau tahu kan aktor yang ada di semua sampul majalah itu? Pernah kubilang nggak kalau mereka mau transplantasi mata di klinik ibuku? Daftar tunggunya panjang banget, makanya mereka melas-melas minta diduluin."
+    },
+    {
+      "id": 39,
+      "model": "싱클레어",
+      "content": "Aku semakin cemas dengan setiap cerita sombong yang diceritakan oleh teman-teman sekelasku."
+    },
+    {
+      "id": 40,
+      "model": "싱클레어",
+      "content": "Apa yang bisa kubagikan? Tatapan penuh harap mereka yang tertuju padaku rasanya bisa berubah menjadi seringai mencemooh kapan saja."
+    },
+    {
+      "id": 41,
+      "model": "싱클레어",
+      "content": "R—Rahasianya, sebenarnya…"
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "Aku menelan ludah dengan gugup."
+    },
+    {
+      "id": 43,
+      "model": "싱클레어",
+      "content": "Mungkin sebenarnya mereka tidak sedang meminta cerita dariku."
+    },
+    {
+      "id": 44,
+      "model": "싱클레어",
+      "content": "Tapi aku harus menjaga agar mata mereka yang penasaran tetap tertuju padaku."
+    },
+    {
+      "id": 45,
+      "model": "싱클레어",
+      "content": "Aku tahu pasti kalau aku bakal dikucilkan begitu mereka berpaling."
+    },
+    {
+      "id": 46,
+      "model": "싱클레어",
+      "content": "Ayahku… menandatangani kontrak dengan P Corp. Mereka melihat teknologi yang sedang dikerjakannya dan setuju untuk memberikan dukungan penuh."
+    },
+    {
+      "id": 47,
+      "model": "싱클레어",
+      "content": "Ya ampun, apa yang sebenarnya kupikirkan sampai aku membocorkan hal itu?"
+    },
+    {
+      "id": 48,
+      "model": "싱클레어",
+      "content": "Karena takut diasingkan dari teman-teman sebaya, aku malah ceroboh menghancurkan diriku sendiri."
+    },
+    {
+      "id": 49,
+      "model": "싱클레어",
+      "content": "Mungkin aku terdorong oleh desakan kekanak-kanakan, atau keinginan bawaan untuk diakui oleh siswa lain."
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "“Emil, ini adalah perjanjian rahasia untuk bisnis kita. Kau sama sekali tidak boleh menceritakannya kepada orang lain.”\nPengingat tegas itu menggema di kepalaku—aku bisa melihat wajahnya."
+    },
+    {
+      "id": 51,
+      "teller": "Teman Sekelas Masa Lalu",
+      "title": "Siswa",
+      "content": "Wah… Beneran tuh, Sinclair?"
+    },
+    {
+      "id": 52,
+      "teller": "Teman Sekolah Masa Lalu",
+      "title": "Siswa",
+      "content": "P Corp? Kayak <ruby=Sayap>The Wing</ruby> itu?! Wow… Aku iri."
+    },
+    {
+      "id": 53,
+      "model": "싱클레어",
+      "content": "Aku menjadi pusat perhatian dalam sekejap mata. Aku bisa merasakan tatapan penuh rasa penasaran dari anak-anak lain di kelas tertuju padaku."
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "Rasa unggul itu ternyata lumayan nikmat."
+    },
+    {
+      "id": 55,
+      "model": "싱클레어",
+      "content": "Kurasa aku didorong oleh hasrat busuk akan perhatian."
+    },
+    {
+      "id": 56,
+      "teller": "Teman Sekelas Masa Lalu",
+      "title": "Siswa",
+      "content": "Oh iya, Sinclair! Operasimu udah dekat, kan? Tahu kan, soal prostetik itu."
+    },
+    {
+      "id": 57,
+      "model": "싱클레어",
+      "content": "I—Iya, tentu saja. Mereka bilang aku bakal dapet model… terbaru."
+    },
+    {
+      "id": 58,
+      "model": "싱클레어",
+      "content": "Kalau saja mereka sedikit saja memerhatikan wajahku…"
+    },
+    {
+      "id": 59,
+      "model": "싱클레어",
+      "content": "Mereka pasti akan menyadari keengganan di ekspresiku."
+    },
+    {
+      "id": 60,
+      "model": "싱클레어",
+      "content": "Untungnya, tidak ada seorang pun yang pernah mempermasalahkannya."
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "Gelombang rasa bersalah yang masif akhirnya meluluhlantakkanku setelah jam istirahat usai dan aku akhirnya ditinggal sendirian."
+    },
+    {
+      "id": 62,
+      "model": "싱클레어",
+      "content": "Aku seharusnya merahasiakan itu… Bagaimana kalau Ayah mengetahuinya?"
+    },
+    {
+      "id": 63,
+      "model": "싱클레어",
+      "content": "Ah…"
+    },
+    {
+      "id": 64,
+      "model": "싱클레어",
+      "content": "Darah mengucur dari ujung jariku."
+    },
+    {
+      "id": 65,
+      "model": "싱클레어",
+      "content": "Kebiasaan buruk menggigit kuku setiap kali merasa cemas berujung melukai diriku sendiri."
+    },
+    {
+      "id": 66,
+      "model": "싱클레어",
+      "content": "Aku mencoba memotongnya sependek mungkin untuk menghilangkan kebiasaan itu…"
+    },
+    {
+      "id": 67,
+      "model": "싱클레어",
+      "content": "Tapi aku tidak pernah menyangka kalau aku justru malah menggigit kulitku."
+    },
+    {
+      "id": 68,
+      "model": "싱클레어",
+      "content": "Melihat tetesan darah jatuh di atas meja, aku memikirkan sesuatu."
+    },
+    {
+      "id": 69,
+      "model": "싱클레어",
+      "content": "Begitu aku lulus, aku akan mendapatkan pengganti prostetik…"
+    },
+    {
+      "id": 70,
+      "model": "싱클레어",
+      "content": "Dan setelah itu aku tidak akan pernah terluka atau melihat darahku lagi."
+    },
+    {
+      "id": 71,
+      "model": "싱클레어",
+      "content": "Tapi… Apakah itu benar-benar…"
+    },
+    {
+      "id": 72,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Kau… berdarah."
+    },
+    {
+      "id": 73,
+      "model": "싱클레어",
+      "content": "Seseorang menaungi mejaku sambil bersiul santai."
+    },
+    {
+      "id": 74,
+      "model": "싱클레어",
+      "content": "Dia adalah teman sekelas yang jarang kuajak bicara, jadi aku hampir tidak ingat namanya."
+    },
+    {
+      "id": 75,
+      "model": "싱클레어",
+      "content": "Karena panik, aku tergagap menjawabnya dengan canggung."
+    },
+    {
+      "id": 76,
+      "model": "싱클레어",
+      "content": "A—Apa… yang kau-?"
+    },
+    {
+      "id": 77,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Dengar, apa yang kau katakan tadi… Itu benar?"
+    },
+    {
+      "id": 78,
+      "model": "싱클레어",
+      "content": "Um, i-iya… Itu benar."
+    },
+    {
+      "id": 79,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Begitu ya. Ayahmu pasti orang hebat, ya kan?"
+    },
+    {
+      "id": 80,
+      "model": "싱클레어",
+      "content": "Ya, eh… Kurasa begitu."
+    },
+    {
+      "id": 81,
+      "model": "싱클레어",
+      "content": "Pujian tak terduganya membuatku merasa malu."
+    },
+    {
+      "id": 82,
+      "model": "싱클레어",
+      "content": "Seolah-olah kehebatan ayahku adalah kehebatanku juga."
+    },
+    {
+      "id": 83,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Meskipun… Kenapa kau memasang ekspresi seperti itu?"
+    },
+    {
+      "id": 84,
+      "model": "싱클레어",
+      "content": "H—Hah?"
+    },
+    {
+      "id": 85,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Kau tahu… Kau tadi memikirkannya dalam hati."
+    },
+    {
+      "id": 86,
+      "model": "싱클레어",
+      "content": "Kemudian dia menundukkan kepalanya dan berbisik hanya agar aku bisa mendengarnya."
+    },
+    {
+      "id": 87,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Bahwa hal itu menjijikkan."
+    },
+    {
+      "id": 88,
+      "model": "싱클레어",
+      "content": "Mataku membelalak."
+    },
+    {
+      "id": 89,
+      "model": "싱클레어",
+      "content": "Bukan hanya karena aku terkejut bagaimana dia bisa tahu apa yang kupikirkan…"
+    },
+    {
+      "id": 90,
+      "model": "싱클레어",
+      "content": "Tapi fakta bahwa orang asing sepertinya mampu menebak dengan tepat apa yang kusembunyikan."
+    },
+    {
+      "id": 91,
+      "model": "싱클레어",
+      "content": "B-Bagaimana kau tahu?"
+    },
+    {
+      "id": 92,
+      "model": "싱클레어",
+      "content": "Aku sebenarnya bisa lolos jika aku menyangkal tuduhannya, tapi dengan bodohnya aku malah menanyakannya dengan ekspresi tercengang di wajahku."
+    },
+    {
+      "id": 93,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Pffh… Karena… Aku setuju denganmu soal itu."
+    },
+    {
+      "id": 94,
+      "model": "싱클레어",
+      "content": "Kau… Kau setuju?"
+    },
+    {
+      "id": 95,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Kau bisa melihat banyak hal dari orang-orang yang sefrekuensi denganmu."
+    },
+    {
+      "id": 96,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Senang berkenalan denganmu. Aku Kromer."
+    },
+    {
+      "id": 97,
+      "model": "싱클레어",
+      "content": "Sejak saat itu…"
+    },
+    {
+      "id": 98,
+      "model": "싱클레어",
+      "content": "Kromer dan aku menjadi teman yang sering mengobrol."
+    }
+  ]
+}
