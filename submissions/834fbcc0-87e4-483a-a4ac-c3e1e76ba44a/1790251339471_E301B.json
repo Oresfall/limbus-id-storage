@@ -1,0 +1,248 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Lorong Pusat Kota Nest K",
+      "model": "파우스트",
+      "content": "Turun dari bus, semuanya. Di sinilah kita seharusnya menemui klien untuk misi kita berikutnya."
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Yang benar aja. Sekarang kita jadi nerima *request* kayak pesuruh lebay gitu?"
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Hm? Coba lihat, apa tuh di sebelah sana? Antreannya panjang banget."
+    },
+    {
+      "id": 3,
+      "model": "로쟈",
+      "content": "Ahh~ Kalian nggak bisa ngenalin aroma menggugah selera ini? Itu ayam goreng, Greg!! Ayam goreng tepung yang digoreng garing pakai minyak mahal!"
+    },
+    {
+      "id": 4,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Sepertinya kalian belum banyak menjelajahi Nest K jika belum tahu tentang Bodhisattva Chicken, tren paling hits di sekitar sini."
+    },
+    {
+      "id": 5,
+      "content": "Seorang pria dengan kesan rapi tiba-tiba menyela obrolan para <ruby=Pendosa>Sinner</ruby> seolah-olah dia bagian dari kelompok kami."
+    },
+    {
+      "id": 6,
+      "model": "홍루",
+      "content": "Oho… Bodhisattva Chicken, ya? Apaan tuh?"
+    },
+    {
+      "id": 7,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Izinkan saya… untuk menjawabnya."
+    },
+    {
+      "id": 8,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Bodhisattva Chicken adalah restoran sangat terkenal yang dikenal dengan unggas berkaki enam dan bersayap delapan, yang rasa nikmat serta porsinya yang royal benar-benar membuatmu merasakan belas kasih yang besar."
+    },
+    {
+      "id": 9,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Terlebih lagi, mereka menyediakannya untuk setiap selera. Ada ayam muda yang sedang naik daun dengan keempukan yang pas, kapon bertubuh gempal dengan daging melimpah untuk disantap, ayam jantan muda kenyal yang tingkat kematangannya pas (*al dente*), dan masih banyak lagi. Nah, katakan padaku, apa yang kalian inginkan?"
+    },
+    {
+      "id": 10,
+      "model": "이상",
+      "content": "…Aku sepertinya pernah mendengarnya dahulu kala."
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "Wah, kejutan banget nih~ Yi Sang kita yang kudet ini ternyata ngikutin tren juga ya?"
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "…Terus lu sendiri sebenarnya siapa?"
+    },
+    {
+      "id": 13,
+      "model": "히스클리프",
+      "content": "Bisa ditebak lu juga nggak tahu kita siapa, lihat dari cara lu yang dengan santainya nyosor nimbrung pas kita lagi ngobrol."
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "…Emangnya lu bisa jelasin kita ini siapa?"
+    },
+    {
+      "id": 15,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Ya ampun, makhluk-makhluk apa yang berkeliaran di sekitar restoran itu? Mereka sama sekali tidak terlihat normal bagi saya."
+    },
+    {
+      "id": 16,
+      "content": "Membalikkan badan, aku melihat orang-orang berpenampilan cukup aneh dengan perilaku yang tak kalah anehnya."
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<B–Bukannya itu pegawai K Corp…? Apa yang mereka lakukan?>"
+    },
+    {
+      "id": 18,
+      "model": "뫼르소",
+      "content": "Aku melihat beberapa individu menutupi kepala mereka dengan topeng yang aneh."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "M—Mungkin mereka semacam maskot? Bakalan kelihatan lumayan lucu kalau kita lihat dari dekat…"
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "Tapi “Maskot” itu bikin orang-orang lari ketakutan sambil jerit-jerit, tahu?"
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "Kelihatannya agak janggal sih, tapi biarin aja deh. Kayaknya mereka nggak lagi menuju ke arah sini, dan gue lagi nggak mood buat ikutan terseret ke dalam urusan yang bikin ribet—"
+    },
+    {
+      "id": 22,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Anda benar. Mereka tidak serta-merta mendekati kita."
+    },
+    {
+      "id": 23,
+      "model": "그레고르",
+      "content": "Terus, mau apa lu lempar batu comberan segala, sobat misterius?"
+    },
+    {
+      "id": 24,
+      "model": "뒤틀린손님2",
+      "teller": "Keamanan K Corp. Berkepala Ayam",
+      "title": "Makhluk Terdistorsi",
+      "content": "!"
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Apa-apaan yang baru saja kau lakuin?!>"
+    },
+    {
+      "id": 26,
+      "content": "Terkena lemparan batu, makhluk itu mulai menoleh ke sana ke mari…"
+    },
+    {
+      "id": 27,
+      "content": "Lalu, ia mulai berjalan terseok-seok pelan ke arah kami."
+    },
+    {
+      "id": 28,
+      "model": "뒤틀린손님2",
+      "teller": "Keamanan K Corp. Berkepala Ayam",
+      "title": "Makhluk Terdistorsi",
+      "content": "Giiiii… Giiii…"
+    },
+    {
+      "id": 29,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Duh, saya membuat kesalahan yang ceroboh sekali. Apa yang harus kita lakukan?"
+    },
+    {
+      "id": 30,
+      "model": "로쟈",
+      "content": "Alasan klasik, *kozyol*… Lu tadi sengaja ngarahin batunya pas ke kepalanya, kan…"
+    },
+    {
+      "id": 31,
+      "model": "홍루",
+      "content": "Wah~ Teknik lemparanmu tadi kelihatan stabil banget."
+    },
+    {
+      "id": 32,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Wah, terima kasih. Saya dulu sempat bercita-cita menjadi pemain bisbol Kota besar."
+    },
+    {
+      "id": 33,
+      "model": "료슈",
+      "content": "Gue bakal main tangkis bola sama lu nanti. Diem di situ biar kepala lu bisa gue pukul terbang jauh-jauh."
+    },
+    {
+      "id": 34,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Mereka semakin cepat mendekat. Bukankah sebaiknya kalian berurusan dulu dengan mereka sebelum berniat jadi pemukul bisbol dengan kepala saya?"
+    },
+    {
+      "id": 35,
+      "content": "Saat Ryōshū dengan penuh amarah meraih sarung pedangnya, makhluk-makhluk itu langsung menyerbu ke arah kami…"
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "Mereka punya kepala ayam."
+    },
+    {
+      "id": 37,
+      "model": "로쟈",
+      "content": "Yups, ayam utuh."
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Ayam mentah lagi."
+    },
+    {
+      "id": 39,
+      "model": "그레고르",
+      "content": "Rasanya kayak arwah ayam mati yang lagi berkokok balik dari neraka buat minta balas dendam…"
+    },
+    {
+      "id": 40,
+      "model": "그레고르",
+      "content": "Jadi, eh… Jangan-jangan ini gara-gara Sinclair pernah nyisa satu sayap ayam karena males misahin dagingnya ya? gue nggak bisa mikir hal lain yang mungkin kita lakuin sampai bisa manggil teror ayam begini…"
+    },
+    {
+      "id": 41,
+      "model": "싱클레어",
+      "content": "Ngeledek kayak gitu udah nggak mempan lagi ke aku, ya… Lagian, Rodya kan udah ngejilat bagian itu sampai bersih…"
+    },
+    {
+      "id": 42,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Hm, sepertinya pertarungan akan menjadi satu-satunya jalan keluar kita."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Terus kenapa cowok ini malah ngumpet di belakangku, hah?>"
+    },
+    {
+      "id": 44,
+      "content": "Sebelum aku sempat mengeluh lebih jauh, kerumunan berkepala ayam itu sudah menyerang kami."
+    }
+  ]
+}
