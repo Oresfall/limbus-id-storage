@@ -1,0 +1,266 @@
+{
+  "datalist": [
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "Clash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks 2)\n[BeforeAttack] Peroleh (2 + Reson. tertinggi) [Breath] (maks 8)\n[BeforeAttack] Peroleh +2 Count [Breath]\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "Clash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">3</style> + Reson. tertinggi) [Breath] (maks 8)\n[BeforeAttack] Peroleh +<style=\"highlight\">3</style> Count [Breath]\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "Clash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">4</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">4</style> + Reson. tertinggi) [Breath] (maks 8)\n[BeforeAttack] Peroleh +<style=\"highlight\">4</style> Count [Breath]\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">+3</style> Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks 2)\n[BeforeAttack] Peroleh (2 + Reson. tertinggi) [Breath] (maks 10)\n[BeforeAttack] Peroleh +2 Count [Breath]\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Pada 10+ Count [Breath], konsumsi 4 Count [Breath] pada diri sendiri and beri +20% damage pada Serangan Critical terhadap target utama\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">3</style> + Reson. tertinggi) [Breath] (maks 10)\n[BeforeAttack] Peroleh +<style=\"highlight\">3</style> Count [Breath]\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Pada 10+ Count [Breath], konsumsi 4 Count [Breath] pada diri sendiri and beri +<style=\"highlight\">30</style>% damage pada Serangan Critical terhadap target utama\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri +1 Count [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">4</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">4</style> + Reson. tertinggi) [Breath] (maks 10)\n[BeforeAttack] Peroleh +<style=\"highlight\">4</style> Count [Breath]\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Pada 10+ Count [Breath], konsumsi 4 Count [Breath] pada diri sendiri and beri +<style=\"highlight\">40</style>% damage pada Serangan Critical terhadap target utama\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">5</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
