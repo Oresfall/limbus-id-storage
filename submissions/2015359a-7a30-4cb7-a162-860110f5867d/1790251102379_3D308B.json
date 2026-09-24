@@ -1,0 +1,198 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bukit Mayat yang Tak Berujung",
+      "content": "Para <ruby=Pendosa>Sinner</ruby> kelelahan dan terluka parah, beberapa dari mereka bahkan sudah mati."
+    },
+    {
+      "id": 1,
+      "content": "Berbeda dengan kami, Kromer masih berdiri penuh kemenangan. Dia merogoh bagian dalam mantel Sinclair, seolah mendeklarasikan takdirnya."
+    },
+    {
+      "id": 2,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Nah, sudah saatnya, Sinclair."
+    },
+    {
+      "id": 3,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Aku akan mengambil koin kedua... kesempatan terakhirmu."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Kenapa kau... melakukan ini padaku..."
+    },
+    {
+      "id": 5,
+      "model": "싱클레어",
+      "content": "Kenapa... aku..."
+    },
+    {
+      "id": 6,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Sinclair, kau mau tahu kenapa aku mengembalikan kunci ruang bawah tanah itu saat kau memintanya?"
+    },
+    {
+      "id": 7,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Dengarkan baik-baik. Itu bukan karena aku sudah menemukan apa yang kucari atau membuat salinannya."
+    },
+    {
+      "id": 8,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Itu karena kau adalah kunciku."
+    },
+    {
+      "id": 9,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Asal kau tahu, aku kebetulan tahu cara untuk mengintip masa depan yang mungkin saja jadi kenyataan."
+    },
+    {
+      "id": 10,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Aku melihat satu di antaranya di mana kau dan aku bepergian dari Nest ke Nest, membantai kaum sesat bersama-sama di seluruh Kota."
+    },
+    {
+      "id": 11,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Meskipun kau dibesarkan oleh kaum sesat yang memiliki tubuh logam menjijikkan..."
+    },
+    {
+      "id": 12,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Sebagian dari dirimu masih merasa jijik pada mereka. Lucu, kan?"
+    },
+    {
+      "id": 13,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Kau menusuk kepala mereka dengan tombakmu!"
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "content": "J-Jangan bohong..."
+    },
+    {
+      "id": 15,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Sementara aku menghancurkan kepala mereka dengan palu!"
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "Hentikan...!"
+    },
+    {
+      "id": 17,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Ahaha... Di dunia itu, kau terlihat seperti orang paling bebas di semesta, melampaui segalanya."
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "Nggak..."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "Kau bohong!!!"
+    },
+    {
+      "id": 20,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Entah aku berbohong atau tidak..."
+    },
+    {
+      "id": 21,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Ufu."
+    },
+    {
+      "id": 22,
+      "content": "Kromer tiba-tiba tertawa sinis dan berhenti bergerak."
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<<ruby=Ranting Emas>Golden Bough</ruby> itu...!>"
+    },
+    {
+      "id": 24,
+      "content": "<ruby=Ranting Emas>Golden Bough</ruby> di atas altar beresonansi dengan tawanya, dan mulai bersinar lebih terang."
+    },
+    {
+      "id": 25,
+      "content": "Kemudian..."
+    },
+    {
+      "id": 26,
+      "model": "피묻은크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Aah...! Sudah dimulai... Akhirnya, dendam terakhirku akan terbayarkan!"
+    },
+    {
+      "id": 27,
+      "content": "Sebongkah daging melahap bagian bawah tubuhnya."
+    },
+    {
+      "id": 28,
+      "content": "Dari pertumbuhan organik yang mengerikan itu, sekumpulan anggota badan yang tak jelas bentuknya menjulur ke luar dalam jumlah yang tak terhitung."
+    },
+    {
+      "id": 29,
+      "content": "Seakan-akan hasrat dan kegilaan telah bermanifestasi..."
+    },
+    {
+      "id": 30,
+      "model": "변신크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Kemari... Sinclair."
+    },
+    {
+      "id": 31,
+      "model": "변신크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Koyak dan kunyah habis diriku."
+    },
+    {
+      "id": 32,
+      "model": "변신크로머",
+      "teller": "Kromer",
+      "title": "Nagel und Hammer",
+      "content": "Itu pun kalau kau bisa... Keheh."
+    }
+  ]
+}
