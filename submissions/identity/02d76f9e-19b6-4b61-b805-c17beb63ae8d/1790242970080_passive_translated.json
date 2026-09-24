@@ -1,0 +1,23 @@
+{
+  "datalist": [
+    {
+      "id": 1091701,
+      "name": "Yang Memotong di Toko Perubahan Ialah Gunting Bunga",
+      "desc": "Akhir Giliran: Peroleh Shield giliran berikutnya setara dengan Count [ChargeKhaki]\nPada 2+/3+/5+ Potency [ChargeKhaki], Base Skill Final Power +1/+2/+3",
+      "summary": "Peroleh Base Skill Final Power"
+    },
+    {
+      "id": 1091702,
+      "name": "Inersia Kain Bergeser",
+      "desc": "Peroleh 1 Potency [ChargeKhaki] untuk setiap 10 Count [ChargeKhaki] kumulatif yang unit ini konsumsi di Pertemuan ini\n\nPada Akhir Serangan dari kawan lain yang memiliki [NoirScissorShield], aktifkan \"Patterning\" terhadap target yang diserang kawan (sekali per giliran)\n- [BeforeUse] Jika target tersebut memiliki 2+ [NoirScissorAlly], aktifkan sebagai \"Cutout\" saja (sekali per giliran)",
+      "summary": "Aktifkan serangan tambahan"
+    },
+    {
+      "id": 1091721,
+      "name": "Pertama adalah Terima ka-snip",
+      "desc": "1 kawan dengan Speed tercepat beri +10% damage menggunakan Skill Dasar Slash",
+      "summary": "Bonus Slash damage",
+      "flavor": "Sepasang yang paling kusayangi, di atas segalanya... akan menjadi milikmu juga."
+    }
+  ]
+}
