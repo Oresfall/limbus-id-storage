@@ -1,0 +1,203 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dapur Eunbong’s Bar & Fryers",
+      "content": "Aku menatap hidangan Gregor cukup lama."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<Ini uh, masakan apa, Gregor?>"
+    },
+    {
+      "id": 2,
+      "model": "그레고르요리사",
+      "content": "Ransum pertahanan hidup militer… atau semacam itulah?"
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Apa mereka… benar-benar makan ini di militer?>"
+    },
+    {
+      "id": 4,
+      "model": "그레고르요리사",
+      "content": "Dengar, Sobat Manajer, bukannya kau bilang kau amnesia? Sejak kapan kau jadi kritikus makanan yang cerewet begini, hah?"
+    },
+    {
+      "id": 5,
+      "content": "Gregor kehilangan ketenangannya yang biasa dan tiba-tiba membentakku."
+    },
+    {
+      "id": 6,
+      "content": "Selanjutnya aku melihat hidangan Ryōshū."
+    },
+    {
+      "id": 7,
+      "content": "Aku merasa seperti sedang melihat sebuah karya seni baru."
+    },
+    {
+      "id": 8,
+      "content": "Maksudnya, aku sama sekali tidak tahu makanan apa itu sebenarnya."
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Ryōshū, sekadar memastikan, kau tidak salah mengira tujuan kita jadi membunuh pemilik restoran yang Terdistorsi itu, kan?>"
+    },
+    {
+      "id": 11,
+      "model": "료슈요리사",
+      "content": "S.J.T.M."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Dia menyuruh si kepala jam untuk tutup mulut…"
+    },
+    {
+      "id": 13,
+      "content": "Heathcliff dan Meursault telah menangkap pemilik Eunbong's dan mendudukkannya di kursi sementara itu…"
+    },
+    {
+      "id": 14,
+      "content": "Kami mulai dengan menyuapinya masakan Ryōshū."
+    },
+    {
+      "id": 15,
+      "model": "뒤틀린주인",
+      "teller": "Pemilik Eunbong’s Bar & Fryers",
+      "title": "Eunbong’s Bar & Fryers",
+      "content": "Grr… Urgh… Hrrgh…"
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Bahasa Distorsi itu sulit diurai. Akan butuh setidaknya 70 jam untuk menguraikannya berdasarkan pola bicara dan iramanya."
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Selama itu? Kita nggak mungkin menggoreng ayam terus-terusan selama itu!"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Tunggu…!>"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Sepertinya aku bisa mendengar suaranya di dalam kepalaku.>"
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "Hmm, aneh sekali. Ini mungkin karena pengaruh <ruby=Ranting Emas>Golden Bough</ruby> yang telah kita kumpulkan beresonansi dengan kepala Manajer Dante."
+    },
+    {
+      "id": 21,
+      "content": "Ugh… Rasanya aku baru saja mendengar pernyataan yang mengejutkan, tapi teriakan pemilik restoran ini terlalu mengganggu konsentrasi…"
+    },
+    {
+      "id": 22,
+      "model": "뒤틀린주인",
+      "teller": "Pemilik Eunbong’s Bar & Fryers",
+      "title": "Eunbong’s Bar & Fryers",
+      "content": "Gruh…Urg…Arrh…"
+    },
+    {
+      "id": 23,
+      "model": "료슈요리사",
+      "content": "Apa yang mau dia bilang?"
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<“Ada prosesi pemakaman di dalam mulutku…”>"
+    },
+    {
+      "id": 25,
+      "model": "뒤틀린주인",
+      "teller": "Pemilik Eunbong’s Bar & Fryers",
+      "title": "Eunbong’s Bar & Fryers",
+      "content": "Grh… Urhh…erh…"
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<“Apakah tema masakanmu ‘kiamat unggas’”, tanyanya…>"
+    },
+    {
+      "id": 27,
+      "model": "료슈요리사",
+      "content": "Bagus… Hari ini akan jadi hari di mana kucabut jam itu dari tangkainya."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Aku cuma menyampaikan ulasannya!>"
+    },
+    {
+      "id": 29,
+      "model": "료슈요리사",
+      "content": "Kalau begitu kalian berdua bisa pergi ke neraka sama-sama."
+    },
+    {
+      "id": 30,
+      "model": "그레고르요리사",
+      "content": "Terlalu sombong ya, Ryōshū? Percaya diri itu bagus, tapi nggak ada tandingannya sama pengalaman yang matang."
+    },
+    {
+      "id": 31,
+      "model": "그레고르요리사",
+      "content": "Baiklah, kurasa sekarang giliran gue. Buka mulut lu lebar-lebar, kawan."
+    },
+    {
+      "id": 32,
+      "model": "뒤틀린주인",
+      "teller": "Pemilik Eunbong’s Bar & Fryers",
+      "title": "Eunbong’s Bar & Fryers",
+      "content": "Ghh… Urhh… Urrg…"
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 34,
+      "model": "그레고르요리사",
+      "content": "Aha, apa dia sudah mulai membuka hatinya?"
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<Dia bertanya-tanya apa masakan ini dikeruk dari tong sampah sisa makanan di luar…>"
+    },
+    {
+      "id": 36,
+      "model": "그레고르요리사",
+      "content": "……"
+    },
+    {
+      "id": 37,
+      "model": "단테",
+      "content": "<Sepertinya hidangan kalian berdua gagal…>"
+    },
+    {
+      "id": 38,
+      "content": "Pemilik restoran dan ayam-ayamnya menerjang kami sambil menggeram."
+    },
+    {
+      "id": 39,
+      "content": "Seakan ingin mengekspresikan kemarahan tuan mereka sepenuhnya…"
+    }
+  ]
+}
