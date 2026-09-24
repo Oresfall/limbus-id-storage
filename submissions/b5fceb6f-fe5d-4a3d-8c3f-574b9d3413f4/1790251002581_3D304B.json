@@ -1,0 +1,340 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "싱클레어",
+      "content": "Setelah mencuri kuncinya tanpa sepengetahuan orang tuaku, aku membawa Kromer ke ruang bawah tanah rumahku seperti yang sudah kujanjikan."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Dari sana, dia menuntunku ke sebuah ventilasi udara yang kotor."
+    },
+    {
+      "id": 2,
+      "model": "싱클레어",
+      "content": "Merangkak di dalam ventilasi yang gelap selama beberapa saat, bau apek yang kotor dan suara hewan-hewan kecil yang merayap menyerang indraku."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Pakaianku ternoda oleh kotoran, tenggorokanku kering, dan aku diliputi oleh keinginan untuk kembali."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Saat itulah aku menyadari bahwa bau yang ditangkap hidungku baru saja berubah dari bau busuk sebelumnya."
+    },
+    {
+      "id": 5,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Apa kau bisa merasakannya?"
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Kromer berbisik kepadaku."
+    },
+    {
+      "id": 7,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Ada sesuatu di depan sana…!"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Ini mungkin adalah kesempatan terakhir yang kumiliki untuk berbalik."
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "Mungkin akan lebih baik untuk membujuknya dengan segala macam rayuan manis agar pergi dan kembali lagi nanti."
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Meskipun aku tahu bahwa sanjungan kosong tidak akan mempan padanya."
+    },
+    {
+      "id": 11,
+      "model": "싱클레어",
+      "content": "Tapi sebelum aku bisa mencobanya, rasa ingin tahu yang keji menguasai diriku."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Aku memasuki sebuah dunia tempat para penjahat berada untuk pertama kalinya."
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "Dan entah kenapa…"
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "content": "Aku menyerah untuk berbalik."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Semua itu sambil menyadari di dalam hatiku bahwa aku sedang menyia-nyiakan kesempatan terakhirku."
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "Oh, pemandangan menjijikkan yang harus kusaksikan; itu adalah sesuatu yang tak sanggup kupikirkan untuk kulihat dua kali."
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Apakah “sesuatu yang mengerikan” bisa menjadi deskripsi yang tepat untuk apa yang kulihat?"
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "Itu tampak terlalu hidup untuk disebut begitu, namun juga rasanya sangat salah untuk mengatakan bahwa hal itu bahkan sedikit saja mirip dengan manusia."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "Huk… Guhgh…"
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "Gemetar ketakutan, aku mulai menyesal telah melangkah ke dunia ini."
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Sinclair, dasar bodoh, lihatlah dirimu sendiri. Berharap pada sebuah keajaiban untuk mendapatkan kesempatan lagi tepat setelah kau menyia-nyiakannya."
+    },
+    {
+      "id": 22,
+      "model": "싱클레어",
+      "content": "Bersamaan dengan penyesalanku, aku merasa bahwa aku tidak akan pernah melupakan apa yang kulihat hari itu sampai saat aku mati."
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "K—Kro…mer… Aku… Aku harus kembali…"
+    },
+    {
+      "id": 24,
+      "model": "싱클레어",
+      "content": "Di sisi lain, Kromer justru terpesona."
+    },
+    {
+      "id": 25,
+      "model": "싱클레어",
+      "content": "Dia terhipnotis oleh pemandangan itu, menatapnya lekat-lekat seolah-olah dia telah membuat sebuah penemuan seumur hidup."
+    },
+    {
+      "id": 26,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "……"
+    },
+    {
+      "id": 27,
+      "model": "싱클레어",
+      "content": "Meninggalkan Kromer yang sedang asyik sendiri, aku merangkak mundur menuju pintu keluar."
+    },
+    {
+      "id": 28,
+      "model": "싱클레어",
+      "content": "Kenapa ruang bawah tanahku terhubung ke tempat yang mengerikan seperti ini?"
+    },
+    {
+      "id": 29,
+      "model": "싱클레어",
+      "content": "Bagaimana Kromer bisa tahu hal ini?"
+    },
+    {
+      "id": 30,
+      "model": "싱클레어",
+      "content": "Kenapa dia juga tidak merasa takut?"
+    },
+    {
+      "id": 31,
+      "model": "싱클레어",
+      "content": "Aku hampir bisa mendengar siulan Kromer yang bikin merinding terbawa oleh angin yang berhembus dari belakang."
+    },
+    {
+      "id": 32,
+      "model": "싱클레어",
+      "content": "Keesokan harinya, Kromer datang ke sekolah seolah tak terjadi apa-apa."
+    },
+    {
+      "id": 33,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Sinclair, terima kasih banyak karena sudah menunjukkanku hal-hal yang berharga."
+    },
+    {
+      "id": 34,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Terimalah ini sebagai ucapan terima kasihku."
+    },
+    {
+      "id": 35,
+      "model": "싱클레어",
+      "content": "Dia memberikan dua koin misterius kepadaku."
+    },
+    {
+      "id": 36,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Selalu simpan di sisimu. Paham?"
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "Yang bisa kulakukan hanyalah mengangguk."
+    },
+    {
+      "id": 38,
+      "model": "싱클레어",
+      "content": "Sejak saat itu, hal-hal yang kulihat di ventilasi itu terus-menerus menghantui pikiranku."
+    },
+    {
+      "id": 39,
+      "model": "싱클레어",
+      "content": "Dan aku mulai secara sadar menghindari Kromer."
+    },
+    {
+      "id": 40,
+      "model": "싱클레어",
+      "content": "Aku bisa membayangkan diriku gemetar ketakutan tanpa sadar hanya dengan melihatnya."
+    },
+    {
+      "id": 41,
+      "model": "싱클레어",
+      "content": "Tapi ada sesuatu yang harus kuambil kembali darinya."
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "Kunci ruang bawah tanah."
+    },
+    {
+      "id": 43,
+      "model": "싱클레어",
+      "content": "Orang tuaku bisa mengetahuinya kapan saja. Satu menit untuk menyortir kunci sudah cukup untuk membongkar semuanya."
+    },
+    {
+      "id": 44,
+      "model": "싱클레어",
+      "content": "Untuk pertama kalinya, aku mengkhianati orang tuaku yang hidup di dunia yang penuh kehangatan…"
+    },
+    {
+      "id": 45,
+      "model": "싱클레어",
+      "content": "Aku takut penyimpanganku dari dunia mereka pada akhirnya akan menjadi fakta yang tak terbantahkan."
+    },
+    {
+      "id": 46,
+      "model": "싱클레어",
+      "content": "Kromer… Nggak maukah kau mengembalikannya sekarang?"
+    },
+    {
+      "id": 47,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Mengembalikan apa?"
+    },
+    {
+      "id": 48,
+      "model": "싱클레어",
+      "content": "Kunci… ruang bawah tanah…"
+    },
+    {
+      "id": 49,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "…Pfft."
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "Aku memberanikan diri untuk bertanya pada suatu hari."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "Kromer meledak dalam tawa, seolah dia tak menyangka hal ini dariku. Terintimidasi, aku perlahan melangkah mundur."
+    },
+    {
+      "id": 52,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Pwahahaha!!! Oh, padahal aku dari tadi penasaran apa yang susah payah mau kau katakan…"
+    },
+    {
+      "id": 53,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Baiklah, kau boleh mengambilnya, Sinclair. Kita sudah nggak butuh kuncinya lagi."
+    },
+    {
+      "id": 54,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Lagipula…"
+    },
+    {
+      "id": 55,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Dendammu sudah pasti bakal membuahkan hasil, Sinclair. Kau nggak mau ikut prosedurnya, kan?"
+    },
+    {
+      "id": 56,
+      "model": "학생크로머",
+      "teller": "Kromer",
+      "title": "Siswa",
+      "content": "Kau ingat janji kita? Kau sudah memenuhi dendamku, jadi sudah sepantasnya aku membalasmu."
+    },
+    {
+      "id": 57,
+      "model": "싱클레어",
+      "content": "Aku terlalu larut dalam kelegaan karena mendapatkan kunciku kembali sampai tidak menyadari apa yang sebenarnya sedang Kromer bicarakan, dan aku mengutuk ketidaktahuanku karena hal itu."
+    },
+    {
+      "id": 58,
+      "model": "싱클레어",
+      "content": "Tentang apa sebenarnya maksud dari kata \"kita\" yang diucapkan Kromer."
+    },
+    {
+      "id": 59,
+      "model": "싱클레어",
+      "content": "Tentang kenapa dia bilang itu sudah tidak dibutuhkan lagi, dan bagaimana dia akan memenuhi dendamku…"
+    },
+    {
+      "id": 60,
+      "model": "싱클레어",
+      "content": "Aku tak berpikir untuk mempertanyakan satu hal pun, dan karena itu…"
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "Aku menyesali ketidakmampuanku; aku mengutuk kebodohanku."
+    }
+  ]
+}
