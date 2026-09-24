@@ -1,0 +1,480 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bodhisattva Chicken",
+      "model": "그레고르",
+      "content": "Oke, berhubung semuanya udah beres, gimana kalau kita balik ke topik utama, sobat asing berkacamata?"
+    },
+    {
+      "id": 1,
+      "model": "삼조",
+      "teller": "???",
+      "title": "???",
+      "content": "Saya harus menolak julukan semacam itu; apalagi kalau datangnya dari sesama pemakai kacamata."
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "O—Oh, gitu ya… Sori deh kalau gitu."
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "Informasi pribadi dasar, seperti identitas seseorang, dapat dengan mudah diperoleh dari pendaftaran kematiannya."
+    },
+    {
+      "id": 4,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "???",
+      "content": "…Ah, saya memang lupa memperkenalkan diri. Ini kartu nama saya. Anda bisa memanggil saya Samjo."
+    },
+    {
+      "id": 5,
+      "content": "Mengabaikan permusuhan yang mulai tumbuh di sekitarnya, pria itu langsung memberikan kartu namanya pada kami."
+    },
+    {
+      "id": 6,
+      "model": "히스클리프",
+      "content": "K Corp… Afiliasi Pusat Riset Departemen Pengembangan Sumber Daya Pangan…"
+    },
+    {
+      "id": 7,
+      "model": "히스클리프",
+      "content": "……"
+    },
+    {
+      "id": 8,
+      "model": "히스클리프",
+      "content": "Hah! Lu pikir kita bakal gampang dikadalin pakai kata-kata mentereng begini?"
+    },
+    {
+      "id": 9,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Tentu saja. Persuasi dan penjelasan adalah keahlian saya, jadi tolong tetap tenang dan dengarkan."
+    },
+    {
+      "id": 10,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Saya sangat terkesan dengan kehebatan pertarungan kalian beberapa saat yang lalu."
+    },
+    {
+      "id": 11,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Khususnya, saat-saat di mana kalian terus menyerang musuh dengan sama sekali tidak mempedulikan rekan kalian yang sedang sekarat di dekat kalian. Beberapa orang lain bahkan tertawa melihatnya."
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "Heh… Kawan atau lawan, mereka yang berani menghalangi harus segera disingkirkan."
+    },
+    {
+      "id": 13,
+      "content": "Outis membalas perkataannya dengan tatapan penuh kebanggaan, meskipun itu sama sekali tidak terdengar seperti sebuah pujian."
+    },
+    {
+      "id": 14,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Seperti yang bisa Anda lihat, makhluk-makhluk berkepala ayam tak dikenal yang menempati bagian depan restoran ini telah menyebabkan kerusakan yang cukup parah."
+    },
+    {
+      "id": 15,
+      "model": "히스클리프",
+      "content": "…Terus masalahnya apa buat kita?"
+    },
+    {
+      "id": 16,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Manajer tempat ini juga harus terbaring sakit hingga saat ini."
+    },
+    {
+      "id": 17,
+      "content": "Pria lain dengan wajah kuyu terhuyung-huyung menghampiri kami, membuatnya sedikit jelas bahwa Samjo tidak berbohong soal pemilik restoran yang jatuh sakit karena khawatir."
+    },
+    {
+      "id": 18,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Anda boleh bicara sekarang."
+    },
+    {
+      "id": 19,
+      "model": "보살치킨",
+      "teller": "Manajer Bodhisattva Chicken",
+      "title": "Bodhisattva Chicken",
+      "content": "Erm… Jadi, keadaannya… Restoran ayam goreng kami baru buka beberapa bulan lalu tepat di seberang Eunbong's Bar & Fryers."
+    },
+    {
+      "id": 20,
+      "model": "보살치킨",
+      "teller": "Manajer Bodhisattva Chicken",
+      "title": "Bodhisattva Chicken",
+      "content": "Waralaba kami menawarkan porsi besar makanan lezat menggunakan daging unggas dengan silsilah terbaik, jadi wajar saja kalau kami menarik semua pelanggan dari Eunbong's."
+    },
+    {
+      "id": 21,
+      "model": "보살치킨",
+      "teller": "Manajer Bodhisattva Chicken",
+      "title": "Bodhisattva Chicken",
+      "content": "Tapi suatu hari, tiba-tiba saja, pemilik Eunbong's mulai bertingkah sangat aneh. Kehilangan pelanggan pasti membuatnya syok atau semacamnya, dan sekarang dia mencoba menghancurkan seluruh bisnis kami."
+    },
+    {
+      "id": 22,
+      "model": "그레고르",
+      "content": "Maksudku, bukan hal yang aneh bagi pesaing untuk saling serang, kan—"
+    },
+    {
+      "id": 23,
+      "content": "Seakan membenarkan keluh kesah pemilik restoran itu, jeritan bergema dari seberang jalan."
+    },
+    {
+      "id": 24,
+      "teller": "Penduduk Nest",
+      "title": "K Corp.",
+      "content": "Kyaaaugh!!! Apa-apaan ini!!!"
+    },
+    {
+      "id": 25,
+      "model": "뒤틀린주인",
+      "teller": "Pemilik Eunbong’s Bar & Fryers?",
+      "title": "Eunbong’s Bar & Fryers?",
+      "content": "Khh… Ghh… Kagh…"
+    },
+    {
+      "id": 26,
+      "content": "Saat sosok yang diduga pemilik Eunbong's itu mengayunkan lengannya sambil menggumamkan sesuatu, ayam-ayam itu merespons secara serempak."
+    },
+    {
+      "id": 27,
+      "content": "Ayam-ayam mentah itu… menerkam orang-orang."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "content": "…Apa-apaan ini? Apa dia mengendalikan ayam-ayam itu?"
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "Itu jelas-jelas kelakuan yang aneh. Seberapa bencinya seseorang sampai harus menempuh cara semacam itu…?"
+    },
+    {
+      "id": 30,
+      "model": "보살치킨",
+      "teller": "Manajer Bodhisattva Chicken",
+      "title": "Bodhisattva Chicken",
+      "content": "Aku nggak tahu apakah mereka sudah dimodifikasi atau apa, tapi ayam-ayam yang sudah dicabuti bulunya dan disiapkan itu akan menerobos masuk ke restoran dan menghancurkan barang-barang…"
+    },
+    {
+      "id": 31,
+      "place": "Depan Eunbong’s Bar & Fryers",
+      "model": "보살치킨",
+      "teller": "Manajer Bodhisattva Chicken",
+      "title": "Bodhisattva Chicken",
+      "content": "Dan sekarang ada orang-orang yang memakai ayam-ayam itu di kepala mereka juga… Kalau begini terus, restoran kami bakal rugi besar…"
+    },
+    {
+      "id": 32,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Begitulah nyanyian berbulunya."
+    },
+    {
+      "id": 33,
+      "model": "이상",
+      "content": "Hmm…"
+    },
+    {
+      "id": 34,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Inilah keluhannya yang menguras air mata. Apakah kalian bersedia menangani kasus ini?"
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<Itu bikin bulumu merinding, ya, Yi Sang?>"
+    },
+    {
+      "id": 36,
+      "model": "이상",
+      "content": "Mrrm…"
+    },
+    {
+      "id": 37,
+      "model": "히스클리프",
+      "content": "Nguras air mata kek, apalah, kita tetep aja nggak bakal nerima request dari bangsat itu k—"
+    },
+    {
+      "id": 38,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Voucher seumur hidup."
+    },
+    {
+      "id": 39,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Tangani permintaan ini, dan saya akan menawarkan keuntungan yang luar biasa: hak untuk memesan secara gratis dari restoran ini seumur hidup kalian."
+    },
+    {
+      "id": 40,
+      "model": "보살치킨",
+      "teller": "Manajer Bodhisattva Chicken",
+      "title": "Bodhisattva Chicken",
+      "content": "Voucher seumur hidup?! Aku belum pernah dengar yang sepert—"
+    },
+    {
+      "id": 41,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Saya bahkan sudah menyiapkan beberapa sampel gratis untuk kalian."
+    },
+    {
+      "id": 42,
+      "model": "보살치킨",
+      "teller": "Manajer Bodhisattva Chicken",
+      "title": "Bodhisattva Chicken",
+      "content": "Kau apa?!"
+    },
+    {
+      "id": 43,
+      "content": "Samjo turun tangan langsung membagikan potongan-potongan ayam goreng yang tiba-tiba ada di tangannya."
+    },
+    {
+      "id": 44,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Nah, nah, berbarislah dan tetap tertib. Saya membawa sampel untuk silsilah yang berbeda, jadi kalian bebas memilih. Masing-masing memiliki kelezatan yang unik, menunjukkan keunggulannya pada potongan daging yang berbeda."
+    },
+    {
+      "id": 45,
+      "model": "돈키호테",
+      "content": "Mmmmh… Haruskah <ruby=aku>hamba</ruby> memilih satu rasa saja untuk dicicipi? Semuanya tampak sama hebatnya dalam kelezatan rasa…"
+    },
+    {
+      "id": 46,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Kalau begitu, izinkan saya menyarankan ini: Jadikan rasa lainnya sebagai sesuatu yang bisa diantisipasi untuk santapan kalian di masa depan. Itu tidak akan jadi masalah begitu voucher seumur hidup ada di tangan kalian."
+    },
+    {
+      "id": 47,
+      "model": "돈키호테",
+      "content": "Oho… Sungguh, itu adalah tawaran yang tak mungkin salah…"
+    },
+    {
+      "id": 48,
+      "content": "Tampaknya Samjo telah memenangkan hati sebagian besar <ruby=Pendosa>Sinner</ruby> dengan kata-katanya yang memikat dan sampel daging unggasnya yang berkualitas."
+    },
+    {
+      "id": 49,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Bagaimana menurut kalian?"
+    },
+    {
+      "id": 50,
+      "model": "히스클리프",
+      "content": "……"
+    },
+    {
+      "id": 51,
+      "content": "Ini mungkin pertama kalinya aku melihat Heathcliff terdiam mendengar perkataan seseorang."
+    },
+    {
+      "id": 52,
+      "model": "히스클리프",
+      "content": "Boleh juga tuh…"
+    },
+    {
+      "id": 53,
+      "model": "이스마엘",
+      "content": "Halo…? Bukannya kita seharusnya mencari <ruby=Ranting Emas>Golden Bough</ruby>, bukan paha ayam emas? Sejak kapan kita—"
+    },
+    {
+      "id": 54,
+      "model": "히스클리프",
+      "content": "Lu budek ya? Kita bakal makan ayam goreng krispi gratis seumur idup!"
+    },
+    {
+      "id": 55,
+      "model": "로쟈",
+      "content": "Itu penggunaannya nggak dibatasi, kan? Benar-benar ayam gratis selamanya, kan? Ya? Dibungkus bawa pulang juga dihitung?"
+    },
+    {
+      "id": 56,
+      "model": "로쟈",
+      "content": "Hah, ini bikin gue kangen masa lalu. Kira-kira ada yang ingat nggak ya~ Tahu kan, ayam goreng dadakannya HamHamPangPang yang super lezat itu."
+    },
+    {
+      "id": 57,
+      "model": "히스클리프",
+      "content": "Gue sih inget. Gue biasanya mampir bareng anak-anak tongkrongan tiap kali Sindikat kita abis dapet cuan gede."
+    },
+    {
+      "id": 58,
+      "model": "이스마엘",
+      "content": "Ugh, Nona Faust, bisakah kau suruh mereka berhenti mengoceh? Bukankah seharusnya ada semacam syarat khusus perusahaan yang melarang permintaan tentang ayam goreng?"
+    },
+    {
+      "id": 59,
+      "content": "Faust sedang asyik berpikir sendirian."
+    },
+    {
+      "id": 60,
+      "model": "파우스트",
+      "content": "Baiklah, kami akan menerima permintaan Anda."
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Permisi?!"
+    },
+    {
+      "id": 62,
+      "content": "Ini mungkin juga pertama kalinya aku melihat Ishmael terkejut sampai sejauh ini."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "content": "Maaf, Faust… tapi apa kau… baru saja kehilangan akal sehatmu sesaat?"
+    },
+    {
+      "id": 64,
+      "model": "그레고르",
+      "content": "Ya ampun, Ishmael, nggak perlu pedas begitu omonganmu…"
+    },
+    {
+      "id": 65,
+      "model": "파우스트",
+      "content": "Sulit untuk mengatakannya. Pikiran Faust memang cenderung berada di luar nalar hampir sepanjang waktu."
+    },
+    {
+      "id": 66,
+      "model": "히스클리프",
+      "content": "Hahah! Tumben banget kita semua pada akur dan sepemikiran, ya kan?"
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<Faust… Kamu serius? Kamu menerima permintaan ini cuma demi ayam gratis?>"
+    },
+    {
+      "id": 68,
+      "model": "파우스트",
+      "content": "Lebih tepatnya… ini untuk menyelesaikan kasus ‘Fenomena Distorsi’, Dante."
+    },
+    {
+      "id": 69,
+      "model": "단테",
+      "content": "<Fenomena Distorsi?>"
+    },
+    {
+      "id": 70,
+      "model": "홍루",
+      "content": "Distorsi… Apa itu?"
+    },
+    {
+      "id": 71,
+      "model": "파우스트",
+      "content": "Itu adalah istilah yang Faust yakin belum jelas bagi sebagian besar orang. Meskipun hal itu telah terjadi di seluruh penjuru Kota, belum ada pengumuman resmi mengenai fenomena tersebut kepada masyarakat umum."
+    },
+    {
+      "id": 72,
+      "model": "홍루",
+      "content": "Oh…"
+    },
+    {
+      "id": 73,
+      "model": "뫼르소",
+      "content": "Sepengetahuanku, itu adalah fenomena di mana seseorang berubah menjadi bentuk yang sering kali tak layak untuk dianggap sebagai “manusia”. Tidak ada penyebab yang diketahui, dan wujudnya semuanya berbeda."
+    },
+    {
+      "id": 74,
+      "model": "홍루",
+      "content": "Hmm… Itu tidak menjelaskannya dengan cukup baik. Apa mereka seperti Abnormality?"
+    },
+    {
+      "id": 75,
+      "model": "뫼르소",
+      "content": "Tidak sepenuhnya, karena tidak seperti Abnormality, mereka tidak menyusut menjadi telur; ada kemungkinan bagi mereka untuk benar-benar mati."
+    },
+    {
+      "id": 76,
+      "model": "뫼르소",
+      "content": "Aku pernah menyaksikan beberapa kasus di masa lalu."
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "Perusahaan kita memiliki LCD, sebuah departemen yang menaungi para Fixer konsultan yang didedikasikan untuk urusan seputar Distorsi. Meski ukurannya kecil, hal itu tetap menandakan ketertarikan perusahaan terhadap fenomena ini."
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Jadi pemilik Eunbong's… telah… berubah menjadi salah satu makhluk Distorsi itu?>"
+    },
+    {
+      "id": 79,
+      "model": "파우스트",
+      "content": "Benar. Seseorang tidak bisa begitu saja mendapatkan kemampuan untuk memimpin pasukan ayam mentah hanya karena kehilangan akal sehatnya."
+    },
+    {
+      "id": 80,
+      "model": "단테",
+      "content": "<Begitu… >"
+    },
+    {
+      "id": 81,
+      "model": "이스마엘",
+      "content": "Jadi tentang itu urusannya? Haaah… Aku hampir saja khawatir kalau aku harus memukul kepalamu biar kau sadar, Faust."
+    },
+    {
+      "id": 82,
+      "model": "그레고르",
+      "content": "Apa karena itu lu memegang gada lu erat-erat, Ishmael…?"
+    },
+    {
+      "id": 83,
+      "model": "돈키호테",
+      "content": "Benar sekali! Kita harus bertindak sebelum keributan ini menimbulkan korban jiwa. Nyam-nyam…"
+    },
+    {
+      "id": 84,
+      "model": "로쟈",
+      "content": "Oh? Ada saus di wajahmu, *<ruby=Sayang>chiquita</ruby>*!"
+    },
+    {
+      "id": 85,
+      "content": "Aku melihat Rodya mengusap mulut Don Quixote sampai bersih."
+    },
+    {
+      "id": 86,
+      "model": "삼조",
+      "teller": "Samjo",
+      "title": "K Corp. Dept. of Food Resource Development",
+      "content": "Saya anggap itu sebagai jawaban ya, dan akan menunggu kalian menghubungi saya."
+    }
+  ]
+}
