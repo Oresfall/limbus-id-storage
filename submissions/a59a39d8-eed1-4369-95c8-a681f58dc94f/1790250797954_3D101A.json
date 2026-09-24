@@ -1,0 +1,90 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Distrik 11 - Bagian Dalam Cabang LC",
+      "teller": "???",
+      "title": "???",
+      "content": "Astaga... Kalian semua... udah makin jago bertarung ya...?"
+    },
+    {
+      "id": 1,
+      "content": "Sebuah suara samar memanggil kami dari sudut ruangan."
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Saude...?"
+    },
+    {
+      "id": 3,
+      "content": "Saude bersandar di dinding, tampak kelelahan."
+    },
+    {
+      "id": 4,
+      "content": "Tubuhnya penuh dengan luka gigitan dan robekan yang ditinggalkan oleh para Peccatula."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Kamu nggak apa-apa? Bisa bangun nggak?"
+    },
+    {
+      "id": 6,
+      "content": "Saude nyaris tak bisa bicara, apalagi berdiri; dia perlahan mulai berbicara, setiap kata yang diucapkannya penuh dengan rasa sakit."
+    },
+    {
+      "id": 7,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Effie... Gimana keadaannya...?"
+    },
+    {
+      "id": 8,
+      "model": "제복소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Masih hidup, kan? Kalian... pasti ketemu di luar..."
+    },
+    {
+      "id": 9,
+      "content": "Semua orang ragu untuk menjawab pertanyaan Saude yang penuh keputusasaan itu."
+    },
+    {
+      "id": 10,
+      "content": "Bagaimana mungkin ada dari kami yang sanggup memberitahunya tentang kondisi Effie yang mengenaskan dan bagaimana kami harus mengakhiri penderitaannya?"
+    },
+    {
+      "id": 11,
+      "model": "홍루",
+      "content": "...Ya, dia baik-baik saja sekarang."
+    },
+    {
+      "id": 12,
+      "content": "Hong Lu menjawab dengan lirih."
+    },
+    {
+      "id": 13,
+      "content": "Tak ada satu pun <ruby=Pendosa>Sinner</ruby> yang maju untuk menjelaskan lebih lanjut."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Sudah cukup bicaranya."
+    },
+    {
+      "id": 15,
+      "model": "오티스",
+      "content": "Sepertinya lebih banyak makhluk aneh itu yang merayap ke arah kita."
+    },
+    {
+      "id": 16,
+      "content": "Sekawanan Peccatula mendekati kami."
+    },
+    {
+      "id": 17,
+      "content": "Seolah-olah rasa bersalah kami karena berbohong padanya telah menjelma menjadi wujud fisik."
+    }
+  ]
+}
