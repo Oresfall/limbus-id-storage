@@ -1,0 +1,849 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Depan Eunbong’s Bar & Fryers",
+      "model": "단테",
+      "content": "<Apa yang harus kita lakukan untuk menyelesaikan sebuah Distorsi?>"
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "Sederhana saja."
+    },
+    {
+      "id": 2,
+      "content": "Faust sepertinya punya kebiasaan mengawali penjelasannya dengan pernyataan bahwa hal itu sederhana."
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "Yang akan kita lakukan adalah membuka hati sang Terdistorsi."
+    },
+    {
+      "id": 4,
+      "model": "파우스트",
+      "content": "Melucuti pertahanan pikirannya dan membujuknya agar mau terbuka."
+    },
+    {
+      "id": 5,
+      "model": "료슈",
+      "content": "Begitu rupanya. Apa kita cabut tulang belikatnya dulu? Atau mungkin tulang dadanya?"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Hmm, pengungkapan hati secara fisik… Usulan yang menarik."
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<Eh, pertama-tama… Kita mungkin harus mengunjungi tempat bernama Eunbong's itu dan mencari tahu beberapa hal.>"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Euh… Unggas mentah berjalan-jalan. Itu pastinya tidak higienis…"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Mereka mirip dengan benda-benda yang ada di atas kepala orang-orang tadi.>"
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Aku tidak tahu apa itu, tapi sebaiknya kita jangan terlalu dekat dengan…>"
+    },
+    {
+      "id": 11,
+      "content": "Sayangnya, aku lupa kalau sekitar 80% dari para <ruby=Pendosa>Sinner</ruby> lebih tidak menghargai saranku daripada suara burung dara acak di pinggir jalan."
+    },
+    {
+      "id": 12,
+      "model": "뒤틀린닭1",
+      "teller": "Ayam Mentah",
+      "title": "Makhluk Terdistorsi",
+      "content": "Kieeeh!"
+    },
+    {
+      "id": 13,
+      "model": "히스클리프",
+      "content": "Jadi kita bisa dapat ayam gratis seumur hidup setelah selesai menggebuki ayam-ayam muda ini, ya?"
+    },
+    {
+      "id": 14,
+      "model": "료슈",
+      "content": "Lucu. Mari C.M.S.S.H."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<……>"
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<Aku ngerti! Yang barusan itu “cincang mereka semua sampai hancur”!>"
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "…Hah."
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "Mengangguk."
+    },
+    {
+      "id": 19,
+      "content": "Terprovokasi, ayam-ayam mentah itu melompat ke udara…"
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "Hah, Heathcliff?!?!"
+    },
+    {
+      "id": 21,
+      "content": "Wajah Heathcliff lalu dilahap oleh salah satu dari mereka."
+    },
+    {
+      "id": 22,
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "……"
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<…Heathcliff?!!>"
+    },
+    {
+      "id": 24,
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "……"
+    },
+    {
+      "id": 25,
+      "content": "Heathcliff berdiri dalam diam dengan ayam mentah menghiasi kepalanya…"
+    },
+    {
+      "id": 26,
+      "content": "Itu pemandangan yang cukup luar biasa, yang membuatku sangat ngeri."
+    },
+    {
+      "id": 27,
+      "model": "이스마엘",
+      "content": "Kukira aku lebih suka Heathcliff yang seperti ini, tahu? Dia malah kelihatan cerdas sekarang."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "Ya ampun, apa yang harus kita lakukan, Dante? Tunggu, cepat! Jammu!"
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<T—Tapi nanti…>"
+    },
+    {
+      "id": 30,
+      "content": "Tidak ada yang akan menghentikanku dari memutar waktu di sini. Tapi masalahnya adalah…"
+    },
+    {
+      "id": 31,
+      "model": "단테",
+      "content": "<Bagaimana kalau kepalaku berubah jadi ayam saat jamnya bekerja?>"
+    },
+    {
+      "id": 32,
+      "model": "료슈",
+      "content": "G.B."
+    },
+    {
+      "id": 33,
+      "model": "싱클레어",
+      "content": "Gada bedanya?!"
+    },
+    {
+      "id": 34,
+      "model": "료슈",
+      "content": "Kepala jam, kepala ayam—nggak ada bedanya, jadi aku nggak paham kenapa harus sewot begitu."
+    },
+    {
+      "id": 35,
+      "content": "Sepertinya hanya Sinclair satu-satunya yang benar-benar khawatir soal Heathcliff."
+    },
+    {
+      "id": 36,
+      "model": "싱클레어",
+      "content": "Tuan Heathcliff! Apa kau baik-baik saja di dalam sana?"
+    },
+    {
+      "id": 37,
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "Ghii… Ghii…"
+    },
+    {
+      "id": 38,
+      "model": "로쟈",
+      "content": "Eh, gimana kalau kita jadikan dia maskot kita saja kalau benda itu nggak pernah lepas?"
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<Sebenarnya ada urusan apa sih kamu dengan maskot…?>"
+    },
+    {
+      "id": 40,
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "Ghii… Cooh…"
+    },
+    {
+      "id": 41,
+      "model": "돈키호테",
+      "content": "Ohhhh! Arahkan mata kalian ke sana! Heathcliff sedang berkomunikasi dengan ayam-ayam betina yang lain!"
+    },
+    {
+      "id": 42,
+      "model": "뒤틀린손님2",
+      "teller": "Kepala Ayam",
+      "title": "Makhluk Terdistorsi",
+      "content": "Bubawkgi! Bubawkgicludoo. Buhbawkgigi!"
+    },
+    {
+      "id": 43,
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "Bubawgi… Doodlegidoo… Buhbawk…"
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "Fuhu, Heathcliff jadi cukup cerewet ya."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Tampaknya ayam yang duduk di wajahnya sedang menggunakan mulutnya untuk berkomunikasi, alih-alih Heathcliff sendiri."
+    },
+    {
+      "id": 46,
+      "model": "돈키호테",
+      "content": "Hiks… <ruby=Aku>Hamba</ruby>  tidak tega meninggalkan Tuan Heathcliff dalam keadaan seperti ini… <ruby=Aku>Hamba</ruby>  berharap bisa melakukan *cosplay* bersamanya sebagai duo “Fixers del Atardecer Ardiente” suatu hari nanti… Kita hanya akan menjadi bahan tertawaan jika ia ikut serta dalam pertunjukan dengan kepala ayam itu…"
+    },
+    {
+      "id": 47,
+      "content": "Untuk menghindari kerumunan yang berkumpul, kami mendorong Heathcliff ke dalam Eunbong’s Bar & Fryers dan mengikutinya dari belakang."
+    },
+    {
+      "id": 48,
+      "place": "Eunbong’s Bar & Fryers",
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "Ghiii… Ghiii…"
+    },
+    {
+      "id": 49,
+      "model": "오티스",
+      "content": "Aku tidak tahan lagi mendengar suara kokoknya. Aku akan segera mengembalikan akal sehatnya."
+    },
+    {
+      "id": 50,
+      "content": "Outis mencengkeram ayam mentah di kepala Heathcliff dengan satu tangan dan mulai menamparnya tanpa ampun dengan tangannya yang lain."
+    },
+    {
+      "id": 51,
+      "content": "Dengan penuh amarah…"
+    },
+    {
+      "id": 52,
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "Kwi… Giidoough…"
+    },
+    {
+      "id": 53,
+      "model": "뫼르소",
+      "content": "…Suara hantamannya sebanding dengan saat ia sedang menginterogasi musuh yang tertangkap."
+    },
+    {
+      "id": 54,
+      "model": "오티스",
+      "content": "Aku tidak melihatnya akan pulih dengan sendirinya. Ini tidak menyisakan pilihan lain. Aku akan mencabut kepala ayam itu secara utuh."
+    },
+    {
+      "id": 55,
+      "model": "로쟈",
+      "content": "Apa nggak apa-apa mencabutnya paksa begitu? Kau bisa-bisa ikut mengelupas kulit wajahnya!"
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "Kuatkan nyalimu. Sekalipun kulitnya terkelupas, itu sama sekali tidak masalah karena manajer eksekutif kita ada di sini untuk menanganinya."
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<Tidak, serius… Itu benar-benar masalah buatku, Outis, dan aku tidak bisa asal—>"
+    },
+    {
+      "id": 58,
+      "content": "Mengabaikan penolakannya, Outis mulai menarik ayam itu dengan sekuat tenaga."
+    },
+    {
+      "id": 59,
+      "model": "히스클리프요리사",
+      "teller": "Heathcliff?",
+      "title": "Makhluk Terdistorsi?",
+      "content": "Kiiiiih khiiiiiih!!!"
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Aku mendengar sesuatu robek… Itu tidak benar-benar terlepas, kan? Hah?>"
+    },
+    {
+      "id": 61,
+      "model": "히스클리프",
+      "content": "Kuff… Kaff… Gehg…"
+    },
+    {
+      "id": 62,
+      "model": "오티스",
+      "content": "Sudah kembali bersama kami, prajurit?"
+    },
+    {
+      "id": 63,
+      "model": "히스클리프",
+      "content": "Urgh… Ada apa dengan sup konyol di mulutku ini…"
+    },
+    {
+      "id": 64,
+      "model": "로쟈",
+      "content": "Heath… Kau tadi berdiskusi serius dengan ayam-ayam itu, berkokok mengucapkan hal-hal aneh. Ingat?"
+    },
+    {
+      "id": 65,
+      "model": "히스클리프",
+      "content": "Hah, sekarang setelah lu bilang gitu… Kayaknya gue emang denger ada yang ngoceh di kepala gue…"
+    },
+    {
+      "id": 66,
+      "model": "히스클리프",
+      "content": "A-Apa yang mereka omongin… Kayaknya ada semacam resep yang hilang…"
+    },
+    {
+      "id": 67,
+      "model": "히스클리프",
+      "content": "Itu fondasi utama rumah makan ini, tapi begitu hilang… Dia jadi berhenti kedatangan pelanggan…"
+    },
+    {
+      "id": 68,
+      "model": "히스클리프",
+      "content": "Saat itulah sang tuan mulai bertingkah aneh… dan menginfeksi kita semua…"
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "content": "Pft… Apa kau baru saja menyebut ayam-ayam itu sebagai “kita”?"
+    },
+    {
+      "id": 70,
+      "model": "히스클리프",
+      "content": "…Sialan, gue masih masa pemulihan dari ayam-kepala itu… Ini membingungkan…"
+    },
+    {
+      "id": 71,
+      "model": "싱클레어",
+      "content": "Jadi begitu caramu menyebut mereka…?"
+    },
+    {
+      "id": 72,
+      "model": "단테",
+      "content": "<Kalau Distorsinya terjadi karena dia kehilangan resepnya…>"
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Terus, gimana kalau kita bikin ulang aja buat dia?>"
+    },
+    {
+      "id": 74,
+      "model": "파우스트",
+      "content": "Anda sudah cukup dekat dengan jawabannya."
+    },
+    {
+      "id": 75,
+      "model": "파우스트",
+      "content": "Meskipun masih banyak yang belum diketahui tentang Distorsi, salah satu rincian yang tercatat adalah bahwa hal itu terjadi ketika kebaikan dan kejahatan… Tidak, ketika pikiran hancur menjadi kepingan kiasan."
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<Sepertinya kau baru saja mengalihkan pembicaraan dari “kebaikan dan kejahatan” karena versi itu akan jadi terlalu panjang untuk repot-repot kau bahas…>"
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "Sebagai contoh, katakanlah Hong Lu memegang suatu keyakinan yang ia yakini akan menjadi sebuah ketetapan yang tak berubah selama ia hidup di <ruby=Kota>The City</ruby>."
+    },
+    {
+      "id": 78,
+      "model": "파우스트",
+      "content": "Atau, bisa jadi itu adalah harapan akan topangan psikologis lain yang telah mendukung hidupnya."
+    },
+    {
+      "id": 79,
+      "model": "홍루",
+      "content": "…Hmm."
+    },
+    {
+      "id": 80,
+      "model": "파우스트",
+      "content": "Jika topangan itu tiba-tiba runtuh dalam peristiwa yang sangat mengejutkan yang menyebabkan seseorang melepaskan “ego”-nya, pikirannya akan hancur, bisa dibilang begitu."
+    },
+    {
+      "id": 81,
+      "model": "홍루",
+      "content": "…Yah, aku bisa membayangkan hal itu terjadi."
+    },
+    {
+      "id": 82,
+      "model": "히스클리프",
+      "content": "Apa yang bisa sangat mengejutkan buat keparat kaya raya kayak lu? Dompet pribadi lu dijambret?"
+    },
+    {
+      "id": 83,
+      "model": "홍루",
+      "content": "Oh, tidak, aku tidak pernah menerima uang saku. Hal semacam itu tidak diperlukan saat aku bisa menghabiskan berapa pun yang kuinginkan kapan pun aku mau."
+    },
+    {
+      "id": 84,
+      "model": "로쟈",
+      "content": "Benarkah? Terus, apa lagi dong?"
+    },
+    {
+      "id": 85,
+      "model": "홍루",
+      "content": "Hm… Kukira aku tahu, tapi sepertinya aku tidak bisa menjabarkannya dengan kata-kata saat ini."
+    },
+    {
+      "id": 86,
+      "model": "파우스트",
+      "content": "Kembali ke inti pembicaraan dan merangkumnya…"
+    },
+    {
+      "id": 87,
+      "model": "파우스트",
+      "content": "Distorsi… adalah sebuah fenomena yang muncul dari guncangan psikologis yang sangat mendalam dan personal."
+    },
+    {
+      "id": 88,
+      "model": "파우스트",
+      "content": "Mereka yang terdampak akan memagari hati mereka dengan pertahanan yang kokoh."
+    },
+    {
+      "id": 89,
+      "model": "파우스트",
+      "content": "Dinding ini harus dirobohkan menggunakan metode yang disetujui oleh sang Terdistorsi."
+    },
+    {
+      "id": 90,
+      "model": "그레고르",
+      "content": "Dan dalam kasus ini, sang Terdistorsi menginginkan…"
+    },
+    {
+      "id": 91,
+      "model": "그레고르",
+      "content": "…Masakan olahan ayam, kan."
+    },
+    {
+      "id": 92,
+      "content": "Gregor melangkah maju dengan percaya diri setelah mengatakan itu."
+    },
+    {
+      "id": 93,
+      "model": "그레고르",
+      "content": "Gue udah cukup banyak masak makanan pakai sisa makanan dan kaleng untuk rekan-rekan seperjuangan gue selama perang."
+    },
+    {
+      "id": 94,
+      "model": "그레고르",
+      "content": "Tentara-tentara yang trauma itu terharu sampai meneteskan air mata oleh masakan gue saat mereka melahap habis makanan itu."
+    },
+    {
+      "id": 95,
+      "model": "료슈",
+      "content": "Hmph."
+    },
+    {
+      "id": 96,
+      "model": "그레고르",
+      "content": "…Hei hei, perasaan gue aja… atau gue dengar ada yang ngeledek barusan?"
+    },
+    {
+      "id": 97,
+      "model": "료슈",
+      "content": "Lucu sekali. Apa yang diketahui seekor M.R. tentang memasak? Lu lebih cocok balikin patty hamburger pakai capit lu itu."
+    },
+    {
+      "id": 98,
+      "model": "홍루",
+      "content": "Ooh~ Kalau Tuan Gregor buka bisnis, dia bakal jadi bos dengan capit daging yang besar!"
+    },
+    {
+      "id": 99,
+      "model": "그레고르",
+      "content": "…Ryōshū, itu singkatan untuk “Makhluk rendahan”, kan? Tapi sejujurnya, gue suka ide jadi cowok dengan capit daging yang besar… Eh? Kepala gue baru saja terasa perih…"
+    },
+    {
+      "id": 100,
+      "model": "료슈",
+      "content": "Koki sejati… mengikuti lidah dan pisaunya."
+    },
+    {
+      "id": 101,
+      "model": "료슈",
+      "content": "Apa lu benar-benar bisa bilang makanan yang ditumbuk sembarangan di zona perang itu adalah masakan sungguhan?"
+    },
+    {
+      "id": 102,
+      "model": "로쟈",
+      "content": "Ohhh~ Itu ucapan yang pantas masuk buku resep!"
+    },
+    {
+      "id": 103,
+      "model": "싱클레어",
+      "content": "Nona Ryōshū, tumben sekali dia bicara dengan kata-kata utuh!"
+    },
+    {
+      "id": 104,
+      "model": "그레고르",
+      "content": "Grr… Memang kedengarannya keren, tapi gue tidak yakin lu pantas memberikan nasihat…"
+    },
+    {
+      "id": 105,
+      "model": "그레고르",
+      "content": "Lagian, tunggu dulu, apa lu pernah memasak sebelumnya, Ryōshū?"
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "Jelas. Gue sudah meracik berbagai hidangan di tingkat yang tidak berani lu bayangkan sebagai koki ecek-ecek."
+    },
+    {
+      "id": 107,
+      "model": "그레고르",
+      "content": "Oke, sekarang gue mulai marah…"
+    },
+    {
+      "id": 108,
+      "model": "로쟈",
+      "content": "Mari kita lihat, kalau begitu… Aku ada di pihak Shū!"
+    },
+    {
+      "id": 109,
+      "model": "그레고르",
+      "content": "Kenapa sekarang kita malah berpisah jadi tim-timan?"
+    },
+    {
+      "id": 110,
+      "model": "로쟈",
+      "content": "Ahaha, maksudku, ini kan seru~"
+    },
+    {
+      "id": 111,
+      "model": "그레고르",
+      "content": "Lalu kenapa lu malah memihak padanya?"
+    },
+    {
+      "id": 112,
+      "model": "로쟈",
+      "content": "Greg, sayang, kita sudah terlalu lama terjebak berdekatan. Bagaimana kalau kita coba sedikit menjaga jarak untuk hari ini saja?"
+    },
+    {
+      "id": 113,
+      "content": "Heathcliff, setelah menepis rasa pusingnya, berjalan ke sisi Gregor."
+    },
+    {
+      "id": 114,
+      "model": "히스클리프",
+      "content": "Jadi kita menang kalau kita ngehajar dia sampai babak belur, kan?"
+    },
+    {
+      "id": 115,
+      "model": "그레고르",
+      "content": "Bukan bukan, kita nggak lagi ngancurin siapa-siapa pakai kekerasan…"
+    },
+    {
+      "id": 116,
+      "model": "오티스",
+      "content": "Kau mengakui memberi makan anak buahmu makanan kaleng? Kau adalah aib bagi seorang prajurit. Sebagai referensimu, aku jauh lebih suka makanan instan."
+    },
+    {
+      "id": 117,
+      "model": "그레고르",
+      "content": "Referensi itu cuma preferensi pribadi!"
+    },
+    {
+      "id": 118,
+      "model": "이스마엘",
+      "content": "Ini benar-benar kekanakan. Apa kalian benar-benar mau memihak cuma gara-gara ini?"
+    },
+    {
+      "id": 119,
+      "model": "로쟈",
+      "content": "Beri tahu kami, kenapa kau tidak memberi tahu kami? Kau ada di pihak mana, Ishy? Kalau kau harus memilih antara Greg dan Ryōshū untuk menyajikan makanan buat kita para <ruby=Pendosa>Sinner</ruby>…"
+    },
+    {
+      "id": 120,
+      "model": "그레고르",
+      "content": "Jangan coba-coba merayunya. gue tahu Ishmael dan gue sudah sangat akrab sejak awal."
+    },
+    {
+      "id": 121,
+      "content": "Meskipun Gregor tampak percaya diri, wajah dan postur Ishmael menunjukkan kecanggungan."
+    },
+    {
+      "id": 122,
+      "model": "그레고르",
+      "content": "I—Ishmael…?"
+    },
+    {
+      "id": 123,
+      "model": "이스마엘",
+      "content": "Maaf, Gregor, tapi kalau kita membicarakan makanan kaleng… Aku sudah makan lebih dari yang kuinginkan selama di kapal…"
+    },
+    {
+      "id": 124,
+      "model": "그레고르",
+      "content": "Ayolah, kenapa kau tidak mau menatap mata ku, Ishmael? Eh?"
+    },
+    {
+      "id": 125,
+      "content": "Ishmael mengambil beberapa langkah lamban ke belakang untuk berdiri di sebelah Ryōshū."
+    },
+    {
+      "id": 126,
+      "content": "Matanya tidak pernah menatap ke atas untuk melihat Gregor."
+    },
+    {
+      "id": 127,
+      "model": "그레고르",
+      "content": "……"
+    },
+    {
+      "id": 128,
+      "model": "료슈",
+      "content": "Heh."
+    },
+    {
+      "id": 129,
+      "content": "Meskipun sedari awal memang tidak banyak kedekatan di antara mereka… Aku bisa mendengar sedikit ikatan kepercayaan yang ada di antara keduanya hancur berantakan."
+    },
+    {
+      "id": 130,
+      "content": "Don Quixote sudah menempelkan dirinya ke punggung Gregor sebelum aku menyadarinya. Wajahnya pucat."
+    },
+    {
+      "id": 131,
+      "model": "돈키호테",
+      "content": "S—Sejujurnya, sewaktu kita sedang berpesta sate ayam di dalam bus… <ruby=Aku>Hamba</ruby>… menjadi saksi… atas perbuatan wanita itu yang paling mengerikan…"
+    },
+    {
+      "id": 132,
+      "model": "그레고르",
+      "content": "Apa yang dia lakukan sama sate ayamnya?"
+    },
+    {
+      "id": 133,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby>— Itu… Tidak, <ruby=Aku>Hamba</ruby> tidak sanggup… mulai mengungkapkannya dengan kata-kata…"
+    },
+    {
+      "id": 134,
+      "model": "료슈",
+      "content": "Ahh, yah, yah… Kau melihatnya, ya? Huhu, itu adalah teknik rahasiaku untuk mengeluarkan cita rasa pamungkas dari dak-kkochi itu…"
+    },
+    {
+      "id": 135,
+      "content": "Don Quixote gemetar hebat."
+    },
+    {
+      "id": 136,
+      "content": "Segera setelahnya, Hong Lu pergi ke sisi Gregor dengan binar di matanya."
+    },
+    {
+      "id": 137,
+      "model": "홍루",
+      "content": "Hoho, bakal jadi pengalaman unik bisa nyobain masakan yang setara dengan makanan hewan peliharaan sekali seumur hidupku, kan? Aku akan mendukungmu, Gregor!"
+    },
+    {
+      "id": 138,
+      "model": "그레고르",
+      "content": "Eh, iya. Terima kasih banyak, Hong Lu…"
+    },
+    {
+      "id": 139,
+      "content": "Hong Lu berdiri di belakang Gregor, dengan senyum ramah terukir di wajahnya."
+    },
+    {
+      "id": 140,
+      "model": "그레고르",
+      "content": "Faust! Setidaknya dari semua orang, aku bisa mengandalkan kau untuk membuat pilihan yang rasional, kan?"
+    },
+    {
+      "id": 141,
+      "model": "파우스트",
+      "content": "Entahlah, karena Faust… terkadang juga bisa menikmati usaha yang berisiko dari waktu ke waktu."
+    },
+    {
+      "id": 142,
+      "content": "Dengan pernyataan mendalam itu, Faust mengambil tempat di belakang Ryōshū."
+    },
+    {
+      "id": 143,
+      "model": "싱클레어",
+      "content": "Aku benar-benar tidak paham… Kenapa kita memisahkan kelompok kita jadi tim yang saling berlawanan?"
+    },
+    {
+      "id": 144,
+      "model": "료슈",
+      "content": "Hei, A.K.I.N.K.N Pilih cara buat bertahan hidup atau enyah sana."
+    },
+    {
+      "id": 145,
+      "model": "싱클레어",
+      "content": "A… Ayunkan keraguan itu nggak keren, nak…?! K—Kalau begitu…"
+    },
+    {
+      "id": 146,
+      "model": "단테",
+      "content": "<Sinclair… Kau mungkin sudah terhubung secara spiritual dengan Ryōshū pada titik ini.>"
+    },
+    {
+      "id": 147,
+      "content": "Perkataan kejam Ryōshū membuat Sinclair melangkah gontai ke sisinya."
+    },
+    {
+      "id": 148,
+      "model": "그레고르",
+      "content": "Bukannya nggak adil ngancam dia buat gabung sama lu? Itu curang namanya!"
+    },
+    {
+      "id": 149,
+      "model": "이상",
+      "content": "……"
+    },
+    {
+      "id": 150,
+      "model": "이상",
+      "content": "Aku tidak akan memilih, dan sebaliknya, aku dengan rendah hati menanti pilihan kalian."
+    },
+    {
+      "id": 151,
+      "model": "료슈",
+      "content": "Nggak butuh. Ambil sana."
+    },
+    {
+      "id": 152,
+      "model": "이상",
+      "content": "……"
+    },
+    {
+      "id": 153,
+      "content": "Yi Sang ditempatkan di tim Gregor tanpa dia menggerakkan seotot pun."
+    },
+    {
+      "id": 154,
+      "content": "Terakhir, Meursault dengan tenang berdiri di belakang Gregor."
+    },
+    {
+      "id": 155,
+      "model": "그레고르",
+      "content": "M-Meursault…"
+    },
+    {
+      "id": 156,
+      "model": "그레고르",
+      "content": "Gue sedikit terharu. Gue tahu kita nggak pernah ngobrol banyak, tapi lu tetap memutuskan buat datang dan berdiri di sisi gue di saat gue butuh, gue sangat—"
+    },
+    {
+      "id": 157,
+      "model": "뫼르소",
+      "content": "Aku hanya melakukannya karena bergabung dengan tim yang anggotanya lebih sedikit akan menyeimbangkan jumlahnya."
+    },
+    {
+      "id": 158,
+      "content": "Beberapa akan bersaksi bahwa mereka melihat air mata menggenang di mata Gregor pada saat itu."
+    },
+    {
+      "id": 159,
+      "content": "Dengan tim yang sudah ditentukan, kami memasuki dapur Eunbong's, mencari tempat yang cocok untuk memasak."
+    },
+    {
+      "id": 160,
+      "content": "Dapur itu telah lama terbengkalai dan berantakan dengan sisa-sisa amukan unggas."
+    },
+    {
+      "id": 161,
+      "content": "Meskipun begitu, Ryōshū dan Gregor menendang piring dan peralatan berserakan dari jalan mereka seolah itu bukan urusan mereka, lalu mengambil tempat masing-masing."
+    },
+    {
+      "id": 162,
+      "model": "단테",
+      "content": "<Tunggu, apa kita boleh melakukan semua ini di restoran orang lain?>"
+    },
+    {
+      "id": 163,
+      "model": "료슈",
+      "content": "Ini R.Y.A.M, jadi buat apa peduli."
+    },
+    {
+      "id": 164,
+      "model": "싱클레어",
+      "content": "Kau nggak bisa menyebutnya restoran yang akan mati—kita ini lagi mencoba bantu!"
+    },
+    {
+      "id": 165,
+      "model": "그레고르",
+      "content": "Ya. Tujuan kita kan membereskan Distorsi itu, iya kan?"
+    },
+    {
+      "id": 166,
+      "model": "뒤틀린닭1",
+      "teller": "Ayam Mentah",
+      "title": "Makhluk Terdistorsi",
+      "content": "Bwabawkbawkbawk!!!"
+    },
+    {
+      "id": 167,
+      "content": "Kawanan ayam yang marah mengepakkan sayap untuk mengintimidasi penyusup yang datang tiba-tiba itu, namun yang membuat mereka kecewa…"
+    },
+    {
+      "id": 168,
+      "model": "그렉료슈",
+      "teller": "Gregor & Ryōshū",
+      "title": "Sinner",
+      "content": "Halangi jalanku dan kalian semua bakal dipotong-potong!\nHalangi jalanku dan kalian semua bakal disayat habis!"
+    },
+    {
+      "id": 169,
+      "model": "단테",
+      "content": "<Kalian sekarang kelihatan lebih seirama…>"
+    }
+  ]
+}
