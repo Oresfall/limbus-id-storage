@@ -1,0 +1,108 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Tengah Sebuah Gang",
+      "model": "싱클레어",
+      "content": "Saat aku sadar, aku mendapati diriku berada di sebuah gang pada tengah hari, tersengat oleh panas matahari."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Aku tetap terdiam di tanah, linglung dan kebingungan."
+    },
+    {
+      "id": 2,
+      "model": "싱클레어",
+      "content": "Aku bisa melihat kabut panas menguap dari permukaan tanah."
+    },
+    {
+      "id": 3,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Sinclair. Sebuah retakan telah tercipta di duniamu."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Aku merasa seperti mulai memahami apa sebenarnya perasaan aneh yang sering kudapatkan dari Demian."
+    },
+    {
+      "id": 5,
+      "model": "싱클레어",
+      "content": "Aku selalu merasa aneh bagaimana aku tidak pernah mendengar langkah kakinya."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Kenapa semuanya tiba dalam keheningan yang sunyi seolah-olah hal itu sama sekali bukan milik dunia mana pun?"
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Kehilangan keluargaku, dunia kejahatan, semua keputusasaan ini…"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Dan kau juga."
+    },
+    {
+      "id": 9,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Apa kau takut, Sinclair?"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Dia berbicara padaku."
+    },
+    {
+      "id": 11,
+      "model": "싱클레어",
+      "content": "Dia memiliki sepasang mata seseorang yang bisa melihat tembus ke dalam segalanya, dan sikap seseorang yang telah memprediksi serangkaian kejadian ini."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Dia bahkan tidak menungguku untuk membalas, seolah dia sudah tahu apa yang akan kukatakan."
+    },
+    {
+      "id": 13,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Suatu hari, kau akan menghancurkannya sepenuhnya dan melambung tinggi."
+    },
+    {
+      "id": 14,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Dan aku… ingin melihatmu terbuka seutuhnya."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Dia merespons seolah-olah dia sudah tahu jawaban yang sedang kuragukan."
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "Meskipun kata-katanya seolah memancarkan kehangatan…"
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Aku merasakan hawa dingin tertentu, seperti menggigit bagian dalam kalkun setengah matang yang dingin…"
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "Aku tak bisa menahan diri untuk tidak jatuh pingsan lagi."
+    }
+  ]
+}
