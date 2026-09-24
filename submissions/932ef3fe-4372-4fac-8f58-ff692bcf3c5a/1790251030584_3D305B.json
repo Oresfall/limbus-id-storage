@@ -1,0 +1,99 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Jadi pada akhirnya kau memberikan kuncinya pada Kromer."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Bagaimana kau bisa tahu?"
+    },
+    {
+      "id": 2,
+      "model": "싱클레어",
+      "content": "Demian punya kemampuan untuk menangkap hal-hal yang tak pernah kuceritakan padanya."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Saat aku menanyakannya, dia hanya bilang itu adalah “sesuatu yang kau pelajari dengan mengamati orang lain secara saksama”, dan tidak menjelaskannya lebih lanjut."
+    },
+    {
+      "id": 4,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Sinclair, serangkaian kejadian yang jauh lebih menyakitkan mungkin menunggumu di masa depan."
+    },
+    {
+      "id": 5,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Tapi kau tak boleh menyerah."
+    },
+    {
+      "id": 6,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Rasa sakit itu akan mendorong pertumbuhanmu menjadi makhluk yang indah."
+    },
+    {
+      "id": 7,
+      "model": "싱클레어",
+      "content": "Seberat dan serumit apa pun pernyataan-pernyataan itu terdengar, pesona mistis Demian membuat semuanya terdengar meyakinkan."
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Mendengarkan perkataannya memberiku harapan bahwa aku benar-benar bisa berkembang. Aku berharap bahwa aku bisa menjadi makhluk yang berharga."
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "Ya… Tapi aku nggak terlalu paham maksudnya, Demian."
+    },
+    {
+      "id": 10,
+      "model": "학생데미안",
+      "teller": "Demian",
+      "title": "Murid Pindahan Misterius",
+      "content": "Tugasmu adalah untuk mencari tahunya. Pastikan kau memberitahuku jawabanmu kalau kau sudah menemukannya."
+    },
+    {
+      "id": 11,
+      "model": "싱클레어",
+      "content": "Suaranya lembut, dan matanya memancarkan kehangatan, tapi aku tetap merasa terdorong untuk melakukan apa yang dia katakan."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Matanya pasti memiliki semacam kekuatan."
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "Melucuti pertahanan mereka yang bertatapan dengannya, menguras kekuatan mental mereka."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Tapi…"
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "Kalau memang begitu, kenapa dia tidak memperingatkanku?"
+    },
+    {
+      "id": 17,
+      "model": "싱클레어",
+      "content": "Itu adalah sesuatu yang masih kutanyakan pada diriku sendiri sampai hari ini."
+    }
+  ]
+}
