@@ -1,0 +1,57 @@
+{
+  "datalist": [
+    {
+      "id": "PersonalityCharge",
+      "name": "Identitas Charge",
+      "desc": "Identitas yang memiliki Skill Serangan Dasar yang memberi, memperoleh, atau mengonsumsi Charge atau Charge Unik",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargeKhakiAlly",
+      "name": "Inersia Kain Bergeser",
+      "desc": "- Count Maks: 20\n- Charge Unik\n- Berinteraksi sama seperti Charge normal pada efek yang menambah atau mengurangi Potency dan Count Charge\n- Akhir Giliran: Kehilangan 1 Count\n\n<color=#1aece7>Jumlah Count yang Dikonsumsi: {2}</color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Mereka yang terbawa arus bak pelampung mungkin tak dapat mengubah arus, namun mereka masih dapat mendukung arus dan berkomitmen pada tindakan mereka."
+    },
+    {
+      "id": "NoirScissorAlly",
+      "name": "Tanda Pencukuran",
+      "desc": "- Stack Maks: 4\n- Ketika target yang memiliki efek ini dikalahkan, unit yang memberikan efek ini memulihkan 5 SP dan memperoleh 1 Offense Level Up giliran berikutnya (3 kali per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tanda pemotongan yang digunakan untuk memotong kain dan bahan lain sesuai ukuran yang diperlukan."
+    },
+    {
+      "id": "NoirScissorCut",
+      "name": "Blossom Scissors",
+      "desc": "- Stack Maks: 2\n- Beri +7% damage untuk setiap Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Gunting yang digunakan untuk memotong material primordial yang dihasilkan di bawah tanah memiliki ukuran lebih besar dan lebih luar biasa. Gunting ini telah memotong kain pertama yang pernah ditenun. Bunga yang mekar darinya adalah hal yang wajar, karena mereka selalu memotong segala sesuatunya sampai ke akar-akarnya."
+    },
+    {
+      "id": "SupportAlly",
+      "name": "Dualitas",
+      "desc": "Skill dapat target Identitas kawan\nSetelah auto-target Skill, atau pada Pertemuan Biasa, prioritaskan kawan dengan Urutan Pengerahan ter-awal\n- Jika target adalah kawan, Skill tidak akan menyerang, dan tidak mengaktifkan Skill Defense (termasuk Skill Defense Dapat Clash)\nJika target adalah kawan, aktifkan Skill ini pada Awal Pertempuran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportEnemy",
+      "name": "Dualitas",
+      "desc": "Skill dapat target kawan\nSetelah auto-target Skill, atau pada Pertemuan Biasa, target kawan acak\n- Jika target adalah kawan, Skill tidak akan menyerang, dan tidak mengaktifkan Skill Defense (termasuk Skill Defense Dapat Clash)\nJika target adalah kawan, aktifkan Skill ini pada Awal Pertempuran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoirScissorShield",
+      "name": "Kedua adalah Potongan-selamat datang",
+      "desc": "- Stack Maks: 1\n- Offense Level +3, Defense Level +3\n- Pada Penggunaan Skill, pulihkan 5 SP jika unit ini adalah Identitas Charge (sekali per giliran)\n- Pada Serangan Skill Dasar, beri Slash damage setara dengan 5% dari damage akhir tiap Coin\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sepasang gunting menjadi satu dari dua bilah, dan menjadi dua dari yang tadinya satu."
+    }
+  ]
+}
