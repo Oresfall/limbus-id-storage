@@ -1,0 +1,571 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bukit Mayat yang Tak Berujung",
+      "model": "싱클레어",
+      "content": "D… Demian…"
+    },
+    {
+      "id": 1,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Kau telah mengubah takdirmu sendiri, Sinclair."
+    },
+    {
+      "id": 2,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Saat ini, kau bukanlah seorang pengecut maupun pahlawan. Tapi kau masih belum sepenuhnya melepaskan ketakutanmu."
+    },
+    {
+      "id": 3,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Aku sudah pernah mengatakannya, kan? “Saat kau takut pada seseorang…”"
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "“Itu karena… kau memberi mereka kekuatan untuk mengendalikan dirimu…”"
+    },
+    {
+      "id": 5,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Benar sekali. Dan aku… tak ingin ada orang lain yang mendominasimu."
+    },
+    {
+      "id": 6,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Itulah sebabnya aku menyingkirkan Kromer."
+    },
+    {
+      "id": 7,
+      "content": "Pria yang dipanggil Demian itu kemudian mulai melangkah. Dia mengambil langkah ringan seolah sedang memulai perjalanan santai."
+    },
+    {
+      "id": 8,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Dunia ini akan menuju kelahiran yang baru. Dan, hanya segelintir orang yang bisa mencapainya."
+    },
+    {
+      "id": 9,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Sinclair, kau adalah salah satu dari mereka."
+    },
+    {
+      "id": 10,
+      "content": "Sinclair pingsan sebelum dia bisa menjawab…"
+    },
+    {
+      "id": 11,
+      "content": "Demian perlahan berjalan menghampiriku."
+    },
+    {
+      "id": 12,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Kromer… mencoba menjadi sesosok dewa, seperti dewa-dewa yang kabarnya dipercayai oleh orang-orang di masa lalu. Sinclair nyaris menjadi batu loncatannya."
+    },
+    {
+      "id": 13,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Meskipun pada akhirnya, seseorang harus memecahkan telurnya sendiri."
+    },
+    {
+      "id": 14,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Kromer mengerahkan cukup banyak tenaga, melakukan ini dan itu untuk menciptakan reka ulang dari saat Sinclair kehilangan koin pertamanya."
+    },
+    {
+      "id": 15,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Terlepas dari fakta bahwa hari Natal sebenarnya masih lama…"
+    },
+    {
+      "id": 16,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Sangat ironis bahwa mereka malah beralih menciptakan ilusi palsu, sesuatu yang sangat mereka benci. Tidakkah kau berpikir begitu?"
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<Apa yang kamu bicarakan? Siapa kamu?>"
+    },
+    {
+      "id": 18,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Senang bertemu denganmu, Dante."
+    },
+    {
+      "id": 19,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Jadi, kau adalah orang dewasa yang akan membimbing Sinclair saat ini."
+    },
+    {
+      "id": 20,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Mengenai siapa diriku…"
+    },
+    {
+      "id": 21,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Dan tentang apa yang kubicarakan tadi; kau akan melihatnya pada saatnya nanti."
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<…?!>"
+    },
+    {
+      "id": 23,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Saat Sinclair melambung dengan keyakinan yang tak tergoyahkan akan kekuatan hati…"
+    },
+    {
+      "id": 24,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Benar. Saat dia menjadi satu dengan bintang-bintang yang indah…"
+    },
+    {
+      "id": 25,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "…Saat itulah aku akan kembali."
+    },
+    {
+      "id": 26,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Tolong jaga Sinclair baik-baik sampai saat itu tiba, Dante."
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<Kamu… Kamu bisa dengar suaraku?>"
+    },
+    {
+      "id": 28,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Aku bisa mendengar segala macam kicauan dan nyanyian burung, Dante. Sudah sewajarnya aku bisa mendengar suaramu."
+    },
+    {
+      "id": 29,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Seperti biasa…"
+    },
+    {
+      "id": 30,
+      "model": "데미안",
+      "teller": "Demian",
+      "title": "???",
+      "content": "Hal yang paling penting adalah sesuatu yang tak bisa kau lihat maupun dengar."
+    },
+    {
+      "id": 31,
+      "content": "Bocah bersyal biru itu lenyap tanpa disadari…"
+    },
+    {
+      "id": 32,
+      "content": "Setelah itu, tumpukan-tumpukan bukit mayat itu mulai mencair."
+    },
+    {
+      "id": 33,
+      "content": "Mereka larut menjadi campuran daging dan lumpur."
+    },
+    {
+      "id": 34,
+      "content": "Seiring hilangnya mereka, satu <ruby=Ranting Emas>Golden Bough</ruby> muncul di hadapanku, memancarkan cahaya hangatnya."
+    },
+    {
+      "id": 35,
+      "content": "Dunia Sinclair perlahan meleleh bersama bukit-bukit itu."
+    },
+    {
+      "id": 36,
+      "content": "Dengan susah payah aku menyeret sisa tubuh bagian atasku menyeberangi lantai untuk mencapai Sinclair."
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "……"
+    },
+    {
+      "id": 38,
+      "content": "Dia masih bernapas."
+    },
+    {
+      "id": 39,
+      "content": "Dan aku juga; kurasa aku masih sanggup memutar jam ini."
+    },
+    {
+      "id": 40,
+      "content": "Itu artinya aku masih manajer mereka, dan aku harus bertindak layaknya seorang manajer."
+    },
+    {
+      "id": 41,
+      "content": "Ditambah lagi, seperti yang kupelajari di saat-saat menjelang ajalku…"
+    },
+    {
+      "id": 42,
+      "content": "Aku harus berusaha untuk menjadi manajer yang lebih peka."
+    },
+    {
+      "id": 43,
+      "content": "Dengan semua itu, aku harus memberitahunya…"
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Ini mungkin memang salahmu, Sinclair.>"
+    },
+    {
+      "id": 45,
+      "model": "단테",
+      "content": "<Tapi nggak apa-apa, sungguh… Ini cuma satu kesalahan kecil—kesalahan yang bisa dilakukan siapa saja.>"
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Jangan terlalu menyalahkan dirimu sendiri karena hal itu.>"
+    },
+    {
+      "id": 47,
+      "content": "Aku menepuk punggungnya dengan lengan kananku yang setengah meleleh."
+    },
+    {
+      "id": 48,
+      "content": "Sinclair tidak menjawab."
+    },
+    {
+      "id": 49,
+      "content": "Sejujurnya, mencoba mencari seseorang untuk disalahkan atas semua ini akan menjadi upaya yang tak ada habisnya."
+    },
+    {
+      "id": 50,
+      "content": "Mulai dari masing-masing dari kami yang pergi dan membawa dosa-dosa kami ke dalam bus."
+    },
+    {
+      "id": 51,
+      "content": "Sampai kehilangan kepala dan ingatanku, diiringi dengan penunjukan paksa sebagai manajer eksekutif."
+    },
+    {
+      "id": 52,
+      "content": "…Di akar dari semua ini, mungkin tak ada yang bisa kusalahkan selain diriku sendiri."
+    },
+    {
+      "id": 53,
+      "content": "Namun, membiarkan diri kita terus terikat oleh fakta itu hanya akan menahan kami untuk mengambil langkah maju selanjutnya."
+    },
+    {
+      "id": 54,
+      "teller": "???",
+      "title": "???",
+      "content": "…Kami menemukan mereka!"
+    },
+    {
+      "id": 55,
+      "content": "Aku bisa mendengar beberapa langkah kaki mendekati tim kami yang lumpuh total."
+    },
+    {
+      "id": 56,
+      "content": "…Vergilius pasti sudah menebak kami bakal kacau balau dan memanggil Tim After untuk memungut kami dari lantai."
+    },
+    {
+      "id": 57,
+      "teller": "???",
+      "title": "LCCA",
+      "content": "Sepertinya ini individu yang kita cari. Apa kusuntikkan sekarang?"
+    },
+    {
+      "id": 58,
+      "teller": "???",
+      "title": "LCCA",
+      "content": "Yang lainnya bisa dihidupkan kembali selama yang satu ini masih hidup. Fokuskan semua sumber daya untuk memulihkan tubuhnya."
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Hrk…?!>"
+    },
+    {
+      "id": 60,
+      "content": "Aku merasakan tusukan di bahuku, dan kemudian sensasi aneh menyelimuti bagian tubuhku yang telah meleleh."
+    },
+    {
+      "id": 61,
+      "teller": "???",
+      "title": "LCCA",
+      "content": "Kita diberikan tiga ampul HP. Apa kugunakan ketiganya pada mereka?"
+    },
+    {
+      "id": 62,
+      "teller": "???",
+      "title": "LCCA",
+      "content": "Awasi proses regenerasinya dan gunakan sesuai penilaianmu."
+    },
+    {
+      "id": 63,
+      "teller": "???",
+      "title": "LCCA",
+      "content": "Dasar para benalu beruntung… Mereka bergelimang kemewahan berkat adanya <ruby=Warna>Color</ruby> di tim mereka—yang kebetulan juga punya teman di K Corp…"
+    },
+    {
+      "id": 64,
+      "teller": "???",
+      "title": "LCCA",
+      "content": "…ksi …firmasi. Tambah…"
+    },
+    {
+      "id": 65,
+      "content": "Suara-suara di sekitarku mulai memudar."
+    },
+    {
+      "id": 66,
+      "content": "Ratapan tangis Sinclair bergema samar melintasi kehampaan."
+    },
+    {
+      "id": 67,
+      "content": "Misi ketiga kami menandai akhirnya yang muram dalam kekalahan yang menyedihkan."
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69,
+      "place": "Di dalam Mephistopheles",
+      "content": "Meskipun kami berhasil mendapatkan kembali <ruby=Ranting Emas>Golden Bough</ruby>, kami kalah."
+    },
+    {
+      "id": 70,
+      "content": "Di sisi lain, bus terasa lebih hidup dari biasanya, mungkin karena usaha semua orang untuk mencoba mengabaikan hasil yang membuat depresi itu."
+    },
+    {
+      "id": 71,
+      "model": "베르길리우스",
+      "content": "Aku membeli kebab ayam yang cukup untuk kalian masing-masing, jadi kalau ada yang nggak kebagian, silakan pasang topi detektif kalian dan cari tahu sendiri."
+    },
+    {
+      "id": 72,
+      "model": "홍루",
+      "content": "Masakan yang sangat membuat penasaran. Apa tujuan dari menusuk daging ayam dengan sebatang tongkat?"
+    },
+    {
+      "id": 73,
+      "model": "이상",
+      "content": "Aku rasa aku familier dengan hidangan semacam ini… sejenis kkochi dari varietas dak."
+    },
+    {
+      "id": 74,
+      "model": "카론",
+      "content": "Bau yang manis. Bau yang disukai Mephi."
+    },
+    {
+      "id": 75,
+      "content": "Terdorong oleh itu, Charon menderu mesinnya."
+    },
+    {
+      "id": 76,
+      "content": "Charon sedang menggumamkan nada familier lainnya. Aku bisa mengenali lagunya kali ini."
+    },
+    {
+      "id": 77,
+      "model": "그레고르",
+      "content": "Charon, bukankah Natal masih lama?"
+    },
+    {
+      "id": 78,
+      "model": "카론",
+      "content": "Jangan merusak kesenangan Charon, Manusia Serangga."
+    },
+    {
+      "id": 79,
+      "model": "카론",
+      "content": "Kalau Charon merasa ini hari Natal, ya berarti ini hari Natal."
+    },
+    {
+      "id": 80,
+      "model": "그레고르",
+      "content": "Ta— Ayolah, tumben-tumbenan gue manggil pakai nama lu!"
+    },
+    {
+      "id": 81,
+      "model": "로쟈",
+      "content": "Yah, gimana kalau lu impasin aja dengan manggil dia \"cewek bus\"~ Lu tau kan, impas dan semacamnya?"
+    },
+    {
+      "id": 82,
+      "model": "그레고르",
+      "content": "Grrr…"
+    },
+    {
+      "id": 83,
+      "model": "베르길리우스",
+      "content": "……"
+    },
+    {
+      "id": 84,
+      "content": "Vergilius mengawasi kejadian itu berlangsung, membiarkan makanannya mendingin dan nyaris tidak menyentuhnya sedikit pun meskipun dialah yang membeli semuanya."
+    },
+    {
+      "id": 85,
+      "content": "Mungkin dia terdiam karena nyanyian Charon."
+    },
+    {
+      "id": 86,
+      "content": "Teringat kembali bahwa dia pernah mengatakan gadis itu sedang melewati sebuah terowongan."
+    },
+    {
+      "id": 87,
+      "content": "Dan kemudian…"
+    },
+    {
+      "id": 88,
+      "content": "Aku mengalihkan pandanganku pada Sinclair, yang sedang tertawa canggung di antara para <ruby=Pendosa>Sinner</ruby> lainnya."
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<Kalau kita sedang melewati terowongan yang panjang…>"
+    },
+    {
+      "id": 90,
+      "model": "단테",
+      "content": "<Maka yang kita lakukan adalah menunggu pagi tiba, kan?>"
+    },
+    {
+      "id": 91,
+      "model": "베르길리우스",
+      "content": "……"
+    },
+    {
+      "id": 92,
+      "model": "로쟈",
+      "content": "Ahahaha! Tadi itu soal apaan, Dante? Berhenti bikin puisi konyol dan makan kebabnya! Sini! Buka mulutnya~ aah~"
+    },
+    {
+      "id": 93,
+      "model": "뫼르소",
+      "content": "Manajer kita tidak punya mulut."
+    },
+    {
+      "id": 94,
+      "model": "오티스",
+      "content": "Manajer eksekutif tidak butuh mulut karena beliau sangat mampu memerintah kita tanpa mengucapkan sepatah kata pun. Ingat baik-baik."
+    },
+    {
+      "id": 95,
+      "model": "이스마엘",
+      "content": "Astaga… Apa lu nggak pernah capek ngejilat sepatunya sampai bersih banget gitu, Outis?"
+    },
+    {
+      "id": 96,
+      "model": "히스클리프",
+      "content": "Woi! …Masih ada makanan ginian nggak? Mantap abis nih."
+    },
+    {
+      "id": 97,
+      "model": "료슈",
+      "content": "Oi, MS. Bagi api."
+    },
+    {
+      "id": 98,
+      "model": "그레고르",
+      "content": "…Lu pikir gue nggak tau itu singkatan dari apaan?"
+    },
+    {
+      "id": 99,
+      "content": "Aku sempat berpikir untuk memberikan pidato pada para <ruby=Pendosa>Sinner</ruby> tentang bagaimana misi yang membuahkan hasil namun tak sukses ini mengubah pola pikirku…"
+    },
+    {
+      "id": 100,
+      "content": "Tapi aku segera mengurungkan ide itu."
+    },
+    {
+      "id": 101,
+      "content": "Lagipula, aku sudah menyuruh Sinclair untuk tidak membiarkan kegagalan sesaat menahannya."
+    },
+    {
+      "id": 102,
+      "content": "Sebaliknya, aku memutuskan untuk menebus hasil yang kurang ideal ini di misi kami selanjutnya."
+    },
+    {
+      "id": 103,
+      "model": "돈키호테",
+      "content": "Bolehkah... <ruby=aku>hamba</ruby> meminta perhatian Anda, Merah— Maksud <ruby=aku>hamba</ruby>, Tuan Vergilius."
+    },
+    {
+      "id": 104,
+      "model": "베르길리우스",
+      "content": "Apa."
+    },
+    {
+      "id": 105,
+      "model": "돈키호테",
+      "content": "<ruby=Aku>Hamba</ruby> yakin <ruby=aku>hamba</ruby> telah bertindak dengan cukup hati-hati seperti yang telah Anda peringatkan..."
+    },
+    {
+      "id": 106,
+      "model": "돈키호테",
+      "content": "Oleh karena itu... jika diperbolehkan, maukah Anda mengizinkan <ruby=aku>hamba</ruby> untuk mengambil satu tusuk sate ini?"
+    },
+    {
+      "id": 107,
+      "model": "베르길리우스",
+      "content": "…Ambil saja."
+    },
+    {
+      "id": 108,
+      "content": "Sementara sorak sorai kegembiraan Don Quixote menambah lapisan semangat di dalam bus yang sudah ramai ini…"
+    },
+    {
+      "id": 109,
+      "content": "Pesan yang tak bisa kuucapkan—namun aku yakin telah tersampaikan dengan satu atau lain cara—tersebar di antara kami."
+    },
+    {
+      "id": 110,
+      "content": "…Dan dengan demikian, pagi pun tiba."
+    },
+    {
+      "id": 111
+    }
+  ]
+}
