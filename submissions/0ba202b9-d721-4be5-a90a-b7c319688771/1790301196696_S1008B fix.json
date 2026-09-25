@@ -1,0 +1,261 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Lorong, 3F",
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Ayolah, bukankah aku pantas mendapat sedikit antusiasme lebih dari ini? Mendengar suaraku itu suatu keistimewaan yang sangat langka, lho. Banyak orang di sini menghabiskan seluruh hidup mereka mencari Suara yang bisa mereka ikuti... hanya untuk menghilang sebelum mereka sempat mendengarnya.</color>"
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "Di mana sopan santunmu? Jelas sekali tidak ada yang mengajarkan padamu bahwa memperkenalkan diri adalah bentuk sopan santun paling dasar saat memulai percakapan."
+    },
+    {
+      "id": 2,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Aku tahu, sayang sekali. Seandainya kita bertemu di luar Grand Magasin Sisyphe, aku pasti akan mengajak kalian semua ke kafe lokal yang asyik ini untuk ngobrol.</color>"
+    },
+    {
+      "id": 3,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Namun, tidak seperti kamu, aku bukanlah pelanggan di Grand Magasin ini. Aku adalah salah satu dari yang disebut \"Raksasa\"—tiang-tiang penyangga yang membuat tempat ini tetap berdiri.</color>"
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "Salah satu dari \"Raksasa,\" kau bilang? Ini bukan pertama kalinya kami mendengar sebutan itu, setelah persidangan di gedung pengadilan."
+    },
+    {
+      "id": 5,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Kami adalah apa yang disebut oleh orang-orang di Grand Magasin sebagai “Suara-suara.” Pekerjaan yang berat, sungguh—operasi harian Grand Magasin sepenuhnya bergantung pada manajemen kami, para Raksasa. Kami bahkan tidak bisa mengambil cuti saat kami mau, yang pasti masih diingat dengan baik oleh Meursault. Benar, kan?</color>"
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "E-eh, maaf..."
+    },
+    {
+      "id": 7,
+      "content": "Sinclair dengan hati-hati ikut dalam percakapan itu."
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Apa sebenarnya yang kamu maksud saat bilang hubungan kalian berdua jadi... \"cukup panas\"?"
+    },
+    {
+      "id": 9,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Oh, terima kasih. Padahal aku mulai berpikir tidak ada yang akan bertanya.</color>"
+    },
+    {
+      "id": 10,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Maksudku benar-benar secara harfiah—jenis hubungan yang membara karena kerinduan timbal balik... yang hanya bisa dipadamkan oleh kepuasan sesaat. Kami tak pernah menyia-nyiakan sedetik pun untuk membuat suasana <i>panas</i> di antara kami berdua.</color>"
+    },
+    {
+      "id": 11,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Bukankah begitu, sayangku?</color>"
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "Kedengarannya seperti omong kosong. Pria bertubuh kekar seperti tembok itu tidak akan pernah melakukan hal yang tidak senonoh seperti itu—"
+    },
+    {
+      "id": 13,
+      "model": "뫼르소",
+      "content": "Dia benar."
+    },
+    {
+      "id": 14,
+      "model": "뫼르소",
+      "content": "Dulu kami pernah menjalin hubungan."
+    },
+    {
+      "id": 15,
+      "model": "오티스",
+      "content": "Kau <i>apa?</i>"
+    },
+    {
+      "id": 16,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Astaga. Kita sudah masuk ke fase “dulu” ya? Tak ada yang lebih menyakitkan hati seorang gadis daripada itu... Apalagi bagi seorang gadis yang langsung bergegas ke gedung pengadilan begitu mendengar kamu sudah kembali ke N Corp.</color>"
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<Kalau begitu, sosok yang kita lihat selama persidangan itu pasti...>"
+    },
+    {
+      "id": 18,
+      "content": "Tiba-tiba aku teringat tatapan yang sangat intens dari salah satu penonton—tatapan yang sama yang tertuju pada kami jauh lebih lama daripada tatapan yang lain."
+    },
+    {
+      "id": 19,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Kamu tahu bahwa memasuki wilayah N Corp. berarti menandatangani surat perintah eksekusi Sisyphe. Kamu tau itu, bukan?</color>"
+    },
+    {
+      "id": 20,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Tolong jangan bilang kamu tidak menduga hal ini akan terjadi. Atau kamu sama sekali tidak tahu betapa susahnya aku berusaha agar mereka tidak mengirimmu ke sini.</color>"
+    },
+    {
+      "id": 21,
+      "model": "뫼르소",
+      "content": "Ya, aku sudah menduga hasil seperti ini."
+    },
+    {
+      "id": 22,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Lalu... Tak mungkin, apa kamu <i>benar-benar</i> di sini untukku? Karena kamu kangen sama aku?</color>"
+    },
+    {
+      "id": 23,
+      "model": "뫼르소",
+      "content": "Engga."
+    },
+    {
+      "id": 24,
+      "content": "Meursault menjawab tanpa ragu-ragu. Jeanne mendesis kaget, lalu segera menenggelamkannya dengan tawa cekikikan seolah-olah dia baru saja mendengar lelucon yang sangat lucu."
+    },
+    {
+      "id": 25,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Inilah Meursault yang kita kenal dan sayangi, teman-teman. Padahal aku sempat bertanya-tanya apakah waktu yang dihabiskan bersama kalian telah membuatnya sedikit lebih lembut, walaupun hanya sedikit.</color>"
+    },
+    {
+      "id": 26,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Kebanyakan mantan kekasih setidaknya akan mengatakan bahwa mereka merindukanmu—sebagai bentuk sopan santun dasar yang biasanya ditunjukkan kepada mantan kekasih. Atau apakah aku terlalu berharap?</color>"
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "... Aku akan mengatakan sesuatu seperti itu lain kali."
+    },
+    {
+      "id": 28,
+      "model": "뫼르소",
+      "content": "Satu hal lagi. Aku juga tau kamu sudah melakukan segala hal yang bisa kamu lakukan untukku waktu itu."
+    },
+    {
+      "id": 29,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Pfft... Baiklah, setidaknya kamu sudah mencoba. Lagipula, itu tidak ada dalam kebiasaanmu untuk lupa.</color>"
+    },
+    {
+      "id": 30,
+      "model": "오티스",
+      "content": "Faktanya kamu dengan mudah melewatkan untuk menyebutkan bahwa mantan kekasihmu berada di posisi manajerial di sini di Grand Magasin, tidak masalah..."
+    },
+    {
+      "id": 31,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Serius? Kamu membuat teman baru tapi nggak ngomongin aku sama sekali? Sekarang itu tambah bikin hatiku sakit.</color>"
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "... kita tidak berencana terjebak di sini selamanya. Meskipun aku harus mengakui ada sedikit keraguan tentang kemungkinan kita lolos dari situasi ini, seseorang yang berada di posisi manajerial di Grand Magasin Sisyphe pasti akan sangat membantu tujuan kita. Apakah kamu tahu cara untuk membawa kita keluar dari sini, wanita?"
+    },
+    {
+      "id": 33,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Itu permintaan yang besar. Begitu besar sampai aku nggak yakin kalau aku bakal langsung bilang iya kalau Meursault yang minta bantuanku. Malah, kenapa nggak coba merengek? Tambahin sedikit emosi—tunjukin perasaanmu yang tulus.</color>"
+    },
+    {
+      "id": 34,
+      "model": "뫼르소",
+      "content": "Bolehkah aku mencoba sesuai petunjuk si wanita, Manajer?"
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<... Tentu, tidak ada salahnya mencoba...>"
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "Apakah kamu bisa mengarahkan kami ke pintu keluar, Jeanne?"
+    },
+    {
+      "id": 37,
+      "model": "뫼르소",
+      "content": "Aku mohon."
+    },
+    {
+      "id": 38,
+      "content": "Kekeringan murni akan—sebagaimana yang dia sebut—pelumas emosional itu seperti sesuatu yang keluar langsung dari rutinitas komedi yang konyol. Suara itu lagi-lagi tertawa geli, jelas terhibur."
+    },
+    {
+      "id": 39,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Haha... Mereka benar-benar memanfaatkanmu dengan baik, ya?</color>"
+    },
+    {
+      "id": 40,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Terima kasih atas penampilan yang mengharukan, tapi aku tidak bisa membiarkanmu pergi.</color>"
+    },
+    {
+      "id": 41,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Biar aku bantu kamu melihat permintaanmu dalam perspektif. Bayangkan aku adalah manajer tangki kutu, penuh dengan ratusan juta kutu yang terus-menerus diperbarui dengan masuknya kelompok baru. Lalu, suatu hari, aku diminta untuk menemukan dan mencubit satu kutu berwarna emas di antara banyak kutu yang hampir seperti berenang di lautan mereka sendiri, sementara kutu-kutu baru terus berdatangan. Itulah yang kamu minta dariku.</color>"
+    },
+    {
+      "id": 42,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Lagipula, aku seorang Raksasa, dan menjadi tanggung jawabku untuk mempertahankan keadaan di Grand Magasin Sisyphe. Aku akan berisiko mendapat Hukuman Sisyphe sendiri jika membantumu kabur.</color>"
+    },
+    {
+      "id": 43,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Hmm, tapi kupikir itu berarti aku bisa bersamamu selamanya di sini. Itu juga akhir yang bisa diterima.</color>"
+    },
+    {
+      "id": 44,
+      "model": "오티스",
+      "content": "Kehadiranmu nggak terlalu disambut, wanita. Kami nggak suka terus-menerus diawasi oleh matamu."
+    },
+    {
+      "id": 45,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Sejauh aku tergoda untuk melakukan itu, aku tidak bisa selalu mengawasimu. Mengurus pusat perbelanjaan itu berat, jadi kalian harus tahu.</color>"
+    },
+    {
+      "id": 46,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Jadi coba jangan terlalu kecewa karena aku tidak selalu ada di mana-mana. Ada banyak hal lain di Grand Magasin yang lebih membutuhkan perhatianku daripada kamu...</color>"
+    },
+    {
+      "id": 47,
+      "model": "싱클레어",
+      "content": "Kalau kamu nggak berniat membantu kita, atau bahkan mengawasi kita... kenapa kamu muncul untuk ngobrol dengan kita?"
+    },
+    {
+      "id": 48,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Cuaca di tempat ini cukup enak. Membuatku teringat kembali...</color>"
+    },
+    {
+      "id": 49,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Ingat Café de Flore? Minum kopi hitam pekat mereka selalu mengingatkanku padamu. Betapa pahit dan jelasnya semua itu, menyadari bahwa aku takkan pernah bisa melihatmu lagi.</color>"
+    },
+    {
+      "id": 50,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Dan apa yang kamu lakukan? Kembali ke N Corp. atas kehendakmu sendiri dan segera dapat hukuman seumur hidup di Grand Magasin Sisyphe.</color>"
+    },
+    {
+      "id": 51,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Apakah kamu benar-benar begitu terkejut karena aku begitu tertarik sampai pandanganku betah di sini?</color>"
+    }
+  ]
+}
