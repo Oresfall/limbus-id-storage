@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "DC-2022A",
+      "text": "Ekstrak"
+    },
+    {
+      "key": "DC-2022B",
+      "text": "Putar"
+    },
+    {
+      "key": "DC-2022C",
+      "text": "Warna"
+    },
+    {
+      "key": "DC-2022D",
+      "text": "Tekan sembarang"
+    },
+    {
+      "key": "DC-2244A",
+      "text": "Tidak ada barang untuk diberikan."
+    },
+    {
+      "key": "DC-2244B",
+      "text": "Kita kasih kamu gunting."
+    },
+    {
+      "key": "DC-2244C",
+      "text": "Kita kasih banyak bola mata."
+    }
+  ]
+}
