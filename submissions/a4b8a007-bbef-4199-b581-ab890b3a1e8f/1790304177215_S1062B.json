@@ -1,0 +1,45 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Tower Sisyphe, Ruangan seorang Raksasa",
+      "model": "잔느",
+      "content": "Mereka semua sudah nyaman dengan kemalasan. <i>Dipaku.</i>"
+    },
+    {
+      "id": 1,
+      "model": "잔느",
+      "content": "Hampir seperti... perabotan. Mati, benda tak bernyawa, menunggu selamanya untuk seseorang datang, menggunakannya, dan menghiasnya... seperti perabotan."
+    },
+    {
+      "id": 2,
+      "content": "Saat kata-kata itu terucap dari bibir Jeanne, sosok dan wujud orang-orang yang tergeletak di tanah tak berdaya mulai berubah bentuk di hadapan matanya."
+    },
+    {
+      "id": 3,
+      "content": "Mereka belum sepenuhnya berubah menjadi bentuk tidak manusiawi seperti perabotan di sini, tapi... aku mengenali potongan perabotan yang sedang mereka ubah. Beberapa berubah menjadi lampu... beberapa menjadi rangka tempat tidur..."
+    },
+    {
+      "id": 4,
+      "content": "Tidak, itu bukan \"bentuk\" mereka yang berubah."
+    },
+    {
+      "id": 5,
+      "content": "Mungkin, di mata Jeanne, mereka sudah terlihat begitu sejak saat mereka nyaman pada kemalasan."
+    },
+    {
+      "id": 6,
+      "content": "Begitu terasa asingnya, begitu jauh dari sosok manusia."
+    },
+    {
+      "id": 7,
+      "model": "잔느",
+      "content": "Kamu belum menghubungiku sama sekali hari ini. Pasti kamu sedang sibuk hari ini, sayangku."
+    },
+    {
+      "id": 8,
+      "model": "잔느",
+      "content": "... Mari kita lihat bagaimana keadaan di lantai satu. Sudah cukup banyak waktu berlalu hingga tren musim ini pun telah berganti...."
+    }
+  ]
+}
