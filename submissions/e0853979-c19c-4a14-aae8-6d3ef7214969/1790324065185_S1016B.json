@@ -1,0 +1,137 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Butik Rouge, 3F",
+      "model": "뫼르소",
+      "content": "... Kamu memakainya pada hari ketika kita makan pizza margherita di restoran di Donut Alley. Kamu memang mengeluh tentang masalah pencernaan karena ketidaknyamanan yang disebabkan oleh pakaian itu."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "Meskipun kamu lebih suka duduk di dekat jendela, masalah dengan sistem reservasi di restoran membuat kita duduk di tengah aula—yang juga kamu anggap disayangkan."
+    },
+    {
+      "id": 2,
+      "content": "<color=#a5ab8e>... Beberapa orang mungkin melihat sisi romantis sejati dalam dirimu. Seorang pria yang bisa menghidupkan kembali dan memberi warna pada seluruh hari hanya dari satu kata yang diucapkan oleh mantan kekasihnya—seolah itu terjadi kemarin. Seolah dia tidak bisa melupakan satu pun hal yang dilakukan saat bersamanya.</color>"
+    },
+    {
+      "id": 3,
+      "content": "<color=#a5ab8e>Tapi ingatanmu yang hebat hanyalah hasil logis dan mekanis dari latihan mnemonik masa kecil yang pernah kamu jalani.</color>"
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "content": "<color=#a5ab8e>Kamu salah. Bukan kursi dekat jendela yang bikin aku marah hari itu.</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#a5ab8e>Aku marah karena hal pertama yang kamu ucapkan ketika pertama kali melihat gaunku bahwa aku harus mengembalikannya dan mengganti dengan ukuran yang lebih besar.</color>"
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "Memang benar kamu perlu naik satu ukuran. Gaun itu terlalu ketat sehingga membuat berbagai kesulitan dalam aktivitas sehari-hari."
+    },
+    {
+      "id": 8,
+      "content": "<color=#a5ab8e>Benar, tapi apakah kamu <i>mengatakan</i> itu langsung kepadaku? Kamu bisa saja memuji gaunku dan lanjut saja.</color>"
+    },
+    {
+      "id": 9,
+      "content": "<color=#a5ab8e>Ngomong-ngomong, rasa tidak nyaman awalnya perlahan-lahan aku kesampingkan semakin lama aku mengenakan gaun itu.</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#a5ab8e>Tapi ketika aku ganti pakaian ke sesuatu yang lebih nyaman... Ketidaknyamanan yang menekan itu datang begitu saja, dan aku sadar, selama ini aku berjuang dengan pakaian yang sebenarnya nggak pas sama ukuranku.</color>"
+    },
+    {
+      "id": 11,
+      "content": "<color=#a5ab8e>Itu juga merupakan analogi yang pas untuk Rouge itu... Tapi, berbeda denganku, dia menolak untuk berubah menjadi sesuatu yang lebih nyaman.</color>"
+    },
+    {
+      "id": 12,
+      "content": "Suara yang kukira milik ibu Meursault masih terdengar dari suatu tempat di balik dinding—suara yang tidak akan pernah lagi mengucapkan kata-kata baru."
+    },
+    {
+      "id": 13,
+      "model": "3층하이도메루주번데기",
+      "teller": "L'Inamovible",
+      "title": "Le Rouge",
+      "content": "Ya, Ya... Semua yang kulakukan... semua itu pasti punya arti... Sebuah tujuan..."
+    },
+    {
+      "id": 14,
+      "model": "3층하이도메루주번데기",
+      "teller": "L'Inamovible",
+      "title": "Le Rouge",
+      "content": "Aku sudah menguliti Kulit Emas karena... ya, itu dia."
+    },
+    {
+      "id": 15,
+      "content": "<color=#a5ab8e>Hmm, ini duluar dugaan.</color>"
+    },
+    {
+      "id": 16,
+      "content": "<color=#a5ab8e>\"Punya arti,\" hmm...? Arti apa yang dia temukan, ya? Membingungkan. Hampir terasa seperti dia mendengar Suara yang benar-benar berbeda.</color>"
+    },
+    {
+      "id": 17,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 18,
+      "content": "<color=#a5ab8e>Kamu akan mengabaikanku kali ini? Itu juga bukan pilihan yang buruk, kurasa.</color>"
+    },
+    {
+      "id": 19,
+      "model": "3층하이도메루주번데기",
+      "teller": "L'Inamovible",
+      "title": "Le Rouge",
+      "content": "Ini berbicara padaku... sekali lagi... Itu datang begitu jelas, tanpa putus, tanpa memudar..."
+    },
+    {
+      "id": 20,
+      "model": "3층하이도메루주번데기",
+      "teller": "L'Inamovible",
+      "title": "Le Rouge",
+      "content": "Menyuruhku menancapkan kuku pada pakaian ini... merobeknya hingga lepas... Bahwa dalam ketelanjanganku, aku akan menemukan jati diriku yang sesungguhnya..."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Dia berubah menjadi \"Manekin,\" seperti yang mereka katakan disini...>"
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<Meskipun mereka semua berada pada tahap yang berbeda, semua karyawan Rouge dan Noir yang kami temui di Grand Magasin tanpa kecuali sedang mengalami distorsi. Tapi... kasusnya berkembang jauh lebih cepat...>"
+    },
+    {
+      "id": 23,
+      "model": "3층하이도메루주번데기",
+      "teller": "L'Inamovible",
+      "title": "Le Rouge",
+      "content": "Akhirnya... terkelupas, terkelupas dari tubuhku. Lepaskan hal-hal yang menyesakkan ini dariku... Aku ingin menjadi diriku yang sesungguhnya..."
+    },
+    {
+      "id": 24,
+      "model": "3층하이도메루주",
+      "teller": "L'Inamovible",
+      "title": "Le Rouge Mannequin",
+      "content": "Apakah ada orang yang menimpakan kebohongan-kebohongan itu kepadamu juga?"
+    },
+    {
+      "id": 25,
+      "model": "3층하이도메루주",
+      "teller": "L'Inamovible",
+      "title": "Le Rouge Mannequin",
+      "content": "Ayo, aku akan membebaskanmu dari pakaian yang menindas itu... Dan kamu akan merasakan... hal yang sama seperti aku..."
+    }
+  ]
+}
