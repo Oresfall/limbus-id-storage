@@ -1,0 +1,50 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pujasera, B1F",
+      "model": "그레고르",
+      "content": "... Jangan bilang kalau cairan yang mereka sendok dari air mancur itu adalah hal yang dibicarakan oleh orang-orang berpakaian compang-camping itu...."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "Itu adalah soda daging."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Meursault, Soda daging?>"
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "Itu adalah minuman yang menghasilkan rasa dari ingatan."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Hmm... Seperti Kaleng Pengalaman Instan?>"
+    },
+    {
+      "id": 5,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 6,
+      "model": "뫼르소",
+      "content": "Mirip, dalam hal bahwa keduanya tidak pernah bisa mendapatkan barang asli."
+    },
+    {
+      "id": 7,
+      "model": "파우스트",
+      "content": "Mengenai prinsip dasarnya, itu mengumpulkan rasa dan pengalaman dari bahan-bahan penyusunnya, lalu menggunakan catatan tersebut untuk membangun kembali bagi konsumen sebuah—"
+    },
+    {
+      "id": 8,
+      "model": "수셰프",
+      "content": "Kalian ini sebenarnya siapa, denger tidak?"
+    }
+  ]
+}
