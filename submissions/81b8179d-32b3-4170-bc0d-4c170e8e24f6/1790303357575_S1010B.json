@@ -1,0 +1,125 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "3F Butik Rouge",
+      "model": "뫼르소",
+      "content": "Aku sendiri sudah memastikan kematiannya 3 tahun yang lalu. Mereka tidak akan mendengar suara baru dari beliau lagi."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "... Apakah kamu benar-benar melakukannya, Meursault?"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "Karena manajer dan yang lainnya semua hadir di pengadilan untuk persidangan dan penjatuhan hukuman, aku rasa tidak perlu penjelasan lebih lanjut."
+    },
+    {
+      "id": 3,
+      "model": "오티스",
+      "content": "Hm... Aku rasa tidak perlu menanyainya lebih jauh. Aku yakin dia pasti punya alasan melakukan hal seperti itu."
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "Benar."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Tapi kita cuma dengar itu lewat argumen jaksa.>"
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Kami ingin mendengar vcarita versimu, Meursault.>"
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "Secara tegas, jaksa tidak berlebihan dalam menyampaikan kebenaran masalah ini."
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "Mungkin saja, namun jelas terlihat bahwa ia mengambil kebebasan yang cukup besar dalam menafsirkannya. Ia melukiskan sosok pembunuh tanpa penyesalan yang telah melakukan dosa keji berupa pembunuhan terhadap ibu kandungnya sendiri."
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "Jika \"pembunuhan ibu\" didefinisikan sebagai tindakan membunuh ibu sendiri,"
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Maka tidak ada alasan untuk menyangkal tuduhannya."
+    },
+    {
+      "id": 11,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>…….</color>"
+    },
+    {
+      "id": 12,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Insiden yang mengerikan.</color>"
+    },
+    {
+      "id": 13,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Itu adalah hal yang dibicarakan semua koran di N Corp. untuk beberapa waktu.</color>"
+    },
+    {
+      "id": 14,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Tahu nggak? Kejadian itu bahkan membuat penjualan di genre pembunuhan keluarga dalam Kaleng Pengalaman Instan.</color>"
+    },
+    {
+      "id": 15,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Sekitar saat itu, retakan muncul di dinding Grand Magasin... ketika para pelanggan berhenti bangkit setelah mereka jatuh dan menyentuh dasar.</color>"
+    },
+    {
+      "id": 16,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Meskipun seorang Raksasa telah hilang, penggantinya yang tepat tidak bisa ditemukan.</color>"
+    },
+    {
+      "id": 17,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Menurutmu, apakah ada di antara mereka yang menyadari fakta bahwa, selama hampir beberapa tahun terakhir di luar sana, \"Suara\" yang mereka sembah dan rindukan...</color>"
+    },
+    {
+      "id": 18,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>... Ternyata dia adalah mayat selama ini?</color>"
+    },
+    {
+      "id": 19,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Seperti orang-orang tidak bisa hidup tanpa mempercayai sesuatu, bahkan di tempat seperti ini di mana ide tentang keyakinan hampir tidak ada artinya.</color>"
+    },
+    {
+      "id": 20,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Bagaimana denganmu? Ingatlah kembali tahun-tahun yang kamu habiskan di luar Grand Magasin, dan katakan apakah kamu pernah menaruh keyakinan sebesar itu pada sesuatu.</color>"
+    },
+    {
+      "id": 21,
+      "model": "뫼르소",
+      "content": "Di masa lalu, aku menganggap diriku sebagai seseorang yang tidak akan pernah melangkah keluar dari N Corp."
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "Aku pernah meyakini gagasan itu."
+    },
+    {
+      "id": 23,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Sama denganku. Tapi itu bukanlah \"keyakinan,\" kan? Itu hanyalah sesuatu yang secara alami sudah tertanam dalam diri para penghuni N Corp.</color>"
+    }
+  ]
+}
