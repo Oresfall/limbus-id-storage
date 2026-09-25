@@ -1,0 +1,140 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Aula Eskalator, B1F",
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Sepertinya kau masih berputar-putar di tempat yang sama.</color>"
+    },
+    {
+      "id": 1,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Sayangku, apakah kamu ingat coq au vin mahal itu yang kita nikmati bersama di Pont Royal?</color>"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "Aku mengingatnya. Itu adalah Kuliner Pengalaman, dimasak dalam anggur yang harganya beberapa kali lebih mahal daripada bahan utamanya."
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "Jeanne, keadaanmu saat itu... cukup buruk. Kamu beberapa kali mengeluh sakit kepala dan mual, dan harus bersandar ke pundakku sepanjang kita berjalan. Meskipun begitu, kamu menolak saranku untuk pulang."
+    },
+    {
+      "id": 4,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Bagaimana lagi, itu adalah peringatan pertama kita. Untungnya, Aku merasa lebih baik setelah duduk di bar itu.</color>"
+    },
+    {
+      "id": 5,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Karena, secara kebetulan... Wine Pengalaman yang datang bersamanya ternyata memuat waltz yang sangat aku sukai. Bukankah itu aneh? Itu bukanlah waltz yang cukup terkenal.</color>"
+    },
+    {
+      "id": 6,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Saat aku duduk di sana terpesona oleh musiknya... seolah-olah mereka sepakat untuk bertemu, garpu kita bersinggungan. Di atas sepiring Salad Pengalaman rasa wortel yang hampir tak pernah kukonsumsi juga!</color>"
+    },
+    {
+      "id": 7,
+      "model": "그레고르",
+      "content": "Jadi makanan andalan di N Corp. itu makanan yang bikin kamu bisa, eh, merasakan pengalaman makan menu yang berbeda...?"
+    },
+    {
+      "id": 8,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Apa yang kamu harapkan? Memiliki salad wortel asli dan pengalaman membuatnya adalah satu dan sama di N Corp. Bahkan dianggap bermoral baik, mengalami makanan yang kamu inginkan melalui Kuliner Pengalaman daripada memakannya yang asli. Aku tahu itu dengan sangat baik, dan tetap saja...</color>"
+    },
+    {
+      "id": 9,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>... Itu adalah hal yang aneh. Begitu bunyi garpu itu hilang, mualku berhenti—seolah dunia mulai berputar ke arah yang lain.</color>"
+    },
+    {
+      "id": 10,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Apakah karena waltz yang diputar di bar? Atau... dari sensasi saat garpu kita saling bersentuhan, sayangku?</color>"
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "... Itu karena barnya sepi dan pengunjungnya sedikit."
+    },
+    {
+      "id": 12,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Mungkin saja. tetapi itu adalah pengalaman tak terlupakan bagiku.</color>"
+    },
+    {
+      "id": 13,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Tapi kamu... hanya mengingat bagian mualnya saja.</color>"
+    },
+    {
+      "id": 14,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Lagipula, keahlian semacam itu sudah ditanamkan dan dilatihkan pada dirimu sejak kecil.</color>"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "......"
+    },
+    {
+      "id": 16,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Tidak sulit untuk memanfaatkan tempat ini.</color>"
+    },
+    {
+      "id": 17,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Satu-satunya alasan ini terlihat begitu membingungkan adalah karena kalian semua orang luar—orang asing.</color>"
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "Apakah ada trik tertentu untuk itu? Sebuah kondisi, mungkin...? Misalnya, seperti melewati semua tangga bernomor ganjil?"
+    },
+    {
+      "id": 19,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Tidak ada yang begitu membingungkan. Itu akan terlalu sulit.</color>"
+    },
+    {
+      "id": 20,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Kamu cuma perlu \"          \" segala sesuatu yang kamu lihat dengan perhatian—lebih teliti lagi. Biarkan dirimu menghadapi keraguan dan pertanyaan yang asing.</color>"
+    },
+    {
+      "id": 21,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Apakah eskalator yang tidak bergerak tetap bisa dikatakan sebagai escalator?</color>"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "... Itu akan lebih mirip dengan tangga."
+    },
+    {
+      "id": 23,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Benarkah begitu? Apakah struktur tertutup dan tak bisa dilalui itu—yang tidak memungkinkan naik atau turun—benar-benar bisa dikatakan menyerupai tangga?</color>"
+    },
+    {
+      "id": 24,
+      "model": "뫼르소",
+      "content": "......"
+    },
+    {
+      "id": 25,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Kamu harus tetap mencari. Jangan berhenti.</color>"
+    },
+    {
+      "id": 26,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Jika Anda menunda penilaian dan terus-menerus mengitari pertanyaan itu, rasa pusing itu akan berkurang.</color>"
+    }
+  ]
+}
