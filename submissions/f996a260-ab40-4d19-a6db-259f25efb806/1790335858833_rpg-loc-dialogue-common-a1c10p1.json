@@ -1,0 +1,1163 @@
+{
+  "dataList": [
+    {
+      "key": "D90001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Hanya mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D90002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Yang sudah tidak bernapas.>"
+        }
+      ]
+    },
+    {
+      "key": "D90003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Tidak ada respons.>"
+        }
+      ]
+    },
+    {
+      "key": "D90004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Masih ada tugas yang harus diselesaikan di sini, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... (Dia menatapku tanpa sepatah kata. Senyuman tenang di wajahnya memberi kesan bahwa dia memandang kita dengan baik.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10141",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ini kamar mandi.",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "<Benar...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<Eh... Kok dia bisa tahu detakan jamku?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "... (Dia tidak berbicara lagi, namun senyumannya masih tertinggal.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10142",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Tetap ikuti bintang, lalu suatu hari...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "... Bintang...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "Sinclair sepertinya tenggelam di pikirannya yang dalam."
+        }
+      ]
+    },
+    {
+      "key": "D10143",
+      "texts": [
+        {
+          "index": 0,
+          "text": "(Dia tidak membalas. Tampaknya semua cara untuk mencari tahu identitasnya akan sia-sia.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D1008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampaknya bijaksana apabila kita pergi berkelana sebagaimana yang disarankan oleh Nona Ishmael.",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D10081",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Faust menatap ke ruang kosong, alisnya sedikit berkerut. Dia mungkin menganalisis kondisi saat ini. Sebaiknya jangan diganggu."
+        }
+      ]
+    },
+    {
+      "key": "D10082",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ayo keluar. Cuma diam nongkrong di sini tidak bakal kasih solusi.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hmm. Untung saja masih ada sisa rokok.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<Memangnya boleh merokok di sini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Kurang tahu juga. Nanti aku nyalakan saat sudah di luar saja, deh.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D10084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bukankah toilet ini agak sempit untuk ukuran toko serbaada yang \"mewah\"? Mungkin ini hanya fasilitas sementara sampai mereka bisa membangun fasilitas yang layak.",
+          "speaker": "Hong Lu"
+        }
+      ]
+    },
+    {
+      "key": "D10085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sinclair menatap tajam wanita misterius yang mirip dengan Demian."
+        }
+      ]
+    },
+    {
+      "key": "D10086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sungguh, belum pernah hamba menyaksikan tempat buang air yang se-semarak ini! Jika tempat buang airnya saja seindah ini, keajaiban apa lagi yang menanti di luar... Manager Terhormat! Marilah kita segera berangkat!",
+          "speaker": "Don Quixote"
+        }
+      ]
+    },
+    {
+      "key": "D10087",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cepat jalan woi, atau gua jalan duluan nih.",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D10088",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kita harus menjadikan lokasi ini sebagai pangkalan depan dan melakukan pengintaian di area sekitar terlebih dahulu, Manajer Eksekutif.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D10089",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Halo, Dante. Jadi kapan kita berangkat? Tempat ini emang bagus dan bersih, sih... tapi rasanya ada yang agak seram gimana gitu.",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... B.K., K.J.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "... Kurasa aku bisa menebak maksudnya walau tanpa penerjemahan dari Sinclair."
+        },
+        {
+          "index": 2,
+          "text": "Mungkin \"Banyak Kerjaan, Keluar Jalan.\" atau lebih mungkin... \"Berangkat Kita, Kepala Jam.\""
+        }
+      ]
+    },
+    {
+      "key": "D10001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dante. Saya sangat memahami bahwa keadaan begitu memberatkan kita... Namun, bukankah sebaiknya kita bergegas untuk menemukan Meursault?",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D10002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak diperlukan penjelasan lebih lanjut dari pihak Faust.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D10003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada hal lain yang perlu kamu periksa? Mari kita percepat dan segera bergerak. Kita harus menemukan Meursault secepatnya.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*haah* Aku tidak bisa istirahat dengan tenang kalau tahu salah satu dari kita mungkin sedang mengalami hal terburuk di luar sana. Ayo berangkat kalau kalian semua sudah cukup istirahat.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D10005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Menurutmu apakah Meursault baik-baik saja? Terlempar ke tempat asing seperti ini sendirian... Siapa pun pasti akan merasa sangat tersesat dan ketakutan.",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 1,
+          "text": "<Aku... rasa dia tidak akan merasa tersesat dan ketakutan... Tapi ya, sebaiknya kita bergegas menyusulnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Fuhu... Kalau begitu ayo kita berangkat!",
+          "speaker": "Hong Lu"
+        }
+      ]
+    },
+    {
+      "key": "D10006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Um... Manajer... Bukankah sebaiknya kita bergegas mencari Meursault?",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D100061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sinclair masih terengah-engah, tampaknya kemarahannya belum reda."
+        }
+      ]
+    },
+    {
+      "key": "D10007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apakah waktunya telah tiba bagi kita untuk melanjutkan petualangan? Sungguh, aku senantiasa siap sedia!",
+          "speaker": "Don Quixote"
+        }
+      ]
+    },
+    {
+      "key": "D10008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sialan...",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "Heathcliff berjalan bolak-balik dengan gelisah."
+        },
+        {
+          "index": 2,
+          "text": "Oh. Kita jalan lagi, nih?",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D10009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Beristirahatlah lebih banyak jika anda masih lelah, Manajer Eksekutif. Berikan perintah, dan saya, Outis, akan memisahkan tim pencari dan...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "<Tidak apa-apa. Aku harus ikut bersama kalian.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Seperti yang diharapkan dari Manajer Eksekutif kita. Anda adalah teladan bagi setiap unit di bawah komando anda...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "Outis melimpahiku dengan pujian."
+        }
+      ]
+    },
+    {
+      "key": "D10091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Berangkat sekarang nih? Duh, semoga kita ga bakal lihat tumpukan mayat jatuh menimpa kita lagi. Aku <i>tidak</i> mau mati tertindih tumpukan daging membusuk... Itu bakal jadi mimpi buruk tiga malam berturut-turut.",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D10092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "B.K., K.J.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "Banyak Kerjaan, Keluar Jalan? Atau... Buru Keluar, Kepala Jam...?"
+        },
+        {
+          "index": 2,
+          "text": "Aku akan menanyakannya pada Sinclair nanti."
+        }
+      ]
+    },
+    {
+      "key": "D1930",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tempat ini sunyi hingga taraf yang ganjil. Sebuah \"ruang rehat\"... Sungguh, sebuah bilik tempat seseorang dapat beristirahat dengan leluasa.",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D1931",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Faust menatap ke ruang kosong."
+        }
+      ]
+    },
+    {
+      "key": "D1932",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku siap kapan pun kamu siap.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1933",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kalau memang harus begini... Yah, aku butuh rokok dulu.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Aku memalingkan kepala dan melihat Ryōshū sudah menyelipkan sebatang rokok di antara giginya, dengan setitik asap membumbung dari ujungnya."
+        }
+      ]
+    },
+    {
+      "key": "D1934",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hong Lu tampaknya mendengarkan cerita apa pun yang disampaikan Don Quixote dengan senang hati."
+        }
+      ]
+    },
+    {
+      "key": "D1935",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sinclair membombardir wanita bergaun biru itu dengan berbagai pertanyaan."
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "Aku rasa percakapannya tidak berjalan dengan sangat lancar."
+        }
+      ]
+    },
+    {
+      "key": "D1936",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Don Quixote menceritakan kisah tindakan dan keajaiban para Fixer dengan bersemangat, berusaha menjaga suasana hati semua orang tetap ceria."
+        },
+        {
+          "index": 1,
+          "text": "... Hong Lu tampaknya menjadi satu-satunya yang memperhatikan."
+        }
+      ]
+    },
+    {
+      "key": "D1937",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Heathcliff terus berputar-putar di tempat yang sama dengan gelisah."
+        }
+      ]
+    },
+    {
+      "key": "D1938",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sangat mengecewakan bahwa saya tidak dapat membantu karena terjebak di lokasi ini. Jika anda membutuhkan saya, Manajer Eksekutif, saya, Outis, siap melayani sesuai perintah anda.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D1939",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku mau istirahat bentar. Panggil aku kalau udah pada jalan, ya~",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1940",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "Ryōshū memejamkan matanya. Namun, bunyi mendesis dari ujung rokok memberi tahu aku bahwa dia tidak sedang tidur."
+        }
+      ]
+    },
+    {
+      "key": "D1941",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Saya siap, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1105",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Masih ada tugas yang tersisa di sini, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1108",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jalan di depan sepenuhnya terhalang. Tampaknya tidak memungkinkan untuk lewat saat ini."
+        }
+      ]
+    },
+    {
+      "key": "D1001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kepala jam yang membara kian terlihat. Baik pakaian maupun jarum jamnya tidak berbeda dari keadaan biasanya."
+        }
+      ]
+    },
+    {
+      "key": "D1002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*tok* *tok*"
+        },
+        {
+          "index": 1,
+          "text": "Halo? Apa ada orang di dalam~?",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 2,
+          "text": "<Pintunya terkunci... Tidak ada orang di dalam kah?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Jam. G.K.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "Jam, geser kepalamu, katanya... Hii!",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "Sarung pedang Ryōshū bergemeretak mengancam, mengayun ke arah Sinclair."
+        },
+        {
+          "index": 6,
+          "text": "Tampaknya Araya telah terperosok ke ruang aneh ini bersama kita."
+        },
+        {
+          "index": 7,
+          "text": "<Kita sebaiknya memeriksa tempat lain terlebih dahulu.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hm... Pintunya tidak bergeming sedikit pun.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "Kamu tidak dengar apa yang kukatakan? Pintunya tidak bergeming.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "*hoam*",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 4,
+          "text": "<Heathcliff... Kayaknya dia lagi bicara sama kamu.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "... Pintunya gak bergeming, ya terus? Lo mau gua ngapain?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "Pertanyaan yang sangat tidak masuk akal. Saat rintangan muncul—kamu dan pemukul milikmu itu memusnahkannya tanpa memikirkan risiko yang ada atau taktik yang tersedia. Bukankah itu doktrin tindakan harianmu?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "Lokasi di balik pintu belum diperiksa, Manajer Eksekutif. Harap mundur ke jarak yang aman. Heathcliff akan mendobrak pintu dan mengintai di depan.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "Sialan, berani banget lo nyuruh gua dobrak pintu! Sekali lihat aja lo tahu mereka ngabisin banyak duit buat tempat ini... Gimana kalau mereka nyuruh kita bayar ganti rugi habis gua hancurin sampai berkeping-keping?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 9,
+          "text": "Hm. Poin yang kamu sampaikan ada benarnya. Seperti kata pria ini, Manajer Eksekutif. Pengintaian di balik pintu ini sebaiknya ditunda...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 10,
+          "text": "Heathcliff melongo menatap Outis, yang tampak tidak ragu sedikit pun untuk menjadikannya umpan. Dia melangkah mundur sambil menggelengkan kepala seolah percakapan itu membuatnya lelah."
+        }
+      ]
+    },
+    {
+      "key": "D1004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Apa kamu berencana menggetok pintu bilik seharian, Dante?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<Mana tahu ada sesuatu...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Sudah sepatutnya melakukan itu di toilet. Etika toilet adalah kebajikan yang penting!",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 3,
+          "text": "Bagus-bagus saja, kurasa... Tapi bukankah sebaiknya kita segera bergerak dan melihat-lihat keadaan di luar?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "<Rencananya memang begitu.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<...!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Ada apa membuatmu kaget begitu, Kawan Manajer?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "<Aku baru saja mendengar suara seperti toilet disiram dari dalam...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "... Kamu masih nyoba nakut-nakutin aku, bahkan setelah semua yang kita lalui? Aku tidak akan tertipu lagi... Tidak akan...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "<Tapi aku beneran mendengarnya...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cukup, Kepala Jam! Menurut lo dengan melotot ke dalam bilik toilet gitu bisa dapet apa?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "Manajer Eksekutif sedang menjalankan pola pencarian yang terstruktur! Bahkan fasilitas ini mungkin menyembunyikan petunjuk intelijen yang menentukan keberhasilan operasi!",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "*huff* Detektif ulung ini sudah memeriksa seluruh toilet saat kita masuk. Tidak ada lagi yang perlu dilihat, K.J.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "Ini mengingatkanku saat kita bermain detektif-detektifan di T Corp.~ Sangat menyenangkan waktu itu, kan, Rodya?",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 4,
+          "text": "Iya... memang menyenangkan. Lagipula, gimana kalau kita buru-buru keluar dari sini dulu?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "Ya. Kita tidak boleh membuang-buang waktu lagi di sini."
+        }
+      ]
+    },
+    {
+      "key": "D1007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bilik toilet dengan pintu tertutup."
+        }
+      ]
+    },
+    {
+      "key": "D9006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya keemasan yang tak asing merembes melalui celah sempit di antara ubin."
+        },
+        {
+          "index": 1,
+          "text": "Aku hampir bisa mendengar gumaman percakapan yang samar di antara orang-orang."
+        }
+      ]
+    },
+    {
+      "key": "D9007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku mengintip melalui celah itu, tetapi kilau cahayanya terlalu terang sampai aku tidak bisa melihat apa pun."
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_TOPAZ",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_AMETHYST",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Di Grand Magasin Sisyphe, pelanggan yang berbelanja lebih banyak dianugerahi status yang layak sesuai dengan naungan mereka. Kami mendorong anda untuk terus berbelanja dan berusaha mencapai tingkat tertinggi kami.</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>Kami mengundang anda untuk membuktikan nilai anda dengan mengonsumsi sepuasnya. Terima kasih telah memilih Grand Magasin Sisyphe, dan selamat menikmati belanja anda.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<Ooh. Kelihatannya peringkat kita naik.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<Tapi aku tidak tahu apa yang berubah... atau keuntungan baru apa yang kita dapatkan.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_AMBER",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_EMERALD",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_GOLD",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_RUBY",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_SAPPHIRE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_ONYX",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_DIAMOND",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Mohon perhatian anda.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Dengan senang hati kami beritahukan bahwa Tingkat Prestise anda telah naik ke tingkat berikutnya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D9999",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 상호작용 할당용 임시 공용 더미 대사"
+        }
+      ]
+    },
+    {
+      "key": "D_WRONGDEF",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Sepertinya ada yang berubah... Mari coba naik eskalator.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D91001_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mungkin saya benar-benar seekor pohon di kehidupan terdahulu."
+        },
+        {
+          "index": 1,
+          "text": "Ketika saya menemukan diagram dan struktur pikiran dalam bentuk pepohonan..."
+        },
+        {
+          "index": 2,
+          "text": "... Saya merasa tertarik ke arahnya dan menyimpulkan bahwa itu adalah wujud dari jiwa."
+        },
+        {
+          "index": 3,
+          "text": "Namun saya bertanya-tanya... Apakah jiwa benar-benar mengambil bentuk sebuah pohon?"
+        },
+        {
+          "index": 4,
+          "text": "Mungkin pohon hanyalah salah satu cara untuk merepresentasikannya. Pikiran mungkin terlalu tidak stabil untuk memiliki ■■■■■ ■■■■■■■■■ sama sekali."
+        },
+        {
+          "index": 5,
+          "text": "Namun, bentuk-bentuk manusia yang saya lihat dalam wujud ■■■■■ di seluruh Kota berulang kali memusat pada struktur sebuah pohon."
+        },
+        {
+          "index": 6,
+          "text": "Rancangan untuk Sistem ■ ■■■■.'■ ■■■■■■■ sendiri sudah menunjukkan hal itu, bukan?"
+        }
+      ]
+    },
+    {
+      "key": "D91002_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suatu ketika, seorang anak turun dari ■■■■ dan tercurah sebagai air."
+        },
+        {
+          "index": 1,
+          "text": "Air yang memberi wujud fisik bagi pikiran. ■■■■■■."
+        },
+        {
+          "index": 2,
+          "text": "Eksperimen yang dilakukan ■■■■■ ■■■■■■ memberi saya kepastian:"
+        },
+        {
+          "index": 3,
+          "text": "Pohon itu membuahkan sepuluh buah."
+        },
+        {
+          "index": 4,
+          "text": "Pohon itu terbagi menjadi tiga domain."
+        },
+        {
+          "index": 5,
+          "text": "Dan urutan saat pohon itu ■■ ■■turun memiliki makna tersendiri."
+        }
+      ]
+    },
+    {
+      "key": "D91003_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bahkan jika pikiran tidak mengambil bentuk sebuah pohon,"
+        },
+        {
+          "index": 1,
+          "text": "metode ini layak dicoba apabila pikiran dapat ■■■■■ menjadi model pepohonan dan dimaknai melaluinya."
+        },
+        {
+          "index": 2,
+          "text": "Bukankah bahasa juga demikian?"
+        },
+        {
+          "index": 3,
+          "text": "■■ mengambil sekadar ■■■■■ ■■■■■■■■■■, yang hampa makna, lalu mengurungnya dalam wujud bahasa—dan melaluinya, ■■ berkomunikasi."
+        },
+        {
+          "index": 4,
+          "text": "Saya mendefinisikan pikiran yang tak kasat mata dan tidak stabil ini sebagai sebuah pohon."
+        }
+      ]
+    },
+    {
+      "key": "D91004_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "■■■■■■ menarik sesuatu yang serupa, mengambil bentuk yang paling sedikit menimbulkan rasa penolakan."
+        },
+        {
+          "index": 1,
+          "text": "Namun yang kita butuhkan bukanlah sesuatu yang ditarik ke atas, melainkan sesuatu yang mekar."
+        },
+        {
+          "index": 2,
+          "text": "Ember itu harus menjadi benih. Itu harus menjadi kehendak yang memancar keluar."
+        },
+        {
+          "index": 3,
+          "text": "Tubuh manusia yang ■■■■■■■■ beserta strukturnya dibangun sesuai dengan cetak biru yang terukir di dalam gen kita."
+        },
+        {
+          "index": 4,
+          "text": "Dengan cara yang sama, sebuah cetak biru yang membawa diagram pohon itu harus ditanamkan ke dalam diri orang-orang."
+        },
+        {
+          "index": 5,
+          "text": "... Namun bagaimana caranya?"
+        },
+        {
+          "index": 6,
+          "text": "Mungkin ■■■■■■ seharusnya mengambil wujud cahaya, bukannya air."
+        },
+        {
+          "index": 7,
+          "text": "Sebab menatap sesuatu berarti cahaya itu telah masuk ke dalam diri saya."
+        },
+        {
+          "index": 8,
+          "text": "Sebab menatap sesuatu berarti menanggung benihnya melampaui kuasa apa pun untuk menolak."
+        }
+      ]
+    },
+    {
+      "key": "D91020_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Terapi maupun percakapan tidak dapat memulihkan jiwa."
+        },
+        {
+          "index": 1,
+          "text": "Diukur berdasarkan skema ini, psikoterapi tidak lebih dari sekedar ■■■■■■■■■ ■■■■■■■."
+        },
+        {
+          "index": 2,
+          "text": "Namun sekarang setelah saya mengetahui wujud pikiran manusia, mampukah saya mendiagnosis dan memulihkannya?"
+        },
+        {
+          "index": 3,
+          "text": "Jika demikian, mungkinkah untuk memulihkan tidak hanya ■■■■■., tempat saya dilahirkan, melainkan juga penderitaan mengerikan yang telah menyelimuti Kota itu sendiri."
+        },
+        {
+          "index": 4,
+          "text": "Mungkinkah untuk memulihkan orang-orang di Kota yang tersiksa oleh penyakit yang membuat mereka tidak dapat mengenali siapa diri mereka ■■■■■■■ ■■■■■■■ menuju kematian."
+        }
+      ]
+    },
+    {
+      "key": "D91021_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Wujud dari pohon ini hanyalah hasil dari penyusunan penemuan-penemuan ■■■■■■■■ saya; saya tidak meresepkan wujud ini."
+        },
+        {
+          "index": 1,
+          "text": "Sama seperti tubuh manusia yang memiliki diagram ■■■■■■■■■■, pohon ini adalah diagram dari pikiran manusia."
+        },
+        {
+          "index": 2,
+          "text": "Untuk mengobati mereka yang tersiksa, seseorang harus terlebih dahulu memahami tubuh tersebut."
+        },
+        {
+          "index": 3,
+          "text": "Namun hingga saat ini belum ada seorang pun yang berhasil menyelesaikan visualisasi dari jiwa manusia—atau kesadaran—apalagi merancang cara untuk menyistematiskan strukturnya."
+        }
+      ]
+    },
+    {
+      "key": "D90005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Noir. Satu-satunya bukti keberadaan mereka yang tersisa adalah topi yang ditinggalkan ini, menandakan pangkat mereka."
+        }
+      ]
+    },
+    {
+      "key": "D90006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Cuma mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D90007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Noir. Kain yang digunakan untuk menenun pakaian mereka sangat tebal sampai-sampai darah pun tidak merembes ke dalamnya."
+        }
+      ]
+    },
+    {
+      "key": "D3901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Noir. Darah merembes ke dalam setelan hitam, mengubah warnanya menjadi merah tua gelap."
+        }
+      ]
+    },
+    {
+      "key": "D3903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Rouge. Pembuluh darah mereka telah berhenti berkedut, menjadi kering dan abu-abu."
+        }
+      ]
+    },
+    {
+      "key": "D1912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lembaran kulit yang dijahit dengan sesuatu menempel di lantai seperti kain lap kotor. Bibir, mata, dan giginya telah kehilangan ciri khasnya dan melebur menjadi satu gumpalan licin."
+        }
+      ]
+    }
+  ]
+}
