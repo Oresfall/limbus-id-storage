@@ -1,0 +1,114 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Toko Alterasi, 3F",
+      "content": "Kami muncul di sebuah ruangan bundar yang dindingnya dipenuhi dengan gulungan benang berwarna-warni dan kepingan kain yang sudah dipotong. Di tengah ruangan berdiri sosok seorang wanita, lengannya bergerak naik turun sambil menjahit sesuatu dengan ritme yang teratur dan hati-hati."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Um... Halo?"
+    },
+    {
+      "id": 2,
+      "model": "3층가위",
+      "teller": "???",
+      "title": "???",
+      "content": "Jahitan bahu sedikit terlalu rendah... ujung lengan sedikit terlalu pendek. Banyak pekerjaan yang harus dilakukan, yang satu ini. Jadi, apa yang ingin kamu ubah?"
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Kami sebenarnya di sini tidak untuk untuk mengubah apa pun... Kami hanya mendengar gunting memotong dan berpikir mungkin ada baiknya melihatnya."
+    },
+    {
+      "id": 4,
+      "model": "3층가위",
+      "teller": "???",
+      "title": "???",
+      "content": "Jadi, kau tertari oleh suara guntingan itu. Padahal, tidak ada alasan bagimu untuk mencariku jika tak ada bagian dari dirimu yang perlu diperbaiki."
+    },
+    {
+      "id": 5,
+      "model": "오티스",
+      "content": "... Dan kamu siapa?"
+    },
+    {
+      "id": 6,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Aku Annette, Alterasionis. Dan kalian pasti orang asing."
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "... Yang ini tidak memanggil kita \"pelanggan.\""
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<Hm... Mungkin dia berbeda dari karyawan lain di Grand Magasin?>"
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "Kami sedang membeli berbagai jenis pakaian untuk menaikkan tingkat pengeluaran kami. Apakah kamu punya pakaian yang dijual?"
+    },
+    {
+      "id": 10,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Seperti yang bisa kamu lihat, tempat yang kamu temukan ini cukup berbeda dari toko-toko lain. Ini bukan tempat untuk pameran, juga bukan tempat untuk karya yang sudah selesai."
+    },
+    {
+      "id": 11,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Ini hanyalah tempat pakaian diubah dan yang sudah robek diperbaiki dalam diam."
+    },
+    {
+      "id": 12,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Bukan berarti apa yang saya punya di sini tidak praktis. Kenapa tidak bawa beberapa kain yang tahan lama dan tidak mudah kusut?"
+    },
+    {
+      "id": 13,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Ini akan melindungimu di saat pakaian yang pas di badan tidak bisa diandalkan. Pakaian semacam itu memang berguna untuk manuver ofensif, tetapi... kemampuannya dalam hal pertahanan sangatlah kurang."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Kain-kain ini memang terlihat berkualitas, tapi... dia tidak punya koleksi sebesar itu. Dan kenapa gunting itu harganya sangat mahal?>"
+    },
+    {
+      "id": 15,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Temui aku jika kamu perlu sesuatu diperbaiki. Tidak ada kain di dalam Sisyphe yang tidak bisa aku rajut dengan jari-jariku."
+    },
+    {
+      "id": 16,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Kamu mungkin harus antre dulu sementara aku mengerjakan pesanan kain dalam jumlah besar milik Noir..."
+    },
+    {
+      "id": 17,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "... tapi aku tidak keberatan menangani pekerjaan kecil di sana-sini, jika kamu memilikinya."
+    }
+  ]
+}
