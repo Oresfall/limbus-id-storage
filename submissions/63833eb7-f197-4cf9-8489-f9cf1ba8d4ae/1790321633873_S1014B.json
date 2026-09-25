@@ -1,0 +1,228 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Tempat Pewarnaan, B2F",
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Kamu ingin membeli Pewarna Emas?"
+    },
+    {
+      "id": 1,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Tier mu... sedikit diatas yang diperbolehkan. Kupikir itu sudah cukup."
+    },
+    {
+      "id": 2,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Nih. Ambil nomor."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "1217... maksudnya?"
+    },
+    {
+      "id": 4,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Itu artinya ada 1,216 pelanggan didepan kamu. Bersabarlah, dan Aku akan . <i>Segera</i> melayanimu."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Ryōshū, tunggu! Jangan S.H.N.C.!>"
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Coba tanya dia berapa lama kita harus menunggu.>"
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "Jika nomor kita berada di ribuan, akan menunggu berapa lama?"
+    },
+    {
+      "id": 8,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Tidak akan selama yang kamu pikirkan. Nomormu akan kebagian saat musim berganti... sekitar 100 kali?"
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Hm... Kita tidak bisa menunggu lama. Apakah ada yang bisa kita bantu sebagai gantinya?"
+    },
+    {
+      "id": 10,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Gak. Kamu seharusnya berkemah di depan Tempat Pewarnaan atau semacamnya kalau memang sangat menginginkannya"
+    },
+    {
+      "id": 11,
+      "model": "퍼티",
+      "teller": "Putty",
+      "title": "Tempat Pewarnaan",
+      "content": "......"
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "......"
+    },
+    {
+      "id": 13,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Putty! Kak! Sudahku bilang jangan menatap pelanggan seperti itu."
+    },
+    {
+      "id": 14,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Yang ininggak terlalu menjengkelkan. Turunin kakimu."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Ryōshū, bisa ga kamu berhenti mempertimbangkan bagian tubuh mana yang akan kamu potong dari dia dan bantu kita memikirkan cara lain untuk mendapatkan pewarna itu...?>"
+    },
+    {
+      "id": 16,
+      "content": "Ryōshū perlahan melepaskan tangannya dari sarung pedang miliknya. \"Putty\" juga ikut menurunkan kakinya."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "*puff* Memangnya apa yang harus dipikirkan?"
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "Mari kita bunuh antrean depan. Itu jalan pintasnya."
+    },
+    {
+      "id": 19,
+      "content": "Sarung pedang dia bergetar seperti menggelengkan kepalanya."
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "... Kamu jelas mencari alasan untuk memulai pembantaian, seperti biasa. Kalau tidak, kenapa kamu menyarankan pembantaian seperti itu padahal lebih efisien membunuh siapa pun yang pertama di antrean dan mengambil tiket bernomornya?"
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "content": "Heh. Ada keindahan yang bisa dinikmati dalam ketidakrasionalan."
+    },
+    {
+      "id": 22,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "... Atau beli saja pewarna itu dari orang pertama di antrean...?"
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<... Setuju. Meursault, tanyakan siapa yang memiliki nomor antrean pertama.>"
+    },
+    {
+      "id": 24,
+      "model": "뫼르소",
+      "content": "Kuharap aku tau siapa identitas pemilik nomor antrean pertama."
+    },
+    {
+      "id": 25,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Naked dari Le Noir. Orang pertama yang datang dan berkemah didepan sebelum tempat ini buka."
+    },
+    {
+      "id": 26,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Kita hampir selesai mengisi ember dengan pewarna dari Nanah Emas yang menetes dari Resin Emas. Dia mungkin sedang menunggu di koridor untuk mengambilnya."
+    },
+    {
+      "id": 27,
+      "model": "오티스",
+      "content": "Dalam kondisi operasional saat ini, membeli Pewarna Emas dari individu... \"Naked\" ini seharusnya menjadi tindakan yang paling efisien."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Aku rasa Bola Mata yang kita punya tidak akan cukup...>"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Jika Bola Mata kita ternyata kurang, barang dengan nilai yang sepadan bisa ditawarkan sebagai pengganti."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<... Mari kita cek apa yang kita punya saat ini.>"
+    },
+    {
+      "id": 31,
+      "content": "Meursault mengeluarkan satu persatu barang yang kita beli atau dapatkan sejauh ini."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "... Cukup banyak pilihan."
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Apakah dengan menjual semua ini akan cukup untuk membeli Pewarna Emas?"
+    },
+    {
+      "id": 34,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Tempat Pewarnaan",
+      "content": "Tidak mendekati. Mungkin kalau kamu menemukan orang yang benar-benar mudah ditipu dan menguras mereka sampai Bola Mata terakhir."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<Itu masalah... Haruskah kita kembali ke 3F dan minta lebih banyak Bola Mata?>"
+    },
+    {
+      "id": 36,
+      "model": "오티스",
+      "content": "Kemungkinan besar mereka tidak akan mau mengeluarkan pengeluaran besar lagi setelah mereka sudah memberikan kita bayaran yang lumayan."
+    },
+    {
+      "id": 37,
+      "model": "오티스",
+      "content": "Namun, jika itu keinginanmu, Manajer Eksekutif, Aku, Outis, akan menggunakan teknik negosiasi tak tertandingi yang telah aku asah melalui bertahun-tahun pelayanan dan menuntut setiap Bola Mata yang mereka miliki."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<I-itu tidak perlu. Naked merukapan anggota Le Noir... Mungkin dia akan menurunkan harganya kalau kita tunjukin Sertifikat Keaslian.>"
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<Ayo temukan Naked and dengarkan apa yang akan dia katakan. Jika dia anggota Le Noir, pakaian miliknya seharunya mudah untuk ditemukan.>"
+    }
+  ]
+}
