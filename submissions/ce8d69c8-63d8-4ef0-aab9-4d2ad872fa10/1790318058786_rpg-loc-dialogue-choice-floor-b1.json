@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "key": "DC-1019",
+      "text": "Sepatu"
+    },
+    {
+      "key": "DC-1020",
+      "text": "Bukit"
+    },
+    {
+      "key": "DC-1021",
+      "text": "Tangga"
+    },
+    {
+      "key": "DC-1061",
+      "text": "Masuk."
+    },
+    {
+      "key": "DC-1062",
+      "text": "Don't enter."
+    },
+    {
+      "key": "DC-1063",
+      "text": "Masuk."
+    },
+    {
+      "key": "DC-1064",
+      "text": "Jangan masuk."
+    },
+    {
+      "key": "DC-1065",
+      "text": "Masuk."
+    },
+    {
+      "key": "DC-1066",
+      "text": "Jangan masuk."
+    },
+    {
+      "key": "DC-1067",
+      "text": "Masuk."
+    },
+    {
+      "key": "DC-1068",
+      "text": "Jangan masuk."
+    },
+    {
+      "key": "DC-1069",
+      "text": "Pergi."
+    },
+    {
+      "key": "DC-1070",
+      "text": "Jangan pergi."
+    }
+  ]
+}
