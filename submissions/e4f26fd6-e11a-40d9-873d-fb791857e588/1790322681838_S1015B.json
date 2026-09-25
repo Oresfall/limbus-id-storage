@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Toko Alterasi, 3F",
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "... Orang asing yang meminjam guntingku. Kamu sudah kembali."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Kita membawa Benang Emas... Bisakah kamu menenun kain dari ini?"
+    },
+    {
+      "id": 2,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Tentu saja. Itu bukan bagian yang sulit, bagaimanapun juga. Robek, terbakar, belum selesai—bawa yang cacat itu kepadaku, dan jari-jariku akan membuat mereka sempurna"
+    },
+    {
+      "id": 3,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Kain yang digunakan dalam setiap pakaian di Grand Magasin, baik yang disukai maupun dibenci, dimulai dari seutas benang saja."
+    },
+    {
+      "id": 4,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Selama masih ada benang, kita cuma butuh paku untuk menyelesaikan sisanya. Dan tentu saja, guntingku."
+    },
+    {
+      "id": 5,
+      "content": "Sang Alterasionis menyampaikan maksudnya lewat satu kali kertakan bilah gunting pada tubuhnya."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Berikan Benang Emasnya.>"
+    },
+    {
+      "id": 7,
+      "content": "Alih-alih langsung mengambil benang itu, dia berhenti sejenak, pandangannya sejenak tertuju pada benang yang melilit di atasnya."
+    },
+    {
+      "id": 8,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "... Aku belum pernah melihat Benang Emas dengan kemurnian setinggi ini sebelumnya."
+    },
+    {
+      "id": 9,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Meskipun tercipta dari kedalaman, ia akan segera layak untuk mencapai ketinggian yang lebih besar."
+    },
+    {
+      "id": 10,
+      "content": "Begitu Alterasionis mengambil gulungan benang dan melingkarkan benangnya di ujung jarinya, pisau muncul entah dari mana—dan semuanya hidup dalam tarian bersama tangan dan gunting."
+    },
+    {
+      "id": 11,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "... Dulu ada penguasa lain di sini, sudah lama sekali."
+    },
+    {
+      "id": 12,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Mereka memperlakukan emas yang tumbuh di celah-celah itu bukan sebagai sesuatu untuk diolah, melainkan sebagai sesuatu untuk disembah."
+    },
+    {
+      "id": 13,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Tujuan mereka adalah menjaga agar emas tersebut tetap semulus dan semurni mungkin selama mereka bekerja. Oleh karena itu, mereka sangat berhati-hati dalam membentuk setiap helai dan setiap inci benang yang mereka pintal serta untaikan pada pohon agung bernama Grand Magasin itu... tanpa sekalipun bekerja melawan arah seratnya."
+    },
+    {
+      "id": 14,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Ketelitian itu tampak hampir bernuansa religius di mataku. Mereka bahkan enggan bernapas saat bekerja; sungguh, karena satu saja kesalahan dalam menempatkan paku setara dengan menghujat Suara."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Dan kamu...mewarisi posisi mereka."
+    },
+    {
+      "id": 16,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Ya. Mereka meninggalkan tempat ini dalam perawatanku dan pergi untuk lebih dekat dengan Suara."
+    },
+    {
+      "id": 17,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterasionis",
+      "content": "Ini membawa aku kembali. Bukan ke masa-masa yang baik, tapi setidaknya ini membawa aku kembali."
+    },
+    {
+      "id": 18,
+      "content": "Tangannya, yang sempat berhenti sejenak mengenang, kembali melanjutkan pekerjaannya."
+    }
+  ]
+}
