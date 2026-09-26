@@ -1,0 +1,281 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Outskirts, Past",
+      "model": "바리",
+      "content": "Sunyi, ya?"
+    },
+    {
+      "id": 1,
+      "model": "바리",
+      "content": "Tapi ini bukan tempat yang begitu damai. Bahkan sekarang, mereka sedang mengawasi kita."
+    },
+    {
+      "id": 2,
+      "model": "바리",
+      "content": "……."
+    },
+    {
+      "id": 3,
+      "model": "바리",
+      "content": "Akan ada lebih banyak perang lagi. Setelah perang antara manusia dan Bloodfiend, maksudku."
+    },
+    {
+      "id": 4,
+      "model": "바리",
+      "content": "Aku bisa melihatnya. Perang melawan nebula di luar Outskirts nyaris sudah tertulis dalam takdir."
+    },
+    {
+      "id": 5,
+      "model": "바리",
+      "content": "Ketidakmampuan umat manusia untuk merasa puas adalah rasa lapar itu sendiri yang membawa pada peperangan. Ini sebuah keniscayaan."
+    },
+    {
+      "id": 6,
+      "model": "바리",
+      "content": "... Lihat aku. Membuat telinga seseorang yang sebentar lagi akan melupakan segalanya jadi pegal karena mendengarku."
+    },
+    {
+      "id": 7,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "……."
+    },
+    {
+      "id": 8,
+      "model": "바리",
+      "content": "Aku tahu aku sudah mengatakan ini, tapi biar kukatakan lagi."
+    },
+    {
+      "id": 9,
+      "model": "바리",
+      "content": "Kau tidak akan mengingat apa pun begitu kau minum dari sungai ini."
+    },
+    {
+      "id": 10,
+      "model": "바리",
+      "content": "Aku, Ayahmu, Keluargamu. Semua kisah yang telah kita bagikan bersama, termasuk percakapan ini sendiri."
+    },
+    {
+      "id": 11,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "Aku tahu."
+    },
+    {
+      "id": 12,
+      "model": "바리",
+      "content": "Begitu kau minum airnya... aku akan menuntunmu ke tempat di mana kau akan tinggal."
+    },
+    {
+      "id": 13,
+      "model": "바리",
+      "content": "Aku lihat sebuah mercusuar terbengkalai tak jauh dari sini. Kemungkinan besar tak akan ada yang menemukanmu di sana."
+    },
+    {
+      "id": 14,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "... Baiklah."
+    },
+    {
+      "id": 15,
+      "model": "바리",
+      "content": "Jadi begitulah, ya?"
+    },
+    {
+      "id": 16,
+      "model": "바리",
+      "content": "Tapi bagaimana kau akan... melanjutkan hidup?"
+    },
+    {
+      "id": 17,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "Aku tidak tahu."
+    },
+    {
+      "id": 18,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "Aku telah kehilangan segalanya. Dan kini aku bersiap kehilangan bahkan sisa-sisa dari apa yang dulu pernah ada. Menurutmu pertanyaan itu berarti sesuatu bagiku?"
+    },
+    {
+      "id": 19,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "Kau bertanya pertanyaan yang lebih pantas ditanyakan setelah aku tertidur."
+    },
+    {
+      "id": 20,
+      "model": "바리",
+      "content": "……."
+    },
+    {
+      "id": 21,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "Begitu aku meminum air sungai itu..."
+    },
+    {
+      "id": 22,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "Tinggalkan aku."
+    },
+    {
+      "id": 23,
+      "model": "옛산초2",
+      "title": "La Manchaland",
+      "content": "Terima kasih, Bari. Untuk segalanya."
+    },
+    {
+      "id": 24,
+      "model": "산초",
+      "content": "Namun sungai itu hanya membuatku melupakan naluriku sebagai Bloodfiend. Ia tidak membebaskanku dari naluri itu selamanya."
+    },
+    {
+      "id": 25,
+      "place": "Fathoms of Ego - Maze",
+      "model": "산초",
+      "content": "Karena kami... selamanya terikat pada sifat dasar kami."
+    },
+    {
+      "id": 26,
+      "model": "산초",
+      "content": "Melalui Rocinante milik Ayahku, aku bisa menyembunyikan setiap jejak sifat Bloodfiend dariku dari seluruh dunia..."
+    },
+    {
+      "id": 27,
+      "model": "산초",
+      "content": "... tapi itu hanya membuatku hanyut dalam sebuah mimpi yang konyol."
+    },
+    {
+      "id": 28,
+      "model": "산초",
+      "content": "Kini aku terjaga. Bertelanjang kaki."
+    },
+    {
+      "id": 29,
+      "model": "가면키호테",
+      "content": "Ya. Maka... ini terbuka kembali..."
+    },
+    {
+      "id": 30,
+      "place": "Fathoms of Ego - La Mancha Eye",
+      "model": "가면키호테",
+      "content": "Ini ... La Manchaland."
+    },
+    {
+      "id": 33,
+      "model": "산초",
+      "content": "Apa yang terjadi di sini?"
+    },
+    {
+      "id": 34,
+      "model": "가면키호테",
+      "content": "Sebuah kisah yang setua waktu itu sendiri."
+    },
+    {
+      "id": 35,
+      "model": "가면키호테",
+      "content": "Mereka tak bisa memaafkanku... dan aku pun tak bisa memaafkan mereka sebagai balasannya."
+    },
+    {
+      "id": 36,
+      "model": "이발사하편",
+      "content": "Bukalah gerbangnya..."
+    },
+    {
+      "id": 37,
+      "model": "이발사하편",
+      "content": "Ayah, Don Quixote... kumohon! Jangan tinggalkan kami di sini dalam kegelapan! Maafkan kami!"
+    },
+    {
+      "id": 38,
+      "model": "키호테",
+      "content": "Masih saja... kau menolak untuk berbagi kehendakku..."
+    },
+    {
+      "id": 39,
+      "model": "키호테",
+      "content": "Apakah kau masih... gagal memahaminya...? La Manchaland... harus tetap tersegel selamanya..."
+    },
+    {
+      "id": 40,
+      "model": "이발사하편",
+      "content": "K-kalau begitu... kami... t-tak punya pilihan lain..."
+    },
+    {
+      "id": 41,
+      "model": "이발사하편",
+      "content": "Aku... aku ingin merasakan... aku ingin merasakan kebahagiaan lagi..."
+    },
+    {
+      "id": 42,
+      "model": "이발사하편",
+      "content": "Ini... giliranmu, Pastor."
+    },
+    {
+      "id": 43,
+      "model": "신부하편",
+      "content": "……."
+    },
+    {
+      "id": 44,
+      "model": "신부하편",
+      "content": "Ampunilah bukan dosa-dosa kami, wahai leluhur yang mulia, Ayah kami dalam darah."
+    },
+    {
+      "id": 45,
+      "model": "신부하편",
+      "content": "Dan kumohon... kumohon..."
+    },
+    {
+      "id": 46,
+      "model": "이발사하편",
+      "content": "Lakukan sekarang... <i>TIKAM DIA!!!!</i>"
+    },
+    {
+      "id": 47,
+      "model": "돌시네아하편",
+      "content": "……."
+    },
+    {
+      "id": 48,
+      "model": "혈귀 3",
+      "teller": "Horrified Bloodfiend",
+      "title": "La Manchaland",
+      "content": "Ah... ahhh..."
+    },
+    {
+      "id": 49,
+      "model": "혈귀 3",
+      "teller": "Horrified Bloodfiend",
+      "title": "La Manchaland",
+      "content": "Ma... maafkan kami..."
+    },
+    {
+      "id": 50,
+      "model": "혈귀 3",
+      "teller": "Horrified Bloodfiend",
+      "title": "La Manchaland",
+      "content": "Tidak, kumohon selamatkan kami..."
+    },
+    {
+      "id": 51,
+      "model": "혈귀 3",
+      "teller": "Horrified Bloodfiend",
+      "title": "La Manchaland",
+      "content": "Kalau kau tak mau..."
+    },
+    {
+      "id": 52,
+      "model": "혈귀 3",
+      "teller": "Horrified Bloodfiend",
+      "title": "La Manchaland",
+      "content": "Kami akan membuatmu menderita... bersama sisa dari kami yang lain...!"
+    }
+  ]
+}
