@@ -1,0 +1,4033 @@
+{
+  "dataList": [
+    {
+      "key": "D1089",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Tempat ini... kelihatan kayak semacam toko...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebenarnya apa yang mereka jual di sini? Enggak, lagian kenapa ada yang jualan di tempat kayak begini?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Kan ini department store~",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Grand Magasin... Sebuah department store, pada hakikatnya, adalah tempat di mana ribuan kotak kecil berdesakan demi mengejar keuntungan.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Kurasa kita harus melihat-lihat sekitar kalau ingin mengetahui detailnya lebih len—",
+          "speaker": "Hong Lu"
+        }
+      ]
+    },
+    {
+      "key": "D1091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hah? Apaan tuh?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Apaan <i>itu</i>?!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Aku tidak tahu, tapi apa pun itu, Sesuatu yang <i>besar</i>...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "... telah jatuh dari atas.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "Hampir saja. Kita akan terkena dampak yang parah... jika kita melangkah beberapa langkah lebih dekat ke samping.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "Tampaknya itu adalah... tumpukan besar tubuh manusia yang saling tersangkut, meskipun sisa-sisanya terlalu hancur untuk mengenali bentuk individu.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D1092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Yang gede jatuh tuh. Kayaknya layak banget dimanfaatin kali ini. Semoga pelanggan tadi banyak ngeluarin bola mata.",
+          "speaker": "Desperate Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1093",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sialan, botol kosongku habis! Hei, kamu pinjam tiga dariku musim lalu. Kapan mau kamu balikin?!",
+          "speaker": "Destitute Customer"
+        },
+        {
+          "index": 1,
+          "text": "Enyah sana! Rilisan baru musim ini semuanya... milikku. Punya aku seorang!",
+          "speaker": "Impatient Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tumpukan yang jatuh dari langit ternyata adalah mayat-mayat, hancur hingga tak mengenali bentuknya. Cahaya keemasan yang aneh, terang bagai sinar matahari, mengedip di antara celah-celah tubuh tersebut."
+        },
+        {
+          "index": 1,
+          "text": "Orang-orang yang saya asumsikan sebagai \"pelanggan\" yang disebutkan dalam pengumuman berdesakan di antara mayat-mayat, merebut apa pun yang bisa mereka temukan."
+        }
+      ]
+    },
+    {
+      "key": "D1010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bolehkah kita mengistirahatkan langkah sejenak?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "<Kenapa, apa anda melihat sesuatu di depan?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Hal itu masih menjadi bahasan yang perlu didiskusikan...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Yi Sang melanjutkan, mengepalkan dan membuka tangannya saat dia menatap kami."
+        },
+        {
+          "index": 4,
+          "text": "Saya telah dihampiri oleh sensasi aneh ini... yang tidak mungkin menjadi satu-satunya gagasan saya. Inilah subjek yang ingin saya diskusikan dengan anda.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 5,
+          "text": "Maksudku... Ya, agak sulit diabaikan. Kita semua jadi makin lemah, kayak yang terjadi pas kita pertama kali buat kontrak sama Dante.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Sinners"
+        },
+        {
+          "index": 7,
+          "text": "... Ini kemungkinan besar bukan fenomena permanen. Kemunduran kekuatan fisik kalian kemungkinan disebabkan oleh karakteristik unik dari Grand Magasin Sisyphe.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 8,
+          "text": "Apakah masalah dengan ruang di tempat ini?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 9,
+          "text": "Benar. Memasuki Sisyphe melalui cara tidak langsung, seperti Mesin Penjual Otomatis Bunuh Diri, tidak mengubah fakta bahwa kita telah memasuki status keberadaan lain sebagai \"pelanggan\" department store. Oleh karena itu, tubuh kita sebagaimana kita persepsikan dalam arti fenomenal pasti telah direkonstruksi sesuai dengan aturan tempat ini, yang melibatkan Shadowed dan Symbolic—",
+          "speaker": "Faust"
+        },
+        {
+          "index": 10,
+          "text": "T-tunggu sebentar!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 11,
+          "text": "Jadi intinya kamu mau bilang kalau tempat ini yang salah bikin kita makin lemah, dan kita bakal balik normal habis kita keluar, benar kan?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 12,
+          "text": "... Ya.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 13,
+          "text": "Hmm~ Daripada nunggu penjelasan lebih lanjut atau bertukar pikiran buat nyari cara biar jadi lebih kuat...",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 14,
+          "text": "Mending kita cari Meur terus keluar dari tempat ini, cepat-cepat.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Saya senang akhirnya ada kesepakatan. Prioritas tertinggi kita saat ini adalah menemukan Meursault; sebaiknya kita menunda intelijen apa pun terkait fenomena ini sampai tujuan utama tersebut tercapai.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 16,
+          "text": "Terus kalau kita terlibat pertarungan? Ada rencana buat itu?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 17,
+          "text": "*hebusan napas* N.P. satu atau dua bukan masalah meski kita jadi P.L.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 18,
+          "text": "Ngebunuh Pelanggan Penjelajah satu atau dua bukan masalah meski kita jadi Penakut Lemah, katanya...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 19,
+          "text": "<Tau gak, mending kita cari Meursault aja kayak yang Rodya bilang.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kejutan, kejutan...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10111",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Kamu siapa?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Kalian ini beruntung banget ya?",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "Lihat tumpukan darah itu! Pasti jatuh dari lantai enam, kurang lebih. Tumpukan ini bakal bikin tempat ini terkenal sebagai zona jatuh utama buat sementara waktu.",
+          "speaker": "???"
+        },
+        {
+          "index": 3,
+          "text": "... Mungkinkah anda sedang berbicara dengan kami?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "Kenapa lama banget? Aku udah nungguin kalian cemas sepanjang waktu!",
+          "speaker": "???"
+        },
+        {
+          "index": 5,
+          "text": "Buat kita? Ngapain lo nungguin kita...?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "Lagian, bukannya itu... <i>tubuh manusia</i> yang baru aja jatuh dari atas...? Dan apa yang lagi dicari orang-orang itu...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "Manusia, katanya! Oh, kamu benar-benar aneh ya? Itu tadi <i>pelanggan.</i>",
+          "speaker": "???"
+        },
+        {
+          "index": 8,
+          "text": "Kalau buat pengumpul sampah, mereka dengar suara <i>gedebuk</i>, jadi mereka ngumpul buat ngambil apa pun yang mereka bisa. Hidup di sini lumayan keras, tahu.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10121",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Dia udah pergi.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<Ayo cepat cari Meursault dan cari tahu cara keluar dari tempat ini...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Haruskah kita... jalan terus buat sekarang? Lurus ke depan?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Manajer Eksekutif. Saya menyarankan untuk kembali ke toilet untuk berkumpul kembali dan mengatur ulang strategi.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "Aku... menyetujui saran Rodya muda. Mari kita berangkat dengan penuh kesegeraan, sungguh...",
+          "speaker": "Don Quixote"
+        },
+        {
+          "index": 6,
+          "text": "<Yi Sang hampir terluka tadi. Dan kurasa Sinclair butuh waktu sebentar buat menenangkan diri.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 8,
+          "text": "<Ayo lakukan seperti yang Outis bilang. Berkumpul kembali di toilet, istirahat sejenak, lalu pergi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Terima kasih, Manajer...",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D10400",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#916e46>Mohon perhatiannya. Musim Stripe telah resmi berakhir. Kami dengan senang hati mengumumkan bahwa Houndstooth adalah tren baru.</color>"
+        },
+        {
+          "index": 1,
+          "text": "Apa?! Nggak! Aku udah menguliti banyak kulit dari pahaku demi bikin pola garis-garis itu... dan itu semua sia-sia?! Aku baru aja selesai bikin garis horizontal sampai ke daguku. Mereka nggak bisa mengubah trennya <i>sekarang</i>!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 2,
+          "text": "Aku harus mengisi pajangan kedatangan baru! Butuh rencana, butuh rencana... Mungkin merobek yang ada di sana jadi pola kotak-kotak? Aku nggak boleh membiarkan itu masuk ke obral!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<... Lumayan sibuk ya...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10401",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>Biarkan aku... meletakkan tanganku di tubuhmu sebentar.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#515aee>Setiap pelayaran... membutuhkan sentuhan... sebelum dimulai.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D1021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Meursault! Jadi ini tempat yang aku lihat... Lagi apa kamu di sini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "... Saya memasuki Grand Magasin, melanjutkan perjalanan, dan tiba di toko ini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Gimana sih, Meur! Kamu setidaknya bisa pura-pura kaget pas lihat kita. Kita datang buat nyelamatin kamu!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Sepengetahuan saya, akses masuk ke Sisyphe berada di luar cara biasa.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Jika anda sekalian tidak dibawa ke sini melalui Hukuman Sisyphe, maka anda sekalian pasti telah mengambil jalur lain yang tidak diketahui.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<... Itu benar. Hermann dan anak buahnya membantu kita.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Saya mengerti.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Lupakan soal itu. Sebenarnya apa yang kamu lakuin di sini sepanjang waktu, Meursault?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "Dan tempat apa ini?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "Saya... saat ini berada di dalam penyimpanan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Apa maksudnya—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "*haah* Sama malasnya buat menjelaskan diri seperti saat di luar, bahkan di tempat seperti ini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "Siapa kalian ini?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 14,
+          "text": "Mundur. Aku yang menemukan bahan ini duluan. Siapa cepat dia dapat. Ini milik toko kami sekarang.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 15,
+          "text": "\"Bahan\"...? Um... Dengar, orang ini adalah... uh, \"Rekan\" kami. Bisakah kami membawanya kembali?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 16,
+          "text": "\"Rekan\"... Hm. Aku pernah mendengar kata itu sebelumnya. Apakah itu nama merek?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 17,
+          "text": "Uh...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 18,
+          "text": "Dari apa yang kita lihat di tempat ini sejauh ini... Aku tidak tahu apakah akal sehat bisa diandalkan di sini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 19,
+          "text": "Waktu kamu bilang dia milik tokomu... apa itu artinya kamu mau mempekerjakannya?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 20,
+          "text": "Nggak. Staf kami sudah lebih dari cukup untuk toko ini. Bahannyalah yang kekurangan.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 21,
+          "text": "Bahan...? Oh, oke. Kurasa kamu mau, uh... meminjam seragam Meursault, kalau begitu...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 22,
+          "text": "Kalian orang asing benar-benar mustahil diajak berkomunikasi. Aku sudah habis kesabaran di sini...",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 23,
+          "text": "Karyawan itu memberikan tatapan jengkel kepada kami."
+        },
+        {
+          "index": 24,
+          "text": "Aku bilang kami kekurangan bahan. <i>Bahan</i>. Apa yang susah dimengerti dari itu?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 25,
+          "text": "Apa kamu nggak dengar pengumuman tadi? Trennya sudah berubah lagi. Beberapa musim dari sekarang, akan ada hal lain yang menjadi tren baru. Itu sebabnya kami—dan toko ini—akan selalu membutuhkan lebih banyak bahan!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 26,
+          "text": "Aku mengerti hal itu, <i>aku mengerti</i>, tapi apa hubungannya hal itu dengan—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 27,
+          "text": "Apakah ada di antara kalian orang asing yang punya akal sehat lebih dari yang satu ini? Yang satu ini nggak paham satu kata pun dari apa yang aku katakan!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 28,
+          "text": "Kamu yang—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 29,
+          "text": "Kurasa, Ishy... orang-orang ini nggak bakal menyerahkan Meur begitu saja. Kita perlu buat kesepakatan sama mereka.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 30,
+          "text": "Tentu, tapi kesepakatan butuh komunikasi dua arah, tahu...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 31,
+          "text": "Aku paham maksudmu, Ishy. Ishy?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 32,
+          "text": "Aku cuma mau bilang, aku nggak berpikir mengajukan lebih banyak pertanyaan adalah cara terbaik kita buat lanjut.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 33,
+          "text": "Baiklah. Kenapa kamu nggak kasih tahu aku apa yang kamu inginkan sebagai imbalan untuk, uh, \"bahan\" ini?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 34,
+          "text": "<i>Nah</i> baru kita sampai ke sana. Baiklah, apa yang kamu inginkan?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 35,
+          "text": "Sayang sekali harus kehilangan bahan yang begitu menjanjikan... Harus bagaimana, harus bagaimana...",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 36,
+          "text": "... Baiklah kalau begitu. Kalian bisa bekerja untuk mengganti nilai bahan ini, dan aku bersedia menganggapnya lunas. Anggap saja ini pekerjaan paruh waktu. Kami benar-benar sibuk sekarang, merombak pajangan dan lembar pesanan untuk mengikuti tren terbaru.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 37,
+          "text": "T-tentu... Tugas seperti apa?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 38,
+          "text": "Ada area dekat sini yang penuh dengan Mannequin.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 39,
+          "text": "... Mannequin?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 40,
+          "text": "Tak sanggup menahan diri, Ishmael menyela sekali lagi, tetapi dengan cepat menyerah ketika Rodion buru-buru melayangkan tatapan keputusasaan kepadanya."
+        },
+        {
+          "index": 41,
+          "text": "Masalahnya adalah Mannequin-Mannequin itu mengenakan pakaian yang sudah sangat, sangat ketinggalan tren mode saat ini.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 42,
+          "text": "Bagaimana kalau pelanggan yang datang ke sini untuk berbelanja melihat Mannequin yang sangat ketinggalan zaman itu dan menolak masuk ke toko kami?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 43,
+          "text": "B-benar... Itu bakal jadi masalah serius buat toko, ya...? Ya... banget...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 44,
+          "text": "Rodya mengangguk kuat-kuat, mungkin berusaha agak terlalu keras agar terlihat simpatik terhadap kesulitan karyawan tersebut."
+        },
+        {
+          "index": 45,
+          "text": "Ya. Yang artinya aku ingin kalian membantu Mannequin-Mannequin itu ke pintu keluar.",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "\"Bantu mereka ke pintu keluar\"? Oke, sekarang aku juga bingung. Sebenarnya apa yang harus kita lakukan?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Permintaan tersebut sederhana.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Kita harus mengeliminasi entitas yang mereka sebut \"Mannequin.\"",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Maksudmu membunuh mereka?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Anda mengajukan lebih banyak pertanyaan dari biasanya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Kamu mau aku bereaksi bagaimana? Aku tidak bisa mengerti setengah dari apa yang dikatakan orang-orang di sini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Saya mengerti.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Kamu <i>mengerti</i> apa?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "Saya telah menyadari bahwa hal-hal di sini mungkin tampak tidak dapat dipahami dari sudut pandang anda.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "Anda harus memahami bahwa, di tempat ini, kata \"akal sehat\" mungkin diterima secara berbeda dari penggunaan konvensionalnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Jadi bagaimana? Apa kalian membantu Mannequin-Mannequin itu ke pintu keluar atau tidak?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 12,
+          "text": "Tunggu sebentar~ Haha... Kita cuma melihat-lihat sebentar di sekitar tokomu... Pakaian-pakaian ini lu-luar biasa!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 13,
+          "text": "Oh, oke! Beli ini, dan aku akan memberikan pakaian itu juga. Kami sedang mengadakan obral akhir musim.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 14,
+          "text": "Jadi gimana nih? Kalau kita mau menyelamatkan Meursault, kita harus membunuh hal-hal yang disebut Mannequin oleh orang ini—apa itu benar?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 15,
+          "text": "Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 16,
+          "text": "Bukankah kalian sudah cukup lama melihat-lihat? Tidakkah kalian pikir kalian harus membeli sesuatu setelah melihat-lihat sebanyak itu?",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10221",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Untuk sekarang... mari menuju ke tempat para Mannequin berada.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Oke kalau begitu... kita bakal membantu mereka ke pintu keluar.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Pilihan bagus. Kalian hanya perlu membantu tiga Mannequin ke pintu keluar.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<Kita bakal balik lagi, jadi tetaplah di penyimpanan—maksudku, tunggu kita di sini, Meursault.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "... Saya harus mendampingi anda, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<Untuk apa?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Aww~ Kamu mikir kita nggak sanggup melakukan tugasnya, kan?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Sebuah pertanyaan, Manajer. Kemungkinan besar anda telah menemui entitas yang mereka sebut sebagai \"Mannequin\" dalam perjalanan menuju ruangan ini. Apakah anda mencoba melakukan kontak fisik dengan mereka?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<Uh... aku gak yakin persis apa yang terhitung sebagai \"Mannequin,\" tapi aku belum mencoba menyentuh satu pun dari mereka untuk saat ini. Malah beberapa sepertinya gak menyadari keberadaanku sama sekali...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Tentu saja. Kontak tidak akan mungkin terjadi. Saya kemungkinan adalah satu-satunya orang yang mampu melakukan intervensi langsung terhadap entitas yang ada di sini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "Namun, berdiri di belakang saya dalam satu barisan akan memungkinkan tingkat interaktivitas yang terbatas dengan lingkungan, meskipun itu tidak akan cukup untuk melibatkan entitas ini dalam pertempuran.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "<Lho. Kenapa bisa begitu...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "Karena tempat ini milik Symbolic, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Apa kamu mau bilang... kita nggak bisa berpartisipasi dalam pertarungan apa pun yang terjadi di sini?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 14,
+          "text": "Hal tersebut dimungkinkan di dalam Shadowed.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 15,
+          "text": "Symbolic, Shadowed... Apa itu?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 16,
+          "text": "Itu adalah nama-nama untuk dunia penyusun department store ini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 17,
+          "text": "Uh... Itu bukan jawaban yang memuaskan, kan.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 18,
+          "text": "Penjelasan yang lebih mendalam dari ini akan membutuhkan investasi waktu yang signifikan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 19,
+          "text": "<... Gimana pun juga, kita memang butuh Meursault bersama kita kalau mau membuat kemajuan nyata, kan?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 20,
+          "text": "Hal itu benar, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 21,
+          "text": "<Kalau gitu kamu yang memimpin, Meursault.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 22,
+          "text": "<Aku bakal kasih tahu kamu jalan mana yang harus diambil.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 23,
+          "text": "Hal tersebut akan dilaksanakan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 24,
+          "text": "Mereka membutuhkan saya untuk mendampingi mereka guna memenuhi pekerjaan yang anda berikan kepada kami. Bolehkah saya pergi sebentar?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 25,
+          "text": "Ya, tentu.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 26,
+          "text": "<... Tunggu, kita kan udah dapat Meursault sekarang. Gimana kalau kita kabur aja dan gak pernah kembali?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 27,
+          "text": "Melarikan diri tidak akan mencegah saya ditempatkan di dalam penyimpanan, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 28,
+          "text": "Oke... jadi kamu mau bilang melarikan diri bersamamu bakal menimbulkan masalah buat kita, kan?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 29,
+          "text": "Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 30,
+          "text": "Mungkin tempat ini punya Hukumnya sendiri—sama seperti Danau Besar.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 31,
+          "text": "*haah* Ayo lakukan seperti kata Meursault. Aku tidak tahu mengapa atau bagaimana, tapi dia tampaknya sangat mengenal department store ini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 32,
+          "text": "<Benar. Kedengarannya kayak rencana yang bagus.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10222",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Nggak bisa nunggu seharian. Cepat ambil keputusan.",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10223",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jadi? Apa kalian sudah memikirkannya?",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10224",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Memberikan apa yang dibutuhkan pelayan toko kemungkinan merupakan hal terbaik jika anda memerlukan layanan saya, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D10225",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Karena kalian sudah mulai bekerja... cepatlah, ya? Musim ini bisa berakhir kapan saja...",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jadi ini... \"Mannequin?\"",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Benda ini dan apa yang kita lihat tadi... rasanya sangat mirip dengan apa yang kita sebut Distorsi. Menurutmu bagaimana, Dante?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "<Memang... Aku rasa mereka benar-benar Distorsi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Nggak mungkin... Trennya berubah lagi?",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 4,
+          "text": "Mode apa yang ngetren sekarang? Aku nggak dengar pengumumannya.",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 5,
+          "text": "Lebih penting lagi, bagaimana bisa kamu berjalan-jalan dengan pakaian mengerikan seperti itu? Apa kamu nggak malu sama diri sendiri? Itu nggak mungkin tren saat ini!",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 6,
+          "text": "Garis-garis bakal kembali suatu hari nanti! Mode selalu berputar!",
+          "speaker": "Leather Glove"
+        }
+      ]
+    },
+    {
+      "key": "D1915",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kergh... Kamu berpakaian dengan kain kumal yang menjijikkan... tapi kamu menyebut <i>aku</i> ketinggalan zaman...?",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 1,
+          "text": "Lain kali... aku bakal berhasil. Aku yang bakal... berhasil menuju ke atas panggung...",
+          "speaker": "Leather Glove"
+        }
+      ]
+    },
+    {
+      "key": "D1023",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jadi kalian berhasil membantu mereka ke pintu keluar. Berkat kalian, lebih banyak pelanggan yang sekarang bisa mengakses toko kami.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 1,
+          "text": "Phew... Banyak sekali pekerjaan kami saat ini. Kami harus merancang ulang dan memperbarui seluruh deretan produk, berhubung trennya berubah.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 2,
+          "text": "Sayang sekali kami terpaksa berpisah dengan bahan ini, tapi ya begitulah...",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<color=#916e46>Mohon perhatiannya. Musim Houndstooth telah resmi berakhir. Kami dengan senang hati mengumumkan bahwa...</color>"
+        },
+        {
+          "index": 4,
+          "text": "Ya ampun! Trennya berubah lagi pas aku membuang-buang waktu mengobrol dengan kalian. Enyah sana kalau nggak beli apa-apa!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D102301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jadi... kamu nggak terluka di mana pun kan, Meur?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102302",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak ada pertikaian kekerasan sejak saya memasuki Sisyphe. Saya tidak mengalami cedera.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D102303",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mengapa mereka menangkapmu sejak awal?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102304",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mereka percaya saya milik Le Kaki.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Le Kaki? Apaan tuh?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Pertanyaan dan keraguan di mana-mana—dapat dipahami, karena Meursault tidak menunjukkan niat untuk menjelaskan masalah secara proaktif, dan bahkan kata-kata yang kami pikir kami ketahui memiliki arti yang sama sekali berbeda bagi entitas di tempat ini."
+        }
+      ]
+    },
+    {
+      "key": "D102305",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pelanggan department store dapat diklasifikasikan menjadi empat kelompok utama, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Kelompok arus utama disebut Le Noir dan Le Rouge. Mereka yang tidak termasuk dalam keduanya dikenal sebagai Le Kaki. Terakhir, ada mereka yang tidak pernah menampakkan diri, dan tidak pula dipanggil oleh orang lain.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Apa orang-orang... \"Kaki\" ini... sering diculik kayak gitu?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102306",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak tepat untuk melabeli apa yang terjadi pada saya sebagai \"penculikan.\" Keberadaan Kaki didefinisikan oleh aliran arus; oleh karena itu, mereka terkadang digunakan sebagai alat atau sebagai bahan pembuatan pakaian.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Sebagian besar Kaki bertujuan untuk membeli dan mengenakan pakaian yang mereka inginkan. Saya tidak memiliki tujuan seperti itu, yang memungkinkan mereka menggunakan saya sebagai bahan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Aku masih belum paham gambaran utuh penyampaiannya... Jadi kamu harus punya tujuan mode di sini? Kayak... membeli pakaian, mencobanya dan semacamnya?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "Orang-orang di sini... sepertinya tidak tertarik pada apa pun selain pakaian.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Ini bukan sekadar tujuan melainkan sebuah raison d'être.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Dengan setiap jawaban yang memicu lebih banyak pertanyaan, saya tidak punya pilihan selain memotong dan menanyakan satu subjek mendasar yang harus ditanyakan seseorang."
+        },
+        {
+          "index": 6,
+          "text": "<Jadi, sekarang setelah semuanya selesai, Meursault, bisakah kamu memberi tahu kami...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "<Di mana tepatnya kita berada?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D102307",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Sisyphe...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<Ya, aku tahu kita di Grand Magasin Sisyphe, dan ya, ini department store. Tapi yang aku tanyakan adalah...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<Di bagian N Corp. mana bangunan ini berada? Dan apa yang dilakukan semua orang di sini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Apa yang bisa kita lakukan untuk keluar dari tempat ini?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Rentetan pertanyaan itu tak kunjung usai, namun Meursault tetap menatap saya tanpa menggerakkan alis sedikit pun."
+        },
+        {
+          "index": 6,
+          "text": "Ada lebih dari beberapa pertanyaan, jadi saya akan menjawabnya satu per satu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Poin pertama: Ini bukanlah bangunan yang dikonstruksi secara fisik, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<Bukan dikonstruksi secara fisik...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Tubuh saya saat ini terbaring tidak sadarkan diri di dalam tangki di Menara Sisyphe, di suatu tempat di N Corp.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "12 tubuh milik anda dan Pendosa lainnya kemungkinan berada di dalam kelompok Mesin Penjual Otomatis Bunuh Diri yang anda sekalian gunakan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Kalau begitu... pikiran kita telah dipindahkan ke sini...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "Dan ini adalah ruang virtual yang dihuni oleh pikiran orang-orang yang dijatuhi Hukuman Sisyphe?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102308",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Aku mengerti. Jadi itu sebabnya mereka membuat pengalaman meresahkan itu sebagai jalur masuk ke sini...",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102309",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Melanjutkan, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Poin kedua: Setiap orang yang memasuki Grand Magasin Sisyphe ditunjuk sebagai \"pelanggan\" yang akan melakukan salah satu dari dua hal—memproduksi pakaian, atau mengonsumsinya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Kalau gitu aku berasumsi semua yang kita lihat tadi terhitung sebagai pakaian juga, kan?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102310",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Tapi aku pikir tempat ini seharusnya pabrik Pengalaman Kalengan. Memenjarakan pikiran orang-orang di ruang virtual, membuat mereka memproduksi pakaian alih-alih kaleng—maksudku, kenapa melakukan semua itu?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102311",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hal itu... bukanlah pertanyaan yang mudah dijawab.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Pertanyaan tentang bagaimana dan mengapa manusia ada tidak menerima upaya apa pun untuk menemukan jawaban akhir dan, terlebih lagi, adalah hal yang sia-sia untuk ditanyakan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Pertanyaan tentang mengapa pelanggan Grand Magasin Sisyphe berusaha membeli dan mengenakan pakaian, dan tentang mengapa dan melalui proses apa department store ini terbentuk... adalah subjek yang sama-sama tidak dapat dipahami.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Maaf, kenapa kita mendadak jadi eksistensial begini? Aku cuma bertanya apa hubungan pakaian dan kaleng satu sama lain...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Ini adalah penyejajaran yang tepat sejauh keduanya tidak dapat dijawab, namun diterima oleh persepsi manusia.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Apa yang sebenarnya kamu—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "Sudah, cukup. Aku nggak mau terus berputar-putar dalam omong kosong tak berguna. Lebih lama lagi begini dan aku bakal gila kayak orang-orang aneh di sini.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Jadi, mari kita rangkum: tempat ini kelihatan nyata, tapi ini ruang virtual tempat cuma pikiran kita yang ada—kayak otak dalam tangki. Tubuh kita semua lagi pesta tidur dengan nyaman di dalam Mesin Penjual Otomatis Bunuh Diri itu. Penghuni di sini semuanya orang gila. Selesai. Semuanya jelas.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "Dengan begitu, rencana kita sederhana: menyelamatkan Meur—udah kita lakukan—menemukannya dalam keadaan utuh—dia utuh—mengambil Golden Bough di atap, lalu keluar dari sini. Semuanya setuju?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 9,
+          "text": "Membeberkan semuanya seperti itu tampaknya membuat segala hal jauh lebih sederhana..."
+        },
+        {
+          "index": 10,
+          "text": "... namun, setelah mengalami cukup banyak cobaan sepanjang perjalanan kami, kami tahu betul bahwa itu lebih mudah diucapkan daripada dilakukan."
+        }
+      ]
+    },
+    {
+      "key": "D102312",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Poin ketiga:",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Tolong, jangan...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Tidak ada metode yang memungkinkan seseorang yang memasuki Sisyphe...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "... untuk pergi dan kembali ke dunia luar pada saat ini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Meursault menyampaikan setiap kata berat dari vonis bencana itu tanpa ragu sejenak pun."
+        },
+        {
+          "index": 5,
+          "text": "<... Gak ada yang bisa kita coba? Pintu Belakang yang terlepas di suatu tempat...? Mungkin mengalahkan penjaga di sini terus pergi...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Meskipun mengasumsikan karakteristik sebuah bangunan, ini adalah ruang simbolis, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Ruang ini tidak memiliki pintu masuk atau pintu keluar dalam arti konvensional.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Oleh karena itu, bahkan jika kita melintasi beberapa jalan yang tampak menuju \"pintu keluar,\" itu hanya akan menjadi tindakan \"perwakilan\"—tanpa menghasilkan kepergian kita yang sebenarnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Kamu tahu, ini makin buruk pas kamu menyampaikan kesimpulan mengerikan itu begitu santainya...",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102313",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Saya tidak berbicara secara santai. Saya menyuarakan fakta yang ada.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Apa itu artinya... gak ada jalan keluar sama sekali buat kita?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Dante, bisa nggak jangan bikin sial begitu...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "Anda dan yang lainnya memasuki tempat ini melalui cara yang tidak dapat digambarkan sebagai konvensional, Manajer. Jalan keluar mungkin ada dalam kasus anda.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Namun, kemungkinan tersebut tidak menjamin bahwa saya dapat dikeluarkan dari tempat ini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Kamu kedengarannya kayak... udah pernah ke sini sebelumnya, Meur. Apa benar?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Tempat ini diperuntukkan bagi penjahat yang dijatuhi Hukuman Sisyphe. Penghuni yang tidak melanggar hukum N Corp. tidak dapat tiba di sini melalui cara biasa.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Lalu bagaimana kamu bisa tahu banyak tentang tempat ini?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "... Saya memperoleh informasi tersebut saat bekerja untuk N Corp.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Sulit membayangkan Meursault dalam percakapan santai dengan orang lain, dengan cangkir di tangannya."
+        },
+        {
+          "index": 10,
+          "text": "Tapi kalau tidak ada orang yang masuk yang pernah keluar, bagaimana seseorang bisa memberitahumu—*haah* tidak usah dipikirkan. Rodya benar. Kita berputar-putar dalam percakapan sekarang.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "Bagaimanapun, ini semua bermuara pada kita yang harus mengambil Golden Bough, kan? Meski tidak ada pintu keluar \"yang layak\" yang bisa kita temukan.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "Kalau begitu... kurasa pilihan satu-satunya adalah memanjat ke arah atas. Kita menemukan cara untuk berlayar mengarungi Danau Besar—kita bakal menemukan cara untuk menavigasi tempat ini juga.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "Saya mempertimbangkan sejenak apakah bijaksana untuk menunjukkan bahwa kapal telah dilengkapi dengan pelacak koordinat untuk memberi tahu kita di mana kita berada, tetapi memutuskan untuk menahan diri. Kebenaran yang dingin tidak selalu membantu."
+        },
+        {
+          "index": 14,
+          "text": "Virtual atau tidak, sebagai Manajer tim, hanya ada satu hal yang bisa saya katakan."
+        },
+        {
+          "index": 15,
+          "text": "<Kalau gitu ayo terus bergerak. Harusnya ada tangga atau sesuatu yang lain yang bisa membawa kita ke lantai berikutnya.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1031",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh! Kamu kelihatan kayak baru sampai di sini juga! Benar kan?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10311",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Syukurlah. Aku dikirim ke sini setelah dijatuhi Hukuman Sisyphe, tapi tidak ada yang mau menjelaskan apa pun padaku! Semua orang cuma ngomong teka-teki dan omong kosong kalau soal tempat ini—maksudku orang-orang di <i>luar</i> juga begitu. Yang di sini? Mereka malah marah dan mengeluhkan aku yang tidak punya akal sehat!",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "Dan tebak, satu orang bahkan bertanya apa mereka boleh memakaiku sebagai bahan. Pasti semacam istilah yang mereka pakai di sini.",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "Jadi... kapan kamu sampai di sini?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "Itu dia yang lagi aku coba cari tahu. Tidak ada jam di sini, dan mereka punya cara aneh menghitung hari. Oh! Bicara soal jam—kepalamu jam! Bisa kasih tahu aku sekarang jam berapa? Aku tahu pasti sudah lama banget sejak makanan terakhirku, tapi anehnya aku tidak merasa lapar...",
+          "speaker": "???"
+        },
+        {
+          "index": 4,
+          "text": "<Yup, itu reaksi seseorang yang baru aja datang dari dunia luar.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Wah, apa itu seragam? Kalian pasti berasal dari Sindikat yang lumayan serius. Apa yang kalian lakukan sampai mereka memutuskan untuk melempar semuanya ke sini dalam satu paket?",
+          "speaker": "???"
+        },
+        {
+          "index": 6,
+          "text": "Hm, gimana aku harus bilangnya ya... Mereka menuduh kita \"agak terlalu peduli sama salah satu rekan kita\", kalau itu masuk akal?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Dan kamu...? Apa yang kamu lakukan sampai menerima Hukuman?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "Ada produk yang dibuat olehku dan teman-temanku.",
+          "speaker": "???"
+        },
+        {
+          "index": 9,
+          "text": "... Aku mengasumsikan \"produk\" ini ilegal untuk diproduksi di N Corp.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "Wah. Bagaimana kamu bisa menebaknya?",
+          "speaker": "???"
+        },
+        {
+          "index": 11,
+          "text": "... Maksudku, itu jelas. Kalau tidak, kenapa lagi mereka memberimu Hukuman Sisyphe?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "Wow. Kamu kedengarannya mirip banget sama jaksa di persidanganku!",
+          "speaker": "???"
+        },
+        {
+          "index": 13,
+          "text": "Semua orang di ruang sidang menegurku dengan keras begitu persidanganku dimulai. Mereka mengatakan sesuatu tentang bagaimana aku menyebarkan kebingungan dan kerusuhan di antara penghuni N Corp. dengan mendistribusikan produk seperti itu...",
+          "speaker": "???"
+        },
+        {
+          "index": 14,
+          "text": "Apa yang sebenarnya kamu buat?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Pengalaman Kalengan Palsu. Oh, aku yang merancang labelnya—aku sudah jadi seniman sejak kecil. Laura bertanggung jawab atas isinya. Ini hal mudah. Yang kamu butuhkan cuma tepung, bubuk kapur, dan sedikit susu bubuk. Rasio bahan-bahannya yang harus kamu perhatikan baik-baik.",
+          "speaker": "???"
+        },
+        {
+          "index": 16,
+          "text": "Pengalaman Kalengan Palsu...? Ada hal seperti itu?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 17,
+          "text": "Lho? Kenapa enggak? Maksudku, kamu cuma perlu membuatnya <i>kelihatan</i> sama. Percayalah padaku, ada banyak orang di Backstreets yang mencari nafkah dengan membuat Pengalaman Kalengan palsu. Lagipula orang-orang tidak ada puasnya dengan apa pun yang berlabel \"pengalaman\".",
+          "speaker": "???"
+        },
+        {
+          "index": 18,
+          "text": "Bagaimanapun, ini pertama kalinya aku mengalami Hukuman Sisyphe. Mungkin mereka bakal mengizinkanku keluar lebih cepat kalau aku bisa membayar jaminan. Bernard bilang dia bakal mencoba mengumpulkan uang dari menjual kaleng palsu.",
+          "speaker": "???"
+        },
+        {
+          "index": 19,
+          "text": "Benar... Dan apa yang terjadi dengan wajahmu...? Apa mereka melukaimu atau semacamnya?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 20,
+          "text": "Oh, aku mendapatkan ini dari kebakaran yang terjadi di panti asuhan tempatku tumbuh. Aku tidak bisa mendapatkan perawatan yang layak tepat waktu karena anak jalanan dan sebagainya, dan... yah. Bernard lebih parah—dia ditinggalkan dengan kepincangan permanen. Malah lebih parah untuk Laura. Menghirup asap benar-benar merusak paru-parunya, jadi dia tidak bisa berlari terlalu lama. Ucapkan selamat tinggal untuk bekerja di Nest dengan bekas luka seperti ini, kan?",
+          "speaker": "???"
+        },
+        {
+          "index": 21,
+          "text": "Tapi hei, setidaknya penjara ini lumayan bagus. Dan aku belum pernah melihat atau mendengar penjara tempat mereka membiarkanmu berkeliaran tanpa menguncimu di dalam sel.",
+          "speaker": "???"
+        },
+        {
+          "index": 22,
+          "text": "Namaku Dubois. Orang-orang juga memanggilku \"Scar D.\"",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 23,
+          "text": "Orang ini...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 24,
+          "text": "Dia tidak tahu apa yang sedang terjadi. Sama seperti kita beberapa waktu lalu...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 25,
+          "text": "Aku nggak tahu, aku... agak merasa kasihan padanya...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 26,
+          "text": "Dan, uh... dia agak neurotik juga, melompat dari satu topik ke topik lain.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 27,
+          "text": "Oiya... Apa kamu tahu cara pergi ke lantai atas? Mungkin ada telepon umum atau semacamnya di atas sana di lantai atas. Aku perlu menelpon teman-temanku.",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 28,
+          "text": "Siapa yang tahu...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 29,
+          "text": "Oh, dan... Apa kalian kebetulan tahu cara naik ke atas? Mungkin ada bilik telepon atau semacamnya di atas sana di lantai atas. Aku harus menelpon teman-temanku.",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 30,
+          "text": "Kami juga sedang mencari jalan ke atas.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 31,
+          "text": "Oh, begitu... Oke. Aku bakal kasih tahu kalian kalau aku berhasil menemukannya.",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1032",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku bakal terus mencari tangga atau eskalator yang menuju ke atas!",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1033",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] Tidak ada misi lagi sekarang",
+          "speaker": "뉴비1 npc"
+        }
+      ]
+    },
+    {
+      "key": "D1040",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "Karyawan di sini tampak tidak terlalu antusias menyapa kita.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<Apakah itu... normal?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Penjual di tempat Le Noir tidak diwajibkan untuk memulai keterlibatan penyedia-klien.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Yah, kalau gitu jangan ganggu mereka dan jalan terus? Dapet untung dua-duanya.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1041",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "Kami hampir bisa merasakan tatapan waspadanya pada kulit kami. Jika dia tidak akan menghentikan kami dari melihat-lihat, mengapa dia mengawasi kami seperti elang...?"
+        }
+      ]
+    },
+    {
+      "key": "D1047",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kelihatannya seperti jas... hanya dipotong dari desain yang jauh lebih berkelas."
+        },
+        {
+          "index": 1,
+          "text": "Hah. Itu sebenarnya jauh lebih bagus dari yang aku bayangkan. Elegan sekali!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "... Mari kita lihat-lihat lagi.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1048",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ooh, apa kamu nggak mikir yang ini dibuat untuk Dante?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "<M-menurutmu begitu?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Tentu saja! Pakaian itu seolah-olah memanggilmu. Dan kita punya bola mata dari tadi—kenapa nggak memanjakan diri?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "Tunggu sebentar. Itu satu-satunya jenis mata uang yang mereka terima di sekitar sini. Kita harus mengatur prioritas kita dengan benar sebelum membuang-buang uang seperti—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "<Jangan khawatir, Ishmael. Lagian kita gak bakal mampu membelinya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Kita tidak mampu?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "Ihh... 450 bola mata? Mahal banget!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Atau mungkin kita saja yang terlalu miskin.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1049",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Gak kayak Casualwear Hall, semua yang dipajang di sini punya penampilan yang serupa.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Pakaian-pakaian ini tidak tunduk pada tren yang berlalu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Koleksi yang dijual oleh label Kontemporer Le Noir dan Le Rouge masing-masing mempertahankan konsistensi visual yang disengaja, sesuai dengan doktrin estetika faksi mereka masing-masing.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<Tapi kalau mereka terus membuat jenis pakaian yang sama... bukannya mode bakal meninggalkan mereka? Tren berubah setiap 5 menit di tempat ini.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Hal itu—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Ketika nama seorang perancang busana punya pengaruh cukup besar, kamu nggak mengejar tren. Tren yang mengejarmu.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Tempelkan label terkenal dan harga konyol pada sesuatu yang semewah ini, dan orang-orang bakal mengantre sebelum kamu menggerakkan jari.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Nggak perlu bikin diri sendiri kelelahan.. cuma buat mengikuti setiap tren kecil.",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1976",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Seluruh pakaian pas ke dalam pandangan."
+        }
+      ]
+    },
+    {
+      "key": "D1042",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Kalau dipikir-pikir, hampir semua yang dipajang di department store ini adalah pakaian. Penasaran kayak gimana lini produksi mereka.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Grand Magasin Sisyphe menawarkan berbagai kesempatan untuk memperoleh bermacam-macam bahan dan lampiran, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Yah... Di luar, aku pikir mereka mendapatkan bahan dari hewan yang diternakkan atau tanaman...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "Itu, atau menggunakan serat sintetis untuk menenun.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Meskipun label pada setiap bahan berbeda dari dunia luar,",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "prinsip dasar manufaktur tetap sama: menyembelih sumbernya dan menggunakan bahan mentah untuk produksi.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "\"Bahan mentah\" yang dimaksud...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "Adalah para pelanggan. Ini berarti mereka membeli dan mengenakan pakaian, namun dapat pula menjadi pakaian itu sendiri.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Benar... Jadi seberapa besar \"pelanggan\" Sisyphe? Para pelanggan yang terjebak di tempat ini?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 9,
+          "text": "Sekitar 300 juta.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "... Aku cukup yakin aku salah dengar.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "Anda tidak salah. Tidak ada tanggal pembebasan untuk Hukuman Sisyphe, dan mereka yang masuk akan tinggal secara permanen. Populasinya secara teoritis berada dalam tren naik yang tak terbatas.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D10421",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Dengarkanlah, karena sekali lagi aku memproklamirkan hari ini. Diberkatilah aula peristirahatan kita dengan pelestarian abadi.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Namun bahkan hari ini, kamu tidak melakukan apa pun saat orang-orang mengerikan dan jahat tak henti-hentinya merobek Yang Keemasan dari dindingnya dan mengambil cahaya keemasannya untuk diri mereka sendiri. Berapa lama kamu akan memaafkan jiwamu yang penakut dan secara lemah menerima akhir zaman?</color>"
+        },
+        {
+          "index": 2,
+          "text": "Aku akan mengindahkan perintah anda, Tuhan. Orang-orang murtad yang berani merampas Getah Emas akan—",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 3,
+          "text": "...!",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 4,
+          "text": "Aku melihat di antara pelanggan kita... mereka yang dengan senang hati menikmati kilauan sacrilege yang ternoda.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 5,
+          "text": "Kenapa dia melihat ke arah kita...? Hei, kita cuma lagi belanja dan gak mengganggu siapa-siapa!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Karyawan itu sedang berbicara kepada Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<Aku? Apa? Kenapa?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Bahwa kekuatan Le Rouge akan berusaha menghasut kekacauan dan mencemari domain suci... Jawab, upaya lancang apa ini untuk membatalkan gencatan senjata kuno?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 9,
+          "text": "Dengar ya, Kawan. Aku bahkan gak tahu apa urusan lucu \"Rouge\" ini, 'kay? Kita bukan siapa-siapa, kita gak ada di pasukan apa pun, dan kita gak mau cari masalah!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 10,
+          "text": "Ah, lalu kamu mengklaim diri sebagai Kaki? Kamu, yang berjalan di toko kami memamerkan perhiasan tidak sopan itu di wajahmu? Apakah kamu berharap kami mempercayaimu?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 11,
+          "text": "Kalau aku boleh menebak... Aku bilang \"perhiasan menghujat\" itu merujuk pada jarum jam Dante...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "<Oke... Terus apa hubungannya sama kita?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "Kemungkinan besar disebabkan oleh ajaran petunjuk faksi Le Noir.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 14,
+          "text": "Saya diberitahu bahwa mereka menganggap pelestarian abadi department store ini sebagai misi yang ditugaskan kepada mereka.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 15,
+          "text": "<color=#7d7d7d>Janganlah kamu membiarkan orang-orang yang ingin mengikis Yang Keemasan.\nKamu harus membersihkan domain kita dari kemurtadan.</color>"
+        },
+        {
+          "index": 16,
+          "text": "Aku tidak akan memberi mereka ampunan... Aku akan merebut kembali getah berseri itu dengan tanganku sendiri dan menyokong cahaya sanctuary yang memudar ini... Ya—suaramu mencapaiku. Sebagai tangan dari kehendak yaitu Le Noir, aku akan bertahan di sini dan...!",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 17,
+          "text": "<color=#7d7d7d>Kamu harus mengusir orang-orang murtad...\nKamu harus melestarikan rona Keemasan...\nKamu disucikan dengan tugas ilahi untuk menaungi cahaya yang profane, Wahai penjaga peristirahatan abadi...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D10430",
+      "texts": [
+        {
+          "index": 0,
+          "text": "T-tunggu... Turunkan senjata anda, tolong...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "Jejak emas anda... meskipun serupa, sangat berbeda dari Getah Emas yang harus kita lestarikan.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 2,
+          "text": "Nah, kalau begitu, kenapa kamu tidak mendengarkan waktu kami bilang begitu? Bisa menghindari seluruh kekacauan ini...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Ishmael melangkah mengancam ke arah karyawan tersebut, yang dengan cepat menyusut mundur."
+        },
+        {
+          "index": 4,
+          "text": "Oh! Aku mengerti... Suaramu bergema di dalam diriku sekali lagi! Ini adalah orang asing yang sebenarnya, polos dari cara kita—pelanggan yang tertarik ke sini oleh nilai merek kita, dan tidak lebih dari itu. Aku akan menerima mereka kembali.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 5,
+          "text": "Maafkan penghinaanku, pelanggan yang terhormat. Cahaya emas yang menggantung di atas anda sangat mirip dengan Getah Emas terberkati yang harus kita lestarikan.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 6,
+          "text": "Kita gak ketemu terlalu banyak orang yang bisa merasakan kehadiran Golden Bough seperti yang kamu lakukan... Gimana cara kamu melakukannya?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Setiap dari kita merasakan denyut emas itu... dan kehausan akannya.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 8,
+          "text": "Cahaya penuntun kita... Kilauan emas yang menenun kita ke dalam bentuk yang kita inginkan...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 9,
+          "text": "Kami menginginkannya juga, kecemerlangan itu. Namun tidak seperti para Rouge yang menyerah pada dorongan dasar mereka, kami para Noir adalah pengawal tersumpah abadi dari bulir terberkati.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 10,
+          "text": "Sebagaimana yang pasti telah anda perhatikan... Dinding-dinding penuh dengan bekas gigitan mengerikan yang ditinggalkan oleh orang-orang merah yang menghujat itu.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 11,
+          "text": "Bulir Getah Emas, sungguh... Tapi orang-orang Rouge yang barbar itu sibuk menyekop esensi dari benteng yang kuat itu ke dalam kerongkongan mereka...!",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 12,
+          "text": "Oke, jadi... apa sebenarnya \"Getah Emas\" itu?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "<Apa ini ada hubungannya sama Golden Bough?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "... Aku pikir dia berbicara tentang... tambalan-tambalan ini.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Rodya menunjuk ke salah satu dinding yang tertutup sedikit tambalan getah yang pudar."
+        }
+      ]
+    },
+    {
+      "key": "D10431",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jadi mereka itu \"Getah Emas,\" ya...",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10432",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Waktunya adalah sembilan Musim pepohonan yang lalu—saat Era Kehancuran turun ke atas Grand Magasin Sisyphe dalam bentuk retakan dahsyat yang terbentuk di dinding-dindingnya.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "Kemudian, beberapa saat sebelum malapetaka menimpa kita, keselamatan tiba dalam bentuk yang tidak bisa tidak adalah ilahi—getah emas yang cemerlang, terwujud di retakan yang akan menjadi kehancuran kita, menambalnya kembali menjadi utuh. Bukankah kita harus memuji dan menyembah takdir ini? Sayangnya... Para Rouge gagal memahami logika yang jelas dalam penghormatan ini, dan malah memilih untuk menguliti dinding... Tak masuk akal.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 2,
+          "text": "Meskipun gencatan senjata yang rentan antara kedua faksi berlaku... Tidak ada yang gagal melihat kebenaran yang berada di depan mereka: perdamaian ini hanyalah ketenangan sesaat, tidak lebih.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 3,
+          "text": "Kemudian... barulah saat itu... pikiranku akan terbuka bagi \"Suara\" yang sebenarnya, di luar siaran.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 4,
+          "text": "...? Lalu apa keributan soal suara-suara tadi?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Uh...! Benar, memang... Aku <i>memang</i> mendengar \"Suara...\" Apa yang ingin aku katakan adalah bahwa pikiranku akan terbuka <i>lebih jauh</i> sehingga aku dapat mendengarnya lebih sering...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 6,
+          "text": "Bagaimanapun... Kalau kamu tahu cara ke lantai atas, maukah memberitahu rahasianya pada kami?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Ah, jadi anda adalah pelanggan yang berusaha mencapai Pusat Layanan Pelanggan, begitu...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 8,
+          "text": "Untuk naik adalah untuk memperoleh prestige, dan menjadi berprestise adalah membelanjakan dan mengonsumsi sampai pengeluaran anda sesuai dengan status yang mereka tuntut.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 9,
+          "text": "Meskipun aku terikat pada posku, untuk tetap berada di tempat ini dan melayani pelanggannya...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 10,
+          "text": "... mungkin anda dapat naik menggantikanku dan menyampaikan kisah kesetiaan abadiku terhadap Getah Emas...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 11,
+          "text": "Paham. Jadi kalau kita mau ke lantai atas, kita perlu mengeluarkan sejumlah uang. Satu pertanyaan lagi kalau kamu tidak keberatan—bagaimana tepatnya kita menghasilkan uang di sekitar sini?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "... Uang?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 13,
+          "text": "Bahasa gaul untuk uang di sini sepertinya \"bola mata\"... Benar kan?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 14,
+          "text": "Oh... Anda orang asing benar-benar memiliki tekad yang tidak seperti yang lain.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 15,
+          "text": "Kalau begitu aku akan membeberkan cara bola mata dapat dimenangkan. Ambil dari para Mannequin. Mereka mencari setiap kesempatan untuk memamerkan diri tanpa henti; jika anda menerapkan diri dengan rajin, anda akan mengumpulkan semua bola mata yang anda butuhkan.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 16,
+          "text": "Dan hal lainnya—tolong, tetaplah waspada di luar titik ini, karena anda akan memasuki wilayah para Rouge. Iblis kafir yang vulgar itu bahkan tidak bisa memasang gulungan kain dengan benar, jadi mereka merobek Getah Emas kita dan menjahitnya kembali dalam bentuk menghujat apa pun yang menyenangkan mereka...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 17,
+          "text": "... Para Rouge... Baiklah. Kami akan mengingatnya.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 18,
+          "text": "Jika tidak ada hal lain, orang asing yang pemberani, aku merasa terhormat untuk memberi tahu anda bahwa tempat ini sekarang terbuka untuk pengamatan anda.",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1043",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kurasa kita udah melihat hampir semua yang mereka tawarkan di sini.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "<Barang-barang yang mereka jual di sini aneh banget ya... Apa semua toko di sini punya inventaris yang aneh kayak gini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Yah, ayo menuju ke toko lain di depan dan cari tahu.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1044",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh... Sangat disayangkan. Kami tidak membawa apa pun yang cocok untuk Orang Asing dengan... kepekaan seperti anda. Kembalilah setelah anda memupuk pemahaman tentang mode—dan menaikkan peringkat anda juga.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "Dan gimana cara kita menaikkannya?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Hanya ada satu cara untuk menaikkan kedudukan seseorang di department store, bukankah begitu?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 3,
+          "text": "... Habiskan uang. Banyak uang.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Tepat sekali. Kalau begitu sampai kita bertemu lagi, Orang Asing dengan mode yang benar-benar... menawan.",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1050",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Selamat datang, pelanggan yang terhormat—",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D10501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ah... Apakah aku mengintai seorang penikmat mode sejati? Gaya yang sangat mirip dengan gaya kami sendiri... canggih... elegan... dan penguasaan warna itu—sangat indah.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 1,
+          "text": "Hah! Lihat kan? Ada yang mengerti.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Pujian itu ditujukan kepada Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<Lho... Aku tebak aku lumayan \"keren\" di sini, kata mereka?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Selamat kalau begitu...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Anda tampaknya memiliki mata yang patut dihormati dalam mode, jadi mungkin aku bisa menawarkan saran ahli tentang berbelanja...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 6,
+          "text": "Jiwa dari label kami adalah pembebasan—pembebasan yang mencekik, tepatnya. Kalian melewati toko Le Noir, kan? Semua pin baja yang dipukulkan ke kain itu adalah pantomim kekangan yang munafik—filosofi Le Rouge berbeda dari akarnya.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 7,
+          "text": "Jika aku boleh mengarahkan perhatian anda... ke sini, apakah anda melihat kelenturan bahan yang halus dan alami? Anda tidak akan melihat itu dari teknik produksi apa pun selain teknik loopwheeling bergigi—ya, ini cukup harfiah. Kulitnya tumpah ke bawah, melengkapi siluet yang tanpa usaha sekaligus luhur.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 8,
+          "text": "Ah! Dan aku akan lalai untuk tidak membagikan bahwa ini termasuk 0,3 ons Kulit Keemasan yang dicampur ke dalam bahan. Cukup rasakan di tangan anda—ah, ini memiliki kilau luar biasa yang praktis berkilau di sepanjang permukaan, bukan? <i>Bukan?</i>",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 9,
+          "text": "Saya tidak bisa tidak memperhatikan bahwa dia membasahi bibirnya dengan lapar sepanjang omelannya."
+        },
+        {
+          "index": 10,
+          "text": "M-memang...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "Ah, maafkan aku... Aku terbawa suasana, kan?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 12,
+          "text": "Kebenarannya adalah, aku perancang busana label ini.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 13,
+          "text": "Astaga, aku bisa bicara berjam-jam tentang semua masalah yang harus aku atasi untuk mendapatkan sudut kecil department store ini untuk diriku sendiri. Bukan tugas mudah meluncurkan label perancang busana di Sisyphe, tahu.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 14,
+          "text": "Yah... setidaknya dia tampaknya masuk ke dalam kubu yang ramah.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Apakah ada siluet tertentu yang anda cari? Jika anda suka, aku bisa memilih garis dari koleksiku yang akan mengartikulasikan fisik anda menuju kesempurnaan.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 16,
+          "text": "Kami... sebenarnya sedang mencoba mencari jalan ke lantai atas.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 17,
+          "text": ".......",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 18,
+          "text": "Lantai atas...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 19,
+          "text": "Ah, aku tahu itu... Kalian lebih tertarik pada merek Mewah juga, kan?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 20,
+          "text": "Tapi aku meyakinkan anda, standar kualitas dan nuansa classique dari desainku tidak jauh ketinggalan dari merek-merek Mewah...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 21,
+          "text": "Ya, tentu saja, daya pikat merek Mewah tidak dapat dipungkiri. Pernah ada masa ketika bahkan aku mendedikasikan diriku untuk mengumpulkan bola mata seperti orang kesurupan, semua demi kesempatan menyaksikan Luxury Hall...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 22,
+          "text": "Nggak, kita cuma...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 23,
+          "text": "Aku tahu seorang Rouge yang dulu bekerja di sini sebelum mereka diizinkan bergabung dengan Luxury Hall. Aku tidak ingin menjelek-jelekkan, tapi aku memang tersinggung dengan bagaimana mereka menyetujui seseorang yang sangat jelas berada di bawahku dalam pemodelan dan desain. Dan membayangkan \"perancang Mewah\" ini mempelajari kerajinan mereka di bawah bimbingan <i>diriku</i> sebagai pemula, bisakah anda mempercayainya?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 24,
+          "text": "Sampai... dengar, di sinilah ini menjadi benar-benar konyol...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 25,
+          "text": "... mereka menggunakan gigi mereka untuk melapisi setiap item mereka dengan tepat 76 bekas gigi di sepanjang kerah dan garis keliman. Apa pun itu yang dilihat pelanggan, penerimaan umum mengklaim itu menampilkan \"siluet dekonstruktif,\" dan praktis mengosongkan rak mereka.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 26,
+          "text": "Eh, aku tidak akan mengaitkan <i>itu</i> dengan keahlian mereka jika pada akhirnya bermuara pada kebetulan belaka... Desainku jauh lebih canggih dari milik mereka, belum lagi sangat elegan.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 27,
+          "text": "Aku pantas diakui sebagai rumah Mewah juga. Label haute couture milikku sendiri! Tapi apa yang harus aku lakukan untuk—",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 28,
+          "text": "... Oh, aku punya inspirasi brilian.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 29,
+          "text": "Apakah anda keberatan mengambillkan aku jarum dari Mannequin Pameran?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 30,
+          "text": "Carikan aku yang ukurannya agak besar, dan aku akan mencoba membuatnya sepadan untuk anda.",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1051",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequin itu kelihatan lebih kuat dari yang lain... Apa kamu pikir ini karena jarum emas ini?",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1055",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apakah anda sudah membawakan jarumnya untukku?",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1052",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ya, ini jarummu. Jadi... bisa jelaskan bagaimana ini menjadi kuncimu untuk bergabung dengan merek-merek Mewah?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Ini cuma sesuatu yang tiba-tiba terlintas padaku. Apakah merekku butuh warisan yang kuat untuk memasuki dunia mode kelas atas? Nggak. Kesempurnaan teknis? Jelas tidak. Bahan langka dan berkualitas tinggi? Tidak sama sekali...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 2,
+          "text": "Tapi aku sudah sangat terobsesi untuk memenuhi kondisi sewenang-wenang itu sampai aku terjebak di dalam lobi yang diagungkan seperti stoples kaca ini.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 3,
+          "text": "Ya, sebuah karya khas... Apa yang kurang dariku adalah karya khas <i>tersebut</i>—apakah anda mengerti apa yang aku tuju?—gagasan tunggal yang akan merebut mata setiap pelanggan hanya dari pandangan sekilas...",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D10521",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Dia mengambil jarum besar itu dari kami, mengangkatnya setinggi matanya... lalu mulai menusuk kulitnya sendiri dengan cepat menggunakan jarum tersebut."
+        },
+        {
+          "index": 2,
+          "text": "Jika aku memberinya pola yang bagus... seperti ini... aku bisa dengan mudah menciptakan kesan tiga dimensi. Tunggu saja sampai anda melihat bahannya membengkak secara merata di seluruh bagian.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 3,
+          "text": "Ohh, aku tidak sabar merasakan setiap lubang dalam pola itu terisi dengan nanah yang lembut dan juicy! Ini bakal menghasilkan sentuhan yang begitu kenyal... Bagaimana? Ini bakal cocok di antara karya-karya terbaik dari Luxury Hall di lantai atas, bukan? <i>bukan?</i>",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 4,
+          "text": "T-tentu saja begitu, kurasa...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Cuma itu yang bisa anda katakan? Anda memiliki mata untuk keindahan—gunakan itu! Hargai apa yang anda lihat!",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 6,
+          "text": "... 21 tusukan di sepanjang sumbu horizontal dan 21 di sepanjang sumbu vertikal, memotong pada interval yang merata. Itu akan menghasilkan kepadatan terbesar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Tentu saja... Sebuah konstruksi hibrida dari proses pembuatan selimut dan desain bertimbul yang dibentuk menjadi bentuk berlian.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 8,
+          "text": "Bagaimanapun, kami sudah membantumu, seperti yang dijanjikan. Kurasa ini saatnya kamu menepati bagianmu dari kesepakatan dan memberitahu kami cara naik ke atas.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "Oh, itu? Anda cukup membangun Prestige Tier anda. Pada tingkat anda saat ini, tentu saja, anda mungkin harus memulai perjalanan belanja anda di Casualwear Hall...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 10,
+          "text": "... Tapi karena anda sangat membantu dalam usaha modeku, aku akan membuat pengecualian khusus untuk anda dan mengizinkan pembelian dari merekku.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 11,
+          "text": "<Tetap gak ada yang gratisan ya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "Pegang kata-kataku: lain kali kita bertemu... mungkin anda akan melihatku di Luxury Hall, memamerkan karyaku—atau haruskah kukatakan, diriku sendiri—di pajangan jendela yang ditinggikan. Ahh... Alangkah bahagianya...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 13,
+          "text": "Lihat aku, membuang-buang waktu mengobrol saat tenggat waktu untuk koleksi berikutnya semakin dekat... Permisi sementara aku menyelesaikan pengembozan jahitan bahu...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 14,
+          "text": "Sementara itu, jangan ragu untuk melihat-lihat koleksi perancang busanaku! Tidak ada barang yang dilarang untuk dibeli...",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1060",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sungguh... jenis produk yang aneh."
+        }
+      ]
+    },
+    {
+      "key": "D1061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh, halo lagi! Aku menemukan eskalator, tapi tidak mau berjalan.",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 1,
+          "text": "Benarkah? Aneh banget, kenapa nggak mau...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Tunggu, sekarang berjalan pas kalian ada di sini! Kalian pasti sudah menemukan cara untuk membuka jalan kalian ke lantai atas!",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 3,
+          "text": "Yah, kita melakukan sedikit belanja... beberapa kerja kasar... beberapa kerja kasar lagi...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Bolehkah aku ikut? Aku berjanji bakal membalas kalian segera setelah aku menemukan cara menghasilkan uang sendiri.",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 5,
+          "text": "Gak ada ruginya juga... Naik saja, kurasa?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa? Akhirnya memutuskan untuk mengantarku ke toilet?",
+          "speaker": "크로머"
+        }
+      ]
+    },
+    {
+      "key": "D1027",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini percakapan biasa",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lihat-lihatlah sekitar. Casualwear Hall melayani tren yang selalu berubah. Tidak perlu menimbang pilihanmu dalam hal fast fashion—cukup ambil satu dan berdandanlah sebelum trennya pergi!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1046",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Silakan kembali lagi nanti.",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1063",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku akhirnya bisa ke lantai atas, berkat kalian! Aku tidak akan melupakan apa yang kalian lakukan untukku.",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada sisa botol kosong? Telapak tangan cadangan juga boleh.",
+          "speaker": "Eye-shopping Customer"
+        },
+        {
+          "index": 1,
+          "text": "Aku... nggak mikir kita punya botol kosong atau... telapak tangan cadangan... Maaf... ha... ha...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Sialan. Aku nggak punya cukup bola mata buat koleksi baru musim ini...",
+          "speaker": "Eye-shopping Customer"
+        },
+        {
+          "index": 3,
+          "text": "Pelanggan itu menggigit kuku mereka dengan cemas."
+        }
+      ]
+    },
+    {
+      "key": "D1925",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jangan repot-repot bicara padaku kalau kamu tidak akan meminjamkanku apa pun...",
+          "speaker": "Eye-shopping Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1926",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Bahkan apaan ini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Aku pikir ini... bergerak. Kayak berkedut... Dan ini punya simpul-simpul menyeramkan yang tersangkut di mana-mana...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Jangan melihat terlalu dekat.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1927",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Barang pajangan yang tidak teridentifikasi. ... Mari tidak melihat terlalu dekat."
+        }
+      ]
+    },
+    {
+      "key": "D1016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Syukurlah aku memesan keriting dermal sebelum trennya mati! Begitu mereka melapiskan keriting ke setiap jalinan kulitku, tidak ada yang bakal bisa memalingkan mata mereka dariku!",
+          "speaker": "Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Orang-orang asing—berhenti memperhatikan diriku. Aku baru setengah jalan menjalani perawatan perombakanku. Kalian tidak akan bisa tahu siapa aku bahkan jika kalian mencoba.",
+          "speaker": "Treatment Customer"
+        },
+        {
+          "index": 1,
+          "text": "*haah* Aku tidak bisa lagi dengan orang-orang gelandangan yang bahkan tidak mampu membayar perawatan ini. Hus. Pergi. Urus urusanmu sendiri.",
+          "speaker": "Treatment Customer"
+        },
+        {
+          "index": 2,
+          "text": "Berhenti menatapku!",
+          "speaker": "Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1949",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Berhenti menatapku, kubilang!",
+          "speaker": "Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tren ini sebaiknya cepat mati. Aku tidak punya satu pun tambalan kulit telanjang yang tersisa untuk polkadot lainnya.",
+          "speaker": "Eye-shopping Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Untuk Pelanggan yang Tersesat:\nHarap tatap mata ke atas untuk menikmati koleksi Rouge. Tatap mata ke bawah untuk menikmati koleksi Noir."
+        }
+      ]
+    },
+    {
+      "key": "D1056",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tumpukan mayat yang jatuh di tengah lantai tampaknya meledak dan memercik sampai ke sini."
+        },
+        {
+          "index": 1,
+          "text": "Untuk saat ini, jalan ke depan terhalang."
+        }
+      ]
+    },
+    {
+      "key": "D1901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Kelihatannya seperti penghalang sabuk biasa. Aku harusnya bisa melangkahi ini... Tapi begitu aku mencoba, rasanya mustahil.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Hal itu karena kita saat ini berada di dalam Symbolic.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Secara fisik, objek tersebut hanya terdiri dari dua tiang logam yang dihubungkan oleh sabuk yang dapat ditarik. Namun, objek tersebut telah diberi fungsi simbolis untuk menolak perlintasan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Fungsi tersebut bersifat mutlak sejauh makna simbolisnya diperhatikan. Hal itu tidak dapat dilintasi di dalam alam ini, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<J-jadi... Apa kalian bisa menemukan mereka?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Mereka menghilang... Dan aku tidak bermaksud seperti kita kehilangan satu atau dua orang—semua orang kecuali kita menghilang begitu saja.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "A-ayolah~ Candaannya selesai, semuanya, keluarlah... I-ini nggak lucu!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "<Uh, tunggu sebentar...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "<... Baiklah, aku gak yakin apa masalah di pihak mereka, tapi aku gak pikir ini sesuatu yang perlu dipaniki.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Oh! Benar! Dante bisa melihat di mana semua orang berada. Baiklah, di mana yang lainnya?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "<... Mereka ada di toilet. Kelihatannya mereka mencoba segala cara buat keluar, tapi... gak begitu berhasil.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Mereka tidak akan balik lagi hanya untuk bersantai dalam situasi seperti ini. Mungkin ada aturan atau fenomena khusus di tempat ini yang menyeret mereka semua kembali ke toilet?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "<Ayo cari Meursault dulu. Masalah toilet bisa... mungkin menunggu sebentar lagi.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…Hm?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10202",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tunggu dulu. Ke mana semua orang pergi?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Mungkin mereka tertinggal di belakang? Maksudku, jalanan di sini agak berbelok-belok, jadi...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "... Itu mungkin saja terjadi. Biar aku periksa.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10203",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ish... Ish bakal ikut menghilang juga nggak ya?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "<S-sekarang kamu mulai bikin aku takut. Jangan jinx kita kayak gitu...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1097",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequin-Mannequin tersebut harus terlebih dahulu dipandu ke pintu keluar, Manajer. Selanjutnya adalah transaksi di mana saya menjadi objek pertukaran.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1098",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ayo, Dante. Kita harus pergi menjemput Meursault.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Rak pajangan yang penuh dengan benda-benda yang tidak dapat diidentifikasi."
+        }
+      ]
+    },
+    {
+      "key": "D1924",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Labelnya berbunyi: \"Cakupan Yang Tidak Pernah Memudar! Rasakan Limfa Menyegarkan dari Kulit Yang Baru Saja Tertiup! Langsung Laris Manis!\""
+        },
+        {
+          "index": 1,
+          "text": "... Tampaknya tidak perlu memeriksa produk itu sendiri."
+        }
+      ]
+    },
+    {
+      "key": "D1903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Dan apa ini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Kelihatannya seperti lampu pemanas salon. Aku pernah melihat beberapa sebelumnya.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Aku ingat menghabiskan waktu berjam-jam duduk di bawahnya, mencoba meluruskan rambutku. Itu... jelas tidak berhasil.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ishmael menyebutnya lampu pemanas salon. Saya ragu itu akan melakukan apa pun selain menghangatkan kepala saya."
+        }
+      ]
+    },
+    {
+      "key": "D1905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Saya sangat tergiur untuk duduk dan mengistirahatkan kaki di sini. Tapi... menyelamatkan Meursault adalah prioritas. Waktu sangat berharga."
+        }
+      ]
+    },
+    {
+      "key": "D1906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak ada waktu untuk duduk-duduk. Kita perlu mencari cara keluar dari sini secepat mungkin."
+        }
+      ]
+    },
+    {
+      "key": "D1907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ada bola mata di sini. Apa ada yang menjatuhkannya?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Apa itu sesuatu yang biasa dijatuhkan orang-orang seperti uang kembalian?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Wanita yang mengaku sebagai saudara perempuan Kromer bilang bola-bola mata ini berfungsi sebagai mata uang di tempat ini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Jadi ini <i>memang</i> uang kembalian, ya...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Sebelum ada yang sempat keberatan, Rodya menyelipkan bola mata itu ke dalam saku bajunya."
+        }
+      ]
+    },
+    {
+      "key": "D1908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ada bola mata di sini. Apa ada yang menjatuhkannya?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Apa itu sesuatu yang biasa dijatuhkan orang-orang seperti uang kembalian?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Wanita yang mengaku sebagai saudara perempuan Kromer bilang bola-bola mata ini berfungsi sebagai mata uang di tempat ini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Jadi ini <i>memang</i> uang kembalian, ya...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Sebelum ada yang sempat keberatan, Rodya menyelipkan bola mata itu ke dalam saku bajunya."
+        }
+      ]
+    },
+    {
+      "key": "D1909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kami mengambil bola mata yang dijatuhkan oleh seorang pelanggan."
+        }
+      ]
+    },
+    {
+      "key": "D1910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kami mengambil bola mata yang dijatuhkan oleh seorang pelanggan."
+        }
+      ]
+    },
+    {
+      "key": "D1947",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pakaian yang dibentuk menjadi seperti burung. Bagaimana seseorang bisa mengenakan ini?"
+        }
+      ]
+    },
+    {
+      "key": "D1948",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah topi dipajang di bawah plakat bertuliskan, \"LAGI TREN SEKARANG.\""
+        }
+      ]
+    },
+    {
+      "key": "D1945",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dubois terbaring mati."
+        },
+        {
+          "index": 1,
+          "text": "Instruksi anda telah dilaksanakan, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "... Aku akan jujur. Membunuh seseorang yang sangat baik pada kita tidak terasa benar bagiku.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "... Kita butuh uang kalau mau ke lantai atas.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Ini salah satu cara buat mendapatkannya... Kecuali kalau kita berencana menumpang di sini jualan baju—atau menghabiskan seharian menggeledah mayat kayak orang-orang di luar.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "Yah, aku tidak berusaha membuat Dante merasa bersalah karena membuat keputusan itu. Mereka pasti punya sesuatu di dalam pikiran saat memerintahkan Meursault melakukan itu.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "<…….>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pakaian hitam digantung di bawah sorotan lampu."
+        }
+      ]
+    },
+    {
+      "key": "D1956",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequin terbalik mencuat dari lantai. Apa ini dimaksudkan untuk memodelkan celana panjang? Kaos kaki?"
+        }
+      ]
+    },
+    {
+      "key": "D1957",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Kenapa mereka memajangnya dalam pose... terdistorsi begitu?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Untuk menyajikan tubuh bagian atas dan bawah, termasuk kepala dan kaki, secara bersamaan dalam bidang pandang pelanggan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "... Tapi kenapa? Biarkan saja berdiri tegak, dan orang-orang tinggal melihat ke atas dan ke bawah buat memeriksanya.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Hal itu akan—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Kenapa harus repot-repot, Ishy? Dengan cara ini, seluruh pakaian pas ke dalam pandangan~",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "... Itu yang baru saja mau kamu katakan, kan, Meur?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "... Ah.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "Ishmael perlahan mengangguk seolah dia akhirnya menerima bahwa tempat ini beroperasi pada akal sehatnya sendiri."
+        }
+      ]
+    },
+    {
+      "key": "D1958",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequin terbalik yang memajang tubuh bagian atas, tubuh bagian bawah, kepala, dan kakinya sekaligus. Seluruh pakaian pas ke dalam pandangan."
+        }
+      ]
+    },
+    {
+      "key": "D1961",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>.......</color>"
+        },
+        {
+          "index": 1,
+          "text": "Gelak tawa lembut dan hangat menyapu ujung jari yang diletakkan di dinding."
+        },
+        {
+          "index": 2,
+          "text": "Cahaya pucat, mengingatkan pada Golden Bough, berkilauan di bawah permukaannya."
+        }
+      ]
+    },
+    {
+      "key": "D1962",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Aku mengira itu bakal sakit... tapi aku gak menyangka itu menelanmu bulat-bulat.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<Kamu gak apa-apa, Meursault?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Tidak ada masalah.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "*haah* Yah, itu pelajaran yang bisa dipetik. Saat benda itu bergetar, anggap itu sebagai peringatan bahwa ia bersiap untuk menerjang.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Benda itu bisa meluncur <i>cepat</i> banget ya? Kayak, sepanjang jalan dari ujung sana... Gimana caranya kamu bisa menghindar dari itu...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<Itu cepat, tapi kelihatannya gak bisa mengubah arahnya di tengah jalan.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Mungkin kamu bisa memanfaatkan sifat itu buat menghindari tabrakan.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1991",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Gak menyangka itu bakal melompat jauh sampai ke kepala.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Itu lumayan lambat. Dan bahkan tidak sekuat itu.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Ayo coba. Aku tidak berpikir Meursault bakal kesulitan bertarung melawannya kecuali dia menurunkan kewaspadaannya.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Mm.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1990",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Sialan... Satu jarum itu membuat perbedaan sebanyak itu?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Jarum yang tertanam di dalamnya memancarkan cahaya keemasan redup. Kemungkinan besar itulah elemen yang memperkuatnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Hmm... Kalau begitu pilihan satu-satunya adalah membeli pakaian yang bisa membantu... atau lebih berhati-hati saat bertarung melawannya.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Setuju.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Kamu pasti bisa, Meur~",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1960",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dinding ditambal dengan Kulit Keemasan."
+        },
+        {
+          "index": 1,
+          "text": "Kehadirannya redup, tetapi sesuatu tentangnya terasa seperti Golden Bough."
+        }
+      ]
+    },
+    {
+      "key": "D1942",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat ini tidak berbeda jauh dari yang lain yang pernah kita lihat. Bola mata berlumuran darah—tampaknya dikumpulkan dari tubuh yang jatuh—tersebar di sekitarnya."
+        }
+      ]
+    },
+    {
+      "key": "D1943",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Majalah yang terbuka memuat artikel tentang keriting dermal, prosedur khusus yang tampaknya hanya ditawarkan di lantai satu."
+        }
+      ]
+    },
+    {
+      "key": "D1911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tulang setipis jarum mencuat seperti duri dari lipatan daging yang mengendur."
+        }
+      ]
+    },
+    {
+      "key": "D1913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Di antara pakaian biasa tergantung potongan-potongan grotesk yang tidak seperti apa pun dari dunia luar."
+        }
+      ]
+    },
+    {
+      "key": "D1928",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lipatan pakaian yang terkulai bergetar redup. Ini bukan pemandangan yang sangat menarik."
+        }
+      ]
+    },
+    {
+      "key": "D1929",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequin-Mannequin berdiri di pajangan."
+        },
+        {
+          "index": 1,
+          "text": "Ugh... Matanya mengikuti kita setiap kali kita bergerak.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Yang itu menatap kita sekilas, lalu memalingkan kepala mereka.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Ekspresi mereka menunjukkan bahwa pemandangan kita melebihi batas toleransi mereka terhadap hal yang tidak menyenangkan secara visual.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<Wow. Itu agak menyakitkan hati...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1951",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequin-Mannequin berdiri di pajangan. Ini tidak memiliki tatapan yang paling mengundang untuk kontes menatap."
+        }
+      ]
+    },
+    {
+      "key": "D1952",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu yang kelihatannya seperti direktori department store ditempelkan di mesin penjual minuman. Kerusakan telah menutupi sebagian besar tulisan."
+        },
+        {
+          "index": 1,
+          "text": "... Hei, ada apa dengan peta ini? Kelihatan agak aneh bagiku...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Kamu benar... Menurut diagram, department store ini harusnya jauh lebih besar dan rumit daripada yang pernah kita lihat.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Peta tersebut kemungkinan tidak keliru. Department store ini menempati domain spasial yang sangat besar; lokasi yang dapat diakses oleh persepsi kita kemungkinan hanya merupakan sebagian kecil dari keseluruhan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Dan tempat ini seharusnya menampung... 300 juta orang, ya?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "Oh, apa itu menyebutkan lantai mana yang memiliki Golden Bough?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Mengapa ada orang yang memasukkan hal itu ke dalam direktori?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "Hei, kamu tidak pernah tahu...",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1953",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu yang kelihatannya seperti direktori department store ditempelkan di mesin penjual minuman. Kerusakan telah menutupi sebagian besar tulisan."
+        }
+      ]
+    },
+    {
+      "key": "D1954",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dalam tulisan anggun: \"Koleksi avant-garde paling berani musim ini dari Le Rouge! Jika pesannya gagal menggerakkanmu, kamu belum siap untuk keagungannya!\""
+        }
+      ]
+    },
+    {
+      "key": "D1955",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Objek yang tidak teridentifikasi berada di pajangan, kain merah dan daging terbelit bersama di luar pengenalan."
+        }
+      ]
+    },
+    {
+      "key": "D1959",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ooh, bola mata lainnya!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Wah, kamu cepat sekali. Tanganmu cepat juga, ya.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Kami mengambil bola mata yang dijatuhkan oleh seorang pelanggan."
+        }
+      ]
+    },
+    {
+      "key": "D10011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Teman-teman, apa yang terjadi?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Kita tidak bisa meninggalkan toilet. Heathcliff dan Don Quixote dua-duanya sudah mencoba hampir segalanya, tapi... tidak ada yang berhasil.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "Itu... masalah serius. Ini mungkin berarti kita satu-satunya yang diizinkan keluar.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Pasti ada cara untuk mengakali hal ini.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "Empat Pendosa... di setiap lantai...",
+          "speaker": "???"
+        },
+        {
+          "index": 5,
+          "text": "... waktu... di luar itu... tidak bisa melindungi...",
+          "speaker": "???"
+        },
+        {
+          "index": 6,
+          "text": "…….",
+          "speaker": "???"
+        },
+        {
+          "index": 7,
+          "text": "Argh! Gak bisa ya lo selesaikan kalimat sialan itu?! Apaan coba maksudnya?!",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 8,
+          "text": "Makna yang ingin ia sampaikan tampaknya adalah hanya empat orang yang dapat meninggalkan toilet secara bersamaan. Mungkin jumlah yang lebih besar dari itu menimbulkan risiko tertentu.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 9,
+          "text": "<Oke... Tapi bukannya masih tiga orang? Termasuk aku?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 10,
+          "text": "Menghitung Meursault, yang saat ini tidak hadir di toilet, jumlahnya menjadi empat.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 11,
+          "text": "Oh, kamu benar. Hmm... Apakah ada cara untuk mengubah siapa yang diizinkan keluar kalau begitu, aku penasaran?",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 12,
+          "text": "Sayang sekali tidak, Hong Lu muda. Aku menyimpan prasangka yang sama persis denganmu, dan telah berusaha untuk berangkat beberapa saat setelah kembalinya Ishmael muda dan Rodya... Sayangnya, pintu tidak mengizinkan kelulusanku.",
+          "speaker": "Don Quixote"
+        },
+        {
+          "index": 13,
+          "text": "Empat Pendosa di setiap lantai. Begitu yang ia katakan.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 14,
+          "text": "Dan, jika saya boleh menebak... susunannya tidak dapat diubah setelah difinalisasi. Apakah saya benar?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 15,
+          "text": "…….",
+          "speaker": "???"
+        },
+        {
+          "index": 16,
+          "text": "Ia mengangguk ringan pada dugaan Outis sebelum menambahkan komentar lain."
+        },
+        {
+          "index": 17,
+          "text": "... bisa... berubah... saat lantai... berganti...",
+          "speaker": "???"
+        },
+        {
+          "index": 18,
+          "text": "... Mau bagaimana lagi, kurasa. Mari kita bertiga keluar untuk sekarang.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 19,
+          "text": "Mm. Tetaplah waspada, rekan-rekan sekalian.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 20,
+          "text": "<Saatnya pergi mencari Meursault.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1099",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequin itu kelihatan lebih kuat dari yang lain... Apa kamu pikir ini karena jarum emas ini?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Panjangnya kelihatan jauh di atas satu kaki. Dengan ukuran segitu... itu lebih mirip mata tombak.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<Rasanya sangat mirip hal... Getah Emas yang kita lihat sebelumnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Masa sih. Kalau begitu mungkin Mannequin ini dapat daya dari Golden Bough juga?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "<Gak bisa dipastikan... tapi aku pikir begitu. Meursault, bisakah kamu mengambilnya untuk sekarang?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1100",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Masih ada urusan yang belum selesai di area ini, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya biru yang familiar bocor keluar dari dalam. Untuk saat ini, mencari di area sekitar harus menjadi prioritas."
+        }
+      ]
+    },
+    {
+      "key": "D1102",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kita harus kembali ke toilet dan berkumpul kembali terlebih dahulu."
+        }
+      ]
+    },
+    {
+      "key": "D1106",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kita belum mencapai peringkat yang dibutuhkan untuk melanjutkan ke lantai berikutnya.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1107",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Eskalator sekarang tampaknya beroperasi, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Namun, masih ada hal-hal yang perlu diselesaikan sebelum kepergian kita.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1109",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Setidaknya, kita berhasil kembali...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Manajer Eksekutif. Apakah anda dapat melihat lingkungan Meursault saat ini? Saya ingat anda membangkitkan kemampuan yang sangat nyaman dalam upaya membantu anggota tim kita yang lebih kurang.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "Jika ada sesuatu yang terlihat, saya usulkan kita menggunakan rincian tersebut untuk menemukan lokasi tempat dia ditahan.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "Oh, benar. Kamu bisa melakukan itu, kan, Kawan Manajer? Kalau kamu bisa melihat sesuatu dari sisinya, itu seharusnya menyempitkan pencarian dan mempermudah kita.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "<Hmm... Aku gak tahu apa ini bakal berhasil dari sini, tapi aku bakal mencobanya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<…….>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Aku rasa aku melihat... uh, lantai karpet? Ya, itu karpet... dan ada potongan-potongan kain di depan... Pakaian, mungkin. Kelihatannya mereka memajangnya. Meursault berdiri diam sepenuhnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "<Dia gak kelihatan diikat atau apa pun... Hah? Ada seseorang di sampingnya...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Cih. Belum banyak waktu berlalu sejak eksekusi, dan dia sudah membiarkan dirinya ditawan. Tampilan ketidakmampuan yang tidak biasa datang darinya—<i>dan</i> di berbagai lini.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 9,
+          "text": "Hah... Karpet, dan pakaian dipajang... Yah, itu lebih baik daripada tidak punya petunjuk sama sekali.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 10,
+          "text": "<Dia gak kelihatan terluka atau dalam bahaya mendesak... Ayo mulai dengan mencari ruangan berkarpet dengan pakaian yang dipajang.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1980",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hm? Bagaimana bisa kalian kembali begitu cepat?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Nggak, aku pikir ada yang salah di sini~ Benar kan, Meur?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<... \"Bukit\" mungkin pilihan yang salah kalau begitu. Ayo kembali ke B1 dan coba eskalatornya lagi.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1963",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apaan itu semua?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Pakaian yang telah ketinggalan zaman karena bergantinya musim tren.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Seseorang telah mengumpulkannya di sini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Baju-baju itu disembunyikan di sudut yang sangat terpencil. Hampir terlihat seolah-olah seseorang mencoba menyembunyikannya...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Kamu tahu kan mode itu seperti apa—mode itu satu siklus besar. Mungkin seseorang menyimpannya di sini sampai baju-baju itu bisa ngetren lagi?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<Apakah barang-barang ini bisa dijual?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Sangat sedikit bukti untuk mendukung kemungkinan tersebut. Baju-baju ini tidak memiliki label harga yang tepat dan tidak dirawat, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Hup...! Sayang sekali. Gak berhasil. Sudah kuduga...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "A-apa yang kamu lakukan?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "Aku lagi mencoba mengambil satu, tentu saja. Maaf, Meur, tapi bisa ambilkan mana pun yang kondisinya paling bagus? Ada banyak barang lain di sana yang tercampur sama pakaian juga.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 10,
+          "text": "... Dimengerti.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Mendapatkan 10 bola mata."
+        }
+      ]
+    },
+    {
+      "key": "D1964",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu tersembunyi di dalam retakan dinding."
+        },
+        {
+          "index": 1,
+          "text": "Meursault mengambil Pakaian Rouge Ketinggalan Zaman."
+        }
+      ]
+    },
+    {
+      "key": "D1916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Ini cuma mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D1917",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Rouge. Darah mengalir dari lubang di wajah saat kepalanya terkulai lemah ke depan."
+        }
+      ]
+    },
+    {
+      "key": "D1965",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Semua aroma mulai bercampur menjadi satu."
+        }
+      ]
+    },
+    {
+      "key": "D1966",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Wewangian yang asing menggantung di udara. Ini pasti bagian parfum."
+        }
+      ]
+    },
+    {
+      "key": "D1967",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada sesuatu yang aneh dan tidak biasa dari baunya. ... Baunya mulai terasa lebih seperti bau busuk."
+        }
+      ]
+    },
+    {
+      "key": "D1968",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aroma manis bercampur pahit tertinggal di udara."
+        }
+      ]
+    },
+    {
+      "key": "D1969",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Barang dagangan di sini berbeda dari apa yang ada di pajangan sepanjang jalan."
+        }
+      ]
+    },
+    {
+      "key": "D1970",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pakaian yang tidak populer, mungkin? Baju-baju itu dilemparkan tanpa peduli ke sebuah sudut."
+        }
+      ]
+    },
+    {
+      "key": "D1971",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pakaian-pakaian telah ditumpuk sembarangan di sudut."
+        }
+      ]
+    },
+    {
+      "key": "D1972",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah rak dengan sesuatu yang dipajang."
+        }
+      ]
+    },
+    {
+      "key": "D1973",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tanda itu bertuliskan, \"OBRAL BESAR-BESARAN\"."
+        }
+      ]
+    },
+    {
+      "key": "D1974",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tertulis [Koleksi Origami N ° 92, 1 dari 5]."
+        }
+      ]
+    },
+    {
+      "key": "D1975",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah pameran berbentuk seperti jalinan anggota badan yang saling melilit."
+        }
+      ]
+    },
+    {
+      "key": "D1083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Arah sana... Mungkin ada lebih banyak hal untuk dikumpulkan di sana...? Sialan, aku mengambil tempat yang salah!",
+          "speaker": "Impatient Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tempat ini milikku. Enyah sana!",
+          "speaker": "Desperate Customer"
+        },
+        {
+          "index": 1,
+          "text": "Wah, kamu galak banget ya. Baik, baik~ kita mundur~",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hei! Angkat kakimu. Bukankah kamu baru saja menginjak bola mata?!",
+          "speaker": "Destitute Customer"
+        },
+        {
+          "index": 1,
+          "text": "... Uh, kamu sedang berbicara denganku?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Apa aku salah lihat...? Masa bodohlah. Berhenti mengendap-endap kalau begitu! Kamu bikin aku hilang fokus!",
+          "speaker": "Destitute Customer"
+        },
+        {
+          "index": 3,
+          "text": "... Hei, bukankah seharusnya kamu minta maaf kalau salah paham? *haah* Sebenarnya, lupakan saja.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mereka tampaknya sibuk mengumpulkan bola mata."
+        }
+      ]
+    },
+    {
+      "key": "D1977",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku bisa melihat sesuatu yang berkilauan di sana, tapi ini mungkin bukan waktu yang tepat untuk mengkhawatirkan hal itu."
+        }
+      ]
+    },
+    {
+      "key": "D1981",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kalian seharusnya mengantarkan Mannequin-Mannequin itu ke pintu keluar, bukan aku!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1982",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hentikan! Sakit tahu!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1983",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aduh...! Itu tadi ketidaksengajaan, kan?",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1984",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa aku menyinggung kalian atau semacamnya? Tolong, aku minta maaf. Jangan sakiti aku!",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1985",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...! Apakah anda sekalian pelanggan, atau orang-orang yang menghujat?!",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1986",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apakah anda sekalian di sini untuk membunuhku dan mengikis Getah Emas dari dagingku?!",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1987",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada masalah apa? Apakah anda tidak menyukai labelku?",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1988",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mewarnai pakaian dengan darah? Itu mode yang agak ketinggalan zaman untuk dikejar, bukan? Kampungan sekali.",
+          "speaker": "Quillian"
+        }
+      ]
+    }
+  ]
+}
