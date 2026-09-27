@@ -1,0 +1,1303 @@
+{
+  "dataList": [
+    {
+      "key": "D2002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ada apa nih di sini?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "Woi... Itu Distorsi yang di sana?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "<Uh... Ya gitu lah. Nggak ada yang <i>mengenali</i> mereka sebagai Distorsi, dan tempat ini punya nama lain buat mereka, tapi... mereka itu Distorsi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Renovasi desain interior sedang berlangsung di Aula Mewah, seperti yang dapat anda lihat.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 4,
+          "text": "Harap berhati-hati saat melangkah.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 5,
+          "text": "Ah, mohon maaf atas kebisingannya. Renovasi ini merupakan proyek konstruksi berskala cukup besar.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 6,
+          "text": "... \"Renovasi,\" ya?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "Bos lama gua dulu suka ngomong \"ambil perkakas lu pada! Kita berangkat buat <i>merenovasi</i> muka orang!\" tiap kali kita nyerang Syndicate lain.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 8,
+          "text": "Maksud lu gitu juga, Ha?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 9,
+          "text": "Tidak persis demikian; ini hanyalah penataan ulang yang sangat khusus, tidak seperti yang pernah ada sebelumnya—lebih dari sekedar mengganti beberapa pajangan yang sudah ketinggalan zaman. Kali ini, proyeknya adalah membangun buaian... untuk menyambut kedatangan seseorang yang sangat penting.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 10,
+          "text": "Jadi... apa yang mereka makan di belakang sana? Sejenis pesta kanibal?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 11,
+          "text": "Kami sedang menyantap para Noir. Meskipun ini hampir tidak cukup untuk memuaskan rasa lapar kami...",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 12,
+          "text": "Silakan kembali setelah pekerjaan konstruksi selesai. Anda akan segera melihat tempat ini terlahir kembali menjadi wujud keindahan yang jauh lebih megah!",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 13,
+          "text": "Omong-omong... Hm, tampaknya Tingkat Prestise anda sekalian terlalu rendah untuk diizinkan masuk ke Aula Mewah, Pelanggan yang terhormat. Mohon dapat dipahami bahwa Aula Mewah adalah tempat paling eksklusif di lantai mana pun. Tentu saja, para pelanggannya harus diseleksi dan dikurasi secara ketat. Dengan kata lain, tidak sembarang orang boleh melenggang begitu saja ke areanya.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 14,
+          "text": "Apaan tuh Tingkat Prestise? Lu gak bakal ngizinin kita masuk?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 15,
+          "text": "Tidak. Saya khawatir Aula Mewah... bukanlah jenis tempat yang perlu menjajakan diri kepada basis pelanggannya.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 16,
+          "text": "Tidak akan lama lagi sampai renovasi selesai, mengangkat Aula Mewah melampaui masa-masa kejayaannya sejak pembukaan perdana. Silakan kembali habis menaikkan tier anda jika ingin menyaksikan pemandangan megah yang akan datang.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 17,
+          "text": "(Dia bersenandung merdu, seolah merasa puas dengan dirinya sendiri.)",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 18,
+          "text": "... Menjadi hal yang bijaksana untuk mengunjungi kembali Aula Mewah setelah \"<i>proyek</i> konstruksi\" mereka selesai.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 19,
+          "text": "... Gua malah ogah balik ke sana lagi.",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tingkatkan Tingkat Prestise anda terlebih dahulu dan datanglah mengetuk kembali. Lalu, mungkin, kami akan mempertimbangkan kembali kualifikasi anda.",
+          "speaker": "Direktur Merek"
+        }
+      ]
+    },
+    {
+      "key": "D20041",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>Untuk lantai ini...</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#515aee>Intuisi... yang diperkuat oleh akal budi...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D2004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hah! Itu sih gampang banget! Lihat nih, gak susah kok nyampe ke siku gua—",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "—oooaagh! Sialan, gua ada di mana nih!?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "<Uh... Ada apa?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "D-dengerin dulu, gua ama yang lain di kamar mandi cuma, uhm, taruhan doang, gitu doang kok. Cuma pengen tahu apa bisa jilat siku sendiri... *uhuk*",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "Tampaknya anda telah menemukan cara untuk berpindah antarlantai, Dante.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "<Ya, menghabiskan uang—maksudku, \"bola mata\"—yang kita dapatkan di sini menaikkan tier pengeluaran dan membuat kita bisa naik ke lantai yang lebih tinggi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<... Omong-omong, Dubois di mana?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Dubois? Siapa tuh?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "<Oh, Dubois itu orang yang kita temui di lantai satu. Harusnya dia kerja sama bareng kita...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Loh, dia pergi ke mana?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Besar kemungkinan dia telah tiba di... \"lantai dua\" yang berbeda dari milik kita.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<Tapi dia naik eskalator bareng kita. Maksudmu eskalator yang sama bisa mengarah ke dua tempat berbeda sekaligus?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Total luas permukaan dan populasi Grand Magasin Sisyphe berlipat-lipat lebih besar daripada penampilannya.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Jika dia tersesat di suatu tempat di tengah jalan, sangat memungkinkan untuk berakhir di tujuan yang berbeda meskipun berbagi titik keberangkatan yang sama.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "Meursault mengangguk pelan, membenarkan penjelasan Faust."
+        },
+        {
+          "index": 7,
+          "text": "Terus gimana lu bisa tahu soal itu, Neng...?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 8,
+          "text": "Faust tahu semuanya. Begitulah.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 9,
+          "text": "... Yaudah deh, kalo cuma gitu doang, gua yakin kita bakal ketemu dia habis keliling-keliling sebentar.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 10,
+          "text": "Masalahnya, kita mau keliling ke mana dulu nih?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 11,
+          "text": "<Pertama-tama, mari kita periksa keadaan dan lihat apa yang ada di lantai ini.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dinding yang terbuat dari daging dan tulang menghalangi jalan. Ada mayat-mayat Noir yang mati tergeletak di lantai melewati dinding tersebut."
+        }
+      ]
+    },
+    {
+      "key": "D2026",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dinding yang terbuat dari daging dan tulang menghalangi jalan. Para Rouge yang tadi menjaga tempat ini dan mayat para Noir sama-sama tidak terlihat di mana pun."
+        }
+      ]
+    },
+    {
+      "key": "D2008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kita belum bisa pergi ke arah ini, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D2009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Nikmatilah cahaya abadi, wahai Noir.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Keabadian sejati Grand Magasin... akan segera mendatangi kita...\nTulang dan batu bata Grand Magasin sendiri akan hancur dan mencair tanpa adanya Resin Emas...</color>"
+        },
+        {
+          "index": 2,
+          "text": "Sialan, apaan nih...?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "Pembantaian telah berkembang lebih jauh dibandingkan kunjungan terakhir kita.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Berhenti di situ. Renovasi desain interior masih—",
+          "speaker": "Umar"
+        },
+        {
+          "index": 5,
+          "text": "... Tunggu, surat itu...",
+          "speaker": "Umar"
+        }
+      ]
+    },
+    {
+      "key": "D20091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Begitu rupanya. Suatu kehormatan bisa melayani pelanggan terhormat seperti anda sekalian.",
+          "speaker": "Umar"
+        },
+        {
+          "index": 1,
+          "text": "Apakah anda membawanya, sang... Golden Nail?",
+          "speaker": "Umar"
+        },
+        {
+          "index": 2,
+          "text": "Ya. Penjelasan mengenai situasi saat ini akan sangat dihargai—",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "Berkat usaha anda, kami sekarang mengetahui bahwa Dewa Rouge benar-benar telah meninggalkan mereka. Tidak ada yang tersisa untuk menahan serangan kami.",
+          "speaker": "Umar"
+        },
+        {
+          "index": 4,
+          "text": "Oleh karena itu, kami telah berbaris ke sini untuk memotong sekali dan untuk selamanya mulut-mulut gersang Rouge yang dengan rakus menggerogoti Resin Emas.",
+          "speaker": "Umar"
+        },
+        {
+          "index": 5,
+          "text": "Seperti yang tertulis dalam surat ini, kami akan menawarkan semua barang di Aula Mewah ini kepada anda tanpa mengenakan biaya sepasang bola mata pun.",
+          "speaker": "Umar"
+        },
+        {
+          "index": 6,
+          "text": "... Anda hanya perlu mengambil Golden Nail dan merobek dewa palsu mengerikan yang sedang dilahirkan oleh para Rouge penista agama ke dunia ini.",
+          "speaker": "Umar"
+        },
+        {
+          "index": 7,
+          "text": "<.......>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Ambil tawarannya ga, Jam?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 9,
+          "text": "<Jujur saja, rasanya tidak begitu penting buatku apakah kita bekerja untuk pihak yang benar, entah itu para Rouge atau para Noir.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 10,
+          "text": "<Kita di sini cuma buat mengambil Ranting Emas yang kabarnya bisa kita dapatkan setelah sampai di lantai teratas Grand Magasin...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "<... dan kabur dari tempat ini bersama Meursault.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "<Kebetulan saja saat ini, bekerja sama dengan para Noir sepertinya memberikan kita kesempatan terbaik untuk mencapai tujuan itu.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "<... Faust? Meursault?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 15,
+          "text": "Ya, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 16,
+          "text": "Mendengarkan.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 17,
+          "text": "<Aku juga mau minta pendapat kalian.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 18,
+          "text": "<Menurut kalian aku mengambil pilihan yang benar di sini? Kita—>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 19,
+          "text": "Jika itu adalah sesuatu yang anda pilih.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 20,
+          "text": "Tidak ada pilihan yang benar atau salah.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 21,
+          "text": "Yang terpenting adalah—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 22,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 23,
+          "text": "... Bukan apa-apa. Saya akan mengikuti keputusan anda, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 24,
+          "text": "Meursault melangkah maju tanpa mengucapkan sepatah kata pun lagi."
+        },
+        {
+          "index": 25,
+          "text": "Jeanne akan merasa sedih.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 26,
+          "text": "...? Apa yang baru aja lu...?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 27,
+          "text": "... Tampaknya situasi di dalam sangat mengerikan.",
+          "speaker": "Umar"
+        },
+        {
+          "index": 28,
+          "text": "Saya berdoa agar anda bergegas.",
+          "speaker": "Umar"
+        }
+      ]
+    },
+    {
+      "key": "D2010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Oke, kita sudah sampai membawa Nail-nya. Sekarang bagaimana?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Aaargh!!",
+          "speaker": "Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "D2011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh... Mohon untuk tidak mendekat secara ceroboh. Redamlah langkah kaki anda di sini, jika berkenan.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 1,
+          "text": "Sosok yang Tertidur belum boleh terbangun.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 2,
+          "text": "Jangan khawatir. Mereka tertidur lelap di buaian mereka, mendengarkan irama lagu pengantar tidur yang lembut, terbungkus dalam lapisan-lapisan terlembut...",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 3,
+          "text": "Saya menguraikan daging dari semua kehidupan dan menenunnya kembali, agar mereka dapat kembali sebagai selimut untuk membungkus Sosok yang Tertidur di buaian mereka.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 4,
+          "text": "Apakah anda tidak mendengarnya juga? Tarikan napas yang mengantuk dan berirama... serta hembusan napasnya, diselimuti oleh kehangatan sarang ini?",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 5,
+          "text": "Woi, itu kan orang yang sama yang ngalangin jalan kita tadi, ya gak...?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "<Jujur saja, dia sudah cukup mengintimidasi sejak suasana masih damai tadi...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Ah, saya ingat anda sekalian. Anda sekalian terakhir kali berada di sini untuk berbelanja, bukan?",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 8,
+          "text": "Saya melihat bahwa anda sekalian telah cukup berkelas untuk masuk sejak kunjungan terakhir anda, tapi... Menyeret kotoran dan segala jenis noda ke sini tanpa menyeka sepatu anda?",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 9,
+          "text": "Tampaknya anda sekalian masih belum memiliki sopan santun untuk diizinkan masuk.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 10,
+          "text": "... Dia bersiap untuk menyerang, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Ada kemungkinan 90% pemusnahan total, jika kita gagal merespons Serangannya dengan benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "Saya telah merekam wajah anda sekalian dalam ingatan saya. Anda sekalian tidak akan pernah diizinkan masuk ke aula ini sebagai pelanggannya, bahkan setelah proyek renovasi selesai.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 13,
+          "text": "Bersama dengan para Noir dalam kain hitam yang menyesakkan itu...",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 14,
+          "text": "... mulai dari sekarang anda sekalian dimasukkan ke dalam daftar hitam.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 15,
+          "text": "<... Sepertinya kita sudah melewati titik tanpa jalan kembali.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20111",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Yang perlu... kita lakukan... hanyalah memasuki Tabernakel...",
+          "speaker": "Noir Sekarat"
+        },
+        {
+          "index": 1,
+          "text": "... Tapi... Kenapa... kita gak bisa...?",
+          "speaker": "Noir Sekarat"
+        },
+        {
+          "index": 2,
+          "text": "Tabernakel itu...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "... Adalah penghalang terhadap kejahatan dan penyaring bagi kebaikan.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 4,
+          "text": "Meskipun saya hanyalah seorang pelayan rendah hati yang bisa dikalahkan oleh pelanggan yang sulit, tidak ada kejahatan yang akan menembusnya sebelum Sosok yang Tertidur terlahir.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 5,
+          "text": "Jadi emang <i>ada</i> hal lain yang dia andalin selain dirinya sendiri... Dia pada dasarnya lagi ngejaga brankas.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "Ah... meskipun tabernakel itu tak tertembus, saya harus tetap menjaga jalur yang bersih bagi Sosok yang Tertidur untuk kebangkitan mereka.",
+          "speaker": "Direktur Merek"
+        }
+      ]
+    },
+    {
+      "key": "D201111",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suara itu... yang mereka bangun...",
+          "speaker": "Noir Sekarat"
+        },
+        {
+          "index": 1,
+          "text": "Suara murtad... yang terbuat hanya dari benang dan hasrat... Tanpa dibimbing oleh pesan ilahi apa pun...",
+          "speaker": "Noir Sekarat"
+        },
+        {
+          "index": 2,
+          "text": "Keriangan mengerikan yang menanti... dari dalam...",
+          "speaker": "Noir Sekarat"
+        }
+      ]
+    },
+    {
+      "key": "D201112",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Mencari cara untuk menangani penghalang itu adalah satu hal, tapi kita harus menjatuhkannya terlebih dahulu.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2012",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Bawalah pembalasan kehancuran atas mereka yang tak berpakaian, atas mereka yang tak takut akan tatapan. Hanya dengan begitu kedamaian akan menyertai mereka yang bertindak.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<Siapa yang mengatakan ini...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Ini adalah Suara dari Chaplain.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Raksasa dari Le Noir telah membuat keputusan.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D20121",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Chaplain...? Ah, Suara yang kita dengar di lantai satu...!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Oleh karena itu aku memproklamirkan: pembalasan ilahi bagi mereka yang membangkang dan bersikeras tuli di hadapan Suara Tuhan, bagi mereka yang perlawanan terakhirnya akan menjadi kematian mereka.</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>Peganglah pembalasanku dalam palu keadilanmu, anakku yang setia. Sampaikan keputusanku dan hantamlah para pelayan Dewa Crimson palsu.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D20122",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku menjawab panggilanmu, Tuhan.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D2013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampaknya ada membran aneh yang menolak siapa pun yang mencoba masuk. Mari kita lihat apakah kesatria di depan tahu sesuatu."
+        }
+      ]
+    },
+    {
+      "key": "D2020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "W-woah!",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "Aku tahu betul siapa anda sekalian.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 2,
+          "text": "Anda sekalian pasti pembawa \"Golden Nail\" yang telah dinubuatkan oleh Tuhan.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 3,
+          "text": "<Kesatria itu menghempaskannya... cuma dengan satu ayunan...!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Suara yang menghitung jam tidak menemukan tempat di telingaku.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 5,
+          "text": "Tuhan telah menugaskanku untuk bertindak tidak lain sebagai pembawa firman-Nya. Apa alasanku untuk mengindahkan suara selain milik-Nya?",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 6,
+          "text": "Kami... kami adalah...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 7,
+          "text": "Saksikanlah dalam keheningan,",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 8,
+          "text": "karena aku sekarang menyuarakan kehendak Tuhan.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 9,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "Le Noir dari lantai tiga berkata demikian: tak lama lagi sebuah berhala palsu akan ditempa di kedalaman bawah. Oleh karena itu, waktunya telah tiba untuk menyingkap tirai.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 11,
+          "text": "Dan Tuhan menjawab: \"Terimalah 'Golden Nail', yang akan menggantikan posisi palu. Lakukanlah, dan keabadian akan dianugerahkan kepadamu.\"",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 12,
+          "text": "... Dan demikianlah aku sekarang berdiri di hadapan anda sekalian.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 13,
+          "text": "Denger ya, Mbak berbadan gede. Kita cuma ngelakuin apa pun yang kita pilih—",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 14,
+          "text": "Sudah kubilang, jagalah keheninganmu.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 15,
+          "text": "Dengan Golden Nail milik anda sekalian, anda sekalian harus menembus buaian dari keriangan yang akan segera lahir itu, dan merobeknya hingga hancur.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 16,
+          "text": "Aku akan menahan para Rouge yang menuju ke tempat ini. Bergegaslah, dan saksikan takdir yang telah ditentukan bagimu terpenuhi.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 17,
+          "text": "<Tapi... rasanya tadi tidak ada jalan buat menembus tirai itu.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 18,
+          "text": "<Sebaiknya kita bertanya apa ada cara untuk masuk ke sana.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 19,
+          "text": "Pertanyaan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 20,
+          "text": "Diamlah engkau...",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 21,
+          "text": "... Tahan. Tatapan ini...",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 22,
+          "text": "Engkau...",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 23,
+          "text": "Penghalang tabernakel tidak dapat dirobek maupun ditembus. Bagaimana kita bisa melanjutkan perjalanan?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 24,
+          "text": "Engkau, apa...",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 25,
+          "text": "Ikatan apa yang kau miliki dengan suara itu...?",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 26,
+          "text": "... Tidak. Mungkin ini juga hanyalah ujian lain yang dibebankan kepadaku. Aku tidak boleh ragu.",
+          "speaker": "Brand Manager"
+        },
+        {
+          "index": 27,
+          "text": "Engkau hanyalah orang asing dari Fount, yang telah disiapkan oleh Tuhan untuk saat ini.",
+          "speaker": "Brand Manager"
+        }
+      ]
+    },
+    {
+      "key": "D20201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Orang asing dari Fount, ya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<Kita... bisa menyelinap melebihi beberapa aturan dan akal sehat yang mengatur tempat ini. Dan kita tidak memihak Rouge maupun Noir.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "... Begitu rupanya.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "Jika kebebasan untuk berpindah antarlantai setara dengan pengasingan dan ketidakberadaan rasa memiliki dari tempat ini...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Ada kemungkinan bahwa kita juga dikecualikan dari penghalang yang menghalangi para Noir.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Meursault berjalan mendekati penghalang..."
+        },
+        {
+          "index": 6,
+          "text": "Uh...?",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D20202",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... dan tersedot ke dalam seolah dinding itu sendiri hanyalah sebuah ilusi."
+        },
+        {
+          "index": 1,
+          "text": "Dante.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "<Paham. Ayo pergi.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 여기까지 기어온 벌레들이 있군. 명품관의 바닥을 너희 피로 닦아주마.",
+          "speaker": "Direktur Merek"
+        },
+        {
+          "index": 1,
+          "text": "[미사용] 저자가 이 전장의 원흉일세. 함께 무찌르세나!",
+          "speaker": "Le Noir Hammer"
+        }
+      ]
+    },
+    {
+      "key": "D2014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>Buaian yang terpaku, sebutir telur yang dilemparkan tanpa persiapan ke dunia.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#E1B643>Saat detak jantumgnya mendekati akhir... Dunia mungkin akan menemukan keabadian.</color>"
+        },
+        {
+          "index": 2,
+          "text": "Tunggu, suara tadi itu—",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "Sialan, suara tadi... Gua ingat suara itu...!",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 4,
+          "text": "<... Suaranya makin lama makin jelas.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<color=#E1B643>Jika kamu telah memutuskan apa yang harus dilakukan terhadap anak yang sedang tertidur itu... Maka pergilah kemana pun langkahmu membawamu.</color>"
+        },
+        {
+          "index": 6,
+          "text": "Tidak ada gunanya membiarkan hal itu berlarut-larut di matamu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Buatlah keputusan, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D2015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa yang harus dilakukan?"
+        }
+      ]
+    },
+    {
+      "key": "D2016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mengangkat Golden Nail terhadap buaian."
+        }
+      ]
+    },
+    {
+      "key": "D2601",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Umar"
+        }
+      ]
+    },
+    {
+      "key": "D2602",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Le Noir Guard"
+        },
+        {
+          "index": 1,
+          "text": "Mereka tampaknya bukan tipe yang suka berbicara."
+        }
+      ]
+    },
+    {
+      "key": "D2603",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek berdiri menjaga pos yang ditugaskan. Merek tidak tampak memiliki niat untuk menepi."
+        }
+      ]
+    },
+    {
+      "key": "D2901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek mempertahankan pos mereka hingga akhir."
+        }
+      ]
+    },
+    {
+      "key": "D2902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Rouge. Lengan berbilahnya telah patah semua, meninggalkan tubuhnya tergeletak di lantai."
+        }
+      ]
+    },
+    {
+      "key": "D2903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Rouge. Tentakel yang menempel di wajahnya mulai merayap keluar, hanya untuk terdiam tak bergerak sesaat kemudian."
+        }
+      ]
+    },
+    {
+      "key": "D2904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Rouge. Seluruh tubuhnya telah hancur di bawah palu yang berat, rusak parah hingga tak dapat dikenali."
+        }
+      ]
+    },
+    {
+      "key": "D2905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Ini cuma mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D2019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Sepertinya konstruksinya akhirnya sudah selesai.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Mari kita kembali ke lantai atas terlebih dahulu.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D2030",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidur nyenyaklah... dan bernyanyilah untuk kami...",
+          "speaker": "Dewa Lembayung"
+        },
+        {
+          "index": 1,
+          "text": "Makin dekat nih... Kelihatannya...",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "... Tidak, itu bukan kemarahan. Itu jauh lebih mendekati... tangisan.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "Tumbuhlah... tinggi dan kuat...",
+          "speaker": "Dewa Lembayung"
+        },
+        {
+          "index": 4,
+          "text": "... dan bernyanyilah untuk kami... Suaramu...",
+          "speaker": "Dewa Lembayung"
+        },
+        {
+          "index": 5,
+          "text": "<Kurasa dia bahkan tidak mengerti apa yang dinyanyikannya...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "... Udah deh, gua gak sanggup lagi dengernya.",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2031",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Anak yang baru mengambil langkah pertamanya ke dunia orang hidup kini terbaring di tanah, sekarat."
+        },
+        {
+          "index": 1,
+          "text": "Tidak tahu apa-apa selain lagu yang disenandungkannya."
+        },
+        {
+          "index": 2,
+          "text": "Tidur... nyenyak...",
+          "speaker": "Dewa Lembayung"
+        },
+        {
+          "index": 3,
+          "text": "Bayiku...",
+          "speaker": "Dewa Lembayung"
+        },
+        {
+          "index": 4,
+          "text": "…….",
+          "speaker": "Dewa Lembayung"
+        },
+        {
+          "index": 5,
+          "text": "Seperti sehelai benang yang terputus dari kain, lagu itu berhenti secara mendadak."
+        },
+        {
+          "index": 6,
+          "text": "Makhluk itu meringkuk seperti janin. Makhluk itu tidak pernah bergerak lagi."
+        },
+        {
+          "index": 7,
+          "text": "<Yah... Sekarang bagaimana...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Le Noir sekarang akan mengambil kendali penuh atas Grand Magasin. Dan setelah itu terjadi...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "... Gak bisa kita ambil aja yang udah jadi hak kita terus mikirin sisanya belakangan? Gak ada gunanya pusingin hal yang gak bisa kita apa-apain.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 10,
+          "text": "Kita udah ngelakuin apa yang kita rencanain, tapi gua gak suka sama sekali. Lagian gak ada yang bakal berubah cuma dengan ngeluh di antara kita sendiri.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 11,
+          "text": "... Tunggu. Sebentar.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 12,
+          "text": "Mengapa saya tidak diberitahu tentang hal ini? Mengapa Administrator Faust— Apa...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 13,
+          "text": "<Faust? Apa ini soal Gesellschaft?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "... Begitu rupanya, Grand Magasin sekarang akan menjadi abadi. Tapi... itu artinya...",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D2022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Mengingat Tingkat Prestise anda sekalian yang rendah, saya akan memaafkan kesalahan yang lahir dari ketidaktahuan... Tapi hanya untuk kali ini saja.",
+          "speaker": "Direktur Merek"
+        }
+      ]
+    },
+    {
+      "key": "D2906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Itu belum sepenuhnya matang, tetapi kekuatannya harus diperhitungkan.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 1,
+          "text": "Maksud gua, benda itu kan harusnya jadi pemimpin mereka, ya kan? 'Tentu aja dia makhluk yang tangguh.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "*haah*... Gak bisa mundur lagi sekarang... Kurasa kita harus ngasih babakan yang pantas buat makhluk sialan itu.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "Mungkin... bisa saja ada opsi lain.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "<Ini dimulai waktu kita gak sengaja ngasih tahu para Noir soal para Rouge...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<Tapi kita sudah membuat pilihan terbaik yang kita bisa, mengingat apa yang kita punya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "... Persetan dah. Yang harus kita lakuin cuma ngalahin tu bajingan   gimana pun caranya. Terus kita ambil apa yang jadi hak kita... dan pergi dari toko serba ada sialan ini. Cuma itu kan?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 8,
+          "text": "Benar. Ayo kita coba sekali lagi.",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Woi, woi... lu... kepala lu... lu gak apa-apa?!",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "Karena saya telah mati sebelumnya, kepala saya kembali ke keadaan semula seperti sebelumnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<Mari kita menyerah untuk masuk ke sana. Aku tidak berpikir itu lawan yang bisa kita kalahkan... setidaknya belum untuk saat ini.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Cih. Mau gimana lagi kalau begitu.",
+          "speaker": "Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dante, opsi yang direkomendasikan adalah terlebih dahulu mengamati perkembangan situasi sebelum memulai pertarungan.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 1,
+          "text": "<Kukira itu kesempatan kita... Sepertinya bukan.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2032",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampaknya saat ini kita tidak dapat pergi, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D2033",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Rouge yang tadi menjaga pintu masuk ke Aula Mewah terbaring kalah."
+        },
+        {
+          "index": 1,
+          "text": "<Mari kita terus berjalan ke dalam...>",
+          "speaker": "Dante"
+        }
+      ]
+    }
+  ]
+}
