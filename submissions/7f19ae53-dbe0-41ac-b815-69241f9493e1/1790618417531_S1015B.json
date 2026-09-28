@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Alteration Shop, 3F",
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "... Orang-orang asing yang dulu meminjam guntingku. Jadi kalian kembali lagi."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Kami membawa Golden Skein... Bisa kamu tenun jadi kain?"
+    },
+    {
+      "id": 2,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Tentu saja. Toh itu bukan bagian yang sulit. Robek, terbakar, belum sempurna—bawa apa pun yang cacat kepadaku, dan dengan tanganku semuanya akan kembali utuh."
+    },
+    {
+      "id": 3,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Kain yang digunakan untuk setiap pakaian di dalam Grand Magasin, entah disukai maupun dibenci, selalu bermula dari sehelai benang."
+    },
+    {
+      "id": 4,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Selama ada benang, kita cuma butuh sebuah paku untuk menyelesaikan sisanya. Dan bilah guntingku, tentu saja."
+    },
+    {
+      "id": 5,
+      "content": "Sang Alterationist menegaskan ucapannya dengan sekali jepret bilah gunting pada tubuhnya."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Berikan skeinnya.>"
+    },
+    {
+      "id": 7,
+      "content": "Alih-alih langsung mengambil skein itu, dia berhenti sejenak, tatapannya sempat tertahan pada benang yang terlilit di atasnya."
+    },
+    {
+      "id": 8,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "... Aku belum pernah melihat Golden Thread dengan kemurnian setinggi ini."
+    },
+    {
+      "id": 9,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Meski tercipta dari kedalaman, sebentar lagi benang ini akan layak untuk mencapai ketinggian yang lebih besar."
+    },
+    {
+      "id": 10,
+      "content": "Begitu sang Alterationist mengambil skein itu dan melingkarkan benangnya di ujung jarinya, bilah-bilah muncul entah dari mana—dan semuanya hidup dalam tarian tangan dan gunting yang bergerak serempak."
+    },
+    {
+      "id": 11,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "... Dulu, ada master yang berbeda di sini, sudah lama sekali."
+    },
+    {
+      "id": 12,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Dia memperlakukan emas yang tumbuh di celah-celah bukan sebagai sesuatu untuk dikerjakan, melainkan sesuatu untuk disembah."
+    },
+    {
+      "id": 13,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Tujuannya adalah menjaga emas itu tetap semurni mungkin selama bekerja. Jadi dia sangat berhati-hati saat membuat setiap helai, setiap inci benang yang dipintal lalu dibentangkan pada pohon besar bernama Grand Magasin ini... tak pernah sekalipun bekerja melawan alurnya."
+    },
+    {
+      "id": 14,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Ketelitian itu bagiku nyaris seperti ritual keagamaan. Bahkan dia menolak untuk bernapas saat bekerja, karena satu kesalahan kecil dalam anyaman paku dianggap sama dengan menghujat Voice."
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "Dan kamu... mewarisi posisi mereka."
+    },
+    {
+      "id": 16,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Ya. Mereka menyerahkan tempat ini dalam perawatanku lalu pergi untuk mendekatkan diri kepada Voice."
+    },
+    {
+      "id": 17,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Ini membuatku teringat masa lalu. Bukan masa-masa yang indah, tapi tetap saja membuatku teringat."
+    },
+    {
+      "id": 18,
+      "content": "Tangannya yang sempat berhenti karena mengenang masa lalu kembali melanjutkan pekerjaannya."
+    }
+  ]
+}
