@@ -1,0 +1,443 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Penglihatanku jadi jelas begitu aku menekan tombolnya."
+    },
+    {
+      "id": 1,
+      "content": "Aku merasakan sensasi menabrak lantai keras, tapi rasa nyeri yang bergetar cepat hilang. Air dingin menelan tubuhku dalam arusnya dan menyeretnya ke bawah."
+    },
+    {
+      "id": 2,
+      "content": "Airnya dengan cepat memenuhi paru-paru. Aku tidak dapat bernapas."
+    },
+    {
+      "id": 3,
+      "content": "Melalui penglihatanku yang buram, aku melihat air yang beriak dan busa putih yang bergulung. Sinar matahari menumpahkan cahayanya di atas pemandangan di kejauhan."
+    },
+    {
+      "id": 4,
+      "content": "Tidak butuh waktu lama sebelum tekanan yang menekan dadaku hilang. Air di sekelilingku terasa seperti pelukan hangat."
+    },
+    {
+      "id": 5,
+      "content": "Pikiran yang biasanya tidak pernah terpikir olehku muncul tanpa kendali, membanjiri pikiranku."
+    },
+    {
+      "id": 6,
+      "content": "Aku bisa merasakan saraf-sarafku berdenyut."
+    },
+    {
+      "id": 7,
+      "content": "Aku merasa seolah kepala ini, yang menempel padaku tapi sebenarnya bukan milikku akan tenggelam di bawah air selamanya."
+    },
+    {
+      "id": 8,
+      "content": "Apakah ini rasa nyaman yang menyelimuti aku...? Atau ini..."
+    },
+    {
+      "id": 9,
+      "content": "<color=#916e46>Kami mengucapkan selamat datang yang hangat kepada para tamu terhormat Grand Magasin Sisyphe yang berkunjung hari ini.</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#916e46>Grand Magasin Sisyphe selalu berkomitmen untuk menghargai setiap pengalaman yang diperoleh pelanggan kami di dalam.</color>"
+    },
+    {
+      "id": 11,
+      "content": "<color=#916e46>Untuk selalu mengikuti tren mode terkini, kami secara aktif mendorong beragam toko yang ada di pusat perbelanjaan tersebut agar membuka dan menutup tokonya sesuai dengan tren. Harap berhati-hati agar tidak tersesat saat mengunjungi tempat ini.</color>"
+    },
+    {
+      "id": 12,
+      "content": "<color=#916e46>Seperti biasa, Toilet di setiap lantai saat ini sedang dalam proses perbaikan. Harap perhatikan hal ini saat merencanakan kunjungan Anda. Kami mohon maaf atas ketidaknyamanan yang ditimbulkan.</color>"
+    },
+    {
+      "id": 13,
+      "content": "<color=#916e46>Untuk mencegah masalah kebersihan, akses ke setiap lantai akan dibatasi hanya bagi pelanggan yang telah mencapai Tingkat Prestige yang disyaratkan. Silakan kunjungi Pusat Layanan Pelanggan kami di lantai enam jika ada pertanyaan lebih lanjut.</color>"
+    },
+    {
+      "id": 14,
+      "content": "<color=#916e46>Pelanggan dipersilakan untuk menyentuh semua manekin yang dipajang. Sebaliknya, manekin juga diperbolehkan untuk menyentuh semua pelanggan. Jika Anda ingin berpartisipasi, silakan hubungi staf penjualan di toko yang bersangkutan; mereka akan dengan senang hati membantu Anda.</color>"
+    },
+    {
+      "id": 15,
+      "content": "<color=#916e46>Kami mengimbau kepada semua pihak untuk berupaya semaksimal mungkin guna memastikan hari ini kembali menjadi hari yang penuh pengalaman berbelanja yang memuaskan bagi para pelanggan kami. Terima kasih telah memilih Grand Magasin Sisyphe, dan selamat berbelanja.</color>"
+    },
+    {
+      "id": 16,
+      "place": "The Fount, 1F",
+      "model": "이상",
+      "content": "Apa yang baru saja kita alami..."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "I just know it's something I never want to go through again... I mean, I've been killed in a variety of different ways on this team, but to be forced to face death when it wasn't even a combat situation... And on top of that, having to feel the sensation of <i>doing it myself</i> is just... a big no."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "content": "Aku hanya tau itu sesuatu yang aku tidak mau alami lagi... maksudku, Aku telah terbunuh dengan berbagai macam cara saat berada di tim ini, tetapi untuk menghadapi kematian secara langsung ketika itu bukanlah dalam pertarungan... dan diatas itu semua, harus merasakan sensasi <i>melakukannya sendiri</i> itu... aku tidak mau lagi."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "Mengemas kehilangan nyawa sebagai hiburan, lalu menjualnya sebagai produk..."
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "Meskipun mengatasi kebosanan memang bukanlah hal yang mudah, ini adalah... hmm..."
+    },
+    {
+      "id": 22,
+      "model": "홍루",
+      "content": "Terasa sangat nyata dari apa yang ku bayangkan."
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "content": "Aku tau bahwa semua itu terjadi di dalam sebuah mesin... Tetapi di momen itu, Aku benar-benar merasa seolah-olah... Aku menyaksikan akhir dari hidup ku."
+    },
+    {
+      "id": 24,
+      "model": "로쟈",
+      "content": "Ketika tali gantung itu mengetat, Aku pikir leherku akan patah..."
+    },
+    {
+      "id": 25,
+      "model": "로쟈",
+      "content": "Aku bersama Ishy... Orang-orang benar-benar mengeluarkan <i>uang</i> untuk merasakan semua ini?"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "Ada orang-orang tanpa tujuan yang jelas, mengikatkan diri pada seutas tali lalu melompat dari ketinggian, atau menyerahkan diri pada ombak yang ganas untuk melihat apakah mereka akan tersapu ke dalam air atau tidak."
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "Konon, orang-orang menjadi lebih peka merasakan sensasi hidup melalui pengalaman-pengalaman yang membawa mereka sangat dekat dengan kematian."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "... Jadi kau bilang mereka melakukannya dengan sengaja?"
+    },
+    {
+      "id": 29,
+      "model": "로쟈",
+      "content": "Menjijikkan."
+    },
+    {
+      "id": 30,
+      "content": "Tunggu, Aku... Aku pernah dengar percakapan yang persis seperti ini sebelumnya."
+    },
+    {
+      "id": 31,
+      "content": "Kapan... dimana aku mendengar percakapan ini sebelumna? Otakku terasa seperti kekacauan informasi yang terputus-putus—aku rasa butuh waktu untuk merapikan semuanya."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<Ini adalah... Asal...>"
+    },
+    {
+      "id": 33,
+      "model": "로쟈",
+      "content": "Apa? Asal? Sudah jelas kita ada di—"
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "... Ini toilet."
+    },
+    {
+      "id": 35,
+      "model": "돈키호테",
+      "content": "Benar sekali, ini toilet!"
+    },
+    {
+      "id": 36,
+      "model": "이상",
+      "content": "Sebuah tempat di mana seseorang dapat meluapkan masalah-masalah terdalamnya."
+    },
+    {
+      "id": 37,
+      "model": "히스클리프",
+      "content": "Kita harus melalui semua omong kosong itu di dalam mesin sialan itu... hanya untuk ke toilet?"
+    },
+    {
+      "id": 38,
+      "model": "홍루",
+      "content": "Memang benar kebohongan Nelly pernah membahayakan kita sebelumnya, tapi menurutku kali ini sepertinya dia tidak bermaksud menyakiti atau menipu kita..."
+    },
+    {
+      "id": 39,
+      "model": "로쟈",
+      "content": "Fau. Mesin yang kita gunakan... apakah itu semacam alat teleportasi?"
+    },
+    {
+      "id": 40,
+      "model": "파우스트",
+      "content": "Kesimpulan yang diambil akan berbeda-beda tergantung pada cara kita menafsirkan pengalaman tersebut, tetapi yang pasti tubuh kita tidak benar-benar dibawa ke tempat ini. Namun, hal itu seharusnya tidak menjadi masalah, karena memang inilah tujuan yang kita tuju, dan kita telah berhasil mencapainya."
+    },
+    {
+      "id": 41,
+      "model": "로쟈",
+      "content": "Jadi... kita ada dimana? kita harus kemana untuk menemukan Meursault?"
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<Apa yang kalian bicarakan? Meursault berada di tempatnya seperti biasa, dekat pintu keluar—>"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Huh...?>"
+    },
+    {
+      "id": 44,
+      "content": "Aku berbalik ke arah pintu keluar tempat Meursault... biasanya, dan sadar bahwa dia tidak ada disana. Aku melihat di sekitaran toilet, mencari keberadaannya, tapi aku tidak melihatnya dimanapun."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "Apa yang <i>kamu</i> bicarakan, Dante? Alasan utama kita berada di sini adalah untuk menemukan Meursault, ingat?"
+    },
+    {
+      "id": 46,
+      "model": "히스클리프",
+      "content": "... Oi, Mesin Penjual Bunuh Diri Otomatis mungkin membuat ada roda gigi yang lepas dari jamnya atau semacamnya.. Jadinya agak kacau."
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<Engga, <i>apa</i> yang </i>kalian</i> bicarakan?! Kita gagal. Ditakdirkan selamanya untuk—>"
+    },
+    {
+      "id": 48,
+      "content": "I berbalik ke Faust, seseorang yang selalu aku bisa percaya untuk selalu mengetahui..."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Faust!>"
+    },
+    {
+      "id": 50,
+      "model": "파우스트",
+      "content": "... Ah. Jika... jika memang demikian..."
+    },
+    {
+      "id": 51,
+      "model": "파우스트",
+      "content": "... sebaiknya saya berbicara sesedikit mungkin mengenai masalah ini."
+    },
+    {
+      "id": 52,
+      "content": "... Namun, dia hanya memalingkan wajah dariku—tanda jelas bahwa dia tidak bersedia mengungkapkan apa pun."
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "Jam."
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<Apakah hanya aku sendiri yang mengingat semua ini? Kita sudah... kita berada disana saat Grand Magasin berakhir... kita...>"
+    },
+    {
+      "id": 55,
+      "model": "료슈9장",
+      "content": "Déjà vu... Aku pernah mengalaminya. Melihat sesuatu sebelum kembali... atau <i>diputar ulang</i>, kurasa."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<…!>"
+    },
+    {
+      "id": 57,
+      "model": "료슈2",
+      "content": "Jadi tenang saja, Kepala Jam."
+    },
+    {
+      "id": 58,
+      "content": "Arayashiki bergetar, mengeluarkan dengungan ringan seolah-olah setuju."
+    },
+    {
+      "id": 59,
+      "model": "히스클리프",
+      "content": "... Tunggu dulu, tunggu dulu. Aku nggak begitu yakin kalau mereka baik-baik saja untuk lanjut. Bahkan api di kepalanya terasa agak lebih panas, kurasa..."
+    },
+    {
+      "id": 60,
+      "model": "료슈",
+      "content": "Siapa tau. Pasti K.M atau semacamnya."
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "\"Pasti keracunan memori atau semacamnya\"...? Seperti keracunan makanan? Maksudnya apa..."
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Ohh, mungkin itu penyebab Dante berhalusinasi melihat Meursault di dekat pintu keluar. Itu menjelaskan hal-hal aneh yang mereka katakan tentang Grand Magasin—Dante mungkin dibombardir oleh ingatan-ingatan Meur dalam perjalanan ke sini!"
+    },
+    {
+      "id": 63,
+      "model": "홍루",
+      "content": "Mungkin saja itu yang terjadi. Disaat \"giliran\" seseorang, Dante cenderung mendapat kesempatan untuk mengintip ingatan mereka."
+    },
+    {
+      "id": 64,
+      "content": "Ryōshū melihat seisi ruangan, ketidaknyamanan yang terlihat di alisnya yang berkerut."
+    },
+    {
+      "id": 65,
+      "content": "Mungkin saja Ryōshū mengingat sesuatu tentang the Grand Magasin dari sebelumnya...? Tidak, aku rasa itu bukan yang sedang terjadi. Tapi aku nggak bisa hilangin perasaan nyebelin ini bahwa aku ketinggalan sesuatu untuk bisa menebak dengan pasti saat ini."
+    },
+    {
+      "id": 66,
+      "content": "Apakah semua itu cuma khayalanku sendiri, ya? Atau cuma mimpi?"
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<Itu sepertinya tidak masuk akal...>"
+    },
+    {
+      "id": 68,
+      "content": "Kalau itu benar-benar hanya ilusi atau mimpi, Faust tidak akan bereaksi seolah-olah dia tahu sesuatu. Lagipula, semua yang kita alami di Grand Magasin cukup nyata untuk menghilangkan pemikiran apa pun tentang menganggapnya sebagai produk delusi sesaat—setidaknya bagiku."
+    },
+    {
+      "id": 69,
+      "model": "이상",
+      "content": "Untuk sekarang... aku sarankan kamu harus beristirahat di dinding ini sebentar dan memulihkan diri. Saat ini, sepertinya tidak ada yang menimbulkan ancaman langsung."
+    },
+    {
+      "id": 70,
+      "model": "오티스",
+      "content": "Seharusnya kita nggak nyemplung begitu aja ke mesin dengan fungsi yang meragukan itu..."
+    },
+    {
+      "id": 71,
+      "model": "오티스",
+      "content": "Mungkin kita bisa menanyai wanita itu dan mengumpulkan beberapa informasi sementara Manajer Eksekutif mengambil istirahat yang sangat dibutuhkan."
+    },
+    {
+      "id": 72,
+      "model": "싱클레어",
+      "content": "...!"
+    },
+    {
+      "id": 73,
+      "model": "싱클레어",
+      "content": "Dia terlihat mirip dengan... Demian..."
+    },
+    {
+      "id": 74,
+      "model": "오티스",
+      "content": "Perkenalkan dirimu. Apa yang kau tau dengan tempat ini?"
+    },
+    {
+      "id": 75,
+      "model": "푸른여인",
+      "content": "... Tempat ini..."
+    },
+    {
+      "id": 76,
+      "content": "Wanita itu, dengan senyuman ramah yang menghiasi bibirnya, ia memandang kami dengan tenang."
+    },
+    {
+      "id": 77,
+      "content": "Aku juga pernah melihatnya sebelumnya."
+    },
+    {
+      "id": 78,
+      "model": "푸른여인",
+      "content": "... Ini adalah tempat dimana segala sesuatu yang terbawa arus akhirnya berlabuh. \"Asal\"..."
+    },
+    {
+      "id": 79,
+      "model": "로쟈",
+      "content": "Asal?! Hey, itu apa yang dante bilang tentang tempat ini sebelumnya—"
+    },
+    {
+      "id": 80,
+      "model": "료슈",
+      "content": "Shh."
+    },
+    {
+      "id": 81,
+      "content": "Outis berhenti sejenak, menunggu pertengkaran Rodya dan Ryōshū selesai, lalu dia melanjutkan pertanyaannya kepada wanita misterius itu."
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "... Itu bukan apa yang kita tanyakan."
+    },
+    {
+      "id": 83,
+      "model": "오티스",
+      "content": "Apakah kau bekerja sama dengan tempat ini? Tidak bisa dipungkiri ada sesuatu yang tidak asing dengan mu."
+    },
+    {
+      "id": 84,
+      "model": "푸른여인",
+      "content": "... Segala sesuatu tampak... sebagaimana yang diyakini orang."
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "Yah, sepertinya dia bukan musuh kita..."
+    },
+    {
+      "id": 86,
+      "model": "이스마엘",
+      "content": "Apakah kau tah apa yang... seharusnya kita lakukan di sini...? Jika kau tahu, bisakah kau memberitahu kita?"
+    },
+    {
+      "id": 87,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 88,
+      "content": "... Mungkin ia sudah mengatakan semua yang ingin ia sampaikan, karena ia hanya membalasnya dengan senyuman tanpa sepatah kata pun. Senyuman ramah yang sama seperti yang ia tunjukkan kepada kita sebelumnya."
+    },
+    {
+      "id": 89,
+      "model": "싱클레어",
+      "content": "Apakah masih aman kalau kita... keluar lewat pintu di sana?"
+    },
+    {
+      "id": 90,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 91,
+      "content": "Ada satu cara yang sangat jelas untuk mengetahui apakah semua ini hanya hasil imajinasiku atau tidak, dan aku siap untuk memastikan itu. Begitu kita keluar lewat pintu itu, pertama-tama kita akan disambut oleh semacam air terjun mayat. Lalu, saat kita panik dengan perubahan situasi yang mendadak, kakak Kromer akan muncul entah dari mana dan mengobrol dengan kita dengan kepura-puraan ramahnya."
+    },
+    {
+      "id": 92,
+      "content": "Kalau pun begitu, ingatanku tentang pengalaman sebelumnya tetap ada. Aku ingat setiap detailnya."
+    },
+    {
+      "id": 93,
+      "model": "단테",
+      "content": "<Pertama-tama... Ayo kita keluar saja dan lihat apa yang ada di luar sana.>"
+    }
+  ]
+}
