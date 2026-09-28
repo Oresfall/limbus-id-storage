@@ -1,0 +1,47 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "teller": "pengumuman",
+      "title": "Grand Magasin Sisyphe",
+      "content": "Kami mengucapkan selamat datang yang hangat kepada para tamu terhormat Grand Magasin Sisyphe yang berkunjung hari ini."
+    },
+    {
+      "id": 1,
+      "teller": "pengumuman",
+      "title": "Grand Magasin Sisyphe",
+      "content": "Grand Magasin Sisyphe selalu berkomitmen untuk menghargai setiap pengalaman yang diperoleh pelanggan kami di dalam."
+    },
+    {
+      "id": 2,
+      "teller": "pengumuman",
+      "title": "Grand Magasin Sisyphe",
+      "content": "To keep abreast of the latest fashions, we actively encourage the wide variety of shops available at the department store to open and close according to trends. Please take care not to lose your way as you explore the establishment."
+    },
+    {
+      "id": 3,
+      "teller": "pengumuman",
+      "title": "Grand Magasin Sisyphe",
+      "content": "Seperti biasa, Toilet di setiap lantai saat ini sedang dalam proses perbaikan. Harap perhatikan hal ini saat merencanakan kunjungan Anda. Kami mohon maaf atas ketidaknyamanan yang ditimbulkan."
+    },
+    {
+      "id": 4,
+      "teller": "pengumuman",
+      "title": "Grand Magasin Sisyphe",
+      "content": "Untuk mencegah masalah kebersihan, akses ke setiap lantai akan dibatasi hanya bagi pelanggan yang telah mencapai Tingkat Prestige yang disyaratkan. Silakan kunjungi Pusat Layanan Pelanggan kami di lantai enam jika ada pertanyaan lebih lanjut."
+    },
+    {
+      "id": 5,
+      "teller": "pengumuman",
+      "title": "Grand Magasin Sisyphe",
+      "content": "Pelanggan dipersilakan untuk menyentuh semua manekin yang dipajang. Sebaliknya, manekin juga diperbolehkan untuk menyentuh semua pelanggan. Jika Anda ingin berpartisipasi, silakan hubungi staf penjualan di toko yang bersangkutan; mereka akan dengan senang hati membantu Anda."
+    },
+    {
+      "id": 6,
+      "teller": "pengumuman",
+      "title": "Grand Magasin Sisyphe",
+      "content": "Kami mengimbau kepada semua pihak untuk berupaya semaksimal mungkin guna memastikan hari ini kembali menjadi hari yang penuh pengalaman berbelanja yang memuaskan bagi para pelanggan kami. Terima kasih telah memilih Grand Magasin Sisyphe, dan selamat berbelanja."
+    },
+    {}
+  ]
+}
