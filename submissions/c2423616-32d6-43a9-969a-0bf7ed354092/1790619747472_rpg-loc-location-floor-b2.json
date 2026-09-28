@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "key": "220100",
+      "text": "Pabrik Pemintalan"
+    },
+    {
+      "key": "220200",
+      "text": "Sarang Benang"
+    },
+    {
+      "key": "220300",
+      "text": "Koridor"
+    },
+    {
+      "key": "220400",
+      "text": "Rumah Pewarna"
+    },
+    {
+      "key": "220500",
+      "text": "Pewarna-tear Storage"
+    },
+    {
+      "key": "221400",
+      "text": "Secret Eskalator Aula"
+    },
+    {
+      "key": "221500",
+      "text": "Koridor Sarang Benang"
+    },
+    {
+      "key": "221600",
+      "text": "Pewarna-tear Storage Koridor"
+    }
+  ]
+}
