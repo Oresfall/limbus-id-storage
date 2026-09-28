@@ -1,0 +1,107 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Aula Mewah, 2F",
+      "model": "붉은신",
+      "content": "<i>AAAHHHHHH!</i>"
+    },
+    {
+      "id": 1,
+      "model": "뫼르소엄마",
+      "content": "Tidak, tidak, tidak...! Meursault... Anakku...!"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소엄마",
+      "content": "Kemanapun aku pergi—Itu selalu mengikutiku! Itu tidak mau meninggalkan aku. Aku nggak pernah sendirian!"
+    },
+    {
+      "id": 3,
+      "model": "뫼르소엄마",
+      "content": "Aku tidak bisa... Aku tidak bisa... Apakah akhirnya datang untukku, kehampaan terakhir...?"
+    },
+    {
+      "id": 4,
+      "model": "뫼르소엄마",
+      "content": "Meursault, tidak ada jalan keluar dari ini... Ini mencekikku..."
+    },
+    {
+      "id": 5,
+      "model": "뫼르소엄마",
+      "content": "Meursault...! Tatapan itu selalu mengawasiku... Itu... Itu aku sendiri...! Itu <i>menjadi</i> milikku sendiri, Aku diawasi oleh tatapanku sendiri...!"
+    },
+    {
+      "id": 6,
+      "model": "뫼르소엄마",
+      "content": "Bunuh aku, Meursault... Kamu anakku... paling tidak ini yang bisa kamu lakukan untuk mama... Meursault..."
+    },
+    {
+      "id": 7,
+      "model": "뫼르소엄마",
+      "content": "Berhenti memikirkan itu, Meursault—<i>cepat bunuh aku!</i>"
+    },
+    {
+      "id": 8,
+      "model": "뫼르소엄마",
+      "content": "Tidak ada lagi penghakiman, oke? Lakukan... saja. Ini hanya... satu-satunya jalan... untuk... menyelamatkan dirimu sendiri..."
+    },
+    {
+      "id": 9,
+      "content": "Makhluk itu berdiri canggung dengan kedua kakinya, seperti bayi yang baru belajar berjalan."
+    },
+    {
+      "id": 10,
+      "content": "Tampaknya seperti menangis, dengan mulutnya yang terbuka lebar seperti mangkuk merah gelap."
+    },
+    {
+      "id": 11,
+      "content": "Makhluk itu mengeluarkan suara, tapi apakah suara itu punya arti, aku tidak tahu."
+    },
+    {
+      "id": 12,
+      "model": "붉은신",
+      "content": "Ah..."
+    },
+    {
+      "id": 13,
+      "model": "붉은신",
+      "content": "Hnnh... Hhh..."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Apa... yang makhluk itu katakan?>"
+    },
+    {
+      "id": 15,
+      "model": "붉은신",
+      "content": "Tidur nyenyak... Anakku..."
+    },
+    {
+      "id": 16,
+      "model": "붉은신",
+      "content": "... Lepaskan... hanya... benang-benang... yang paling halus..."
+    },
+    {
+      "id": 17,
+      "model": "히스클리프",
+      "content": "Makhluk itu... nggak bicara sama kita, benar kan...?"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Aku pikir makhluk itu sedang bernyanyi...>"
+    },
+    {
+      "id": 19,
+      "model": "뫼르소",
+      "content": "Itu lagu pengantar tidur, Manajer."
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "Isi dan ritmenya menunjukkan tingkat kesamaan yang tinggi dengan apa yang orang di luar Grand Magasin sebut \"lagu pengantar tidur.\""
+    }
+  ]
+}
