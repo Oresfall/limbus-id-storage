@@ -1,0 +1,877 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "N Corp. Courthouse Corridor",
+      "model": "넬리2",
+      "content": "Wah, sudah lama sekali, semuanya. Waktu memang cepat berlalu—sejak di manor kita belum pernah berdiri berhadapan lagi, kan?"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "... Nelly?"
+    },
+    {
+      "id": 2,
+      "model": "이상",
+      "content": "Dia mengenakan pakaian dengan gaya yang mengingatkanku pada milik Gubo... Sepertinya dia sudah bekerja untuk N Corp."
+    },
+    {
+      "id": 3,
+      "model": "히스클리프",
+      "content": "... Waktu kusuruh kau menulis ceritamu sendiri... bukan berarti kau boleh gabung sama gerombolan Hermann itu lalu terus-terusan bikin kita kena masalah."
+    },
+    {
+      "id": 4,
+      "model": "히스클리프",
+      "content": "Sebenarnya kau datang ke sini mau bikin kacau apa lagi...?"
+    },
+    {
+      "id": 5,
+      "model": "넬리2",
+      "content": "Heathcliff..."
+    },
+    {
+      "id": 6,
+      "model": "히스클리프",
+      "content": "Kau dulu—kau itu keluarga! Makanya kulepas kau, sialan! Aku tahu persis apa yang kehidupan di manor itu lakukan padamu. Tapi kau...! Nyolong Golden Bough saja belum cukup, ya? Kau <i>harus</i> gabung sama mereka—!"
+    },
+    {
+      "id": 7,
+      "content": "Tongkat pemukul Heathcliff sudah bergerak bahkan sebelum kata terakhir keluar dari mulutnya. Dia langsung menerjang Nelly tanpa ragu sedikit pun..."
+    },
+    {
+      "id": 8,
+      "content": "... dan kilatan baja muncul dari lengan Nelly. Pisaunya menepis tongkat itu dengan bunyi retakan tajam, membuatnya mundur. Ketenangannya lebih terganggu oleh rasa jengkel daripada rasa takut."
+    },
+    {
+      "id": 9,
+      "model": "넬리2",
+      "content": "Tunggu. Aku di sini untuk membantumu, Heathcliff. Jangan gegabah."
+    },
+    {
+      "id": 10,
+      "model": "히스클리프",
+      "content": "<i>Membantuku?</i>"
+    },
+    {
+      "id": 11,
+      "content": "Faust memberi anggukan kecil dalam diam. Heathcliff menangkapnya lalu berbalik ke arahnya, amarahnya masih membara di matanya."
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "Jelaskan. Sekarang."
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "... Nona Nelly memang merupakan kolaborator dalam operasi ini—berdasarkan kesepakatan yang dibuat dengan Direktur Hermann dan New League of Nine Littérateurs miliknya."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "... Hah. Pantes saja selama ini kau merahasiakan semuanya dari kami."
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Benar. Kerahasiaan ini dimaksudkan untuk mengurangi penolakan yang sudah diperkirakan akan datang dari para Sinner."
+    },
+    {
+      "id": 16,
+      "model": "히스클리프",
+      "content": "Nelly... Dia sudah mengkhianatiku dua kali. Dua kali!"
+    },
+    {
+      "id": 17,
+      "model": "히스클리프",
+      "content": "Bahkan setelah kubebaskan dia—dia malah balik menusukku! Terus aku harus, apa, percaya lagi padanya? Dan ikut—"
+    },
+    {
+      "id": 18,
+      "model": "넬리2",
+      "content": "Mari kita berdua melupakan semua yang terjadi di sana, Heathcliff sayang. Aku sudah menguburnya sejak lama."
+    },
+    {
+      "id": 19,
+      "model": "넬리2",
+      "content": "Kenangan tentang manor tua yang diterpa badai dan tanpa cahaya itu hanya membuat pikiran semakin kusut."
+    },
+    {
+      "id": 20,
+      "model": "히스클리프",
+      "content": "\"Lupakan\"...? Apa yang <i>kau</i> tahu soal melupakan, Nelly?"
+    },
+    {
+      "id": 21,
+      "model": "히스클리프",
+      "content": "... Tidak. Aku tidak akan melupakan mereka. Bahkan kalau dia sudah dilupakan dunia, aku tidak akan—aku tidak bisa. Bahkan kalau itu memang keinginan Cathy."
+    },
+    {
+      "id": 22,
+      "model": "히스클리프",
+      "content": "Jadi tidak, aku tidak akan membiarkan siapa pun memaksaku mengubur masa lalu, Nelly. Bukan kau, bukan siapa pun."
+    },
+    {
+      "id": 23,
+      "model": "넬리2",
+      "content": "Cathy...? Kau kehilangan aku lagi, Heathcliff. Sama seperti saat terakhir kita bertemu."
+    },
+    {
+      "id": 24,
+      "model": "넬리2",
+      "content": "Rasanya... seolah-olah selama bertahun-tahun aku melayani hantu di manor yang sudah ditinggalkan itu, Heathcliff. Kau mungkin tidak tahu, tapi... setelah Tuan Earnshaw meninggal, semoga arwahnya tenang, manor itu dibiarkan... benar-benar kosong."
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "Kau bukan melayani hantu. Manor itu punya nyonya yang sah, sialan!"
+    },
+    {
+      "id": 26,
+      "model": "넬리2",
+      "content": "... Kurasa sudah waktunya kita berhenti membahas hal ini."
+    },
+    {
+      "id": 27,
+      "model": "넬리2",
+      "content": "Harusnya sudah jelas siapa yang paling dirugikan kalau percakapan tidak menyenangkan ini terus berlanjut. Bukankah begitu, Nona Faust?"
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "Heathcliff, maaf, tapi—"
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "......."
+    },
+    {
+      "id": 30,
+      "model": "히스클리프",
+      "content": "... Lanjutkan. Aku mau dengar. Jadi sebenarnya bagaimana kau berniat membantu kami?"
+    },
+    {
+      "id": 31,
+      "content": "Faust baru saja hendak berdiri di antara mereka ketika Heathcliff akhirnya mundur selangkah. Tongkatnya turun perlahan, sedikit demi sedikit..."
+    },
+    {
+      "id": 32,
+      "content": "... meski tatapannya tetap tertuju pada Nelly, seolah dia sedang mengingat kembali luka pengkhianatan yang lama."
+    },
+    {
+      "id": 33,
+      "model": "넬리2",
+      "content": "Astaga... Aku juga sempat mencatat ini waktu di manor, tapi kau benar-benar sudah melunak, ya? Heathcliff yang dulu pasti sudah—"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Coba ucapkan satu kata lagi. Satu kata menyebalkan lagi, dan matamu mungkin akan melihat \"Heathcliff yang dulu\" yang terus kauocehkan itu, sebelum kuhantam kepalamu sampai lepas dari badan."
+    },
+    {
+      "id": 35,
+      "model": "료슈9장이후반담배",
+      "content": "*hembus* Masih mau ngomong? Silakan ngoceh. Itu akan memberiku waktu untuk memilih antara S.Y.N.C. atau L.B.-mu."
+    },
+    {
+      "id": 36,
+      "model": "넬리2",
+      "content": "... Aku sudah menyewa ruang konferensi di dekat sini, jadi bagaimana kalau kita lanjutkan pembicaraan di sana? Aku yakin kita tidak mau membuat kolaborator lain menunggu."
+    },
+    {
+      "id": 37,
+      "model": "넬리2",
+      "content": "Lagipula, tempat ini bukan lokasi yang ideal untuk membahas hal-hal yang agak... sensitif, bukan?"
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Kolaborator lainnya adalah...?"
+    },
+    {
+      "id": 39,
+      "model": "넬리2",
+      "content": "Hanya beberapa kenalan lama yang tersayang, yang sama sepertiku tidak membutuhkan perkenalan panjang lebar."
+    },
+    {
+      "id": 40,
+      "model": "료슈9장이후반담배",
+      "content": "*hembus* Setuju, Bats. Kita tidak bisa memilih-milih mana yang mau diingat dan mana yang mau dilupakan."
+    },
+    {
+      "id": 41,
+      "model": "히스클리프",
+      "content": "......."
+    },
+    {
+      "id": 42,
+      "place": "A Conference Hall in N Corp.",
+      "content": "Kami mengikuti Nelly masuk ke semacam ruang konferensi di sebuah gedung."
+    },
+    {
+      "id": 43,
+      "content": "Di sana, kami mendapati diri kami berada bersama \"beberapa kenalan lama yang tersayang\"—atau lebih tepatnya, kejutan kasar yang jumlahnya segelintir—yang semuanya menatap ke arah kami."
+    },
+    {
+      "id": 44,
+      "model": "이상",
+      "content": "...!"
+    },
+    {
+      "id": 45,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Aku memang ingat pernah mendorong mereka memperluas perekrutan kepada orang-orang dari masa laluku... Tapi dia benar-benar wajah yang paling tidak kuduga."
+    },
+    {
+      "id": 46,
+      "model": "넬리2",
+      "content": "Aneh... Aku tidak ingat pernah merahasiakan informasi ini darimu, atau dari siapa pun di tim kita."
+    },
+    {
+      "id": 47,
+      "model": "구보",
+      "teller": "Gubo",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "... Orang itu bukan dilupakan. Dia memang memilih tidak hadir saat sesi penyampaian informasi karena lebih fokus pada penelitiannya."
+    },
+    {
+      "id": 48,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Dan aku menghargai pengertian itu; bagaimanapun juga, aku punya banyak peran."
+    },
+    {
+      "id": 49,
+      "model": "넬리2",
+      "content": "Rencana Direktur Hermann untuk menyelamatkan Tuan Meursault—kurasa persiapannya sudah selesai?"
+    },
+    {
+      "id": 50,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Ah, ya—jalur infiltrasi berliku melalui Suicide Vending Machine. Semua sistem sudah siap dan bisa dimulai, tentu saja—persiapannya cukup sederhana."
+    },
+    {
+      "id": 51,
+      "model": "넬리2",
+      "content": "Bagus. Kalian semua sudah dengar, ya? Semuanya paham? Kalau begitu, silakan duduk."
+    },
+    {
+      "id": 52,
+      "content": "Setelah kami duduk sesuai arahan Nelly..."
+    },
+    {
+      "id": 53,
+      "content": "Aku mencondongkan tubuh ke arah Outis di kursi sebelah. Aku menyampaikan pertanyaan yang terus mengganjal sejak kami bertemu Nelly lagi."
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<Ada sesuatu yang harus kuketahui... Menurutmu, apa yang mereka dapatkan dari semua ini?>"
+    },
+    {
+      "id": 55,
+      "model": "오티스",
+      "content": "Kemungkinan besar kolaborasi ini merupakan hasil sebuah transaksi, bukan perhitungan yang saling menguntungkan, Manajer Eksekutif."
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "Transaksi yang pasti berkaitan dengan Mirror, kalau aku boleh berspekulasi."
+    },
+    {
+      "id": 57,
+      "model": "이상",
+      "content": "Kalau mereka menarik orang-orang dari masa laluku ke pihak mereka dengan menjual nama \"League of Nine\"... dugaan Nona Outis mungkin memang benar."
+    },
+    {
+      "id": 58,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Begitu. Sepertinya kita tidak perlu penjelasan panjang—para tamu kita sudah cukup paham dengan keadaan mereka sendiri."
+    },
+    {
+      "id": 59,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "*mendengus* Ini jelas bukan pertemuan pertama kita. Kalau sampai sekarang kau masih tidak bisa menyadari sesuatu yang sudah begitu jelas... ya, kurasa kau tidak akan suka apa artinya itu bagi kemampuanmu."
+    },
+    {
+      "id": 60,
+      "model": "히스클리프",
+      "content": "... Sial, langsung saja. Sebenarnya kalian dapat apa dari semua ini?"
+    },
+    {
+      "id": 61,
+      "model": "넬리2",
+      "content": "Bagian itu dari kontraknya masih rahasia, Heathcliff."
+    },
+    {
+      "id": 62,
+      "model": "넬리2",
+      "content": "Tapi aku bisa memberi satu jaminan. Berbeda dari kesepakatan kita sebelumnya, kami tidak berniat mengambil Golden Bough. Kebetulan saja tujuan kami jadi lebih mudah dicapai dengan membantu kalian."
+    },
+    {
+      "id": 63,
+      "model": "이상",
+      "content": "Apa kalian berniat menjadikan kami kaki tangan kekacauan tanpa sadar, seperti di Hongyuan? Mungkin demi sesuatu yang hanya bisa dicuri di tengah kekacauan..."
+    },
+    {
+      "id": 64,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Kau dan rekan-rekan barumu memang cukup sering menjadi sumber kekacauan ke mana pun kalian pergi, sadar ataupun tidak. Atau jangan-jangan kehadiranmu di antara mereka memang menanam benih kekacauan itu, Yi Sang?"
+    },
+    {
+      "id": 65,
+      "model": "이상",
+      "content": "... Tuduhanmu hanyalah generalisasi yang kelewat kasar."
+    },
+    {
+      "id": 66,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Kalau itu membuatmu nyaman, sulam saja catatannya dengan benang yang lebih lembut. Kenyataannya tetaplah kebenaran yang tidak berubah dan tidak peduli pada rasa simpatiku."
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 68,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Baik, kembali ke rencana... Sejujurnya, semuanya cukup sederhana. Tempat tujuan rekan kalian bernama Grand Magasin Sisyphe. Dalam kondisi normal, satu-satunya cara untuk masuk ke department store itu adalah Sisyphe Penalty."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "content": "Jadi, apakah kita juga akan digantung?"
+    },
+    {
+      "id": 70,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Boleh diperjelas apakah pertanyaan itu diajukan secara harfiah, atau hanya sindiran berputar-putar?"
+    },
+    {
+      "id": 71,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Tergantung maksud pertanyaanmu, bisa dibilang kau tepat sasaran."
+    },
+    {
+      "id": 72,
+      "model": "돈키호테",
+      "content": "Uh..."
+    },
+    {
+      "id": 73,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Kalau maksudmu yang kedua, maka benar—asalkan kalian memperhatikan pelaksanaan hukumannya, untuk masuk ke Grand Magasin Sisyphe seseorang harus mengalami kematian."
+    },
+    {
+      "id": 74,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Untungnya, kabarnya Grand Magasin baru-baru ini mengalami beberapa... kendala. Dan kabar itu terbukti benar, melihat tingkat produksi Experience Batter mereka saat ini."
+    },
+    {
+      "id": 75,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Dan hal itu membuka celah, atau jalur yang biasanya tidak bisa diakses, yang secara kiasan memungkinkan kami \"menyelundupkan kalian masuk.\""
+    },
+    {
+      "id": 76,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Beruntung sekali kita sedang bersama para ahli terbaik di City dalam urusan mati."
+    },
+    {
+      "id": 77,
+      "model": "그레고르",
+      "content": "Kau tidak... salah, tapi..."
+    },
+    {
+      "id": 78,
+      "model": "그레고르",
+      "content": "Tapi... Manajer Bud belum pernah mati sebelumnya, kan?"
+    },
+    {
+      "id": 79,
+      "model": "로쟈",
+      "content": "Nggak, tapi secara teknis saja. Semua rasa sakit yang kita rasakan saat mati, Dante juga merasakannya."
+    },
+    {
+      "id": 80,
+      "model": "홍루",
+      "content": "Meski begitu, aku tetap khawatir pada Dante... Bagaimanapun, rasa sakit bukan satu-satunya hal yang datang bersama kematian..."
+    },
+    {
+      "id": 81,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Hah, serius? <i>Kau</i> khawatir soal kematian? Kukira kau bilang manusia itu... apa ya? \"Dilahirkan untuk mati\"?"
+    },
+    {
+      "id": 82,
+      "model": "홍루",
+      "content": "......."
+    },
+    {
+      "id": 83,
+      "model": "홍루",
+      "content": "Saudaraku, yang kukatakan waktu itu... Aku—"
+    },
+    {
+      "id": 84,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Jia Baoyu."
+    },
+    {
+      "id": 85,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Kupikir sekarang kau seharusnya sudah lebih tahu. Kita berdua tahu permintaan maaf yang tertahan di balik gigi itu bukan kebaikan, juga bukan penyesalan. Itu cuma kebohongan kecil yang menjijikkan."
+    },
+    {
+      "id": 86,
+      "content": "Menurutku Hong Lu hanya bisa menelan kembali kata-katanya sambil menatap Jia Huan dengan tatapan yang sama besarnya antara rasa bersalah dan keputusasaan..."
+    },
+    {
+      "id": 87,
+      "content": "Namun, jawaban itu malah membuat Jia Huan semakin kesal. Dia membuka-tutup mulut beberapa kali seolah hendak mengatakan sesuatu. Tapi setelah menyadari semua orang sedang memperhatikannya, dia langsung memalingkan kepala dengan tegas tanpa berkata apa-apa lagi."
+    },
+    {
+      "id": 88,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Wah, rasanya kita semua sedang berjalan jinjit di atas es tipis. Sepertinya setelah pembubaran itu, tak satu pun dari kita menemukan teman yang menyenangkan, ya?"
+    },
+    {
+      "id": 89,
+      "model": "이상",
+      "content": "... Aku lebih suka kau melanjutkan presentasi ini daripada terlibat dalam basa-basi yang tidak ada gunanya."
+    },
+    {
+      "id": 90,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Baiklah. Setidaknya kau masih punya kebajikan untuk mengatakan persis apa yang ingin kudengar."
+    },
+    {
+      "id": 91,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Kembali ke pokok pembahasan... Tidak, kalian <i>sebenarnya</i> tidak perlu mati untuk masuk. Perhatikan baik-baik perkataanku—kalian perlu \"mengalami\" kematian untuk masuk ke Sisyphe."
+    },
+    {
+      "id": 92,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Jika kalian memenuhi syarat itu di pihak kalian, kami punya cara untuk melewati sistem keamanan Grand Magasin Sisyphe dan membawa kalian masuk."
+    },
+    {
+      "id": 93,
+      "model": "파우스트",
+      "content": "Tentu saja... syarat itu akan dipenuhi menggunakan Suicide Vending Machine—produk utama yang membantu Direktur Hermann memperkuat posisinya di N Corp."
+    },
+    {
+      "id": 94,
+      "model": "그레고르",
+      "content": "Hah... Jadi begitu caranya seorang mantan G Corp. seperti dia bisa jadi direktur di N Corp."
+    },
+    {
+      "id": 95,
+      "model": "단테",
+      "content": "<Suicide Vending Machine...>"
+    },
+    {
+      "id": 96,
+      "model": "이스마엘",
+      "content": "Aku pernah membaca brosur informasi yang memperkenalkannya sebagai, uh... produk terbaru N Corp. Memang tidak seterkenal atau sepopuler Canned Experience, tapi menyebar dari mulut ke mulut karena layanan yang ditawarkannya <i>sangat</i> mendebarkan..."
+    },
+    {
+      "id": 97,
+      "model": "구보",
+      "teller": "Gubo",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Bagaimanapun juga, manusia memang punya kecenderungan mengejar sensasi ekstrem secara patologis."
+    },
+    {
+      "id": 98,
+      "model": "이상",
+      "content": "Dan kurasa itu teknologi lain yang dicuri dari Glass Window atau Mirror."
+    },
+    {
+      "id": 99,
+      "model": "이상",
+      "content": "... Sekarang aku kembali sadar bahwa dari segala penjuru aku terus dihujani pengungkapan yang sangat tidak menyenangkan."
+    },
+    {
+      "id": 100,
+      "model": "구보",
+      "teller": "Gubo",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Hah! Bahkan sekarang kau masih membiarkan masalah pribadi memengaruhimu?"
+    },
+    {
+      "id": 101,
+      "model": "이상",
+      "content": "... Kau mau menyebutnya \"masalah pribadi\"? Kalau begitu, kurasa perasaan yang membuat Brother Young-ji menciptakan Glass Window akan selamanya berada di luar pemahamanmu."
+    },
+    {
+      "id": 102,
+      "model": "이상",
+      "content": "Itu adalah teknologi yang dibuat agar hal-hal yang ditakdirkan lenyap dari dunia ini bisa kembali mengepakkan sayap dengan bebas. Tapi orang-orang hampa dan vulgar seperti kalian malah mengintip ke dalamnya hanya untuk mencari kematian."
+    },
+    {
+      "id": 103,
+      "model": "구보",
+      "teller": "Gubo",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Kami hanya menemukan kegunaan yang lebih cocok untuknya. Bukankah memang begitulah roda kemajuan berputar?"
+    },
+    {
+      "id": 104,
+      "model": "이상",
+      "content": "... Jangan berani—"
+    },
+    {
+      "id": 105,
+      "model": "구보",
+      "teller": "Gubo",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Sudahlah. Bagaimana kalau kita tinggalkan dendam lama ini dan bekerja sama? Berhenti melotot sinis dan mari bekerja bersama. Masa kalian mau menghabiskan sisa malam dengan adu mulut?"
+    },
+    {
+      "id": 106,
+      "model": "로쟈",
+      "content": "... Jadi... kita menyusup, nyomot Meursault langsung dari Grand Magasin atau apa pun namanya, terus beres. Gitu, kan?"
+    },
+    {
+      "id": 107,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Tidak sesederhana itu. Urusan perusahaan kalian tidak pernah menunjukkan kecintaan pada pekerjaan gampang. Di lantai paling atas Grand Magasin ada Golden Bough yang kelihatannya sangat kalian sukai untuk dikumpulkan."
+    },
+    {
+      "id": 108,
+      "model": "히스클리프",
+      "content": "Dan kalian begitu peduli sama kami karena...?"
+    },
+    {
+      "id": 109,
+      "content": "Berbeda dari pertemuan pertama kami, aku tahu mereka tidak sedang secara aktif berusaha merebut Golden Bough untuk diri mereka sendiri..."
+    },
+    {
+      "id": 110,
+      "content": "... karena perlombaan mereka mengejar Golden Bough jarang sekali konsisten. Kadang mereka berusaha mengambilnya dari kami, tapi di lain waktu mereka sama sekali tidak tertarik."
+    },
+    {
+      "id": 111,
+      "content": "Tapi mengetahui hal itu tetap tidak membuat ketidakjelasan tujuan akhir mereka terasa lebih nyaman."
+    },
+    {
+      "id": 112,
+      "model": "오티스",
+      "content": "Kalau begitu, sebagai rangkuman... Kita menyusup ke Grand Magasin Sisyphe tanpa terdeteksi melalui jalur yang dibuka Suicide Vending Machine—berkat New League of Nine—menyelamatkan Meursault, mengambil Golden Bough, lalu keluar dengan risiko seminimal mungkin. Ada yang terlewat?"
+    },
+    {
+      "id": 113,
+      "model": "넬리2",
+      "content": "Tidak ada yang terlewat, tapi... ada satu hal yang harus kuluruskan."
+    },
+    {
+      "id": 114,
+      "model": "넬리2",
+      "content": "Memang benar metode masuk kalian tidak biasa... tapi risikonya lebih dari sekadar \"minimal.\""
+    },
+    {
+      "id": 115,
+      "model": "싱클레어",
+      "content": "... Apa?!"
+    },
+    {
+      "id": 116,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Izinkan aku menjelaskan: <i>masuknya</i> kalian tidak akan terdeteksi. Tapi tidak lama kemudian mereka akan sadar ada penyusup, dan di situlah risikonya muncul."
+    },
+    {
+      "id": 117,
+      "model": "돈키호테",
+      "content": "Apa... yang akan terjadi jika keberadaan kami terdeteksi?"
+    },
+    {
+      "id": 118,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Pasukan N Corp. tentu akan dikerahkan. Mereka akan menyerang Suicide Vending Machine yang kami pilih sebagai jalan masuk kalian ke Grand Magasin Sisyphe."
+    },
+    {
+      "id": 119,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Saat itulah kami akan membantu kalian."
+    },
+    {
+      "id": 120,
+      "model": "그레고르",
+      "content": "Apa yang bakal terjadi... kalau kita diserang saat memakai Suicide Vending Machine?"
+    },
+    {
+      "id": 121,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Memangnya perlu dijelaskan? Jelas akan menjadi sesuatu yang benar-benar katastrofik."
+    },
+    {
+      "id": 122,
+      "model": "단테",
+      "content": "<Apa pun itu, kedengarannya seperti risiko yang tidak ingin kuambil...>"
+    },
+    {
+      "id": 123,
+      "model": "파우스트",
+      "content": "Kolaborasi kita dengan New League of the Nine... juga mencakup keadaan darurat seperti itu."
+    },
+    {
+      "id": 124,
+      "model": "히스클리프",
+      "content": "Nona, maksudmu kita harus percaya pada bajingan-bajingan ini untuk—"
+    },
+    {
+      "id": 125,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "—melindungi kalian berdua belas? Ya, tepat sekali. <i>Secara pribadi.</i>"
+    },
+    {
+      "id": 126,
+      "model": "그레고르",
+      "content": "... Dan kita, apa, cuma disuruh menyerahkan nyawa kita ke tangan orang-orang ini?"
+    },
+    {
+      "id": 127,
+      "model": "넬리2",
+      "content": "Oh, ayolah. Memangnya kau benar-benar mengira Direktur akan membiarkan setengah-setengah ketika putra kesayangannya ada bersama kalian?"
+    },
+    {
+      "id": 128,
+      "model": "그레고르",
+      "content": "*mendengus* Wah, menenangkan sekali mendengarnya."
+    },
+    {
+      "id": 129,
+      "content": "Gregor menjawab dengan dengusan kering yang penuh rasa tidak percaya."
+    },
+    {
+      "id": 130,
+      "model": "오티스",
+      "content": "Bahkan kalau kita mengesampingkan masalah kepercayaan... aku harus menyampaikan keraguanku soal kemampuan kalian melindungi kami sejak awal. Performa kalian di Hongyuan sama sekali tidak meyakinkan."
+    },
+    {
+      "id": 131,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Hah, itu karena—"
+    },
+    {
+      "id": 132,
+      "model": "구보",
+      "teller": "Gubo",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "... Kau tidak perlu khawatir soal itu. Kami punya perlengkapan E.G.O. baru yang baru saja lolos pengujian laboratorium, plus banyak pegawai baru untuk memakainya."
+    },
+    {
+      "id": 133,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Kalau benar-benar diperlukan, akhirnya kita juga akan memanfaatkan Kapten keras kepala itu. Dia tidak suka tanah yang kokoh? Ya sudah, waktunya bekerja."
+    },
+    {
+      "id": 134,
+      "model": "이스마엘",
+      "content": "... Tu-tunggu. \"Kapten\" ini... Namanya kebetulan Ahab, kan?"
+    },
+    {
+      "id": 135,
+      "model": "넬리2",
+      "content": "Astaga, kau tidak tahu? Sepertinya dia sudah ada di sini sebelum aku bergabung."
+    },
+    {
+      "id": 136,
+      "model": "이스마엘",
+      "content": "... Sebenarnya apa yang kalian tawarkan padanya? Membantunya memburu Paus?"
+    },
+    {
+      "id": 137,
+      "model": "넬리2",
+      "content": "Aku tidak bisa membocorkan detail kesepakatannya... tapi sepertinya bukan begitu, kan?"
+    },
+    {
+      "id": 138,
+      "model": "이스마엘",
+      "content": "... Dan kurasa kalian sama sekali tidak peduli berapa banyak orang yang bakal mati gara-gara provokasi gilanya dan keras kepalanya."
+    },
+    {
+      "id": 139,
+      "model": "넬리2",
+      "content": "Yah, Kapten Ahab punya caranya sendiri."
+    },
+    {
+      "id": 140,
+      "model": "이스마엘",
+      "content": "... Mungkin. Tapi kalau aku harus melihat apa yang dia lakukan terulang lagi, tepat di depan mataku... Aku tidak tahu apa yang mungkin kulakukan."
+    },
+    {
+      "id": 141,
+      "model": "넬리2",
+      "content": "Hmm. Sekarang aku yakin keputusan untuk tidak mengikutsertakan sang kapten dalam pertemuan ini memang bijaksana."
+    },
+    {
+      "id": 142,
+      "model": "아세아",
+      "teller": "Aseah",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Sekarang semua kartu sudah terbuka... bagaimana? Persiapan infiltrasi sudah selesai. Tinggal katakan saja, dan kami akan mengirim kalian semua langsung ke Grand Magasin Sisyphe."
+    },
+    {
+      "id": 143,
+      "model": "단테",
+      "content": "<Kalau begitu, bagaimana pendapat kalian semua?>"
+    },
+    {
+      "id": 144,
+      "model": "이상",
+      "content": "Harus kuakui, ada sedikit keraguan di hatiku; aliansi semacam ini pernah diuji sebelumnya di Kuil Tiekan, dan hampir seketika runtuh lalu berujung bentrokan."
+    },
+    {
+      "id": 145,
+      "model": "오티스",
+      "content": "Kau yakin mereka satu-satunya pilihan kita? Sejujurnya, aku jauh lebih siap bekerja sama dengan Ring dan Corridor mereka daripada dengan New League of the Nine."
+    },
+    {
+      "id": 146,
+      "model": "파우스트",
+      "content": "Grand Magasin Sisyphe adalah dimensi yang secara fundamental berbeda, jadi tidak bisa dimasuki lewat Backdoor, Corridor, atau portal apa pun. Saat ini hanya ada dua jalur infiltrasi yang memungkinkan: mengikuti proses hukum N Corp. dan menerima Sisyphe Penalty, atau menggunakan kerja sama New League of Nine."
+    },
+    {
+      "id": 147,
+      "model": "히스클리프",
+      "content": "Kelihatannya gampang. Kalau begitu, biar kita dihukum Sisyphe Penalty. Kita bisa pergi ke salah satu checkpoint Nest lalu mulai menghancurkan dinding dan jendela—"
+    },
+    {
+      "id": 148,
+      "model": "돈키호테",
+      "content": "Sayangnya, aku enggan melakukan kejahatan seceroboh itu..."
+    },
+    {
+      "id": 149,
+      "model": "싱클레어",
+      "content": "Don Quixote... Menurutmu, siapa yang dimaksud Heathcliff ketika dia bilang \"menghancurkan dinding dan jendela\"?"
+    },
+    {
+      "id": 150,
+      "model": "돈키호테",
+      "content": "Ah—*batuk*"
+    },
+    {
+      "id": 151,
+      "content": "Sanggahan demi sanggahan berputar mengelilingi meja sampai pembicaraan mulai berputar di tempat. Sepanjang itu, Ryōshū merokok dalam diam sampai akhirnya dia menjentikkan abu rokok yang menyala dan memutus debat tersebut."
+    },
+    {
+      "id": 152,
+      "model": "료슈9장이후반담배",
+      "content": "*hembus* Sekarang giliranku sudah selesai, sudah waktunya M. dapat T. juga, bukan? Pikirkan saja saat kita sudah di dalam. Jangan buang waktu di sini."
+    },
+    {
+      "id": 153,
+      "model": "홍루",
+      "content": "Aku setuju dengan Nona Ryōshū. Aku tidak bisa bilang sepenuhnya percaya pada perusahaan kita... tapi aku ingin mempercayai Nona Faust."
+    },
+    {
+      "id": 154,
+      "model": "로쟈",
+      "content": "Aku juga nggak terlalu suka ide ini, tapi... menurutku kalian berdua benar. Maksudku, bukan berarti kita <i>nggak</i> bakal menyelamatkan Meur cuma karena risikonya besar, kan?"
+    },
+    {
+      "id": 155,
+      "model": "단테",
+      "content": "<... Benar. Kita harus bekerja sama dengan mereka.>"
+    },
+    {
+      "id": 156,
+      "model": "넬리2",
+      "content": "Kalian sudah mengambil keputusan?"
+    },
+    {
+      "id": 157,
+      "model": "이스마엘",
+      "content": "... Bawa kami ke Suicide Vending Machine. Ayo."
+    },
+    {
+      "content": "Beberapa saat kemudian…"
+    },
+    {
+      "id": 158,
+      "place": "N Corp., Suicide Vending Machine Entrance",
+      "model": "단테",
+      "content": "<Jadi ini... Suicide Vending Machine.>"
+    },
+    {
+      "id": 159,
+      "content": "Nelly dan Aseah membawa kami masuk ke sebuah ruangan kecil."
+    },
+    {
+      "id": 160,
+      "place": "N Corp., Inside Suicide Vending Machine",
+      "content": "Berada di ruangan gelap seperti ini memang sudah cukup aneh, tapi... yang lebih mengganggu adalah betapa sunyi dan terputusnya tempat ini dari dunia luar."
+    },
+    {
+      "content": "Kami berjalan melewati mesin-mesin yang berjajar, lalu mengambil tempat duduk masing-masing."
+    },
+    {
+      "id": 161,
+      "content": "Lalu... kami menyalakan monitor."
+    }
+  ]
+}
