@@ -1,0 +1,1690 @@
+{
+  "dataList": [
+    {
+      "key": "D50011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Fiu... kita berhasil sampai di sini, tapi... huh. Aku tidak yakin kita bisa masuk lewat pintu masuknya.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Pintu masuknya tampak terhalang oleh sesuatu yang sangat tidak biasa... Saya ragu kekerasan kasar akan membantu kita.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D50012",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie diam-diam meletakkan tangannya di pintu masuk lantai lima,"
+        }
+      ]
+    },
+    {
+      "key": "D50012A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "lalu menurunkannya kembali sambil menggelengkan kepala."
+        }
+      ]
+    },
+    {
+      "key": "D50013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Kita tidak bisa masuk. Kau maupun aku.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Kita belum punya... cukup kebajikan...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "<\"Kebajikan\"...?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D50014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bingo. Bocah tengil itu sangat amat kekurangan kebajikan... Masih sangat jauh dari kata anggun untuk tempat berkelas seperti ini.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D50015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kromer...!",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Noir. Darah merembes ke dalam setelan hitam, mengubahnya menjadi merah tua pekat."
+        }
+      ]
+    },
+    {
+      "key": "D5902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Rouge. Pakaiannya yang dulunya mengembang kini melandai, terbebani oleh darah yang membasahinya."
+        }
+      ]
+    },
+    {
+      "key": "D5006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kuletakkan tanganku di tirai, dan tirai itu mulai beriak seolah-olah aku baru saja menyentuh permukaan air."
+        }
+      ]
+    },
+    {
+      "key": "D5002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Saat itulah Pwie menerobos di antara yang lain dan berjalan mendekati tirai."
+        }
+      ]
+    },
+    {
+      "key": "D5002A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tangan mungil mereka terulur ke arah tirai..."
+        }
+      ]
+    },
+    {
+      "key": "D5002B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tirai bergerak dengan lembut. Jalanan kini terbuka."
+        },
+        {
+          "index": 1,
+          "text": "<Kurasa kita bisa masuk sekarang.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku... menguap terus.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Aku ngantuk... Mataku terasa berat sekali...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "... seperti... aku akan tertidur lagi...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "Pertarungan tadi memang sangat berat. Tidak ada salahnya beristirahat sejenak.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "Mungkin... ini tidak akan terlalu sejenak...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "Meski begitu, tidak apa-apa.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 6,
+          "text": "<Ya... Kita juga harus mengambil nafas sejenak.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 8,
+          "text": "Aku berharap kalian tetap ada di sini...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 9,
+          "text": "... saat aku terbangun nanti.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 10,
+          "text": "Seperti kalian yang sebelumnya... Seperti kalian yang sekarang.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 11,
+          "text": "... Kami akan melakukannya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "Tenangkan rasa khawatir anda dan tidurlah.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5008A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Mhm.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Bermimpilah yang indah, Pwie.",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tak lama kemudian, irama nafas tidur yang halus memenuhi udara, dan lipatan-lipatan crimson mulai melilit dengan liar di sekeliling Pwie."
+        }
+      ]
+    },
+    {
+      "key": "D5013A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lalu, sama seperti kepompong yang pernah kita temui sebelumnya... sebuah membran merah menutupi anak itu."
+        }
+      ]
+    },
+    {
+      "key": "D5013B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek berubah jadi kepompong...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Makhluk tertentu... harus menanggalkan bentuk lamanya melalui metamorfosis sebelum mereka dewasa. Kupu-kupu di tanah kelahiran saya berperilaku demikian.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Seperti kepompong, ya...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "Wajah Gregor mengencang sejenak seolah-olah ingatan buruk mendadak muncul..."
+        },
+        {
+          "index": 4,
+          "text": "Lalu dia menggelengkan kepala dan kembali ke ketenangannya yang biasa."
+        },
+        {
+          "index": 5,
+          "text": "Aduh... Kita benar-benar terlibat jauh dalam urusan pengasuhan anak ini sekarang, ya?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 6,
+          "text": "Jika tidak ada yang tersisa untuk melindungi anak yang lelap ini... mereka pasti akan menderita.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 7,
+          "text": "Yah, Pwie sudah membawa kita sejauh ini sampai ke lantai lima. Rasanya tidak benar kalau berpangku tangan sekarang.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5013C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tak lama kemudian, sulur-sulur dengan mulut di ujungnya mendadak menyeruak keluar dari kepompong, dengan cepat melahap makanan yang disajikan di atas meja."
+        }
+      ]
+    },
+    {
+      "key": "D5013D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mereka tampaknya... memuaskan rasa lapar mereka.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<... Para Noir akan segera mendatangi kita.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Para asing dari Fount telah menyambut daging dan darah ke dalam nyanyian. Dengan demikian, mereka telah menjadikan diri mereka saksi atas penyusutan.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Anakku yang setia, sang jawara milikku. Hantamlah kelahiran itu dengan palumu dan hantarkan ia menuju kematian, sebab adalah baik bahwa semua kelahiran berakhir dalam kematian. Hanya dengan demikian engkau akan berdiri abadi di bawah nama Sisyphe.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D5003A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Demikianlah Suara itu bersabda: sungguh, di sinilah berbaring sang musuh bebuyutan, tempat persemaian keserakahan dan kelebihan, kelaparan dan kehausan. Hanya kehampaan yang akan ada di ujung paling akhir dari kelahirannya kembali.",
+          "speaker": "Manager Merek Le Noir"
+        },
+        {
+          "index": 1,
+          "text": "Dengan palu besar di tangannya, sosok raksasa itu menghentakkan kaki perlahan menuju kita—menuju kepompong Pwie."
+        }
+      ]
+    },
+    {
+      "key": "D5003B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sial betul... Terpojok saat anak itu bahkan tidak bisa lari...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Menilik dari Suara yang kini bergema... ia mungkin menanti saat yang tepat hingga Pwie muda tertidur lelap.",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Apakah sudah selesai?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Haah... Bertarung seharian benar-benar menguras tenaga. Atau harus kukatakan pikiranku yang kehabisan energi? Bagaimanapun juga, ini dunia simulasi...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "<... Kurasa tidak akan ada lagi Le Noir yang berhasil sampai sejauh ini.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<Apa Pwie baik-baik saja...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Tidak terluka. Dan... kemungkinan akan segera bangun.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lipatan crimson berlapis mengembang dan mengempis seperti organ raksasa yang bernapas dalam tidurnya..."
+        }
+      ]
+    },
+    {
+      "key": "D5011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Whew... Pakaian memang mengubah penampilan anak ini, ya? Jadi, apakah kita bisa masuk ke restoran sekarang?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "... Mhm.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "Hm... Suara anda terdengar lembut dan bahu anda terkulai rendah... Apakah pikiran anda masih tertinggal bersama Wriggley?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "Wriggley? Oh... makhlul kecil melengking yang melayang di atas bahu Meursault dan berbunyi \"skri\" setiap saat itu?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Apa yang sebenarnya terjadi di bawah sana...?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 6,
+          "text": "<Pwie... memakan Wriggley. Padahal mereka sangat menyayanginya...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "M-memakannya? Huh... Apakah itu dianggap wajar menurut akal sehat yang aneh di tempat ini? Bukannya dia sangat mencintai hal itu?",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Getaran dahsyat mendekat dari belakang kita... dan ratapan itu juga.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Getaran ini...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Manajer. Tampaknya \"keberadaan purba...\" akan tiba di sini sebentar lagi.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Kapan...?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "Dalam waktu kurang lebih 3 detik.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "…….",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D5018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Gwoooooorgh!!!!",
+          "speaker": "Benang Hitam"
+        }
+      ]
+    },
+    {
+      "key": "D5019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kita harus mengurus keberadaan purba yang mengejar ini terlebih dahulu, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Wahai mereka yang tak berbusana yang berani berdiri tanpa rasa takut di hadapan tatapan... kalian telah menabur bencana yang lahir dari keserakahan. \nDengarkanlah aku, anak-anakku! Demi otoritas ilahiku, aku membuang penghalang waktu pada kebangkitanmu! Sekarang ganjarlah sang Musuh dengan balasan yang setimpal.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D5021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tunggu sebentar. Pengumuman tadi itu... Apa cuma aku saja yang merasa naluri bahayanya berbunyi?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "... Kita sebaiknya bersiap untuk bertarung sekarang juga.",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Di sana! Aku melihat orang-orang asing itu!",
+          "speaker": "Penjaga Le Noir"
+        },
+        {
+          "index": 1,
+          "text": "<Meursault. Jangan berhenti—tetap bergerak ke depan.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "... Dimengerti, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BLACKTHREAD",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kesedihan di luar pemahaman merembes keluar dari sela-sela benang hitam."
+        },
+        {
+          "index": 1,
+          "text": "Arus gelombang gelap dan hitam berjalin di sekeliling pergelangan kaki kita, berusaha menyeret kita hanyut."
+        }
+      ]
+    },
+    {
+      "key": "D5004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Kita sudah memanjat sejauh ini... Kuharap mereka tidak akan bisa mengejar kita lebih jauh lagi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Tampaknya... kita telah muncul di atas meja makan. Saya berharap kedatangan kita tidak terlalu mengganggu santapan mereka...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Yah, kita tidak dalam posisi untuk memedulikan tata krama meja makan. Setidaknya sekarang kita akhirnya bisa bernapas lega...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "<color=#7d7d7d>Wahai anak-anak yang tidak mengenal kebangsawanan, aku katakan kepadamu: setiap langkah kakimu akan melubangi paku; selincah apa pun engkau bangkit, namun bagianmu adalah berhenti di setiap lantai.</color>"
+        },
+        {
+          "index": 4,
+          "text": "Yap. Mulutku yang asal ceplos ini...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Kenapa mulutmu gemuk?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 6,
+          "text": "*huff* Katakan saja begini... terkadang kau harus menjaga mulutmu tetap bungkam.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5024",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Kita harus melindungi kepompong ini.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Orang-orang asing. Kalian yang berasal dari Fount, yang langkahnya tidak terikat oleh lantai... Kalian yang jejak kakinya selalu mengarah ke atas.",
+          "speaker": "Manager Merek Le Noir"
+        },
+        {
+          "index": 1,
+          "text": "Kabar tentang kalian telah sampai kepadaku jauh sebelum kaki kalian tiba.",
+          "speaker": "Manager Merek Le Noir"
+        },
+        {
+          "index": 2,
+          "text": "Telah kudengar bahwa kalian telah menebas sang Alterationist generasi sekarang, yang telah kupercayakan tenunan kainku kepadanya.",
+          "speaker": "Manager Merek Le Noir"
+        },
+        {
+          "index": 3,
+          "text": "Sang Alterationist generasi sebelumnya, yang tangannya menciptakan zirah ini, telah bersiap pada usaha yang berlarut-larut sejak lama... Dan karena itu aku harus bertahan dengan tenunan kain yang bersumber dari alam di bawah.",
+          "speaker": "Manager Merek Le Noir"
+        },
+        {
+          "index": 4,
+          "text": "<…….>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kekejian yang kalian lindungi... suatu hari nanti akan melahap department store ini hingga ke tulang-tulangnya.",
+          "speaker": "Manager Merek Le Noir"
+        },
+        {
+          "index": 1,
+          "text": "Hal itu telah diramalkan... itu adalah masa depan yang pasti seperti halnya takdir.",
+          "speaker": "Manager Merek Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "D5025C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidakkah kalian tahu bahwa hakikat sebenarnya dari makhluk ini terletak pada kepalsuan? Berikan aku jalan, dan kesalahan tidak akan ditimpakan di kaki kalian.",
+          "speaker": "Manager Merek Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "D5025D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Di mata saya, Pwie hanyalah seorang anak yang penuh dengan pertanyaan, terjebak di antara alam dan kehendak.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Dan... bukankah kita telah membuat janji? Janji untuk bertemu mereka kembali pada saat mereka terbangun.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Yap, benar sekali. Inilah alasannya kenapa kau tidak boleh asal mengumbar janji sembarangan...",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5025E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dalam kebodohanmu, engkau telah terpesona oleh makhluk noda itu.",
+          "speaker": "Manager Merek Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "D5025F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<…….>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<Jika dia mengatakan yang sebenarnya, maka Grand Magasin Sisyphe akan menyusut... dan kita akan berakhir di akhir yang sama sekali lagi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<Yang berarti... segala hal yang kita lakukan akan menjadi sia-sia.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<... Walau begitu, dan... aku tidak bisa menjelaskan alasannya, tapi aku... aku ingin melindungi Pwie.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Karena saat ini... instingku, hatiku—terus memintaku untuk melakukannya.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025H",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pembawa palu itu menerjang kita dengan kecepatan penuh, lingkaran cahaya apinya yang membara membakar mata kami."
+        }
+      ]
+    },
+    {
+      "key": "D5025I",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dan pada saat yang bersamaan, sebuah pertanyaan muncul di mulut pepatahku."
+        }
+      ]
+    },
+    {
+      "key": "D5025J",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Meursault?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025K",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ya, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025L",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Apakah aku... apakah kita akan menyesali pilihan ini?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025M",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025N",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ya. Ada kemungkinannya sangat tinggi bahwa kita akan menyesalinya.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025O",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Namun... hal yang terpenting adalah—",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025P",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dampak yang menderu tenggelam di sisa jawaban Meursault."
+        }
+      ]
+    },
+    {
+      "key": "D5026",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jadi... coba jelaskan padaku. Aku mendengar versi kasar masalahnya di kamar mandi tadi, tapi kita pada dasarnya telah menjadi pengawal anak P—uh, Pwie ini sepanjang jalan ke sini. Apakah seperti itu?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<Kurang lebih seperti itu.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Telah membimbing anak yang tersesat di jalan mereka... adalah sebuah perbuatan yang baik. Department store bagaimanapun juga adalah tempat yang paling rentan membuat orang kehilangan arah...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Koridor ini cukup panjang juga... Sepertinya kita masih memiliki perjalanan jauh di depan kita.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "Kawanan ikan berenang dengan lembut melintasi air di balik jendela kaca.\nKerumunan besar berjalan di antara dinding-dinding kaca, menjelajahi kehidupan akuatik."
+        }
+      ]
+    },
+    {
+      "key": "D5904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Paku dan Palu]"
+        }
+      ]
+    },
+    {
+      "key": "D5905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Paku, Dipalu]"
+        }
+      ]
+    },
+    {
+      "key": "D5906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Festival]"
+        }
+      ]
+    },
+    {
+      "key": "D5907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Kelupaan dan Kelaparan]"
+        }
+      ]
+    },
+    {
+      "key": "D5908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Asap dan Perang]"
+        }
+      ]
+    },
+    {
+      "key": "D5909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Kelimpahan Paradoks]"
+        }
+      ]
+    },
+    {
+      "key": "D5910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Zaman Barbarisme]"
+        }
+      ]
+    },
+    {
+      "key": "D5911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Pikiran Kosong untuk Diwaspadai]"
+        }
+      ]
+    },
+    {
+      "key": "D5912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Pohon, Ular, dan Buah]"
+        }
+      ]
+    },
+    {
+      "key": "D5913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Raksasa]"
+        }
+      ]
+    },
+    {
+      "key": "D5914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Menara]"
+        }
+      ]
+    },
+    {
+      "key": "D5915",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Tiang Gantung]"
+        }
+      ]
+    },
+    {
+      "key": "D5916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Si Hitam dan Merah, Si Merah dan Hitam]"
+        }
+      ]
+    },
+    {
+      "key": "D5917",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Zaman Pencerahan]"
+        }
+      ]
+    },
+    {
+      "key": "D5918",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Kejatuhan Raksasa]"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5919",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Sang Retakan Besar]"
+        }
+      ]
+    },
+    {
+      "key": "D5920",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Zaman Perpisahan]"
+        }
+      ]
+    },
+    {
+      "key": "D5921",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Ranting Emas]"
+        },
+        {
+          "index": 2,
+          "text": "<... Ini tampaknya adalah sejarah dari department store ini.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5922",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "Tidak bisa melihat apa pun."
+        }
+      ]
+    },
+    {
+      "key": "D5925",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak bisa melihat apa pun."
+        }
+      ]
+    },
+    {
+      "key": "D5926",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak bisa melihat apa pun."
+        }
+      ]
+    },
+    {
+      "key": "D5927",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bentuk yang kabur bisa terlihat."
+        },
+        {
+          "index": 1,
+          "text": "[Mereka Yang Jatuh]"
+        }
+      ]
+    },
+    {
+      "key": "D5928",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Apa yang dulu menjulang tinggi ditakdirkan untuk tenggelam.]"
+        }
+      ]
+    },
+    {
+      "key": "D5929",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Cekungan terdalam dari Toko Departemen yang mewah. Sedimen yang mual dan busuk.]"
+        }
+      ]
+    },
+    {
+      "key": "D5930",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Meskipun benang penunjuk jalan diikuti sampai ke jalan keluar, hanya ujung tali yang terputus yang menunggu di akhir.]"
+        }
+      ]
+    },
+    {
+      "key": "D5931",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Tidak bisa bangkit, tidak bisa menyerah, benang-benang yang melilit tanpa henti.]"
+        }
+      ]
+    },
+    {
+      "key": "D5932",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Satu tangan membelai perut yang membuncit; tangan lainnya, pikiran yang kelaparan.]"
+        }
+      ]
+    },
+    {
+      "key": "D5933",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Rasa yang pernah dicapai, namun tak pernah ditemukan lagi.]"
+        }
+      ]
+    },
+    {
+      "key": "D5934",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Apa yang berlalunya cepat dan singkat adalah hal-hal yang rapuh.]"
+        }
+      ]
+    },
+    {
+      "key": "D5935",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Di sudut yang memudar, menunggu momen untuk kembali.]"
+        }
+      ]
+    },
+    {
+      "key": "D5936",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Otoritas mengikuti penyempitan dengan ukuran yang sama.]"
+        }
+      ]
+    },
+    {
+      "key": "D5937",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Semakin tatapan menjerat, semakin mereka ikut serta.]"
+        }
+      ]
+    },
+    {
+      "key": "D5938",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Semua orang membutuhkan keyakinan.]"
+        }
+      ]
+    },
+    {
+      "key": "D5939",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Rasa takjub sering kali dikhususkan bagi mereka yang mati namun hidup.]"
+        }
+      ]
+    },
+    {
+      "key": "D5940",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Tidak ada yang boleh mencemooh mereka yang telah runtuh.]"
+        }
+      ]
+    },
+    {
+      "key": "D5941",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Setidaknya, keputusan untuk runtuh adalah milik mereka sendiri.]"
+        }
+      ]
+    },
+    {
+      "key": "D5942",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Meskipun satu tangan mungkin membelai perut yang kelaparan, pikiran tetap makmur.]"
+        }
+      ]
+    },
+    {
+      "key": "D5943",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Rasa lapar tidak diisi; itu adalah apa yang dicari seseorang untuk diisi.]"
+        }
+      ]
+    },
+    {
+      "key": "D5944",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Mempaku diri sendiri dengan setiap langkah.]"
+        }
+      ]
+    },
+    {
+      "key": "D5945",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Di akhir peziarahan, hanya dia yang telah tertancap paku orang banyak yang tersisa.]"
+        }
+      ]
+    },
+    {
+      "key": "D5946",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Untuk apa seseorang memanjat?]"
+        }
+      ]
+    },
+    {
+      "key": "D5947",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Mengetahui bahwa hanya penurunan takdir yang menunggu.]"
+        }
+      ]
+    },
+    {
+      "key": "D5923",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        }
+      ]
+    },
+    {
+      "key": "D5924",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "Setelah menatapnya beberapa saat, pola-pola itu mulai menari dan beriak."
+        },
+        {
+          "index": 2,
+          "text": "<... Ini adalah...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Hal-hal yang seharusnya tidak terlihat mulai menampakkan diri."
+        }
+      ]
+    },
+    {
+      "key": "D5948",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Diaken yang dulu menyampaikan firman Tuhan telah melarikan diri dari tanggung jawab."
+        }
+      ]
+    },
+    {
+      "key": "DDS501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Pwie sendirian.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Kita harus kembali ke restoran secepat kaki kita dapat membawa kita, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DDS502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Itu mengejar kita. Lebih tepatnya... itu mengejar Pwie.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Itu pasti entitas induk dari Kepompong Emas—Wriggley, berdasarkan penamaan kita.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<Aku ingat... Itu datang mengejar kita, telah mengikuti \"endusannya\".>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<…….>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "<Untuk saat ini, mari kita fokus pada cara mengalahkannya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<Pwie sedang menunggu kita.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Mm... Bentuknya menghilang tanpa jejak di dalam kegelapan, keberadaannya di masa lalu dan masa kini tidak dapat ditemukan di mana pun...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 7,
+          "text": "Ya, lalu itu muncul kembali begitu saja. Dan parahnya lagi, sulit untuk mendaratkan serangan pada satu-satunya bagian tubuhnya yang terjangkau yaitu benda seperti ekor itu.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 8,
+          "text": "Kegelapan bukanlah penghalang yang begitu signifikan. Tetaplah tenang, dan kita akan mengelabuinya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "<... Bagus. Mari kita selesaikan ini dengan kepala dingin.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5949",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Para pengembara. Mereka membiarkan diri mereka terbawa oleh arus aliran.]"
+        }
+      ]
+    },
+    {
+      "key": "D5950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Para tertambat. Mereka telah memaku diri sendiri dengan kain hitam.]"
+        }
+      ]
+    },
+    {
+      "key": "D5951",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "[Para tersemat. Mereka telah memaku apa yang ada di dalam di luarnya, dengan demikian menetapkan penampilan luar mereka.]"
+        }
+      ]
+    },
+    {
+      "key": "D5027",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Dengarkan aku, wahai semua yang bersemayam di dalam Grand Magasin.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>Pada akhirnya, Prasmanan telah disajikan. Jangan biarkan seorang pun di antara kalian mengikis piring yang kosong lagi...</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>... dan kami—aku—akan melahap department store ini dari pondasi hingga puncaknya.</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#cf0000>Jangan menunggu lagi. Jangan menangis lagi. Bersenang-senanglah... tak perlu lagi berhasrat.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#cf0000>Robek dan kunyah. Jangan sisakan satu suapan pun di hadapan matamu.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#cf0000>Ayo, bergabunglah denganku di lantai lima. Pintu akan terbuka untuk siapa saja. Mari kita berpesta pora menyantap setiap kelezatan yang mereka jauhkan dari jangkauan kita.</color>"
+        },
+        {
+          "index": 6,
+          "text": "<color=#cf0000>Biarkan perjamuan dimulai!</color>"
+        },
+        {
+          "index": 7,
+          "text": "<color=#cf0000>Le Noir, Le Kaki, Le Rouge. Kesombongan Aula Kecantikan, dekorasi marmer Aula Mewah. Terompet dari Ruang Alamat Umum dan sorotan lampu dari Aula Furnitur. Boucher dari Pujasera dan tetesan nanah dari Pusat Warna. Makhluk Shore yang terdampar, kulit yang terbuang, dan Kulit Emas yang dikemas di setiap celah dinding...</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#cf0000>Biarkan semuanya disajikan di atas mejaku. Mari kita makan dan minum bersama.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D5028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Apakah anda tidak lagi merasakan kebutuhan untuk bergerak maju?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Segalanya bisa diisi di sini. Kita bisa makan saat lapar, dan minum saat tenggorokan kita terbakar kehausan.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "Dan pada waktunya... kita akan mengisi diri kita sampai pada titik di mana tidak ada ruang tersisa untuk keinginan bergerak maju.",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kami mencari ke setiap pelosok meja yang luas itu, tetapi tidak menemukan jalan ke lantai enam."
+        },
+        {
+          "index": 1,
+          "text": "Tanpa ada tempat tersisa untuk dituju, kami duduk di satu sisi dan menyaksikan Buffet berpesta."
+        }
+      ]
+    },
+    {
+      "key": "D5030",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*kriuk*"
+        },
+        {
+          "index": 1,
+          "text": "Hal pertama yang ditelan Buffet adalah selembar roti dari piring yang menunggu."
+        },
+        {
+          "index": 2,
+          "text": "Berikutnya adalah bistik yang mengkilat dengan sari daging yang mengalir..."
+        },
+        {
+          "index": 3,
+          "text": "Kemudian sebuah kue yang sangat besar, dihiasi dengan ketelitian sempurna, lenyap ke dalam mulut Buffet tanpa menyisakan remah sedikit pun."
+        },
+        {
+          "index": 4,
+          "text": "Setelah itu... menjadi tidak mungkin untuk menceritakan apa yang sedang dikunyah Buffet, apalagi apa yang telah diputuskan Buffet sebagai makanan."
+        },
+        {
+          "index": 5,
+          "text": "Piring-piring. Sendok dan pisau. Taplak meja... semuanya, tanpa membeda-bedakan, lenyap ke dalam mulut Buffet yang rakus."
+        },
+        {
+          "index": 6,
+          "text": "Tangan Buffet menggenggam benda berikutnya bahkan sebelum mereka selesai menelan apa pun yang ada di mulut mereka sebelumnya..."
+        },
+        {
+          "index": 7,
+          "text": "... seolah-olah jeda singkat yang diperlukan untuk menikmati aroma dan rasa adalah kemewahan yang tidak bisa diberikan oleh rasa lapar mereka."
+        }
+      ]
+    },
+    {
+      "key": "D5500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "Ada sebuah alun-alun besar, begitu luas sehingga batas-batasnya hampir tidak dapat dipahami. Di pusat alun-alun berdiri sebuah bangunan tinggi, dan di dasarnya orang-orang datang dan pergi dengan langkah yang sibuk."
+        }
+      ]
+    },
+    {
+      "key": "D5501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "Sinar cahaya samar berkilau menembus kegelapan terowongan yang sempit dan menyesakkan. Ada tumpukan kaleng yang duduk di sepanjang dinding, menyempitkan lorong yang sudah sempit.\nOrang-orang merayap melewati jalan yang lebih mirip ruang merayap berupa gua."
+        }
+      ]
+    },
+    {
+      "key": "D5502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya memancar masuk melalui jendela tinggi."
+        },
+        {
+          "index": 1,
+          "text": "Orang-orang berteriak dan bersorak satu sama lain. Sulit untuk memahami apa yang mereka teriakkan, tapi... pemandangan itu mengingatkan pada sebuah persidangan."
+        }
+      ]
+    }
+  ]
+}
