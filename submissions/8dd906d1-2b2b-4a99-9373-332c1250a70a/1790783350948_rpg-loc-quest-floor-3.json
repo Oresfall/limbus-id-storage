@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "key": "Q3001",
+      "title": "Pergi ke 3F",
+      "description": "2F saat ini lagi \"dalam proses renovasi.\" Mau dilihat dari sudut mana pun, ini sama sekali nggak kelihatan kayak proyek konstruksi biasa.\n\nLagipula karena kita nggak bisa jelajahi lantai ini, mending kita naik eskalator terus periksa 3F dulu aja.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik eskalator ke 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3002",
+      "title": "Ikuti Suara Snip-snip",
+      "description": "Kita udah di 3F. Ada suara dari kejauhan yang kedengarannya kayak gunting lagi menggunting. Ayo cari tahu dari mana arah suara itu berasal.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ikuti suara gunting dan jelajahi area bagian atas"
+        }
+      ]
+    },
+    {
+      "key": "Q3003",
+      "title": "Pergi ke Koridor",
+      "description": "Kita ketemu Annette Sang Pengubah. Rasanya dia bakal berguna kalau sewaktu-waktu kita butuh gulungan kain yang ditenun.\nUntuk sekarang, waktunya pergi.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tinggalkan Toko Perubahan dan kembali ke koridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3004",
+      "title": "Jelajahi 3F",
+      "description": "Sayangnya, kita nggak bisa lewat di depan Dua-bagian. Atau sebutannya Dua-bagian-dua-bagian ya?\n\nYah terserahlah, ayo jelajahi area sisanya dulu. Contohnya toko yang ada di sebelah kiri itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke toko di sebelah kiri"
+        }
+      ]
+    },
+    {
+      "key": "Q3005",
+      "title": "Bicara dengan Rouge di Butik",
+      "description": "Kita sampai di dalam toko yang namanya \"Butik.\" Ada suara tanpa wujud, kemungkinan milik seorang \"Raksasa,\" yang terus-terusan mengulangi mantra di seluruh penjuru toko.\nAyo bicara sama penjualnya dan lihat apa ada hal lain yang bisa kita pelajari tentang tempat ini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan pegawai di Butik du Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q3006",
+      "title": "Pergi ke Ruang PA",
+      "description": "Pegawai Rouge, L'Inamovible, kelihatan gelisah karena \"Suara\" itu cuma mengulang-ulang apa yang pernah diucapkan sebelumnya dan dia mau tahu alasannya.\nTapi identitas Suara itu adalah ibunya Meursault, yang padahal udah meninggal... Tetap saja, kita memutuskan buat pergi ke Ruang PA sesuai permintaan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Ruang PA"
+        }
+      ]
+    },
+    {
+      "key": "Q3007",
+      "title": "Kembali ke L'Inamovible",
+      "description": "Dapat Kaset Audio Ruang PA dari Manajer Lantai 3F. Apa kaset ini isinya suara si Raksasa ya?\n\nWaktunya kembali ke Butik du Rouge dan serahkan kaset ini ke L'Inamovible.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3008",
+      "title": "Kembali ke L'Inamovible",
+      "description": "Dapat Kaset Audio Ruang PA dari Manajer Lantai 3F. Apa kaset ini isinya suara si Raksasa ya?\n\nWaktunya kembali ke Butik du Rouge dan serahkan kaset ini ke L'Inamovible.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3009",
+      "title": "Bicara dengan Dua-bagian (2)",
+      "description": "Oke, \"rapat\" mereka seharunya udah kelar sekarang. Semoga aja sih.\nAyo balik ke Dua-bagian yang menghalangi koridor di sebelah kanan dan periksa.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Dua-bagian di koridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3010",
+      "title": "Pergi ke Toko Perubahan",
+      "description": "Rapatnya masih berlangsung dan nggak ada tanda-tanda bakal selesai.\nOutis dan Sinclair saling pandang, terus menyarankan agar kita pergi ke Toko Perubahan... Apa mereka punya rencana?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Toko Perubahan"
+        }
+      ]
+    },
+    {
+      "key": "Q3012",
+      "title": "Pergi ke Sebelah Kanan",
+      "description": "Kayak yang dibilang Annette, guntingnya tajam banget, dan berhasil memotong Dua-bagian jadi dua bagian.\nAyo kita jelajahi apa yang ada di balik mereka.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke toko di sebelah kanan"
+        }
+      ]
+    },
+    {
+      "key": "Q3013",
+      "title": "Tumpas Noir yang Terpesona",
+      "description": "Udah sampai di Maison du Noir.\nFlannel dan Felt, dua Noir yang mengelola toko, mau bikin merek mereka jadi \"premium\" dan minta kita menyingkirkan beberapa Noir yang terpesona sama Suara asing.\nKita harus bicara sama mereka setelah menyingkirkan beberapa Noir yang terpesona—sekitar 3 rasanya cukup.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tumpas 3 Noir yang terpesona"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Kembali ke Flannel dan Felt"
+        }
+      ]
+    },
+    {
+      "key": "Q3011",
+      "title": "Beli Gunting dan Selesaikan Rapat",
+      "description": "Annette Sang Pengubah sempat menjual beberapa gunting seingetku.\nAyo beli \"Gunting Jahit Tajam\" dan kembali ke Dua-bagian.\nOutis dan Sinclair sama-sama memasang senyum aneh yang puas di wajah mereka.\n\nTunggu, apa mereka berencana untuk—?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Beli \"Gunting Jahit Tajam\" dari Annette Sang Pengubah"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Kembali ke Dua-bagian di koridor"
+        }
+      ]
+    },
+    {
+      "key": "Q4014",
+      "title": "Beri Tahu Situasinya ke Para Noir",
+      "description": "Catatan yang kita temukan di sisa-sisa Lemari Bahagia menyebutkan sesuatu soal \"Kain Emas\" dan \"Paku.\" Apa ini resep buat bikin senjata legendaris yang dibilang Satu-kaki waktu itu ya?\nAyo bawa ini balik ke Satu-kaki yang ada di 4F Noir Aula Alas Kaki sesuai janji, terus balik lagi ke Flannel dan Felt di Maison du Noir 3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Lampu Lantai Busur sebelum pergi"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Bicara dengan Satu-kaki di 4F Noir Aula Alas Kaki"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Bicara dengan Flannel di 3F Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q4015",
+      "title": "Pergi ke Toko Perubahan",
+      "description": "Kita balik lagi ke 3F. Ayo bawa Gulungan Benang Emas balik ke Annette Sang Pengubah, nanti dia bakal menenun Kain Emas dari benang itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Toko Perubahan"
+        }
+      ]
+    },
+    {
+      "key": "Q4017",
+      "title": "Pergi ke Butik du Rouge",
+      "description": "Udah dapat Kain Emas dari Annette Sang Pengubah... Sekarang, tinggal mendapatkan Pakunya.\nSeharusnya kita bisa mendapatkan \"Paku\"—atau kata para Noir, \"tulang belakang L'Inamovible\"—dari Butik du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q4016",
+      "title": "Dapatkan \"Paku\" dan Kembali ke Maison du Noir",
+      "description": "Distorsi L'Inamovible makin parah di depan mata kita, jadi kita terpaksa menebasnya.\nWaktunya mengambil tulang belak—maksudku, \"Paku\" miliknya.\nSekarang, kita cuma perlu membalutkan Kain Emas ke sekeliling paku untuk menyempurnakan senjata legendaris milik Noir, yang sanggup merobek kain apa pun.\n\nWaktunya kembali ke Maison du Noir dan menyampaikan kabarnya ke Flannel dan Felt.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Dapatkan \"Paku\" dari sisa-sisa L'Inamovible"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Kembali ke Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q3016T",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 개전"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H1",
+      "title": "(내부) 플로어 매니저 타격 1",
+      "description": "0901",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H2",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+        }
+      ]
+    }
+  ]
+}
