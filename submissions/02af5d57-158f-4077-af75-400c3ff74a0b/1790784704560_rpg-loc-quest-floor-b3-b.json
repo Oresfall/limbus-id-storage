@@ -1,0 +1,319 @@
+{
+  "dataList": [
+    {
+      "key": "Q-3000",
+      "title": "Kumpulkan Kulit",
+      "description": "Pengawas minta 8 potongan kulit sebagai imbalan buat bikin Golden Shroud. Kita harus mengumpulkan potongan kulit yang tersebar di seluruh Grand Magasin.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "B2F: 3 Bagian Kulit",
+          "goalDescription2": "B1F: Bagian Kulit",
+          "goalDescription3": "1F: Bagian Kulit",
+          "goalDescription4": "2F: Bagian Kulit",
+          "goalDescription5": "3F: Bagian Kulit",
+          "goalDescription6": "4F: Bagian Kulit"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010",
+      "title": "Kumpulkan Potongan Kulit Emas",
+      "description": "Kita ketemu Pengawas di B3F. Pengawas bilang kalau mau bikin pakaian dari Kulit Emas, kita harus mengumpulkan potongannya dari semua lokasi yang udah kita datangi sejauh ini. Lokasi tepatnya udah dikasih tahu ke kita. Sekarang kita harus pergi mengambil Kulit Emas buat Pengawas.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kumpulkan Resin Emas milik Palette",
+          "goalDescription2": "Kumpulkan Kulit Emas milik Manajer Lantai B2F",
+          "goalDescription3": "Kumpulkan Kulit Emas Raja Needlework",
+          "goalDescription4": "Kumpulkan Kulit Emas milik Sous Chef",
+          "goalDescription5": "Kumpulkan Kulit Emas dari tumpukan mayat di 1F",
+          "goalDescription6": "Kumpulkan Kulit Emas dari dinding di 4F",
+          "goalDescription7": "Kumpulkan Kulit Emas dari mayat Rouge Direktur Merek",
+          "goalDescription8": "Kumpulkan Kulit Emas dari Manajer Lantai 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011",
+      "title": "Kumpulkan Kulit - B1F",
+      "description": "Salah satu dari delapan potongan kulit yang diminta Pengawas bisa ditemukan di B1F. Potongan itu harus dikuliti dari Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ke B1F Pujasera",
+          "goalDescription2": "Kulit Emas Sous Chef (4/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3012",
+      "title": "Kumpulkan Kulit - 1F",
+      "description": "Salah satu dari delapan potongan kulit yang diminta Pengawas bisa ditemukan di 1F. Potongan itu seharusnya ada di sekitar tumpukan mayat.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Temukan Kulit Emas yang tersembunyi di tumpukan mayat (5/8)",
+          "goalDescription2": "Kulit Emas Tumpukan Mayat (5/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3013",
+      "title": "Kumpulkan Kulit - 2F",
+      "description": "Salah satu dari delapan potongan kulit yang diminta Pengawas bisa ditemukan di 2F. Potongan itu harus dikuliti dari Direktur Merek.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ambil Kulit Emas Direktur Merek (7/8)",
+          "goalDescription2": "Kulit Emas Direktur Merek (7/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3014",
+      "title": "Kumpulkan Kulit - 3F",
+      "description": "Salah satu dari delapan potongan kulit yang diminta Pengawas bisa ditemukan di 3F. Potongan itu harus dikuliti dari Manajer Lantai.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ke Ruangan Manajer Lantai 3F",
+          "goalDescription2": "Kulit Emas Manajer Lantai 3F (8/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3015",
+      "title": "Kumpulkan Kulit - 4F",
+      "description": "Salah satu dari delapan potongan kulit yang diminta Pengawas bisa ditemukan di 4F. Kita harus mencari di antara reruntuhan beton yang ditinggalkan sama Deconstructionists.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ambil Kulit Emas yang terselip di dalam retakan dinding (6/8)",
+          "goalDescription2": "Mendapatkan Kulit Emas dari retakan dinding (6/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3006",
+      "title": "Kembali ke Pengawas",
+      "description": "Kita akhirnya berhasil dapat semua delapan potongan Kulit Emas. Ayo kembali ke Pengawas di B3F dan serahkan apa yang udah kita kumpulkan supaya dia bisa membuatkan pakaian dari Kulit Emas buat Pwie.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003",
+      "title": "Pergi ke Penyamakan",
+      "description": "Kita udah membawa delapan potongan Kulit Emas, tapi perjalanan kita ternyata belum selesai di situ. Kata Pengawas, buat bikin pakaian khusus, Pwie harus pergi ke Penyamakan dulu buat diukur badannya.\nAyo kita ke Penyamakan dan menemui... Penyamak.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Penyamakan"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Tahan posisi dari serbuan musuh sampai proses pembuatan pola selesai."
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Bicara dengan Penyamak"
+        }
+      ]
+    },
+    {
+      "key": "Q-3004",
+      "title": "Pergi ke Ruang Pemotongan",
+      "description": "Ukuran badan Pwie udah diukur, dan polanya juga udah dibuat. Sekarang saatnya buat pemotongan dan penjahitan.\n\nAyo kita pergi ke Ruang Pemotongan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Ruang Pemotongan"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Tahan posisi dari serbuan musuh sampai proses pemotongan selesai."
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Periksa mesin pemotong"
+        }
+      ]
+    },
+    {
+      "key": "Q-3007",
+      "title": "Selesaikan Proses Penjahitan",
+      "description": "Pemotongannya udah selesai. Begitu Pemelihara menangani penjahitannya, pakaian Kulit Emas ini harusnya bakalan jadi.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Pemelihara"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Tahan serangan musuh yang datang sampai Pemelihara selesai menjahit"
+        }
+      ]
+    },
+    {
+      "key": "Q-3001",
+      "title": "Terima Golden Shroud dari Pengawas",
+      "description": "Kelihatannya seluruh prosesnya udah selesai. Kita harus mengambil pakaian yang udah jadi dari Pengawas.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Terima Golden Shroud dari Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "Q-3005",
+      "title": "Bunuh Pengawas",
+      "description": "Pengawas memang selesai membuat pakaian Kulit Emas itu, tapi sepertinya dia gak tega buat menyerahkannya dan malah menyerang kita. Kita harus mengalahkan Pengawas dan mengambil pakaian yang udah jadi.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bunuh Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "Q-3002",
+      "title": "Pergi ke 5F",
+      "description": "Pengawas udah menyelesaikan Kulit Emas, jadi Pwie bisa memakai pakaian yang dibuat dari kulit itu. Tapi Pwie sama sekali gak kelihatan senang setelah melahap Wriggley...\n... Saatnya pergi ke 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Capai 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010A",
+      "title": "(내부) 팔레트 가죽 확보 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "팔레트의 가죽 확보 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010B",
+      "title": "(내부) 플로어 매니저 가죽 확보 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "플로어 매니저 가죽 확보 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010S",
+      "title": "(내부) 보디가드 교대 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "보디가드 교대 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011S",
+      "title": "(내부) 황금가죽 수주 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "황금가죽 수주 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011T",
+      "title": "(내부) 삽살이 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 개전 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H1",
+      "title": "(내부) 삽살이 타격 1",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 1 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H2",
+      "title": "(내부) 삽살이 타격 2",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 2 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H3",
+      "title": "(내부) 삽살이 타격 3",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 3 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003A",
+      "title": "Proses di Penyamakan",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Saksikan proses penyamakan sampai selesai"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003B",
+      "title": "Proses di Ruang Pemotongan",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Saksikan proses pemotongan sampai selesai"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003C",
+      "title": "Proses di Plasa Luar Ruangan",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Saksikan proses di Plasa Luar Ruangan sampai selesai"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011R",
+      "title": "Negosiasi Lagi dengan Sous Chef",
+      "description": "Konsekuensi dari menyerahkan lengan itu terlalu parah. Ayo kembali ke Sous Chef di Pujasera B1F dan tawarkan kesepakatan lain padanya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Negosiasi lagi dengan Sous Chef"
+        }
+      ]
+    }
+  ]
+}
