@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "A1 : Ke B1F",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke B1F - Pujasera"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Bicarakan tentang Pujasera"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "Pergi ke B2F",
+      "description": "Boucher memasakkan kita \"hidangan\" yang disebut Kepompong Emas. Sekarang, kita harus cari jalan turun ke B2F.\n\nAyo kita periksa jalan turun dari koridor yang tadi kita lewati.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Turun ke B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "Cari Eskalator Turun",
+      "description": "Kita sampai di ruangan yang penuh sama eskalator entah menuju ke mana. Kita harus periksa eskalator-eskalator ini dan cari mana yang bisa membawa kita turun ke B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Periksa eskalator-eskalatornya"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "Pergi ke Pujasera",
+      "description": "Kita berhasil turun ke B1F. Rasanya jelas beda banget sama lantai-lantai atas...\nKalau mau cari Kepompong Emas, sepertinya kita harus pergi ke tempat yang mereka sebut \"Pujasera\" ini. Ayo kita cari gambar cangkang siput di lantai.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Pujasera"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "Kejar Sous Chef!",
+      "description": "Kita ketemu seseorang yang dipanggil \"Sous Chef.\" Dia bilang dia pernah lihat Kepompong Emas di ruang penyimpanan milik seseorang bernama Boucher.\nAyo kejar Sous Chef dan cari tahu lebih lanjut tentang Kepompong Emas itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kejar Sous Chef!"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "Kunjungi Boucher",
+      "description": "Sous Chef memberi tahu kita tentang Boucher, sang Manajer Lantai B1F. Ayo cari Boucher dan tanyakan apa ada cara buat membujuknya memberikan Kepompong Emas itu ke kita.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kunjungi Boucher"
+        }
+      ]
+    },
+    {
+      "key": "Q-1006",
+      "title": "Bawakan Perenungan dari Sang Mangsa",
+      "description": "Boucher bilang dia mau menyerahkan Kepompong Emas miliknya... tapi cuma kalau ditukar sama potongan daging yang disebut \"Perenungan dari Sang Mangsa,\" yang bisa ditemukan tergantung di suatu tempat di dalam Bagian Daging Segar.\n\nKita harus cari potongan daging itu dan menyerahkannya ke Boucher.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bawakan Perenungan dari Sang Mangsa"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "Kembali ke Aula Eskalator",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke ruang eskalator"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "에스컬레이터실 복귀 대화"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "Definisikan Eskalator",
+      "description": "Menurut petunjuk ambigu dari Jeanne, kita nggak seharusnya mencari eskalator yang mengarah ke bawah... tapi mendefinisikannya. Meursault memberiku tiga pilihan—tangga, bukit, atau sepatu.\n\nYang mana dari pilihan ini yang harus kukatakan ke Meursault untuk mendefinisikan eskalatornya?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Definisikan eskalator: tangga, bukit, atau sepatu?"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "Aktifkan Eskalator",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "Naik Eskalator Turun",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    }
+  ]
+}
