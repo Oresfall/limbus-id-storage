@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "key": "120100",
+      "text": "Pintu Masuk Aula Mewah"
+    },
+    {
+      "key": "120200",
+      "text": "Pintu masuk ke Buaian Aula Mewah"
+    },
+    {
+      "key": "120300",
+      "text": "Aula Mewah"
+    },
+    {
+      "key": "120400",
+      "text": "Buaian Aula Mewah"
+    }
+  ]
+}
