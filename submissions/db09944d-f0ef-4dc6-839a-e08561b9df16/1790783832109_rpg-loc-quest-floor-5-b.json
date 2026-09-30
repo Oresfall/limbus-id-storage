@@ -1,0 +1,150 @@
+{
+  "dataList": [
+    {
+      "key": "Q5001",
+      "title": "Investigasi 5F",
+      "description": "Kita akhirnya sampai di 5F bareng Pwie. Nggak ada yang tahu apa yang bakal kita temui di lantai ini, tapi kita harus tetap lanjut menjelajah.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Investigasi Pintu di Koridor 5F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Dengarkan Penjelasan Kromer"
+        }
+      ]
+    },
+    {
+      "key": "Q5011",
+      "title": "???",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q5002",
+      "title": "Pergi ke B1F",
+      "description": "Sepertinya kita masih kekurangan \"kebajikan\" buat masuk ke 5F. Pwie bilang mereka perlu pakai Kulit Emas, dan di suatu tempat di lantai bawah tanah, ada seseorang yang bisa memproses kulit hewan. Ayo kita ke sana.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Sentuh Tirai di 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q5004",
+      "title": "Pergi ke Bagian Dalam 5F",
+      "description": "Pengawas sudah menyelesaikan Kulit Emas, jadi Pwie bisa mengenakan pakaian yang dibuat dari kulit itu. Tapi Pwie kelihatannya sama sekali nggak senang setelah melahap Wriggley.\n... Saatnya pergi ke 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Bagian Dalam 5F"
+        },
+        {
+          "index": 1,
+          "goalDescription2": "Halau Serangan Musuh"
+        }
+      ]
+    },
+    {
+      "key": "Q5008",
+      "title": "(내부) 르누아르 길막 대면",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Hadapi Le Noir yang Menghalangi Jalan"
+        }
+      ]
+    },
+    {
+      "key": "Q5006",
+      "title": "(내부) 르누아르 무리 돌파",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kalahkan 9 Pramuniaga Le Noir [Sunshone]",
+          "goalDescription2": "르누아르 경비원 7기 처치",
+          "goalDescription3": "르누아르 컨템포러리 점원 3기 처치",
+          "goalDescription4": "르누아르 메종 점원 2기 처치",
+          "goalDescription5": "르누아르 메종 2기 처치"
+        }
+      ]
+    },
+    {
+      "key": "Q5007",
+      "title": "Mendekat ke Tirai di Balik 5F",
+      "description": "Kita sudah mengatasi gempuran musuh di 5F. Sekarang saatnya menuju ke dalam dan menyentuh tirai itu. Dengan Kulit Emas yang dipakai Pwie, mungkin hasilnya bakal beda kali ini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Sentuh Tirai di 5F",
+          "goalDescription2": ""
+        }
+      ]
+    },
+    {
+      "key": "Q5003",
+      "title": "Bantai Manajer Merek Le Noir",
+      "description": "Kita harus mengalahkan Manajer Merek Le Noir yang menghalangi jalan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kalahkan Manajer Merek Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q5005",
+      "title": "Amati Prasmanan",
+      "description": "Kepompong itu akhirnya terbuka.\nAyo kita lihat Prasmanan bakal berubah jadi apa.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Terus Amati Prasmanan Sampai Akhir"
+        }
+      ]
+    },
+    {
+      "key": "Q5009",
+      "title": "Masuk ke Restoran",
+      "description": "Kita berhasil melangkah ke balik tirai yang tadinya menghalangi jalan kita di 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Masuk ke Restoran"
+        }
+      ]
+    },
+    {
+      "key": "Q5010",
+      "title": "Lindungi Kepompong dari Gempuran Le Noir",
+      "description": "Pwie sempat bilang kalau mereka merasa lelah sesaat sebelum tertidur dan berubah jadi kepompong. Pasukan kecil Le Noir tiba-tiba datang ke sini buat menghancurkannya, seolah-olah mereka tahu lokasi kepompong itu.\n\nAyo kita lindungi Pwie.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Lindungi Kepompong dari Gempuran Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q5012",
+      "title": "Bantai Benang Hitam",
+      "description": "Kita harus mengatasi Benang Hitam dan membuka jalannya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bantai Benang Hitam"
+        }
+      ]
+    }
+  ]
+}
