@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "key": "ItemFilterBuffetUpgrade",
+      "text": "Peningkatan Pwie"
+    },
+    {
+      "key": "Setting_Tab_Key",
+      "text": "Pemetaan Tombol"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveUp",
+      "text": "Gerak atas"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveDown",
+      "text": "Gerak bawah"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveLeft",
+      "text": "Gerak kiri"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveRight",
+      "text": "Gerak kanan"
+    },
+    {
+      "key": "KeyDesc_PlayerFieldAttack",
+      "text": "Serang"
+    },
+    {
+      "key": "KeyDesc_PlayerGuard",
+      "text": "Bertahan"
+    },
+    {
+      "key": "KeyDesc_PlayerDodge",
+      "text": "Menghindar"
+    },
+    {
+      "key": "KeyDesc_PlayerRun",
+      "text": "Lari"
+    },
+    {
+      "key": "KeyDesc_PlayerQuestNavigationToggle",
+      "text": "Beralih panah navigasi misi"
+    },
+    {
+      "key": "KeyDesc_PlayerLanternToggle",
+      "text": "Lentera NYALA/MATI"
+    },
+    {
+      "key": "KeyDesc_PlayerAutoAttackToggle",
+      "text": "Serangan otomatis"
+    },
+    {
+      "key": "KeyDesc_PlayerSuicide",
+      "text": "Kembali ke Sumber"
+    },
+    {
+      "key": "KeyDesc_UiToggleInventoryTab",
+      "text": "Lihat tas"
+    },
+    {
+      "key": "KeyDesc_UiToggleQuestTab",
+      "text": "Jurnal: Misi"
+    },
+    {
+      "key": "KeyDesc_UiToggleManualTab",
+      "text": "Panduan pintasan keyboard"
+    },
+    {
+      "key": "KeyDesc_UiToggleSystemLog",
+      "text": "Lihat Riwayat Log"
+    },
+    {
+      "key": "KeyBind_InvalidKey",
+      "text": "Tombol ini tidak dapat digunakan."
+    },
+    {
+      "key": "MoveToKeyBind",
+      "text": "Ke Pemetaan Tombol"
+    }
+  ]
+}
