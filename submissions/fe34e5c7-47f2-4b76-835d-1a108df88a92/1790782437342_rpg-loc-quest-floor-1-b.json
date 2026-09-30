@@ -1,0 +1,110 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생용 숨김 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작",
+      "description": "Kembali ke Toilet"
+    },
+    {
+      "key": "Q1011",
+      "title": "Jelajahi Toko Departemen",
+      "description": "Ada yang aneh. Kita kembali ke toilet, tapi semua orang bertindak seolah-olah mereka nggak ingat apa-apa, dan Meursault juga nggak kelihatan di mana-mana. Nggak mungkin semua ini cuma mimpi. Ayo kita periksa di sekitar toko departemen.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi Toko Departemen"
+        }
+      ]
+    },
+    {
+      "key": "Q1013",
+      "title": "Pergi ke Aula Pakaian Kasual",
+      "description": "Setidaknya sepertinya itu tadi bukan cuma mimpi. Untuk sekarang, ayo kita lanjut jalan dan fokus cari Meursault. Dia mungkin kembali ke toko yang sama seperti sebelumnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Aula Pakaian Kasual"
+        }
+      ]
+    },
+    {
+      "key": "Q1021",
+      "title": "Temukan Meursault",
+      "description": "Meursault seharusnya ada di sekitar sini. Cari dia lalu ajak bicara.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Meursault"
+        }
+      ]
+    },
+    {
+      "key": "Q1022",
+      "title": "Tunjukkan Pintu Keluar ke Mannequin",
+      "description": "Kalau kita mau bawa Meursault pergi bersama kita, kita harus bantu Mimosa dulu. Ayo cepat selesaikan urusan dengan para Mannequin ini dan keluar dari sini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi Cari Mannequin"
+        }
+      ]
+    },
+    {
+      "key": "Q1023",
+      "title": "Tunjukkan Pintu Keluar ke Mannequin (2)",
+      "description": "Nggak ada gunanya memperpanjang percakapan ini lagi. Ayo bereskan para Mannequin dan lanjut jalan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bantu Mannequin \"Menuju Pintu Keluar\""
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Kembali ke Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "Q1031",
+      "title": "Tinggalkan 1F",
+      "description": "Keadaannya sudah berjalan lebih baik dibanding sebelumnya. Kalau kita mau dapat hasil yang beda, kita harus terus bergerak. Prioritas utama: keluar dari 1F. Kita harus tinggalkan Aula Pakaian Kasual dan pergi ke toko berikutnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tinggalkan Aula Pakaian Kasual"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "Naik Eskalator ke 2F",
+      "description": "Kita ketemu Dubois lagi, orang yang ngomong sama kita waktu itu. Tapi nggak ada waktu buat ngobrol lama-lama. Ayo langsung pergi ke lantai berikutnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik Eskalator ke Lantai 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1012S",
+      "title": "(내부) 1층 손님 자리 교대 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "크로머 조우 (내부 신호)"
+        }
+      ]
+    }
+  ]
+}
