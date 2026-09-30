@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "key": "230200",
+      "text": "Ruang Pengeringan"
+    },
+    {
+      "key": "230400",
+      "text": "Ruang Kulit"
+    },
+    {
+      "key": "230500",
+      "text": "Koridor Ruang Pengeringan"
+    },
+    {
+      "key": "230600",
+      "text": "Ruang Pengeringan"
+    },
+    {
+      "key": "230700",
+      "text": "Koridor Penyamakan"
+    },
+    {
+      "key": "230800",
+      "text": "Penyamakan"
+    },
+    {
+      "key": "230900",
+      "text": "Koridor Ruang Pemotongan"
+    },
+    {
+      "key": "231000",
+      "text": "Ruang Pemotongan"
+    }
+  ]
+}
