@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "key": "220100",
+      "text": "Pemintalan"
+    },
+    {
+      "key": "220200",
+      "text": "Sarang Untaian"
+    },
+    {
+      "key": "220300",
+      "text": "Koridor"
+    },
+    {
+      "key": "220400",
+      "text": "Pusat Warna"
+    },
+    {
+      "key": "220500",
+      "text": "Penyimpanan Pewarna"
+    },
+    {
+      "key": "221400",
+      "text": "Aula Eskalator Rahasia"
+    },
+    {
+      "key": "221500",
+      "text": "Koridor Sarang Untaian"
+    },
+    {
+      "key": "221600",
+      "text": "Koridor Penyimpanan Pewarna"
+    }
+  ]
+}
