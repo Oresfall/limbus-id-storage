@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "N101004",
+      "displayName": "Asosiasi Penjualan Gustave Le Rouge"
+    },
+    {
+      "key": "N101006",
+      "displayName": "Asosiasi Penjualan Gustave Le Noir"
+    },
+    {
+      "key": "N101009",
+      "displayName": "Kaki Putus Asa"
+    },
+    {
+      "key": "N101010",
+      "displayName": "Kaki Cemas"
+    },
+    {
+      "key": "N101011",
+      "displayName": "Sarung Tangan Kulit"
+    },
+    {
+      "key": "N101030",
+      "displayName": "Dompet Denim"
+    },
+    {
+      "key": "N101034",
+      "displayName": "Sarung Tangan Berbantal"
+    }
+  ]
+}
