@@ -1,0 +1,60 @@
+{
+  "dataList": [
+    {
+      "key": "999999",
+      "text": "Fount"
+    },
+    {
+      "key": "110200",
+      "text": "Aula Kecantikan, 1F"
+    },
+    {
+      "key": "110300",
+      "text": "Aula Kecantikan"
+    },
+    {
+      "key": "110400",
+      "text": "Aula Kecantikan, Koridor"
+    },
+    {
+      "key": "110500",
+      "text": "Aula Pakaian Kasual, Barat"
+    },
+    {
+      "key": "110600",
+      "text": "Aula Pakaian Kasual, Pusat"
+    },
+    {
+      "key": "110700",
+      "text": "Aula Pakaian Kasual, Timur"
+    },
+    {
+      "key": "110800",
+      "text": "Aula Pakaian Kasual, Koridor"
+    },
+    {
+      "key": "110900",
+      "text": "Le Noir Contemporary Hall"
+    },
+    {
+      "key": "111000",
+      "text": "Koridor Aula Komteporer"
+    },
+    {
+      "key": "111100",
+      "text": "Aula Kontemporer Le Rouge"
+    },
+    {
+      "key": "8000",
+      "text": "Theater A"
+    },
+    {
+      "key": "8001",
+      "text": "Theater B"
+    },
+    {
+      "key": "8002",
+      "text": "Theater C"
+    }
+  ]
+}
