@@ -1,0 +1,2672 @@
+{
+  "dataList": [
+    {
+      "key": "D-10001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>Berbumbu... dan penuh rasa ingin tahu...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D-1001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oooof... Ah, astaga. Sudah lama sejak aku benar-benar bisa mengistirahatkan tulang-tulangku. Kurasa sekarang giliranku, ya?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Yah, ini datang di saat yang sangat tepat. Aku baru saja kehabisan rokok, dan duduk terus seperti ini membuat sendi-sendiku kaku. Lagipula sulit untuk merokok di sini. Semua orang meributkan aku yang merokok di tempat sempit seperti ini.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "Lagi pula, orang-orang yang pergi mendahului kita terus kembali dengan segala macam cerita. Aku tidak paham setengah dari apa yang mereka katakan.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "<Cerita seperti apa?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Yah... Aku baru saja bicara dengan Frau Faust. Dia bilang lantai dua adalah ruangan yang seluruhnya dilumuri daging dan tulang...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Ya.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "Lalu Don Quixote memberitahuku tentang bagaimana kalian disergap oleh... sekelompok perabotan berjalan, atau semacamnya...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "<Yang itu... juga benar.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Apa lagi... Oh, benar. Sepasang cakar logam besar membelah tengkorak Meursault hingga terbuka. Apa itu benar?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 9,
+          "text": "Jika yang anda maksud dengan \"cakar logam besar\" adalah entitas yang memegang sepasang gunting raksasa, maka ya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "Wah, sepertinya kalian benar-benar sibuk.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 11,
+          "text": "Aku akhirnya mengamati pemandangan ruang bawah tanah di sekitar kami—terasa sepenuhnya berbeda dari lantai-lantai di atas."
+        },
+        {
+          "index": 12,
+          "text": "<Jadi... tempat ini seharusnya jadi apa? Mari kita lihat apa yang tertulis di papan petunjuk...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "\"Bagian Daging Segar\".",
+          "speaker": "Faust"
+        },
+        {
+          "index": 14,
+          "text": "<Apa mereka serius...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 15,
+          "text": "Kami dikelilingi oleh potongan-potongan daging tak dikenal, yang dikemas asal-asalan ke dalam etalase tanpa niat atau usaha yang terlihat untuk membuatnya tampak menggugah selera."
+        },
+        {
+          "index": 16,
+          "text": "Bagian Daging Segar, ya. Tempat ini bahkan bakal menghilangkan nafsu makan Rodya atau Ezra, dan itu membuktikan betapa parahnya tempat ini."
+        },
+        {
+          "index": 17,
+          "text": "<Kita seharusnya menemukan... kokon ini... di sini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 18,
+          "text": "Oh, untuk itu kita ke sini? Coba kita lihat...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 19,
+          "text": "Yah... Bagus sekali. Ini sama saja seperti mencari jarum di tumpukan jerami.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 20,
+          "text": "... Apa mereka memasukkanku ke tim ini karena aku sendiri dianggap sebagai serangga?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 21,
+          "text": "<A-Aku meragukannya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 22,
+          "text": "Alasan di balik pemilihan Sinner saat ini tidak dapat disimpulkan, tetapi penjelasan khusus itu tidak masuk akal, Herr Gregor.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 23,
+          "text": "Itu tadi lelucon. Cuma bercanda. Tidak bolehkah seseorang membuat lelucon kecil sesekali?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 24,
+          "text": "<Setidaknya usahakan terdengar seperti sedang bercanda lain kali...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 25,
+          "text": "Sementara kami mendiskusikan langkah selanjutnya, aku mendengar bisikan di dekat kami—dua orang sedang berbicara, kemungkinan besar keduanya adalah pelanggan."
+        }
+      ]
+    },
+    {
+      "key": "D-1102",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Menurutmu apakah mereka itu Noir?",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 1,
+          "text": "Bukan! Lihat dompet itu—mereka pasti Rouge!",
+          "speaker": "Kaki Lapar"
+        },
+        {
+          "index": 2,
+          "text": "Bagaimanapun juga, mereka jelas berada di tingkatan yang lebih tinggi dari kita...",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 3,
+          "text": "M-mereka melihat kita. Haruskah kita lari?",
+          "speaker": "Kaki Lapar"
+        },
+        {
+          "index": 4,
+          "text": "Tidak. Mereka jelas punya banyak uang. Mungkin mereka bersedia memberi kita beberapa bola mata...",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 5,
+          "text": "<... Mengapa kita tidak bertanya kepada mereka tentang kokon itu?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Tentu. Aku bisa tahu kalau mereka warga lokal hanya dalam sekali pandang. Mari kita lihat apa yang mereka ketahui.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "Hei, kawan-kawan! Ya, kalian berdua—yang berpakaian compang-camping. Kalian berdua!",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 8,
+          "text": "Y-ya, Pak?",
+          "speaker": "Kaki Haus"
+        }
+      ]
+    },
+    {
+      "key": "D-1103",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ketika kedua pelanggan itu mendekat, Meursault memperlihatkan foto kokon dari resep kepada mereka."
+        },
+        {
+          "index": 1,
+          "text": "Pernahkah Anda melihat kokon yang menyerupai ini?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "A-Aku rasa tidak...",
+          "speaker": "Kaki Lapar"
+        },
+        {
+          "index": 3,
+          "text": "Tampaknya lezat... mungkin itu semacam menu baru yang sedang populer di Pujasera?",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 4,
+          "text": "Hmm... Kelihatannya... tidak terlalu... layak dimakan bagiku...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Gregor melirik kondisi potongan daging yang berserakan di sekitar kami dan tidak melanjutkan kalimatnya."
+        },
+        {
+          "index": 6,
+          "text": "... Meskipun orang-orang di sini mungkin berkata lain.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "<Mungkin kita harus mencoba pergi ke Pujasera?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Rute mana yang menuju ke Pujasera?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Anu, itu...",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 10,
+          "text": "10 bola mata, dan kami akan langsung memberitahumu!",
+          "speaker": "Kaki Lapar"
+        },
+        {
+          "index": 11,
+          "text": "10? Harusnya kamu minta 30! 10 bola mata mana cukup buat beli secangkir soda!",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 12,
+          "text": "Diamlah! Bagaimana jika kita minta sebanyak itu dan mereka menolak?",
+          "speaker": "Kaki Lapar"
+        },
+        {
+          "index": 13,
+          "text": "<Bayar saja apa yang mereka minta dan dapatkan petunjuk arahnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "Dimengerti, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 15,
+          "text": "Ehem. Pergilah ke koridor itu dan ikuti cangkang spiral.",
+          "speaker": "Kaki Lapar"
+        },
+        {
+          "index": 16,
+          "text": "Cangkang spiral?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 17,
+          "text": "U-untuk 10 bola mata lagi, kami bisa menjelaskan—",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 18,
+          "text": "Kemungkinan besar itu adalah... cangkang siput.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 19,
+          "text": "Area itu kemungkinan besar pernah menjadi habitat mereka.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 20,
+          "text": ".......",
+          "speaker": "Kaki Haus"
+        },
+        {
+          "index": 21,
+          "text": "Tampaknya kita telah mendapatkan semua informasi yang diperlukan. Apakah ada urusan lain di sini?",
+          "speaker": "Faust"
+        },
+        {
+          "index": 22,
+          "text": "Segera setelah Faust selesai berbicara, mata para pelanggan itu melirik ke sana kemari, saling bertukar pandang. Kemudian mereka bergegas pergi, membawa bola mata kami yang berharga di tangan mereka."
+        },
+        {
+          "index": 23,
+          "text": "Selanjutnya kita akan melanjutkan ke Pujasera.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Apa-apan ini...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<Jadi... salah satu eskalator ini mengarah ke B2F... Seharusnya...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Dengan eskalator sebanyak ini, butuh waktu seharian untuk menemukannya, bahkan jika kita berpisah.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "Kita tidak bisa mencari secara terpisah. Karena saya adalah subjek dari alam Simbolis ini, para Sinner yang terikat pada saya tidak boleh bergerak melebihi jarak tertentu dari saya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<Benar. Kita tidak bisa berpisah...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Meskipun demikian... dengan keberuntungan yang cukup... pencarian ini mungkin selesai lebih cepat dari yang diperkirakan.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "<Baiklah. Mari kita semua mencari jalan turun.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Eskalator naik yang tidak terlihat ujungnya. Tidak ada yang tahu ke mana arahnya."
+        }
+      ]
+    },
+    {
+      "key": "D-1004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Eskalator turun yang kedalamannya mustahil untuk diperkirakan. Mungkinkah ujungnya telah tersegel."
+        }
+      ]
+    },
+    {
+      "key": "D-1005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jalan terhalang. Untuk tujuan apa eskalator seperti ini ada?"
+        }
+      ]
+    },
+    {
+      "key": "D-1006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hari ini kelimpahan lagi. Lebih baik berkumpul di sekitar air mancur sebelum ada yang mencuri tempatku.",
+          "speaker": "Kaki Haus"
+        }
+      ]
+    },
+    {
+      "key": "D-1007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aturan 5 jam, bro... Masih bisa dimakan... Siapa cepat dia dapat...",
+          "speaker": "Kaki Lapar"
+        }
+      ]
+    },
+    {
+      "key": "D-1008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*glhhrrrk* *glhhrrrk*",
+          "speaker": "Kaki Lapar"
+        }
+      ]
+    },
+    {
+      "key": "D-1009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Huh. Boneka yang berbicara... Apa kau termasuk salah satu dari Mannequin itu?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Dengar ya, aku bukan boneka! Kau dengar, aku ini Sous Chef!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "Beraninya disamakan dengan Mannequin... Dengar ya, aku tidak akan mentolerir kelakuan kurang ajar seperti itu!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "<Sous Chef...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Pangkat tertinggi kedua di dapur, biasanya disebut sebagai wakil atau asisten koki kepala.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Tepat sekali, kau dengar? Tidak ada yang jabatannya lebih tinggi dariku kecuali Boucher, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "<Ternyata dia bos yang lebih besar dari perkiraanku... terlepas dari penampilannya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "<Kalau begitu mungkin dia tahu di mana Kokon Emas berada?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Faust mengangguk dan melangkah ke depan."
+        },
+        {
+          "index": 9,
+          "text": "... Kami sedang mencari Kokon Emas.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 10,
+          "text": "Kami diberi tahu bahwa itu bisa diperoleh di Lantai B1. Apakah anda memiliki informasi yang relevan?",
+          "speaker": "Faust"
+        },
+        {
+          "index": 11,
+          "text": "Kokon Emas...? Dengar ya, aku tidak tahu apa itu!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "Ini merujuk pada objek atau entitas berwarna emas yang mengelilingi kepompong.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Dengar ya, aku tidak tahu apa itu \"kepompong\"!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 14,
+          "text": "Ah... Kurasa kita harus mulai menjelaskan dari sana.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 15,
+          "text": "<Ya... Bahasa di tempat ini tidak persis didasarkan pada akal sehat yang biasa kita kenal.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 16,
+          "text": "Tapi aku pernah melihat kilauan emas itu, dengar ya? Aku penasaran apakah yang kalian maksud adalah bahan spesial di gudang Boucher, kau dengar?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 17,
+          "text": "Mm, kemungkinan besar yang itu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 18,
+          "text": "Bagus. Senang rasanya kalau urusan bisa berjalan secepat ini.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 19,
+          "text": "Tapi bahan-bahan di penyimpanan daging Boucher tidak dijual, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 20,
+          "text": "Semua bagian darinya harus masuk ke dalam soda, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 21,
+          "text": "Tch. Kami sendiri sangat membutuhkannya... Apa ada cara agar kita bisa merundingkannya?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 22,
+          "text": "Hmm... Dengar ya, mungkin jika kalian membawa pengganti yang tepat, kalian bisa menukarnya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 23,
+          "text": "Mari kita lihat apakah kalian bisa menjadi pengganti yang tepat, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 24,
+          "text": "<Kita?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 25,
+          "text": "Hmm... Dengar ya, yang ini sih jelas bukan! Kepala tinta cumi sering datang kemari; mereka sangat pasaran, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 26,
+          "text": ".......",
+          "speaker": "Faust"
+        },
+        {
+          "index": 27,
+          "text": "Dengar ya, yang satu ini kelihatannya terlalu keras untuk dimasak!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 28,
+          "text": "Mm.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 29,
+          "text": "Dan yang ini... langka, tapi adonan kita tidak butuh waktu yang makin terulur, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 30,
+          "text": "<Apa aku harus merasa lega...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 31,
+          "text": "Sous Chef mengitari kami, mengendus udara, lalu berhenti di depan Gregor."
+        },
+        {
+          "index": 32,
+          "text": "Dia mulai melompat-lompat, tidak dapat menahan rasa senangnya."
+        },
+        {
+          "index": 33,
+          "text": "Begitu kaya rasa, begitu pekat...! Rasa yang luar biasa, dengar ya? Dengar ya, aku menginginkannya! Ini sangat berserangga, dengar ya?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 34,
+          "text": "A-apa yang kau inginkan? Dan apa maksudmu dengan \"berserangga?!\"",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 35,
+          "text": "Boucher bakal menyetujuinya tanpa protes demi lengan serangga itu, dengar ya? Tukar guling, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 36,
+          "text": "Huh...! Apa dia benar-benar mengiler melihat lengan seranggaku? Sialan, ini baru pertama kali terjadi.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 37,
+          "text": "<Aku rasa mereka ingin menggunakan lengan Gregor... sebagai bahan masakan.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 38,
+          "text": "<Tapi... Uh, apakah itu bisa jadi pilihan?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 39,
+          "text": "Memotong lengan Gregor? Apa itu mungkin dilakukan di sini...?\n"
+        },
+        {
+          "index": 40,
+          "text": "Berkat Meursault, kami yang lain sekarang dapat berinteraksi secara fisik dengan benda-benda di dalam Grand Magasin Sisyphe. Kami sekarang dapat mengambil barang dan memindahkannya, tapi..."
+        },
+        {
+          "index": 41,
+          "text": "Sejauh ini, sepertinya Meursault masih menjadi satu-satunya yang rentan terhadap cedera dan kematian di sini... setidaknya dari cedera yang diakibatkan oleh para pelanggan tempat ini. Aku tidak yakin apakah aturan itu juga berlaku untuk Sinner lainnya."
+        },
+        {
+          "index": 42,
+          "text": "Yang lebih penting..."
+        },
+        {
+          "index": 43,
+          "text": "Lengan terkutuk ini bakal selalu tumbuh kembali, tapi...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 44,
+          "text": "<Aku... merasa kita tidak boleh melakukan apa pun pada lenganmu. Firasatku buruk tentang ini—kita tidak tahu apakah lengan itu akan tumbuh kembali tanpa risiko lain.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 45,
+          "text": "Aku tidak bisa menjelaskan alasannya secara pasti,"
+        },
+        {
+          "index": 46,
+          "text": "Tetapi aku merasa akibat dari memotong lengan Gregor di dalam alam Simbolis ini tidak bakal sesederhana lengan serangga baru yang tumbuh dari bekas potongan."
+        },
+        {
+          "index": 47,
+          "text": "Ya, tempat ini kan seharusnya semacam mental... uh, ruang aneh yang tidak boleh kita ganggu, kan? Kalau begitu kesepakatannya batal.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 48,
+          "text": "Jika ada barang lain yang bersedia Anda terima sebagai penukaran—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 49,
+          "text": "Dengar ya, tidak ada hal lain yang bisa menggantikannya sekarang! Tidak setelah menghirup aroma seranggamu yang lezat itu, dengar ya?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 50,
+          "text": "<Dia sama sekali tidak mau mendengarkan alasan...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 51,
+          "text": "Bagus! Dengar ya, aku tinggal memastikan kau berkontribusi peduli setan kau mau atau tidak!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 52,
+          "text": "Serahkan lengan serangganya, dengar ya?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 53,
+          "text": "Oh, bagus sekali... Dia langsung main rampok saja.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Waktu... Istirahat sebentar, dengar ya?! Dengar ya, itu sakit!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Dengar... kau yang menyerang kami duluan. Kau tahu itu.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "Tapi... dengar ya, aku <i>sangaatt butuh</i> lengan serangga itu...? Butuh cita rasa serangga itu...",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "Cukup, omongan seranggamu sudah berlebihan. Kau benar-benar mulai—",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "Heeeeugh! Dengar ya, kau sebaiknya tidak memukulku lagi! Aku mau kabur saja, dengar ya?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "Seperti yang kubilang, bukan kami yang mulai—hei!? Dia kabur!",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 6,
+          "text": "<... Daaan dia menghilang. Sekarang bagaimana?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Kita masih punya lebih banyak pertanyaan untuk ditanyakan. Mengejarnya adalah tindakan yang paling optimal.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-1026",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku tidak yakin bisa menyebut tempat ini sebagai \"Pujasera\"...",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1027",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dia kabur ke arah sana. Ayo cepat kita kejar dia.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Phew... Kau berlari sangat jauh. Dengar, jangan buat rumit keadaan bagi kita berdua.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "J-jangan mendekat, dengar ya?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "Beri tahu kami di mana Boucher berada, dan kami akan menghentikan pengejaran ini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Dengar ya, Boucher tidak akan menyerahkan bahan spesial itu! Itu bahan langka dan mewah, dengar ya? Itu mau dimasukkan ke soda, dengar ya?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "Harusnya kalian potong saja lengan serangga itu untuk kami, dengar ya? Aku pasti sudah membantumu menukarnya, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "Ayolah~ Kita tidak akan pernah tahu sampai kita membicarakannya, kan? Kenalkan saja kami pada Boucher dan biarkan kami yang mengurus sisanya.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 6,
+          "text": "B-boleh saja, tapi hanya kalau kau mau menolongku, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 7,
+          "text": "<i>Nah</i> begitu dong. Baiklah, apa yang kau inginkan?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 8,
+          "text": "Biarkan aku menjilat lengan serangga itu, dengar ya? Tiga kali saja, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 9,
+          "text": "......",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 10,
+          "text": "Wajah Gregor meringis seolah kulit wajahnya hendak terkelupas."
+        },
+        {
+          "index": 11,
+          "text": "<Maksudku, jika yang dia inginkan hanya satu dua jilatan, maka...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "Mudah bagimu untuk mengatakannya, Manajer. Bukan lenganmu yang dijilat, kan?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 13,
+          "text": "Coba posisikan dirimu di posisiku. Bayangkan jika bocah kecil itu memintamu untuk menyapu rambut apimu sebanyak 3 kali. Bukankah itu terasa menjijikkan?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 14,
+          "text": "<Ingat apa yang dilakukan Kim Berdampingkan Topi Bambu padaku kemarin? Percayalah padaku, aku tahu bagaimana rasanya, tetapi ini bukan sesuatu yang tidak bisa kau tanggung.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 15,
+          "text": "Ugh...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 16,
+          "text": "Persyaratannya menguntungkan kita.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 17,
+          "text": "... Tolong katakan ya, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 18,
+          "text": "<Dijilat jauh lebih tidak berbahaya dibandingkan dengan, ya, diamputasi...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 19,
+          "text": "Hanya aku sendiri yang melawan dunia, ya...? Baiklah, lakukan sesukamu.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 20,
+          "text": "Sous Chef menunjuk ke toko daging di atas, lalu menempel pada lengan Gregor."
+        },
+        {
+          "index": 21,
+          "text": "Dengar ya, Boucher ada di toko daging besar di atas sana!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 22,
+          "text": "Ughhh... *erangan* sialan...!",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 23,
+          "text": "<Toko daging... Sebenarnya apa yang dilakukan Boucher?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 24,
+          "text": "Manajer ingin tahu sosok seperti apa Boucher itu.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 25,
+          "text": "Boucher itu Manajer Lantai, dengar ya? Dia menangani segala jenis pekerjaan di B1, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 26,
+          "text": "Lalu apa yang <i>kau</i> lakukan? Hei, <i>HEI!</i> berhenti menjilat! Kau bilang cuma tiga jilatan!",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 27,
+          "text": "Dengar ya, itu tadi masih kurang banyak...?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 28,
+          "text": "Dan aku ini Sous Chef, dengar ya? Tentu saja aku bertugas memberi rasa pada soda Pujasera, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 29,
+          "text": "I-itu... baru pancingan lidah, dengar ya? Aku mau lagi... tapi baiklah, ayo kita pergi, dengar ya?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Kau membawa orang asing bersamamu. Ada apa, Head Chef?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 1,
+          "text": "Dengar ya, aku ini Sous Chef; bukan Head Chef! Waktu itu aku kan naik jabatan, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "*desah*... Ya. Kau dinaikkan jabatannya dari Sous Chef menjadi Head Chef.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 3,
+          "text": "Tapi Sous Chef terdengar lebih keren, dengar ya? Yang artinya aku dinaikkan jabatannya jadi Sous Chef, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "... Kenapa kau datang ke sini, Sous Chef?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 5,
+          "text": "Aku membawa mereka karena mereka butuh bahan spesial di gudang penyimpanan, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "Lebih tepatnya, kami membutuhkan Kokon Emas. Kami tidak dapat menyerahkan lengan Gregor, tetapi kami dapat menawarkan bola mata—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Aku tidak butuh bola mata—aku sudah punya lebih dari yang kubutuhkan.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 8,
+          "text": "Lagipula, aku tidak tahu apakah kita masih punya stok... Musimnya sudah hampir berakhir, soalnya.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 9,
+          "text": "Sous Chef, pergi dan periksa berapa banyak larva terdampar yang kita miliki di ruang penyimpanan.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 10,
+          "text": "Siap, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 11,
+          "text": "Cuma ada satu yang masih bernapas, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "... Hanya satu? Bagaimana itu bisa terjadi?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 13,
+          "text": "Karena kita terus menggunakan larva untuk memberi rasa pada soda dari musim ke musim, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 14,
+          "text": "Mendapatkan larva hidup sudah jadi hal yang sangat sulit belakangan ini, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 15,
+          "text": "Jadi tidak ada lagi larva yang tersisa untuk terdampar di pantai. Kurasa di sinilah sisa-sisa terakhir dari zaman sebelumnya akhirnya lenyap tanpa bekas...",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 16,
+          "text": "... Mungkin sudah waktunya untuk mulai menggunakan hal lain sebagai bahan dasar. Bahan pengganti apa yang kita miliki?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 17,
+          "text": "Ikan Layar Camemblack... Resin Emas... Memahan Mangsa... dan lengan serangga itu, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 18,
+          "text": "... Dengar ya, lenganku tidak termasuk dalam pilihan! Berhentilah memaksanya.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 19,
+          "text": "Ngomong-ngomong, \"larva\" yang kau sebutkan tadi—apakah itu Kokon Emas?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 20,
+          "text": "Benar. Itu adalah bagian paling gurih yang menempel pada larva.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 21,
+          "text": "<Jadi itu benar-benar makanan...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 22,
+          "text": "Memahan Mangsa. Ya, potongan daging itu cocok. Kita jarang menggunakannya karena sulit didapat, jadi kalian harusnya bisa mendapatkan potongan yang segar.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 23,
+          "text": "Di mana kami bisa mendapatkannya?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 24,
+          "text": "Jadi kalian mau membawakannya ke sini? Baik sekali. Berikan bahan itu kepada kami, dan kami akan mengupas Kokon Emas dari larva yang tersisa untuk kalian.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 25,
+          "text": "Itu tergantung-gantung di langit-langit, dengar ya? Dagingnya dikeringkan dalam lapisan Kulit Emas, dengar ya?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 26,
+          "text": "Penguji makanan di Bagian Daging Segar mungkin sedang bersusah payah mengeringkannya, jadi mendapatkannya mungkin bakal sedikit lebih rumit daripada sekadar pergi ke sana dan mencabutnya dari gantungan. Yah, kuserahkan pada kalian untuk mengurus bagian pekerjaan yang merepotkan itu.",
+          "speaker": "Boucher"
+        }
+      ]
+    },
+    {
+      "key": "D-1012",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sous Chef. Saya punya pertanyaan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "A-apa itu, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "Saya ingin tahu bentuk seperti apa yang dimiliki Memahan Mangsa dan dengan kriteria apa bahan tersebut dapat diidentifikasi.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Dengar ya, aku tidak tahu!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "Kami berniat untuk berkontribusi pada Soda Daging. Bimbingan Anda akan sangat kami hargai.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "Hei... Koki Sup.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "Aku tidak tahu, dengar ya?! Aku tidak tahu!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 8,
+          "text": "Astaga... *hembusan napas* Baiklah, \"Sous Chef.\"",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 9,
+          "text": ".......",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 10,
+          "text": "Bagaimana kami bisa membawakanmu hal Memahan itu jika kau bahkan tidak mau memberi tahu kami seperti apa bentuknya? Ayolah, kami mencoba membuat \"kontribusi\" di sini—kau kan Sous Chef-nya? Bersikaplah seperti itu.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 11,
+          "text": "Lengan serangga itu sebenarnya sempurna... tapi Soda Daging lebih penting demi kebaikan semua orang, dengar ya? Aku akan menjawabnya karena aku adalah Sous Chef yang baik dan bertanggung jawab, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "Memahan Mangsa menggantung di paling kiri, dengar ya? Dagingnya berayun-ayun, dengar ya? Ada sesuatu yang berkilau di antara tulang rusuknya, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 13,
+          "text": "<... Kalau begitu kita harus mencari potongan daging yang menempel dengan Kulit Emas.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "Oh? Kau bisa memberitahu kami dari awal, tahu. Itu bakal menghemat banyak masalah bagi kita berdua.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 15,
+          "text": "Aku penasaran apa kau tidak membenci lengan itu, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 16,
+          "text": "... Aku membencinya. Sangat membencinya sampai kau tidak akan percaya. Tidak ada sehari pun berlalu tanpa rasa ingin merobeknya sampai lepas dari tubuhku.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 17,
+          "text": "Kalau begitu kau bisa mengontribusikannya, dengar ya? Penasaran kenapa kau tidak mau, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 18,
+          "text": "Terkadang, Sous Chef... ada hal-hal yang tetap menempel padamu tidak peduli seberapa besar kau membencinya, dengar ya?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 19,
+          "text": "Aku masih menginginkannya... Tapi jika begitu, rawatlah baik-baik, dengar ya? Sekarang aku harus pergi, dengar ya? Bukan cuma kalian saja yang sibuk, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 20,
+          "text": "<Oh, wah.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 21,
+          "text": "Anda beralih antara persuasi dan intimidasi dengan kelancaran yang luar biasa, Gregor. Faust harus mengakui bahwa Faust telah mempelajari sesuatu hari ini.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 22,
+          "text": "Itu adalah metode yang sangat efektif.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 23,
+          "text": "Eh... Sejak kapan kalian mulai memberiku pujian seperti itu, kawan-kawan? ... Ahem. Bagaimanapun... Mari kita bergerak.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1033",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Memahan Mangsa menggantung di paling kiri, dengar ya? Dagingnya berayun-ayun, dengar ya?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1034",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sampai jumpa sekarang, dengar ya?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan daging yang mengering, lebih mirip dendeng daripada hal lainnya. Deskripsinya bersikeras bahwa daging ini sangat segar..."
+        }
+      ]
+    },
+    {
+      "key": "D-1014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sepotong rib eye, lemaknya bermekaran seperti bunga... secara harfiah."
+        }
+      ]
+    },
+    {
+      "key": "D-1015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Yang mekar di sana adalah pembusukan. Apa ini layak dimakan?"
+        }
+      ]
+    },
+    {
+      "key": "D-1016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sari dagingnya telah membeku dan berubah menjadi biru. Ini <i>benar-benar</i> sari daging, kan...?"
+        }
+      ]
+    },
+    {
+      "key": "D-1017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mendapatkan \"Memahan Mangsa.\""
+        },
+        {
+          "index": 1,
+          "text": "<Whew. Itu tidak memakan waktu terlalu lama.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Bocah yang terlalu banyak bicara itu cukup menyebalkan, tetapi semua bajingan lain yang ngiler melihat daging itu jauh lebih buruk. Cih.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "Daging tersebut mengandung sedikit Kulit Emas. Cukup masuk akal jika mereka menginginkannya untuk diri mereka sendiri.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Kita sekarang harus kembali ke Boucher.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 5,
+          "text": "<Ayo pergi.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kembali dengan utuh, rupanya. Kuperkirakan bakal menemukan setidaknya empat lengan menggantung di kait daging di sebelah si kepala api.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 1,
+          "text": "Di mana Memahan Mangsa?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 2,
+          "text": "*endus* *endus* Baunya, dengar ya? Aku bisa mencium baunya, dengar ya? Kalian membawa yang benar, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "Taruh di ruang penyimpanan sebelum membusuk.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 4,
+          "text": "Dan kita akan memastikan mereka diberi imbalan yang adil untuk itu. Bawa larva ke sini—yang masih menggeliat.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 5,
+          "text": "Aku akan segera kembali, dengar ya?!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1104",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Satu hal sebelum aku menyerahkan barangnya. Kalian tidak butuh larvanya, kan? Kalian cuma butuh Kokon Emasnya?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 1,
+          "text": "Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Bagus sekali.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 3,
+          "text": "Melalui jendela, kami melihat mulut Boucher terbelah menjadi seringai bergigi saat dia mulai mencincang bahan-bahan yang dibawakan oleh Sous Chef."
+        },
+        {
+          "index": 4,
+          "text": "Ambillah, para tamu. Kokon Emas yang kalian minta.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<... Apa itu... <i>menangis?</i>>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Ugh... Bukan suara paling menyenangkan di dunia, kan?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 8,
+          "text": "Mengapa harus begitu? Masakan itu baru saja terlahir. Terlahir ke dunia berarti ditelan oleh teror, dan teror adalah hal yang sangat kesepian—yang, tentu saja, disertai dengan tangisan.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 9,
+          "text": "... Bagaimanapun, aku harus mulai bersiap untuk pelayanan. Aku lebih suka kalian pergi jika tidak ada urusan lain di sini.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 10,
+          "text": "Terima kasih untuk kesepakatan saling menguntungkan ini, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 11,
+          "text": "Dan ini ada sedikit bonus dari kami, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "Huh? Bonus gratisan?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 13,
+          "text": "Kalian boleh mengambil secangkir soda, dengar ya? Ini dari penghujung musim ini, jadi tidak begitu bersoda... tapi rasanya masih ada, dengar ya?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 14,
+          "text": "Dengan kata lain... setara dengan minuman soda yang sudah hambar.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 15,
+          "text": "Terima kasih.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 16,
+          "text": "Apakah tidak ada tugas yang tersisa di lantai ini?",
+          "speaker": "Faust"
+        },
+        {
+          "index": 17,
+          "text": "<Mereka bilang kokonnya bisa dipintal menjadi gulungan benang di B2, jadi... ya, kita sudah selesai di sini.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 18,
+          "text": "Aku melihat jalur di lorong lebih jauh yang seharusnya bisa membawa kalian ke bawah.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 19,
+          "text": "Kita sekarang akan melanjutkan ke ujung bawah koridor.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 20,
+          "text": "Tunggu—bolehkah aku setidaknya meminum seteguk soda sebelum kalian pergi ke bawah? Aku haus setelah berjalan sejauh ini...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 21,
+          "text": "Aneh. Anda tidak seharusnya bisa merasakan haus sebagai sensasi \"nyata\" di Simbolis, Herr Gregor.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 22,
+          "text": "Tidak, aku—ayolah, aku hanya merasa seperti itu, oke?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 23,
+          "text": "Lagipula, mari kita coba minuman gratis ini sebelum pergi.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 24,
+          "text": "Faust juga penasaran dengan rasa soda tersebut.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 25,
+          "text": "<Aku juga tidak bisa meminumnya, jadi kalian bertiga saja yang meminumnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 26,
+          "text": "... Saya akan menolak, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 27,
+          "text": "Eh...? Tapi kenapa? Kuartikan kita merasakan... apa tadi, \"perasaan\" darinya di sini...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 28,
+          "text": "Yang berarti kau bisa merasakan makanan yang paling kau ingat jika kau menginginkannya. Bukankah itu layak untuk dicoba?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 29,
+          "text": "Justru itulah alasan mengapa saya tidak dapat mengonsumsinya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 30,
+          "text": "Rasanya mungkin mendekati nilai makanan yang tersimpan dalam ingatan saya dengan akurasi yang hampir sempurna,",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 31,
+          "text": "tetapi itu tidak akan sama.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 32,
+          "text": "Entahlah, aku tidak yakin rasanya harus mempertahankan \"nilai\" nyata.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 33,
+          "text": "Suatu \"nilai\" berubah tergantung pada bagaimana perasaanmu tentang hal itu pada saat itu, kan?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 34,
+          "text": "Bagi beberapa orang... itu sudah cukup. Lebih dari cukup, menurutku.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 35,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 36,
+          "text": "Saya memahami poin Anda sepenuhnya. Namun...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 37,
+          "text": "Saya tidak percaya saya mampu melakukannya saat ini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 38,
+          "text": "Hei, jangan minum jika kau tidak mau—aku tidak mencoba memaksanya di sini. Cuma membagikan pemikiranku saja, itu saja.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 39,
+          "text": "... Mau bagaimana lagi.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 40,
+          "text": "Namun yang mengejutkan bagiku adalah Meursault tidak membantah dengan sikap gigihnya yang biasa dalam pertukaran ini. Setidaknya tidak sebanyak biasanya."
+        },
+        {
+          "index": 41,
+          "text": "Mungkin pendapat Gregor berhasil tersampaikan padanya?"
+        },
+        {
+          "index": 42,
+          "text": "Mungkin Gregor benar. Bukan rasanya itu sendiri yang penting."
+        },
+        {
+          "index": 43,
+          "text": "Apa yang kita sebut \"nostalgia\" mungkin adalah sesuatu yang direkonstruksi di sekitar kenangan yang kita anggap menyenangkan."
+        },
+        {
+          "index": 44,
+          "text": "Kenangan memudar seiring berjalannya waktu. Jika tidak—jika kenangan menyakitkan terus berbekas dengan jelas setiap saat... Mungkin \"nostalgia\" tidak akan pernah ada."
+        }
+      ]
+    },
+    {
+      "key": "D-1021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku melangkah ke anak tangga pertama di belakang Meursault."
+        },
+        {
+          "index": 1,
+          "text": "Tangga itu bahkan tidak terlalu curam, namun aku tidak bisa menghilangkan sensasi bahwa tubuhku terlempar ke bawah."
+        },
+        {
+          "index": 2,
+          "text": "Aku bergegas memegang kedua sisinya dan turun satu langkah demi satu langkah dengan hati-hati."
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>Selamat, ma puce.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>Kau berhasil menyelesaikan satu lagi.</color>"
+        },
+        {
+          "index": 5,
+          "text": "Suara Jeanne menjauh, membawa sedikit kepahitan. Dan kemudian..."
+        }
+      ]
+    },
+    {
+      "key": "D-1020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku melangkah ke anak tangga pertama di belakang Meursault."
+        },
+        {
+          "index": 1,
+          "text": "Angin sepoi-sepoi berhembus lewat, dan cahaya perlahan mendekat."
+        },
+        {
+          "index": 2,
+          "text": "Untuk sesaat, rasanya seolah-olah kita sedang mendaki. Kemudian kemiringannya perlahan merata, dan langkah kita membawa kita turun."
+        }
+      ]
+    },
+    {
+      "key": "D-1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku melangkah ke anak tangga pertama di belakang Meursault."
+        },
+        {
+          "index": 1,
+          "text": "Setiap langkahku terasa sangat ringan."
+        },
+        {
+          "index": 2,
+          "text": "Aku tidak terlalu yakin apakah aku sedang naik atau turun, tetapi aku merasakan sensasi bantalan lembut menyelimuti ujung kakiku."
+        }
+      ]
+    },
+    {
+      "key": "D-1022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Tangga.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Atau bukit—atau sepatu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Bagaimana seharusnya itu didefinisikan, Manajer?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<... Huh?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>... Jadi kau akan membiarkan mereka membuat penilaian akhir, setelah semuanya.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>Kau tahu, terkadang aku berpikir kau adalah penakut yang lebih buruk dariku.</color>"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Meursault tidak memberi balasan pada Jeanne. Dia hanya melihatku dan menunggu jawaban."
+        }
+      ]
+    },
+    {
+      "key": "D-1032",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku melangkah ke anak tangga pertama di belakang Meursault."
+        },
+        {
+          "index": 1,
+          "text": "Dia menyentuhnya, memanjat naik dan turun, serta mengetuknya untuk mendengarkan suara yang dihasilkannya."
+        }
+      ]
+    },
+    {
+      "key": "D-1201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Nah, mengapa kau tidak memberitahuku apa ini?",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "Kopi... Kopi dari merek yang Ibu sukai.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Bukan. Kau hanya memberitahuku apa yang telah ditetapkan secara sewenang-wenang oleh konvensi... Sebuah ingatan.",
+          "speaker": "???"
+        },
+        {
+          "index": 3,
+          "text": "Jangan terjebak dalam jebakan kebiasaan, Meursault. Definisikan itu kembali melalui pengalamanmu.",
+          "speaker": "???"
+        },
+        {
+          "index": 4,
+          "text": "Ini beriak setiap kali aku menyentuhnya. Ini menahan cahaya, namun tetap hitam...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Ini pahit... panas... dan membuat segala sesuatu di depan mataku menjadi basah...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "Ini adalah...",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1023",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] Eskalator mulai bergerak."
+        }
+      ]
+    },
+    {
+      "key": "D-1024",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lanjut ke B2."
+        }
+      ]
+    },
+    {
+      "key": "D-1065",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pintunya terbuka. Haruskah kita masuk?"
+        }
+      ]
+    },
+    {
+      "key": "D-1066",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada bola mata di dalam, menumpuk tinggi. Pelanggan yang sepertinya adalah pemiliknya tergeletak mati di dekatnya, perut mereka membengkak seperti gunung."
+        }
+      ]
+    },
+    {
+      "key": "D-1067",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah rumah yang menyerupai kediaman pribadi biasa. Tidak ada yang menjawab saat kita mengetuk."
+        }
+      ]
+    },
+    {
+      "key": "D-1068",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pintunya terbuka. Haruskah kita masuk?"
+        }
+      ]
+    },
+    {
+      "key": "D-1069",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada bola mata di dalam, menumpuk tinggi. Pelanggan yang sepertinya adalah pemiliknya tergeletak mati di dekatnya, perut mereka membengkak seperti gunung."
+        }
+      ]
+    },
+    {
+      "key": "D-1059",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah rumah yang menyerupai kediaman pribadi biasa. Tidak ada yang menjawab saat kita mengetuk."
+        },
+        {
+          "index": 1,
+          "text": "Setiap saat, bayangan misterius melintas di balik jendela."
+        }
+      ]
+    },
+    {
+      "key": "D-1060",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Rumah itu tampaknya tidak berpenghuni. Daging, kulit, dan bahan serupa tertimbun di dalam menggantikan perabotan."
+        }
+      ]
+    },
+    {
+      "key": "D-1061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pintunya terbuka. Haruskah kita masuk?"
+        }
+      ]
+    },
+    {
+      "key": "D-1062",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Masuk melalui pintu yang terbuka."
+        }
+      ]
+    },
+    {
+      "key": "D-1063",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pintunya terbuka. Haruskah kita masuk?"
+        }
+      ]
+    },
+    {
+      "key": "D-1064",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Masuk melalui pintu yang terbuka."
+        }
+      ]
+    },
+    {
+      "key": "D-1058",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan daging yang mengering. Mengeluarkan bau hanyir dan dingin."
+        }
+      ]
+    },
+    {
+      "key": "D-1052",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek kelihatannya sibuk merapikan kain."
+        }
+      ]
+    },
+    {
+      "key": "D-1053",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Tampaknya aku akan menunggu di sini untuk beberapa waktu.",
+          "speaker": "Pengangkut Le Noir"
+        },
+        {
+          "index": 1,
+          "text": "... Hm? Apakah ada yang kamu butuhkan?",
+          "speaker": "Pengangkut Le Noir"
+        },
+        {
+          "index": 2,
+          "text": "Kami ingin menanyakan tentang sifat dari kain-kain ini.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "Itu adalah gulungan kain yang dibawa dari B2. Aula Pakaian Kasual yang memesannya.",
+          "speaker": "Pengangkut Le Noir"
+        },
+        {
+          "index": 4,
+          "text": "Nah, itu dia. Mengapa kita tidak bertanya pada pelayan ini saja? Jika mereka datang dari B2, mereka seharusnya tahu jalan ke sana, kan?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Mengetahui cara kembali dari suatu tempat tidak sama dengan mengetahui cara pergi ke sana. Namun, probabilitas bahwa individu ini mengetahui keduanya cukup tinggi.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Pengangkut Le Noir"
+        },
+        {
+          "index": 7,
+          "text": "Untuk beberapa alasan, aku bisa merasakan tatapan mereka tertuju pada kepalaku. Aku sebaiknya menunjukkan barang yang kami terima di lantai 3 kepada mereka, untuk jaga-jaga."
+        },
+        {
+          "index": 8,
+          "text": "Ini... Ah. Kamu sedang menjalankan tugas untuk orang-orang di lantai tiga, begitu. Jika kamu ingin turun ke lantai bawah, cukup naik eskalator yang mengarah ke bawah. Mereka yang tahu tujuan yang ditentukan tidak punya alasan untuk tersesat.",
+          "speaker": "Pengangkut Le Noir"
+        },
+        {
+          "index": 9,
+          "text": "<... Itu terdengar sangat mirip dengan apa yang diberitahukan kepada kita tentang Koridor.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 10,
+          "text": "Sialan... Itu tidak membantu sama sekali.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 11,
+          "text": "Pelayan Noir melanjutkan merapikan kain."
+        }
+      ]
+    },
+    {
+      "key": "D-1054",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh. Kamu telah membawa barang yang sangat berharga.",
+          "speaker": "Pengangkut Le Noir"
+        },
+        {
+          "index": 1,
+          "text": "Semoga perjalanan turunmu tanpa kendala, Orang Asing.",
+          "speaker": "Pengangkut Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "D-1055",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Semoga perjalanan turunmu tanpa kendala, Orang Asing.",
+          "speaker": "Pengangkut Le Noir"
+        }
+      ]
+    },
+    {
+      "key": "D-1056",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Harusnya membawa sepasang tangan lagi...",
+          "speaker": "Pengangkut Le Rouge"
+        },
+        {
+          "index": 1,
+          "text": "... Siapa kalian sebenarnya?",
+          "speaker": "Pengangkut Le Rouge"
+        },
+        {
+          "index": 2,
+          "text": "<Apa kalian sedang menunggu sesuatu di sini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Kami penasaran dengan apa yang sedang Anda tunggu di sini.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Perlu menguliti Kulit dari B3 dan mengangkutnya kembali. Entah kenapa, pasokan belum juga tiba belakangan ini—",
+          "speaker": "Pengangkut Le Rouge"
+        },
+        {
+          "index": 5,
+          "text": "...! Tunggu. Ssst... Aku bisa mendengar Suara itu lagi!",
+          "speaker": "Pengangkut Le Rouge"
+        },
+        {
+          "index": 6,
+          "text": "Pengangkut Le Rouge mendorong kami, menempelkan dirinya ke dinding, dan tersenyum bahagia."
+        }
+      ]
+    },
+    {
+      "key": "D-1057",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek menempel di dinding dengan senyuman bahagia."
+        }
+      ]
+    },
+    {
+      "key": "D-1051",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kain-kain yang terwarnai menumpuk tinggi."
+        }
+      ]
+    },
+    {
+      "key": "D-1049",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Tidak menyangka bakal melihat pintu di tempat seperti ini.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Mengingat ke mana arah menghadapnya, membukanya memiliki probabilitas tinggi untuk menghubungkan kita ke Food Hall...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "... Meskipun bukti yang ada tidak cukup untuk memastikannya secara mutlak.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "Pintu terbuka ke ruang kosong yang terbenam dalam kegelapan."
+        },
+        {
+          "index": 4,
+          "text": "<Uh...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Uh... Kita tidak bakal masuk ke sana, kan, Manajer?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 6,
+          "text": "<... Mari kita lewat koridor. Mungkin lebih aman seperti itu.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1050",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak ada apa-apa selain kegelapan pekat yang membentang di balik pintu."
+        },
+        {
+          "index": 1,
+          "text": "... Haruskah kita mengabaikan risiko dan melanjutkan ke dalam kegelapan?"
+        }
+      ]
+    },
+    {
+      "key": "D-1045",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Meja putih yang bersih. Berbagai potongan daging dan kulit tertata di atasnya."
+        }
+      ]
+    },
+    {
+      "key": "D-1046",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Di antara potongan daging, terdapat hidangan yang terbuat dari bola mata. Kita mungkin bisa membawanya bersama kita."
+        }
+      ]
+    },
+    {
+      "key": "D-1047",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Di antara potongan daging, terdapat hidangan yang terbuat dari bola mata. Kita mungkin bisa membawanya bersama kita."
+        }
+      ]
+    },
+    {
+      "key": "D-1048",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Di antara potongan daging, terdapat hidangan yang terbuat dari bola mata. Kita mungkin bisa membawanya bersama kita."
+        }
+      ]
+    },
+    {
+      "key": "D-1042",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Beberapa pelanggan menceburkan kepala mereka ke dalam air mancur."
+        }
+      ]
+    },
+    {
+      "key": "D-1043",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek meneguk soda dengan wajah tenggelam, tepat di ambang tenggelam. Beberapa bahkan sudah benar-benar tidak bergerak."
+        }
+      ]
+    },
+    {
+      "key": "D-1044",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Soda Daging sudah siap. Aku ragu bisa memaksakan diri untuk mencobanya bahkan jika aku adalah subjek Simbolis yang bisa berinteraksi lebih baik daripadanya seperti Meursault."
+        }
+      ]
+    },
+    {
+      "key": "D-1040",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pintu terhalang. Menempelkan telinga ke pintu mengungkapkan keributan suara di baliknya—suara, langkah kaki, dan lainnya."
+        },
+        {
+          "index": 1,
+          "text": "Yah, kita pasti tidak bisa lewat sini. Benda ini bahkan tidak bakal tergores sedikit pun.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "Ini kemungkinan mengarah ke area B1 yang lain. Akses mungkin dapat terbuka setelah kondisi tertentu terpenuhi... tetapi informasi tentang prasyarat tersebut belum dapat diakses.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "<Seberapa besar sebenarnya department store ini...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>Seluas imajinasi seorang Raksasa. Tempat ini adalah jenis tempat seperti itu.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<Imajinasi seorang Raksasa...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1041",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pintu terhalang. Menempelkan telinga ke pintu mengungkapkan keributan suara di baliknya—suara, langkah kaki, dan lainnya."
+        }
+      ]
+    },
+    {
+      "key": "D-1039",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bau hanyir tercium dari dekat. Jalan di depan tertutup rapat oleh kain."
+        }
+      ]
+    },
+    {
+      "key": "D-1036",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Area Pujasera ditandai oleh simbol spiral di lantai, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1035",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D-1029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] ……."
+        }
+      ]
+    },
+    {
+      "key": "D-1025",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Harus didefinisikan sebagai apa ini?"
+        }
+      ]
+    },
+    {
+      "key": "D-1030",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek kelihatannya sibuk. Lebih baik tidak terlalu dekat."
+        }
+      ]
+    },
+    {
+      "key": "D-1031",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku sibuk. Selesaikan sendiri.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D-1071",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu sepertinya mengintai di balik jendela."
+        },
+        {
+          "index": 1,
+          "text": "Mengetuk pintu.\nLangkah kaki terburu-buru bergegas menjauh mendengar suaranya, lalu keberadaan itu menghilang."
+        },
+        {
+          "index": 2,
+          "text": "<Aku rasa kita sedang dihindari...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1072",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Huh?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Untuk sesaat, aku merasa seolah-olah ada sesuatu yang mengintip melalui celah pintu."
+        }
+      ]
+    },
+    {
+      "key": "D-1073",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Seketika Meursault memegang gagang pintu, kekuatan tak dikenal melemparkannya ke belakang."
+        }
+      ]
+    },
+    {
+      "key": "D-1074",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Meursault!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<Apa kamu baik-baik saja?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Saya mengalami luka lecet di kulit, tetapi tidak cukup parah hingga menghambat saya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Saat Meursault bangkit dan dengan cepat membersihkan dirinya, aku bisa mendengar seseorang—atau sesuatu—kikisetan padanya."
+        }
+      ]
+    },
+    {
+      "key": "D-1075",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hmm.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<…?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Whoa... apa-apaan ini, semacam pantomim atau apa?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "Meursault jelas-jelas memegang knop dan bergerak seolah membuka pintu dengan paksa. Namun pintu itu sendiri tetap berada di posisinya."
+        },
+        {
+          "index": 4,
+          "text": "Sensasi sentuhan saat memutar gagang pintu dan mendorong pintu terbuka terasa ada di sana.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Uh... Mungkin kepalamu tidak pernah tertutup sepenuhnya setelah Alterationist membukanya di lantai atas... Manajer, bagaimana kalau kau memutar jamnya untuk dia?",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1076",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kau tahu, orang ini punya bakat tersembunyi buat slapstick.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Huh? Nah, lihat itu.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "... Tampaknya Gregor baru saja mengalami hal yang persis sama."
+        }
+      ]
+    },
+    {
+      "key": "D-1077",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampak seolah tirai hitam tebal telah ditarik di balik jendela yang sempit."
+        },
+        {
+          "index": 1,
+          "text": "... Setiap saat, timbul suara basah <i>squelch</i> seolah-olah ada sesuatu yang sedang diperas."
+        }
+      ]
+    },
+    {
+      "key": "D-1078",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mendekat ke arah tirai lagi untuk mendengarkan lebih banyak."
+        },
+        {
+          "index": 1,
+          "text": "Suara kepakan basah terdengar dari dalam. Sesaat kemudian, tirai bergerak sedikit dengan tamparan keras."
+        },
+        {
+          "index": 2,
+          "text": "... Sesuatu sepertinya menyemprot keluar dan menciprat ke seluruh bagian tirai."
+        }
+      ]
+    },
+    {
+      "key": "D-1079",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak ada suara lain yang mengikuti."
+        },
+        {
+          "index": 1,
+          "text": "... Walau setiap saat, aku rasa aku mendengar tetesan jatuh dari bawah tirai."
+        }
+      ]
+    },
+    {
+      "key": "D-1080",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mengintip dari pintu yang sedikit terbuka memperlihatkan deretan potongan daging yang padat berserakan di atas lantai kayu."
+        },
+        {
+          "index": 1,
+          "text": "... Sulit untuk mengatakan dari mana atau apa asal daging itu."
+        }
+      ]
+    },
+    {
+      "key": "D-1081",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Logam berbenturan dengan logam dengan dentangan yang berat."
+        },
+        {
+          "index": 1,
+          "text": "Melalui jendela, sesuatu yang sangat besar dan tak teridentifikasi sedang memasukkan apa yang terlihat seperti kulit ke dalam lubang di dinding."
+        },
+        {
+          "index": 2,
+          "text": "<Apa yang dilakukannya...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Celah itu adalah jenis yang biasa digunakan untuk pembuangan sampah di kediaman multi-unit. Itu juga disebut sebagai \"dust chute.\"",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Tapi... bukankah ini hanya rumah terpisah?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Itu adalah akal sehat yang berlaku di Kota, Herr Gregor. Sulit untuk menerapkan standar yang sama dengan bagaimana hal-hal berjalan di dalam Simbolis.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "Huh... maksudmu dust chute bukanlah konsep akal sehat di sini kalau begitu...?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "... Aku melerai kedua Sinner tersebut sebelum perdebatan mereka menjadi makin buruk."
+        }
+      ]
+    },
+    {
+      "key": "D-1082",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebenarnya fenomena apa itu? Terlepas dari kejadian aneh tersebut, aku memegang gagang pintu sekali lagi dan mencoba menarik pintu hingga terbuka—tetapi pintu itu tetap menolak untuk bergerak."
+        }
+      ]
+    },
+    {
+      "key": "D-1083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu yang terlihat seperti direktori department store ditempelkan pada mesin penjual minuman otomatis. Kerusakan telah menutupi sebagian besar tulisannya."
+        },
+        {
+          "index": 1,
+          "text": "Sesuatu menempel di tepi tempat itu."
+        },
+        {
+          "index": 2,
+          "text": "Meursault mendapatkan Potongan Peta."
+        }
+      ]
+    },
+    {
+      "key": "D-1084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu yang terlihat seperti direktori department store ditempelkan pada mesin penjual minuman otomatis. Kerusakan telah menutupi sebagian besar tulisannya."
+        }
+      ]
+    },
+    {
+      "key": "D-1085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan daging kemerahan, kulit, dan sejenisnya telah dipajang di etalase. Kelihatannya lebih segar daripada potongan yang tergantung di luar."
+        }
+      ]
+    },
+    {
+      "key": "D-1086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu tergeletak di lantai sebelum eskalator."
+        },
+        {
+          "index": 1,
+          "text": "Meursault mendapatkan 10 bola mata."
+        }
+      ]
+    },
+    {
+      "key": "D-1087",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah eskalator yang awal dan ujungnya berada di luar persepsi."
+        }
+      ]
+    },
+    {
+      "key": "D-1088",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu terlihat di antara mayat-mayat yang telah digerogoti sampai bersih."
+        }
+      ]
+    },
+    {
+      "key": "D-1089",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Panggil aku Sous Chef, dengar ya?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak akan kelaparan lagi."
+        }
+      ]
+    },
+    {
+      "key": "D-1091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Akhirnya, terbebas dari rasa lapar yang menyiksa."
+        }
+      ]
+    },
+    {
+      "key": "D-1094",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Siapa yang bakal mengawasi sodanya sekarang...?"
+        }
+      ]
+    },
+    {
+      "key": "D-1095",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak ada jawaban."
+        }
+      ]
+    },
+    {
+      "key": "D-1096",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sulit untuk mengatakan apakah bau hanyir di udara berasal dari laut atau darah."
+        }
+      ]
+    },
+    {
+      "key": "D-1097",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cahaya telah sepenuhnya padam dari mata mereka."
+        }
+      ]
+    },
+    {
+      "key": "D-1098",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bahkan tidak bergerak sedikit pun. Kemungkinan besar sudah mati."
+        }
+      ]
+    },
+    {
+      "key": "D-1099",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Itu hanya sekadar mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D-1100",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Itu hanya sekadar mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D-1101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Meski hanya sebagian kecil darinya yang dipotong, sekarang rasanya tidak ada bedanya dari potongan daging lainnya di sini."
+        }
+      ]
+    },
+    {
+      "key": "D-1901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ambillah secangkir soda, dengar ya?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1105",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Astaga... Hampir saja dicincang seperti potongan daging yang tergantung di kait itu.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<... Meursault <i>benar-benar</i> berubah jadi potongan daging di atas kait.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<Lagipula, aku rasa kita bisa melihat penampilan mereka untuk memprediksi arah lemparan mereka.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<Mari kita mencoba menghafal pola mereka dan mengatasi ancaman ini.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1106",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Sama seperti hal-hal yang ada di lantai satu, ya...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Tabrakan dengan musuh itu langsung menyeret kita ke dalam Shadowed.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "<Apa itu lebih baik daripada para Mannequin atau lantai satu... atau justru lebih buruk? Aku tidak tahu.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1107",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Huh. Terlepas dari semua omong kosong tentang berserangga ini dan berserangga itu...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "... dia malah memotong lengan Meursault.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "Keahlian penjagalannya sesuai dengan gelar yang disandangnya sebagai Sous Chef.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "... Sebagai makluk dari Simbolis, akan sulit baginya, sebuah kekuatan eksternal, untuk berinteraksi dengan Sinner; satu-satunya pengecualian adalah Meursault.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Tentu saja, batasan itu berlaku dua arah.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 5,
+          "text": "<Jadi... kita <i>bisa</i> memotong lengan Gregor secara teknis?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Benar. Dan selama saya menjadi subjeknya, saya bisa menjadi perantara agar barang itu diserahkan ke tangan Sous Chef.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<... Hmm. Tidak, aku punya firasat buruk tentang memotong lengan Gregor di sini.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "<Mari kita kembali ke Pujasera.>",
+          "speaker": "Dante"
+        }
+      ]
+    }
+  ]
+}
