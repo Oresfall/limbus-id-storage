@@ -1,0 +1,2670 @@
+{
+  "dataList": [
+    {
+      "key": "D-3201A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tiba menggunakan eskalator. FENOMENA TIDAK BIASA.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 1,
+          "text": "Ada urusan apa? Menantikannya. DENGAN PENGECUALIAN PEMBUANGAN LIMBAH BERPENANDA.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3201B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pemilik suara itu sangat besar sampai-sampai kami harus mendongakkan leher sejauh mungkin hanya untuk melihat wajahnya."
+        },
+        {
+          "index": 1,
+          "text": "Kalian anomali. Objek yang mencapai lantai ini biasanya tidak tiba menggunakan eskalator. ENTITAS DI LUAR JANGKAUAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 2,
+          "text": "Tidak selaras dengan akal sehat. IDENTIFIKASI DIPERLUKAN.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3201C",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Aku mengira Ishmael akan membalas dengan sesuatu tentang apa yang terhitung sebagai akal sehat dan apa yang bukan, tapi dia tetap diam. Kurasa dia sudah melihat terlalu banyak hal sampai titik ini untuk meributkan masalah logika."
+        },
+        {
+          "index": 2,
+          "text": "Makhluk itu mendadak membungkukkan tubuh besarnya hingga sejajar dengan Ishmael."
+        },
+        {
+          "index": 3,
+          "text": "...!",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Harap tetap tenang. TIDAK ADA NIAT TARUNG SAAT INI.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3201D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cangkang raksasanya dipenuhi lubang, masing-masing berisi sesuatu mirip wajah bulat yang menatap lurus ke arah kami."
+        },
+        {
+          "index": 1,
+          "text": "Wajah-wajah itu berputar secara independen di dalam cangkang, mengawasi ke segala arah. Pemandangan itu memicu rasa takut yang tak bisa kunamai maupun hilangkan."
+        },
+        {
+          "index": 2,
+          "text": "... Hal ini mengingatkanku pada Paus.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "<... Sekarang kalau dipikir-pikir, Paus dari Tangan Berpori punya bagian yang kelihatan seperti cangkang entitas ini...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "... Hm. MENGAMATI.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3201E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampaknya... tak ada alasan bagi rasa takut untuk berakar saat ini.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Mungkin ia sekadar meluapkan rasa ingin tahunya.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Kognisi logis mengambil prioritas di atas keinginan. KLASIFIKASI MANEKIN KECIL KEMUNGKINANNYA.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 3,
+          "text": "Apa itu Paus?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "... Kamu mau aku jelasin tentang Paus? Ada kursus singkat 1 jam, atau kuliah kilat 12 jam kalau kamu cukup berani...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "<.......>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Cuma bercanda kok. Aku bakal jelasin semuanya lain kali. Lain kali...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "Kapan \"lain kali\"?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 8,
+          "text": "Apa ga ada Paus di Toko Departemen ini?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 9,
+          "text": "Dipahami. Pemahaman terverifikasi. PENGAMATAN DITUTUP.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 10,
+          "text": "Kamu membawa... sebuah aroma. Aroma dari pelanggan bermartabat tinggi...",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 11,
+          "text": "Aku...?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 12,
+          "text": "... HOSPITALITAS PRIORITAS DIPERLUKAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 13,
+          "text": "<Mungkin dia cuma mencium bau dompet tebal...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "Mencari Kulit tertentu? Datang jauh-jauh ke \"dasar\" berarti kamu sedang terburu-buru, kan? PESANAN TERBURU-BURU. BIAYA TAMBAHAN DIPERLUKAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 15,
+          "text": "Kami memerlukan—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 16,
+          "text": "Dipahami. Anda memerlukan pakaian kustom.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 17,
+          "text": "Calon pemakai... dikonfirmasi.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3201F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Makhluk itu membungkuk lebih rendah lagi, membawa wajahnya sejajar bukan dengan siapa pun dari kami... melainkan dengan Pwie."
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-3201G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pelanggan pendamping adalah entitas sementara yang diharapkan kembali ke lantai atas. RESIDENSI JANGKA PANJANG KECIL KEMUNGKINANNYA. KLASIFIKASI ORANG ASING DIKONFIRMASI.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 1,
+          "text": "Saya penasaran dengan sifat keberadaan para orang asing. Mengembalikan entitas yang hilang ke posisi aslinya: nasib para orang asing? PERTANYAAN BARU TERBENTUK.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 2,
+          "text": "Bahkan kami yang menanggung keberadaan ini pun tak dapat mengatakan ke mana kompasnya sungguh mengarah...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Kalau gitu... apa kamu yang bisa buat pakaiannya? Kami punya anggaran, tapi kami gak terbuat dari bola mata, jadi... kami gak bisa bayar banyak.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Bola mata itu incidental. Bahannya yang penting.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 5,
+          "text": "Pakaian Kulit Emas memerlukan Kulit Emas dalam jumlah besar, tapi stok kami tidak tersisa. STOK HABIS.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 6,
+          "text": "... Dulu kami menerima banyak pesanan premium seperti ini. Itu adalah hari-hari yang menyenangkan. KETIDAKPUASAN DIEKSPRESIKAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 7,
+          "text": "Dulu ada banyak?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 8,
+          "text": "Tentu saja. Itu terjadi berkali-kali musim lalu hingga saya hampir tidak mengingatnya... namun lantai ini pernah menyimpan begitu banyak Kulit Emas. ERA KELIMPAHAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 9,
+          "text": "Ke mana perginya semua itu?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 10,
+          "text": "Tersebar di seluruh Toko Departemen. Di setiap sudut.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 11,
+          "text": "Kamu gak serius kan kalau kami harus menggeledah setiap sudut Toko Departemen ini sendiri?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "Tentu saja tidak. Tidak ada pelanggan yang bisa menggeledah seluruh Toko Departemen. Tempat ini selalu berubah dan kembali.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 13,
+          "text": "Hmm...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 14,
+          "text": "Mungkinkah... anda juga berharap untuk menyaksikan karya semacam itu dengan mata kepala anda sendiri? Sebuah pakaian Kulit Emas yang ditenun dari bermacam lembaran Kulit Emas.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 15,
+          "text": "Bagi jiwa yang penuh rasa ingin tahu dan semangat terhadap seni tata busana, keinginan seperti itu tentulah sangat alami...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 16,
+          "text": "Hm. Usulan itu memiliki keunggulan. Pakaian Kulit Emas telah absen selama bertahun-tahun dan mungkin tidak akan pernah tersedia lagi. PENYESALAN DAN ANTISIPASI BERHUBUNGAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 17,
+          "text": "Terlebih lagi, seseorang yang memiliki pengamatan berpengalaman seperti anda... tentu tahu Kulit Emas mana yang harus dikumpulkan... bukankah begitu?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 18,
+          "text": "Bukankah anda seorang profesional yang menghabiskan seumur hidup dalam perdagangan ini, dengan kulit yang senantiasa berada di genggaman tangan anda?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 19,
+          "text": "Saya suka saat anda menyebut saya \"profesional\". DORONGAN AMBISI DISTIMULASI.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 20,
+          "text": "Saya akan memindai Kulit Emas yang tersisa di Toko Departemen dan menentukan spesimen yang diperlukan untuk pesanan ini.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 21,
+          "text": "Syukurlah. Untuk sejenak, kupikir kita harus berkeliaran di seluruh tempat ini selamanya...",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-3201H",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hrrrngh...!",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3201I",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Atas teriakan pengerahan tenaga entitas itu, beberapa wajah yang tertanam di sepanjang cangkangnya mendadak lenyap sekaligus."
+        },
+        {
+          "index": 1,
+          "text": "Saya bisa melihatnya... TARGET TERKUNCI.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 2,
+          "text": "Kulit Emas yang harus dikumpulkan para pelanggan. Kulit Emas yang harus kami bentuk. Kulit Emas yang terlepas dari tangan kami...",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 3,
+          "text": "Setiap satunya telah ditemukan. JEJAK DIKONFIRMASI.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 4,
+          "text": "Penyelesaian memerlukan Kulit Emas untuk bersilangan dengan rute pelanggan sebelumnya. TEKA-TEKI TERJAWAB.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3201J",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tugas mereka tampaknya selesai, wajah-wajah yang tadi lenyap bergeser kembali ke lubangnya masing-masing di sepanjang cangkang."
+        }
+      ]
+    },
+    {
+      "key": "D-3201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Saya akan memberi tahu anda lokasi dari Kulit-Kulit tersebut. Anda bisa mengingat sesuatu, kan? MERAGUKAN KECERDASAN ORANG ASING.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 1,
+          "text": "Sebutkan lokasinya. Saya akan mengingatnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Kalau begitu...",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 3,
+          "text": "Makhluk itu membacakan daftar lengkap Kulit Emas yang harus kami dapatkan."
+        },
+        {
+          "index": 4,
+          "text": "Jadi... Kulit Emasnya harus berasal dari seseorang yang pernah kita temui atau lewati di sepanjang jalan?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Ya, itu adalah bagian yang krusial. Pakaian kustom harus dibuat dari Kulit yang tersentuh oleh para pelanggan atau ditandai oleh perlintasan mereka.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 6,
+          "text": "Beberapa di antara yang terdaftar... sepertinya mustahil menyerahkan Kulit Emas mereka tanpa perlawanan.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 7,
+          "text": "Masalah itu untuk diatasi oleh para orang asing. Kulit Emas adalah sumber daya berharga yang diperoleh melalui penaklukan di Toko Departemen ini. PERJALANAN BERAT DIANTISIPASI.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 8,
+          "text": "Bawakan setiap Kulit Emas yang saya sebutkan, dan anak-anak saya akan membuat pakaian tersebut. PEMBAGIAN BEBAN KERJA.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 9,
+          "text": "Bagaimanapun, terima kasih... Ini sangat membantu tanpa meminta imbalan apa pun. Semua orang di atas terobsesi dengan bola mata, tahu kan...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "Tentu saja, bola mata adalah urusan terpisah. PERBARUI BUKU BESAR.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-32011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Buku besar diperbarui!",
+          "speaker": "Pengikis"
+        },
+        {
+          "index": 1,
+          "text": "Uh-huh... Benar.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Tidak ada hal di dunia ini yang datang tanpa harga. Bahkan di sini, di dalam batas Toko Departemen *ini*...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Dulu ada lebih banyak pengerja kulit—lebih banyak kulit yang bisa diolah. Sekarang hanya yang pensiun yang tersisa. Bisnis sangat sulit sampai kami mengerok daging dari sisa kulit mentah dan menjualnya per serpihan.",
+          "speaker": "Pengikis"
+        }
+      ]
+    },
+    {
+      "key": "D-32011B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampaknya jalan yang berduri terbentang di depan.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "*haah* Mau bagaimana lagi, kurasa.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Kamu menghela napas. Helaan napas itu untuk masa-masa sulit.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "Kalau begitu, membuat pakaian pasti sulit.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "Mungkin ini sekadar karena busana Pwie muda teramat sulit untuk dibuat...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 5,
+          "text": "Kenapa?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 6,
+          "text": "Apa karena aku... sekaligus mulia dan menjijikkan di Toko Departemen ini?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 7,
+          "text": "Hmm... lebih cocok disebut \"spesial\", kalau kataku.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "Kalian gak menyembahku, dan kalian gak merasa aku menjijikkan.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 9,
+          "text": "Kalian gak minta bola mata dariku. Malahan, kalian membayar bola mata buat beliin aku hal-hal.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 10,
+          "text": "Itulah kenapa kalian aneh.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 11,
+          "text": "Bahkan sekarang, kalian menghela napas... Tapi kalian tetap berusaha membuatkan pakaian untukku.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 12,
+          "text": "Sebagaimana kedengkian tak selalu lahir dari alasan, kebaikan tak perlu ditimbang di atas timbangan pedagang.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 13,
+          "text": "Pertimbangkan ini, Pwie: kamu pun peduli pada serangga ini—",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D-32011B2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bukan \"serangga\". Tapi \"Wriggley\".",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "M-maafkan saya. Kamu pun peduli pada Wriggley hingga menjaganya dari rasa sakit, bukan? Namun Wriggley tak membayar harga apa pun atas kelembutan tersebut.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Itu... karena...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "... Aku gak tahu cara njelasinnya.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "Maka mungkin kita sangat mirip dalam hal itu. Bahasa kerap kali gagal saat hati telah memilih.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 5,
+          "text": "<.......>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Aku merasa sedikit dilematis.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-32011C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bolehkah saya bertanya mengapa, Manajer?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Sebenarnya, kita...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<Di permukaan, kelihatannya kita membuat pakaian ini sepenuhnya demi Pwie, tapi...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Ya. Secara ketat, tujuan kita tidak ditujukan pada altruisme, melainkan untuk menghasilkan hasil yang berbeda dari yang sebelumnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<Benar. Tapi Pwie gak tahu hal itu.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Bahkan jika kita memberi tahu Pwie, entitas tersebut tidak akan memahami premis penuhnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<Aku tahu, tapi... rasanya tetap mengerikan, seperti kita membohongi Pwie tanpa bermaksud begitu.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Entitas yang kita panggil \"Pwie\" hanya dapat eksis di sini, seperti yang sudah anda ketahui. Ia tidak dapat eksis di luar Grand Magasin Sisyphe.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<Aku tahu... Tapi bagaimana dengan semua obrolan dan waktu yang kita habiskan bersama? Kita punya hubungan nyata dengannya sekarang.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Ini adalah dilema yang tidak memiliki jawaban. Terlalu memikirkan perasaan seperti itu hanya akan memperburuk penderitaan anda, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "<... Mungkin. Tetap saja... aku gak mau berpaling dari apa yang kurasakan...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "... Dimengerti.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-3205",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pemrosesan selesai.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3212",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini adalah tempat penyamakan kulit. Tempat ini memproses berbagai perawatan pada kulit untuk mencegahnya membusuk.",
+          "speaker": "Penyamakan"
+        }
+      ]
+    },
+    {
+      "key": "D-3213",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ketika, setelah meletakkan tanganku di atas pegangan kulit eskalator... kecepatan pegangan itu tepat sesuai dengan kecepatanku...",
+          "speaker": "Pemelihara"
+        }
+      ]
+    },
+    {
+      "key": "D-3214",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pelanggan tingkat atas kembali membawa setiap Kulit Emas yang diperlukan. KETAKJUBAN DAN PUJIAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 1,
+          "text": "Saya tak mengambil bagian dalam pengumpulan... Saya akan dengan senang hati menyampaikan pujian itu kepada mereka yang menanggung bebannya.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Sekarang kamu bisa buat pakaian Kulit Emasnya, kan?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Pakaian mewah Kulit Emas tidak bisa dibuat hanya dengan jepretan jari. AKAL SEHAT PELANGGAN KURANG.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 4,
+          "text": "Maksudmu mengumpulkan bahan bukanlah satu-satunya tugas?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Apakah para pelanggan belum pernah memesan pakaian kustom? KETIDAKPAHAMAN MENINGKAT.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 6,
+          "text": "... Enggak, belum pernah. Kamu tahu berapa harga satu setel jas kustom di dalam Nest?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "... Pelanggan tampaknya kurang kaya dari yang terlihat di awal. STATUS DITURUNKAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 8,
+          "text": "... Dia tampaknya semakin jujur pada setiap kata yang terucap...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 9,
+          "text": "Semua kulit melewati tahap pemrosesan. Pengamatan proses. Langkah pertama adalah mendapatkan ukuran mereka. PENGUKURAN PRAKTIS DIPRIORITASKAN.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 10,
+          "text": "Penyamakan melakukan pengukuran. Anda bisa menemukannya di ruangan sebelah sana. DIARAHKAN DENGAN BAIK.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3215",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah kehormatan menerima kalian, para orang asing.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 1,
+          "text": "Kalian datang untuk memesan pakaian kustom dari Kulit Emas, bukan?",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 2,
+          "text": "Bolehkah saya bertanya siapa yang bakal memakainya?",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 3,
+          "text": "Anak ini.",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D-3215B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Kami membuat pakaian menyesuaikan tubuh itu sendiri, memperbaiki setiap kekurangan dan membiarkan setiap kelebihan unjuk gigi. Pakaian jadi hanyalah sebuah kompromi yang dipotong secara masal.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 2,
+          "text": "Nah, jenis kerah mana yang sesuai dengan preferensi Anda? Notched? Peak? Semi-peak? Atau mungkin fish mouth?",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "Apaan it—",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "<Nggak, nggak! Istirahat sebentar! Bakal makan waktu seharian kalau begini terus. Kita lewati penjelasannya dan langsung buat saja.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Gunakan penilaian anda. Kami serahkan kepada anda.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "...! Penilaian saya...! Itu artinya... buatan penjahit...!",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 8,
+          "text": "Baiklah. Saya bakal mengerahkan setiap bakat yang saya miliki ke jarum ini dan tidak membiarkan detail apa pun terlewat.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 9,
+          "text": "Sekarang, pengukurannya. Lewat sini, silakan.",
+          "speaker": "Penyamak"
+        }
+      ]
+    },
+    {
+      "key": "D-3215C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan serangkaian gerakan yang memukau, sang Penyamakan memutarkan pita pengukur di sekitar Pwie dan mulai mengambil ukurannya."
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "Ukur Wriggley juga.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "Sesuai keinginanmu.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 4,
+          "text": "... Saya paham sekarang. Tampaknya, pelanggan yang terhormat, yang tersisa untukmu...",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 5,
+          "text": "... adalah tumbuh bersama pakaian ini... dan melampauinya.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 6,
+          "text": "... Mhm.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 7,
+          "text": "Kalian bakal sibuk mulai dari sini.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 8,
+          "text": "Setiap kali kulit seberharga ini masuk ke pemrosesan... sisa-sisa kasar bakal berkumpul, berharap mendapatkan keuntungan cepat darinya.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 9,
+          "text": "Sisa-sisa dari kulit yang tidak pernah disamak dengan benar...",
+          "speaker": "Penyamak"
+        }
+      ]
+    },
+    {
+      "key": "D-3215D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jaga mereka agar tidak menyentuh karya ini walau satu jari pun, tolong.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 1,
+          "text": "<Meursault! Ada musuh mendekat dari segala arah!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Dimengerti, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-32151",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Selesai. Sudah jadi.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 1,
+          "text": "Lumayan banyak kerumunan yang berkumpul untuk pengukuran hari ini.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 2,
+          "text": "Meski kami tak melakukan apa pun selain mengikuti di belakang... desakan tubuh-tubuh itu seakan merenggut napas kami.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Kita ga harus melakukan ini untuk setiap tahap prosesnya, kan?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Pola sudah selesai. Satu kali lewat di bawah jarum, dengan sedikit jahitan dan pemotongan, maka pakaian akan selesai.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 5,
+          "text": "Pergilah ke Ruang Pemotongan dan jalankan mesinnya. Dan awasi para pelanggan yang mengejar kulit ini. Mereka bisa menjadi... agak keras.",
+          "speaker": "Penyamak"
+        },
+        {
+          "index": 6,
+          "text": "Setelah semua bagian dipotong, bawa ke luar dan minta sang Pemelihara menjahitnya.",
+          "speaker": "Penyamak"
+        }
+      ]
+    },
+    {
+      "key": "D-3216",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Ini pasti mesin pemotongnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Mengaktifkan perangkatnya sekarang, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "...! Ada sesuatu yang datang.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Emas... Emas... Kulit Emas... Menginginkan... Kulit itu...",
+          "speaker": "Kulit Merangkak"
+        },
+        {
+          "index": 4,
+          "text": "Tampaknya mereka mendambakan Kulit Emas yang sedang kita proses...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 5,
+          "text": "<Ayo jauhkan mereka sampai mesinnya selesai memproses.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-3217",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kami diberitahu bahwa pakaian Kulit Emas bisa dijahit di sini...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "... Suara mendebarkan nan tajam saat kain masuk ke mesin jahit yang panas. Sensasi mengupas lapisan pelindung dari barang belanjaan baru dalam sekali taaarik. Robekan bersih yang memuaskan saat struk terobek tepat di sepanjang garis putus-putus...",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 2,
+          "text": "... Permainan macam apa yang sedang kita mainkan sekarang?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-3217B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Permainan? Aku mau main juga.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-3217C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku menyebutkan pikiran yang membuat otak merasa senang hanya dengan membayangkannya...",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 1,
+          "text": "Sensasi lembap dan licin setiap kali aku menyentuh Wriggley.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-3217D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Melihat ke depan dan tahu ada seseorang yang bisa aku ikuti.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-3217E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa yang aku rasakan saat dia yang rantainya Gemerincing menengok ke belakang buat memastikan aku masih mengikuti.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-3217F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Kamu benar-benar melakukan itu?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-3217G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ya.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-3217H",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Melihat semua orang menghela napas dan mengeluh... lalu tetap mengumpulkan bahan karena pakaian itu buat aku.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-3217I",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-3217J",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mmm... ya. Semuanya pikiran yang menyenangkan, milikmu itu.",
+          "speaker": "Pemelihara"
+        }
+      ]
+    },
+    {
+      "key": "D-3217K",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mempikirkannya membuatku merasa senang. Aku akan menjahit Kulit Emas ini ke pakaianmu mumpung rasa senang ini masih bertahan.",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 1,
+          "text": "*sreep* *hap*",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 2,
+          "text": "... *Itu* yang dianggap jaitan di sini?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Nona Ishmael, setiap orang... tidak, setiap karyawan Toko Departemen ini pasti memiliki teknik menjahitnya sendiri...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "*hap* *nyam* *slurp*",
+          "speaker": "Pemelihara"
+        }
+      ]
+    },
+    {
+      "key": "D-3217L",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lebih banyak yang datang. Mereka menginginkan pakaianku.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Tapi bukankah mereka... para Rouge?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Para Rouge yang dibutakan oleh sinar matahari.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Apa yang membuat mereka begitu memikat hingga mereka akan menyerang bahkan entitas yang berniat mereka junjung?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "Kebutaan mereka menghalangi mereka untuk membedakan apa yang harus dilakukan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<Serahkan padamu lagi, Meursault.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Dimengerti.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-32171",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Selesai... hampir jadi. Satu bahan terakhir dan ini bakal lengkap.",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Kamu tahu berapa putaran yang sudah kita lalui di Toko Departemen ini untuk cari bahan? Aku gak ada di setiap putaran, tentu saja, tapi tetap saja...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Aduh... Suasana hatiku memburuk sekarang... Tapi kalian sebenarnya sudah punya... bahan yang kalian butuhkan...",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 4,
+          "text": "Oh, kita sudah punya? Yah, kenapa kamu gak bilang dari awal—",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-32171B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kepompong Emas.",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 1,
+          "text": "Kepompong Emas harus diperas untuk diambil ekstraknya, yang akan digunakan untuk melukisi pakaian tersebut. Delapan putaran kuat seharusnya bisa memeras hampir semua yang ada di dalamnya.",
+          "speaker": "Pemelihara"
+        }
+      ]
+    },
+    {
+      "key": "D-32171C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lalu apa yang akan terjadi pada Wrigg—tidak, kepompong itu?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Tugasnya sebagai kepompong akan selesai, dan hanya selongsong kosong yang tersisa. Tetap saja, cangkang kosong seharusnya terasa menyenangkan saat disentuh, heh heh... Lembut dan terkulai...",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 2,
+          "text": "Pasti ada cara lain. Bahan pengganti, mungkin, atau proses lain...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Apa saja boleh, asalkan Kepompong bisa dimasukkan ke dalam pakaian... Menyatu dengannya juga bisa berhasil. Artinya, si pemakai bisa langsung... menelannya bulat-bulat.",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 4,
+          "text": "Uh...",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-32171D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Apa Wriggley bakal mati?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Ya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Gara-gara pakaian baruku?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "... Benar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Kalau gitu... aku gak mau lagi.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-32171E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh tidak... Kita tinggal selangkah lagi dari penyelesaian. Tidak ada yang akan merasa senang jika kamu berhenti sekarang.",
+          "speaker": "Pemelihara"
+        }
+      ]
+    },
+    {
+      "key": "D-32171F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Aku gak mau!",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-32172",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie menerjang ke depan dan merebut kepompong yang melayang di atas bahu Meursault."
+        },
+        {
+          "index": 1,
+          "text": "Mereka menimang Wriggley di kedua tangan dan menatap tajam ke arah Pemelihara seolah-olah dia hendak mengambil kepompong itu."
+        }
+      ]
+    },
+    {
+      "key": "D-32172A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Gak ada yang bisa memaksa kalau kamu benar-benar gak menginginkan pakaian itu... Tapi kamu butuh pakaian itu untuk masuk ke lantai lima, kan?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Kamu gak apa-apa kalau gak naik ke atas?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Itu... itu gak boleh terjadi juga...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "Kalau aku gak naik... aku bakal mengecewakan semuanya. Aku gak bakal bisa buat suaraku terdengar... Aku gak bakal bisa melangkah maju...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "Tujuan aku dilahirkan... hal yang seharusnya aku jadi... apa yang diharapkan semua orang dariku... semua orang yang padam gara-gara aku...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "... Kamu pasti sangat tertekan. Persimpangan jalan ini terlampau kejam untuk dipilih oleh anak kecil mana pun.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 6,
+          "text": "<... Ayo kembali ke B1. Menggeledah Shore mungkin seperti mencari jarum di tumpukan jerami, tapi kita mungkin bisa menemukan larva hidup lain yang masih punya kepompong.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Kemungkinannya rendah.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Tapi Pwie sangat menyayanginya. Aku gak tahu ya, menyuruh anak kecil membunuhnya itu benar-benar...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "Mungkin langka, tapi pasti ada satu lagi di suatu tempat. Kita bisa terus mencari.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 11,
+          "text": "Baiklah kalau gitu. Ayo kita kembali ke atas, Pwie.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "... Enggak, aku gak bisa tetap di lantai bawah. Aku... aku dilahirkan karena... aku seharusnya... aku...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 13,
+          "text": "Aku gak bisa menunda ini lagi.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 14,
+          "text": "Pwie...?",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D-32172B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Harus mengisi. Kosong. Berawal dari kosong... Gak cukup. Gak ada apa-apa. Harus mengisi.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Pwie, kamu bicara apa? Ucapanmu gak masuk akal. Kamu lagi gak enak badan atau...",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-32173",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie meringkuk, gemetar hebat di atas lantai."
+        },
+        {
+          "index": 1,
+          "text": "Suara yang keluar dari mereka terdengar sama takut dan terpesonanya, seolah-olah mereka telah dirasuki sesuatu."
+        },
+        {
+          "index": 2,
+          "text": "Reaksi itu, gemetaran yang licin dengan hasrat telanjang... Sangat mirip dengan... nafsu makan murni tak tersaring yang pernah kurasakan lewat Don Quixote."
+        },
+        {
+          "index": 3,
+          "text": "<Pwie, tunggu. Kembalikan Wriggley ke Meursault dulu...!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Lapar.... Aku sangat lapar...",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-32173A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<i>*skriiiii*</i>",
+          "speaker": "Kepompong"
+        },
+        {
+          "index": 1,
+          "text": "... Ghhh!!",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "<... Sudah terlambat.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-32174",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dikuasai oleh kelaparan dan ketamakan yang tampaknya tak pernah mereka rasakan sebelumnya,"
+        },
+        {
+          "index": 1,
+          "text": "Pwie merobek kepompong yang selama ini mereka hargai, menelannya dengan lahap dan kalap sebelum ada yang sempat mencegah."
+        },
+        {
+          "index": 2,
+          "text": "Yang bisa kami lakukan... hanyalah berdiri di sana dan menonton."
+        },
+        {
+          "index": 3,
+          "text": "Hei... Kita pernah melihat ini sebelumnya, kan? Ini adalah hasrat yang sama untuk...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "... Mungkin sudah ada tanda-tanda peringatannya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Para Rouge telah mengonsumsi Toko Departemen hingga habis.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<Dan Pwie... terus-menerus bilang kalau dia lapar.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "<Apa dia menahannya selama ini...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Pwie... Kamu gak apa-apa?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-32174A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Pwie menatap kosong ke arah potongan basah Wriggley yang menggantung di antara jari-jari mereka seolah-olah baru saja sadar kembali."
+        },
+        {
+          "index": 2,
+          "text": "Seakan menoleh ke belakang pada apa yang telah mereka perbuat dan mendapati penyesalan menunggu di sana."
+        },
+        {
+          "index": 3,
+          "text": "Pelanggan telah memakan kepompongnya! Sekarang kita bisa menyelesaikan pembuatan pakaian dari Kulit Emas ini.",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 4,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "Aku... aku pikir akulah orang yang gak bakal menyakiti Wriggley.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 6,
+          "text": "Aku gak pernah mau...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 7,
+          "text": "... tapi semuanya berubah jadi merah. Aku sangat lapar... dan sangat kesepian...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 8,
+          "text": "<…….>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "... Aku gak bakal bisa ketemu Wriggley lagi, kan?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 10,
+          "text": "... Pwie, jika kamu menghendakinya... Kami bisa menggeledah tempat ini untuk mencari kepompong lain yang bentuknya identik dengan Wriggley. Namun...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 11,
+          "text": "Itu tidak akan menjadi Wriggley... melainkan sekadar kepompong lainnya.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 12,
+          "text": "…….",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-32175",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Nah... Siap meluncur. Pakaian Kulit Emas sudah dijahit~ Hi hi. Begitu Manajer Lantai memberikan pemeriksaan akhir, pakaian ini akhirnya akan selesai.",
+          "speaker": "Pemelihara"
+        },
+        {
+          "index": 1,
+          "text": "Hasilnya bagus... Satu hal lagi yang bisa masuk ke dalam daftar kenangan menyenangkanku.",
+          "speaker": "Pemelihara"
+        }
+      ]
+    },
+    {
+      "key": "D-3218",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Saya lihat anak-anak saya telah menyelesaikan pakaian Kulit Emas tersebut. KILAU YANG MENARIK.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 1,
+          "text": "Ya. Berapa hargamu?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Pemeriksaan akhir harus dilakukan di sini. Harap tunggu. MOTIVASI MENINGKAT.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3221",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ah, jadi seperti ini rasanya. Seratnya terjaga dengan indah. Adibusana emas, setelah sekian banyak musim... wajah-wajah saya berdenyut. PEMERIKSAAN JAHITAN SELESAI.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 1,
+          "text": "Bisa dikembalikan kalau kamu sudah selesai?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Tunggu sebentar... pemeriksaan terakhir untuk benang lepas, noda, atau kontaminasi...",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 3,
+          "text": "Tentu saja, tidak ada cacat yang akan ada. Proses kami tanpa cela... KETAMAKAN MELAMPAUI TINGKAT AMAN.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3221A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Ia tampak memeluk pakaian itu makin erat setiap kali napas berembus...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Kembalikan. Kami bakal bayar berapa pun bola mata yang kamu mau...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Anda tahu bahwa bola mata tidak cukup... untuk menjadi pemilik Kulit Emas. FAKTA DIREVISI.",
+          "speaker": "Pengawas"
+        },
+        {
+          "index": 4,
+          "text": "Terlalu bagus untuk para orang asing. Ini adalah Adibusana Emas, karya terbaik kami. Tidak ada yang boleh memilikinya... MEMULAI SERANGAN.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3221B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Oh, demi apa pun—",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D-3223",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak perlu mengaktifkan mesinnya lagi."
+        }
+      ]
+    },
+    {
+      "key": "D-3225",
+      "texts": [
+        {
+          "index": 0,
+          "text": "(임시) 공정이 끝나기 전엔 여기를 떠날 수 없다.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-3226",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hanya setelah membunuh Pengawas, kami akhirnya bisa mengambil kembali pakaian Kulit Emas yang sudah jadi."
+        }
+      ]
+    },
+    {
+      "key": "D-PB-CONTROLLER",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Adibusana emas yang terbuat dengan sangat sempurna... Tidak bisa membiarkan kalian para orang asing memilikinya. SEMUA WAJAH MENCAPAI TINGKAT KETAMAKAN MAKSIMAL.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3227",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*skri*",
+          "speaker": "Kepompong"
+        },
+        {
+          "index": 1,
+          "text": "Seseorang lagi yang gak aku kenal.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "Apa-apan... Ada apa dengan semua ini? Heathcliff terus-menerus bicara soal mengasuh anak, jadi aku cuma menganggapnya sebagai omelan biasanya, dan ternyata...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "<... Ceritanya panjang. Meursault, bisa jelaskan padanya apa yang terjadi?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "... Ya, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Meursault memberi tahu Ishmael tentang apa yang terjadi."
+        },
+        {
+          "index": 6,
+          "text": "Sementara itu, tempat ini adalah lantai bawah tanah terakhir."
+        },
+        {
+          "index": 7,
+          "text": "Baik Meursault maupun aku belum pernah mencapai tempat ini sebelumnya."
+        },
+        {
+          "index": 8,
+          "text": "Di sinilah kami harus membentuk Kain Kafan Emas Pwie—sebuah pakaian yang terbuat dari Kulit Emas."
+        },
+        {
+          "index": 9,
+          "text": "Apa yang bakal terjadi jika Pwie memasuki lantai lima sambil memakainya masih menjadi teka-teki."
+        },
+        {
+          "index": 10,
+          "text": "Tapi ketidakpastian itulah intinya. Kami butuh kesempatan untuk membuat sesuatu, apa pun itu, berubah menjadi berbeda."
+        },
+        {
+          "index": 11,
+          "text": "Memang, kunci menuju lantai lima adalah anak itu berbusanakan pakaian yang dibentuk dari Kulit Emas...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 12,
+          "text": "Dan karena semua orang di sini tampaknya sangat ingin memiliki Kulit Emas, membuat pakaian ini gak bakal jadi hal yang mudah.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "Apa kita masih punya cukup bola mata? Kita harus menghitungnya sebelum ada yang mulai meminta harga selangit...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 14,
+          "text": "Ishmael tampak siap menyeimbangkan buku besar hingga bola mata terakhir."
+        },
+        {
+          "index": 15,
+          "text": "Tunggu. Kita bayar mahal dengan bola mata... demi satu barang ini? *haah*",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 16,
+          "text": "<Maksudku, itu pilihan terbaik yang kita punya saat itu...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 17,
+          "text": "Harganya telah dibayar. Tak banyak pilihan selain memanfaatkan pembelian ini dengan baik...",
+          "speaker": "Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D-3228",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mayat seorang Rouge."
+        }
+      ]
+    },
+    {
+      "key": "D-3229",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jahitannya telah robek semua, meninggalkannya dalam keadaan hancur berantakan."
+        }
+      ]
+    },
+    {
+      "key": "D-3230",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Beberapa potong kulit yang terbelah tipis tergantung di rak."
+        }
+      ]
+    },
+    {
+      "key": "D-3231",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan-potongan itu telah diiris begitu tipis hingga sisi sebelahnya terlihat."
+        }
+      ]
+    },
+    {
+      "key": "D-3232",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini masih berdarah, membasahi tanah di bawahnya."
+        }
+      ]
+    },
+    {
+      "key": "D-3233",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kulit yang tebal dan berisi. Kelihatannya cukup berat."
+        }
+      ]
+    },
+    {
+      "key": "D-3234",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan kulit ini lembap saat disentuh."
+        }
+      ]
+    },
+    {
+      "key": "D-3235",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan kulit ini telah dikeringkan dan menyusut menjadi tumpukan keriput."
+        }
+      ]
+    },
+    {
+      "key": "D-3236",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Penampang dari potongan kulit ini terlihat seolah-olah telah dipotong oleh pisau yang sangat tajam."
+        }
+      ]
+    },
+    {
+      "key": "D-3237",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Penampang dari potongan kulit ini—jika bisa disebut begitu—dengan jelas menunjukkan kalau kulit ini telah dirobek oleh pisau tumpul."
+        }
+      ]
+    },
+    {
+      "key": "D-3238",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada banyak... bintil-bintil pada potongan kulit ini. Kulit ini mengeluarkan bau yang sangat busuk."
+        }
+      ]
+    },
+    {
+      "key": "D-3239",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kulit manusia yang dibentangkan untuk dikeringkan."
+        }
+      ]
+    },
+    {
+      "key": "D-3240",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada bintik-bintik darah menghitam dengan tanda-tanda perubahan warna yang jelas di dalamnya."
+        }
+      ]
+    },
+    {
+      "key": "D-3241",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada lubang-lubang aneh mirip insang di area rahang."
+        }
+      ]
+    },
+    {
+      "key": "D-3242",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan-potongan kulit ini masih mempertahankan rona kemerahannya. Pasti baru saja dikuliti."
+        }
+      ]
+    },
+    {
+      "key": "D-3243",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mengangkat sedikit sudutnya langsung melepaskan desakan bau busuk yang menjijikkan."
+        }
+      ]
+    },
+    {
+      "key": "D-3244",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada bagian kulit yang berwarna *hijau* di dalamnya. Pasti sudah membusuk."
+        }
+      ]
+    },
+    {
+      "key": "D-3245",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mengangkat sedikit sudutnya langsung melepaskan desakan bau busuk yang menjijikkan."
+        }
+      ]
+    },
+    {
+      "key": "D-3246",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mungkinkah ini kulit yang dibuang, seperti tumpukan pakaian yang dibuang di sudut-sudut lantai satu...?"
+        }
+      ]
+    },
+    {
+      "key": "D-3247",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan-potongan kulit. Pasti disimpan untuk digunakan sebagai tambalan ekstra."
+        }
+      ]
+    },
+    {
+      "key": "D-3248",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Yang satu ini masih memiliki kuku jari..."
+        }
+      ]
+    },
+    {
+      "key": "D-3249",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan-potongan kulit yang berserakan sembarangan."
+        }
+      ]
+    },
+    {
+      "key": "D-3250",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bintik-bintik merah gelap dari darah kering telah menangkap beberapa helai rambut."
+        }
+      ]
+    },
+    {
+      "key": "D-3251",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini penuh dengan kulit yang melunak."
+        }
+      ]
+    },
+    {
+      "key": "D-3252",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Catatan itu berbunyi: [PEMBUANGAN]."
+        }
+      ]
+    },
+    {
+      "key": "D-3253",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pasti sudah lama sejak ini digunakan. Sebagian darinya telah berkarat."
+        }
+      ]
+    },
+    {
+      "key": "D-3254",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lebih mirip taksidermi daripada kulit."
+        }
+      ]
+    },
+    {
+      "key": "D-3255",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan kulit ini benar-benar berkilau. Kelihatannya berkualitas lebih tinggi daripada yang sedang dikeringkan di luar."
+        }
+      ]
+    },
+    {
+      "key": "D-3256",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ekspresinya terlihat menyenangkan, potongan kulit wajah ini..."
+        }
+      ]
+    },
+    {
+      "key": "D-3257",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak berbau apa-apa. Pasti sudah melalui sejenis proses perawatan."
+        }
+      ]
+    },
+    {
+      "key": "D-3258",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Setiap helai rambut berkilau dengan vitalitas. Terlihat hidup."
+        }
+      ]
+    },
+    {
+      "key": "D-3259",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan kulit ini masih cukup lembap."
+        }
+      ]
+    },
+    {
+      "key": "D-3260",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dari mana datangnya semua potongan kulit ini?"
+        }
+      ]
+    },
+    {
+      "key": "D-3261",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kulit manusia yang dibentangkan untuk dikeringkan."
+        },
+        {
+          "index": 1,
+          "text": "... Ini menjijikkan.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Ini seolah-olah mereka telah *membuka* tubuh tersebut, mirip dengan bangun datar dari sebuah polihedron, hanya saja manusia...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Pemandangan ini sangat tidak pantas untuk dilihat oleh anak-anak.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "Yi Sang bergeser secara hati-hati ke samping, menghalangi Pwie dari melihat potongan kulit tersebut."
+        },
+        {
+          "index": 5,
+          "text": "Namun jika mempertimbangkan di mana kita berada... aku tidak berpikir itu bakal membawa banyak dampak."
+        }
+      ]
+    },
+    {
+      "key": "D-3262",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ugh... Bau itu... Bahkan lebih buruk dari bau Paus.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "*endus* *endus*",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "Baunya enak.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "... Serius? Bau *ini*?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Mhm. Baunya gurih dan kaya rasa.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "Bukan hal yang tidak lumrah bagi mereka untuk menganggapnya demikian.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "Dehidrasi makanan adalah proses di mana rasa unik dari bahan tersebut dapat disampaikan secara lebih jelas.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Apa baunya terasa lezat buatmu juga, Meursault?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 8,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Sekiranya ini adalah dendeng dan bukannya kulit... Saya membayangkan baunya akan terasa enak bagi saya juga.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "Apa bedanya?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 11,
+          "text": "Meursault secara sabar menjawab pertanyaan Pwie yang terus berdatangan."
+        }
+      ]
+    },
+    {
+      "key": "D-3263",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Udara keluar dari tumpukan kulit dengan suara *szzz*."
+        },
+        {
+          "index": 1,
+          "text": "<... Ada apa di dalam sana? Meursault, ayo kita lihat.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Meursault mengangkat tumpukan kulit, dan suara udara yang keluar perlahan berubah menjadi derak napas di telinga kami."
+        },
+        {
+          "index": 3,
+          "text": "Setelah melakukan pencarian, kami berhasil menemukan potongan kulit yang menghasilkan suara itu."
+        },
+        {
+          "index": 4,
+          "text": "... Kata-kata \"Pengkhianat menjijikkan,\" terukir di sini, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Meursault membuka gulungan potongan kulit itu. Bentuk utuhnya kini terlihat. ... \"mulutnya\" membuka dan menutup, berusaha menyampaikan sesuatu."
+        },
+        {
+          "index": 6,
+          "text": "<Apa ia... mengatakan sesuatu? Apa yang dikatakannya?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "... \"Tolong robek aku.\" Secara berulang-ulang.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<…>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "<Mari lakukan sesuai permintaannya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 10,
+          "text": "Baik, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Meursault menarik potongan kulit itu, perlahan merobeknya menjadi dua bagian."
+        },
+        {
+          "index": 12,
+          "text": "Kulit itu tersenyum gembira saat kulitnya perlahan dirobek."
+        }
+      ]
+    },
+    {
+      "key": "D-3264",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kelihatannya seperti... instalasi yang jaringan kulitnya telah dihilangkan."
+        }
+      ]
+    },
+    {
+      "key": "D-3265",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku bisa merasakan hembusan udara terkecil keluar dari mulutnya. Ia masih hidup."
+        }
+      ]
+    },
+    {
+      "key": "D-3266",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kulit terkelupas yang telah ditarik hingga membentuk sepasang sayap."
+        }
+      ]
+    },
+    {
+      "key": "D-3267",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jaringan kulit yang meleleh telah menyatu dengan lantai."
+        }
+      ]
+    },
+    {
+      "key": "D-3268",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan kulit ini pasti baru saja diangkat dari pemrosesan. Ini masih cukup hangat saat disentuh."
+        }
+      ]
+    },
+    {
+      "key": "D-3269",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sangat sulit untuk melihat apa yang ada di dalam tong gelap ini."
+        }
+      ]
+    },
+    {
+      "key": "D-3270",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hampir terdengar seolah-olah sedang mengerang kesakitan."
+        }
+      ]
+    },
+    {
+      "key": "D-3271",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini adalah bejana besar... atau tong yang mampu memproses sejumlah besar kulit sekaligus."
+        }
+      ]
+    },
+    {
+      "key": "D-3272",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini telah terbelah menjadi banyak lapisan yang sangat tipis, membuatnya sulit ditebak bentuk aslinya."
+        }
+      ]
+    },
+    {
+      "key": "D-3273",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bercak-bercak rambut mencair dan meleleh dari kulit yang terendam bahan kimia."
+        }
+      ]
+    },
+    {
+      "key": "D-3274",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bau menyengat yang tajam menusuk hidung."
+        }
+      ]
+    },
+    {
+      "key": "D-3275",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cairan kimia berdesir di dalamnya. Menyentuhnya jelas akan memberikan... efek buruk bagi kulit."
+        }
+      ]
+    },
+    {
+      "key": "D-3276",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cairan ini berbau asam."
+        }
+      ]
+    },
+    {
+      "key": "D-3277",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan-potongan kulit ini ditarik kencang."
+        }
+      ]
+    },
+    {
+      "key": "D-3278",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apakah mereka sedang melalui sejenis proses perawatan khusus?"
+        }
+      ]
+    },
+    {
+      "key": "D-3279",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah bejana berisi cairan, dengan berbagai sisa-sisa yang setengah meleleh bercampur ke dalam darah."
+        }
+      ]
+    },
+    {
+      "key": "D-3280",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Gelembung-gelembung mengapung dengan malas di atas cairan kental sebelum akhirnya pecah."
+        }
+      ]
+    },
+    {
+      "key": "D-3281",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku menyadari adanya lapisan lemak putih yang mengapung di antara cairan berminyak."
+        }
+      ]
+    },
+    {
+      "key": "D-3282",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Apa ada sesuatu yang melelehkan lantainya?"
+        }
+      ]
+    },
+    {
+      "key": "D-3283",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Baunya menjijikkan."
+        }
+      ]
+    },
+    {
+      "key": "D-3284",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan-potongan daging yang tak dikenali mengapung di sekitar cairan."
+        }
+      ]
+    },
+    {
+      "key": "D-3285",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini jelas merupakan campuran bahan kimia yang sangat beracun."
+        }
+      ]
+    },
+    {
+      "key": "D-3286",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Menangkap sekilas gumpalan putih besar yang ditumbuhi rambut."
+        }
+      ]
+    },
+    {
+      "key": "D-3287",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apakah anda seorang pelanggan? Tunggu di sini, biarkan saya mengambil buku besar saya.",
+          "speaker": "Pengikis"
+        }
+      ]
+    },
+    {
+      "key": "D-3288",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mencium aroma dari pelanggan bermartabat tinggi. Orang asing berduit selalu disambut.",
+          "speaker": "Pengawas"
+        }
+      ]
+    },
+    {
+      "key": "D-3289",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Darah hitam yang kental merembes keluar dari setiap pori-porinya."
+        }
+      ]
+    },
+    {
+      "key": "D-3290",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada potongan-potongan daging yang mencuat dari kulit yang ditambal secara asal-asalan."
+        }
+      ]
+    },
+    {
+      "key": "D-3291",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tengkorak yang hancur seperti semangka. Ada potongan kecil rambut yang masih menempel padanya."
+        }
+      ]
+    },
+    {
+      "key": "DDS801",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sangat tak terduga untuk jatuh di bawah serangan sang pengrajin.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Oke, jadi kalau dia mengguncang tubuhnya, uh... *orang-orang* merayap keluar dari lubangnya. Perilakunya mengejutkan mirip dengan Paus dari Tangan Berpori, cuma bedanya bukan di habitat biasanya di Great Lake.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<Setidaknya Mermaid kecil itu terikat pada Paus...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Apakah anda akan menyesuaikan strategi anda?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<Uh…>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<Ayo coba berhati-hati saat dia bersiap untuk menerjang kita.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Dan... ya, dengan cepat bantai kroco-kroconya yang merayap keluar dari punggungnya.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-3292",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suatu kehormatan bisa mengerjakan kulit berharga semacam ini setelah sekian lama kekeringan bahan. Rawatlah dengan baik.",
+          "speaker": "Penyamak"
+        }
+      ]
+    },
+    {
+      "key": "D-3293",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Telapak tangannya melengkung ke dalam, seolah-olah masih menggenggam sesuatu."
+        }
+      ]
+    },
+    {
+      "key": "D-3294",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Kita harus pergi dari sini. Kurasa tempat ini menangkap tangisan kematian kepompong... dan sekarang ia mengikuti suaranya lurus kembali ke arah kita.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Mencoba lari? Kamu tak akan bisa melepaskan diri dari Wailer kecuali Suara itu memberikan angin di punggungmu.",
+          "speaker": "Pengikis"
+        },
+        {
+          "index": 2,
+          "text": "<Sudah dekat. Aku gak peduli apa kita bakal sampai di toilet atau lantai atas—kita harus pergi *sekarang*. Meursault! Lakukan tugasmu!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Itu akan dilaksanakan.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "SO-3038_A2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...Bau minyak yang kuat menggantung di udara. Tidak ada yang membangkitkan selera darinya."
+        }
+      ]
+    },
+    {
+      "key": "SO-3123_B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kulit yang terendam minyak ini mengering."
+        }
+      ]
+    },
+    {
+      "key": "SO-3122_B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Minyak keruh berwaspada aneh berkeretak dan memercik seolah-olah berada di ambang mendidih."
+        }
+      ]
+    },
+    {
+      "key": "SO-3300",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suara-suara dapat terdengar di antara bayang-bayang yang melintas."
+        },
+        {
+          "index": 1,
+          "text": "Sejauh apa kamu mau melangkah cuma demi satu kulit tak berguna ini?",
+          "speaker": "Pelanggan Tak Sabar"
+        },
+        {
+          "index": 2,
+          "text": "Musim bakal segera berganti dan kita dijadwalkan pindah ke atas... gak bisakah kita bawa sebarang kulit tua saja?",
+          "speaker": "Pelanggan Tak Sabar"
+        },
+        {
+          "index": 3,
+          "text": "Nggak. Pastinya enggak.",
+          "speaker": "Adamant Customer"
+        },
+        {
+          "index": 4,
+          "text": "Makin sering kamu membiasakan diri memakai kulit itu... makin kulit itu membentuk dirinya sesuai dirimu.",
+          "speaker": "Adamant Customer"
+        },
+        {
+          "index": 5,
+          "text": "Warnanya, lipatannya, bahkan cara bergesernya... semuanya mulai meniru diriku!",
+          "speaker": "Adamant Customer"
+        },
+        {
+          "index": 6,
+          "text": "Kulit-kulit di sebelah sana... belum dibiasakan denganku.",
+          "speaker": "Adamant Customer"
+        }
+      ]
+    },
+    {
+      "key": "SO-3301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sosok samar dari seorang pelanggan terus berlama-lama di tempat yang sama."
+        }
+      ]
+    },
+    {
+      "key": "D-3501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...Bau minyak yang kuat menggantung di udara. Tidak ada yang membangkitkan selera darinya."
+        }
+      ]
+    },
+    {
+      "key": "D-3503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Menemukan beberapa bola mata yang terkubur di antara potongan daging."
+        }
+      ]
+    },
+    {
+      "key": "D-3502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Catatan itu berbunyi: [PEMBUANGAN]."
+        }
+      ]
+    },
+    {
+      "key": "D-3505",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kulit yang terendam minyak ini mengering."
+        }
+      ]
+    },
+    {
+      "key": "D-3504",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Minyak keruh aneh beriak dan memercik seolah-olah berada di ambang mendidih."
+        }
+      ]
+    }
+  ]
+}
