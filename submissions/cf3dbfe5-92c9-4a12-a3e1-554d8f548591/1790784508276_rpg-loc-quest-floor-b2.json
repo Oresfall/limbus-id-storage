@@ -1,0 +1,212 @@
+{
+  "dataList": [
+    {
+      "key": "Q-2000",
+      "title": "Jelajahi B2F",
+      "description": "Kita udah sampai di B2F. Ayo lanjut jalan terus.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2001",
+      "title": "Pergi ke Sarang Untaian",
+      "description": "Kita udah berhasil turun sampai ke B2F. Kakaknya Kromer sempat nyebutin tempat yang namanya Sarang Untaian. Ayo kita menuju ke arah kiri.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Sarang Untaian di Sebelah Kiri"
+        }
+      ]
+    },
+    {
+      "key": "Q-2002",
+      "title": "Tinggalkan Restroom",
+      "description": "Kita tadinya mau coba ke Sarang Untaian, tapi monster raksasa ngejar lalu membunuh kita. Kelihatannya monster itu mengincar Kepompong Emas yang kita bawa. Buat sekarang, ayo kita tinggalkan Restroom dulu dan cari jalan lain.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tinggalkan Restroom"
+        }
+      ]
+    },
+    {
+      "key": "Q-2003",
+      "title": "Pergi ke Sarang Untaian (2)",
+      "description": "Kelihatannya monsternya udah menjauh buat sementara. Ayo manfaatin kesempatan ini buat kabur lagi ke Sarang Untaian.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Sarang Untaian"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004",
+      "title": "Bicara dengan Manajer Lantai B2F",
+      "description": "Kita berhasil sampai di Sarang Untaian dengan selamat. Manajer Lantai B2F ada di sini. Ayo kita tanya apa Kepompong Emas ini bisa dipintal jadi Benang Emas.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Manajer Lantai B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2005",
+      "title": "Pergi ke Pusat Warna",
+      "description": "Kata Manajer Lantai, kita butuh Pewarna Emas buat bikin Benang Emas. Katanya orang bernama Palette di Pusat Warna harusnya bisa bantu. Kita harus keluar lewat koridor, terus jalan ke atas buat nemuin Pusat Warna.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Pusat Warna"
+        }
+      ]
+    },
+    {
+      "key": "Q-2006",
+      "title": "소문 수집/미사용",
+      "description": "Ayo kita kuping pembicaraan pelanggan yang lagi kerja dan kumpulin informasi.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tanya Bekerja Pelanggan"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Tanya Bekerja Pelanggan"
+        }
+      ]
+    },
+    {
+      "key": "Q-2007",
+      "title": "Cari Naked dan Bernegosiasi",
+      "description": "Antrean buat dapat Pewarna Emas lama banget sampai nggak masuk akal. Katanya, seorang Noir bernama Naked dapat antrean paling depan. Ayo cari Naked terus lihat apa kita bisa nego buat tukaran posisi antrean.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Cari Naked dan Bernegosiasi"
+        }
+      ]
+    },
+    {
+      "key": "Q-2008",
+      "title": "깊은 바다 염료 소문 수집/미사용",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tanya Noir Mengantri"
+        }
+      ]
+    },
+    {
+      "key": "Q-2009",
+      "title": "Minta Pewarna L'Incolore ke Palette",
+      "description": "Naked sama sekali nggak berniat ngasih Pewarna Emasnya secara cuma-cuma. Dia mau menukarnya sama pewarna yang namanya L'Incolore. Ayo balik ke Palette dan tanya apa dia bisa bikin pewarna itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Minta Pewarna L'Incolore ke Palette"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010",
+      "title": "Pecahkan Air Mata di Penyimpanan Pewarna",
+      "description": "Untungnya, Palette bilang dia bisa langsung bikin L'Incolore saat itu juga. Tapi sebagai gantinya, dia minta kita memecahkan Air Mata dengan warna beda-beda. Katanya barang itu bisa ditemukan di Penyimpanan Pewarna di sebelah kanan. Kumpulin 2 Pewarna Kuning, 2 Pewarna Merah, dan 2 Pewarna Biru, terus bawa balik ke Palette.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kumpulkan Pewarna Kuning",
+          "goalDescription2": "Kumpulkan Pewarna Merah",
+          "goalDescription3": "Kumpulkan Pewarna Biru"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Bawa Pewarna ke Palette"
+        }
+      ]
+    },
+    {
+      "key": "Q-2011",
+      "title": "Tukar Pewarna Emas dengan Naked",
+      "description": "Palette ngasih kita L'Incolore. Aku sama sekali nggak bisa lihat warna apa-apa di dalam botolnya sih, tapi... ayo kita bawa barang ini ke Naked dan lihat apa dia mau menukarnya sama Pewarna Emas.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tukar L'Incolore dengan Pewarna Emas dari Naked"
+        }
+      ]
+    },
+    {
+      "key": "Q-2012",
+      "title": "황금염료/미사용",
+      "description": "Kita harus mengambil Pewarna Emas dari Palette.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kumpulkan Pewarna Emas dari Palette"
+        }
+      ]
+    },
+    {
+      "key": "Q-2013",
+      "title": "Kembali ke Manajer Lantai B2F",
+      "description": "Berkat celotehan pengajuan Outis yang fasih banget, Naked akhirnya setuju buat menyerahkan Pewarna Emas itu. Ayo kita bawa pewarna ini ke Manajer Lantai B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Manajer Lantai B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2014",
+      "title": "Tahan Para Penyusup",
+      "description": "Pas kita lagi nunggu Kepompong Emas dipintal jadi benang, kita dengar suara langkah seseorang mendekat dari koridor. Mereka mungkin mengincar Gulungan Benang Emas. Tahan pintu masuk koridor sampai proses pemintalannya selesai.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tahan Para Penyusup"
+        }
+      ]
+    },
+    {
+      "key": "Q-2015",
+      "title": "Ambil Gulungan Benang Emas yang Sudah Jadi",
+      "description": "Makhluk tak dikenal itu udah tumbang. Ayo kembali ke Manajer Lantai B2F dan ambil Gulungan Benang Emas yang udah selesai dipintal.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ambil Gulungan Benang Emas yang sudah selesai dari Manajer Lantai B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2016A",
+      "title": "Tinggalkan B2F",
+      "description": "Kita udah dapat Gulungan Benang Emas yang udah jadi. Sepertinya urusan kita di sini udah kelar. Saatnya tinggalkan B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tinggalkan B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2017",
+      "title": "Pergi ke 3F",
+      "description": "Saatnya pergi ke 3F dan lihat apa Gulungan Benang Emas ini bisa ditenun jadi Kain Emas.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik Eskalator ke 3F"
+        }
+      ]
+    }
+  ]
+}
