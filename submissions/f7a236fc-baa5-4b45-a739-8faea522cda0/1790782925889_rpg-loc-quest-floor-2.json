@@ -1,0 +1,59 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "Jelajahi 2F",
+      "description": "Kita akhirnya sampai di 2F. Gelap, basah kuyup sama warna merah, dan nggak ada satu pun yang kelihatan beres di sini. Ayo kita lihat-lihat sekitar.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2002",
+      "title": "Pergi ke 2F",
+      "description": "Flannel sama Felt kelihatan senang banget sama senjata yang kita bawain. Mereka minta kita buat menghentikan apa pun yang lagi dilakukan para Rouge di Aula Mewah 2F. Apa renovasi di 2F udah kelar ya? Ayo kita balik lagi ke bawah.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2003",
+      "title": "Masuk ke Aula Mewah",
+      "description": "Pembantaian di 2F masih berlangsung. Para Noir yang menjaga Aula Mewah melihat Paku Emas kita terus ngizinin kita lewat, sambil minta kita menghancurkan dewa palsu yang lagi diciptakan para Rouge di dalam. Kita harus periksa apa yang udah nunggu di balik pintu masuk.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Masuk ke Aula Mewah"
+        }
+      ]
+    },
+    {
+      "key": "Q2011",
+      "title": "Halau Serangan Rouge",
+      "description": "Kita harus sampai ke area di balik Perkemahan. Ayo bantu para Noir menghabisi para Rouge, terus kalahkan Le Rouge Direktur Merek yang menjaga jalan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bantai Rouge Direktur Merek"
+        }
+      ]
+    },
+    {
+      "key": "Q2004",
+      "title": "Masuk ke Perkemahan",
+      "description": "Kita udah menghabisi para Rouge yang menjaga Aula Mewah. Ayo ikuti Meursault ke area di balik Perkemahan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Masuk ke Perkemahan"
+        }
+      ]
+    }
+  ]
+}
