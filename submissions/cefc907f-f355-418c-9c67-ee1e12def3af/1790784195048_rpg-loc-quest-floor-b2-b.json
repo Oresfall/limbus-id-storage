@@ -1,0 +1,180 @@
+{
+  "dataList": [
+    {
+      "key": "Q-2000",
+      "title": "가리기 - 지하 2층 도착",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "지하 2층 방적장 진입용"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "방직장 컷씬"
+        }
+      ]
+    },
+    {
+      "key": "Q-2000A",
+      "title": "가리기 - 바늘이 대화 파트",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "줄 선 바늘이 대화"
+        }
+      ]
+    },
+    {
+      "key": "Q-2001",
+      "title": "Jelajahi B2F",
+      "description": "Kita udah sampai di B2F. Ada antrean pelanggan yang padat banget lagi nungguin Pewarna Emas. Ayo kita bicara sama Naked, orang yang pernah bertransaksi sama kita sebelum kali terakhir itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Naked"
+        }
+      ]
+    },
+    {
+      "key": "Q-2002",
+      "title": "Bicara dengan Naked",
+      "description": "Kita udah sampai di B2F. Ada antrean pelanggan yang padat banget lagi nungguin Pewarna Emas. Ayo kita bicara sama Naked, orang yang pernah bertransaksi sama kita sebelum kali terakhir itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Naked"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Halau Serangan Le Noir"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Pahami Situasi Setelah Pertempuran"
+        }
+      ]
+    },
+    {
+      "key": "Q-2003",
+      "title": "Pergi ke Pusat Warna",
+      "description": "Para Noir mulai mengejar kita. Untuk sekarang, kita harus cari cara buat pergi lebih jauh ke bawah tanah. Ayo tanya Palette di Pusat Warna gimana cara turunnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Pusat Warna"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004",
+      "title": "Pergi ke Pusat Warna",
+      "description": "Para Noir mulai mengejar kita. Untuk sekarang, kita harus cari cara buat pergi lebih jauh ke bawah tanah. Ayo tanya Palette di Pusat Warna gimana cara turunnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Pusat Warna"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004A",
+      "title": "Pergi ke Sarang Untaian",
+      "description": "Sepertinya Palette membutuhkan Gulungan Warna-warni yang dipegang sama Manajer Lantai B2F. Ayo pergi ke Sarang Untaian buat memenuhi permintaan Palette.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Sarang Untaian"
+        }
+      ]
+    },
+    {
+      "key": "Q-2005",
+      "title": "Bunuh Para Noir",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bunuh Para Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q-2006",
+      "title": "Bunuh Para Noir (2)",
+      "description": "Makin banyak Noir yang menghalangi jalan. Kita harus bereskan mereka dan lanjut maju.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bereskan Para Noir yang Tersisa"
+        }
+      ]
+    },
+    {
+      "key": "Q-2007",
+      "title": "Lanjut Maju ke Sarang Untaian",
+      "description": "Para Noir yang menghalangi jalan udah dibereskan. Ayo kita menuju ke Sarang Untaian.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Lanjut Maju ke Sarang Untaian"
+        }
+      ]
+    },
+    {
+      "key": "Q-2008",
+      "title": "Bicara dengan Manajer Lantai B2F",
+      "description": "Kita udah sampai di Sarang Untaian. Ayo bicara sama Manajer Lantai B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Manajer Lantai B2F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Bunuh Manajer Lantai B2F"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Dapatkan Gulungan Warna-warni"
+        }
+      ]
+    },
+    {
+      "key": "Q-2009",
+      "title": "Bawa Gulungan ke Palette",
+      "description": "Sepertinya Palette membutuhkan Gulungan Warna-warni yang dipegang sama Manajer Lantai B2F. Ayo pergi ke Sarang Untaian buat memenuhi permintaan Palette.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bawa Gulungan ke Palette"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010",
+      "title": "Pergi ke Eskalator B3F",
+      "description": "Palette menepati janjinya dan kasih tahu kita lokasi eskalator menuju B3F. Ayo ke sana dan lanjut turun ke bawah.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Eskalator B3F"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010A",
+      "title": "Turun ke B3F",
+      "description": "Kita udah sampai di eskalator. Ayo naik ini buat turun ke B3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Turun ke B3F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Jelajahi 3F"
+        }
+      ]
+    }
+  ]
+}
