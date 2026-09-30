@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_green_needle",
+      "displayName": "Needlekin Hijau"
+    },
+    {
+      "key": "swarm_lanoir_fanatic",
+      "displayName": "Asosiasi Penjualan Le Noir"
+    },
+    {
+      "key": "swarm_lanoir_guard",
+      "displayName": "Pendeta Le Noir"
+    },
+    {
+      "key": "swarm_pus_blue",
+      "displayName": "Air Mata Biru Meluap"
+    },
+    {
+      "key": "swarm_pus_red",
+      "displayName": "Air Mata Merah Bernanah"
+    },
+    {
+      "key": "swarm_pus_yellow",
+      "displayName": "Air Mata Kuning Memaserasi"
+    },
+    {
+      "key": "swarm_red_needle",
+      "displayName": "Needlekin Merah"
+    }
+  ]
+}
