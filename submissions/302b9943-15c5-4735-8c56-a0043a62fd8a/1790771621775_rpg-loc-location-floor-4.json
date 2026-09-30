@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "key": "140100",
+      "text": "Koridor"
+    },
+    {
+      "key": "140200",
+      "text": "Aula Alas Kaki"
+    },
+    {
+      "key": "140300",
+      "text": "Aula Furnitur"
+    },
+    {
+      "key": "140400",
+      "text": "Eskalator"
+    }
+  ]
+}
