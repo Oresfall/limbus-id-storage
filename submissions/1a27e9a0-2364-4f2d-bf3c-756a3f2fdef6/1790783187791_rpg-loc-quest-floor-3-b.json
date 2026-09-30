@@ -1,0 +1,199 @@
+{
+  "dataList": [
+    {
+      "key": "Q3001",
+      "title": "Pergi ke 3F",
+      "description": "Sesuai dugaan, 2F lagi-lagi lagi di-\"renovasi\". Ayo kita lanjut jalan ke 3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik eskalator ke 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3002",
+      "title": "Ikuti Suara Gunting",
+      "description": "Kita udah nyampai di 3F, dan benar aja, suara gunting itu kedengaran lagi. Ayo menuju ke Toko Perubahan dan cari Annette.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Toko Perubahan"
+        }
+      ]
+    },
+    {
+      "key": "Q3004",
+      "title": "Pergi ke Butik du Rouge",
+      "description": "Seperti biasa, si Dua-bagian ngalangin koridor lagi. Toko yang di sebelah kanan nggak bisa dijangkau. Mending kita pergi ke Butik du Rouge yang di sebelah kiri aja.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Butik du Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q3005",
+      "title": "Bicara dengan L'Inamovible",
+      "description": "Sekali lagi, Butik dipenuhi sama Suara Raksasa Le Rouge—ibunya Meursault. Penjual Butik itu kepikiran banget gara-gara nggak bisa dengar Suaranya waktu itu, dan sepertinya kali ini juga nggak bakal beda. Ayo kita ajak dia ngobrol dulu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3006",
+      "title": "Keluar ke Koridor",
+      "description": "Penjual Butik yang tadi cuma bisa menderita sekarang bilang kalau dia bisa dengar Suaranya lagi. Mungkin ini ada hubungannya sama kepingan daging yang kita bawa. Kali ini, dia minta kita buat membunuh Annette di Toko Perubahan. Kita belum yakin harus gimana, jadi buat sekarang, kita putusin buat pergi ke Maison du Noir di sebelah kanan. Siapa tahu \"pertemuan\" mereka udah selesai...",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Keluar ke koridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3020",
+      "title": "Memutar Jalan ke Maison du Noir",
+      "description": "Dua-bagian memblokir koridor lagi, dan kelihatannya mereka sadar sama kepingan daging yang kita bawa. Cari jalan lain ke Maison du Noir dengan memutar lewat Ruang Alamat Umum di Butik du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Memutar jalan ke Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q3021",
+      "title": "Bantai Flannel dan Felt di Maison du Noir",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q3022",
+      "title": "Kembali ke Toko Perubahan",
+      "description": "Kata Jeanne, akhir dari Grand Magasin ini udah ditentukan, dan mau ambil pilihan lain pun nggak bakal mengubah apa-apa. Tapi kita nggak bisa cuma berdiam diri aja. Kalau kita mau coba pilihan yang beda, kita harus balik lagi ke Toko Perubahan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Toko Perubahan"
+        }
+      ]
+    },
+    {
+      "key": "Q3023",
+      "title": "Bunuh Annette",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q3024",
+      "title": "Kembali ke L'Inamovible",
+      "description": "Kita berhasil ngalahin Annette, tapi sebelum itu dia sempat ngewanti-wanti kalau tindakan kita ini bakal bikin kita jadi musuh bebuyutan Le Noir. Mungkin pilihan ini bakal membawa kita ke akhir yang beda kali ini. Kita harus balik ke penjual di Butik du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3025",
+      "title": "Kembali ke 2F",
+      "description": "Pemilik toko Butik senang banget dan minta kita buat pergi ke Aula Mewah di 2F. Dia bilang Suara itu memanggil kita ke sana. Mungkin bakal beda ceritanya kalau kita nggak memaksa keluarin hal itu dari kepompong waktu itu. Ayo kita balik ke 2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q3003",
+      "title": "Keluar ke Koridor",
+      "description": "Nggak kayak waktu itu, Annette nolak buat nyerahin guntingnya. Tanpa gunting itu, urusan sama Manekin yang ngehalangin koridor bakal makin sulit. Kita perlu periksa apa si Dua-bagian masih menjaga jalanan kali ini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Keluar ke koridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3026",
+      "title": "Pergi ke 3F",
+      "description": "Kali ini, kita udah milih buat memihak Le Rouge, jadi kita harus bertindak sesuai pilihan itu. Kita harus temuin penjual Butik du Rouge di 3F, yang udah nunggu-nunggu banget buat mendengarkan Suara itu lagi.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3027",
+      "title": "Tunjukkan Anak Itu ke L'Inamovible",
+      "description": "Kita udah nyampai di 3F. Ayo tunjukkan anak ini ke penjual Butik du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tunjukkan anak itu ke L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3028",
+      "title": "Periksa Sisa-sisa L'Inamovible",
+      "description": "Pemilik toko Butik menyerahkan saputangan ke anak itu, dan begitu diterimanya, dia langsung hancur berkeping-keping di depan mata kita. Coba cari sisa-sisanya, siapa tahu ada barang yang bisa kita pakai sebagai Paku.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Periksa sisa-sisa L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3016T",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 개전 래치"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H1",
+      "title": "(내부) 플로어 매니저 타격 1",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H2",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+        }
+      ]
+    }
+  ]
+}
