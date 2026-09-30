@@ -1,0 +1,118 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "Pergi ke B1F",
+      "description": "Sepertinya kita masih kekurangan \"kebajikan\" buat masuk ke 5F. Pwie bilang mereka perlu pakai Kepompong Emas, dan di salah satu lantai bawah tanah, ada seseorang yang bisa mengolah kulit. Ayo kita ke sana.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke B1F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "Cari Perenungan dari Sang Mangsa",
+      "description": "Buat mendapatkan Kepompong Emas, kita harus bawa Perenungan dari Sang Mangsa ke Boucher, Manajer Lantai B1F. Barangnya harusnya ada di sekitar sini. Ayo cepat kita cari.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Cari Perenungan dari Sang Mangsa"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "Tundukkan Sous Chef",
+      "description": "Kita kembali ke Pujasera sambil membawa Perenungan dari Sang Mangsa. Tapi setelah mengendus Pwie beberapa kali, Sous Chef mendadak menyerang kita...\n\nPertama-tama, ayo tundukkan Sous Chef dulu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kalahkan Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "Bicara dengan Manajer Lantai B1F",
+      "description": "Sous Chef mendadak menyerang kita setelah mengendus Pwie beberapa kali, tapi dia tenang kembali setelah mendengar kalau kita membawa Perenungan dari Sang Mangsa, lalu setuju buat mengenalkan kita ke Boucher, Manajer Lantai B1F.\n\nAyo bicara dengan Boucher.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Manajer Lantai B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Berikan Perenungan dari Sang Mangsa ke Manajer Lantai B1F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "Pergi ke Tepi Pantai",
+      "description": "Sous Chef yang panik bilang kalau larva yang disimpan di gudang kabur. Harusnya dia ada di Tepi Pantai tepat di seberang Pasar Ikan. Mau gimana lagi, kita memutuskan buat pergi ke sana dan mencari larva yang masih hidup.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Tepi Pantai"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "Periksa Larva yang Geliat-Geliut",
+      "description": "Kita sudah sampai di Tepi Pantai, di mana larva yang tak terhitung jumlahnya hanyut ke laut. Salah satu dari mereka masih bergerak. Kita harus mendekatinya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Periksa Larva yang Geliat-Geliut"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "Kembali ke Sous Chef",
+      "description": "Kita menemukan satu larva yang masih bernapas. Bawa kembali ke Pujasera dan serahkan ke Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "Menuju Aula Eskalator",
+      "description": "Sama seperti sebelumnya, kita berhasil dapat Kepompong Emas... atau lebih tepatnya, \"Wriggley\". Tujuan berikutnya: Aula Eskalator yang penuh dengan eskalator.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Menuju Aula Eskalator"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "Pilih Eskalator",
+      "description": "Kita biarkan Pwie memilih eskalator mana pun yang dia suka. Sekarang tinggal tentukan eskalator yang dia pilih.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pilih Eskalator"
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "Pergi ke Eskalator B2F",
+      "description": "Ayo naik eskalator B2F buat turun ke bawah.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Eskalator B2F"
+        }
+      ]
+    }
+  ]
+}
