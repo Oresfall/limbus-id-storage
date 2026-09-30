@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_denim_baggar",
+      "displayName": "Dompet Denim"
+    },
+    {
+      "key": "swarm_leather_mutt",
+      "displayName": "Sarung Tangan Kulit"
+    },
+    {
+      "key": "swarm_needle_leather_mutt",
+      "displayName": "Sarung Tangan Berbantal"
+    },
+    {
+      "key": "swarm_shopper_a",
+      "displayName": "Kaki Putus Asa"
+    },
+    {
+      "key": "swarm_shopper_b",
+      "displayName": "Kaki Cemas"
+    }
+  ]
+}
