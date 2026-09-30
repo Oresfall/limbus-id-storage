@@ -1,0 +1,210 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생 처리용 숨겨진 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1011",
+      "title": "Jelajahi Sekitar",
+      "description": "Kita sudah sampai di tempat yang namanya Grand Magasin Sisyphe. Meursault ada di mana ya...? Ayo kita lihat-lihat sekitar dulu buat cari tahu situasi.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi Sekitar"
+        }
+      ]
+    },
+    {
+      "key": "Q1012",
+      "title": "Kembali ke Kamar Mandi",
+      "description": "Kita malah papasan sama kakaknya Kromer di Grand Magasin Sisyphe. Lebih baik kita balik ke kamar mandi dulu buat atur ulang rencana.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Kamar Mandi"
+        }
+      ]
+    },
+    {
+      "key": "Q1013",
+      "title": "Mencari Meursault",
+      "description": "Sepertinya Meursault ada di suatu tempat di dalam toko departemen ini. Tadi kita lihat ada karpet di lantai sama pakaian yang dipajang di depan. Coba kita jelajahi toko departemen ini dan cari tempat yang ada pajangan pakaiannya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi Toko Departemen"
+        }
+      ]
+    },
+    {
+      "key": "Q1014",
+      "title": "???",
+      "description": "Kelihatannya ada sesuatu yang tersembunyi di sini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1021",
+      "title": "Mencari Meursault (2)",
+      "description": "Meursault rasanya ada di dekat sini. Ayo kita cari dia.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Temukan Meursault"
+        }
+      ]
+    },
+    {
+      "key": "Q1022",
+      "title": "Saran dari Meursault",
+      "description": "Tentukan apakah mau menerima saran Meursault atau tidak.\n→ Menerimanya akan memulai misi berburu; kalau ditunda, misi ini bisa diambil lagi dari pegawai Aula Pakaian Kasual.",
+      "steps": [
+        {
+          "index": 0
+        },
+        {
+          "index": 1
+        }
+      ]
+    },
+    {
+      "key": "Q1023",
+      "title": "Arahkan Mannequin ke Pintu Keluar",
+      "description": "Supaya Meursault bisa balik ikut kita, kita harus membantu para Mannequin ke pintu keluar—totalnya ada tiga. Bantai mereka lalu lapor balik ke Mimosa, yang sepertinya pemilik toko ini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bantu para Mannequin \"ke Pintu Keluar\""
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Kembali ke Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "Q1031",
+      "title": "Jelajahi Grand Magasin Sisyphe",
+      "description": "Meursault sudah menjelaskan apa yang dia tahu tentang Grand Magasin Sisyphe. Aku nggak paham semuanya sih, tapi satu hal yang jelas: sepertinya nggak ada jalan keluar yang normal di sini. Ayo lanjut jelajah lagi.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi Toko Departemen"
+        }
+      ]
+    },
+    {
+      "key": "Q1032",
+      "title": "Jelajahi Grand Magasin Sisyphe (2)",
+      "description": "Kita ketemu cowok bernama Dubois. Sama seperti kita, dia sepertinya belum lama ada di sini. Ayo lanjut cari jalan ke lantai atas di dalam toko departemen ini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi Toko Departemen"
+        }
+      ]
+    },
+    {
+      "key": "Q1041",
+      "title": "Lihat-Lihat Pajangan Pakaian",
+      "description": "Kita sudah sampai di Aula Kontemporer. Pegawainya kelihatan nggak berminat diajak ngobrol. Ya sudahlah, mending kita lihat-lihat saja pakaian yang dipajang di sini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Lihat-Lihat Pakaian"
+        }
+      ]
+    },
+    {
+      "key": "Q1042",
+      "title": "Halau Pegawai Noir yang Musuh",
+      "description": "",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1051",
+      "title": "Menuju Toko Rouges",
+      "description": "Pegawai Noir memberi tahu kita tentang Resin Emas. Selanjutnya, ayo kita periksa toko Kontemporer Le Rouge di bagian atas.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Toko Kontemporer Le Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q1052",
+      "title": "Cari Jarum Raksasa",
+      "description": "Quillian di Toko Kontemporer Le Rouge minta kita bawakan jarum raksasa. Cari Mannequin yang membawanya, ambil jarumnya, lalu balik ke Quillian.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ambil Jarum Raksasa dan Kembali ke Quillian"
+        }
+      ]
+    },
+    {
+      "key": "Q1061",
+      "title": "Pergi Belanja Pakaian",
+      "description": "Kita harus bikin catatan pembelian dulu sebelum bisa masuk ke lantai atas. Beli beberapa pakaian dari Quillian, lalu lanjut cari jalan menuju lantai atas.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Beli Pakaian dari Quillian"
+        }
+      ]
+    },
+    {
+      "key": "Q1062",
+      "title": "Menuju Eskalator",
+      "description": "Kita menemukan eskalator yang mengarah ke lantai berikutnya. Dubois juga ada di sini. Ayo bicara sama dia sebelum kita naik.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Dubois"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "Naik Eskalator",
+      "description": "Eskalatornya berfungsi. Akhirnya kita bisa sampai ke lantai 2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik Eskalator ke 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1018",
+      "title": "???",
+      "description": "(히든) 못 획득 시 대화",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작",
+      "description": "미사용"
+    }
+  ]
+}
