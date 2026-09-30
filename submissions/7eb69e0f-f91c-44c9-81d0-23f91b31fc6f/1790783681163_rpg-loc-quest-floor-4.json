@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q4001",
+      "title": "Pergi ke 4F",
+      "description": "Kita udah dapat Sertifikat Keaslian dari para Noir di 3F. Kata mereka, Noir yang lain bakal menyambut kita sama ramahnya kayak mereka—ramah yang agak berlebihan sih, kayaknya. Moga-moga aja ini bikin perjalanan kita di toko departemen jadi sedikit lebih gampang.\n\nSekarang, ayo kita naik ke 4F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik eskalator ke 4F"
+        }
+      ]
+    },
+    {
+      "key": "Q4002",
+      "title": "Jelajahi 4F",
+      "description": "Kita udah sampai di 4F. Kira-kira toko aneh kayak gimana lagi yang bakal kita temuin di sini ya? Ayo mulai periksa lorong yang ada di sebelah kanan dulu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi 4F"
+        }
+      ]
+    },
+    {
+      "key": "Q4003",
+      "title": "Jelajahi 4F (2)",
+      "description": "Satu-kaki, pramuniaga di Noir Aula Alas Kaki, cerita soal senjata legendaris yang sanggup merobek kain apa pun.\nUntuk sekarang, ayo kita keluar dari Noir Aula Alas Kaki terus jelajahi sisa area 4F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Selesaikan percakapan dengan Satu-kaki"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Jelajahi 4F",
+          "goalDescription2": "Bicara dengan Lampu Lantai Busur"
+        }
+      ]
+    },
+    {
+      "key": "Q4004",
+      "title": "Temui Pemilik Aula Furnitur",
+      "description": "Jadi, ini yang dinamakan \"Aula Furnitur\" ya?\nLampu Lantai Busur yang tadi kita ajak bicara minta kita bawain pakaian yang \"paling modis dan cocok\" buat dia. Ayo pergi temui pemilik Aula Furnitur.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan pemilik Aula Furnitur"
+        }
+      ]
+    },
+    {
+      "key": "Q4005",
+      "title": "Antarkan Pakaian Baru ke Lampu Lantai Busur",
+      "description": "Pemilik Aula Furnitur, \"Lemari Bahagia,\" membuka badan mereka sendiri buat memperlihatkan beberapa barang yang bergantung di dalamnya. Kita udah milih pakaian yang kelihatannya pas—sekarang, ayo kita bawa barang ini ke Lampu Lantai Busur.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bawakan pakaian baru untuk Lampu Lantai Busur"
+        }
+      ]
+    },
+    {
+      "key": "Q4006",
+      "title": "Ambil Pakaian Lagi dari Lemari Bahagia",
+      "description": "Furnitur-furnitur lainnya kelihatan nggak senang pas lihat Lampu Lantai Busur dapat pakaian baru. Ayo balik ke Lemari Bahagia terus pilihin pakaian buat furnitur yang sisanya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ambil beberapa pakaian lagi dari Lemari Bahagia"
+        }
+      ]
+    },
+    {
+      "key": "Q4007",
+      "title": "Antarkan Pakaian ke Para Furnitur",
+      "description": "Udah milihin beberapa pakaian dari Lemari Bahagia. Sekarang, tinggal antarin pakaian-pakaian ini ke para Furnitur.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pengantaran untuk Gantungan Tulang",
+          "goalDescription2": "Pengantaran untuk Tempat Tidur Kulit Lembut",
+          "goalDescription3": "Pengantaran untuk Tirai Kulit Taksidermi",
+          "goalDescription4": "Pengantaran untuk Bangku-merah Empuk",
+          "goalDescription5": "Pengantaran untuk Sofa Kulit",
+          "goalDescription6": "Pengantaran untuk Lampu Kembar"
+        }
+      ]
+    },
+    {
+      "key": "Q4008",
+      "title": "Kembali ke Lemari Bahagia",
+      "description": "Udah dipastikan tiap Furnitur yang marah tadi dapat pakaian mereka masing-masing. Waktunya balik ke Lemari Bahagia.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Lemari Bahagia"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Para Furnitur lagi merobek Lemari Bahagia sampai hancur."
+        }
+      ]
+    },
+    {
+      "key": "Q4013",
+      "title": "Bicara dengan Lampu Lantai Busur",
+      "description": "Lemari Bahagia udah diam sepenuhnya, bahkan jantung mereka juga udah dicabut. Mungkin sebaiknya kita bicara dulu sama Lampu Lantai Busur sebelum keluar dari Aula Furnitur.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Lampu Lantai Busur"
+        }
+      ]
+    },
+    {
+      "key": "Q4009",
+      "title": "Pergi ke Lantai Bawah Tanah",
+      "description": "Menurut resep yang kita dapat, pertama-tama kita harus dapetin \"Kepompong Emas\" dulu, yang nantinya bakal mengarahkan kita buat nemuin Benang Emas.\n\nAyo kita pergi ke B1F, ambil Kepompong Emas, terus turun lebih dalam lagi ke B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik eskalator ke B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Jelajahi B1F"
+        }
+      ]
+    }
+  ]
+}
