@@ -1,0 +1,353 @@
+{
+  "dataList": [
+    {
+      "key": "Q4001",
+      "title": "Ke Aula Alas Kaki",
+      "description": "Kita udah sampai di 4F. Ayo ikuti koridor buat menuju ke Aula Alas Kaki.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ikuti koridor menuju ke Aula Alas Kaki"
+        }
+      ]
+    },
+    {
+      "key": "Q4002",
+      "title": "Pergi ke Aula Alas Kaki",
+      "description": "Kita ngasih nama \"Pwie\" ke anak yang ngikutin kita ini. Dia masih kelihatan agak waspada sama kita... Tapi buat sekarang, prioritas kita harusnya pergi ke Aula Alas Kaki di 4F, sama kayak sebelumnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Aula Alas Kaki"
+        }
+      ]
+    },
+    {
+      "key": "Q4002A",
+      "title": "Kill Empat-kaki",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4003",
+      "title": "Kill Satu-kaki",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4003A",
+      "title": "르루주 신발관 NPC A",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan siapa pun yang tersisa di Aula Alas Kaki"
+        }
+      ]
+    },
+    {
+      "key": "Q4003B",
+      "title": "Pergi ke Aula Furnitur",
+      "description": "Dorothea dari Aula Alas Kaki Le Rouge minta kita nyari kepingan hati supaya dia bisa nemuin jalan pulang. Sebagai gantinya, dia bakal ngasih tahu cara buat sampai ke 5F. Ayo pergi ke Aula Furnitur buat nemuin barang yang dia mau.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Lemari Bahagia di Aula Furnitur"
+        }
+      ]
+    },
+    {
+      "key": "Q4004",
+      "title": "Bicara dengan Lampu Lantai Busur",
+      "description": "Lemari Bahagia di Aula Furnitur masih menolak buat bicara sepatah kata pun. Tapi kita berhasil nyongkel beberapa barang dari mereka. Sekarang waktunya nemuin Lampu Lantai Busur.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan Lampu Lantai Busur"
+        }
+      ]
+    },
+    {
+      "key": "Q4005",
+      "title": "등굽은 조명의 새 옷[미사용]",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bawa pakaian itu ke Lampu Lantai Busur"
+        }
+      ]
+    },
+    {
+      "key": "Q4006",
+      "title": "Kembali ke Lemari Bahagia",
+      "description": "Kita udah ngasih pakaian yang kita ambil dari Lemari Bahagia ke Lampu Lantai Busur. Sekarang Furnitur-furnitur lainnya malah ribut minta pakaian buat mereka sendiri. Ayo kembali ke Lemari Bahagia.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Lemari Bahagia"
+        }
+      ]
+    },
+    {
+      "key": "Q4007",
+      "title": "Serahkan Pakaian ke Para Furnitur",
+      "description": "Sekali lagi, Lemari Bahagia menyerahkan barang-barang mereka tanpa protes. Ayo serahkan pakaian-pakaian ini ke para Furnitur.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pengiriman untuk Gantungan Tulang",
+          "goalDescription2": "Pengiriman untuk Tempat Tidur Kulit Lembut",
+          "goalDescription3": "Pengiriman untuk Tirai Kulit Taksidermi",
+          "goalDescription4": "Pengiriman untuk Bangku-merah Empuk",
+          "goalDescription5": "Pengiriman untuk Sofa Kulit",
+          "goalDescription6": "Pengiriman untuk Lampu Kembar"
+        }
+      ]
+    },
+    {
+      "key": "Q4008",
+      "title": "Tanya Lemari Bahagia Apakah Kita Bisa Dapat Kepingan Hati",
+      "description": "Urusan kita ngebantu para Furnitur udah selesai. Sekarang waktunya minta kepingan hati ke Lemari Bahagia.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tanya Lemari Bahagia apakah kita bisa dapat kepingan hati"
+        }
+      ]
+    },
+    {
+      "key": "Q4008A",
+      "title": "Penyergapan Para Furnitur",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Para Furnitur lagi merobek-robek Lemari Bahagia."
+        }
+      ]
+    },
+    {
+      "key": "Q4013",
+      "title": "Periksa Sisa-Sisa Lemari Bahagia",
+      "description": "Para Furnitur ngerobek-robek Lemari Bahagia pas saling berebut barang milik mereka, terus saling serang satu sama lain sampai nggak ada yang tersisa. Ayo kita periksa sisa-sisa dari Lemari Bahagia.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Periksa sisa-sisa Lemari Bahagia"
+        }
+      ]
+    },
+    {
+      "key": "Q4021",
+      "title": "Pergi ke Aula Alas Kaki Rouge",
+      "description": "Urusan kita sama Aula Alas Kaki Noir udah beres. Waktunya pergi ke Aula Alas Kaki Rouge yang ada di sebelah bawah persis.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke Aula Alas Kaki Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q4022",
+      "title": "Kembali ke Aula Alas Kaki Rouge",
+      "description": "Kita berhasil ngumpulin kepingan hati dari Lemari Bahagia. Ayo kembali ke Aula Alas Kaki Le Rouge dan kasihin barang ini ke Dorothea.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke Aula Alas Kaki Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q4023",
+      "title": "Ikuti Dorothea",
+      "description": "Kita udah ngasih kepingan hati dari Lemari Bahagia ke Dorothea, dan dia setuju buat ngasih tahu cara sampai ke 5F. Ayo kita ikuti dia.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ikuti Dorothea"
+        }
+      ]
+    },
+    {
+      "key": "Q4023A",
+      "title": "Lubang di Dinding",
+      "description": "Ada lubang di dinding. Kelihatannya kita harus meriksanya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Periksa lubang itu"
+        }
+      ]
+    },
+    {
+      "key": "Q4023B",
+      "title": "Masuk ke Dalam Lubang",
+      "description": "Dorothea menepukkan sepatu-sepatunya, terus jalan terbuka muncul di dinding. Ayo kita masuk ke dalam.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Masuk ke dalam lubang"
+        }
+      ]
+    },
+    {
+      "key": "Q4023C",
+      "title": "Ikuti Abnormality",
+      "description": "Lorong ini bawa kita ke tempat bernama Pusat Anak Hilang. Tiba-tiba ada Abnormality yang muncul terus diculiklah Dorothea. Kita harus ngejar makhluk itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Ikuti Abnormality"
+        }
+      ]
+    },
+    {
+      "key": "Q4023D",
+      "title": "Periksa Sisa-Sisa Abnormality",
+      "description": "Kita udah beres mengurus Abnormality itu. Ayo periksa sisa-sisa jasadnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Periksa sisa-sisa Abnormality"
+        }
+      ]
+    },
+    {
+      "key": "Q4023E",
+      "title": "Periksa Sisa-Sisa Abnormality",
+      "description": "Dorothea yang diculik tergeletak di lantai. Ayo kita periksa kondisinya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        },
+        {
+          "index": 1,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4024",
+      "title": "Pergi ke Toko Lainnya",
+      "description": "Pwie dapat sepasang sepatu baru yang bagus. Kelihatannya masih ada toko-toko di 4F yang belum sempat kita datangi. Ayo kita cek ke sana.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke toko lainnya",
+          "goalDescription2": "Bicara dengan karyawan lain di Aula Tas Tangan"
+        }
+      ]
+    },
+    {
+      "key": "Q4024A",
+      "title": "Periksa Dinding di Aula Tas Tangan Le Rouge",
+      "description": "Kita harus periksa dinding itu.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Investigasi dinding itu"
+        }
+      ]
+    },
+    {
+      "key": "Q4024B",
+      "title": "Apa yang Tersembunyi di Balik Dinding?",
+      "description": "Sosok yang bersembunyi di balik dinding akhirnya menampakkan diri. Kita harus tentuin apa yang mau kita lakukan sama dia.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Putuskan apa yang akan dilakukan pada Renée"
+        }
+      ]
+    },
+    {
+      "key": "Q4024C",
+      "title": "Putuskan Apa yang Akan Dilakukan pada Renée",
+      "description": "Tunggu sampai keputusan itu dilaksanakan.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Putuskan apa yang akan dilakukan pada Renée"
+        }
+      ]
+    },
+    {
+      "key": "Q4025",
+      "title": "Pergi ke Toko Lainnya",
+      "description": "Urusan kita di Aula Tas Tangan Rouge udah selesai. Sekarang waktunya mengecek toko yang lain.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke toko lainnya"
+        }
+      ]
+    },
+    {
+      "key": "Q4025A",
+      "title": "Kumpulkan Bahan Emas",
+      "description": "Perancang di Aula Tas Tangan Le Noir minta kita ngumpulin beberapa bahan Emas. Ayo bantu dia supaya kita bisa dapat informasi tentang eskalator menuju 5F. Bahan-bahannya bisa kita ambil dari para Mannequin.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kumpulkan Kancing Emas",
+          "goalDescription2": "Kumpulkan Gigi Emas",
+          "goalDescription3": "Kumpulkan Rambut Emas"
+        }
+      ]
+    },
+    {
+      "key": "Q4025B",
+      "title": "Kembali ke Perancang di Aula Tas Tangan Noir",
+      "description": "Semua bahan Emas yang diminta sudah terkumpul. Waktunya kembali ke Sang Desainer.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kembali ke perancang di Aula Tas Tangan Noir"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Bicara dengan karya agung pertama",
+          "goalDescription2": "Bicara dengan karya agung kedua",
+          "goalDescription3": "Bicara dengan karya agung ketiga"
+        }
+      ]
+    },
+    {
+      "key": "Q4025C",
+      "title": "Keputusan Sang Desainer",
+      "description": ".",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tunggu keputusan Sang Desainer"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Tunggu sampai akhir"
+        }
+      ]
+    },
+    {
+      "key": "Q4026",
+      "title": "Naik Eskalator ke 5F",
+      "description": "Urusan kita di Aula Tas Tangan udah selesai. Kita harus menuju ke eskalator yang mengarah ke 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik Eskalator ke 5F"
+        }
+      ]
+    }
+  ]
+}
