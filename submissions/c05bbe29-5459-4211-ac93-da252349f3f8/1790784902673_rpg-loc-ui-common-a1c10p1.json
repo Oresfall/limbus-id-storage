@@ -1,0 +1,512 @@
+{
+  "dataList": [
+    {
+      "key": "ReturnToMainUiScene",
+      "text": "Simpan progress anda dan\nkembali ke Menu Utama?"
+    },
+    {
+      "key": "AskToMoveFloor",
+      "text": "Pindah ke Lantai {0}?"
+    },
+    {
+      "key": "MoveFloorUiDesc",
+      "text": "Lantai mana yang harus kita tuju?"
+    },
+    {
+      "key": "DialogueSkipConfirmDesc",
+      "text": "Lewati adegan cerita ini?"
+    },
+    {
+      "key": "DialogueSkipDontShowAgain",
+      "text": "Jangan tampilkan pesan ini lagi"
+    },
+    {
+      "key": "AccumulatedExp",
+      "text": "Penghitungan Pengeluaran Bola Mata"
+    },
+    {
+      "key": "RemainExpToNextLevel",
+      "text": "Ke Tingkat Berikutnya"
+    },
+    {
+      "key": "ItemFilterAll",
+      "text": "Semua"
+    },
+    {
+      "key": "ItemFilterKeyItem",
+      "text": "Misi"
+    },
+    {
+      "key": "ItemFilterSurvival",
+      "text": "Bertahan Hidup"
+    },
+    {
+      "key": "ItemFilterBasicAttack",
+      "text": "Serangan Dasar"
+    },
+    {
+      "key": "ItemFilterAdditionalAttack",
+      "text": "Serangan Ekstra"
+    },
+    {
+      "key": "ItemFilterPrisonerEffect",
+      "text": "Efek Pendosa"
+    },
+    {
+      "key": "ItemFilterEtc",
+      "text": "Lainnya"
+    },
+    {
+      "key": "Item_QuestMark",
+      "text": "Item Kunci"
+    },
+    {
+      "key": "Item_Suffix_Disabled",
+      "text": "{0} (nonaktif)"
+    },
+    {
+      "key": "rpg_quest_tag_dialogue",
+      "text": "Dialog"
+    },
+    {
+      "key": "rpg_quest_tag_battle",
+      "text": "Pertempuran"
+    },
+    {
+      "key": "rpg_quest_tag_hunt",
+      "text": "Eliminasi"
+    },
+    {
+      "key": "rpg_quest_tag_gather",
+      "text": "Kumpulkan"
+    },
+    {
+      "key": "rpg_quest_tag_shop",
+      "text": "Toko"
+    },
+    {
+      "key": "rpg_quest_tag_move",
+      "text": "Perjalanan"
+    },
+    {
+      "key": "Common_Ok",
+      "text": "Konfirmasi"
+    },
+    {
+      "key": "Quest_Tag_Progress",
+      "text": "Kemajuan"
+    },
+    {
+      "key": "Quest_Tag_Reward",
+      "text": "Hadiah"
+    },
+    {
+      "key": "Shop_Title",
+      "text": "Toko"
+    },
+    {
+      "key": "Shop_Category_All",
+      "text": "Semua"
+    },
+    {
+      "key": "Shop_Category_Artifact",
+      "text": "Artifak"
+    },
+    {
+      "key": "Shop_Category_Etc",
+      "text": "Lainnya"
+    },
+    {
+      "key": "Shop_Button_Buy",
+      "text": "Beli"
+    },
+    {
+      "key": "Shop_SelectedItem_None",
+      "text": "Pilih item untuk dibeli."
+    },
+    {
+      "key": "Shop_Item_Stock",
+      "text": "Stok"
+    },
+    {
+      "key": "Shop_Item_Owned",
+      "text": "Dimiliki"
+    },
+    {
+      "key": "Shop_Item_NotForSale",
+      "text": "Tidak Dapat Dibeli"
+    },
+    {
+      "key": "Shop_Empty_Item_List",
+      "text": "Tidak ada item untuk ditampilkan."
+    },
+    {
+      "key": "Log_ItemAcquired",
+      "text": "Mendapatkan Item: {0} x{1}"
+    },
+    {
+      "key": "Log_ItemAcquiredKeyItem",
+      "text": "Mendapatkan Item: <color=#{2}>{0} x{1}</color>"
+    },
+    {
+      "key": "Log_CurrencyEarned",
+      "text": "Mendapatkan: {0} bola mata"
+    },
+    {
+      "key": "Log_Purchased",
+      "text": "Membeli: {0} x{1} (Terpakai {2})"
+    },
+    {
+      "key": "Log_PurchasedKeyItem",
+      "text": "Membeli: <color=#{3}>{0} x{1}</color> (Terpakai {2})"
+    },
+    {
+      "key": "Log_NpcInteracted",
+      "text": "Mengakhiri percakapan."
+    },
+    {
+      "key": "Log_ProjectileRemoved",
+      "text": "Proyektil Dihapus: {0}"
+    },
+    {
+      "key": "Log_ChoiceSelected",
+      "text": "Pilihan Diambil: {0}"
+    },
+    {
+      "key": "Log_QuestAcquired",
+      "text": "<color=#{1}>Memulai Misi: {0}</color>"
+    },
+    {
+      "key": "Log_QuestCompleted",
+      "text": "Misi Selesai: {0}"
+    },
+    {
+      "key": "Log_QuestGoalProgress",
+      "text": "Kemajuan Misi: {0}"
+    },
+    {
+      "key": "Log_PlayerHit",
+      "text": "Menerima Serangan: {0}"
+    },
+    {
+      "key": "Log_BattleResultSync",
+      "text": "Hasil Pertempuran Diterapkan: ({0}): HP {1}/{2}, MP {3}/{4}"
+    },
+    {
+      "key": "Log_BattleDefeatHp",
+      "text": "Kekalahan dalam Pertempuran: HP {0}"
+    },
+    {
+      "key": "Log_CheatVitals",
+      "text": "Cheat: {0}"
+    },
+    {
+      "key": "Log_EventEffectVitals",
+      "text": "Efek Acara: {0}"
+    },
+    {
+      "key": "Log_RecruitFullRecover",
+      "text": "Mendapatkan Sekutu ({0}): Pemulihan Penuh HP/SP"
+    },
+    {
+      "key": "Log_VitalsNoChange",
+      "text": "Tidak Ada Perubahan"
+    },
+    {
+      "key": "Log_NpcDefeated",
+      "text": "{0} Dikalahkan ({1} Dmg)"
+    },
+    {
+      "key": "Log_NpcDefeatedWeakness",
+      "text": "{0} Dikalahkan ({1} Dmg Titik Kelemahan)"
+    },
+    {
+      "key": "Log_DamageDealt",
+      "text": "Memberikan {1} Dmg kepada {0}"
+    },
+    {
+      "key": "Log_DamageDealtWeakness",
+      "text": "Memberikan {1} Dmg Titik Kelemahan kepada {0}"
+    },
+    {
+      "key": "Log_PlayerDead",
+      "text": "Pemain Gugur"
+    },
+    {
+      "key": "Log_BattleEntered",
+      "text": "Pertempuran Dimulai"
+    },
+    {
+      "key": "Log_BattleWin",
+      "text": "Pertempuran Dimenangkan"
+    },
+    {
+      "key": "Log_BattleLose",
+      "text": "Pertempuran Kalah"
+    },
+    {
+      "key": "Log_RestSpotHealed",
+      "text": "HP pulih sepenuhnya"
+    },
+    {
+      "key": "Log_EscapeBlocked",
+      "text": "Tidak dapat meninggalkan ruangan ini saat ini."
+    },
+    {
+      "key": "Log_WardenAppeared",
+      "text": "Firasat buruk yang meresahkan mulai terasa."
+    },
+    {
+      "key": "Log_SuicideBlocked",
+      "text": "Ini tidak boleh menjadi jalan keluar."
+    },
+    {
+      "key": "ProgressPopup_Title",
+      "text": "Grand Magasin Sisyphe"
+    },
+    {
+      "key": "ProgressPopup_Suicide",
+      "text": "Akhiri\nHidup"
+    },
+    {
+      "key": "ProgressPopup_EnemyAttackIndication",
+      "text": "Tampilkan jangkauan serangan musuh secara tepat"
+    },
+    {
+      "key": "ProgressPopup_MyAttackIndication",
+      "text": "Tampilkan jangkauan serangan sekutu secara tepat"
+    },
+    {
+      "key": "ProgressPopup_Restore",
+      "text": "Pulihkan Titik Penyimpanan"
+    },
+    {
+      "key": "RestorePopup_Title",
+      "text": "Pulihkan Titik Penyimpanan"
+    },
+    {
+      "key": "RestorePopup_Checking",
+      "text": "Memeriksa..."
+    },
+    {
+      "key": "RestorePopup_FoundNoQuest",
+      "text": "Penyimpanan otomatis yang dapat dipulihkan ditemukan."
+    },
+    {
+      "key": "RestoreCompare_ColCurrent",
+      "text": "Titik Penyimpanan Terakhir"
+    },
+    {
+      "key": "RestoreCompare_ColBackup",
+      "text": "Pulihkan"
+    },
+    {
+      "key": "RestoreCompare_NoQuest",
+      "text": "Tidak Ada"
+    },
+    {
+      "key": "RestoreCompare_Unknown",
+      "text": "Tidak Ditemukan"
+    },
+    {
+      "key": "RestoreCompare_SavedAt",
+      "text": "Disimpan Pada: {0}"
+    },
+    {
+      "key": "RestorePopup_None",
+      "text": "Tidak ada penyimpanan otomatis yang dapat dipulihkan."
+    },
+    {
+      "key": "RestorePopup_LoadFailed",
+      "text": "Tidak dapat memverifikasi informasi penyimpanan otomatis."
+    },
+    {
+      "key": "RestorePopup_Confirm",
+      "text": "Setiap kemajuan yang anda buat sejak titik penyimpanan tersebut akan dihapus. Proses ini tidak dapat dibatalkan. Tetap pulihkan penyimpanan?"
+    },
+    {
+      "key": "RestorePopup_Running",
+      "text": "Memulihkan..."
+    },
+    {
+      "key": "RestorePopup_NeedRestart",
+      "text": "Berhasil dipulihkan. Setiap kemajuan yang dibuat setelah titik ini tidak akan disimpan. Harap muat ulang permainan."
+    },
+    {
+      "key": "RestorePopup_Close",
+      "text": "Tutup"
+    },
+    {
+      "key": "Inventory_Empty",
+      "text": "Tidak ada item di dalam tas."
+    },
+    {
+      "key": "Inventory_NotSelected",
+      "text": "Tidak ada item yang dipilih."
+    },
+    {
+      "key": "LogPopup_Title",
+      "text": "Riwayat Log"
+    },
+    {
+      "key": "Setting_Tab_Sisyphus",
+      "text": "Sisyphe"
+    },
+    {
+      "key": "Setting_Sisyphus_UiSetting",
+      "text": "Pengaturan UI"
+    },
+    {
+      "key": "Setting_Sisyphus_KeyManual",
+      "text": "Panduan pintasan papan ketik"
+    },
+    {
+      "key": "Setting_Sisyphus_CensorDeadscene",
+      "text": "Sensor adegan kematian"
+    },
+    {
+      "key": "Setting_Sisyphus_Move",
+      "text": "Bergerak"
+    },
+    {
+      "key": "Setting_Sisyphus_Interaction",
+      "text": "Interaksi"
+    },
+    {
+      "key": "Setting_Sisyphus_Quest",
+      "text": "Jurnal: Misi"
+    },
+    {
+      "key": "Setting_Sisyphus_GauntletSuicide",
+      "text": "Gunakan sarung tangan besi untuk mengakhiri hidup"
+    },
+    {
+      "key": "Setting_Sisyphus_Attack",
+      "text": "Serang"
+    },
+    {
+      "key": "Setting_Sisyphus_Guard",
+      "text": "Bertahan"
+    },
+    {
+      "key": "Setting_Sisyphus_Dodge",
+      "text": "Menghindar"
+    },
+    {
+      "key": "Setting_Sisyphus_Run",
+      "text": "Lari"
+    },
+    {
+      "key": "Setting_Sisyphus_LockedNeedItem",
+      "text": "※ Tidak tersedia. Beli item terkait untuk membuka kunci."
+    },
+    {
+      "key": "Setting_Sisyphus_LanternToggle",
+      "text": "Lentera NYALA/MATI"
+    },
+    {
+      "key": "Setting_Sisyphus_CloseWindowOrSetting",
+      "text": "Tutup jendela terbuka / Pengaturan"
+    },
+    {
+      "key": "Setting_Sisyphus_Inventory",
+      "text": "Lihat tas"
+    },
+    {
+      "key": "Setting_Sisyphus_DialogueNext",
+      "text": "Lanjutkan / Konfirmasi pilihan dialog"
+    },
+    {
+      "key": "Setting_Sisyphus_DialogueChoice",
+      "text": "Telusuri pilihan dialog"
+    },
+    {
+      "key": "Setting_Sisyphus_DialogueSkip",
+      "text": "Lewati dialog"
+    },
+    {
+      "key": "Setting_Sisyphus_FullLog",
+      "text": "Lihat Riwayat Log"
+    },
+    {
+      "key": "Setting_Sisyphus_CreditFastForward",
+      "text": "Percepat guliran kredit"
+    },
+    {
+      "key": "Setting_Sisyphus_CreditSkip",
+      "text": "Lewati kredit"
+    },
+    {
+      "key": "Setting_Sisyphus_QuestNavigation",
+      "text": "Beralih panah navigasi misi"
+    },
+    {
+      "key": "Setting_Sisyphus_TabDefault",
+      "text": "Kontrol (Papan Ketik)"
+    },
+    {
+      "key": "Setting_Sisyphus_TabMobile",
+      "text": "Kontrol (Ponsel)"
+    },
+    {
+      "key": "WardenBigNail",
+      "text": "Paku Besar Sang Penjaga"
+    },
+    {
+      "key": "FormationUI_AskToBack",
+      "text": "Keluar melalui tombol \"kembali\" akan dihitung sebagai kekalahan."
+    },
+    {
+      "key": "Setting_Sisyphus_Manual",
+      "text": "Panduan"
+    },
+    {
+      "key": "Setting_Sisyphus_BattleStatus",
+      "text": "Status di dalam Kegelapan"
+    },
+    {
+      "key": "TheaterTitle",
+      "text": "Cinéma"
+    },
+    {
+      "key": "SettingTitle",
+      "text": "Pengaturan"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileMenu",
+      "text": "Buka Menu"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileAutoAttack",
+      "text": "Serangan Otomatis"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileInteraction",
+      "text": "Interaksi"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileQuestNavigation",
+      "text": "Panah Navigasi Misi"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileLantern",
+      "text": "Lentera"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileUnlockNotice",
+      "text": "Fungsi yang ditandai dengan \"※\" harus dibuka kuncinya dengan membeli item terkait."
+    },
+    {
+      "key": "Rpg_Menu_Status_Ego_Resources_Owned",
+      "text": "Sumber Daya E.G.O Saat Ini"
+    },
+    {
+      "key": "Rpg_Menu_Status_Character_Mental_Status",
+      "text": "Status SP Pendosa"
+    },
+    {
+      "key": "Rpg_Move_Floor_Ui_Current_Floor",
+      "text": "Lantai Saat Ini"
+    }
+  ]
+}
