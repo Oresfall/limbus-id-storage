@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "key": "N201101",
+      "displayName": "Pencicip Mata"
+    },
+    {
+      "key": "N201102",
+      "displayName": "Pencicip Hidung"
+    },
+    {
+      "key": "N201103",
+      "displayName": "Kaki Haus"
+    },
+    {
+      "key": "N201104",
+      "displayName": "Dompet Kulit"
+    },
+    {
+      "key": "N201105",
+      "displayName": "Dompet Denim"
+    },
+    {
+      "key": "N201106",
+      "displayName": "Kaki Lapar"
+    },
+    {
+      "key": "N201107",
+      "displayName": "Pencicip Mulut"
+    },
+    {
+      "key": "N201108",
+      "displayName": "Kaki Haus"
+    },
+    {
+      "key": "N201109",
+      "displayName": "Kaki Lapar"
+    },
+    {
+      "key": "N201110",
+      "displayName": "Dompet Kulit"
+    }
+  ]
+}
