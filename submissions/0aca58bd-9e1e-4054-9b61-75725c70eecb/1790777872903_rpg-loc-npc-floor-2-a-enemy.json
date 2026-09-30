@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "key": "N102002",
+      "displayName": "Direktur Merek"
+    },
+    {
+      "key": "N102004",
+      "displayName": "Staf Le Rouge"
+    },
+    {
+      "key": "N102025",
+      "displayName": "Staf Le Rouge"
+    },
+    {
+      "key": "N102026",
+      "displayName": "Rouge Penolakan"
+    },
+    {
+      "key": "N102027",
+      "displayName": "Manajer Toko Le Rouge"
+    },
+    {
+      "key": "N102042",
+      "displayName": "Noir Menerjang"
+    },
+    {
+      "key": "N102043",
+      "displayName": "Noir Menyerbu"
+    },
+    {
+      "key": "N102044",
+      "displayName": "Noir Menyerbu"
+    },
+    {
+      "key": "N102046",
+      "displayName": "Noir Menerjang"
+    }
+  ]
+}
