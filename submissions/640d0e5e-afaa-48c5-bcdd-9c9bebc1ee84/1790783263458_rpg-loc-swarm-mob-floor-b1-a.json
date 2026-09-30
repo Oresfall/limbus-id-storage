@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_baggar",
+      "displayName": "Dompet Kulit"
+    },
+    {
+      "key": "swarm_collecter_type_e",
+      "displayName": "Pencicip Mata"
+    },
+    {
+      "key": "swarm_collecter_type_m",
+      "displayName": "Pencicip Mulut"
+    },
+    {
+      "key": "swarm_collector_type_n",
+      "displayName": "Pencicip Hidung"
+    },
+    {
+      "key": "swarm_denim_baggar",
+      "displayName": "Dompet Denim"
+    },
+    {
+      "key": "swarm_resident",
+      "displayName": "Kaki Haus"
+    },
+    {
+      "key": "swarm_resident_b",
+      "displayName": "Kaki Lapar"
+    }
+  ]
+}
