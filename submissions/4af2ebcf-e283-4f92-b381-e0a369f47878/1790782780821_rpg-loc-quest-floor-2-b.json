@@ -1,0 +1,115 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "Lihat-Lihat Sekitar 2F Sebentar",
+      "description": "Kita balik lagi ke 2F. Sama kayak sebelumnya, kita mungkin nggak bakal bisa langsung masuk begitu aja. Ayo kita lihat-lihat sekitar dulu sebentar.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2003",
+      "title": "Masuk ke Aula Mewah",
+      "description": "Yang jaga pintu masuk udah nggak ada. Mungkin situasinya udah berubah. Ayo kita masuk ke dalam.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Masuk ke Aula Mewah"
+        }
+      ]
+    },
+    {
+      "key": "Q2004",
+      "title": "Masuk ke Aula Mewah (2)",
+      "description": "Aula Mewah penuh sama mayat-mayat Le Noir yang bertebaran. Ayo kita lanjut jalan ke dalam.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi lebih dalam ke Aula Mewah"
+        }
+      ]
+    },
+    {
+      "key": "Q2005",
+      "title": "Masuk ke Aula Mewah (3)",
+      "description": "Pintu masuk yang dibuat sama para Rouge waktu itu ada di sini lagi. Ayo kita lewat situ.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Masuk ke Aula Mewah lewat pintu masuk"
+        }
+      ]
+    },
+    {
+      "key": "Q2008",
+      "title": "Periksa Buaian",
+      "description": "Direktur Merek Le Rouge bilang apa pun yang lagi tidur di dalam Buaian bakal segera bangun, terus minta kita buat nemenin di sampingnya. Buat sekarang, ayo kita dekati Buaian.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Periksa Buaian"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Bawa kepingan itu ke dekat Buaian"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Coba suapkan kepingan itu ke Buaian"
+        },
+        {
+          "index": 3,
+          "goalDescription1": "Selamatkan anak itu dari Buaian"
+        }
+      ]
+    },
+    {
+      "key": "Q2008A",
+      "title": "Bicara dengan Anak dari Buaian",
+      "description": "Yang keluar dari Buaian kelihatannya anak kecil. Coba ajak ngobrol deh.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bicara dengan anak dari Buaian"
+        }
+      ]
+    },
+    {
+      "key": "Q2008B",
+      "title": "Tangkap Anak yang Kabur",
+      "description": "Anak dari Buaian itu langsung kabur ke pojokan pas lihat kita. Ayo kejar terus coba ajak ngobrol.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tangkap anak dari Buaian"
+        }
+      ]
+    },
+    {
+      "key": "Q2009",
+      "title": "Tinggalkan Aula Mewah",
+      "description": "Anak dari Buaian itu mulai ngikutin kita, walau dia masih jaga jarak sih. Buat sekarang, ayo kita keluar dari Aula Mewah.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Tinggalkan Aula Mewah"
+        }
+      ]
+    },
+    {
+      "key": "Q2010",
+      "title": "Pergi ke 4F",
+      "description": "Kita bawa tulang belakang penjual Rouge. Kita nggak tahu bakal ada kejadian apa lagi nanti, jadi mending simpan aja barang apa pun yang mungkin berguna. Urusan kita di sini udah kelar. Kita harus lanjut ke 4F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pergi ke 4F"
+        }
+      ]
+    }
+  ]
+}
