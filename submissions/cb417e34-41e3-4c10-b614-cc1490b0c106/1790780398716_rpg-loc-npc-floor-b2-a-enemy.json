@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "N202031",
+      "displayName": "Needlekin Merah"
+    },
+    {
+      "key": "N202031Alt",
+      "displayName": "Needlekin Merah"
+    },
+    {
+      "key": "N202032",
+      "displayName": "Needlekin Hijau"
+    },
+    {
+      "key": "N112001",
+      "displayName": "Air Mata Kuning Memaserasi"
+    },
+    {
+      "key": "N112002",
+      "displayName": "Air Mata Merah Bernanah"
+    },
+    {
+      "key": "N112003",
+      "displayName": "Air Mata Biru Meluap"
+    },
+    {
+      "key": "N202034",
+      "displayName": "Benang Hitam"
+    }
+  ]
+}
