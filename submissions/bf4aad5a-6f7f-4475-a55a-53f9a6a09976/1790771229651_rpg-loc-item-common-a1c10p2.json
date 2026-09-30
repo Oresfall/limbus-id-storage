@@ -1,0 +1,411 @@
+{
+  "dataList": [
+    {
+      "key": "I104004",
+      "displayName": "Jantung Merah Rubi",
+      "description": "Wadah yang dulunya menyimpan keinginan Lemari Bahagia untuk terus ada."
+    },
+    {
+      "key": "I104005",
+      "displayName": "Telur Abnormality yang Menyebarkan Kelopak Merah Muda",
+      "statText": "Di Symbolic, saat mengenai serangan pada musuh menggunakan <color=#F8C200>Serangan Dasar</color>, berikan <color=#F8C200>Tanda Kelopak</color>\n- Efek ini hanya diberikan jika musuh tidak memiliki <color=#F8C200>Tanda</color> ini\n- <color=#F8C200>Tanda Kelopak</color> bertahan selama 10 detik\n- Cooldown Tanda Kelopak: 10 detik (dihitung sejak mark diberikan)\n- <color=#F8C200>Serangan Dasar</color> Meursault memberikan +1 <color=#fe4b48>Damage</color> terhadap target yang terkena Tanda Kelopak\n- Saat target yang memiliki mark ini dikalahkan, berikan 5 <color=#fe4b48>damage</color> pada 3 x 3 ubin yang berpusat pada target",
+      "description": "Setiap pelanggan dan karyawan di toko departemen sudah mengalami Distortion mereka sendiri. Karena titik akhir dari Distortion adalah sebuah Abnormality, kelainan yang sebenarnya justru kalau tidak ada Abnormality yang muncul di sini."
+    },
+    {
+      "key": "I104006",
+      "displayName": "Kancing Emas",
+      "description": "Kancing yang dibentuk dari Resin Emas."
+    },
+    {
+      "key": "I104007",
+      "displayName": "Gigi Emas",
+      "description": "Gigi yang dijahit bersama Kulit Emas."
+    },
+    {
+      "key": "I104008",
+      "displayName": "Rambut Emas",
+      "description": "Rambut yang ditarik menjadi helaian-helaian emas."
+    },
+    {
+      "key": "I990311",
+      "displayName": "Paku Merah",
+      "description": "Tulang belakang seorang karyawan yang menunggu Suara itu dengan putus asa. Paku ada untuk menahan segala sesuatu dengan kuat. Tulang menahan daging di tempatnya. Tulang adalah paku. Paku menancap seperti jarum. Tulang belakang ini bukan hanya paku yang berkualitas, tapi juga sebuah jarum."
+    },
+    {
+      "key": "I990313",
+      "displayName": "Keyakinan",
+      "statText": "Di Symbolic, saat menerima <color=#fe4b48>Damage</color> yang dapat menyebabkan kematian, peluang 10% untuk bertahan hidup dengan 1 <color=#00ff9c>HP</color>\n- Tidak termasuk damage tertentu seperti Kematian Instan\n\nDi Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "\"Iman adalah dasar dari segala sesuatu yang kita harapkan dan bukti dari segala sesuatu yang tidak kita lihat.\""
+    },
+    {
+      "key": "I990417",
+      "displayName": "Sepatu Mary Jane Merah Muda",
+      "statText": "Potensi Pulsation Pwie +1 selama pertempuran di Shadowed\n- Kecepatan Min & Maks +3\n- Koin \"Crimson Nail\" +1 (Saat Mengenai Serangan menggunakan Koin tambahan, tembakkan <color=#F8C200>Projektil Kelopak</color>)\n- Saat menggunakan Skill \"Perk Up\", peroleh +1 Atk Weight untuk setiap 2 Potensi Pulsation (maks 2)\n- Buka Skill \"Grab My Hand\" (digunakan secara otomatis saat rekan mengalami Stagger untuk <color=#F8C200>memulihkan mereka dari Stagger</color> dan <color=#00ff9c>memulihkan</color> <color=#00ff9c>HP</color> mereka; 2 kali per giliran)",
+      "description": "Sepatu yang membawa siapa pun pulang. Aroma samar yang tersebar di setiap langkah terendam dalam kerinduan, karena siapa pun yang memakainya mulai mendambakan tempat terjauh dari rumah. Bagaimanapun juga, makin seseorang merindukan rumah, makin dekat ia ditarik ke rumah."
+    },
+    {
+      "key": "I991012",
+      "displayName": "Kain Kafan Emas",
+      "statText": "Di Symbolic, Pwie meninggalkan <color=#F8C200>Le Vomissement</color> di jejak langkah mereka\n- Musuh dalam kurun 1 ubin dari Pwie dan musuh di atas <color=#F8C200>Le Vomissement</color> menerima 4 <color=#fe4b48>Damage</color> setiap 2 detik\n- Memberikan <color=#F8C200>Golden Revelation</color> ke semua musuh yang menerima <color=#fe4b48>Damage</color> dari efek ini\n- Saat musuh yang memiliki <color=#F8C200>Golden Revelation</color> mati, mereka memberikan 4 <color=#fe4b48>Damage</color> dalam kurun 1 ubin di sekitar mereka (hitstun 0.1 detik)\n\nSelama pertempuran di Shadowed:\n- Pwie memperoleh 1 Potensi Pulsation\n- Level Pertahanan +10\n- Akhir Giliran: Jika Pwie mengalami Stagger, pulih dari Stagger dan <color=#00ff9c>memulihkan</color> 50% <color=#00ff9c>HP</color> (sekali per Encounter)\n- Saat Mengenai Serangan menggunakan \"Crimson Nail (Koin ke-2)\", \"Go Away\", atau \"Baptism of Crimson Nails\", berikan 1 <color=#F8C200>Golden Revelation</color>\n- Saat menggunakan \"Baptism of Crimson Nails\", pada 5+ Potensi Pulsation, peroleh +2 Atk Weight dan Kekuatan Koin +(Potensi Pulsation - 3)\n- Saat menggunakan \"Don't Get Hurty\", secara tambahan <color=#00ff9c>memulihkan</color> (Potensi Pulsation x 2)% <color=#00ff9c>HP</color> dan (Potensi Pulsation x 3) SP\n- Saat Mengenai Serangan menggunakan \"Grab My Hand\", berikan Perisai setara dengan 50% dari maks <color=#00ff9c>HP</color> target giliran berikutnya",
+      "description": "Jubah bulu domba yang menjaga bulu Kulit Emas. Pakaian ini menahan apa yang datang dari luar, sembari mempercepat apa yang mekar di dalam. Begitu sang anak memakainya, masa kanak-kanak pun berakhir. Anak itu mempelajari apa yang diharapkan orang lain dan apa yang harus dipulihkan, lalu terpaksa bertindak sesuai hal itu. Tak ada lagi izin untuk penasaran pada dunia."
+    },
+    {
+      "key": "I991013",
+      "displayName": "Ikatan Kulit Mentah",
+      "description": "Saat daging dikupas dari tulang, kulit dikupas dari daging. Lalu rambut yang menempel di atasnya harus dilarutkan sampai hanya tersisa kulit mentah."
+    },
+    {
+      "key": "I991014",
+      "displayName": "Kulit Penyamakan",
+      "description": "Kulit mengambil warna cokelat penyamakan saat tanin mengubahnya di dalam Penyamakan."
+    },
+    {
+      "key": "I991015",
+      "displayName": "Kulit Lentur",
+      "description": "Kulit adalah proses di mana daging berubah menjadi tumbuhan. Daging dilarutkan, dan dahan-dahan kayu mengisi rongga yang ditinggalkan."
+    },
+    {
+      "key": "I991016",
+      "displayName": "Alat-Alat Perubahan",
+      "statText": "Di Symbolic, membuka <color=#F8C200>Projektil Pengawas</color>\n- Ditembakkan ke musuh acak dalam kurun 5 ubin (cooldown 2.5 detik)\n- Saat mengenai target, memberikan 3 <color=#fe4b48>Damage</color> dalam kurun 1 ubin (hitstun 0.1 detik)\n\nDalam Pertempuran Shadowed, buka \"I'll End It for You...\" untuk Pwie\n- Jika musuh tidak terbunuh oleh Skill Serangan, gunakan itu pada musuh tersebut (sekali per giliran)\n- Berikan +0.5% <color=#fe4b48>damage</color> untuk setiap 1% <color=#00ff9c>HP</color> yang hilang pada target (maks 30%)",
+      "description": "Alasan para Rouge menginginkan kulit itu sederhana. Kulit adalah penipisan; kain adalah kelebihan. Mereka memakan dagingnya, lalu memakai apa yang tersisa, tanpa pernah berpikir apa yang terjadi jika tak ada lagi yang tersisa untuk dimakan. Konsumsi sekarang. Pakai sekarang. Para Rouge menyembah penipisan. Mereka tidak berjalan menuju penipisan karena mereka menyukai kulit. Mereka memakai kulit karena penipisan memang selalu menjadi tujuannya."
+    },
+    {
+      "key": "I991022",
+      "displayName": "Kain Kulit Emas",
+      "description": "Kulit Emas, kalau begitu, bisa digambarkan sebagai kulit yang strukturnya dipadatkan dengan ikatan-ikatan emas kecil. Kulit yang dulunya mengisi retakan itu benar-benar kulit dan daging seseorang. Dan begitu disamak, kulit itu memiliki sifat-sifat pepohonan yang sesuai dengan Ranting Emas.\n\nTapi apa Ranting Emas pernah benar-benar dipastikan sebagai tumbuhan?"
+    },
+    {
+      "key": "I992705",
+      "displayName": "Larva",
+      "description": "Sebelum toko departemen dibangun, sosok dari masa kuno bertahan hidup seolah oleh keajaiban dan meninggalkan seekor keturunan. Keturunan yang bertahan hidup itu terdampar di Pesisir, di sana menjadi bahan untuk era yang baru."
+    },
+    {
+      "key": "I990423",
+      "displayName": "Lampu-Lampu",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> Diterima -2 saat terkena hit sambil berdiri diam (min 1 <color=#fe4b48>Damage</color> diterima)",
+      "description": "Iri dengan pancaran sinar matahari, ia berubah menjadi lampu. Namun sebuah lampu harus berada lebih dekat dengan orang-orang daripada matahari, karena matahari terlalu menyilaukan dan panas untuk disimpan di sisi seseorang."
+    },
+    {
+      "key": "I990808",
+      "displayName": "Ini Hangat, Kamu Dengar?",
+      "statText": "Di Symbolic, <color=#00ff9c>memulihkan</color> 3 <color=#00ff9c>HP</color> Symbolic setelah membunuh musuh (cooldown 4 detik)",
+      "description": "Hangat itu aroma, bukan rasa, kamu dengar? Aroma dan rasa itu berbeda, tapi mereka menempel bersama, kamu dengar? Suatu hari nanti, aku bakal memasak hidangan yang cuma terbuat dari aroma, kamu dengar? Lalu semua orang di sini bisa makan sampai kenyang tanpa khawatir kehabisan makanan, kamu dengar?"
+    },
+    {
+      "key": "I990807",
+      "displayName": "Ini Gurih, Kamu Dengar?",
+      "statText": "<color=#fe4b48>Kecepatan Serangan</color> +15% di Symbolic",
+      "description": "Rasa gurih benar-benar membangkitkan selera makan, kamu dengar? Begitu kamu merasakan selera makan itu, kamu mulai menginginkan hidangan berikutnya, kamu dengar? Menginginkan hidangan berikutnya berarti menantikan rasa berikutnya, kamu dengar? Jadi, gurih itu artinya antisipasi, kamu dengar?"
+    },
+    {
+      "key": "I990113",
+      "displayName": "Tas Bahu Kasual Le Rouge",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +3",
+      "description": "Apa kamu pernah mencicipi Kulit Emas yang dijejalkan ke dalam retakan? Oh, pakaian yang dibumbui dengan kulit itu... itu rasa yang nggak bakal pernah bisa dilupakan."
+    },
+    {
+      "key": "I990114",
+      "displayName": "Hoodie Kasual Le Rouge",
+      "statText": "<color=#fe4b48>Damage</color> Diberikan +1 di Symbolic",
+      "description": "Kadang-kadang, menggerogoti Kulit Emas bikin retakannya makin lebar. Waktu itu terjadi, kamu tangkap orang-orang Noir jahat yang mencoba mengendalikan Kulit itu. Jejalkan mereka ke dalam celah, sumbat sampai rapat... Dan voilà, masalah selesai."
+    },
+    {
+      "key": "I990115",
+      "displayName": "Topi Kontemporer Le Rouge",
+      "statText": "Di Symbolic, membuka <color=#F8C200>Evade</color>\n- Tekan <color=#F8C200>tombol Evade (Z pada keyboard)</color> untuk <color=#F8C200>Evade</color> 1 ubin ke arah gerakan, atau arah yang sedang dihadap saat diam (cooldown 0.5 detik)\n- <color=#F8C200>Evade</color> memicu <color=#F8C200>Durasi Kebal Hit</color> selama 0.2 detik dan bisa juga diaktifkan selama serangan",
+      "description": "Seseorang pernah bertanya-tanya, \"Apa yang ada di sini sebelum Grand Magasin dibangun?\" Pikiran itu segera ditaruh di dalam topi, di mana ia tenggelam tak terlihat."
+    },
+    {
+      "key": "I990116",
+      "displayName": "Sarung Tangan Kontemporer Le Rouge",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +3",
+      "description": "Kulit Emas bisa dikonsumsi atau dipakai. Kulit adalah daging itu sendiri; kulit benar-benar hidup dan bernapas. Nggak ada bedanya sama kulit tubuh kita sendiri."
+    },
+    {
+      "key": "I990111",
+      "displayName": "Kaos Kaki Panjang Kontemporer Le Noir",
+      "statText": "Membuka Level 2 <color=#F8C200>Garde</color> di Symbolic\n- Waktu <color=#F8C200>Garde</color>: 2.5 detik\n- <color=#fe4b48>Damage</color> <color=#F8C200>Garde</color>: <color=#fe4b48>Damage</color> Serangan +2 di Symbolic",
+      "description": "Oh, retakannya menutup. Yang menyegel celah itu adalah emas—Resin Emas."
+    },
+    {
+      "key": "I990112",
+      "displayName": "Jepit Dasi Kontemporer Le Noir",
+      "statText": "Membuka <color=#F8C200>Pertahanan Sempurna</color> di Symbolic\n- Kondisi Aktif: Dalam kurun 0.3 detik setelah menekan tombol <color=#F8C200>Bertahan</color>, melakukan <color=#F8C200>Bertahan</color> ke arah <color=#F8C200>Serangan</color> mengurangi <color=#fe4b48>Damage</color> yang masuk menjadi 0\n",
+      "description": "Lindungi Resin Emas. Resin Emas, pada gilirannya, menjaga Grand Magasin agar tidak runtuh. Rantai sebab akibat yang sederhana."
+    },
+    {
+      "key": "I990418",
+      "displayName": "Sepatu Wingtip Aula Alas Kaki Le Noir",
+      "statText": "Di Symbolic, menggunakan Level 2 atau lebih <color=#F8C200>Garde</color> memicu <color=#F8C200>Dash</color> 3 ubin ke depan\n- Berhenti lebih awal jika ada rintangan yang menghalangi jalan",
+      "description": "Sebuah sepatu harus melindungi pemakainya tanpa cela. Sepatu harus menahan mereka tetap tegak di atas bumi, stabil dan tak tergoyahkan. Dunia ini berbahaya; di atas tanah yang tak stabil, sepatu adalah benteng pertahanan terakhir dari stabilitas."
+    },
+    {
+      "key": "I990419",
+      "displayName": "Semir Sepatu Aula Alas Kaki Le Noir",
+      "statText": "Kecepatan <color=#F8C200>Garde</color> Symbolic +25%",
+      "description": "Petunjuk Perawatan: Sepatu Noir terbuat dari batu. Sepatu batu itu keras dan tidak mudah rusak. Namun, sepatu ini mudah tergores, jadi anda harus menyembunyikan bekasnya dengan semir. Sepatu dengan banyak goresan terlihat tua; sepatu yang terlihat tua tampak rapuh secara struktur, dan sepatu yang tampak rapuh secara struktur bisa rusak."
+    },
+    {
+      "key": "I990811",
+      "displayName": "Umpan Pasta",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +4\n\nDi Symbolic, mengaktifkan Level 2 <color=#F8C200>Garde</color> sebagai <color=#F8C200>Rantai Serangan 2</color>\n- Semua gerakan dan efek diterapkan sebagai <color=#F8C200>Rantai Serangan 2</color>",
+      "description": "Larva yang bertahan hidup cukup lama hingga terdampar di pesisir menangkap aroma umpan. Mereka mencoba merayap ke Pesisir, hanya untuk dimasak dalam panasnya udara terbuka. Ini adalah dunia di luar perairan. Era Akuarium telah berakhir, dan Era Toko Departemen sekarang harus dijalani."
+    },
+    {
+      "key": "I990812",
+      "displayName": "Air Hitam Pesisir",
+      "statText": "Di Symbolic, membuka <color=#F8C200>Projektil Air Hitam</color> Pwie\n- Menembak musuh terdekat dalam kurun 5 ubin (cooldown 2.5 detik)\n- Saat mengenai target, memberikan total 2 <color=#fe4b48>Damage</color> selama 3 detik\n\nDalam Pertempuran Shadowed, Potensi Pulsation Pwie +1\n- Setelah menggunakan \"Perk Up\", jika dalam Uncontrollable Rampage dan pada 10+ Jumlah Pulsation, konsumsi 10 Jumlah Pulsation untuk memberikan 1 <color=#F8C200>Base Power Up</color> pada target\n- Saat menggunakan \"Don't Get Hurty\" dan pada 3+ Potensi Pulsation, dapatkan Atk Weight +2; Saat Mengenai Serangan, pulihkan SP setara dengan Kekuatan Skill\n- Buka \"Baptism of Crimson Nails\" (menyerang 3 musuh)",
+      "description": "Ia melahirkan terlalu banyak hal ke dunia, dan karena itulah, dosanya sangat berat. Melahirkan begitu banyak hal tidak ada bedanya dengan membunuh sama banyaknya. Merekam dari masa kuno yang dulu berenang melintasi Benang Hitam diam-diam mengerami telur-telurnya di kedalaman terendah, membiakkan dosa-dosanya."
+    },
+    {
+      "key": "I991019",
+      "displayName": "Tanin",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> <color=#F8C200>Garde</color> Diberikan +3",
+      "description": "Di bagian paling bawah toko departemen, pengerjaan kulit yang berbau busuk dan kejam berlangsung.\n\nKulit adalah apa yang tersisa setelah jejak-jejak kehidupan dikupas habis. Namun jika dibiarkan begitu saja, kulit hanya akan membusuk. Hanya melalui penyamakan kulit berhenti menjadi sesuatu yang masih membawa kehangatan dari yang hidup, berubah menjadi tumpukan serat yang padat... sesuatu yang sama sekali berbeda."
+    },
+    {
+      "key": "I991020",
+      "displayName": "Garam Kromium",
+      "statText": "Di Symbolic, Kecepatan <color=#F8C200>Garde</color> <color=#F8C200>Dash</color> +30%",
+      "description": "Ada cara cepat dan cara lambat untuk memproses kulit. Dalam penyamakan krom, kulit direndam dalam kromium untuk mempercepat prosesnya, menyerap logam ke dalamnya yang tidak akan pernah ditemuinya di alam saat mengeras.\n\nIni cepat, tapi karena menarik waktu ke depan untuk memperoleh kecepatan itu, ia tidak bertahan lama."
+    },
+    {
+      "key": "I991021",
+      "displayName": "Minyak",
+      "statText": "Di Symbolic, menerapkan efek <color=#F8C200>Bertahan</color> selama <color=#F8C200>Garde</color>\n\nDi Symbolic, <color=#00ff9c>HP</color> +4",
+      "description": "Kulit direndam dalam bahan penyamak berbasis tumbuhan dan dikeringkan secara perlahan. Ini menuntut kesabaran dan waktu, tapi kulit yang bertahan melalui proses panjang seperti itu, pada gilirannya, bisa bertahan jauh lebih lama. Kulit, di atas segalanya, berasal dari karnivora. Namun kulit yang dibuat dengan cara ini disebut kulit veg-tan. Ini diselesaikan dengan memasukkan unsur tumbuhan ke dalam unsur karnivora.\n"
+    },
+    {
+      "key": "I990316",
+      "displayName": "Anting-Anting Boutique du Rouge",
+      "statText": "<color=#fe4b48>Kecepatan Serangan</color> +10% di Symbolic",
+      "description": "Mendesis yang tajam. Darah hangat. Daging yang meneteskan sari. Antisipasi akan rasa dan pengalaman yang belum datang."
+    },
+    {
+      "key": "I990420",
+      "displayName": "Sandal Aula Alas Kaki Le Rouge",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> <color=#F8C200>Avant</color> Diberikan +2",
+      "description": "Makin banyak kaki berarti makin banyak sepatu yang bisa dipakai. Bukannya itu hal yang bagus? Sejak kapan punya kaki lebih sedikit jadi tanda kehormatan di Aula Alas Kaki? Dulu, makin banyak kaki yang dimiliki seseorang, makin bagus. Serius deh, mau jadi apa dunia ini?"
+    },
+    {
+      "key": "I990421",
+      "displayName": "Tali Sepatu Aula Alas Kaki Le Rouge",
+      "statText": "Di Symbolic, Penggunaan <color=#F8C200>Evade</color> Beruntun +1",
+      "description": "Tali sepatu menutup mulut sepatu dan menyembunyikan lidahnya. Tali ini menjahit mulutnya hingga tertutup dan menariknya kencang agar tidak bisa lepas. Terikat begitu kuat, sepatu mungkin tidak bisa berbicara... Tapi ini memungkinkan bentuk kaki seseorang terlihat jelas."
+    },
+    {
+      "key": "I990426",
+      "displayName": "Gesper Aula Tas Tangan Le Rouge",
+      "statText": "Di Symbolic, mengenai <color=#F8C200>Rantai Serangan 2</color> <color=#00ff9c>memulihkan</color> 1 <color=#00ff9c>HP</color>",
+      "description": "Serpihan logam asing yang terselip di antara potongan kulit. Gesper ada untuk melakukan apa yang tidak bisa dilakukan oleh kulit saja. Kulit adalah daging. Gesper adalah tulang."
+    },
+    {
+      "key": "I990424",
+      "displayName": "Totebag Aula Tas Tangan Le Rouge",
+      "statText": "Di Symbolic, setelah berhasil melakukan <color=#F8C200>Parry</color>, menembakkan 1 <color=#F8C200>Projektil Pengejar</color> ke musuh terdekat dalam kurun 3 ubin, memberikan 2 <color=#fe4b48>Damage</color>",
+      "description": "Totebag ini punya banyak ruang dan bisa menampung apa saja tanpa masalah. Tas yang terbuat dari kulit mungkin terlihat meregang sesuai ukuran apa pun yang ada di dalamnya, tapi kulitnya tidak benar-benar meregang. Kulit hanya menjadi lebih lentur."
+    },
+    {
+      "key": "I990425",
+      "displayName": "Tas Bahu Aula Tas Tangan Le Rouge",
+      "statText": "Di Symbolic, setelah berhasil melakukan <color=#F8C200>Parry</color>, <color=#fe4b48>Damage</color> Diberikan +2 terhadap target yang serangannya di-<color=#F8C200>Parry</color>",
+      "description": "Saat para Rouge memutuskan untuk membentuk Dewa Crimson, tas yang tak terhitung jumlahnya disita. Kulit yang dikupas dari tubuh mereka yang dibongkar mendapat kehormatan untuk menjadi bagian dari Buaian."
+    },
+    {
+      "key": "I990427",
+      "displayName": "Tas Clutch Aula Tas Tangan Le Noir",
+      "statText": "Di Symbolic, melakukan <color=#F8C200>Bertahan</color> pada serangan jarak dekat memberikan 3 <color=#fe4b48>Damage</color> ke penyerang",
+      "description": "Bahan yang tak terhitung jumlahnya mungkin dipersembahkan untuk penciptaan seorang dewa, tapi Raksasa yang dihasilkan tidak akan pernah bisa melarikan diri dari hukum Grand Magasin. Untuk memegang otoritas setara dengan dewa-dewa lain, ia seharusnya tidak pernah terlahir di sini. Bukan sebagai bahan lain untuk toko departemen."
+    },
+    {
+      "key": "I990428",
+      "displayName": "Ransel Aula Tas Tangan Le Noir",
+      "statText": "Di Symbolic, setelah berhasil melakukan <color=#F8C200>Pertahanan Sempurna</color>, memicu <color=#F8C200>Serangan Ekstra</color> yang memberikan 2 <color=#fe4b48>Damage</color> dalam kurun 1 ubin dari Meursault (hitstun 0.1 detik)\n",
+      "description": "Meski begitu, itu <i>harus</i> dihentikan. Seorang dewa pemula tetaplah seorang dewa. Biarkan hal itu ada, dan itu hanya akan mendorong para Rouge untuk menggerogoti dan melahap lebih banyak Resin Emas."
+    },
+    {
+      "key": "I990429",
+      "displayName": "Tali Tas Aula Tas Tangan Le Noir",
+      "statText": "Di Symbolic, setelah berhasil melakukan <color=#F8C200>Pertahanan Sempurna</color>, menghentakkan musuh dalam kurun 1 ubin dari Meursault sejauh 1 ubin",
+      "description": "Katanya Manajer Merek para Noir tidak bisa berpindah lantai secara langsung saat ini, jadi hanya karyawan terdekat yang tersedia yang dikirim ke Aula Mewah. Aku penasaran apa kita berhasil mengendalikan situasi di sana."
+    },
+    {
+      "key": "I990912",
+      "displayName": "Mordan",
+      "statText": "Di Symbolic, <color=#F8C200>Sprint</color> meninggalkan <color=#F8C200>Ubin Nanah Kuning</color> yang bertahan selama 3 detik\n- Musuh yang berdiri di atas ubin ini mengalami Kecepatan Gerak -30%\n\nDi Symbolic, <color=#00ff9c>HP</color> +4",
+      "description": "Yang satu membawa cukup banyak air mata hingga meletus; yang lain, tak ada setetes pun."
+    },
+    {
+      "key": "I990913",
+      "displayName": "Pewarna",
+      "statText": "Di Symbolic, mengenai <color=#F8C200>Rantai Serangan 2</color> memicu <color=#F8C200>Serangan Ekstra</color> (hitstun 1 detik)\n- Memberikan 4 <color=#fe4b48>Damage</color> ke 1 musuh acak dalam kurun 3 ubin dari musuh yang terkena\n- Setelah memicu <color=#F8C200>Serangan Ekstra</color>, peluang (80 - jumlah pemicu x 20)% untuk mengaktifkan lagi pada 1 musuh acak dalam kurun 1 ubin dari target yang terkena\n- Dapat berantai (maks 5 kali; peluang pemicu minimum 10%)\n\nDi Symbolic, jangkauan <color=#F8C200>Rantai Serangan 2</color> +1 ubin",
+      "description": "Pada hari retakan terbentuk di dinding, pada hari Suara itu merembes masuk, kedua saudara masing-masing membuat keinginan yang berbeda. Yang satu berharap tidak pernah terluka lagi. Yang lain berharap tidak pernah sedih lagi. Yang dibebaskan dari rasa sakit sekarang bisa direndam dalam air mata, karena bukan rasa sakit yang memancing air mata."
+    },
+    {
+      "key": "I990915",
+      "displayName": "Naildle",
+      "statText": "Di Symbolic, membuka <color=#F8C200>Rantai Serangan 3</color> untuk <color=#F8C200>Avant</color>\n\n- Saat memicu <color=#F8C200>Rantai Serangan 3</color>, <color=#fe4b48>Damage</color> Symbolic Diberikan +2, Hitstun +0.1s, dan <color=#00ff9c>memulihkan</color> 1 <color=#00ff9c>HP</color>\n- Musuh yang dikalahkan oleh serangan ini terhentak ke belakang sejauh 5 ubin alih-alih menjadi mayat di tempat\n- Jika musuh bertabrakan selama terhentak, ia segera meledak, memberikan 2 <color=#fe4b48>Damage</color> dalam kurun 1 ubin, lalu menjadi mayat\n- Jika tidak ada tabrakan yang terjadi, ia meledak di akhir hentakan, memberikan 2 <color=#fe4b48>Damage</color> dalam kurun 1 ubin, lalu menjadi mayat",
+      "description": "Seiring waktu, wujud Manajer Lantai membalik menjadi bentuk yang cocok untuk perputaran roda pemintal yang tak berkesudahan. Kehendak yang sama melindunginya dari menjadi Mannequin tanpa akal, membaginya menjadi tiga bagian. Ketiganya, pada kenyataannya, adalah satu. Kita juga pada dasarnya adalah keutuhan dari bagian-bagian diri kita sendiri."
+    },
+    {
+      "key": "I990916",
+      "displayName": "Roda Pemintal",
+      "statText": "Membuka <color=#F8C200>Projektil Jarum</color> di Symbolic\n- Menembakkan proyektil yang memberikan 3 <color=#fe4b48>Damage</color> terhadap musuh terjauh dalam kurun 10 ubin (cooldown 3 detik, hitstun 0.5 detik)\n- Saat proyektil mengenai target, menembakkan Projektil lain ke musuh terdekat dengan peluang (100 / berapa kali efek memicu)%\n\nSelama pertempuran di Shadowed, Pwie memperoleh 1 Potensi Pulsation\n- Saat Penggunaan Skill \"Go Away\", Atk Weight +1 untuk setiap 2 Potensi Pulsation (maks 2)",
+      "description": "Merekam memutar roda untuk memintal benang.\n\nMerekam telah melakukannya begitu lama hingga kausalitas itu sendiri membalik ke dalam dirinya sendiri. Apa seseorang memintal benang untuk memutar roda, atau memutar roda untuk memintal benang? Pertanyaan itu menjadi tak terjawab, tapi itu tidak masalah. Di lantai ini, \"kenapa\" tidak terlalu penting. Peran Manajer Lantai dimulai dan diakhiri dengan fungsi tunggal: memintal benang dan memberikannya kepada penerimanya. Karena itu, roda pemintal tidak berhenti bahkan saat para pemintal mati. Benang menunggu di sini untuk kedatangan paku, untuk mengikat yang di sini dengan yang di sana."
+    },
+    {
+      "key": "I990422",
+      "displayName": "Kursi Kaca",
+      "statText": "Di Symbolic, jangkauan <color=#F8C200>Serangan Ekstra</color> 「Meja Kayu Solid」 +1 ubin (baik vertikal maupun horizontal)",
+      "description": "Kursi yang hancur berkeping-keping saat seseorang duduk. Itu makanya harganya mahal. Orang-orang membelinya tahu kalau kursi itu bakal hancur."
+    },
+    {
+      "key": "I990809",
+      "displayName": "Alat Pancing",
+      "statText": "Di Symbolic, peluang 30% untuk mengaktifkan <color=#F8C200>Serangan Ekstra Air Hitam</color>, memberikan 3 <color=#fe4b48>Damage</color> saat mengenai serangan (hitstun 1 detik)\n- Memicu <color=#F8C200>Serangan Ekstra Air Hitam</color> pada 1 musuh acak dalam kurun 3 ubin dari musuh yang terkena (maks 3 kali)",
+      "description": "Benda-benda dari masa kuno terdampar di Pesisir. Mereka bukan dari Grand Magasin, tapi sisa-sisa dari era sebelumnya, rusak dan ditakdirkan untuk makin rusak.\nKarena tempat ini sekarang adalah toko departemen yang dibangun dari rancangan orang lain."
+    },
+    {
+      "key": "I990317",
+      "displayName": "Kalung Boutique du Rouge",
+      "statText": "Di Symbolic, setelah <color=#F8C200>Evade</color>, peluang 20% untuk mengaktifkan <color=#F8C200>Serangan Ekstra Sambaran Petir</color> (hitstun 0.5 detik)\n- Sambaran Petir memberikan 2 <color=#fe4b48>Damage</color> ke 1 musuh acak dalam kurun 3 ubin\n\nDi Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Jika Suara merah Dewa Crimson tidak bisa lagi terdengar, kalau begitu <i>buat</i> itu terdengar. Ini adalah keinginan terkasih para Rouge... dan tugas yang ditetapkan untuk mereka."
+    },
+    {
+      "key": "I990318",
+      "displayName": "Topi Tinggi Maison du Noir",
+      "statText": "Di Symbolic, jangkauan <color=#F8C200>Rantai Serangan 2</color> +1 ubin",
+      "description": "Untuk membangun. Untuk menutupi. Untuk menyembunyikan. Untuk melindungi. Untuk menjaga. Begitulah kebajikan teguh dari Le Noir."
+    },
+    {
+      "key": "I990810",
+      "displayName": "Jaring Serokan",
+      "statText": "Di Symbolic, setelah membunuh musuh, peluang 20% untuk memunculkan <color=#F8C200>Larva Hitam</color>\n- <color=#F8C200>Larva Hitam</color> merayap ke musuh terdekat dalam kurun 10 ubin\n- Saat menyentuh musuh, atau jika gagal menyentuh musuh dalam 3 detik, meledak di tempat\n- Saat meledak, berikan 5 <color=#fe4b48>Damage</color> dalam kurun 1 ubin",
+      "description": "Akuarium dulu menampung ikan dan tangki yang tak terhitung jumlahnya dari segala jenis. Sisik, air, dan kurungan kaca terjalin melalui lingkungan dari setiap variasi. Yang paling bawah mengalir air yang ditenun dari Benang Hitam, dan di dalamnya tidur seekor ikan dalam keheningan."
+    },
+    {
+      "key": "I991018",
+      "displayName": "Mata Pembawa Kehampaan",
+      "statText": "Di Symbolic, tingkatkan <color=#F8C200>Projektil Pengawas</color> Pwie\n- Saat mengenai proyektil, memberikan 3 <color=#fe4b48>Damage</color> dalam kurun 2 ubin (hitstun 0.1 detik)",
+      "description": "Saat Akuarium berubah menjadi Grand Magasin, setiap sisa-sisa Akuarium seharusnya menghilang bersamanya. Namun sesuatu tetap tersisa—sesuatu yang masih mengingat waktunya di sana. Bagi Sisyphe System, yang telah lama diyakini sempurna, ini adalah cacat yang harus diselesaikan.\n\nUntuk alasan apa pun, ikan yang ditinggalkan tanpa pernah menjadi pelanggan akan tetap menjadi ikan, tidak peduli berapa kali Grand Magasin diatur ulang.\n\nUntuk memperbaiki cacat dalam Sisyphe System ini, Sinner yang bertanggung jawab atas ikan itu harus mati.\n\nTapi Sisyphe System sekaligus merupakan alat hukuman, aparatus pemanen sumber daya, dan perwujudan dari moralitas N Corp. Berdasarkan rancangannya, sistem ini tidak bisa membunuh tawanannya sendiri secara paksa."
+    },
+    {
+      "key": "I990918",
+      "displayName": "Gulungan Benang Penjahit Raja",
+      "statText": "Di Symbolic, tingkatkan <color=#F8C200>Projektil Jarum</color> Pwie\n- Menembus musuh di lintasannya, memberikan 2 <color=#fe4b48>Damage</color>\n\nSelama pertempuran di Shadowed, tingkatkan Skill \"Perk Up\" Pwie\n- Saat Mengenai Serangan, alih-alih menerapkan <color=#F8C200>Clash Power Up</color>, berikan 1 <color=#F8C200>Base Power Up</color>\n- Menerapkan <color=#F8C200>Offense Level Up</color> yang diterapkan Saat Mengenai Serangan giliran berikutnya juga",
+      "description": "Apa rasa... sepenting itu? Kamu nggak tahu apa Wriggley bakal enak atau nggak. Kalau kamu tetap mau makan Wriggley... apa kamu pernah makan Wriggley sebelumnya? Tapi... rasa itu berubah terus. Kenapa kamu pikir rasa Wriggley bakal sama lagi? Dan... Wriggley ada di sini. Nggak ada yang makan Wriggley. Aneh..."
+    },
+    {
+      "key": "I990813",
+      "displayName": "Celemek Bersih",
+      "statText": "Di Symbolic, tingkatkan <color=#F8C200>Projektil Air Hitam</color> Pwie\n- Munculkan <color=#F8C200>Ubin Air Hitam</color> dalam kurun 1 ubin dari titik darat (durasi: 5 detik)\n- Musuh di atas ubin yang terpengaruh:\n  - Menerima 2 <color=#fe4b48>Damage</color> setiap 2 detik \n  - Kecepatan Gerak -20%\n\nSelama pertempuran di Shadowed, tingkatkan Skill \"Baptism of Crimson Nails\" Pwie\n- Saat Penggunaan, Kekuatan Dasar +1 untuk setiap 4 <color=#F8C200>Bleed</color> pada target (maks 2)",
+      "description": "... Aku nggak mengerti. Kamu mencoba membunuh Meursault, Dante, dan aku waktu pertama kali kita bertemu. Aku butuh sesuatu darimu... tapi kamu nggak mau memberikannya, jadi memang nggak ada cara lain lagi, kan? Kamu mati karena... karena kamu jahat... Dan lemah juga. Jadi kenapa aku merasa buruk sekali? Kamu melakukan hal yang sama—Kenapa... kenapa cuma aku yang tersisa untuk merasakan rasa bersalah ini?"
+    },
+    {
+      "key": "I990315",
+      "displayName": "Selimut",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> Diterima -20% saat terkena hit sambil melakukan <color=#F8C200>Bertahan</color>",
+      "description": "Beberapa orang mencari tidur yang damai di dalam sangkar burung."
+    },
+    {
+      "key": "I990914",
+      "displayName": "Tulang Rawan",
+      "statText": "Membuka Level 3 <color=#F8C200>Garde</color> di Symbolic\n- Waktu <color=#F8C200>Garde</color>: 3 detik\n- <color=#fe4b48>Damage</color> <color=#F8C200>Garde</color>: <color=#fe4b48>Damage</color> Serangan +3 di Symbolic\n\nDi Symbolic, jarak <color=#F8C200>Garde</color> <color=#F8C200>Dash</color> +2 ubin",
+      "description": "Merekam yang dibebaskan dari kesedihan melupakan air mata.\nMerekam menjadi kering, kaku, dan tajam."
+    },
+    {
+      "key": "I991017",
+      "displayName": "Jelaga",
+      "statText": "Di Symbolic, mengaktifkan Level 3 <color=#F8C200>Garde</color> sebagai <color=#F8C200>Rantai Serangan 3</color>\n- Semua gerakan dan efek diterapkan sebagai <color=#F8C200>Rantai Serangan 3</color>\n- Saat pemain memiliki 「Umpan Pasta」, gerakan diterapkan sebagai <color=#F8C200>Rantai Serangan 3</color>\n- Saat efek ini aktif, memicu efek <color=#F8C200>Rantai Serangan 2</color> dan efek <color=#F8C200>Rantai Serangan 3</color> sekaligus",
+      "description": "Jelaga yang ditinggalkan oleh sesuatu yang tidak termasuk dalam toko departemen.\n\nSisyphe System telah mengubah bentuknya berulang kali seiring berlalunya setiap era. Grand Magasin Sisyphe hanyalah bentuk yang dianggap oleh salah satu Raksasanya—yaitu sang Arsitek, yang juga seorang Alterationist—paling nyaman dan cocok untuk diwujudkan dalam Symbolic.\n\nTergantung siapa yang ditugaskan di posisi ini, Sisyphe System bisa mengambil bentuk toko departemen, akuarium, pom bensin, gua, pegunungan, atau sesuatu yang lain sama sekali.\n\nApakah itu toko departemen atau gua bukanlah poin utamanya. Apa pun bentuk yang diambilnya, Sisyphe System akan selalu mengonstruksi cara untuk menciptakan \"tetesan\", atau fluktuasi, di dalam dirinya sendiri. Semua yang dibutuhkan sang Raksasa hanyalah perspektif yang mampu membayangkan struktur seperti itu."
+    },
+    {
+      "key": "I990917",
+      "displayName": "Jarum Pentul Penjahit Raja",
+      "statText": "Di Symbolic, setelah mengenai <color=#F8C200>Rantai Serangan 2</color>, berikan <color=#F8C200>Tanda of the Raja Needleworks</color>\n- Memberikan efek ini hanya jika tidak ada target yang memiliki <color=#F8C200>Tanda</color> ini\n- Durasi Tanda of the Raja Needleworks: 5 detik\n- Kecepatan Gerak target yang terpengaruh -30%\n- Saat target yang terpengaruh terbunuh, memberikan 3 <color=#fe4b48>Damage</color> dalam kurun 3 ubin (hitstun 0.1 detik)\n- Setelah durasi efek berakhir, menghapus Tanda dan memberikan 5 <color=#fe4b48>Damage</color>\n- Jika Damage tersebut membunuh target yang terpengaruh, memberikan 3 <color=#fe4b48>Damage</color> dalam kurun 1 ubin (hitstun 0.1 detik)",
+      "description": "Benang dan jarum. B2F dibangun dari kebutuhan akan dua konsep ini.\n\nBenang berusaha menembus jarum, sementara jarum rindu untuk ditembus. Untuk menangani esensinya, seseorang harus mendekatkan diri pada esensi itu sendiri; oleh karena itu, makin dalam seseorang turun ke ruang bawah tanah, kejelasan keberadaan makin kabur dan terfragmentasi hingga tereduksi menjadi kumpulan potongan-potongan kecil.\nMeskipun konsep benang dan jarum memang mendekati esensi pakaian secara dekat, itu tidak sama dengan esensinya. Pelarutan sang Alterationist, yang menangani benang, adalah takdir yang tak terhindarkan."
+    },
+    {
+      "key": "I102024",
+      "displayName": "Catatan Seorang Noir",
+      "statText": "Setelah melakukan <color=#F8C200>Bertahan</color> di Symbolic, <color=#fe4b48>Damage</color> Diberikan +2 pada serangan berikutnya (cooldown 5 detik)",
+      "description": "\"Aku melihat Direktur Merek para Rouge di antara para penyerang. Dia memegang telur di dadanya. Aku bisa merasakannya—kehangatan samar bertuhan yang menyebar dari dalam dirinya. Ah... Kurasa aku mungkin mengerti apa yang dicapainya sampai menyembelih kita semua...\""
+    },
+    {
+      "key": "I990319",
+      "displayName": "Gunting Kelopak",
+      "statText": "Di Symbolic, peluang 30% untuk mengaktifkan <color=#F8C200>Serangan Ekstra Guntingan Kelopak</color> yang memberikan 5 <color=#fe4b48>Damage</color> saat mengenai serangan (hitstun 0.3 detik)",
+      "description": "Ke mana pun kamu pergi, aku bakal <i>gunting-gunting</i> dengan gunting kelopak ini sampai jalan di bawahmu bermekaran dengan guguran bunga."
+    },
+    {
+      "key": "I991004",
+      "displayName": "Resin Emas Palet",
+      "description": "Kulit Emas adalah objek kekuatan. Pikiran mungkin tertatih-tatih di ambang kemerosotan menjadi Mannequin, namun Kulit Emas memberi mereka kesadaran, membimbing mereka untuk menjadi Distortion yang sempurna."
+    },
+    {
+      "key": "I991005",
+      "displayName": "Kulit Emas Manajer Lantai B2F",
+      "description": "Sebuah Distortion yang telah mencapai titik akhir memperoleh bahasa yang hanya bisa dipahami oleh dirinya sendiri. Ia tidak bisa berkomunikasi dengan orang lain menggunakan bahasa seperti itu."
+    },
+    {
+      "key": "I991006",
+      "displayName": "Kulit Emas Penjahit Raja",
+      "description": "Meskipun era telah berlalu, ia tidak merosot menjadi Mannequin; sebaliknya, dibantu oleh Kulit Emas, ia tetap menjadi Distortion yang berakal."
+    },
+    {
+      "key": "I991007",
+      "displayName": "Kulit Emas Sous Chef",
+      "description": "Kenapa cahaya yang merembes keluar dari Kulit Emas bertindak sebagai jangkar bagi kesadaran para Mannequin? Bukankah seharusnya itu malah mempercepat kemerosotan mereka menjadi Distortion tanpa akal?"
+    },
+    {
+      "key": "I991008",
+      "displayName": "Kulit Emas dari Tumpukan Mayat",
+      "description": "Secara paradoks, cahaya emas menginginkan semua Distortion mencapai titik akhir mereka, dan pada saat yang sama, ia tidak menginginkannya.\nApa yang bersemayam di dalam cahaya itu lebih dari sekadar entitas tunggal, dan begitu pula hati di dalam salah satu dari mereka."
+    },
+    {
+      "key": "I991009",
+      "displayName": "Kulit Emas Direktur Merek Le Rouge",
+      "description": "Distortion dapat tetap berakal dan menyampaikan kehendak mereka kepada orang lain melalui berbagai sarana komunikasi.\nBahwa cahaya itu tidak memusnahkan kearifan mereka adalah sebuah ironi, dan mungkin membocorkan sekilas kemanusiaan yang masih bersemayam di dalamnya."
+    },
+    {
+      "key": "I991010",
+      "displayName": "Kulit Emas Manajer Lantai 3F",
+      "description": "Melalui dialog dengan cahaya, pelanggan yang membawa sepotong Kulit Emas memperoleh kekuatan melampaui yang lain, yang memungkinkan mereka memperluas pengaruh mereka di seluruh Grand Magasin."
+    },
+    {
+      "key": "I991011",
+      "displayName": "Kulit Emas dari Retakan Dinding",
+      "description": "Tujuan Le Néant melampaui dekonstruksi toko departemen ini.\nMereka menginginkan dekapan cahaya secara penuh tanpa halangan."
+    },
+    {
+      "key": "I990501",
+      "displayName": "Kepatuhan",
+      "statText": "Selama pertempuran di Shadowed, sesaat sebelum Identity yang memiliki <color=#00ff9c>HP</color> 50% atau lebih rendah terkena Skill musuh, Identity tersebut mendapatkan Perisai setara dengan 20% dari <color=#00ff9c>HP</color>-nya yang hilang\n- Sekali per Identity per Encounter\n- Perisai ini tidak kadaluarsa setelah giliran berakhir",
+      "description": "Sisyphe System adalah aparatus yang dibangun untuk mengekstrak pengalaman dari tawanan secara efisien dan tanpa kekerasan. Di dalamnya, para tawanan mengalami berbagai macam pengalaman, dan variasi tersebut menjadi bahan dasar Adonan Pengalaman. Pengalaman adalah persepsi akan perubahan: perantian tanpa putus antara ketenangan dan gerakan. Le Noir menguasai ketenangan."
+    },
+    {
+      "key": "I990004",
+      "displayName": "Pulsation",
+      "statText": "Membuka <color=#F8C200>Parry</color> di Symbolic\n- Parry: Saat mengendalikan Meursault, pukul musuh 0.2 detik sebelum serangannya untuk membatalkan serangan (tidak termasuk serangan tertentu)\n\nMembuka <color=#F8C200>Bertahan</color> di Symbolic\n- Bertahan: Tekan dan tahan <color=#F8C200>Bertahan</color> (C pada keyboard) untuk mempertahankan posisi <color=#F8C200>Bertahan</color> Meursault\n- Saat melakukan <color=#F8C200>Bertahan</color>, <color=#fe4b48>Damage</color> Diterima -30% dari arah yang di-<color=#fe4b48>Bertahan</color>\n\nMembuka <color=#F8C200>Rantai Serangan 2</color> untuk Serangan <color=#F8C200>Avant</color> di Symbolic\n- Setelah mengaktifkan Avant, <color=#F8C200>ulangi serangan</color> untuk mengaktifkan Rantai Serangan 2\n- <color=#F8C200>Rantai Serangan 2</color>: <color=#fe4b48>Damage</color> Diberikan +2 dan <color=#F8C200>Hitstun</color> +0.1 detik terhadap musuh",
+      "description": "Orang-orang berbicara tentang mengalami masa kini. Namun jika pengalaman adalah tindakan mengantisipasi apa yang akan datang dan melihatnya terwujud, maka itu harus selalu terletak di masa depan."
+    },
+    {
+      "key": "I990002",
+      "displayName": "Palu",
+      "statText": "<color=#fe4b48>Damage</color> Diberikan +1 di Symbolic\nSelama pertempuran di Shadowed, berikan +10% <color=#fe4b48>damage</color> terhadap musuh yang memiliki <color=#F8C200>Bind</color>",
+      "description": "Sebuah palu. Palu memungkinkan paku memenuhi tujuannya. Namun walau berdiri sendiri, palu berfungsi sama baiknya sebagai instrumen penghancur."
+    },
+    {
+      "key": "I990431",
+      "displayName": "Sepatu Berkilau",
+      "statText": "Setelah <color=#F8C200>Evading</color> di Symbolic, <color=#fe4b48>Damage</color> Diberikan +3 pada serangan berikutnya (cooldown 10 detik)",
+      "description": "Ini terlalu sulit... Ada begitu banyak... Terlalu banyak bakal bikin ini makin kurang seru... Terlalu banyak permukaan yang berkilau... nggak bakal bikin kilauannya terasa spesial lagi..."
+    },
+    {
+      "key": "I990926",
+      "displayName": "Untaian Benang Berwarna-warni",
+      "description": "Merah cerah, hitam pekat, khaki melayang... semua warna terikat untuk mengikuti ke mana pun jarum mengarah."
+    }
+  ]
+}
