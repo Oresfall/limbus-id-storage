@@ -1,0 +1,543 @@
+{
+  "dataList": [
+    {
+      "key": "I104002",
+      "displayName": "Baju dari Lemari Bahagia",
+      "description": "Pakaian yang diberikan oleh Lemari Bahagia. Ayo berikan ini ke Lampu Lantai Busur."
+    },
+    {
+      "key": "I104003",
+      "displayName": "Potongan Kertas",
+      "description": "Potongan kertas yang kuambil dari sisa-sisa Lemari Bahagia. Ada tulisan \"Kebahagiaan\" di atasnya. Kertas ini sebenarnya nggak punya fungsi struktur apa-apa, tapi entah kenapa kertas ini yang membantu Lemari Bahagia untuk terus bertahan."
+    },
+    {
+      "key": "I1201",
+      "displayName": "Kaset Audio",
+      "description": "Suara lama Dewa Lembayung terdengar lagi, mengulang apa yang dulu pernah diucapkannya. Ini suara yang pernah didengar para Rouge. Mereka yang punya keyakinan lebih kuat bisa mendengar cerita yang lebih mendalam."
+    },
+    {
+      "key": "I1206",
+      "displayName": "Gunting Jahit Tajam",
+      "description": "Gunting ini memisahkan keberadaan melalui penyatuan hal-hal yang berlawanan."
+    },
+    {
+      "key": "I1207",
+      "displayName": "Sertifikat Keaslian Le Noir",
+      "description": "Pelanggan ini terbukti sebagai pelanggan teladan Le Noir dan ikut berkontribusi dalam menjaga nilai dari merek ini."
+    },
+    {
+      "key": "I1208",
+      "displayName": "Benang Hitam Merah",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +1\n\n<color=#fe4b48>Kecepatan Serangan</color> +10% di Symbolic\n\n<color=#F8C200>Kecepatan Gerak</color> +5% di Symbolic\n\nSaat melawan musuh tipe Le Noir Sales Associate [Sunshone] dan Le Rouge Sales Associate [Sunshone] di Symbolic:\n- <color=#fe4b48>Damage</color> Diterima -1\n- <color=#fe4b48>Damage</color> Diberikan +1",
+      "description": "Waktu cahaya memancar dari celah-celah dan menyentuh semua orang, orang-orang di toko departemen mulai berubah. Mereka berubah bentuk mengikuti nilai yang mereka kejar, bentuk nilai dari merek yang mereka ikuti. Mereka yang kehilangan akal sehat saat berubah akhirnya disebut Mannequin. Tapi pada dasarnya, mereka nggak ada bedanya sama kita."
+    },
+    {
+      "key": "I990001",
+      "displayName": "Paku",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> <color=#F8C200>Serangan Titik Lemah</color> +1\nSerangan Titik Lemah: Memicu saat menyerang musuh dari belakang (tidak termasuk musuh tertentu)",
+      "description": "Sebuah paku. Paku menancapkan sasaran mereka di tempatnya. Tanpa palu, paku nggak bisa ditancapkan. Tapi siapa pun yang menjatuhkan diri ke paku akan menancapkan diri mereka sendiri, ada palu atau nggak."
+    },
+    {
+      "key": "I990006",
+      "displayName": "Gunting Jahit Tumpul",
+      "description": "Kamu bertanya apa Alterationist harus tetap netral? Pihak Noir menyukai kain, sedangkan pihak Rouge lebih suka kulit. Coba pikirkan: merek mana yang lebih membutuhkan Alterationist... dan ke siapa dia akan lebih rela memberikan guntingnya?"
+    },
+    {
+      "key": "I990101",
+      "displayName": "Kardigan Kontemporer Le Noir",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Apa kamu ingat retakan pertama yang muncul di dinding Grand Magasin?"
+    },
+    {
+      "key": "I990102",
+      "displayName": "Topi Kontemporer Le Noir",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Grand Magasin harus dijaga untuk selamanya."
+    },
+    {
+      "key": "I990103",
+      "displayName": "Topi Pria Kontemporer Le Noir",
+      "statText": "Jika pemain tidak melakukan input, <color=#00ff9c>memulihkan</color> 1 <color=#00ff9c>HP</color> Symbolic setiap 5 detik (3 kali)\n- Istirahat di Fount untuk mengisinya kembali",
+      "description": "Retakannya makin melebar dan bertambah banyak. Kenapa ya?"
+    },
+    {
+      "key": "I990104",
+      "displayName": "Hoodie Ziper Kasual Le Rouge",
+      "statText": "<color=#fe4b48>Damage</color> Diberikan +1 di Symbolic",
+      "description": "Ke mana Dewa kita pergi?"
+    },
+    {
+      "key": "I990105",
+      "displayName": "Rok Kasual Le Rouge",
+      "statText": "<color=#F8C200>Kecepatan Gerak</color> +5% di Symbolic\n\nDi Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Aku nggak bisa lagi mendengar Suara dari Dewa Crimson..."
+    },
+    {
+      "key": "I990106",
+      "displayName": "Ritsleting Kontemporer Le Rouge",
+      "statText": "Membuka <color=#F8C200>Sprint</color> di Symbolic\n- Sprint: <color=#F8C200>Kecepatan Gerak</color> +30%",
+      "description": "Para Rouge menemukan nilai dan makna dalam hidup dan setiap denyutnya. Mereka menantikan pengalaman baru."
+    },
+    {
+      "key": "I990107",
+      "displayName": "Kaos Kaki Kontemporer Le Rouge",
+      "statText": "Saat memasuki pertempuran di Shadowed, memberikan 2 Potensi <color=#F8C200>Bleed</color> dan +2 Jumlah <color=#F8C200>Bleed</color> ke semua musuh\n\nDi Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Merah adalah darah, daging, dan kulit."
+    },
+    {
+      "key": "I990108",
+      "displayName": "Jarum Tajam Besar (43cm)",
+      "description": "Merekam yang mendengar Suara kehangatan berubah menjadi Mannequin. Dari mereka, yang dipeluk paling dalam oleh Suara itu bisa melangkah satu tahap lebih jauh."
+    },
+    {
+      "key": "I990110",
+      "displayName": "Minuman Berenergi",
+      "statText": "Di Symbolic, jika 5 detik berlalu tanpa menyerang setelah mengenai musuh, <color=#fe4b48>Damage</color> Diberikan +3 pada serangan berikutnya",
+      "description": "Di Grand Magasin Sisyphe, makanan bukan dimakan untuk energi atau bertahan hidup. Makanan cuma dikonsumsi untuk satu tujuan: mengenyangkan kelaparan di hati."
+    },
+    {
+      "key": "I990303",
+      "displayName": "Kain dari Toko Perubahan",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Aku bukan milik Le Rouge maupun Le Noir. Nilaiku netral. Merek mana pun yang datang mencari kain, aku akan dengan senang hati berdagang sama mereka."
+    },
+    {
+      "key": "I990304",
+      "displayName": "Kacamata Hitam Boutique du Rouge",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> <color=#F8C200>Serangan Titik Lemah</color> +1\n\nDi Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Kamu memakai kacamata hitam karena cahayanya terlalu silau. Lalu kamu melihat kembali ke arah matahari. Kacamata hitam dipakai bukan untuk menghindari sinar matahari, tapi supaya bisa melihatnya dengan lebih jelas."
+    },
+    {
+      "key": "I990305",
+      "displayName": "Kaos Boutique du Rouge",
+      "statText": "Di Symbolic, <color=#F8C200>Kecepatan Gerak</color> +5% setelah mengenai serangan\n\nDi Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Saat Dewa kita terdiam dan retakannya makin lebar... beberapa dari kita mendengar Suara itu lagi."
+    },
+    {
+      "key": "I990306",
+      "displayName": "Denim Boutique du Rouge",
+      "statText": "<color=#fe4b48>Kecepatan Serangan</color> +10% di Symbolic",
+      "description": "Para Rouge menyukai potongan slim fit. Nilai busana apa lagi yang lebih berharga selain menampilkan lekuk tubuh itu sendiri?"
+    },
+    {
+      "key": "I990307",
+      "displayName": "Dasi Maison du Noir",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Apa yang kami tawarkan—pakaian indah yang dirancang oleh para Noir—menutupi tubuh pelanggan dan merapikan siluet di baliknya. Nilai dari busana terletak pada apa yang ditepuk dan ditutupinya."
+    },
+    {
+      "key": "I990308",
+      "displayName": "Celana Bahan Maison du Noir",
+      "statText": "Di Symbolic, <color=#F8C200>Durasi Kebal Hit</color> +0.05 detik saat terkena serangan",
+      "description": "Suara aneh ini sepertinya bikin siapa pun yang mendengarkannya jadi gila, mau dia seorang Noir atau Rouge."
+    },
+    {
+      "key": "I990309",
+      "displayName": "Kemeja Maison du Noir",
+      "statText": "Saat memasuki pertempuran di Shadowed, memberikan 2 Potensi <color=#F8C200>Tremor</color> dan +2 Jumlah <color=#F8C200>Tremor</color> ke semua musuh\n\nSelama pertempuran di Shadowed: Saat rekan terkena serangan, rekan mendapatkan +2 Jumlah <color=#F8C200>Charge</color> (5 kali per giliran)",
+      "description": "Grand Magasin dipenuhi sama Mannequin. Sebelum sinar matahari mulai bocor lewat retakan, mereka semua punya dua tangan dan dua kaki, dan pakaian dibuat pas untuk bentuk itu."
+    },
+    {
+      "key": "I990310",
+      "displayName": "Sangkar Burung",
+      "statText": "Di Symbolic, peluang 20% untuk <color=#fe4b48>Damage</color> Diterima -20% saat terkena serangan (dibulatkan ke bawah)\n\nSaat memasuki pertempuran di Shadowed, semua Sinner memperoleh +4 Jumlah <color=#F8C200>Charge</color>",
+      "description": "Sangkar mendatangkan kebebaaaaasan. Tanpa sangkar, kebebasan nggak ada artinyaaaaa"
+    },
+    {
+      "key": "I990312",
+      "displayName": "Paku Emas",
+      "description": "Dengan melapisi tulang belakang, sang primordial, menggunakan bahan paling mulia di peradaban, Paku Emas ini diciptakan.\nJarum ini menembus setiap batasan, dari yang paling rendah sampai paling tinggi. Lalu jarum ini menyobeknya."
+    },
+    {
+      "key": "I990401",
+      "displayName": "Sepatu Mary Jane Le Noir",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +3",
+      "description": "Nama-nama mulai pudar di dalam Grand Magasin Sisyphe. Cuma nama produk dan merek yang tersisa. Itu makanya orang-orang harus berpakaian dengan berlapis-lapis."
+    },
+    {
+      "key": "I990402",
+      "displayName": "Sepatu Boots Jodhpur Le Noir",
+      "statText": "<color=#F8C200>Hitstun</color> +0.1 detik untuk serangan di Symbolic\n\nDi Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Kunci aku di tempat. Tarik aku kencang-kencang. Berikan bentuk pada tubuh yang nggak stabil ini. Aku menyerahkan kebebasanku padamu."
+    },
+    {
+      "key": "I990403",
+      "displayName": "Cetakan Sepatu Klasik Le Noir",
+      "statText": "Di Symbolic, saat menerima <color=#fe4b48>Damage</color> yang dapat menyebabkan kematian, <color=#00ff9c>bertahan hidup dengan 1 HP</color> (sekali)\n- Istirahat di Fount untuk mengisinya kembali\n- Tidak termasuk damage tertentu seperti Kematian Instan",
+      "description": "Dunia nggak boleh berubah. Harus tetap berada di tempatnya semula. Selamanya."
+    },
+    {
+      "key": "I990404",
+      "displayName": "Sepatu Flat Ballet Le Rouge",
+      "statText": "Di Symbolic, <color=#F8C200>Kecepatan Gerak</color> +30% setelah membunuh musuh\n\nDi Symbolic, <color=#00ff9c>HP</color> +3",
+      "description": "Ada banyak jenis pakaian, tapi sepatu yang paling penting. Sepatu adalah pakaian pertama yang menyentuh dunia."
+    },
+    {
+      "key": "I990405",
+      "displayName": "Sepatu Boots Chelsea Le Rouge",
+      "statText": "Membuka <color=#F8C200>Avant</color> di Symbolic\n- Avant: Tekan tombol Serangan sekali lagi setelah Serangan terakhir untuk mengaktifkan <color=#F8C200>Avant</color>\n- Saat mengaktifkan Avant, melakukan tebasan depan yang luas untuk memberikan efek <color=#F8C200>Knockback</color> ke musuh yang terkena\n- Saat diaktifkan selama <color=#F8C200>Garde</color>, <color=#F8C200>Jangkauan Serangan</color> dan <color=#F8C200>Jarak Knockback</color> meningkat berdasarkan level Garde",
+      "description": "Sepatu itu butuh bernapas. Orang-orang Noir itu salah—alas kaki nggak seharusnya ditutup rapat. Sepatu harus tetap lentur dan membiarkan kaki bernapas. Cuma dengan begitu kamu bisa benar-benar berdiri di atas bumi. Kalau nggak, kamu cuma sekadar ditaruh di atasnya, terputus dari tanah di bawahmu."
+    },
+    {
+      "key": "I990406",
+      "displayName": "Kursi Recliner",
+      "statText": "<color=#00ff9c>Memulihkan</color> 1 <color=#00ff9c>HP</color> Symbolic setiap 15 detik sejak terakhir kali menerima <color=#fe4b48>Damage</color> (maks 4)\n- Istirahat di Fount untuk mengisinya kembali",
+      "description": "Pangan, sandang, papan. Mebel itu masuk ke mana? Apa mebel itu tempat yang kita tinggali, atau sesuatu yang kita pakai seperti pakaian?\nOh, bukan dua-duanya. Mebel adalah jembatan antara pakaian dan tempat tinggal."
+    },
+    {
+      "key": "I990407",
+      "displayName": "Kasur",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> Diterima -1 saat terkena serangan sambil berdiri diam (min 1)\n\nDi Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Pelanggan dan karyawan yang ingin berhenti berpikir berubah menjadi mebel di Grand Magasin Sisyphe. Lalu retakan mulai melebar, dan saat sinar matahari yang terik memancar lewat celah lalu berbisik pada mereka, mebel-mebel itu terbangun dari tidur dan dipaksa untuk bergerak."
+    },
+    {
+      "key": "I990408",
+      "displayName": "Meja Kayu Solid",
+      "statText": "Di Symbolic, peluang 15% untuk mengaktifkan <color=#F8C200>Serangan Ekstra</color> saat mengenai serangan (hitstun 0.2 detik)\n- Memberikan 3 <color=#fe4b48>Damage</color> ke 5 ubin berbentuk silang yang berpusat pada musuh yang terkena\n- Peluang Aktif +10% untuk setiap musuh dalam kurun 1 ubin yang telah mendeteksi Meursault",
+      "description": "Seorang Rouge yang menyedihkan pernah bertanya kenapa kita duduk di meja saat makan. Kenapa harus repot-repot begitu ketimbang makan di lantai? Yah, tata cara bikin makanan terasa lebih enak. Apa yang didapatkan lewat kesulitan dan kesabaran terasa lebih manis, jadi nilainya lebih tinggi. Kalau pakai logika itu, makin nggak nyaman meja dan kursinya, makin beradab orang yang makan. Kamu setuju, kan?"
+    },
+    {
+      "key": "I990409",
+      "displayName": "Lidah",
+      "description": "Organ yang dulunya membuat Lemari Bahagia bisa merasakan rasa."
+    },
+    {
+      "key": "I990410",
+      "displayName": "Ikatan Tulang",
+      "description": "Tulang-tulang yang dulunya membuat Lemari Bahagia bisa menopang dirinya sendiri."
+    },
+    {
+      "key": "I990411",
+      "displayName": "Betis",
+      "description": "Benda yang dulunya membuat Lemari Bahagia bisa berjalan."
+    },
+    {
+      "key": "I990412",
+      "displayName": "Jeroan Kusut",
+      "description": "Organ yang dulunya membuat Lemari Bahagia bisa mencerna makanan."
+    },
+    {
+      "key": "I990413",
+      "displayName": "Sebuah Bola Mata",
+      "description": "Organ yang dulunya membuat Lemari Bahagia bisa melihat keindahan dunia."
+    },
+    {
+      "key": "I990414",
+      "displayName": "Dua Bola Mata",
+      "description": "Organ-organ yang dulunya membuat Lemari Bahagia bisa melihat keburukan dunia."
+    },
+    {
+      "key": "I990415",
+      "displayName": "Kulit Wajah",
+      "description": "Sesuatu yang dulunya membuat Lemari Bahagia bisa mengungkapkan perasaannya lewat ekspresi."
+    },
+    {
+      "key": "I990416",
+      "displayName": "Jaringan Pembuluh Darah",
+      "description": "Mekanisme yang dulunya membuat organ, tulang, barang, dan jeroan Lemari Bahagia bisa menyatu dan berfungsi."
+    },
+    {
+      "key": "I990801",
+      "displayName": "Minuman Bersoda",
+      "statText": "Jika <color=#00ff9c>HP</color> Symbolic turun menjadi 5 atau lebih rendah, <color=#00ff9c>memulihkan</color> 5 <color=#00ff9c>HP</color> Symbolic (sekali)\n- Istirahat di Fount untuk mengisinya kembali",
+      "description": "Aula Mewah lagi diserang! Para Rouge menerobos Aula yang dikuasai para Noir dan sekarang mulai pesta makan-makan!"
+    },
+    {
+      "key": "I990802",
+      "displayName": "Sedotan",
+      "statText": "Di Symbolic, peluang 10% untuk <color=#00ff9c>memulihkan</color> 1 <color=#00ff9c>HP</color> Symbolic saat mengenai serangan\n\nDi Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Mengkonsumsi butuh alur dari sana ke sini. Mengkonsumsi itu artinya menarik sesuatu keluar dari yang lain ke dalam diri sendiri. Makanya kenikmatan bakal menyertainya."
+    },
+    {
+      "key": "I990803",
+      "displayName": "\"Kamu Dengar?\"",
+      "statText": "Di Symbolic, peluang 30% untuk mengaktifkan <color=#F8C200>Serangan Ekstra</color> saat mengenai serangan\n- Memberikan 3 <color=#fe4b48>Damage</color> ke 1 musuh acak dalam kurun 4 ubin dari musuh yang terkena",
+      "description": "Apa yang dihasilkan Pujasera mungkin hidangan yang lezat, tapi itu berhenti menjadi sebuah Makanan. Kesalahannya bukan pada cara memasaknya, tapi di mana makanan itu dimakan. Ini masalah rumit dari strukturnya."
+    },
+    {
+      "key": "I990804",
+      "displayName": "Payung Lipat",
+      "statText": "Di Symbolic, setelah mengenai serangan pada proyektil yang bisa dihancurkan, <color=#F8C200>menghancurkan proyektil tersebut</color>\n\nDi Symbolic, <color=#00ff9c>HP</color> +2",
+      "description": "Produk unggulan Le Kaki. Buat merek yang kesulitan menciptakan busana, payung ini cuma satu dari sedikit karya asli mereka."
+    },
+    {
+      "key": "I990805",
+      "displayName": "Satu Lembar Tisu",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Rasanya sulit membayangkan apa yang bisa dilakukan seseorang cuma dengan selembar tisu. Tapi di suatu tempat, kabarnya ada orang yang bisa menyelesaikan urusannya di toilet cuma pakai selembar tisu saja."
+    },
+    {
+      "key": "I990806",
+      "displayName": "Kancing dari Mayat Sous Chef",
+      "statText": "Di Symbolic, saat memicu <color=#F8C200>Serangan Ekstra</color> \"Kamu Dengar?\", jumlah proyektil +1\n\nSelama pertempuran di Shadowed, <color=#00ff9c>memulihkan</color> 15 <color=#00ff9c>HP</color> Symbolic dan 10 SP untuk rekan yang membunuh musuh",
+      "description": "Orang-orang asing itu mencoba membunuhku, kamu dengar?! Kita harusnya bisa menyelesaikan ini baik-baik lewat bicara, tapi mereka mau aku mati, kamu dengar?!"
+    },
+    {
+      "key": "I990901",
+      "displayName": "Bantalan Jarum",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +3",
+      "description": "Untuk menjahit, kita butuh jarum.\nDan jarum itu sebenarnya cuma nama lain dari paku, kan? Menjahit adalah bentuk penancapan, dan untuk itulah jarum dipakai... Sama persis seperti paku."
+    },
+    {
+      "key": "I990902",
+      "displayName": "Paku Needlekin",
+      "statText": "Hitstun +0.2 detik untuk Serangan di Symbolic\n\nDi Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Needlekin melayani seorang raja. Raja itu seorang penikmat kuliner, dan dia menuntut bawahannya untuk terus menusuk tanpa henti. Penusukan adalah tolok ukur yang mengukur nilai lewat rintihan kenikmatan dan jeritan kesakitan dari hidangan itu. Needlekin menusuk sesuai perintah raja mereka, lalu diam-diam menjilati cairannya."
+    },
+    {
+      "key": "I990904",
+      "displayName": "Pengikis Lidah",
+      "statText": "Di Symbolic, setelah membunuh musuh, <color=#fe4b48>Damage</color> Diberikan +2 pada serangan berikutnya",
+      "description": "Aku harus membersihkan diri sebelum berpakaian. Jangan takut kalau agak kasar—kamu harus menggosok sela-selanya dengan kuat."
+    },
+    {
+      "key": "I990905",
+      "displayName": "Pelindung Jari Si Telanjang",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> Diterima -2 saat terkena serangan (cooldown 10 detik)",
+      "description": "Jarum-jarum bodoh ini pasti sudah pada gila. Tusuk, tusuk, tusuk—cuma itu yang mereka tahu. Kalau melihat sesuatu yang mereka nggak suka? Tusuk! Cuma itu yang mereka lakukan. Dan pas ada cairan yang keluar, mereka bakal menjilatnya.\nUntunglah aku membawa pelindung jari ini... Aku bakal gawat banget kalau sampai ketahuan di bawah sini tanpa membawa ini."
+    },
+    {
+      "key": "I990906",
+      "displayName": "Palet",
+      "statText": "Saat terkena serangan di Symbolic, menciptakan <color=#F8C200>Ubin Pewarna Merah</color> dalam kurun 1 ubin dari Meursault.\n- Musuh yang berdiri di atas ubin ini menerima 1 <color=#fe4b48>Damage</color> setiap 2 detik",
+      "description": "Papan tempat berbagai macam pewarna ditaruh.\n\nWarna-warna dasar dicampur di atasnya untuk membuat warna yang diinginkan. Takaran dan kecepatan yang pas sangat penting untuk menghasilkan apa yang dicari.\n\nBau dari semua nanah yang bercampur ini terasa sangat berwarna."
+    },
+    {
+      "key": "I990907",
+      "displayName": "Kuas Panjang",
+      "statText": "Di Symbolic, mengenai <color=#F8C200>Garde</color> pada musuh memperluas serangan 1 ubin di belakang musuh yang terkena",
+      "description": "Kuas yang panjang dibutuhkan untuk mengaduk air mata. Kalau pakai kuas yang terlalu pendek, tanganmu bisa tenggelam ke dalamnya dan tersedot ke bawah. Orang-orang harus berhati-hati supaya nggak tenggelam dalam air mata, karena mereka bakal terus menangis sampai warna-warnanya luntur."
+    },
+    {
+      "key": "I990908",
+      "displayName": "Kuas Besar",
+      "statText": "Membuka <color=#F8C200>Garde</color> di Symbolic\n- Tahan tombol Serangan untuk durasi tertentu, lalu lepaskan untuk melakukan <color=#F8C200>Garde</color> ber-damage tinggi\n- Waktu Pengisian Garde: 2 detik\n- Damage Garde: <color=#fe4b48>Damage</color> Serangan +1 di Symbolic\n- <color=#F8C200>Kecepatan Gerak</color> berkurang menjadi 50% selama Garde",
+      "description": "Seseorang butuh kuas besar untuk melukis spektrum warna yang beragam. Kuas yang lebih kecil tentu menghasilkan lebih banyak goresan, tapi jumlah goresannya harus dijaga seminimal mungkin. Setiap usapan kuas meninggalkan tetesan air mata padaku, dan bersamanya, tercium aromanya.\n\nAroma itu bikin aku menangis, tapi aku terus melukis. Aku melukis demi dia yang telah melupakan air mata dan rasa sakit."
+    },
+    {
+      "key": "I990909",
+      "displayName": "Dua Lembar Tisu",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +3",
+      "description": "Tisu punya dua kegunaan di lantai ini: untuk ditusuk, atau untuk menyerap air mata. Tisu ini lumayan tipis sampai mudah ditembus, tapi punya cukup banyak lubang kecil untuk menyerap banyak nanah."
+    },
+    {
+      "key": "I990910",
+      "displayName": "Jus",
+      "statText": "Di Symbolic, mengubah pengurangan <color=#F8C200>Kecepatan Gerak</color> selama <color=#F8C200>Garde</color> menjadi 25%\n\nDi Symbolic, <color=#00ff9c>HP</color> +1",
+      "description": "Apa pun yang keluar waktu ditusuk itu adalah jus. Minum saja. Tusuk dan letuskan gelembung air mata itu lalu minum apa yang meletus dari sana. Atau tusuk orang lain dan bikin mereka menangiskan nanah.\nRasanya mengikuti rasa dari kesedihan."
+    },
+    {
+      "key": "I990911",
+      "displayName": "Sikat Gigi Penjahit Raja",
+      "statText": "Di Symbolic, memicu <color=#F8C200>Serangan Ekstra</color> setiap 1 detik terhadap musuh yang mengejar Meursault\n- Memberikan 2 <color=#fe4b48>Damage</color> ke 1 musuh acak yang mengejar dalam kurun 5 ubin\n- Tidak menargetkan musuh yang sedang berpatroli atau melarikan diri\n- Tidak memicu saat melakukan <color=#F8C200>Sprint</color>\n",
+      "description": "Sikat gigi yang bagian kepalanya dipenuhi hamparan paku kurus.\n\nPaku-paku itu mengikis kulit, merobek dan menembus apa yang tertanam di dalamnya. Ini menguras cairan di bawah kulit.\n\nLalu, sikat ini dibawakan ke raja untuk dicicipi."
+    },
+    {
+      "key": "I992701",
+      "displayName": "Biru Tengah Hari",
+      "description": "Saat tengah hari, matahari mencapai titik tertingginya. Makin tinggi matahari, makin pendek bayangannya. Bayangan itu menyusut sampai tak terlihat waktu sinar mataharinya berwarna biru."
+    },
+    {
+      "key": "I992702",
+      "displayName": "Renungan Sang Mangsa",
+      "description": "Hidangan ini memberikan pengalaman utuh tentang bagaimana rasanya dimakan. Mencicipinya bakal mendatangkan kematian, karena orang yang mencicipinya telah dilahap sebagai mangsa."
+    },
+    {
+      "key": "I992704",
+      "displayName": "Kepompong Emas",
+      "statText": "Membuka <color=#F8C200>Lentera</color> di Symbolic\n- Tekan tombol Lentera (F pada keyboard) untuk menyalakan/mematikan <color=#F8C200>Lentera</color> yang menerangi arah yang dihadap karakter",
+      "description": "Kepompong itu menangis seolah memanggil seseorang. Terbawa dari masa lalu yang kini menghilang, anak itu terdampar, hanyut sampai ke Pujasera... dan sekarang berubah menjadi sebuah hidangan."
+    },
+    {
+      "key": "I990934",
+      "displayName": "Celemek Kotor",
+      "statText": "Di Symbolic, mengubah ambang batas HP untuk menampilkan bilah HP musuh menjadi 100%\n- Selama dimiliki, bilah HP musuh ditampilkan dari hit pertama dan seterusnya",
+      "description": "Apa yang nggak kelihatan harus dilapisi warna sampai bentuk luarnya muncul. Cipratkan cukup banyak warna ke hal-hal yang tak terlihat, dan kamu bakal sadar kalau tubuhmu sendiri sudah ternoda."
+    },
+    {
+      "key": "I992806",
+      "displayName": "Pewarna Laut Dalam",
+      "description": "Ada air mata yang, sesekali setelah waktu yang lama, diangkat dalam keadaan membengkak dari kedalaman terdalam. Setelah proses panjang dan melelahkan mengaduk bau busuk serta kehitaman yang ternoda... air mata itu mendapatkan kembali kejernihan aslinya.\n\nPewarna Laut Dalam dibuat dari air mata makhluk-makhluk kuno itu."
+    },
+    {
+      "key": "I992807",
+      "displayName": "Pewarna Emas",
+      "description": "Campurkan cairan dari Resin Emas dengan nanah.\n\nSetiap ons warna emas tersaturasi penuh dengan makna dan nilai, cukup untuk mengubah pewarna apa pun jadi keemasan. Bagian yang sulit itu mendapatkan cairannya."
+    },
+    {
+      "key": "I992808",
+      "displayName": "Untaian Benang Emas",
+      "description": "Benang-benang teranyam yang digulung untuk diangkut. Memutar, memutar, memutar... Dalam setiap tahap kehidupannya, benang ini terus berputar."
+    },
+    {
+      "key": "I993002",
+      "displayName": "Air Mata Kuning",
+      "description": "Air mata menggenang seperti nanah kuning."
+    },
+    {
+      "key": "I993003",
+      "displayName": "Air Mata Merah",
+      "description": "Air mata yang merah dan membengkak meletus seperti bisul bernanah."
+    },
+    {
+      "key": "I993004",
+      "displayName": "Air Mata Biru",
+      "description": "Pewarna biru ini berbau nanah."
+    },
+    {
+      "key": "I990925",
+      "displayName": "Serbuk Gergaji",
+      "statText": "<color=#F8C200>Hitstun</color> +0.2 detik untuk Serangan di Symbolic",
+      "description": "Kenapa seseorang tersandung di dalam kegelapan demi mencari serpihan makna?\nApa seseorang menemukan makna yang melekat pada serpihan itu, atau pencarian itu sendiri yang meniupkan makna ke dalamnya?"
+    },
+    {
+      "key": "I990924",
+      "displayName": "Pewarna Biru Langit",
+      "statText": "Selama pertempuran di Shadowed:\nSetelah memenangkan Encounter, <color=#00ff9c>memulihkan</color> 10% <color=#00ff9c>HP</color> Symbolic",
+      "description": "Bukannya lucu kalau orang-orang di Grand Magasin Sisyphe menyebut pewarna ini \"biru langit\", padahal nggak ada satu pun dari mereka yang bisa melihat langit di dalam sini? Lagipula, nggak ada yang namanya \"warna langit\"—langit yang sebenarnya itu berubah warna sesuai waktu, cuaca, atau... isi hati orang yang melihatnya."
+    },
+    {
+      "key": "I990923",
+      "displayName": "Benang",
+      "statText": "Di Symbolic, selama 5 detik setelah mengenai serangan:\n- <color=#F8C200>Kecepatan Gerak</color> Target -10%\n- <color=#fe4b48>Damage</color> Diberikan Target -2 \n\n(cooldown 15 detik)",
+      "description": "Benang yang dipintal dari Meursault yang diiris tipis. Warnanya terasa sangat familier."
+    },
+    {
+      "key": "I990922",
+      "displayName": "\"Bwahahaha!\"",
+      "statText": "Selama pertempuran di Shadowed:\nRekan memberikan <color=#fe4b48>damage</color> +5% saat melawan musuh Sisyphe",
+      "description": "Menurutmu, dinding Grand Magasin Sisyphe ini terbuat dari apa?"
+    },
+    {
+      "key": "I990815",
+      "displayName": "Sisa Makanan",
+      "statText": "Selama pertempuran di Shadowed:\nAwal Giliran: Rekan yang memiliki <color=#00ff9c>HP</color> di bawah 50% mendapatkan 1 Boost <color=#00ff9c>Pemulihan HP</color> (4 kali per Encounter)",
+      "description": "Kamu tahu nggak di mana batas makanan berakhir dan sisa makanan dimulai?\n\nAmbil satu gigitan lalu buang sisanya, maka itu bakal jadi sampah. Tapi buat beberapa orang, sampah itu berubah jadi bahan langka yang luar biasa, yang dilahap dengan gembira. Maksudku, apa yang dianggap sebagai sisa makanan itu masalah yang sangat penting di Pujasera... dan sekarang, apa pun yang bukan Noir bakal dianggap sisa makanan."
+    },
+    {
+      "key": "I990814",
+      "displayName": "Potongan Peta",
+      "statText": "Saat memasuki pertempuran di Shadowed, dapatkan 1 <color=#F8C200>E.G.O Resource Amp</color> selama 1 giliran",
+      "description": "Peta yang menggambarkan jalur langsung ke Aula Mewah, tapi sekarang sudah terpakai dan nggak terbaca lagi. Sisyphe System, secara keseluruhan, adalah tumpukan berlapis-lapis, yang justru memungkinkan tempat ini menampung jumlah pelanggan yang luar biasa banyak.\nDiciptakan oleh segelintir orang yang mampu menganalisis struktur bertingkat banyak ini, peta ini bernilai sangat tinggi.\n\nDan peta ini jatuh ke tangan para Rouge."
+    },
+    {
+      "key": "I990320",
+      "displayName": "Kain Emas",
+      "description": "Kalau pakaian dibuat dari bahan yang paling bernilai dan paling bermakna... apa itu bikin pakaiannya jadi mulia sama seperti bahannya?"
+    },
+    {
+      "key": "I990008",
+      "displayName": "Yi Sang",
+      "statText": "<color=#F8C200>Kecepatan Gerak</color> +10% di Symbolic\n\nDi Symbolic, setelah mengenai serangan, <color=#fe4b48>Damage</color> Diberikan target -1 selama 5 detik (cooldown 10 detik)",
+      "description": "Simbol Sayap. Untuk menjadi bebas."
+    },
+    {
+      "key": "I990009",
+      "displayName": "Faust",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> <color=#F8C200>Serangan Titik Lemah</color> +2",
+      "description": "Simbol Pengetahuan. Untuk menjadi pintar."
+    },
+    {
+      "key": "I990010",
+      "displayName": "Don Quixote",
+      "statText": "Di Symbolic, <color=#00ff9c>memulihkan</color> 5% <color=#00ff9c>HP</color> Symbolic setelah membunuh musuh (cooldown 10 detik)",
+      "description": "Simbol Tindakan. Untuk menjadi bersemangat."
+    },
+    {
+      "key": "I990011",
+      "displayName": "Ryōshū",
+      "statText": "Di Symbolic, peluang 20% untuk memberikan 1 <color=#F8C200>Fragile Mark</color> setelah mengenai serangan\n(<color=#F8C200>Fragile Mark</color>: <color=#fe4b48>Damage</color> Diterima +10%)",
+      "description": "Simbol Kasih Sayang dan Dendam. Untuk <s>memotong</s> melilit."
+    },
+    {
+      "key": "I990012",
+      "displayName": "Hong Lu",
+      "statText": "Saat memasuki pertempuran di Shadowed melalui Serangan Meursault, semua rekan di medan tempur <color=#F8C200>memulihkan 5~10 SP</color>",
+      "description": "Simbol Wawasan. Untuk mengamati."
+    },
+    {
+      "key": "I990013",
+      "displayName": "Heathcliff",
+      "statText": "<color=#F8C200>Kecepatan Gerak</color> +10% di Symbolic\n\nDi Symbolic, <color=#fe4b48>Damage</color> Serangan Diberikan +2 selama 20 detik setelah membunuh musuh (cooldown 30 detik)",
+      "description": "Simbol Badai. Untuk mengingat !@#!$."
+    },
+    {
+      "key": "I990014",
+      "displayName": "Ishmael",
+      "statText": "Di Symbolic, setelah mengenai serangan, mengurangi <color=#F8C200>Kecepatan Gerak</color> target sebesar 20% selama 10 detik (cooldown 13 detik)",
+      "description": "Simbol Petualangan. Untuk berlayar."
+    },
+    {
+      "key": "I990015",
+      "displayName": "Rodion",
+      "statText": "Jika target memiliki <color=#00ff9c>HP</color> Symbolic 50%+, <color=#fe4b48>Damage</color> Serangan Diberikan +1",
+      "description": "Simbol Pahlawan. Untuk menanti."
+    },
+    {
+      "key": "I990016",
+      "displayName": "Sinclair",
+      "statText": "Di Symbolic:\n- <color=#fe4b48>Damage</color> Diberikan +2 terhadap musuh di depan\n- <color=#fe4b48>Damage</color> Diterima -2 dari musuh di belakang",
+      "description": "Simbol Kebangkitan. Untuk terbangun."
+    },
+    {
+      "key": "I990017",
+      "displayName": "Outis",
+      "statText": "Jika target memiliki <color=#00ff9c>HP</color> Symbolic di bawah 50%, <color=#fe4b48>Damage</color> Diberikan +1",
+      "description": "Simbol Tipu Daya. Untuk mengembara."
+    },
+    {
+      "key": "I990018",
+      "displayName": "Gregor",
+      "statText": "Pada HP Symbolic di bawah 25%, <color=#00ff9c>memulihkan</color> 15 <color=#00ff9c>HP</color> Symbolic dan <color=#fe4b48>Damage</color> Diterima -20% selama 10 detik berikutnya (cooldown 19 detik)",
+      "description": "Simbol Metamorfosis. Untuk mengonsumsi."
+    },
+    {
+      "key": "I990432",
+      "displayName": "Tali Penarik Lampu",
+      "statText": "Jika pemain tidak bergerak selama 3 detik di Symbolic, <color=#fe4b48>Damage</color> Diberikan +2 untuk serangan berikutnya (cooldown 10 detik)",
+      "description": "Tarik talinya, dan lampunya menyala. Tarik lagi, dan lampunya mati. Lampu terikat pada talinya. Ini kesamaan antara tali dan paku... sekaligus yang membedakan keduanya."
+    },
+    {
+      "key": "I990117",
+      "displayName": "Pakaian Rouge Ketinggalan Zaman",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +4",
+      "description": "Paku dari musim yang sudah berlalu, menancap di batu bata. Paku ini mungkin pernah jadi tren dulu, tapi sekarang cuma dianggap ketinggalan zaman."
+    },
+    {
+      "key": "I990321",
+      "displayName": "Perekam Suara Tua",
+      "statText": "Saat memasuki pertempuran di Shadowed, semua rekan di medan tempur <color=#F8C200>memulihkan 4 SP</color>",
+      "description": "Suara terrekam mengalir dari mesin. Suara itu mengalir, tapi tetap terperangkap. Bahkan sebuah Suara pun bisa terpaku di tempatnya."
+    },
+    {
+      "key": "I990322",
+      "displayName": "Burung Mati",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> <color=#F8C200>Serangan Titik Lemah</color> +1",
+      "description": "Mata seekor burung menghabiskan seluruh hidupnya bernyanyi ke dalam corong. Suatu hari, burung itu memasukkan kepalanya ke dalam corong dan bernyanyi sampai mati. Burung berikutnya dibuat bernyanyi dari dalam sangkar."
+    },
+    {
+      "key": "I990323",
+      "displayName": "Kaos Kaki",
+      "statText": "Di Symbolic, <color=#00ff9c>HP</color> +4",
+      "description": "Aneh rasanya sepatu butuh kaos kaki. Kita pakai sepatu buat melindungi kaki kita, tapi kita menaruh lapisan lain di antara kaki dan sepatu buat melindungi keduanya?\nAtau... mungkin kepuasan ekstra itu yang bikin kaos kaki punya kehormatannya sendiri. Sepatu berawal dari insting—kita membutuhkan sepatu karena kaki kita sakit tanpanya, sedangkan kaos kaki masuk ke ranah peradaban karena kita menginginkan kenyamanan."
+    },
+    {
+      "key": "I102023",
+      "displayName": "Barang Peninggalan Direktur Merek",
+      "statText": "Saat terkena serangan di Symbolic, peluang 10% untuk membalas 3 <color=#fe4b48>Damage</color> terhadap penyerang",
+      "description": "Direktur Merek Le Rouge.\n\nSetiap arti dan arah dari merek ini diputuskan di bawah perintahnya. Nggak ada orang yang mendengar Suara Dewa Crimson lebih jelas daripada dia. Hebatnya, bahkan setelah Suara itu menghilang, sang Direktur Merek berusaha menciptakan sosok baru yang bisa menyampaikan Suara itu lagi. Ketidakhadiran Dewa Lembayung sebenarnya bisa saja disembunyikan kalau dia mau, tapi dia memilih untuk nggak menyembunyikannya."
+    },
+    {
+      "key": "I990919",
+      "displayName": "Pengulangan",
+      "statText": "Membuka <color=#F8C200>Auto-attack</color> di Symbolic.\n\nTekan tombol Auto-attack (T pada keyboard) untuk beralih ON/OFF. Mendeteksi musuh berdasarkan orientasi karakter dan <color=#F8C200>secara otomatis menggunakan Serangan Dasar</color>\n- Jangkauan Deteksi: 4 ubin ke depan, 1 ubin masing-masing ke kiri & kanan\n- Memprioritaskan tindakan lain seperti Bergerak atau Blokir; melanjutkan Auto-attack saat tindakan lain selesai\n- Menghapus penundaan gerakan setelah serangan tanpa memandang beralih atau tidak\n- Secara otomatis beralih ke OFF saat:\n  - Berpindah antar lantai\n  - Memasuki pertempuran di Shadowed",
+      "description": "Ulangi secara otomatis. Cukup jalankan saja. Semoga pengulangan ini, setidaknya, terbukti membantu buatmu."
+    },
+    {
+      "key": "I1209",
+      "displayName": "Gunting Jahit Tempaan",
+      "statText": "Di Symbolic, peluang 30% untuk mengaktifkan <color=#F8C200>Serangan Ekstra Guntingan</color> yang memberikan 1 <color=#fe4b48>Damage</color> saat mengenai serangan (hitstun 0.3 detik)\n\nSaat memasuki pertempuran di Shadowed, memberikan ke semua musuh Jumlah Bleed setara dengan berapa kali mereka terkena efek ini (maks 5)",
+      "description": "Alterationist memotong kain, lalu menyatukannya lagi sesuai pola. Suara guntingan terdengar makin kencang belakangan ini—pihak Noir pasti menaruh pesanan yang sangat besar. Apa konflik besar bakal segera pecah?"
+    }
+  ]
+}
