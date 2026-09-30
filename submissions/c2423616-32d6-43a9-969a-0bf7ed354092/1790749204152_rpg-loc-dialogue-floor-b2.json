@@ -1,0 +1,2715 @@
+{
+  "dataList": [
+    {
+      "key": "D-20001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>Licik seperti biasa... tanpa ragu... dan... selalu peduli.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D20200150",
+      "texts": [
+        {
+          "index": 0,
+          "text": "(임시)……",
+          "speaker": "Saudari Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D20200250",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Aku tak bisa membantumu jika kau tidak punya tiket antrean.",
+          "speaker": "Manajer Lantai B2F"
+        }
+      ]
+    },
+    {
+      "key": "D20200350",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] …지금 몇 번까지 불렀지?",
+          "speaker": "Queueing Customer"
+        }
+      ]
+    },
+    {
+      "key": "D20200450",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jangan coba-coba menyerobot antrean...",
+          "speaker": "Queueing Customer"
+        }
+      ]
+    },
+    {
+      "key": "D20200550",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sudah berapa lama aku di sini...? Aku sampai lupa waktu...",
+          "speaker": "Queueing Customer"
+        }
+      ]
+    },
+    {
+      "key": "D20200650",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Naked"
+        }
+      ]
+    },
+    {
+      "key": "D20200750",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)…쥐어짜지 마. 이제 아무 색도 안 나와.",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20200850",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)하루에 세 번 짜내지고, 세 번 채워져…",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20200950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)…색이 빠진다는 게 어떤 기분인지 알아?",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20201550",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku sibuk sekarang. Aku harus menyelesaikan ini sebelum warnanya mulai berubah.",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D20201560",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aduh...!",
+          "speaker": "Palette"
+        },
+        {
+          "index": 1,
+          "text": "......",
+          "speaker": "Putty"
+        }
+      ]
+    },
+    {
+      "key": "D20201650",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)히익…! 팔레트가 보냈구나… 이제 그만…!",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20201750",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)…도망칠 힘도 없어…",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20201850",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)드럼통 속이 차라리 편해…",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20201950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)우리를 짜내면… 너도 언젠가 짜내질 거야…",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20202050",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)……(희미하게 떨고 있다)",
+          "speaker": "Exploited Dye"
+        }
+      ]
+    },
+    {
+      "key": "D20202150",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kain yang digantung di sini tampak cerah—mencolok di antara jajaran pakaian kusam di area sekitar."
+        },
+        {
+          "index": 1,
+          "text": "Seseorang merawat dan mengumpulkannya di sini dengan sangat telaten."
+        }
+      ]
+    },
+    {
+      "key": "D20202250",
+      "texts": [
+        {
+          "index": 0,
+          "text": "......",
+          "speaker": "Putty"
+        }
+      ]
+    },
+    {
+      "key": "D20202260",
+      "texts": [
+        {
+          "index": 0,
+          "text": "......",
+          "speaker": "Putty"
+        }
+      ]
+    },
+    {
+      "key": "D20202850",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek berdiri dalam antrean, menunggu giliran."
+        }
+      ]
+    },
+    {
+      "key": "D20220201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] <벽에 황금빛 가죽이 걸려 있다. 눈을 뗄 수 없을 만큼 찬란하다.>"
+        }
+      ]
+    },
+    {
+      "key": "D20220301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Antrean pelanggan mungil menunggu di depan. Merek mungkin bakal menusuk kita dengan jarum-jarum itu kalau kita mencoba menerobos."
+        }
+      ]
+    },
+    {
+      "key": "D20220401",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Jalan menuju penyimpanan pewarna. Tersegel rapat untuk saat ini.>"
+        }
+      ]
+    },
+    {
+      "key": "D20220501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] <지하 2층 안내판. '방…장 → 타… 둥지 → 복… → 염색…' …낡아서 잘 보이지 않는다.>"
+        }
+      ]
+    },
+    {
+      "key": "D20209950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시)여기는 언제나 안전하단다. 피곤하면 쉬었다 가렴.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20220901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 지하 3층으로 내려가는 에스컬레이터. 굳게 멈춰 있다."
+        }
+      ]
+    },
+    {
+      "key": "D-2000-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku sempat memikirkan pertanyaan yang sama di lantai tiga, Manajer Eksekutif...",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D-2000-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tapi aku penasaran apa kriteria tempat ini dalam memilih pasukan dua orang ini.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "Dan dari sekian banyak orang, aku justru dipasangkan dengan wanita itu...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "*fuh* A.M.O.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "<Hmm... Mungkin cuma dipilih acak.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Meskipun kemampuan komunikasinya buruk, kemampuan bertarungnya tak perlu diragukan. Aku akan mentolerirnya, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "<Jadi... ada yang tahu apa arti A.M.O.?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "... Memecahkan kode komunikasi butuh waktu yang lumayan lama.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "<Gak ada yang tahu, oke. Kalau kau, Meursault?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Ya, Manajer?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "<Ada tebakan...? Tau ah, mungkin aku yang terlalu memaksakannya...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2000-3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sekarang giliran kita, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Ya, aku sudah tahu. Singkatan-singkatan ini mustahil di—>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Oho?",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "Arayashiki bergetar."
+        },
+        {
+          "index": 5,
+          "text": "Kau...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "Apa kau bisa memahami singkatan wanita yang bikin pusing itu selama ini?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "Tidak.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Pemahaman saya hanya sebatas singkatan yang pernah digunakan Ryōshū sebelumnya dan telah diterjemahkan oleh Sinclair atau melalui cara lain. Singkatan baru tetap tidak dapat dipahami.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Jangan meraba-raba kayak K.B. dan beri tahu aku K.D.S., K.J.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 10,
+          "text": "Sarung pedangnya bergetar hebat. Araya pasti mulai kesal."
+        },
+        {
+          "index": 11,
+          "text": "\"Jangan meraba-raba seperti kelompok bodoh dan beri tahu aku kita di mana sekarang, Kepala Jam\"",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": ".......",
+          "speaker": "Outis"
+        },
+        {
+          "index": 13,
+          "text": "Ini akan sedikit meringankan masalah komunikasi kita, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 14,
+          "text": "<Y-ya...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 15,
+          "text": "<Ngomong-ngomong... Ini B2. Kita harus pastikan apa kita benar-benar sampai di tempat yang tepat...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 16,
+          "text": "Hahaha, penakut sekali kalian ini. Santai saja! Kalian berada tepat di tempat yang kalian inginkan.",
+          "speaker": "Saudari Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D-2000-4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A.B. ada di sini.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "\"Anak Baji—\"",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<Tidak apa-apa, Meursault. Aku rasa aku bisa menebak apa maksudnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Lantai ini adalah tempat Sarang Skein berada, teman-teman. Tempat yang memasok benang hanya ke label-label paling terkenal milik Le Noir.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 4,
+          "text": "... Bagaimana kau bisa sampai ke sini?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "Aku? Oh, bukankah sudah kubilang: aku bisa ke mana saja, asal bukan Fount.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 6,
+          "text": "Chaplain memang tak berhenti mengoceh soal itu... tapi mau bagaimana lagi? Sangat membosankan harus berjalan sejauh ini ke bawah!",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 7,
+          "text": "Ngomong-ngomong, berapa lama lagi kalian berniat membuang-buang waktu?",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 8,
+          "text": "Ada alasan kenapa kita tidak boleh M.W.?",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 9,
+          "text": "Maksudnya \"Ada alasan kenapa kita tidak boleh membuang-buang waktu?\" Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "<Soal itu... Aku pikir sebaiknya kita santai dulu dan melihat-lihat sekeliling.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "Ugh. Suara tik-tok bodoh ini... Bisa lakukan itu di sana—jangan dekat-dekat denganku? Hal-hal tanpa daging membuatku tidak nyaman, terlepas dari pakaian indahnya.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 12,
+          "text": "<.......>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "Sepertinya aku mendengar komentar kasar yang ditujukan kepada Manajer Eksekutif yang biasanya tak akan kubiarkan, tapi izinkan aku menanyakan sesuatu padamu terlebih dahulu.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 14,
+          "text": "... Kau sudah mengomel sejak tadi. Apa yang sedang kau rencanakan?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 15,
+          "text": "Sungguh? Haha! Kalian benar-benar tak tahu apa yang akan datang? Suara dengusan itu, apa kalian tak dengar? Nyaring sekali!",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 16,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 17,
+          "text": "Astaga... Kasihan sekali kalian. Kalian benar-benar tak tahu, ya?",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 18,
+          "text": "Sebaiknya kalian mulai berlari kalau benar-benar seseorang yang tak tahu apa-apa... Bukannya itu bakal membantu, tapi apa lagi yang bisa kalian lakukan?",
+          "speaker": "Saudari Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D-2000-5",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Apa dia baru saja menembus tembok itu?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2000-6",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kita menabrak J.B. Sarung pedangku tak cukup untuk menebasnya, dan pedang ini menolak untuk ditarik.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "... Kita harus mengintai area ini dan menemukan \"Sarang Skein\" ini, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "<Kau tahu di mana tempatnya, Meursault?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Peta ini cukup usang, tetapi kita akan dapat mencapai tujuan jika mengikuti rute ke kanan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<Bagus. Ayo berangkat.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2001-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sudah kembali...? Belum lama sejak kalian turun...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Sesuatu yang murka mengejar dan membunuh kita. Gak seru-seru amat.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "<... Aku gak yakin soal bagian murkanya, tapi ya, itu yang terjadi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Hal itu memang murka, K.J.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "Aku gak tahu kenapa begitu yakin, tapi emosi yang meluap darinya gak bisa disalahartikan.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 5,
+          "text": "<Terserah lah, yang jelas itu menjelaskan suara \"dengusan\" yang dimaksud Kromer. Itu mungkin...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Ya, Manajer Eksekutif. Kemungkinan besar yang dia maksud adalah kepompong itu.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "Outis dan Ryōshū menatap tajam ke arah Kepompong Emas yang menggeliat di bahu Meursault."
+        },
+        {
+          "index": 8,
+          "text": "Jika ia masih berkeliaran di dekat sini... kita butuh langkah pencegahan.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 9,
+          "text": "Makhluk itu memblokir rute yang diperlukan untuk kemajuan kita. Kita tidak akan bisa mengelak hanya dengan berlari.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "<Hmm...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "Um... Apa kalian kebetulan bertemu dengan wanita bernama Kromer itu lagi?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 12,
+          "text": "Dia mendadak muncul dari udara kosong, mengejek kita, lalu menembus tembok sebelum kita sempat membalasnya.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 13,
+          "text": "<... Setidaknya dia sepertinya tidak berencana menyerang kita saat itu... Sama seperti saat pertama kali kita bertemu dengannya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "<Tapi ya, dia juga terlihat tidak tertarik untuk membantu...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 15,
+          "text": "J.L.W.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 16,
+          "text": "... Jangan lengah, waspada... Ya. Bagaimanapun juga dia itu Kromer. Kita tidak boleh menurunkan pertahanan.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 17,
+          "text": "<Ayo kembali dan cari jalan lain.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2002-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mati lagi, huh?",
+          "speaker": "Saudari Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D-2002-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lihat? Sudah kuperingatkan—dengusan itu terlalu, terlalu nyaring.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Monster itu... Apa dia masih berkeliaran di area ini?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "Tidak. Dia sudah melesat ke tempat lain. Kalaupun dia kembali, dia harus memutar jalan yang sangat jauh.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 3,
+          "text": "Soalnya, karena jaraknya sangat jauh, dia harus menempelkan telinganya ke tanah dan merayap perlahan kalau ingin melacak dengusan ini.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 4,
+          "text": "Hehe, sekarang setelah masalah itu selesai, kalian bebas membuang-buang waktu sesuka kalian!",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 5,
+          "text": "<... Kita bukannya sengaja membuang-buang waktu karena mau.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Hm? Oh... Apa sudah hampir waktunya untuk terdampar berikutnya? Rajin sekali.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 7,
+          "text": "Apa maksud perkataanmu itu...?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "Kalian tak tahu kapan jam terdampar? Orang asing seperti kalian benar-benar tak tahu apa-apa.",
+          "speaker": "Saudari Kromer"
+        },
+        {
+          "index": 9,
+          "text": "*fuh* Kita sudah cukup sabar, Jam. Saatnya K.I.L.A.T.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 10,
+          "text": "<... Ya, mungkin sudah saatnya kita serius mempertimbangkan K.I.L.A.T.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "Sarung pedangnya bergoyang ke kiri dan kanan, seolah menolak keras dengan menggelengkan kepala."
+        },
+        {
+          "index": 12,
+          "text": "*terkekeh* Aku akan kembali saat waktunya sudah matang. Sementara itu, pastikan kalian tidak mati dengan cara konyol yang spektakuler saat aku bahkan tidak ada untuk menonton pertunjukannya, hm?",
+          "speaker": "Saudari Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D-2002-3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*fuh* Dia menembus tembok lagi.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "... Aku jauh lebih suka berbicara dengan suara tanpa wujud milik Jeanne daripada harus bertemu wanita itu lagi.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Aduh, aduh. Apa kau merindukan suaraku separah itu?</color>"
+        },
+        {
+          "index": 3,
+          "text": "Kau sepertinya suka muncul tanpa memberi petunjuk sedikit pun. Apa kau memang menikmati berperan sebagai tuhan, atau kau sudah terlalu lama memanjakan diri sampai-sampai itu menjadi dirimu yang sebenarnya?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "Mengapa melakukan \"kunjungan mendadak\"? Bukankah kau sudah mengawasi setiap gerak-gerik kami dari tempatmu bermalas-malasan?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>Oh, tidak juga. Aku sangat sibuk sampai melewatkan sebagian besar dari apa yang kau katakan tadi.</color>"
+        },
+        {
+          "index": 6,
+          "text": "<color=#ebcaa2>Jadi... Dengan siapa kau menikmati percakapan yang menyenangkan itu?</color>"
+        },
+        {
+          "index": 7,
+          "text": "Kromer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<color=#ebcaa2>.......</color>"
+        },
+        {
+          "index": 9,
+          "text": "<color=#ebcaa2>Siapa? Maaf, suaramu terputus-putus.</color>"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ebcaa2>Pasti pengeras suaranya bermasalah lagi... yah, terkadang memang begitu. Bisakah aku menghubungimu lagi nanti, ma puce?</color>"
+        },
+        {
+          "index": 11,
+          "text": "Ya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "<color=#ebcaa2>*terkekeh* Selalu jadi pria yang sopan.</color>"
+        },
+        {
+          "index": 13,
+          "text": "<... Kita juga harus jalan.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2003-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*bersiul*",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "S.S., kan, nama tempat ini? Sesuai dengan namanya.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "<Kurang rasanya kita gak perlu bertanya-tanya siapa Manajer Lantainya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Jika orang-orang Noir itu mengatakan yang sebenarnya, yang itu pasti mampu menghasilkan Skein Emas.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "<Tentu saja kita tak butuh Tingkat Prestige yang lebih tinggi hanya untuk meminta bantuan sekecil ini, kan...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Sejauh yang saya tahu, Manajer, itu diwajibkan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<Ah...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Namun, mengingat tingkat saya saat ini, permintaan kita kemungkinan besar akan diterima.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "... Laporanmu menimbulkan kepanikan yang tak perlu. Katakan kesimpulan yang relevan terlebih dahulu lain kali.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D-2005-0",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Belum ada alasan untuk pergi ke arah sini."
+        }
+      ]
+    },
+    {
+      "key": "D-2017-0",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampaknya kita tidak ada urusan lagi di sini."
+        }
+      ]
+    },
+    {
+      "key": "D-2005-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kalian...",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2005-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ugh, apa kalian tidak lihat aku sedang sibuk? Beli tiket antrean dari orang di depanmu, atau bayar harga tinggi untuk membeli kembali Pewarna Emas. Berhentilah menggangguku.",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2005-3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sudah kubilang, berhenti menggangguku!",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2004-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Benang sedang dipintal. Saat terurai ke bawah, setiap helai mengambil warna dari pewarna yang menetes di sekitar pakunya."
+        }
+      ]
+    },
+    {
+      "key": "D-2006-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 이번 황금염료는 누가 사가는지 들었어?",
+          "speaker": "Needlekin Bekerja"
+        },
+        {
+          "index": 1,
+          "text": "[미사용] 다음 대기순번이… 네이키드였나? 르누아르에서 받아간다곤 들었는데.",
+          "speaker": "Needlekin Bekerja 2"
+        },
+        {
+          "index": 2,
+          "text": "[미사용] 그래? 그럼 훔치는 건 안 되겠네. 르카키들이었으면 바늘로 찌르고 염료만 가져가면 되는데…",
+          "speaker": "Needlekin Bekerja"
+        },
+        {
+          "index": 3,
+          "text": "[미사용] 외관과 달리 살벌한 대화가 오가고 있다."
+        }
+      ]
+    },
+    {
+      "key": "D-2006-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 엿듣고 있는 걸 눈치챘는지, 말 없이 일하기 시작했다."
+        }
+      ]
+    },
+    {
+      "key": "D-2006-3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pelanggan itu sedang bekerja keras."
+        }
+      ]
+    },
+    {
+      "key": "D-2006-4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 이.드. 라는 놈에 대해 아는 대로 말해라.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "[미사용] 이드? 네이키드?",
+          "speaker": "Needlekin Bekerja"
+        },
+        {
+          "index": 2,
+          "text": "[미사용] <…알아들었는데?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "[미사용] 지하 2층을 돌아다니는 그 재수 없는 르누아르를 말하는 거야?",
+          "speaker": "Needlekin Bekerja"
+        },
+        {
+          "index": 4,
+          "text": "[미사용] 그놈이라면 자주 원단을 보러 시장에 와.",
+          "speaker": "Needlekin Bekerja"
+        },
+        {
+          "index": 5,
+          "text": "[미사용] 시장이라면… 천을 잔뜩 쌓아둔 그 복도를 말하는 건가?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "[미사용] 맞아!",
+          "speaker": "Needlekin Bekerja"
+        }
+      ]
+    },
+    {
+      "key": "D-2008-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 무슨 일이십니까, 이방인들.",
+          "speaker": "Queueing Noir"
+        },
+        {
+          "index": 1,
+          "text": "[미사용] 음. 그런 염료는 전혀 들어보지 못했습니다.",
+          "speaker": "Queueing Noir"
+        },
+        {
+          "index": 2,
+          "text": "[미사용] 그래도 팔레트는 알고 있지 않겠습니까? 이 층의 염료는 모두 팔레트가 관리하고 있으니.",
+          "speaker": "Queueing Noir"
+        },
+        {
+          "index": 3,
+          "text": "[미사용] 건투를 빕니다.",
+          "speaker": "Queueing Noir"
+        }
+      ]
+    },
+    {
+      "key": "D-2009-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kembali lagi, orang asing?",
+          "speaker": "Palette"
+        },
+        {
+          "index": 1,
+          "text": "Harus kuakui, aku terkejut. Naked sudah mendapatkan Pewarna Emasnya—aku mengira kalian bakal muncul membawa tiket yang berlumuran darahnya.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 2,
+          "text": "Kami telah mencapai kesepakatan dengan pria itu. Dia bersedia menukar Pewarna Emasnya dengan pewarna bernama L'Incolore.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "L'Incolore...? Maksudmu pewarna laut dalam itu?",
+          "speaker": "Palette"
+        },
+        {
+          "index": 4,
+          "text": "Dari mana dia mendengarnya? Hampir tidak ada pelanggan yang mengingatnya lagi.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 5,
+          "text": "Berapa lama kami harus menunggu untuk menerima pewarna itu?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "Kalian tidak perlu menunggu. Pewarna laut dalam tidak memiliki antrean. Aku bahkan tak ingat sudah berapa musim berlalu sejak seseorang membelinya.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 7,
+          "text": "<Sepertinya kali ini kita beruntung.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Apa kau masih ingat cara membuatnya?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 9,
+          "text": "Tentu saja. Tapi... Aku tak akan memberikannya cuma-cuma. Sangat merepotkan untuk membuat barang itu, tahu.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 10,
+          "text": "Jika bola mata mencukupi—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Simpan saja bola matamu. Yang kuperlukan dari kalian... adalah pergi membuat beberapa gelembung-lemak menangis.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 12,
+          "text": "Ratapi setiap warna dua kali. Itu saja sudah cukup.",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2010-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sudah kembali? Hei, harus kuakui—kalian memecahkan air mata itu lebih baik dari yang kubayangkan.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 1,
+          "text": "Putty, bawakan racikan yang kita buat tadi.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 2,
+          "text": ".......",
+          "speaker": "Putty"
+        },
+        {
+          "index": 3,
+          "text": "Ini. Ambil.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 4,
+          "text": "Pewarna lama yang kalian minta.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "... Apa ini sejenis lelucon?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "Apa? Kalian meminta L'Incolore. Kalian sedang melihatnya.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 8,
+          "text": "Tapi di sana tidak ada—",
+          "speaker": "Outis"
+        },
+        {
+          "index": 9,
+          "text": "Tak bisa melihatnya, kan? Mungkin ingatanmu sudah terlalu banyak nodanya, atau mungkin hatimu sudah terlalu usang hingga tak dapat dikenali.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 10,
+          "text": "... *haah* Aku paham apa yang terjadi di sini. Manajer Eksekutif, tampak seperti warna apa pewarna ini menurut Anda?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 11,
+          "text": "<Ini... cuma kelihatan seperti seember cairan bening buatku.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "Jangan menatapku seperti itu. Itu tadi lelucon. Cuma bercanda, sumpah. Apa kalian benar-benar berpikir ada warna yang hanya bisa dilihat oleh orang yang berhati murni?",
+          "speaker": "Palette"
+        },
+        {
+          "index": 13,
+          "text": "<... Apa?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "Bahkan jika itu nyata, dunia tidak akan menjadi berbeda.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 15,
+          "text": "Warna itu dilukis untuk dilihat, tahu? Oleh orang lain. Dan kemurnian hati? Kepolosan? Tidak butuh waktu lama bagi hal-hal semacam itu untuk *poof* hilang begitu orang-orang itu terlahir ke dunia ini.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 16,
+          "text": "Dan kita berakhir dengan dunia lain di mana tidak ada yang bisa melihat warnanya. Itu secara definisi tidak berarti.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 17,
+          "text": "Memang begitu.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 18,
+          "text": "Ini hanya *sesuatu* yang tak berwarna. Kau tak bisa benar-benar mewarnai apa pun dengannya.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 19,
+          "text": "Asal tahu saja, aku tidak sekadar mengambil seember cairan sembarangan. Proses pembuatannya luar biasa rumit.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 20,
+          "text": "S.A.M.P.A.H.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 21,
+          "text": "Apa maksudmu, \"sampah?!\" Apa kau tahu berapa banyak kerja keras yang dicurahkan untuk pewarna itu?!",
+          "speaker": "Palette"
+        },
+        {
+          "index": 22,
+          "text": "Maksudku ini bukan berbahan dasar air biasa.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 23,
+          "text": "\"Semua Apresiasi Menuju Pada Akurasi Hasilmu.\" Dinilai dari kekentalan dan beratnya.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 24,
+          "text": "... B-benar...",
+          "speaker": "Palette"
+        },
+        {
+          "index": 25,
+          "text": "... Bahkan tidak meninggalkan noda.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 26,
+          "text": "Tentu saja tidak. Ini *kan* transparan.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 27,
+          "text": "Sambil mengangguk, Ryōshū mengambil ember berisi pewarna yang diletakkan Palette di depannya dan berjalan lurus ke arah pintu."
+        },
+        {
+          "index": 28,
+          "text": "Mau ke mana kamu?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 29,
+          "text": "H.A.U.S., Kita sudah dapat apa yang kita cari. Ga ada alasan buat keluyuran.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 30,
+          "text": "\"Hal Aneh Untuk Sidak,\" Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 31,
+          "text": "<... Apa kita yakin ini pewarna yang diinginkan Naked?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 32,
+          "text": "Tanya saja sendiri padanya, K.J.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 33,
+          "text": "Tapi aku lebih suka yang ini. Lebih bersih. Lebih elegan daripada P.E.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 34,
+          "text": "Sarung pedang Araya bergoyang ke kiri dan kanan, terbukti tidak setuju. Namun, Ryōshū benar tentang satu hal—kita tidak akan tahu sampai kita bertanya pada Naked sendiri."
+        },
+        {
+          "index": 35,
+          "text": "<... Baiklah. Bawa ini ke Naked dan lihat bagaimana hasilnya.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2011-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini L'Incolore yang Anda minta.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "... Jadi ini... L'Incolore...?",
+          "speaker": "Naked"
+        },
+        {
+          "index": 2,
+          "text": "Apa kamu tidak melihat rona yang bersih dan elegan ini? Mau jadi apa lagi kalau bukan itu?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "Perhatikan kekentalannya yang bergelombang, transparansi kristalnya yang memperlihatkan setiap detail di dalamnya... Ini adalah L'Incolore yang legendaris, pewarna yang nilainya melampaui Pewarna Emas sekalipun.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "Uh... tapi...",
+          "speaker": "Naked"
+        },
+        {
+          "index": 5,
+          "text": "Rakyat jelata yang tidak tahu apa-apa di B2 tampaknya tidak mampu melihatnya, tetapi orang dengan kecerdasan sepertimu pasti mengenali nilainya dalam sekali pandang. Kamu, yang hatinya tidak usang! Kamu, yang pakaiannya tak bernoda!",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "Sangat menyakitkan bagiku untuk menyerahkannya—tetapi kamu luar biasa beruntung. Jika Pewarna Emas tidak penting bagi tujuan Le Noir, kami akan membawa harta karun ini langsung kembali ke lantai atas!",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": ".......",
+          "speaker": "Naked"
+        },
+        {
+          "index": 8,
+          "text": ".......",
+          "speaker": "Outis"
+        },
+        {
+          "index": 9,
+          "text": "Ini... Ini luar biasa. Tak disangka rona seindah ini bisa ada...!",
+          "speaker": "Naked"
+        },
+        {
+          "index": 10,
+          "text": "<... Kau benar-benar luar biasa, Outis.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "Heh. Anda terlalu memuji saya, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 12,
+          "text": "Aku percaya tidak ada warna di toko departemen ini yang dapat menandingi keindahan emas...",
+          "speaker": "Naked"
+        },
+        {
+          "index": 13,
+          "text": "Aku kagum. Ini memikat indra dengan segala cara yang memungkinkan...",
+          "speaker": "Naked"
+        },
+        {
+          "index": 14,
+          "text": "Sesuai janji, aku menyerahkan kuintal Pewarna Emas berikutnya kepadamu.",
+          "speaker": "Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-2012-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 자꾸 특별한 걸 추구하다 보면, 저렇게 되는 거지.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 1,
+          "text": "[미사용] 그냥 흘러가는 대로 남들처럼만 살면 될 텐데 말야.",
+          "speaker": "Palette"
+        },
+        {
+          "index": 2,
+          "text": "[미사용] 암튼 너희한텐 이득이네. 자, 여기 황금염료.",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2013-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...!!!!!",
+          "speaker": "Kepompong"
+        },
+        {
+          "index": 1,
+          "text": "<?!! Suara apa itu...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "*fuh* Dia sedang diperas untuk diambil benangnya. Bukan jenis jeritan yang sesuai dengan seleraku.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "... Manajer, saya mendengar sesuatu berlari kencang menuju ke arah kita dari koridor.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Makhluk purba itu datang.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 5,
+          "text": "Sebuah peringatan, jika kalian berkenan.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 6,
+          "text": "Benang yang dipintal di bawah rintangan tidak akan pernah menghasilkan warna yang indah.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 7,
+          "text": "Sesuatu yang diidamkan banyak orang akan mengundang banyak rintangan.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 8,
+          "text": "Sesuatu menabrak koridor dengan keras menuju tempat kita berada sebelumnya."
+        },
+        {
+          "index": 9,
+          "text": "Apakah entitas hitam itu mendengar jeritan dan kembali untuk mengambil kepompong?"
+        },
+        {
+          "index": 10,
+          "text": "... Sepertinya dia ingin kita mempertahankan posisi ini selagi dia memintal benangnya.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 11,
+          "text": "Saya menyarankan untuk segera memperkuat pintu masuk koridor yang menuju ke posisi ini, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 12,
+          "text": "<... Ayo lakukan itu.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2015-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan ini... setiap helai terakhir telah ditarik.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 1,
+          "text": "Apa kalian punya kumparan untuk ini?",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 2,
+          "text": "Belum.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Kalau begitu buatlah menjadi gulungan benang dan bawa bersamamu.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 4,
+          "text": "Dengan ini... kita telah mendapatkan Skein Emas yang tertera dalam resep.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "<Kerja bagus, semuanya. Ayo kembali ke lantai tiga.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2015-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sekarang... kembalilah.",
+          "speaker": "Manajer Lantai B2F"
+        }
+      ]
+    },
+    {
+      "key": "D-2016-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] <등 뒤가 싸한데?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2034-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "!!!",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-SH109001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Diam-diam... Kau... butuh jarum? Apa kau akan diam-diam kalau berhasil membeli jarum?",
+          "speaker": "Red Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-SH109002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku punya beberapa barang yang tak terpakai. Aku bakal mengizinkanmu membelinya dariku, sebagai kebaikan khusus.",
+          "speaker": "Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-SH109003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku sibuk, jadi pilih dengan cepat. Dan jangan macam-macam.",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D20221001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kumparan benang putih murni tergulung di sini."
+        }
+      ]
+    },
+    {
+      "key": "D20221101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tampaknya ini sejenis mesin pemintal. Kontraksi ini mengeluarkan helai-helai benang dengan kecepatan yang stabil dan konstan."
+        }
+      ]
+    },
+    {
+      "key": "D20221201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Helai-helai benang terurai keluar, menggulung diri di sekitar kumparan. Dari mana asalnya?"
+        }
+      ]
+    },
+    {
+      "key": "D20221301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini tembok yang \"ditembus\" Kromer. Ini bukan ilusi atau semacamnya—dia benar-benar menembus tembok padat."
+        },
+        {
+          "index": 1,
+          "text": "O.T.B. di lantai. Apa wanita itu menjatuhkannya?",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "<Yah, menilai dari caranya berinteraksi dengan kita.. dia kemungkinan besar sengaja meninggalkannya di sini.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<Meursault, ambil saja dulu. Siapa tahu bisa berguna.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Dimengerti, Manajer.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D20221401",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mesin ini terlihat rumit untuk dioperasikan."
+        },
+        {
+          "index": 1,
+          "text": "<Meursault, apa kau tahu cara mengoperasikannya?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Saya tidak familiar dengan prosedur kerja lantai bawah Sisyphe.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Sementara itu, Outis mulai mengoperasikan tampilan rumit mesin tersebut."
+        },
+        {
+          "index": 4,
+          "text": "Hm... Aku belum memahami prinsip kerjanya, tetapi aku punya gambaran umum tentang strukturnya.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "<Oh, wah...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Antarmukanya menampilkan tiga fungsi: ekstraksi, pemintalan, dan pewarnaan. Perintah Anda, Manajer Eksekutif?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "Tiga tombol muncul pada layar yang ditunjukkan Outis."
+        }
+      ]
+    },
+    {
+      "key": "D20221402",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada tiga tombol di layar."
+        }
+      ]
+    },
+    {
+      "key": "D20221411",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan suara dengung yang mengkhawatirkan, mesin itu menyedot sebidang kulit Meursault ke permukaannya."
+        },
+        {
+          "index": 1,
+          "text": "Huh. Benang-benang ini O.K.",
+          "speaker": "Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D20221412",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan suara dengung yang mengkhawatirkan, mesin itu menyedot sebidang kulit Meursault ke permukaannya."
+        }
+      ]
+    },
+    {
+      "key": "D20221413",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan suara dengung yang mengkhawatirkan, mesin itu menyedot sebidang kulit Meursault ke permukaannya."
+        },
+        {
+          "index": 1,
+          "text": "... Apa... Anda akan menekannya lagi, Manajer Eksekutif?",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D20221414",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan suara dengung yang mengkhawatirkan, mesin itu menyedot sebidang kulit Meursault ke permukaannya."
+        },
+        {
+          "index": 1,
+          "text": "Kau mau S.A.K.I.T?",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "Dia bertanya apakah tujuan anda adalah membuat kulit tersebut \"Semua area kini ikut terpotong,\" Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<T-tidak, bukan itu yang mau kulakukan... Tapi apa Sinclair pernah menerjemahkan singkatan itu sebelumnya?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Beliau pernah menerjemahkan \"S.A.K.I.T\" sebelumnya di dalam bus. Itu singkatan dari \"Semua area kini ikut terpotong,\"",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<Aku benar-benar tidak ingat apa konteksnya saat dia mengatakannya.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20221415",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sekumpar benang jatuh keluar dari mesin tersebut."
+        },
+        {
+          "index": 1,
+          "text": "Tampaknya benang ini terbuat dari... kulit Meursault."
+        }
+      ]
+    },
+    {
+      "key": "D20221416",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Seharusnya tidak ada alasan untuk menekan tombol ini lagi."
+        }
+      ]
+    },
+    {
+      "key": "D20221417",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Benang-benang itu berdenting pelan saat mesin menariknya kencang."
+        },
+        {
+          "index": 1,
+          "text": "Jumlah mereka mulai berlipat ganda..."
+        },
+        {
+          "index": 2,
+          "text": "... Uh, kami tidak diberi tahu apa pun soal peningkatan volume produksi.",
+          "speaker": "Needlekin Laborer"
+        },
+        {
+          "index": 3,
+          "text": "Bukannya kamu terlalu cepat? Pelankan benang-benang di sebelah sana!",
+          "speaker": "Needlekin Laborer 2"
+        },
+        {
+          "index": 4,
+          "text": "... Pelanggan yang bekerja di dekat sini menatap tajam ke arah kita."
+        }
+      ]
+    },
+    {
+      "key": "D20221418",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Tatapan menuduh di sekelilingku terlalu tajam untuk mengambil risiko menekannya lagi."
+        }
+      ]
+    },
+    {
+      "key": "D20221419",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah peringatan menyatakan bahwa tidak ada pewarna yang tersedia."
+        },
+        {
+          "index": 1,
+          "text": "Tidak ada yang terjadi."
+        }
+      ]
+    },
+    {
+      "key": "D20221420",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan segala hormat, Manajer Eksekutif... bolehkah saya bertanya apa sebenarnya yang ingin Anda capai?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "<... Maksudku... Terkadang kau cuma ingin memencet beberapa tombol, kan?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20221421",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Saat aku mencoba menekan tombol itu sekali lagi, sesuatu menepuk sikuku."
+        },
+        {
+          "index": 1,
+          "text": "Aku menoleh dan menemukan sarung pedang Ryōshū, Araya."
+        },
+        {
+          "index": 2,
+          "text": "Untuk sesaat, aku bersumpah mendengarnya berkata, \"Kamu benar-benar harus berhenti bersikap seperti anak kecil...\""
+        }
+      ]
+    },
+    {
+      "key": "D20221422",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ya, aku harus berhenti. Ini makin konyol."
+        }
+      ]
+    },
+    {
+      "key": "D20221501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tumpukan kain yang telah diwarnai terlipat rapi di sini."
+        }
+      ]
+    },
+    {
+      "key": "D20221511",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kain-kain yang telah diwarnai tergantung di sini."
+        },
+        {
+          "index": 1,
+          "text": "Langkah kaki yang terburu-buru terdengar berlari dari suatu tempat saat aku memeriksa kain tersebut."
+        }
+      ]
+    },
+    {
+      "key": "D20221512",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kain-kain yang telah diwarnai tergantung di sini."
+        },
+        {
+          "index": 1,
+          "text": "Langkah kaki yang terburu-buru terdengar berlari dari suatu tempat saat aku memeriksa kain tersebut."
+        }
+      ]
+    },
+    {
+      "key": "D20221513",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kain-kain yang telah diwarnai tergantung di sini."
+        }
+      ]
+    },
+    {
+      "key": "D20221521",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suara yang menyerupai gemuruh kereta api terdengar dari balik pintu."
+        },
+        {
+          "index": 1,
+          "text": "Saat aku mendekat untuk menyelidiki, cahaya yang bocor melalui celah itu tumbuh semakin terang."
+        },
+        {
+          "index": 2,
+          "text": "<Aaargh!!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "...! Manajer Eksekutif!",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "Apa Anda tidak apa-apa?! Apa yang Anda lihat?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "<Aku mendengar sesuatu seperti kereta... lalu kilatan cahaya besar ini muncul...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Outis meneliti setiap inci dari celah tersebut, lalu menunjuk seolah-olah dia telah menemukan sesuatu."
+        },
+        {
+          "index": 7,
+          "text": "Ada sesuatu yang tersangkut di dalam. Meursault, bisakah Anda mengeluarkannya?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "Bisa.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Meursault mengeluarkan sebuah bola mata dari celah tersebut."
+        }
+      ]
+    },
+    {
+      "key": "D20221522",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suara klakson kereta api dan bisikan orang-orang terdengar secara berselang-seling dari celah tersebut."
+        }
+      ]
+    },
+    {
+      "key": "D20221601",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini pewarna biru langit dengan rona yang sangat murni."
+        },
+        {
+          "index": 1,
+          "text": "Sebuah catatan di sampingnya berbunyi, \"Pewarna sedang diuji. Jika Anda berniat menggunakannya, ambil sedikit saja...\""
+        },
+        {
+          "index": 2,
+          "text": "... Lumayan. Punya nilai estetika.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "Tampaknya tidak diperlukan pembayaran dengan bola mata. Seharusnya boleh untuk mengambil sedikit sampel.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "<Ayo isi satu wadah saja, Meursault.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Mendapatkan sampel pewarna biru langit."
+        }
+      ]
+    },
+    {
+      "key": "D20221701",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak ada apa-apa selain kegelapan gulita. Meursault meraih ke arah kelip cahaya mungil yang sangat samar hingga hampir tak teramati."
+        },
+        {
+          "index": 1,
+          "text": "Meursault mendapatkan Serbuk Gergaji."
+        }
+      ]
+    },
+    {
+      "key": "D20221801",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pewarna hijau."
+        },
+        {
+          "index": 1,
+          "text": "Melihatnya memberikan rasa ketenangan."
+        }
+      ]
+    },
+    {
+      "key": "D20221802",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pewarna dengan rona kuning. Sekilas, hampir terlihat seperti keemasan."
+        },
+        {
+          "index": 1,
+          "text": "Orang asing. Itu bukan Pewarna Emas, jadi berhentilah berputar-putar di sekitarnya.",
+          "speaker": "Palette"
+        }
+      ]
+    },
+    {
+      "key": "D20221803",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pewarna biru. Ryōshū memalingkan kepalanya, tampak tidak senang. Mungkin rona biru memikat itu mengingatkannya pada kilauan biru Koridor Nursefather Pinky."
+        },
+        {
+          "index": 1,
+          "text": "Araya, di sisi lain, bergemeretak senang saat kami mendekati pewarna biru. Mungkin biru warna favoritnya."
+        }
+      ]
+    },
+    {
+      "key": "D20221804",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah wadah berisi pewarna merah. \"UNTUK DIKIRIM KE B3\" tertulis di sisinya."
+        }
+      ]
+    },
+    {
+      "key": "D20221901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sofa yang dicat dengan perpaduan berbagai warna."
+        },
+        {
+          "index": 1,
+          "text": "Setiap kali aku mencoba duduk, orang di sebelah Palette menatapku dengan tajam."
+        },
+        {
+          "index": 2,
+          "text": ".......",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "Ryōshū membalas menatapnya dengan tak kalah tajam. Sarung pedangnya bergoyang di belakangnya. Entah bagaimana, gerakan itu tampak seperti lambaian tangan seseorang yang mencoba menghentikan perkelahian."
+        }
+      ]
+    },
+    {
+      "key": "D20222001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu yang tampak seperti direktori toko departemen ditempelkan pada mesin penjual minuman otomatis. Kerusakan telah mengaburkan sebagian besar tulisannya."
+        }
+      ]
+    },
+    {
+      "key": "D20222002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu yang tampak seperti direktori toko departemen ditempelkan pada mesin penjual minuman otomatis. Kerusakan telah mengaburkan sebagian besar tulisannya."
+        }
+      ]
+    },
+    {
+      "key": "D-209001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Daging yang hancur mengintip dari balik potongan kain mungil."
+        }
+      ]
+    },
+    {
+      "key": "D-209002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Daging yang hancur melumat mengintip dari balik potongan kain mungil."
+        }
+      ]
+    },
+    {
+      "key": "D-209005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini telah meledak menjadi kekacauan pewarna kuning dan daging. Sulit dibayangkan seperti apa bentuknya sebelumnya."
+        }
+      ]
+    },
+    {
+      "key": "D-209006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini telah meledak menjadi kekacauan pewarna merah dan daging. Sulit dibayangkan seperti apa bentuknya sebelumnya."
+        }
+      ]
+    },
+    {
+      "key": "D-209007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ini telah meledak menjadi kekacauan pewarna biru dan daging. Sulit dibayangkan seperti apa bentuknya sebelumnya."
+        }
+      ]
+    },
+    {
+      "key": "D-209008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Ini cuma mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D-209009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Ini cuma mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D-209010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Ini cuma mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D-209011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Ini cuma mayat.>"
+        }
+      ]
+    },
+    {
+      "key": "D20221805",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Terisi dengan pewarna biru langit dengan rona yang sangat murni."
+        }
+      ]
+    },
+    {
+      "key": "D20221806",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Seember penuh pewarna biru."
+        }
+      ]
+    },
+    {
+      "key": "D20221807",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Seember penuh pewarna ungu. Label di sisinya tertulis \"KEMURNIAN - CUKUP\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221808",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Seember penuh pewarna ungu kebiruan. Label di sisinya tertulis \"KEMURNIAN - BELUM DIPERIKSA\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221809",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah ember, perlahan terisi pewarna ungu kemerahan. Label di sisinya tertulis \"TINGKAT PREMIUM\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221810",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tertulis \"UNTUK DIBUANG\". Saat dilihat kembali, ini memang terlihat agak keruh."
+        }
+      ]
+    },
+    {
+      "key": "D20221811",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ohh, mungkin ini Pewarna Ema—ah. Ada label bertuliskan \"BUKAN YANG INI\" yang ditempel di sisi ember. Sepertinya bukan yang ini..."
+        }
+      ]
+    },
+    {
+      "key": "D20221812",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pasti sering tertukar."
+        }
+      ]
+    },
+    {
+      "key": "D20221813",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Labelnya berbunyi: \"PEMBUANGAN\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221814",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ember pewarna hijau."
+        }
+      ]
+    },
+    {
+      "key": "D20221815",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ember ini tersegel rapat."
+        }
+      ]
+    },
+    {
+      "key": "D20221816",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sudah mencoba membukanya, tapi segelnya tidak mau terlepas."
+        }
+      ]
+    },
+    {
+      "key": "D-2041",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa kamu yang bernama Naked?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "... Pelanggan, mencariku? Apa yang kalian inginkan?",
+          "speaker": "Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-2041-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hm... Begitu ya.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 1,
+          "text": "Tapi aku tak bisa melakukan itu.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 2,
+          "text": "Hmm... Mungkin lebih banyak bola mata bisa—",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "Jangan repot-repot. Kau tak bisa membujukku dengannya.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 4,
+          "text": "Alasan utamaku menghabiskan musim demi musim di lantai ruang bawah tanah, menyaksikan tren yang tak terhitung jumlahnya berlalu begitu saja... adalah untuk membuat pakaian yang cukup megah untuk membawaku lebih tinggi—ke lantai lima. Tujuan tunggal itu membuat perjalanan ke sini sangat sepadan.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 5,
+          "text": "Tanpa Pewarna Emas, impian itu tak ada artinya.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 6,
+          "text": "Jika kau punya pewarna dengan nilai yang setara... mungkin aku bisa terbujuk.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 7,
+          "text": "Apa pewarna seperti itu ada?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "Ini hanya rumor, tapi... mereka bilang ada pewarna dengan rona indah, yang hanya bisa dilihat oleh orang yang berhati murni. Lebih megah daripada Pewarna Emas sekalipun.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 9,
+          "text": "<Akan terlihat seperti apa bagi seseorang yang hatinya tidak murni...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 10,
+          "text": "*fuh* Seperti tak ada apa-apa, tentu saja. Kasat mata.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 11,
+          "text": "<Siapa yang bakal memakai pakaian yang diwarnai dengan hal seperti itu?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "Orang ini, sepertinya.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 13,
+          "text": "Ryōshū mengangkat bahu, menjentikkan rokoknya ke tanah, dan menginjaknya hingga hancur di bawah tumitnya."
+        },
+        {
+          "index": 14,
+          "text": "Aku percaya itu disebut L'Incolore. Bawakan aku pewarna itu, dan aku akan menukar Pewarna Emas dengannya.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 15,
+          "text": "Ini mungkin lebih langka daripada Pewarna Emas—dan jauh lebih mencolok juga.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 16,
+          "text": "... Apa Palette menyadari keberadaannya?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 17,
+          "text": "Yah, aku tidak tahu—tidak pernah bertanya padanya. Mungkin dia memilikinya di lini produksinya, siapa tahu.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 18,
+          "text": "Lagi pula, bahkan jika dia punya pewarna seberharga itu, aku harus menunggu sangat lama sebelum bisa mendapatkannya, karena aku gagal menginap sebelum buka. Dan setelah berapa lama aku menunggu untuk mendapatkan Pewarna Emas... Aku tak berpikir aku punya tenaga untuk menunggu sekali lagi.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 19,
+          "text": "Hm? Giliranku sepertinya sudah tiba! Aku harus pergi mengambil pewarnaku.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 20,
+          "text": "Tunggu, biarkan kami—",
+          "speaker": "Outis"
+        },
+        {
+          "index": 21,
+          "text": "Tenang saja. Aku tidak masalah melakukan penukaran *jika* kau benar-benar bisa membawakanku L'Incolore. Lagi pula aku tidak bisa naik ke lantai atas di sisa musim ini.",
+          "speaker": "Naked"
+        },
+        {
+          "index": 22,
+          "text": "Aku berencana untuk tetap berada di sekitar sini. Datang dan temui aku setelah kalian mendapatkan L'Incolore. Bagaimanapun juga, aku pergi dulu—harus mengambil Pewarna Emas.",
+          "speaker": "Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-2041-3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Kita harus kembali ke tempat Palette jika ingin jawaban soal \"L'Incolore\" ini.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2042",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Isak tangis ini. Begitu jelas.",
+          "speaker": "Raja Needleworks"
+        },
+        {
+          "index": 1,
+          "text": "Hitam... Tidak di sini...! Masih jauh... jauh...!",
+          "speaker": "Raja Needleworks"
+        },
+        {
+          "index": 2,
+          "text": "Ha. Ha. Hahaha. Sekali lagi, perjamuannya...!",
+          "speaker": "Raja Needleworks"
+        },
+        {
+          "index": 3,
+          "text": "<Benda apa itu?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Mundur dari posisi ini akan mengorbankan produksi skein, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "Bersiaplah untuk bertarung, K.J.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 6,
+          "text": "Suka atau tidak, benda itu mendatangi kita.",
+          "speaker": "Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D-2043",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Sepertinya itu tak bergerak lagi.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<Apa-apan benda itu tadi...?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2044",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Grrraaagh...!",
+          "speaker": "Benang Hitam"
+        }
+      ]
+    },
+    {
+      "key": "D-2045",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kalian telah membawa Pewarna Emas.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 1,
+          "text": "Warna berseri yang disinari cahaya matahari... keindahan yang pantas untuk benang ini, bukankah begitu?",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 2,
+          "text": "Aku sungguh mengidamkannya sekarang setelah melihatnya sendiri.",
+          "speaker": "Manajer Lantai B2F"
+        },
+        {
+          "index": 3,
+          "text": "Ketiga wajah Manajer Lantai B2F menatap lekat ke kantong Meursault. Tak lama kemudian, mereka menundukkan kepala dan menerima kepompong itu dalam diam."
+        }
+      ]
+    },
+    {
+      "key": "D-2801",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Merek memedati kita dengan cukup cepat.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "Dapat T.A.S, benda-benda itu.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "<Oke... dan itu artinya...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Saya tidak dapat menerjemahkan singkatan yang belum pernah digunakan sebelumnya, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Uh, dia bilang... \"Dapat Tanda Apresiasi Spesial, benda-benda itu...\"",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "Sarung pedangnya bergemeretak marah saat Sinclair menerjemahkan singkatan Ryōshū."
+        },
+        {
+          "index": 6,
+          "text": "Namun karena sudah terkena beberapa kali pukulan sarung pedang di perutnya, Sinclair telah bergeser lumayan jauh dari Ryōshū."
+        },
+        {
+          "index": 7,
+          "text": "<Ukuran mereka sangat kecil juga... Sampai tidak bisa melacak dari mana mereka datang.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "<Sepertinya kita harus lebih memperhatikan tanah.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2802",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<\"Air mata,\" katanya... \"Pecahkan beberapa gelembung-lemak,\" katanya...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Meskipun pengalaman di toko departemen ini membuat saya mengekspektasikan hal yang tak terduga di setiap kesempatan, wujud dari... air mata itu tetap membuat saya terperanjat.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "*fuh* tapi memberikan pemandangan yang bagus. Menangis tak terkontrol selagi disiram seember penuh warna-warni... Punya daya tarik norak tersendiri.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "Setidaknya ayo mencoba mati sekali untuk setiap warna. Itu bakal memberikan hasil bagus bagi kita.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "<Aku tidak melihat apa bagusnya hal itu...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Namun, sekarang setelah mereka kehilangan elemen kejutan, satu-satunya hal yang perlu kita waspadai adalah genangan pewarna yang mereka tinggalkan. Ini seharusnya bisa ditangani dengan lebih mudah, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "<Ya, genangan itu bertahan cukup lama, huh?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "<... Baiklah. Coba lagi.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2803",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<...! T-tunggu! Kepompong Emasnya...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Hm? Kepompongnya masih melayang di atas bahu Meursault, Manajer Eksekutif.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "<Phew... Lega sekali. Aku kira ikut terlahap bersamanya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Terlahap? Apa maksud—",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "Itu terlahap. Tetapi kepompongnya masih tetap berada di atas bahu saya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<Jadi kepompongnya juga kembali... Apa itu karena terhubung ke Meursault entah bagaimana?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "*fuh* M.W.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 7,
+          "text": "Singkatan itu digunakan untuk menyampaikan \"Majukan wekernya\" Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<O-oke, kau mau aku maju ke mana?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Tsk. Maksudku \"manipulasi waktu.\"",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 10,
+          "text": "<Waktu...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "Ya, Outis bertingkah agak aneh, seolah tak paham apa yang baru saja terjadi."
+        },
+        {
+          "index": 12,
+          "text": "Belum lagi kepompongnya yang kembali dipulihkan juga... Yang berarti..."
+        },
+        {
+          "index": 13,
+          "text": "<Ayo keluar dan periksa apa yang terjadi.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2804",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Agh... Jadi itu yang dilakukan para Needlekin.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "<Kita harus terus mengalahkan Needlekin juga.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<Yah... ayo cepat kembali sebelum monster itu melahap Kepompongnya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Kita harus bersiap untuk skenario terburuk—ada kemungkinan Monster itu sudah mendapatkan kepompong tersebut.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "Itu ruangan Manajer Lantai. Tempat itu tidak akan mudah dimasuki.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<Hm... Benar juga. Pelanggan lain juga ada yang mengantre.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Tetap saja, tak ada alasan untuk duduk-duduk dan mempertaruhkan hal terburuk. Ayo kembali ke koridor itu.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-209060",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa yang kau lakukan? Tidak sopan sekali.",
+          "speaker": "Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-209061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "T... tak mungkin...! Apa kalian mata-mata Rouge selama ini, mengincar desain pribadiku...? Orang-orang asing terkutuk!",
+          "speaker": "Naked"
+        }
+      ]
+    }
+  ]
+}
