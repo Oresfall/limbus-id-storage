@@ -1,0 +1,10 @@
+{
+  "datalist": [
+    {
+      "id": 2021111,
+      "name": "Le Trou de Vidange",
+      "desc": "If this unit has 5 [BulletHole], does not consume E.G.O Resource when using \"Hollow\" E.G.O's Skills (both Awakening and Corrosion)\n\nTurn Start: Gain 1 [BulletHole] and 1 [BlackWingHole]\n\nWhen an ally defeats an enemy, the said ally heals 5 SP and gains 1 [Enhancement] next turn (once per turn)\n\n[Charge] Count max cap +5\n\nIf this unit gains [Charge] Count past the max [Charge] Count Cap, this unit randomly gains [Breath] Potency or Count equal to the surplus [Charge] Count gained (max 6 [Charge] Count converted per turn)",
+      "flavor": "It is not penetration that bores a hollow; it is emptiness.\nThe hollow desires to be filled, yet instead, things only ever spill forth from within."
+    }
+  ]
+}
