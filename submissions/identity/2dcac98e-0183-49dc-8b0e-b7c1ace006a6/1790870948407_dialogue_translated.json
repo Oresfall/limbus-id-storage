@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10315_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Maka bersabdalah Tuhan: \"Kepada Le Noir berilah kepuasan, dan kepada Direktur Merek berilah kesengsaraan dan palu.\"\nDengan tugas suci ini di tanganku, aku memanggilmu untuk menjawab: apakah kau penganut aturan, atau... pembuat keonaran?"
+    },
+    {
+      "id": "lobby_morning_10315_1",
+      "desc": "Morning Greeting",
+      "dlg": "Lihatlah, musim baru telah tiba lagi. Sekali lagi kita akan berbaris maju dalam keadilan dan keberanian. Tuhan, berilah aku kekuatan untuk terus memacu dalam keteguhan yang tak tergoyahkan.\nBiarkan Le Noir diletakkan di atas alas mode, yang dapat dipuja dan disembah oleh ratusan juta pelanggan di Grand Magasin."
+    },
+    {
+      "id": "lobby_noon_10315_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Saat sinar matahari kian terik, Néants yang menjijikkan itu menekan mataku... Meski tujuan akhir mereka mungkin sama dengan upaya para Rouge... Aku enggan membuang kewaspadaanku pada para pemalas yang tak berbuat apa-apa selain berjemur di bawah cahaya dalam kelembaman yang kaku."
+    },
+    {
+      "id": "lobby_night_10315_1",
+      "desc": "Evening Greeting",
+      "dlg": "Demikianlah akhir musim tiba. Sangat berat kerja keras kita, dan dalam barisan kita, banyak pelat pelindung yang dianugerahkan padamu telah lapuk dan usang.\nSang Penjahit pasti sedang sangat sibuk saat ini... Tapi tolong, tenanglah hatimu, Rocinante tersayang, karena saat tugas hari ini selesai, kita akan berkunjung ke lantai empat."
+    },
+    {
+      "id": "smalltalk_10315_1",
+      "desc": "Chatter #1",
+      "dlg": "Reputasi kita mengalami penurunan setelah kita menyerahkan Aula Mewah kepada para Rouge...\nDi musim-musim seperti ini, strategi pemewahan dan kelangkaan buatan selalu terbukti unggul.\n... Demi menjaga nilai dan harga diri merek kita, dengan ini aku mengeluarkan penarikan umum. Pertama, mari kita mulai dengan menarik produk yang dijual ke Le Kaki."
+    },
+    {
+      "id": "smalltalk_10315_2",
+      "desc": "Chatter #2",
+      "dlg": "Meskipun kita telah kehilangan benteng kita di lantai dua, tolong jangan berkecil hati! Kemuliaan Le Noir tidak hanya terletak di Aula Mewah.\nAku adalah Direktur Merek—merupakan tanggung jawabku untuk merangkul bahkan para Noir yang tidak hina, dan membantu mereka meningkatkan gengsi mereka ke tingkat yang layak bagi nama Le Noir. Lakukan apa yang kau bisa untuk membantu."
+    },
+    {
+      "id": "smalltalk_10315_3",
+      "desc": "Chatter #3",
+      "dlg": "Penghiburan hangatmu kuterima dengan rasa syukur... namun hatiku telah bersumpah setia kepada sebuah Suara, dan aku tak akan sudi mengabaikan kesetiaanku.\n... Meski sang Dewa Obsidiana mungkin tidak menyadari... kesetiaanku."
+    },
+    {
+      "id": "smalltalk_10315_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Bukan sekadar khayalanku bahwa Suara yang mulia itu menunjukkan ketidakpedulian yang aneh terhadap permainan \"dewa palsu\"...\nApakah perusakan tatanan ini juga hanyalah benang takdir yang patuh seperti yang tertulis...? Atau apakah Dia menganggap perlu untuk menguji nilaiku? *hembusan napas* Aku harus menyisir kekusutan ini dari pikiranku sendiri."
+    },
+    {
+      "id": "smalltalk_10315_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Kupikir aku telah menyelesaikan masalah ini di bawah jubah keheningan, bahkan di luar pengawasan para Manajer Lantai... Lalu bagaimana para Rouge terkutuk itu mencegat Untaian Emas yang diperuntukkan bagi tangan Sang Penjahit?\nJika tak seorang pun dari kita para Noir yang membocorkan kisah ini, lalu... Mungkinkah—seberapa mustahil pun pemikiran itu untuk dipikirkan—bahwa dewa palsu telah mengintip ramalan itu?"
+    },
+    {
+      "id": "neglect_10315_1",
+      "desc": "Idle",
+      "dlg": "... Keheningan telah melanda toko. Wahai Suara... ke mana Engkau pergi? Kami para Noir menantikan kedatangan-Mu."
+    },
+    {
+      "id": "gacksung_10315_1",
+      "desc": "Uptying",
+      "dlg": "Ramalan itu akan terwujud—impian para Rouge akan dilahap oleh noda kejahatan. Aku mengarahkan paku-paku ini pada impian keserakahan dan ketakserakahanmu... dan menjatuhkan palu ini dengan seluruh kekuatanku."
+    },
+    {
+      "id": "formation_10315_1",
+      "desc": "Deployment",
+      "dlg": "Palu yang telah digenggam harus dijatuhkan—itu hanyalah hukum alam yang pasti."
+    },
+    {
+      "id": "battleentry_10315_1",
+      "desc": "Stage Entry",
+      "dlg": "Beri jalan untuk menyambut kedatanganku. Lakukan ini, maka keadilanmu tak akan diragukan."
+    },
+    {
+      "id": "battle_select_10315_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Ssst. Saksikanlah dalam keheningan, karena Dewa Obsidiana akan segera mengaruniakan berkah dari Suara-Nya kepada kita."
+    },
+    {
+      "id": "battle_endcommand_10315_1",
+      "desc": "Commencing Attack",
+      "dlg": "Aku akan menjadi garda depan, agar kau bisa menemukan keselamatan di belakangku."
+    },
+    {
+      "id": "battle_enemy_break_10315_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Saksikanlah dalam keheningan."
+    },
+    {
+      "id": "battle_break_10315_1",
+      "desc": "Staggered",
+      "dlg": "... Menghujat."
+    },
+    {
+      "id": "battle_kill_10315_1",
+      "desc": "Enemy Killed",
+      "dlg": "Pembalasan Tuhan itu cepat dan mutlak."
+    },
+    {
+      "id": "battle_dead_10315_1",
+      "desc": "Death",
+      "dlg": "Aku pun... akan... diabadikan selamanya..."
+    },
+    {
+      "id": "choice_success_p_10315_2",
+      "desc": "Check Passed",
+      "dlg": "Tak boleh ada keraguan maupun kegagalan, karena Dewa Obsidiana mengawasi kita."
+    },
+    {
+      "id": "choice_fail_n_10315_1",
+      "desc": "Check Failed",
+      "dlg": "Janganlah berkecil hati di hadapan kemalangan; itu hanyalah pertanda dari takdir yang kian dekat."
+    },
+    {
+      "id": "battle_clear_10315_1",
+      "desc": "Victory Cry",
+      "dlg": "Meski banyak yang telah gugur ke tanah, sungguh... Kau tak perlu khawatir, karena setiap momen penderitaan kita terukir dan diingat oleh Grand Magasin Sisyphe itu sendiri.\nPara Noir yang gugur pun adalah kain dan pilar... yang akan bersama kita menenun keabadian."
+    },
+    {
+      "id": "battle_clear_ex_10315_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "... Sebuah penutup yang teratur, ditarik persis seperti yang diramalkan oleh takdir. Sungguh, hikmat Dewa Obsidiana sangatlah luas."
+    },
+    {
+      "id": "battle_defeat_10315_1",
+      "desc": "Defeat Wail",
+      "dlg": "Aku... telah mengikuti jalan tatanan yang tak pernah salah... dan tak pernah menyimpang dari jalur...\nBahkan ketika... harga dari kesetiaan itu... adalah nyawaku..."
+    }
+  ]
+}
