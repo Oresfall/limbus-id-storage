@@ -1,0 +1,402 @@
+{
+  "dataList": [
+    {
+      "id": "TangleBlackYarn",
+      "name": "Tangling",
+      "desc": "- Stack Maks: 30\n- Take +1% damage untuk setiap Stack\n- Base Power -1 untuk setiap 10 Stacks\n- Akhir Giliran: Peroleh 1 Bind giliran berikutnya untuk setiap 3 Stacks (maks 10)\n- <color=#ff6000><mark color=#ff000040><b><u>On Defense Skill Use,</color></mark></b></u> lose half of the Stacks (rounded up)",
+      "summary": "",
+      "flavor": "The department store is a world of sewing, bound together by thread and needle. Even that which came from the sea now finds its body turned to thread, black water tangling into black yarn."
+    },
+    {
+      "id": "SickBlackYarn",
+      "name": "Bursting Blackstitch",
+      "desc": "- Stack Maks: 50\n- Take +1% damage untuk setiap Stack\n- Turn Start: Peroleh 1 Fragile untuk setiap 25 Stacks",
+      "summary": "",
+      "flavor": "Each time a loose strand bursts from the black yarn, it carries the briny scent of tears... strangely nostalgic despite itself."
+    },
+    {
+      "id": "HeavyBlackYarn",
+      "name": "Clumped Black Threads",
+      "desc": "- Stack Maks: 5\n- Peroleh Slot Weight setara dengan Stack (per Part)\n- Take +10% damage untuk setiap Stack",
+      "summary": "",
+      "flavor": "Black is an image of death and mass. Just as black seawater grows heavy with what it holds, black thread gains weight as it clumps together. It gathers everything into itself, knots tight, sinks, and stops."
+    },
+    {
+      "id": "HideBlackYarn",
+      "name": "Pool of Black Water",
+      "desc": "- Maks Potency: 6\n- Count Maks: 2\n- <color=#ff6000><mark color=#ff000040><b><u>When hit, kehilangan 1 Potency</color></mark></b></u> (sekali per Skill)\n- Akhir Giliran: Kehilangan 1 Count\n- <color=#ff6000><mark color=#ff000040><b><u>Expires if Potency or Count reaches 0</color></mark></b></u>\n- Cannot be Staggered\n- On Unopposed Attack, beri +100% damage\n- Take -100% damage",
+      "summary": "",
+      "flavor": "It is neither sea nor aquarium now, only a stagnant pond. Yet the great longing that has settled there holds enough sorrow to momentarily hide the body."
+    },
+    {
+      "id": "AngryBlackYarn",
+      "name": "Instinct of the Predator of Eld",
+      "desc": "- All Parts gain Clash Power +2 untuk setiap Part that has efek ini\n- Beri +5% damage untuk setiap 3 Tangling Stacks pada target (maks 50%)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "flavor": "Every aquarium had its predator, much like a Manajer Lantai in the department store. The predator now wears the shape of a fish, but in an earlier Sisyphe System, there were no fish-shaped beings in the Aquarium. The minds of those who lived there may have been fish, but their forms were human."
+    },
+    {
+      "id": "BlackYarn_LowMorale",
+      "name": "Bereaved of Child",
+      "desc": "- Low Morale\n- Pada Penggunaan Skill, if Pwie is the main target, Clash Power +3, Base Power +2\n- When hit, inflict 1 Tangling (3 times per Skill)",
+      "summary": ""
+    },
+    {
+      "id": "BlackYarn_Panic",
+      "name": "Bereaved of Child",
+      "desc": "- Panic\n- All Attacks target Pwie\n- Pada Penggunaan Skill, if Pwie is the main target, Clash Power +6, Base Power +4\n- Combat Start: Convert all Skill Coins into Unbreakable Coins\n- When hit, inflict 1 Tangling (6 times per Skill)",
+      "summary": ""
+    },
+    {
+      "id": "FlowerLaurelWreath",
+      "name": "Laurel Wreath of Atonement",
+      "desc": "- Remove all Stagger Thresholds\n- Clash Power +2\n- Take -50% SP damage from Sinking (dibulatkan ke bawah)\n- Akhir Giliran: Heal 10 SP and gain 5 Haste giliran berikutnya\n- <color=#ff6000><mark color=#ff000040><b><u>Clash Win: Heal 5 SP for all allies including unit ini dan Assist Units</color></mark></b></u>",
+      "summary": "",
+      "flavor": "Let the confession of its sins bloom beneath the fragrance of flowers."
+    },
+    {
+      "id": "AlriuneSillage",
+      "name": "Faint Aroma",
+      "desc": "- Stack Maks: 30\n- Akhir Giliran: Take SP damage setara dengan Stack\n- If unit ini took Sinking damage, gain 1 Stack\n- On Tremor Burst, beri 1 ~ 2 Faint Aroma on 3 other kawan acak\n- At maks Stack:\n · Peroleh 2 Tremor and trigger Tremor Burst pada diri sendiri\n · Take Gloom damage setara dengan Sinking pada diri sendiri\n · Faint Aroma expires\n · Cannot gain for the rest of the turn\n- On death, apply half of unit ini's Faint Aroma Stack randomly between unit ini's allies (dibulatkan ke bawah)",
+      "summary": "",
+      "flavor": "Fragrance begets longing. Longing, in turn, becomes yearning."
+    },
+    {
+      "id": "AlriunePetal",
+      "name": "Petals",
+      "desc": "Stack Maks: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Pada 3 Stacks, use a powerful Skill that turn</color></mark></b></u>\n- Beri +(Petals Stack pada diri sendiri x 10)% damage to Staggered targets\n- Akhir Giliran: Peroleh 1 Stack",
+      "summary": "",
+      "flavor": "One petal, two petals... and then, three."
+    },
+    {
+      "id": "ThreadDye",
+      "name": "Dyed Thread",
+      "desc": "- Stack Maks: 3\n- Cannot gain Haste while having efek ini\n- Akhir Giliran: Remove Haste that will be applied giliran berikutnya\n- Akhir Giliran: Peroleh Bind giliran berikutnya setara dengan Potency dan kehilangan 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>At maks Stack, gain Immobilize this turn and giliran berikutnya; then, efek ini expires</color></mark></b></u>",
+      "summary": "",
+      "flavor": "Like nails, threads will hold you fast, the color of its binds predetermined."
+    },
+    {
+      "id": "SpreadingDye",
+      "name": "Gloss Medium",
+      "desc": "- Jika target memiliki Bind, inflict 1 lebih banyak Potency Bleed and Bleed Count\n- Pada Penggunaan Skill, if the main target has Dyed Thread or Tar Dye, the said Skill gains Final Power +1 and beri +20% damage",
+      "summary": "",
+      "flavor": "Most dyes are meant to have a color.\nBut this one's dye has none.\n\nApplied in rough, uneven strokes, it reveals a spectrum of colors through nothing but the reflection and refraction of pure light."
+    },
+    {
+      "id": "StickyDye",
+      "name": "Tar Dye",
+      "desc": "- Stack Maks: 1\n- Min & Maks Speed -1 (min 1)",
+      "summary": "",
+      "flavor": "The dye clings, making every step harder to take."
+    },
+    {
+      "id": "ChargeKhaki",
+      "name": "Inersia Kain Bergeser",
+      "desc": "- Charge Unik\n- Count Maks: 20\n- Berinteraksi sama seperti Charge normal pada efek yang menambah atau mengurangi Potency dan Count Charge\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "",
+      "flavor": "Mereka yang terbawa arus bak pelampung mungkin tak dapat mengubah arus, namun mereka masih dapat mendukung arus dan berkomitmen pada tindakan mereka."
+    },
+    {
+      "id": "FinishedFabric",
+      "name": "Cut Fabric",
+      "desc": "- Stack Maks: 30\n- Skills that gain or consume Charge Count (including Charge Unik) beri +(Stack)% damage (maks 30%)\n- Akhir Giliran: Lose 5 Stacks\n  · If Perisai was broken this turn, lose 10 Stacks instead",
+      "summary": "",
+      "flavor": "Fabrics with functions of their own can only serve their purpose when properly cut."
+    },
+    {
+      "id": "LargeTailoringShears",
+      "name": "Blossom Scissors",
+      "desc": "- Stack Maks: 3\n- Beri +(5 + Stack x 5)% damage against Sinners (maks 20%)\n- Pada Penggunaan Skill against Alteration Target Sinners, gain Clash Power setara dengan Stack",
+      "summary": "",
+      "flavor": "Gunting yang digunakan untuk memotong material primordial yang dihasilkan di bawah tanah memiliki ukuran lebih besar dan lebih luar biasa. Gunting ini telah memotong kain pertama yang pernah ditenun. Bunga yang mekar darinya adalah hal yang wajar, karena mereka selalu memotong segala sesuatunya sampai ke akar-akarnya."
+    },
+    {
+      "id": "TailoringTarget",
+      "name": "Alteration Target",
+      "desc": "- Min & Maks Speed +5\n- This turn's first-used Skill gains Clash Power +3\n- Combat Start: If unit ini has an equipped Defense Skill, take -80% damage from Annette Sang Pengubah\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "flavor": "Rather than altering the clothes to fit the person, she alters the person to fit the clothes. Here, clothes are what define the wearer; preserving the garment and altering the person is how worth is protected and how the customer is served."
+    },
+    {
+      "id": "ScissorsMark",
+      "name": "Tanda Pencukuran",
+      "desc": "- Stack Maks: 9\n- Lose Defense Level setara dengan Stack",
+      "summary": "",
+      "flavor": "Tanda pemotongan yang digunakan untuk memotong kain dan bahan lain sesuai ukuran yang diperlukan."
+    },
+    {
+      "id": "DamagedFabric",
+      "name": "Sheared Apart",
+      "desc": "- Stack Maks: 30\n- Turn Start : Peroleh 1 HP Healing Down untuk setiap 6 Stacks (maks 5)\n- Upon Clashing against \"Membuat Pola\" or \"Surfile à la Chaîne\", lose Clash Power setara dengan Stack",
+      "summary": "",
+      "flavor": "Once the fabric has been cut apart, sewing the scraps back together only makes patchwork. It can never return to a single fabric woven from its original threads."
+    },
+    {
+      "id": "ThirdTailor_LowMorale",
+      "name": "Trembling Hands",
+      "desc": "- Low Morale\n- Take +7.5% damage\n- Every time unit ini is hit, peroleh +1 Tremor Count (sekali per Skill, maks 5 per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "My hands are starting to shake, and even the scissors won't stay steady... I won't be able to cut the pattern anymore..."
+    },
+    {
+      "id": "ThirdTailor_Panic",
+      "name": "Trembling Hands",
+      "desc": "- Panic\n- Take +15% damage\n- Every time unit ini is hit, gain 1 Tremor Potency and +1 Tremor Count (sekali per Skill, maks 5 per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "My hands are starting to shake, and even the scissors won't stay steady... I won't be able to cut the pattern anymore..."
+    },
+    {
+      "id": "GoldenLeatherEnhance",
+      "name": "Shower of Stinging Sunshine [Raja Needleworks]",
+      "desc": "Skill Final Power +1 untuk setiap 3 Naildle on the target (maks 3)",
+      "summary": "",
+      "flavor": "\"You don't have to listen anymore. You only have to make it so you cannot hear them. Simply do what you want. Don't deny yourself.\""
+    },
+    {
+      "id": "NoirShieldUp",
+      "name": "Blessing of the Obsidian God",
+      "desc": "- Maks Potency: 999\n- Base Count: 2\n- Cannot be Staggered\n- Turn Start: The Part gains Perisai setara dengan Stack\n- This effect counts as a \"Perisai Management\" effect\n- Lose Stack when losing Perisai\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "",
+      "flavor": "The Obsidian God. The Obsidian Giant. The Chaplain of the Hammer. The Obsidian God of the Grand Magasin, whose domain is the power of preservation, grants his blessing through direct contact. The hammer is hard, and its black hue absorbs all things and brings them to a halt... much like death itself."
+    },
+    {
+      "id": "NoirShieldPiece",
+      "name": "Apocalyptic Vengeance",
+      "desc": "- Stack Maks: 2\n- Take -10% damage\n- At 2 Stacks, Final Power -2",
+      "summary": "",
+      "flavor": "It feels as though a fragment of imaginary mass is pressing down upon the body—a crude imitation of a Giant's punishment. According to the covenant, ascending to a higher place is akin to bearing a heavy boulder and climbing in silence."
+    },
+    {
+      "id": "VibrationResonance",
+      "name": "Negation of Conservation",
+      "desc": "- Stack Maks: 2\n- Take -90% damage from Tremor Burst; -90% to Stagger Threshold raised\n- Beri +20% damage\n- Akhir Giliran: Kehilangan 1 Stack ",
+      "summary": "",
+      "flavor": "A counterwave set against every motion that seeks preservation shakes preservation itself apart, preventing it from taking hold."
+    },
+    {
+      "id": "NoirField",
+      "name": "Sanctum of Conservation",
+      "desc": "- Stack Maks: 2\n- Turn Start: Peroleh 1 Power Up dan 1 Damage Up untuk setiap 20% missing HP (maks 3 respectively)\n- Turn Start: All \"Le Noir\" allies' Skills gain Final Power setara dengan Stack\n\n- Turn Start: At 1+ Stack, apply the following effects to all \"Le Noir\" allies, including unit ini:\n · SP +10\n · Attack Power +2\n · Defense Level +2\n\n- Turn Start: At 2+ Stacks, apply the following effects to all non-\"Le Noir\" enemies:\n · Maks Speed -1\n · Offense Level -6\n · Defense Level -2",
+      "summary": "",
+      "flavor": "A sanctuary in which the value of conservation pursued by Le Noir is preserved. Within it, the Noirs' preservative actions are retained to their benefit. It is a realm of eternal conservation—a place that stirs the drive to infinitely approach death."
+    },
+    {
+      "id": "NoirSquareCollapse",
+      "name": "Formation Collapse",
+      "desc": "- Stack Maks: 10\n- Lose Defense Level setara dengan Stack",
+      "summary": "",
+      "flavor": "When faith—the faith that each will dutifully carry out their assigned role—begins to crumble, doubt takes root in the cracks."
+    },
+    {
+      "id": "NoirNail",
+      "name": "Promised Nail",
+      "desc": "- Stack Maks: 3\n- When Tremor Burst is triggered on unit ini,\n · Take Sloth damage setara dengan Tremor Potency pada diri sendiri\n · Peroleh 1 Fragile\n · Kehilangan 1 Stack",
+      "summary": "",
+      "flavor": "The promised hammer is bound by promise to drive in a nail. Therefore, whenever the hammer falls, a nail must exist there... even if none was there before."
+    },
+    {
+      "id": "BuffetField",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns\n· Stage 1: Pwie\n· Stage 2: All allied Sinners\n· Stage 3: All targets",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_0",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_1",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_2",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "GourmandiseAlly",
+      "name": "Uncontrollable Rampage",
+      "desc": "- Base Power +1, convert all Coins on all Skills into Unbreakable Coins\n- Beri +5% damage untuk setiap 3 Bleed pada diri sendiri (maks 30%); pulihkan +10% more HP pada target (maks 100%, dibulatkan ke bawah)\n- Cannot be Staggered; take -90% damage from Bleed (excluding forced Staggers)\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "Skills are strengthened"
+    },
+    {
+      "id": "BloodyMucusAlly",
+      "name": "Baptism [Crimson]",
+      "desc": "- Stack Maks: 3\n- On Attack Skill Use, gain Bleed Count setara dengan Stack (sekali per Skill)\n- On Defense Skill Use, kehilangan 1 Stack\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "BuffetGold",
+      "name": "Golden Revelation",
+      "desc": "- Maks Speed: 5\n- Take +5% damage untuk setiap Stack\n- At maks Stack, take +10% damage jika unit ini has Bleed",
+      "summary": "",
+      "flavor": "The golden light guides the child toward whom they should harm next. Even under that guidance, the child believes the judgment to be entirely their own."
+    },
+    {
+      "id": "BuffetShoes",
+      "name": "Pink Mary Janes",
+      "desc": "- Min & Maks Speed +3",
+      "summary": "",
+      "flavor": "Thanks... for the shoes. Can I go anywhere if I put these on? I wanna... travel with you."
+    },
+    {
+      "id": "BuffetGoldenClothes",
+      "name": "Golden Shroud",
+      "desc": "- Defense Level +10\n- Akhir Giliran: If unit ini is Staggered, recover from Stagger and pulihkan 50% HP (once per Encounter)",
+      "summary": "",
+      "flavor": "The child has donned the clothes of an adult. Not just any clothes, but a hide garment made from another's death. And so, the child takes one step closer to adulthood."
+    },
+    {
+      "id": "Buffet_LowMorale",
+      "name": "Unforgotten Pain",
+      "desc": "- Low Morale\n- Peroleh 3 Protection",
+      "summary": ""
+    },
+    {
+      "id": "Buffet_Panic",
+      "name": "Unforgotten Pain",
+      "desc": "- Panic\n- Peroleh 5 Protection",
+      "summary": ""
+    },
+    {
+      "id": "RestrictMob",
+      "name": "Rule: Raw Hide Damage Prohibited",
+      "desc": "- Combat Start: When Tahanan Disamak is targeted with an Attack Skill, efek ini expires, and the attacker gains 1 Pelanggaran Peraturan Penyamakan\n- Akhir Giliran: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictBoss",
+      "name": "Rule: Tanning Rush Prohibited",
+      "desc": "- Combat Start: When the Pengawas is targeted with an Attack Skill, efek ini expires, and the attacker gains 1 Pelanggaran Peraturan Penyamakan\n- Akhir Giliran: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictTier1",
+      "name": "Rule: Offensive Behavior Prohibited",
+      "desc": "- Combat Start: When an Attack Skill is equipped, efek ini expires and gain 1 Pelanggaran Peraturan Penyamakan (excluding E.G.O Skills)\n- Akhir Giliran: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictDef",
+      "name": "Rule: Defensive Behavior Prohibited",
+      "desc": "- Combat Start: When a Defense Skill is equipped, efek ini expires and gain 1 Pelanggaran Peraturan Penyamakan\n- Akhir Giliran: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictDenied",
+      "name": "Pelanggaran Peraturan Penyamakan",
+      "desc": "- Stack Maks: 1\n- Take +30% damage from the Pengawas\n- At unit ini's Attack End, the Pengawas uses the \"Punishing Burnishing Finishing\" Skill on unit ini; then, efek ini expires",
+      "summary": "",
+      "flavor": "The target is a transgressor who has violated the rules by which this world is bound."
+    },
+    {
+      "id": "B3FreshMob",
+      "name": "Uncreased Hide",
+      "desc": "- Stack Maks: 1\n- Turn Start: Peroleh 20 Perisai\n- Akhir Giliran: Peroleh 2 Protection\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "flavor": "Please handle with care. If you try on a hide garment and bend too much, it will crease... and that lowers its worth."
+    },
+    {
+      "id": "RestrictFailed",
+      "name": "Rule Collapse",
+      "desc": "- Offense Level +3\n- Defense Level -3",
+      "summary": "",
+      "flavor": "Do you know the difference between a rule and a law?"
+    },
+    {
+      "id": "targetDye_LowMorale",
+      "name": "Jammed Machine",
+      "desc": "Skills deal -5% damage against targets with slower Speed than unit ini's",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "targetDye_Panic",
+      "name": "Jammed Machine",
+      "desc": "Skills deal -10% damage against targets with slower Speed than unit ini's",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Can that which moves faster than oneself truly be fixed in place?"
+    },
+    {
+      "id": "RouteBOneLeg",
+      "name": "원레그 B루트 강화",
+      "desc": "- Base Offense Level +25\n- Base Defense Level +25",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SapsareeGold",
+      "name": "Shower of Stinging Sunshine [Sous Chef]",
+      "desc": "- Pada Penggunaan Skill, Final Power +1 untuk setiap \"Fiery, Tongue-scorching Sauce\" pada target (maks 3)\n- Peroleh 15 SP upon killing an ally with unit ini's Skill",
+      "summary": "",
+      "flavor": "\"Sous-chef has a warm, hearty heart, you hear? Sous-chef is stuffed full of confidence, you hear?!\""
+    },
+    {
+      "id": "GoldenManager",
+      "name": "Shower of Stinging Sunshine [Manajer Lantai 3F]",
+      "desc": "- Beri +5% damage untuk setiap Guarded Caution pada target (maks 50%)\n- Base Power +3 Pada Penggunaan Skill against target that has 0 or less SP",
+      "summary": "",
+      "flavor": "The sunshine burns hot, yet the cloth cannot be cast aside, and the heart retreats beneath the blankets... deeper beneath the blankets..."
+    },
+    {
+      "id": "SisyphusSapphire",
+      "name": "Sapphire",
+      "desc": "- Skills inflict 1 more Burn, Bleed, Tremor, Rupture, and Sinking Potency against enemies\n- Peroleh +2 more Count when gaining Charge Count and Poise Count\n- Peroleh +10 Charge Count when gaining efek ini (once per Encounter)\n- Clash Power +1\n- Final Power +1",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusOnyx",
+      "name": "Onyx",
+      "desc": "- Skills inflict 1 more Burn, Bleed, Tremor, Rupture, and Sinking Potency against enemies\n- Peroleh +2 more Count when gaining Charge Count and Poise Count\n- Peroleh +10 Charge Count when gaining efek ini (once per Encounter)\n- Clash Power +2\n- Final Power +1",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusDiamond",
+      "name": "Diamond",
+      "desc": "- Skills inflict 1 more Burn, Bleed, Tremor, Rupture, and Sinking Potency against enemies\n- Peroleh +2 more Count when gaining Charge Count and Poise Count\n- Peroleh +10 Charge Count when gaining efek ini (once per Encounter)\n- Clash Power +2\n- Final Power +1\n- Beri +10% damage",
+      "summary": ""
+    },
+    {
+      "id": "OutOfControl_LowMorale",
+      "name": "Disabled Overseeing",
+      "desc": "- Low Morale\n- Skill Final Power +1\n- Turn Start: Beri 1 Attack Power Down to all kawan lain",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "OutOfControl_Panic",
+      "name": "Disabled Overseeing",
+      "desc": "- Panic\n- Skill Final Power +1\n- Turn Start: Beri 1 Attack Power Down dan 1 Damage Down to all kawan lain",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "LaNoirSuperior_LowMorale",
+      "name": "Into the First Shell...",
+      "desc": "- Low Morale\n- Offense Level -2\n- Defense Level +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LaNoirSuperior_Panic",
+      "name": "Into the First Shell...",
+      "desc": "- Panic\n- Offense Level -3\n- Defense Level +4",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}
