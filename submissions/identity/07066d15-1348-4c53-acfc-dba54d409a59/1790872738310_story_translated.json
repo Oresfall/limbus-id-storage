@@ -1,0 +1,485 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Bagaimanakah kabar penarikan produk di lantai empat?"
+    },
+    {
+      "id": 1,
+      "teller": "Asosiasi Penjualan",
+      "title": "Maison du Noir",
+      "content": "Aula Alas Kaki telah menyelesaikan penarikan massalnya dan memulai inspeksi. Namun, Aula Tas Tangan... mengatakan mereka membutuhkan sedikit waktu lagi."
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Kirimkan beberapa asosiasi penjualan ke Aula Tas Tangan. Jika kita berlambat-lambat lebih lama lagi, para Rouge akan mengusir kita dari lantai empat juga."
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Sedangkan untuk lantai tiga... Bukankah Dua-bagian disewa untuk menghadang koridor? Namun musuh kita tetap berhasil menerobos."
+    },
+    {
+      "id": 4,
+      "teller": "Asosiasi Penjualan",
+      "title": "Maison du Noir",
+      "content": "Ada sebuah insiden yang melibatkan orang asing yang membantu para Rouge, tetapi sebagian besar masalah datang dari mereka yang menyusup melalui jalur Ruang Pengeras Suara."
+    },
+    {
+      "id": 5,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Suara baru ini telah memalingkan telinga para Rouge dari siaran. Sampaikan ini kepada Manajer Lantai di lantai tiga: Aku ingin mereka mengikrarkan kesetiaan kepada Le Noir, dan menghadang para penyusup itu dari toko-toko kita."
+    },
+    {
+      "id": 6,
+      "teller": "Asosiasi Penjualan",
+      "title": "Maison du Noir",
+      "content": "Dimengerti."
+    },
+    {
+      "id": 7,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Hmm. Dan kabar apa yang ada dari lantai satu?"
+    },
+    {
+      "id": 8,
+      "content": "Rencana untuk mengoperasikan setiap toko, rencana untuk merebut kembali Aula Mewah..."
+    },
+    {
+      "id": 9,
+      "content": "Percakapan di sampingku terus berlanjut, memenuhi telingaku dengan segala macam rumor yang semuanya sama sekali di luar jangkauanku."
+    },
+    {
+      "id": 10,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Um... Kelihatannya Anda sibuk sekali. Apakah tidak apa-apa jika aku pergi duluan sendiri?"
+    },
+    {
+      "id": 11,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Aku sebenarnya cuma datang untuk menyampaikan rumor dari Nona Penjahit itu. Cuma itu..."
+    },
+    {
+      "id": 12,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Ya. Sang Suara telah mengungkapkan hal itu kepadaku."
+    },
+    {
+      "id": 13,
+      "content": "Aku sudah menunggu pergantian musim agar bisa turun ke lantai satu, lalu menuju lantai-lantai ruang bawah tanah..."
+    },
+    {
+      "id": 14,
+      "content": "... tapi malah dihentikan oleh Direktur Merek Le Noir. Sekarang aku terpaksa terus mengekor bersamanya."
+    },
+    {
+      "id": 15,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Namun engkau adalah seorang Kaki, bukan? Terapung-apung, tanpa pengabdian kepada Dewa Obsidiana yang mulia untuk membimbing jalanmu."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Hingga engkau meninggalkan lantai ini, engkau akan tetap berada di sisiku, di mana aku dapat mengawasimu; karena aku tidak mengetahui definisi dari keadilanmu."
+    },
+    {
+      "id": 17,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Definisi... keadilanku?"
+    },
+    {
+      "id": 18,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Tidak ada yang pasti di dalam Grand Magasin ini."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Dahulu, nama Le Noir dan Le Rouge menjunjung tinggi nilainya masing-masing. Namun bahkan nilai-nilai itu pun dihancurkan oleh jiwa-jiwa durjana yang dikenal sebagai Le Néant."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Bahkan jika engkau menjadikan kekacauan Le Kaki sebagai tatananmu dan hidup dengannya, timbangan tempat kekacauan itu menyeimbangkan dirinya tidaklah sejajar.\n"
+    },
+    {
+      "id": 21,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Maksud Anda... seperti bagaimana Nona Penjahit membantu para Noir?"
+    },
+    {
+      "id": 22,
+      "content": "Sejak kabar burung beredar bahwa para Rouge memiliki dewa baru..."
+    },
+    {
+      "id": 23,
+      "content": "... orang-orang di serba ada ini mulai semakin tidak peduli untuk mengikuti tren terbaru. Malahan, mereka akan memilih antara Le Rouge atau Le Noir, lalu menceburkan diri ke dalam busana merek tersebut—dan merek itu saja."
+    },
+    {
+      "id": 24,
+      "content": "Tapi... bukan itu yang aku inginkan."
+    },
+    {
+      "id": 25,
+      "content": "Merah atau hitam. Aku tidak akan pernah bisa membuat pakaian yang ada di pikiranku jika membatasi diriku hanya pada salah satunya."
+    },
+    {
+      "id": 26,
+      "content": "Kedua warna itu mungkin bertabrakan dalam pakaian yang sama. Mereka mungkin tidak menyatu dengan baik, tetapi aku tetap akan mengambil kesempatan itu dan mencampurnya untuk menciptakan sesuatu dari keduanya."
+    },
+    {
+      "id": 27,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Aku..."
+    },
+    {
+      "id": 28,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Aku cuma ingin melihat segala macam hal yang ada di sini—mendengar tentangnya, mencobanya sendiri... dan menggunakan semua itu untuk membuat pakaian yang indah."
+    },
+    {
+      "id": 29,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Sebagaimana pakaianmu saat ini yang tidak membedakan antara Noir dan Rouge?"
+    },
+    {
+      "id": 30,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "... Ya."
+    },
+    {
+      "id": 31,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "......."
+    },
+    {
+      "id": 32,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Semakin engkau berbelanja, dan berbelanja lagi untuk keabadian di dalam Grand Magasin ini, semakin hebat engkau menjadi seorang perancang."
+    },
+    {
+      "id": 33,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Aku... aku juga berpikir begitu. Aku bisa menjadi perancang yang sangat hebat suatu hari nanti."
+    },
+    {
+      "id": 34,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Dan maksudku... cukup hebat sampai-sampai para model di 6F pun akan meminta merekku!"
+    },
+    {
+      "id": 35,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Tahu tidak, aku ini dulunya semacam seniman di luar sana."
+    },
+    {
+      "id": 36,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... \"Luar\"? Betapa asingnya kata itu sekarang."
+    },
+    {
+      "id": 37,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Katakan padaku, menjadi seperti apakah engkau di dunia sana?"
+    },
+    {
+      "id": 38,
+      "content": "Berjalan melewati koridor dengan sinar matahari yang terasa sangat menyengat, Direktur Merek menanyakan hal itu tanpa melirik ke arahku sedikit pun."
+    },
+    {
+      "id": 39,
+      "content": "\"Luar.\" Aku bahkan hampir tidak ingat lagi seperti apa rasanya."
+    },
+    {
+      "id": 40,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "... Cukup menyedihkan, kurasa."
+    },
+    {
+      "id": 41,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Semua yang bisa kubuat di luar sana... hanyalah barang tiruan."
+    },
+    {
+      "id": 42,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Aku tidak dapat memberikan kata-kata penghiburan padamu, karena aku sendiri tidak pernah menjalani hidup yang begitu malang."
+    },
+    {
+      "id": 43,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Aku pun tidak akan pernah mengetahui kehidupan seperti itu, selama aku mengindahkan firman Dewa Obsidiana dan mematuhi tatanan yang telah dimaklumkan oleh Tuhan kita—satu-satunya tatanan sejati dari serba ada ini."
+    },
+    {
+      "id": 44,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Namun... aku berharap nasibmu di sini akan menjadi lebih baik."
+    },
+    {
+      "id": 45,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Anu, \"Dewa Obsidiana\" ini... seperti apa Dia? Aku pernah mendengar Suaranya di toko-toko Noir beberapa kali, tapi..."
+    },
+    {
+      "id": 46,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Ssst."
+    },
+    {
+      "id": 47,
+      "content": "Saat kami sedang berjalan menuju eskalator, Direktur Merek mendadak berhenti di depan etalase toko Le Rouge Contemporary Hall."
+    },
+    {
+      "id": 48,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Saksikanlah dalam keheningan,"
+    },
+    {
+      "id": 49,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "karena Dewa Obsidiana bersabda kepadaku."
+    },
+    {
+      "id": 50,
+      "content": "Tepat ketika Direktur Merek memejamkan mata dan berlutut seolah hendak berdoa..."
+    },
+    {
+      "id": 51,
+      "content": "... sebuah siluet yang tak asing terlihat, melewati dompet-dompet tidak aktif yang berserakan di koridor."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 53,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "...!"
+    },
+    {
+      "id": 54,
+      "content": "Musim lalu, aku sama sekali tidak tahu siapa dia—tetapi aku punya waktu untuk mempelajari lebih banyak tentang dirinya sejak saat itu."
+    },
+    {
+      "id": 55,
+      "content": "Dewa palsu dari Le Rouge, \"Suara\" baru mereka."
+    },
+    {
+      "id": 56,
+      "content": "Aku tidak menyadarinya saat itu, tetapi waktu di Toko Perubahan, kemunculannya adalah pertanda bahwa serangan para Rouge sudah di depan mata."
+    },
+    {
+      "id": 57,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Direktur...! Buka mata kalian! Mereka ada di sini...!"
+    },
+    {
+      "id": 58,
+      "content": "Dan benar saja—associate penjualan Le Rouge, yang mengenakan gelang seperti capit, mulai berbaris melintasi koridor menuju ke arah kami..."
+    },
+    {
+      "id": 59,
+      "content": "... tetapi mata Direktur Merek tetap terpejam, fokus sepenuhnya untuk mendengarkan Sang Suara."
+    },
+    {
+      "id": 60,
+      "content": "Aku mengumpat pelan. Aku benar-benar tidak ingin menggunakannya di sini, tetapi tidak banyak hal lain yang bisa kulakukan... Jadi aku menahan air mata dan mengeluarkan kain yang kuambil dari lantai tiga."
+    },
+    {
+      "id": 61,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "......."
+    },
+    {
+      "id": 62,
+      "content": "Saat kainku berhasil menghalau gelombang pertama para Rouge secara singkat..."
+    },
+    {
+      "id": 63,
+      "content": "Direktur Merek perlahan membuka matanya dan mengangkat palu besarnya, audiensi dengan Sang Suara telah selesai."
+    },
+    {
+      "id": 64,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Aku memaklumkan tanah ini sebagai tempat suci yang kudus."
+    },
+    {
+      "id": 65,
+      "content": "Aku memejamkan mata, terpana sejenak oleh ledakan cahaya. Itu tidak seperti sinar matahari dari serba ada ini, tetapi tetap saja menyilaukan."
+    },
+    {
+      "id": 66,
+      "content": "Simbol-simbol aneh mulai merayap di sepanjang pakaianku—bagian yang ditenun dari kain Le Noir, secara spesifik."
+    },
+    {
+      "id": 67,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Dewa Obsidiana telah menjanjikan keabadian dan pemeliharaan kepadaku."
+    },
+    {
+      "id": 68,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Engkau tidak perlu berdiri untuk membelaku. Namun..."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Benda apakah... itu?"
+    },
+    {
+      "id": 70,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "I-itu Manekin di dalam penyimpananku."
+    },
+    {
+      "id": 71,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Aku mendandaninya dengan pakaian yang kumerancang, mengingat bendanya terbuat dari kain dan semacamnya..."
+    },
+    {
+      "id": 72,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Aku tidak bisa mengatakan bahwa rancanganmu sangat kusukai, tetapi kualitasnya cukup memadai."
+    },
+    {
+      "id": 73,
+      "content": "Dengan setiap lambaian tangan Direktur Merek, paku-paku cahaya yang berkilauan terwujud dari udara hampa."
+    },
+    {
+      "id": 74,
+      "content": "Cara paku-paku itu terbentuk hampir terlihat seolah-olah benang-benang cahaya menenunnya menjadi nyata, setiap butirannya jatuh ke dalam pola benang lusi dan pakan yang teratur. Dan tepat saat aku menyadari setiap ujung paku diarahkan ke penyerang Rouge yang berbeda..."
+    },
+    {
+      "id": 75,
+      "content": "... terjadi bayangan kabur, diikuti oleh hembusan angin kencang, saat palu menghantam kepala setiap paku seolah-olah tertarik oleh suatu gravitasi."
+    },
+    {
+      "id": 76,
+      "content": "Setelah badai paku dan palu yang luar biasa menghancurkan gempuran para Rouge menjadi pasta merah... dewa palsu itu tidak dapat ditemukan di mana pun."
+    },
+    {
+      "id": 77,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Kita harus mengepung lantai dua sekarang juga."
+    },
+    {
+      "id": 78,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Meskipun aku bermaksud turun ke B2F bersama denganmu, salah satu dari Le Kaki..."
+    },
+    {
+      "id": 79,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "jelas bagiku bahwa sekarang adalah waktunya untuk bangkit."
+    },
+    {
+      "id": 80,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Apakah Dewa Obsidiana menyuruhmu untuk... naik?"
+    },
+    {
+      "id": 81,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Tidak."
+    },
+    {
+      "id": 82,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Mengenai dewa palsu itu... Tuhan telah bersabda bahwa..."
+    },
+    {
+      "id": 83,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Cih, aku tidak boleh membiarkan keraguan mencemari bibirku, karena cobaan ini hanyalah ujian bagi imanku."
+    },
+    {
+      "id": 84,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Kumohon, biarkan rumor ini tersebar luas."
+    },
+    {
+      "id": 85,
+      "content": "Nah, sekarang setelah aku mengantar Direktur Merek naik eskalator..."
+    },
+    {
+      "id": 86,
+      "content": "... saatnya untuk turun ke ba—"
+    },
+    {
+      "id": 87,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "... Lo, apakah ini selalu ada di sini?"
+    },
+    {
+      "id": 88,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "\"Bentuk-bentuk manusia... memusat berkali-kali... pada struktur... pohon...\""
+    },
+    {
+      "id": 89,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "\"Kehidupan masa lalu.\" Kehidupan masa lalu, di kehidupan masa lalu, aku..."
+    }
+  ]
+}
