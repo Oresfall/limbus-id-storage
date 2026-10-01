@@ -1,0 +1,34 @@
+{
+  "datalist": [
+    {
+      "id": "battle_awaken_20211_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Kemalangan, sekali membidik targetnya,\nditakdirkan untuk kembali dengan sebuah gigitan.\nDengan demikian manusia menjadi ketiadaan, hanya menyisakan abu di belakang."
+    },
+    {
+      "id": "battle_awaken_20211_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Kemalangan, sekali membidik targetnya,\nditakdirkan untuk kembali dengan sebuah gigitan.\nDengan demikian manusia menjadi ketiadaan,"
+    },
+    {
+      "id": "battle_awaken_20211_3",
+      "desc": "E.G.O Activation",
+      "dlg": "hanya menyisakan abu di belakang."
+    },
+    {
+      "id": "battle_erosion_20211_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Tatapan tak terhitung, peluru tak terbilang.\nPalu tunggal menghentak sebanyak dua puluh empat kali..."
+    },
+    {
+      "id": "battle_erosion_20211_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "dan rentetan tembakan, yang gelisah di bawah naungan,"
+    },
+    {
+      "id": "battle_erosion_20211_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": "akan jatuh bagaikan hujan lebat."
+    }
+  ]
+}
