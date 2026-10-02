@@ -1,0 +1,10 @@
+{
+  "dataList": [
+    {
+      "id": 2051011,
+      "name": "L'Hémorragie interne",
+      "desc": "[AlwaysUseEGOPassive]\nJika unit ini memiliki 5 [BulletHole], tidak menggunakan Bahan E.G.O ketika menggunakan Skill E.G.O \"Kekosongan\" (baik Kebangkitan dan Korosi)\n\nAwal Giliran: Peroleh 1 [BulletHole]\n\n[WhenUseEGOPassive]\nAwal Giliran: Peroleh 1 [BlackWingHole]\n\nPulihkan 5 SP setiap kali unit ini mengonsumsi atau kehilangan 3 [Bullet] kumulatif, dan peroleh 1 [ResultEnhancement] giliran berikutnya (termasuk [Bullet] Unik; hingga 9 [Bullet] per giliran)",
+      "flavor": "Tatapan lain memaku padaku, membuat sebuah lubang yang darinya banyak menumpah ruah.\nPelepasannya kemudian ditempa menjadi peluru yang melubangi dirimu."
+    }
+  ]
+}
