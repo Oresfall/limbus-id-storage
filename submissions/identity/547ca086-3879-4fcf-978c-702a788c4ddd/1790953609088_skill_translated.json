@@ -1,0 +1,465 @@
+{
+  "dataList": [
+    {
+      "id": 1031501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Datanglah sang Paku",
+          "desc": "[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1\n[WhenUse] Beri +2 Count [Charge] pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain yang memiliki jumlah Count [Charge] terendah (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +4 Count [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Datanglah sang Paku",
+          "desc": "<style=\"highlight\">[WhenUse] Final Power +1 untuk setiap 4 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks 2)</style>\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 <style=\"highlight\">dan beri +20% damage</style>\n[WhenUse] Beri +<style=\"highlight\">3</style> Count [Charge] pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain yang memiliki jumlah Count [Charge] terendah (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">5</style> Count [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Datanglah sang Paku",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks <style=\"highlight\">3</style>)\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 dan beri +<style=\"highlight\">40</style>% damage\n[WhenUse] Beri +<style=\"highlight\">4</style> Count [Charge] pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain yang memiliki jumlah Count [Charge] terendah (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">6</style> Count [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Memanggil sang Paku",
+          "desc": "[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +6 Count [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Memanggil sang Paku",
+          "desc": "<style=\"highlight\">[WhenUse] Final Power +1 untuk setiap 4 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks 2)</style>\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 <style=\"highlight\">dan beri +20% damage</style>\n<style=\"highlight\">[BeforeAttack] Coin terakhir memperoleh Final Power +1 untuk setiap Reson. tertinggi (maks 4)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">7</style> Count [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Memanggil sang Paku",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks <style=\"highlight\">3</style>)\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 dan beri +<style=\"highlight\">30</style>% damage\n[BeforeAttack] Coin terakhir memperoleh Final Power +1 untuk setiap Reson. tertinggi (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">8</style> Count [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Aku Memutus Kedatanganmu!",
+          "desc": "[StartBattle] Peroleh 3 [OathFieldDonQuixote] (sekali per giliran)\n[StartBattle] Beri 2 [AttackUp] dan 2 [DefenseUp] pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain dengan Speed tercepat (sekali per giliran)\n[WhenUse] Jika target memiliki 6+ (Potency [Vibration] + [NoirNailDonQuixote]), Coin Power +1\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 dan beri +20% damage\n[BeforeAttack] Coin terakhir memperoleh Final Power +1 untuk setiap Reson. tertinggi (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +3 Count [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [NoirNailDonQuixote], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Aku Memutus Kedatanganmu!",
+          "desc": "[StartBattle] Peroleh 3 [OathFieldDonQuixote] (sekali per giliran)\n[StartBattle] Beri 2 [AttackUp] dan 2 [DefenseUp] pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain dengan Speed tercepat (sekali per giliran)\n[WhenUse] <style=\"highlight\">Coin Power +1 untuk setiap 6 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks 2)</style>\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 dan beri +<style=\"highlight\">40</style>% damage\n[BeforeAttack] Coin terakhir memperoleh Final Power +1 untuk setiap Reson. tertinggi (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">4</style> Count [ChargeNoirAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [NoirNailDonQuixote], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Saksikanlah Dalam Keheningan",
+          "desc": "[StartBattle] Peroleh 3 [OathFieldDonQuixote] (sekali per giliran)\n[StartBattle] Pulihkan 4 SP pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain yang memiliki SP terendah (sekali per giliran)\n[StartBattle] Peroleh +2 Count [ChargeNoirAlly] (sekali per giliran)\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Saksikanlah Dalam Keheningan",
+          "desc": "[StartBattle] Peroleh 3 [OathFieldDonQuixote] (sekali per giliran)\n[StartBattle] Pulihkan <style=\"highlight\">5</style> SP pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain yang memiliki SP terendah (sekali per giliran)\n<style=\"highlight\">[StartBattle] Beri efek berikut berdasarkan jumlah [NoirShieldUpDonQuixote] pada diri sendiri:\n- Pada 100 [NoirShieldUpDonQuixote], akifkan \"Dengan Setiap Pukulan, Aku Memutus Kedatanganmu!\" saja (sekali per giliran; dapat aktif untuk Serangan Tanpa Perlawanan)\n- Pada kurang dari 100 [NoirShieldUpDonQuixote], peroleh Perisai setara dengan ([NoirShieldUpDonQuixote] / 10)% dari maks HP unit ini (sekali per giliran)</style>\n[StartBattle] Peroleh +<style=\"highlight\">3</style> Count [ChargeNoirAlly] (sekali per giliran)\n<style=\"highlight\">[WhenUse] Jika target memiliki 6+ (Potency [Vibration] + [NoirNailDonQuixote]), Coin Power +1</style>\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 <style=\"highlight\">dan beri +10% damage</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">3</style> Count [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Saksikanlah Dalam Keheningan",
+          "desc": "[StartBattle] Peroleh 3 [OathFieldDonQuixote] (sekali per giliran)\n[StartBattle] Pulihkan <style=\"highlight\">6</style> SP pada diri sendiri dan 1 Identitas \"Le Noir\" kawan lain yang memiliki SP terendah (sekali per giliran)\n[StartBattle] Beri efek berikut berdasarkan jumlah [NoirShieldUpDonQuixote] pada diri sendiri:\n- Pada 100 [NoirShieldUpDonQuixote], akifkan \"Dengan Setiap Pukulan, Aku Memutus Kedatanganmu!\" saja (sekali per giliran; dapat aktif untuk Serangan Tanpa Perlawanan)\n- Pada kurang dari 100 [NoirShieldUpDonQuixote], peroleh Perisai setara dengan ([NoirShieldUpDonQuixote] / 10)% dari maks HP unit ini (sekali per giliran)\n[StartBattle] Peroleh +<style=\"highlight\">4</style> Count [ChargeNoirAlly] (sekali per giliran)\n[WhenUse] <style=\"highlight\">Coin Power +1 untuk setiap 6 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks 2)</style>\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 dan beri +<style=\"highlight\">20</style>% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">4</style> Count [ChargeNoirAlly]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pengadilan!",
+          "desc": "[CantDuel]\nSkill ini memiliki sifat berikut:\n- Tidak mengaktifkan Skill Defense\n- Efek eksternal tidak dapat membuat Skill ini di Gunakan Ulang\n- HP Target tidak dapat berkurang di bawah 1 hingga Skill ini berakhir\n[WhenUse] Final Power +1 untuk setiap 4 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks 2)\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 dan beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pengadilan!",
+          "desc": "[CantDuel]\nSkill ini memiliki sifat berikut:\n- Tidak mengaktifkan Skill Defense\n- Efek eksternal tidak dapat membuat Skill ini di Gunakan Ulang\n- HP Target tidak dapat berkurang di bawah 1 hingga Skill ini berakhir\n[WhenUse] Final Power +1 untuk setiap 4 (Potency [Vibration] + [NoirNailDonQuixote]) pada target (maks <style=\"highlight\">3</style>)\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1 dan beri +<style=\"highlight\">40</style>% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031506,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Dengan Setiap Pukulan, Aku Memutus Kedatanganmu!",
+          "desc": "Skill ini terhitung sebagai Skill Serangan bahkan ketika aktif dalam bentuk Skill Defense; Skill ini tidak dipengaruhi oleh efek yang mempengaruhi Skill Defense, dan akan terpengaruhi oleh efek yang mempengaruhi Skill Serangan\n[StartBattle] Beri 2 [AttackUp] dan 2 [DefenseUp] pada semua Identitas \"Le Noir\" kawan (sekali per giliran)\n[WhenUse] Pada 6+ dari jumlah (Potency [Vibration] + [NoirNailDonQuixote]) pada seluruh target, Coin Power +1\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1\n[WhenUse] Beri +30% damage untuk setiap Atk Weight yang melebihi jumlah dari target sebenarnya (untuk Pertemuan Terfokus, Bagian)\n[BeforeAttack] Coin terakhir memperoleh Final Power +2 untuk setiap Reson. tertinggi (maks 8)\n[EndSkill] Konsumsi semua [NoirShieldUpDonQuixote]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +3 Count [ChargeNoirAlly] (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri efek berikut pada target tergantung dari jumlah Stack [NoirNailDonQuixote] pada masing-masing musuh\n- Jika target memiliki 3+ [NoirNailDonQuixote], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Beri Sloth damage setara dengan ([NoirNailDonQuixote] pada target x 1.5)% dari damage akhir Coin ini (maks 45%)\n- Konsumsi semua [NoirNailDonQuixote] pada target"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dengan Setiap Pukulan, Aku Memutus Kedatanganmu!",
+          "desc": "Skill ini terhitung sebagai Skill Serangan bahkan ketika aktif dalam bentuk Skill Defense; Skill ini tidak dipengaruhi oleh efek yang mempengaruhi Skill Defense, dan akan terpengaruhi oleh efek yang mempengaruhi Skill Serangan\n[StartBattle] Beri 2 [AttackUp] dan 2 [DefenseUp] pada semua Identitas \"Le Noir\" kawan (sekali per giliran)\n[WhenUse] <style=\"highlight\">Coin Power +1 untuk setiap 6 total sum of (Potency [Vibration] + [NoirNailDonQuixote]) pada seluruh target (maks 2)</style>\n[WhenUse] Pada 3+ Potency [ChargeNoirAlly], Coin Power +1\n[WhenUse] Beri +<style=\"highlight\">50</style>% damage untuk setiap Atk Weight yang melebihi jumlah dari target sebenarnya (untuk Pertemuan Terfokus, Bagian)\n[BeforeAttack] Coin terakhir memperoleh Final Power +2 untuk setiap Reson. tertinggi (maks 8)\n[EndSkill] Konsumsi semua [NoirShieldUpDonQuixote]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NoirNailDonQuixote]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">4</style> Count [ChargeNoirAlly] (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationFocusing]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri efek berikut pada target tergantung dari jumlah Stack [NoirNailDonQuixote] pada masing-masing musuh\n- Jika target memiliki 3+ [NoirNailDonQuixote], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Beri Sloth damage setara dengan ([NoirNailDonQuixote] pada target x <style=\"highlight\">3</style>)% dari damage akhir Coin ini (maks <style=\"highlight\">90</style>%)\n- Konsumsi semua [NoirNailDonQuixote] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
