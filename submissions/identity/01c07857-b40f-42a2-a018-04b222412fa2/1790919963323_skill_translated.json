@@ -1,0 +1,219 @@
+{
+  "dataList": [
+    {
+      "id": 2051021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill ini tidak mengaktifkan Skill Defense (termasuk Skill Defense yang dapat di Clash)\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks 5)\n[BeforeAttack] Jika unit ini tidak memiliki [BulletHole], peroleh 1 [BulletHole]\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [BlackWingHole]"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh +5 Count [Charge]"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Coin ini memiliki peluang ([BulletHole] pada diri sendiri x 20)% untuk mendapat Ekor tak peduli dengan SP unit ini"
+                },
+                {
+                  "desc": "[CoinHead]\n- Coin ini tidak menyerang"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh +3 Count [Breath]"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 2 [BulletHole]"
+                },
+                {
+                  "desc": "- [EndCoin] Kembalikan setengah dari Bahan E.G.O yang dikonsumsi Skill ini (dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[CoinTail]\n- Beri +(Count [Charge] x 3)% damage (maks 60%)"
+                },
+                {
+                  "desc": "- Beri +70% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Beri Pierce damage setara dengan 10% dari damage akhir Coin ini"
+                },
+                {
+                  "desc": "- [EndCoin] Konsumsi semua [BulletHole] pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill ini tidak mengaktifkan Skill Defense (termasuk Skill Defense yang dapat di Clash)\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">7</style>)\n\n<style=\"highlight\">[BeforeAttack] Ketika hanya menyerang 1 target, beri +100% damage (di Pertemuan Terfokus, Inti)</style>\n[BeforeAttack] Jika unit ini tidak memiliki [BulletHole], peroleh 1 [BulletHole]\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh +5 Count [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Coin ini memiliki peluang ([BulletHole] pada diri sendiri x 20)% untuk mendapat Ekor tak peduli dengan SP unit ini<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- Coin ini tidak menyerang<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh +3 Count [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Kembalikan setengah dari Bahan E.G.O yang dikonsumsi Skill ini (dibulatkan ke bawah)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- Beri +(Count [Charge] x <style=\"highlight\">4)% damage (maks 80%)</style>"
+                },
+                {
+                  "desc": "- Beri <style=\"highlight\">+100%</style> damage pada Serangan Critical"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Beri Pierce damage setara dengan <style=\"highlight\">15</style>% dari damage akhir Coin ini"
+                },
+                {
+                  "desc": "- [EndCoin] Konsumsi semua [BulletHole] pada diri sendiri<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill ini tidak mengaktifkan Skill Defense (termasuk Skill Defense yang dapat di Clash)\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">10</style>)\n\n[BeforeAttack] Ketika hanya menyerang 1 target, beri +<style=\"highlight\">200</style>% damage (di Pertemuan Terfokus, Inti)\n<style=\"highlight\">[BeforeAttack] Peroleh Final Power +([BulletHole] pada diri sendiri)</style>\n[BeforeAttack] Jika unit ini tidak memiliki [BulletHole], peroleh 1 [BulletHole]\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -4)\n<style=\"highlight\">[EnemyKill] Pulihkan 5 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh +5 Count [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Coin ini memiliki peluang ([BulletHole] pada diri sendiri x 20)% untuk mendapat Ekor tak peduli dengan SP unit ini<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- Coin ini tidak menyerang<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh +3 Count [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EndCoin] Remove 1 random removable negative effect applied to self</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Kembalikan setengah dari Bahan E.G.O yang dikonsumsi Skill ini (dibulatkan ke bawah)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- Beri +(Count [Charge] x <style=\"highlight\">5)% damage (maks 100%)</style>"
+                },
+                {
+                  "desc": "- Beri +<style=\"highlight\">130</style>% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Beri Pierce damage setara dengan <style=\"highlight\">20</style>% dari damage akhir Coin ini"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EnemyKill] Pulihkan 5% HP</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Konsumsi semua [BulletHole] pada diri sendiri<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
