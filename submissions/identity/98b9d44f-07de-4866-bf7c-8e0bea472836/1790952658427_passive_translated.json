@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 1031501,
+      "name": "Perjanjian Obsidian",
+      "desc": "Akhir Pertarungan: Jika unit ini memiliki [OathFieldDonQuixote], peroleh 1 [Agility] giliran berikutnya\n\nSkill Serangan Dasar unit ini beri +(Potency [ChargeNoirAlly] pada diri sendiri x 3)% damage terhadap target utama (maks 15%)",
+      "summary": "Jika [OathFieldDonQuixote] aktif, peroleh [Agility] giliran berikutnya\nSkill Serangan Dasar beri lebih banyak damage terhadap target utama",
+      "flavor": "Aku mendengar suara-Nya, janji-Nya: \"Segala sesuatu yang ada, mempunyai makna.\""
+    },
+    {
+      "id": 1031502,
+      "name": "Malleus Promissionis",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh +10 Count [ChargeNoirAlly] dan beri +2 Count [Charge] pada Identitas \"Le Noir\" kawan lainnya\n\nKetika memberi [NoirNailDonQuixote] menggunakan efek Skill:\n- Pada 12+ Count [ChargeNoirAlly], beri +1 lebih [NoirNailDonQuixote] dan konsumsi 4 Count [ChargeNoirAlly]\n- Pada kurang dari 12 Count [ChargeNoirAlly], konsumsi 2 Count [ChargeNoirAlly]\n- Pada Count [ChargeNoirAlly] yang tidak cukup, tidak akan memberi [NoirNailDonQuixote]\n- Skill yang memberi [NoirNailDonQuixote] karena efek ini akan terhitung sebagai Skill yang mengonsumsi Count [Charge]\n\nPeroleh 1 Potency [ChargeNoirAlly] setiap kali unit ini mengonsumsi 10 Count [ChargeNoirAlly] kumulatif pada Pertemuan ini",
+      "summary": "Peroleh Count [ChargeNoirAlly]; kawan \"Le Noir\" peroleh Count [Charge]\nKonsumsi Count [ChargeNoirAlly] saat memberi [NoirNailDonQuixote]; beri lebih banyak [NoirNailDonQuixote] ketika Count [ChargeNoirAlly] mencukupi\nPeroleh Potency [ChargeNoirAlly] dengan mengonsumsi Count [ChargeNoirAlly]",
+      "flavor": "Palu menancapkan paku. Palu ini hanya memukul paku. Apapun yang dipukulnya pastilah paku. Itulah yang disepakati."
+    },
+    {
+      "id": 1031503,
+      "name": "Misi Konservasi",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh 25 [NoirShieldUpDonQuixote]\n\nKetika mengonsumsi Count [ChargeNoirAlly], atau ketika memperoleh Count [ChargeNoirAlly] melebihi batas maksimum, peroleh (Count [ChargeNoirAlly] yang dikonsumsi atau Count [ChargeNoirAlly] berlebih x 5) [NoirShieldUpDonQuixote] (maks 30 per giliran)\n\nKetika Identitas kawan yang memiliki Perisai diserang, unit ini memperoleh 2 [NoirShieldUpDonQuixote] (maks 10 per giliran)\n- Jika Identitas kawan yang dimaksud adalah [PersonalityCharge], peroleh 5 [NoirShieldUpDonQuixote] saja",
+      "summary": "Peroleh [NoirShieldUpDonQuixote]"
+    },
+    {
+      "id": 1031504,
+      "name": "Kehendak dan Nilai-Nilai Dewa Bersama Kita...",
+      "desc": "Sebelum Serangan dari Identitas \"Le Noir\" kawan pada musuh, unit ini menggunakan Skill \"Pengadilan!\" sebagai Serangan Tanpa Lawan terhadap target utama (sekali per giliran)\n\nPada Coin Terakhir dari Skill Dasar pertama, Coin tersebut memperoleh Final Power +(Potency [ChargeNoirAlly] pada diri sendiri + ([NoirNailDonQuixote] pada target / 2)) (maks 5)\n\nJika unit ini memiliki [OathFieldDonQuixote], Base Skill 1/2/3 memperoleh Clash Power +1/+2/+3\n\nKetika [VibrationExplosion] aktif pada target yang memiliki [NoirNailDonQuixote], unit ini dan 1 kawan [PersonalityCharge] lainnya yang memiliki Count [Charge] terendah peroleh +2 Count [Charge] (2 kali per giliran)",
+      "summary": "Gunakan Skill \"Pengadilan!\" sebelum serangan \"Le Noir\" kawan\nCoin terakhir Skill Dasar memperoleh Final Power\nJika [OathFieldDonQuixote] aktif, Skill Dasar peroleh Clash Power\nPeroleh Count [Charge] saat mengaktifkan [VibrationExplosion] pada target yang memiliki [NoirNailDonQuixote]",
+      "flavor": "Firman Dewa Obsidian menjadi cahaya penuntun kita, pelindung dan perisai kita di dunia yang penuh ketidakpastian ini; Suara-Nya menjadi pancaran cahaya yang menyinari kita, sehingga memberi kita makna yang sangat kita dambakan."
+    },
+    {
+      "id": 1031511,
+      "name": "Perjanjian Obsidian",
+      "desc": "Akhir Pertarungan: Jika unit ini memiliki [OathFieldDonQuixote], peroleh 2 [Agility] giliran berikutnya\n\nSkill Serangan Dasar unit ini beri +(Potency [ChargeNoirAlly] pada diri sendiri x 6)% damage terhadap target utama (maks 30%)",
+      "summary": "Jika [OathFieldDonQuixote] aktif, peroleh [Agility] giliran berikutnya\nSkill Serangan Dasar beri lebih banyak damage terhadap target utama",
+      "flavor": "Aku mendengar suara-Nya, janji-Nya: \"Segala sesuatu yang ada, mempunyai makna.\""
+    },
+    {
+      "id": 1031521,
+      "name": "Formation Conservation",
+      "desc": "Semua [PersonalityCharge] kawan terima -2% damage giliran ini untuk setiap [PersonalityCharge] kawan pada medan tempur saat Awal Pertarungan (maks -10%)",
+      "summary": "[PersonalityCharge] kawan terima lebih sedikit damage"
+    }
+  ]
+}
