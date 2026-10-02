@@ -1,0 +1,214 @@
+{
+  "dataList": [
+    {
+      "id": 2021111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Trou",
+          "abName": "Manusia Hampa",
+          "desc": "[CantDuel]\nKetika digunakan pertama kalinya pada sebuah Pertemuan, konsumsi 5 SP lebih sedikit, dan Bahan E.G.O 2 Gloom, 2 Pride, dan 2 Envy lebih sedikit\nPada 1+ [BulletHole], aktifkan sebagai \"Boucher un trou\" saja\nSkill ini tidak menyerang musuh, tidak mengaktifkan Skill Defense, dan efek eksternal tidak dapat membuat Skill ini dapat di Gunakan Ulang\n[EndSkill] Peroleh 5 [BulletHole]\n[EndSkill] Peroleh 5 Potency [Breath]\n[EndSkill] Peroleh +3 Count [Breath]\n[EndSkill] Peroleh +5 Count [Charge]\n[EndSkill] Peroleh 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Le Trou",
+          "abName": "Manusia Hampa",
+          "desc": "[CantDuel]\nKetika digunakan pertama kalinya pada sebuah Pertemuan, konsumsi 5 SP lebih sedikit, dan Bahan E.G.O 2 Gloom, 2 Pride, dan 2 Envy lebih sedikit\nPada 1+ [BulletHole], aktifkan sebagai \"Boucher un trou\" saja\nSkill ini tidak menyerang musuh, tidak mengaktifkan Skill Defense, dan efek eksternal tidak dapat membuat Skill ini dapat di Gunakan Ulang\n[EndSkill] Peroleh 5 [BulletHole]\n[EndSkill] Peroleh 5 Potency [Breath]\n[EndSkill] Peroleh +3 Count [Breath]\n[EndSkill] Peroleh +5 Count [Charge]\n[EndSkill] Peroleh 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Trou",
+          "abName": "Manusia Hampa",
+          "desc": "[CantDuel]\nKetika digunakan pertama kalinya pada sebuah Pertemuan, konsumsi 5 SP lebih sedikit, dan Bahan E.G.O 2 Gloom, 2 Pride, dan 2 Envy lebih sedikit\nPada 1+ [BulletHole], aktifkan sebagai \"Boucher un trou\" saja\nSkill ini tidak menyerang musuh, tidak mengaktifkan Skill Defense, dan efek eksternal tidak dapat membuat Skill ini dapat di Gunakan Ulang\n[EndSkill] Peroleh 5 [BulletHole]\n[EndSkill] Peroleh 5 Potency [Breath]\n[EndSkill] Peroleh +3 Count [Breath]\n[EndSkill] Peroleh +5 Count [Charge]\n[EndSkill] Peroleh 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Boucher un trou",
+          "abName": "Manusia Hampa",
+          "desc": "Efek eksternal tidak dapat membuat Skill ini digunakan ulang\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks 5)\nClash Power +2 untuk setiap [BulletHole]\n[BeforeAttack] Habiskan semua [BulletHole] dan beri efek berikut:\n- Peroleh 2 Potency [Breath], +1 Count [Breath], dan +2 Count [Charge] untuk setiap [BulletHole] yang dihabiskan\n- Beri +8% damage untuk setiap [BulletHole] yang dihabiskan\nJika Skill ini menghabiskan 5 [BulletHole], pulihkan 5 SP\n[EndSkill] Peroleh 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Gunakan ulang Coin ini ([BulletHole] yang dihabiskan - 1) kali (maks 4 kali)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Boucher un trou",
+          "abName": "Manusia Hampa",
+          "desc": "Efek eksternal tidak dapat membuat Skill ini digunakan ulang\n<style=\"highlight\">Beri +5% damage untuk setiap Atk Weight yang melebihi jumlah dari target sebenarnya (di Pertemuan Terfokus, Bagian)</style>\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">7</style>)\nClash Power +2 untuk setiap [BulletHole]\n<style=\"highlight\">[BeforeAttack] Ketika hanya menyerang 1 target, beri +50% damage (di Pertemuan Terfokus, Inti dan Bagiannya terhitung sebagai satu target)</style>\n[BeforeAttack] Habiskan semua [BulletHole] dan beri efek berikut:\n- Peroleh 2 Potency [Breath], +1 Count [Breath], dan +2 Count [Charge] untuk setiap [BulletHole] yang dihabiskan\n- Beri +8% damage untuk setiap [BulletHole] yang dihabiskan\nJika Skill ini menghabiskan 5 [BulletHole], pulihkan 5 SP\n[EndSkill] Peroleh 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "(Gunakan ulang Coin ini ([BulletHole] yang dihabiskan - 1) kali (maks 4 kali)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Boucher un trou",
+          "abName": "Manusia Hampa",
+          "desc": "Efek eksternal tidak dapat membuat Skill ini digunakan ulang\nDeal <style=\"highlight\">+10%</style> damage untuk setiap Atk Weight yang melebihi jumlah dari target sebenarnya (di Pertemuan Terfokus, Bagian)\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">10</style>)\nClash Power +2 untuk setiap [BulletHole]\n[BeforeAttack] Ketika hanya menyerang 1 target, beri <style=\"highlight\">+100%</style> damage (di Pertemuan Terfokus, Inti dan Bagiannya terhitung sebagai satu target)</style>\n[BeforeAttack] Habiskan semua [BulletHole] dan beri efek berikut:\n- Peroleh 2 Potency [Breath], +1 Count [Breath], dan +2 Count [Charge] untuk setiap [BulletHole] yang dihabiskan\n- Beri +8% damage untuk setiap [BulletHole] yang dihabiskan\n<style=\"highlight\">[EndSkill] Beri 5 Potency [Breath] dan +2 Count [Breath] pada (2 + Reson. tertinggi) kawan (maks 7 unit)</style>\nJika Skill ini menghabiskan 5 [BulletHole], pulihkan 5 SP\n[EndSkill] Peroleh 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "(Gunakan ulang Coin ini ([BulletHole] yang dihabiskan - 1) kali (maks 4 kali)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021121,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks 5)\n\n[BeforeAttack] Peroleh +3 Count [Breath] dan +5 Count [Charge]\n[BeforeAttack] Konsumsi hingga 15 Count [Charge] berlebih di atas 10 pada diri sendiri untuk memberi +(Count [Charge] yang dikonsumsi x 2)% damage\n[BeforeAttack] Pada jumlah maks [BulletHole], habiskan semua [BulletHole] untuk memberikan efek berikut pada seluruh kawan giliran berikutnya:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (sekali per giliran)\n- 1 [CriticalDamageUp] (sekali per giliran)\n[BeforeAttack] Base Power -3 untuk setiap Coin Retak (maks -9)\n[EndSkill] Peroleh 1 [BulletHole] dan 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">7</style>)\n\n[BeforeAttack] Peroleh +3 Count [Breath] dan +5 Count [Charge]\n[BeforeAttack] Konsumsi hingga 15 Count [Charge] berlebih di atas 10 pada diri sendiri untuk memberi +(Count [Charge] yang dikonsumsi x <style=\"highlight\">3</style>)% damage\n[BeforeAttack] Pada jumlah maks [BulletHole], habiskan semua [BulletHole] untuk memberikan efek berikut pada seluruh kawan giliran berikutnya:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (sekali per giliran)\n- 1 [CriticalDamageUp] (sekali per giliran)\n[BeforeAttack] Base Power -3 untuk setiap Coin Retak (maks -9)\n[EndSkill] Peroleh 1 [BulletHole] dan 2 [BlackWingHole]\n<style=\"highlight\">[EndSkill] Beri 5 Potency [Breath] dan +2 Count [Breath] pada (2 + Reson. tertinggi) kawan acak (maks 7 unit)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">10</style>)\n\n[BeforeAttack] Peroleh +3 Count [Breath] dan +5 Count [Charge]\n[BeforeAttack] Konsumsi hingga 15 Count [Charge] berlebih di atas 10 pada diri sendiri untuk memberi +(Count [Charge] yang dikonsumsi x <style=\"highlight\">5</style>)% damage\n[BeforeAttack] Pada jumlah maks [BulletHole], habiskan semua [BulletHole] untuk memberikan efek berikut pada seluruh kawan giliran berikutnya:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (sekali per giliran)\n- 1 [CriticalDamageUp] (sekali per giliran)\n[BeforeAttack] Base Power -3 untuk setiap Coin Retak (maks -9)\n[EndSkill] Peroleh 1 [BulletHole] dan 2 [BlackWingHole]\n[EndSkill] Beri 5 Potency [Breath], +2 Count [Breath], <style=\"highlight\">dan 2 [BlackWingHole]</style> pada (2 + Reson. tertinggi) kawan acak (maks 7 unit)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
