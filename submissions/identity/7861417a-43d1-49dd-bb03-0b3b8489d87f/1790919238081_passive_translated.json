@@ -1,0 +1,10 @@
+{
+  "dataList": [
+    {
+      "id": 2021111,
+      "name": "Le Trou de Vidange",
+      "desc": "Jika unit ini memiliki 5 [BulletHole], tidak menggunakan Bahan E.G.O ketika menggunakan Skill E.G.O \"Kekosongan\" (baik Kebangkitan dan Korosi)\n\nAwal Giliran: Peroleh 1 [BulletHole] dan 1 [BlackWingHole]\n\nKetika kawan mengalahkan musuh, kawan tersebut memulihkan 5 SP dan memperoleh 1 [Enhancement] giliran berikutnya (once per turn)\n\nCount [Charge] max cap +5\n\nJika unit ini memperoleh Count [Charge] melebihi batas maks Count [Charge], unit ini secara acak peroleh Potency atau Count [Breath] setara dengan Count [Charge] berlebih yang diperoleh (maks 6 Count [Charge] diubah per giliran)",
+      "flavor": "Bukanlah penetrasi yang membuat sebuah lubang; melainkan kekosongan.\nLubang tersebut ingin diisi, namun sebaliknya, hal-hal hanya pernah keluar dari dalamnya."
+    }
+  ]
+}
