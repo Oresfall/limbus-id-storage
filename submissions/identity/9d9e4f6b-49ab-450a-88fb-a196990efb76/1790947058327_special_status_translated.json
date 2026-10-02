@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "OathFieldDonQuixote",
+      "name": "Tempat Suci Konservasi",
+      "desc": "- Stack Maks: 5\n- Beri efek berikut pada semua Identitas kawan:\n  · Pada penggunaan Skill, setiap kawan memperoleh Shield setara dengan (Potency Preservasi pada Don Quixote x 2)% dari maks HP mereka masing-masing (sekali per giliran, maks 10%)\n\n- Beri efek berikut pada semua Identitas \"Le Noir\" kawan:\n  · Offense Level +(Potency Preservasi pada Don Quixote / 3) (dibulatkan ke bawah; maks 2)\n  · Defense Level +(Potency Preservasi pada Don Quixote / 2) (dibulatkan ke bawah; maks 3)\n\n- Berikan efek berikut pada semua musuh:\n  · Min & Max Speed -1 (efek ini tidak dapat mengurangi Min & Max Speed di bawah 1)\n  · Batas Stagger yang dinaikkan oleh Tremor Burst +10%\n  · Terima +10% damage dari Skill yang mengonsumsi Count Charge atau Charge Unik (dari Skill Identitas \"Le Noir\" kawan, +20% damage)\n\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tempat perlindungan di mana nilai konservasi yang diupayakan oleh Le Noir dilestarikan. Di dalamnya, tindakan pengawetan para Noir dipertahankan demi keuntungan mereka. Ini adalah bidang konservasi abadi—tempat yang membangkitkan dorongan untuk mendekati kematian tanpa batas."
+    },
+    {
+      "id": "NoirShieldUpDonQuixote",
+      "name": "Berkah Dewa Obsidian",
+      "desc": "- Stack Maks: 100\n- Awal Giliran: Peroleh Shield setara dengan (Stack / 5)% dari maks HP unit ini (dibulatkan ke bawah)\n- Pada 25+ Stack, Pada penggunaan Skill Serangan Dasar, ubah semua Coin menjadi Unbreakable Coin\n- Pada 40+ Stack, unit ini tidak dapat terkena Stagger (kecuali Stagger paksa)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Dewa Obsidian. Raksasa Obsidian. Pendeta Palu. Dewa Obsidian dari Grand Magasin, yang wilayah kekuasaannya adalah kekuatan pelestarian, memberikan berkahnya melalui kontak langsung. Palu itu keras, dan rona hitamnya menyerap segala sesuatu dan menghentikannya... seperti kematian itu sendiri."
+    },
+    {
+      "id": "NoirNailDonQuixote",
+      "name": "Paku yang Dijanjikan",
+      "desc": "- Stack Maks: 30\n- Setelah terkena Tremor Burst dari efek Skill, terima 1 damage Sloth untuk setiap Stack (maks 10; sekali per Skill)\n- Akhir Giliran: Pada 4+ Stack, peroleh 1 Bind giliran berikutnya\n- Awal Giliran: Jika Haute Couture::Manajer Merek Le Noir Don Quixote tidak pada medan pertempuran, kadaluarsa",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Palu yang dijanjikan terikat oleh janji untuk menancapkan paku. Oleh karena itu, setiap kali palu menghantam, pasti ada paku di sana... bahkan jika tidak ada."
+    }
+  ]
+}
