@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "battle_awaken_20510_1",
+      "desc": "E.G.O Activation",
+      "dlg": "Satu tembakan senjata. \nDitembakkan ke dalam pantulan malam gelap pada bidikan yang berkilau,\npeluru tersebut... akan menemui tatapan orang lain."
+    },
+    {
+      "id": "battle_awaken_20510_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Satu tembakan senjata. \nDitembakkan ke dalam pantulan malam gelap pada bidikan yang berkilau,\npeluru tersebut..."
+    },
+    {
+      "id": "battle_awaken_20510_3",
+      "desc": "E.G.O Activation",
+      "dlg": "... akan menemui tatapan orang lain."
+    },
+    {
+      "id": "battle_erosion_20510_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "En joue, arahkan moncong senjata ke kepala manusia."
+    },
+    {
+      "id": "battle_erosion_20510_2",
+      "desc": "E.G.O Corrosion",
+      "dlg": "Bidikkan peluru pada bintik matahari..."
+    },
+    {
+      "id": "battle_erosion_20510_3",
+      "desc": "E.G.O Corrosion",
+      "dlg": ".... dan tembak dengan bersih menembus cahaya menyilaukan."
+    },
+    {
+      "id": "battle_awaken_20501_2",
+      "desc": "E.G.O Activation",
+      "dlg": "Meskipun tatapan khalayak ramai dapat selalu memperketat cengkeramannya...\nSaya akan dengan senang hati—!"
+    }
+  ]
+}
