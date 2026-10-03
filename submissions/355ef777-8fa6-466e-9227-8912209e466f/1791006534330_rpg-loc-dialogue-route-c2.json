@@ -1,0 +1,902 @@
+{
+  "dataList": [
+    {
+      "key": "DRSC01_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tepat saat kami bersiap untuk kembali ke luar setelah mati untuk kesekian kalinya, sebuah suara menghentikan kami."
+        },
+        {
+          "index": 1,
+          "text": "... Ada... cara yang lebih mudah. Apakah kamu... ingin mengambilnya?",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "Semuanya akan aman... jika kamu tenggelam...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "DRSC02_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kenakan ini... dan pergilah ke arah cahaya matahari...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "Wanita bergaun biru itu melingkarkan syal di leher Meursault."
+        }
+      ]
+    },
+    {
+      "key": "DRSC03_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Rasa sakitnya... tidak akan berubah... dan akan membisu...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "DRSC10_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hati yang gelisah... tidak apa-apa...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "DRSC12_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kenakan ini... dan pergilah ke arah cahaya matahari...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "Wanita bergaun biru itu melingkarkan syal di leher Meursault."
+        }
+      ]
+    },
+    {
+      "key": "DRSC13_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Rasa sakitnya... tidak akan berubah... dan akan membisu...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "DRSC11_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jika kamu tenggelam lebih jauh... Kamu tidak akan bisa naik lagi...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D4002_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "....."
+        },
+        {
+          "index": 1,
+          "text": ".....",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": ".....",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": ".....",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DINT01_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Anak-anak di taman sedang menikmati Pengalaman Kalengan melempar batu di air. Kami memperhatikan mereka dalam diam.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "Bagi orang lain, kita terlihat seperti pasangan romantis yang sedang kencan santai namun menyenangkan.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "Namun di balik semua itu, yang kurasakan hanyalah rasa asing. Aku takut pada hal-hal tak dikenal di sekelilingku; aku merasa mual dan cemas hebat.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Di saat itu... aku merasa ketakutan yang sama tumbuh di matamu. Dan kamu pasti merasakannya juga padaku.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 5,
+          "text": "Aku sudah... berbincang dengan banyak orang sepanjang hidupku. Tapi rasanya aku belum pernah benar-benar berbicara dengan siapa pun sebelum momen itu.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 6,
+          "text": "Aku selalu memandang curiga pada apa yang orang lain lihat, dan sebaliknya, mereka tak bisa melihat apa yang kupandangi. Kepada siapa pun kujelaskan rasa mual ini, tak ada satu pun yang mengerti.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 7,
+          "text": "... Aku pun belum menemukan kata yang tepat untuk mendefinisikan \"ketiadaan\" yang kamu maksud. Sampai sekarang pun belum.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Itulah mengapa percakapan kita selalu singkat. Tak perlu penjelasan panjang lebar.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Dan aku menyukainya.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 10,
+          "text": "Bersamamu... aku tak perlu bersusah payah menjelaskan. Tak perlu menyiksa diri mencoba mencari pembenaran atas semua...",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 11,
+          "text": "... kebusukan dan kekejaman itu.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 12,
+          "text": "... Ikatan itulah yang secara alami membentuk hubungan kita.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Pertemuan rutin. Saling menerima, saling menginginkan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 14,
+          "text": "Lihatlah orang-orang yang mendengarkan kita dan tanyakan pada dirimu: di antara mereka yang mendengar percakapan ini...",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 15,
+          "text": "... berapa banyak yang benar-benar memahami kita?",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 16,
+          "text": "Tidak ada. Tidak ada satu orang pun.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 17,
+          "text": "Mereka adalah orang-orang yang dilempar ke dunia sebelum hujan paku mengunci diri mereka menjadi seperti sekarang. Mereka tidak akan pernah memahami dunia kita.",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "DINT02_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah bioskop.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "\"Cinéma Sisyphe.\" Tempat yang bagus. Gelap, nyaman, namun berkelas, sama sepertimu.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "Jadi, bagaimana pendapatmu?",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 3,
+          "text": "Saat film dimulai, orang-orang yang memenuhi bioskop seketika menjadi tidak acuh padaku.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Momen-momen memikat di layar merebut pandangan mereka, bagaikan... rantai.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "... Hening. Dan karena itulah, menenangkan.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DINT02B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pengalaman Kalengan berakhir, perlahan menghilang dari layar yang tak bergeming."
+        },
+        {
+          "index": 1,
+          "text": "Orang-orang yang menikmati Pengalaman Kalengan yang sama beranjak dari kursi mereka."
+        },
+        {
+          "index": 2,
+          "text": "Sebagian berbicara antusias tentang apa yang baru mereka tonton, sementara yang lain tetap duduk, tertegun dan tersentuh oleh pengalaman tersebut. Ada juga yang menggerutu dan mengeluhkan filmnya, yang jelas-jelas tidak memenuhi standar mereka."
+        },
+        {
+          "index": 3,
+          "text": "Apakah kami benar-benar berbagi Pengalaman Kalengan yang sama? Apakah mereka merasakan hal yang sama persis dengan yang kami rasakan?"
+        },
+        {
+          "index": 4,
+          "text": "Rentetan pertanyaan itu akhirnya usai. Tanpa perlu menoleh, aku tahu hanya tersisa Jeanne dan aku di dalam bioskop."
+        }
+      ]
+    },
+    {
+      "key": "DINT02C_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kamu tidak akan pernah menjawabnya, aku tahu itu. Kota ini pun tidak. Kalian berdua akan menggenggam keheningan itu sampai akhir zaman.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Matahari terbenam yang indah. Pendar merah cerah memenuhi pandanganku dengan cahayanya yang menyilaukan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Kurasakan angin laut dan udara asin mengelus wajahku. Butiran pasir hangat bergeser di bawah kakiku.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Tapi... itu semua palsu. Kita hanya duduk tanpa suara di ruangan gelap ini.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 5,
+          "text": "Namun, orang-orang sepertinya tetap menyukai kepalsuan ini.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 6,
+          "text": "Dengan percaya diri menyebut sesuatu yang bukan angin sebagai \"angin\", menyebut matahari terbenam palsu itu sebagai \"matahari terbenam\" tanpa ragu sedikit pun.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 7,
+          "text": "... Memikirkan bahwa hanya kita berdua di seluruh bioskop ini yang takut pada hal-hal itu...",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 8,
+          "text": "Konyol, bukan?",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 9,
+          "text": "... Mungkin.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DINT04_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bioskop tutup hari itu."
+        },
+        {
+          "index": 1,
+          "text": "Dengan rencana kami yang terganggu oleh variabel tak terduga itu, kami berjalan-jalan ke sebuah mata air buatan yang agak terpencil dari pusat kota."
+        },
+        {
+          "index": 2,
+          "text": "Kelelahan oleh teriknya sinar matahari sore, kami duduk di bangku menghadap kolam..."
+        },
+        {
+          "index": 3,
+          "text": "... dan, setelah beberapa saat..."
+        },
+        {
+          "index": 4,
+          "text": "... kami diam-diam menyaksikan matahari sore tenggelam di cakrawala."
+        },
+        {
+          "index": 5,
+          "text": "Pendarnya yang memudar kini berupa bara merah, lembut di mata kami..."
+        },
+        {
+          "index": 6,
+          "text": "Saat kami beristirahat, keringat kami mengering dan napas kami teratur."
+        },
+        {
+          "index": 7,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": ".......",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 9,
+          "text": "Dan dalam keheningan yang lahir dari momen itu..."
+        },
+        {
+          "index": 10,
+          "text": "Tak ada yang bisa membantah keberadaan kami."
+        }
+      ]
+    },
+    {
+      "key": "DINT05_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Matahari terbenam yang <i>nyata</i> yang kita temui saat itu... bukan yang kita nikmati dari dalam kaleng...",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "... cara bara api yang sekarat itu tenggelam perlahan di balik cakrawala begitu...",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "... indah, begitu memukau hingga tak sanggup terucap kata-kata, sampai-sampai...",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 3,
+          "text": "... aku berharap bisa menangkap baranya dan terbakar sama terangnya.",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 4,
+          "text": "Kalau begitu...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "... kamu hanya perlu melangkah maju di jalan itu.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D4000_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ah, lihatlah! Bukankah pendar cahaya telah lenyap sepenuhnya dari dia yang mengejar kita? Mungkinkah inilah saatnya kita menumbangkan musuh!",
+          "speaker": "Don Quixote"
+        },
+        {
+          "index": 1,
+          "text": "Benar juga... Tapi melanjutkan perjalanan juga bisa jadi pilihan.",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 2,
+          "text": "<…….>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D9500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Para Sinner semuanya menatapku, menunggu keputusan."
+        }
+      ]
+    },
+    {
+      "key": "D9501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dengan kedua akhir yang telah kembali ke ingatanku, aku merenungkan apa yang mungkin terjadi pada yang ketiga, dan mendapati diriku menjadi lebih penasaran... daripada takut.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "Pasti perjalanan yang sangat berat menanggung semuanya sendirian tanpa kami. Sekarang, mari kita berdiri bersama menghadapi cobaan lainnya.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Aku meluangkan waktu sejenak untuk meluapkan apa yang telah kami lalui kepada Yi Sang."
+        }
+      ]
+    },
+    {
+      "key": "D9502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Keputusan Faust, pada akhirnya... benar.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 1,
+          "text": "Tidak seperti... keputusanku...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "... Sebaiknya aku membiarkannya sendiri dulu untuk saat ini."
+        }
+      ]
+    },
+    {
+      "key": "D9503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aduhai! Memikirkan kisah petualangan megah ini hampir dilupakan sepenuhnya...! Sungguh, tiada horor yang lebih mengerikan dari itu...",
+          "speaker": "Don Quixote"
+        },
+        {
+          "index": 1,
+          "text": "Katakan saja perintahmu, dan kita akan maju berjuang sekali lagi menuju puncak. Hamba percaya padamu, Manajer Esquire!",
+          "speaker": "Don Quixote"
+        },
+        {
+          "index": 2,
+          "text": "Don Quixote menyerukan dengan penuh percaya diri dan tekad yang berkobar kembali."
+        }
+      ]
+    },
+    {
+      "key": "D9504",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*hembusan napas*",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "... Apa yang terputus telah ditambal kembali. Yah, Kurasa aku menyukainya lebih dari yang kubayangkan.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "Araya bergetar seolah mengiyakan."
+        }
+      ]
+    },
+    {
+      "key": "D9505",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku melihat sedikit diriku yang dulu pada Meursault—mementam perasaan sejatinya, menyembunyikannya dari orang lain... Tapi kurasa ada perbedaannya.",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 1,
+          "text": "Seperti apa kondisi hatinya, hingga sanggup terus melangkah terlepas dari segala kesia-siaan ini?",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 2,
+          "text": "Berbincang-bincang mengenai Meursault bersama Hong Lu."
+        }
+      ]
+    },
+    {
+      "key": "D9506",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kamu gak apa-apa, kawan? Kurasa kamu gak pernah memutar ulang waktu sebanyak ini, bahkan waktu di dalam kereta daging neraka itu.",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "Aku masih ingat gimana kamu dulu menggeliat dan bergulingan di tanah, berteriak kesakitan, dan sekarang kamu bahkan gak bergeming sedikit pun. Kamu selalu ekstrem ya?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "Heathcliff menepuk-nepuk kepala jamku sebentar."
+        }
+      ]
+    },
+    {
+      "key": "D9507",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Aku mengerti kenapa kamu tidak bisa memberi tahu kami soal perulangan waktu itu, tapi mm...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "... Tapi, apa kamu <i>harus</i> mengabaikanku seperti itu setiap kali? Aku tahu aku memang banyak bertanya, tapi rasanya kamu seperti cuma tidak mau mengurus—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Dimarahi oleh Ishmael."
+        }
+      ]
+    },
+    {
+      "key": "D9508",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Selain merasa kelewatan gara-gara urusan ingatan yang kacau... Hei, aksiku lumayan juga di sini, kan?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Agak disayangkan aku cuma beraksi di satu lantai, tapi... hei, aku tetap keren kan~?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Memuji Rodya, yang tampak cukup puas dengan dirinya sendiri."
+        }
+      ]
+    },
+    {
+      "key": "D9509",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jadi... sebenarnya ada apa dengannya ya? Dia memang membantu kita pada akhirnya, tapi...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "... Aku merasa jauh lebih bingung daripada saat pertama kali bertemu Demian.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "Sinclair masih tampak penasaran dengan wanita dari Fount."
+        }
+      ]
+    },
+    {
+      "key": "D9510",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Anda telah melakukan pekerjaan yang sangat baik sejauh ini, terlepas dari situasi yang begitu berat.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "Aku tidak mengharapkan yang lebih sedikit dari Manajer Eksekutif kita.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "Pujian berlebihan dari Outis sudah tidak membuatku merasa secanggung saat awal perjalanan kami."
+        }
+      ]
+    },
+    {
+      "key": "D9511",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aduh, badanku pegal semua... Aku benar-benar kehabisan tenaga.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Mari santai dulu setelah keluar dari sini. Kamu sendiri sudah melewati neraka bolak-balik, kan? Kamu layak dapat istirahat, Manajer Kawan.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "Menggerutu soal korporat bersama Gregor."
+        }
+      ]
+    },
+    {
+      "key": "D9512",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Sekarang, kita bisa naik.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Meursault tetap tenang seperti biasanya."
+        }
+      ]
+    },
+    {
+      "key": "D9513",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Kurasa kita tidak akan pernah tahu apa yang ada di balik pintu-pintu Fount ini."
+        }
+      ]
+    },
+    {
+      "key": "D91001_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "&+? !+@ *! &&@ !@$?%+ ?@@#"
+        },
+        {
+          "index": 1,
+          "text": "^^# $*+ % @?# +&?& $*^@"
+        },
+        {
+          "index": 2,
+          "text": "%! ##+% !!* %%!# &!$+$"
+        },
+        {
+          "index": 3,
+          "text": "$$%! @++ !#* +? %$$ ^^+&"
+        },
+        {
+          "index": 4,
+          "text": "?#@& #!! # *! %@ *$* @^@ @%^$# @%$ !##@ @!#?& #*?#"
+        },
+        {
+          "index": 5,
+          "text": "!+% %@@ *#&%? @% !%% ^+! @!& &#* %#+ +#* #^*& ?#+&@?"
+        },
+        {
+          "index": 6,
+          "text": "*@ ?&# #&+& $ *&*% ?& ?%# ?!@!"
+        }
+      ]
+    },
+    {
+      "key": "D91002_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "? &#& !?^ #$ @!^ ***$"
+        },
+        {
+          "index": 1,
+          "text": "$+? *%+%@ %? $+^!"
+        },
+        {
+          "index": 2,
+          "text": "#!$! $?* %*^% @#+ *#@!"
+        },
+        {
+          "index": 3,
+          "text": "@^&% ? +? $#% *%@?"
+        },
+        {
+          "index": 4,
+          "text": "!*# % !@ ???& $?$$"
+        },
+        {
+          "index": 5,
+          "text": "@&? ?! ?$+^ ^@^$ #!& ^@&"
+        }
+      ]
+    },
+    {
+      "key": "D91003_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "@$! ^?? ^&* ?*& $!%"
+        },
+        {
+          "index": 1,
+          "text": "@*$ #+$ $&%? &*% # *%$? +? && ^%!*$"
+        },
+        {
+          "index": 2,
+          "text": "*!& *?+ +?*?"
+        },
+        {
+          "index": 3,
+          "text": "?+ &$ ?%@& @#& ^!% +@ *! *%+ ^&& ?$%@+"
+        },
+        {
+          "index": 4,
+          "text": "?% ^## +! +??% ^ *^^ #+% ?@#+!"
+        }
+      ]
+    },
+    {
+      "key": "D91004_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "?#%& ?$ ^^$ %*& $^ &% $*#&? +! ^*+$ *+ !**^"
+        },
+        {
+          "index": 1,
+          "text": "#@+ %@!? &^ #%@ @# %! *$ +$ ^$ *$+?!"
+        },
+        {
+          "index": 2,
+          "text": "%%!% ### &&? *@& @! *%? #@! ?*! *#!"
+        },
+        {
+          "index": 3,
+          "text": "!!@ ^?$ #%& ^+@^ ?%&& !@@ &+$+ &!@ #!%& ?*$!+$"
+        },
+        {
+          "index": 4,
+          "text": "^+& $!@ ##^ $$# %?$*? &#!$ +$?"
+        },
+        {
+          "index": 5,
+          "text": "?$?! ?@?%"
+        },
+        {
+          "index": 6,
+          "text": "!&$ ?&@? #! +! ^& @&@* +^*! #@+%"
+        },
+        {
+          "index": 7,
+          "text": "?+!* ?%# $@ +% ^+ ?$!$@ *!"
+        },
+        {
+          "index": 8,
+          "text": "$?^$$ ?? ?@* + ^+ $%$@ +#"
+        }
+      ]
+    },
+    {
+      "key": "D91005_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "%% ?^ @^^?%% ?# ^$ ^^!"
+        },
+        {
+          "index": 1,
+          "text": "%@ &+?# @^$# ^% +#? +@&^ ??"
+        },
+        {
+          "index": 2,
+          "text": "*#@ + @+ ??$ @ +&# !^%^"
+        },
+        {
+          "index": 3,
+          "text": "#&^ ?*! #$% *@^ &# ?+@ *^+$%"
+        },
+        {
+          "index": 4,
+          "text": "+^ &$% @? ?* !% !#^ !!#& +&!*"
+        },
+        {
+          "index": 5,
+          "text": "$*#& !* @$#$ *? +$ %#^ ^% *#@&^%#"
+        },
+        {
+          "index": 6,
+          "text": "** &#@ &?&% *? *^*^* ?&+% *+ !#*% ?%@ @ %%$@"
+        },
+        {
+          "index": 7,
+          "text": "*??@ %* #&+ &&^ ?!& ^%$ %@@&"
+        },
+        {
+          "index": 8,
+          "text": "^ #?# $??& ?+* %*& *@+ %^ ^*&! #$ !@! ?$^"
+        },
+        {
+          "index": 9,
+          "text": "##&## ?@&^"
+        },
+        {
+          "index": 10,
+          "text": "+*^* $ ^## $$# &% *!#@ !^%* $#+ %&+$"
+        },
+        {
+          "index": 11,
+          "text": "@+* %?% ? %! %@#"
+        },
+        {
+          "index": 12,
+          "text": "@%*^ &!?$+"
+        },
+        {
+          "index": 13,
+          "text": "^^%$ #%*?& ??%?"
+        }
+      ]
+    },
+    {
+      "key": "D9514",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mantel merah. Kepala jam berapi-api."
+        },
+        {
+          "index": 1,
+          "text": "Itu adalah \"aku\" di dalam cermin."
+        }
+      ]
+    },
+    {
+      "key": "D9515",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Gaya mereka tidak menyerupai milik Le Rouge, maupun Le Noir."
+        },
+        {
+          "index": 1,
+          "text": "... Mengapa Manekin ini mengejar kita?"
+        }
+      ]
+    },
+    {
+      "key": "D9516",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "???"
+        }
+      ]
+    }
+  ]
+}
