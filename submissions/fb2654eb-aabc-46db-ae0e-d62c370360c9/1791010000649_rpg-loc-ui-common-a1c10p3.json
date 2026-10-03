@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "key": "Setting_Sisyphus_CheckpointRestart",
+      "text": "Restart dari checkpoint"
+    },
+    {
+      "key": "Sisyphus_CheckpointRestartConfirmDesc",
+      "text": "Restart dari Checkpoint?"
+    },
+    {
+      "key": "Sisyphus_SkipConfirmDesc",
+      "text": "Lewati bagian ini dan lanjutkan ke bagian cerita selanjutnya?"
+    },
+    {
+      "key": "Setting_Sisyphus_PushRock",
+      "text": "Pukul Batu-jatuh"
+    },
+    {
+      "key": "Setting_Sisyphus_CatchRock",
+      "text": "Ambil Batu-jatuh"
+    },
+    {
+      "key": "Setting_Sisyphus_Log",
+      "text": "Log"
+    },
+    {
+      "key": "WardenArena_ResistFate",
+      "text": "LAWAN TAKDIR"
+    },
+    {
+      "key": "KeyDesc_SisypMoveUp",
+      "text": "Gerak atas"
+    },
+    {
+      "key": "KeyDesc_SisypMoveDown",
+      "text": "Gerak bawah"
+    },
+    {
+      "key": "KeyDesc_SisypMoveLeft",
+      "text": "Gerak kiri"
+    },
+    {
+      "key": "KeyDesc_SisypMoveRight",
+      "text": "Gerak kanan"
+    },
+    {
+      "key": "KeyDesc_SisypAttack",
+      "text": "Pukul Batu-jatuh"
+    },
+    {
+      "key": "KeyDesc_SisypGrab",
+      "text": "Ambil Batu-jatuh"
+    },
+    {
+      "key": "KeyDesc_SisypRunToggle",
+      "text": "Beralih ke Berlari"
+    },
+    {
+      "key": "KeyDesc_SisypRestart",
+      "text": "Restart dari Checkpoint"
+    },
+    {
+      "key": "KeyDesc_SyncNormalSysypKey",
+      "text": "Import Pemetaan Kunci"
+    },
+    {
+      "key": "KeyDesc_SisypLogToggle",
+      "text": "Lihat Riwayat Log"
+    }
+  ]
+}
