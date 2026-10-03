@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_3F_HighDomestic_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Hasrat. Dan seturut dengan ukuran hasratmu, lahaplah segalanya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Kenakanlah segalanya pada dirimu. Lahaplah tanpa batas.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Berhasratlah. Dan seturut dengan ukuran berhasratmu, habiskanlah segalanya.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Hasratkan. Maka hal itu akan mengenaimu.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Kendati engkau dapat memuaskan dirimu, engkau tidak boleh melakukannya. Kendati engkau dapat menuruti kehendakmu, engkau harus menahan diri.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Engkau tidak boleh berlebihan. Engkau harus mematuhi perintah-perintah ketertiban.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Engkau tidak boleh melanggar aturan. Setiap momen penderitaanmu terukir dan diingat oleh Sisyphe itu sendiri.</color>"
+        }
+      ]
+    }
+  ]
+}
