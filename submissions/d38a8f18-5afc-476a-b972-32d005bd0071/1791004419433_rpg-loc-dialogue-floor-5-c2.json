@@ -1,0 +1,967 @@
+{
+  "dataList": [
+    {
+      "key": "D5004_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Eskalator menuju lantai atas tidak bergerak. Sepertinya tidak akan bergerak sampai kita mengurus apa yang ada di meja makan."
+        }
+      ]
+    },
+    {
+      "key": "D5010_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suara bising mengerikan yang telah mengejar kita beberapa saat akhirnya berhenti."
+        }
+      ]
+    },
+    {
+      "key": "D5011_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kita berada di lantai lima sekali lagi."
+        }
+      ]
+    },
+    {
+      "key": "D5012_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Kita... akhirnya sampai.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BUFFET",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Aku ingat kalian. Orang-orang yang memanggilku Pwie.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "Dan dia yang tidak pernah berbohong—Meursault.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Semua orang yang mengaku sebagai pengikutku meminta banyak hal dariku, namun tidak ada satu pun yang memberikan jawaban.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 4,
+          "text": "Anda, di sisi lain... Mungkin mampu menjawab. Pertanyaanku tak pernah habis, namun anda tidak pernah gagal memberitahuku apa yang anda ketahui, tepat sebagaimana anda mengetahuinya.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 5,
+          "text": "Meursault... Mengapa... aku selalu begitu hampa? Aku makan dan makan di restoran ini dan mengenyangkan diriku, namun tetap saja...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 6,
+          "text": "Aku tidak menginginkan semua ini. Tak pernah menginginkannya.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 7,
+          "text": "Lalu mengapa aku harus menanggung... kelaparan yang menghancurkan ini?",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 8,
+          "text": "Karena anda terlahir dengan cara seperti itu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Begitu rupanya...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 10,
+          "text": "Namun ada kalanya anda melupakan kenyataan itu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Saat anda mempelajari sesuatu yang baru.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "Saat anda bersama Wriggley.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Saat anda bermain permainan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 14,
+          "text": "Momen-momen singkat itu membuat anda dapat melupakan rasa sakitnya.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 15,
+          "text": "…….",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 16,
+          "text": "Ya. Benar.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 17,
+          "text": "Kata-katamu memanggil kembali ingatan jelas lainnya. Yang ini tidak anda sebutkan.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 18,
+          "text": "Saat aku mengikuti anda, anda terkadang berbalik untuk melihatku. Dan saat mata kita bertemu...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 19,
+          "text": "Tidak ada rasa sakit sama sekali.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 20,
+          "text": "Itu membuatku... sangat bahagia. Aku sangat menikmati petualangan kita hingga aku bahkan melupakan rasa laparku.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 21,
+          "text": "Buffet berhenti menyerang kita."
+        },
+        {
+          "index": 22,
+          "text": "Pwie. Kami tidak memiliki keinginan untuk mengangkat senjata melawannmu.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 23,
+          "text": "... Namun kita tidak punya pilihan selain melakukannya.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BUFFET-B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>Benar sekali, Meur.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<Suara itu lagi...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<color=#E1B643>Apakah kamu tahu mengapa sangat kejam dilahirkan ke dunia ini tanpa memiliki hak suara?</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#E1B643>Itu karena kita dilahirkan untuk takut akan kematian... bahkan saat kita telah memilih untuk mati.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<Aku sudah merasakannya sejak lantai pertama. Suara ini... rasanya semakin dekat.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Semakin dekat... di setiap lantai yang kita naiki?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<color=#E1B643>Rasa bersalah karena telah mengorbankan seorang anak.</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#E1B643>Panggilan untuk menyembuhkan umat manusia.</color>"
+        },
+        {
+          "index": 9,
+          "text": "<color=#E1B643>Tanggung jawab untuk tidak mengecewakan rekan-rekanmu.</color>"
+        },
+        {
+          "index": 10,
+          "text": "<color=#E1B643>... Tak ada satu pun dari itu yang berarti di hadapan kematian.</color>"
+        },
+        {
+          "index": 11,
+          "text": "<color=#E1B643>Hal yang sama akan berlaku untuk anak itu.</color>"
+        },
+        {
+          "index": 12,
+          "text": "<color=#E1B643>Kenangan yang dibagikan bersamamu, harapan yang ditaruh para Rouge pada mereka, dan rasa lapar naluriah yang tak pernah terpuaskan...</color>"
+        },
+        {
+          "index": 13,
+          "text": "<color=#E1B643>Buffet menanggung seluruh penderitaan itu. Mereka tidak akan berhenti kali ini.</color>"
+        },
+        {
+          "index": 14,
+          "text": "<color=#E1B643>Dan mereka pasti mengetahuinya juga—bahwa agar apa pun dapat ada... mereka sendiri harus ada terlebih dahulu.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BUFFET-C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Aku bisa mengikuti anda sekarang, tapi ini sudah terlambat. Rasa lapar ini tidak akan lenyap.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "Begitu pula harapan dan ekspektasi dari para Rouge tidak akan memudar.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "Jika rasa lapar ini ingin diredakan... Aku harus melahap semua yang ada di sini. Bahkan tempat yang kalian cari di atas sana, harus kulahap.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 3,
+          "text": "Mengapa kalian tidak tinggal di sini bersamaku sekali lagi, orang-orang asing?",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 4,
+          "text": "<... Kita tidak bisa.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<Yang artinya... kita harus membuat... pilihan lain yang bakal kita sesali.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "... Kita akan melanjutkan ke lantai berikutnya, Buffet.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Jadi kalian memilih untuk tidak mengikutiku pada akhirnya, orang-orang asing...",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5020_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5020B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hah... Bukan reuni seperti ini yang ada di pikiranku...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Tampaknya kedatangan kita... tidak disadari. Pesta masih terus berlanjut, tanpa ada jeda sedikit pun untuk menandai kehadiran kita.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Kini setelah kita terbebas dari takdir dan akhir yang telah ditentukan, para Sinner mendapatkan kembali ingatan mereka di tempat ini. Gregor dan Yi Sang menatap pemandangan di depan kita dengan sedih."
+        },
+        {
+          "index": 3,
+          "text": "Di ujung tatapan gelisah Gregor dan Yi Sang adalah sosok yang pernah kita panggil Pwie—atau \"Buffet,\" sebagaimana mereka telah mengungkapkan namanya. Sosok yang telah melahap seluruh serba ada dalam perulangan sebelumnya."
+        },
+        {
+          "index": 4,
+          "text": "<Kelihatannya para Rouge menang sewaktu sang Pastor menjebak kita.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<Kalau sang Pastor memang Suara untuk para Noir... Ketidakhadirannya pasti membuat para Noir kacau balau dan mempermudah urusan para Rouge.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Dengan dilanggar aturan Grand Magasin, Pwie telah mencapai lantai lima dan memakan semua yang terlihat, sama seperti sebelumnya."
+        },
+        {
+          "index": 7,
+          "text": "Namun tidak seperti wujud yang kita lihat di akhir cerita sebelumnya..."
+        },
+        {
+          "index": 8,
+          "text": "Merek tidak tumbuh membengkak seperti ratu rayap. Sebaliknya, kehadiran mereka terasa jauh lebih megah, seolah-olah mereka telah sepenuhnya menjadi diri mereka sendiri."
+        }
+      ]
+    },
+    {
+      "key": "D5041_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Pwie.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5021_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie perlahan berbalik untuk melihat ke arah kita."
+        },
+        {
+          "index": 1,
+          "text": "... Itu bukan namaku.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "Aku adalah Buffet, Suara baru Le Rouge...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 3,
+          "text": "Saya tahu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Namun... anda adalah Pwie bagi kami.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Pwie perlahan menurunkan makanan di tangan mereka, seolah kata-kata Meursault telah membangkitkan rasa tertarik dalam diri mereka."
+        },
+        {
+          "index": 6,
+          "text": "... Sepertinya mereka tidak mengingat kita, ya?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "<Waktu itu, Pwie mengingat apa yang terjadi sebelum Likuidasi—saat para Noir unggul. Yang artinya mereka harusnya masih ingat kita...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Tidak seperti kita, mereka mungkin harus menyaksikan setiap menit, setiap detik yang berlalu dalam rentang waktu tersebut. Mungkin kenangan itu telah diserahkan pada kelupaan... atau mungkin perasaan yang dulu terikat padanya telah memudar warnanya.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 9,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5021B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Orang-orang asing, namun... familiar. Wajah-wajah dari ingatanku...",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5022_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie... tidak, Buffet. Kita harus lewat.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5023_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kalian tidak bisa. Ini adalah tempat untuk berpesta.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "Kalian harus tinggal... sampai semuanya habis dikonsumsi.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "Kami tidak bisa. Kami harus meninggalkan tempat ini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "... Kalau begitu aku tidak punya pilihan selain mengonsumsi kalian.",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5002B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "Ahh... Sungguh... menyenangkan...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "Aku tidak merasa...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 3,
+          "text": "... begitu lapar lagi...",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5029_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Anda tidak harus merasa lapar... lagi.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5037_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*bergumam* Baiklah~ Ini dia! Kalian semua telah menunggu dengan <i>sangat</i> sabar.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Begitu pula denganku. Kalian tidak tahu seberapa lama penantian ini bagiku. Aku <i>hampir saja</i> kehilangan akal sehatku.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5038_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku tidak punya mulut untuk makan, namun jika pun bisa, makan adalah hal terakhir yang ada di pikiranku."
+        },
+        {
+          "index": 1,
+          "text": "Meursault, sebaliknya, mengambil sendoknya dengan rapi."
+        }
+      ]
+    },
+    {
+      "key": "D5039_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada hidangan pesta sungguhan yang disajikan di atas meja makan yang rusak. Sepertinya bisa dipanjat."
+        }
+      ]
+    },
+    {
+      "key": "D5040_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Serangkaian hidangan tertata rapi di atas meja makan, menunggu tuannya datang."
+        }
+      ]
+    },
+    {
+      "key": "D5030_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Apa ini?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Serangkaian hidangan disajikan di atas meja yang tertutup taplak putih."
+        },
+        {
+          "index": 2,
+          "text": "Ini hidangan penuh. Selamat menikmati!",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "Alasan hal-hal itu tidak pernah bisa melewati lantai lima...",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "... adalah karena mereka tidak menjaga tata krama di Restoran Grand Magasin Sisyphe.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "Kalian tahu kan kalau restoran menuntut gaya makan yang beradab? Gunakan peralatan yang benar, bersikap anggun, dan semacamnya. Makanlah, bukannya <i>mengonsumsi</i> seperti troglodit yang kelaparan.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "Hal yang tidak boleh dilakukan saat makan... Mari kita lihat, tidak tahu apa hidangan selanjutnya, tidak mau menunggu, mijejelkan suapan berikutnya bahkan sebelum sempat merasakan potongan terakhir dengan benar... Ckck, itu bukan cara makan yang benar!",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Nah, untuk hidangan pembuka: sup. Sup ini sudah dididihkan cukup lama hingga segala sesuatu di dalamnya meleleh menjadi sesuatu yang kental dan kaya rasa. Permukaannya tampak murni dan halus, tapi aduk sedikit saja dengan sendokmu, dan semua yang terbaring di dasar akan berputar naik kembali.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031A_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kalian pasti telah bertemu dengan orang-orang dengan segala macam hasrat di sini di Grand Magasin.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Para Noir ingin melestarikan serba ada. Dan para Rouge, tentu saja, ingin mengurasnya sampai habis. Lalu ada para Kaki, yang tidak tertarik pada apa pun selain mengonsumsi lebih banyak pakaian. Kemudian, sebagai pelengkap, para Néant, yang bersembunyi untuk berjemur di bawah sinar matahari.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "Para Noir memberi tahu kalian tentang nilai-nilai yang berusaha mereka lindungi.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "Dan kalian membawakan mereka kabar gembira—bahwa Suara Rouge telah dibungkam untuk selamanya.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "Adapun salah satu dari kalian menjadi pelaku pembunuhan keji itu... mari kita simpan itu sebagai rahasia kecil kita, ya?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "Bagaimanapun, itu memberi para Rouge peringatan bahaya yang besar, jadi mereka semua telah \"merencanakan\" dalam waktu yang lama. Rencananya adalah melahirkan Suara baru, yang dibentuk dengan tangan mereka sendiri. Lagipula, mereka tidak bisa tahan jika harus hidup tanpanya.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "Para Noir memanfaatkan kalian untuk menginjak-injak rencana kecil itu.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 7,
+          "text": "Cangkang harapan para Rouge dihancurkan, dan apa yang merayap keluar dari sana kembali tidur sebelum sempat belajar mengucapkan kata yang benar.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 8,
+          "text": "Begitulah cara para Noir membawa keabadian yang begitu mereka dambakan ke dalam serba ada ini. Ketenangan sempurna—tanpa ada yang berubah, tanpa ada yang lahir.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sama seperti sup ini. Perlahan mendingin dan membeku selamanya sampai menjadi gumpalan padat.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Dan berikutnya:",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031C_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hidangan lain disajikan di hadapan kita."
+        }
+      ]
+    },
+    {
+      "key": "D5032_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Makanan menggugah selera.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Ini bukan untuk mengisi perut kalian. Ini adalah sesuap makanan yang disajikan untuk mengingatkan para pelanggan seberapa laparnya mereka.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5032A_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa yang terjadi sesudahnya adalah bahwa Grand Magasin dikembalikan ke awal, begitu pula kalian, dipaksa untuk memulai kembali dari lantai pertama. Dan jika aku boleh menebak apa yang ada di pikiran kepala jam konyol kalian...",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "... Dia mungkin berpikir bahwa pilihan yang berbeda akan membawa hasil yang berbeda.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "Jadi kali ini, kalian memihak para Rouge. Mengabulkan keinginan mereka. Membantu membawa makhluk yang begitu ingin mereka hadirkan ke dunia mereka.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "Dan apakah kalian berhenti di situ? Tentu saja tidak. Kalian memberi nama pada makhluk itu. Memakaikan sepatu di kakinya dan pakaian di punggungnya. Kalian bahkan mengawalnya dengan selamat sampai ke lantai lima.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "Berkat kalian... makhluk itu akhirnya mendapatkan tempatnya di sini—restoran lantai lima.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "Auw, tapi apa yang kalian taruh harapannya untuk kedua kalinya hanyalah seorang Rouge pada akhirnya. Sebuah entitas yang ingin mengonsumsi Grand Magasin sampai mengering.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "Makhluk itu memakan segalanya. Meninggalkan serba ada dalam keadaan kerontang... hanya untuk mengetahui bahwa rasa laparnya tidak akan pernah bisa terpuaskan.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5032B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Baiklah, kalau begitu...",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Waktunya untuk hidangan utama! Tidak perlu menghiasnya dengan berbagai pelengkap.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Ini adalah hidangan yang paling lama dimasak. Puncak dari santapan penuh.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033A_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Grand Magasin, sayangnya bagi kalian, memutuskan untuk melakukan Likuidasi lagi.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Dan dengan kearifan tak terbatas kalian yang membawa kalian menanamkan prostetik subhuman itu ke tulang belakang kalian, kalian telah memahami... tidak ada apa-apa!",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "Pertanyaan besarnya adalah, jika baik Le Noir maupun Le Rouge bukan jawabannya, lalu apa sebenarnya yang seharusnya kalian ubah, dan bagaimana caranya?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "Sebagai Raksasa yang murah hati, aku tidak sanggup menyaksikan kebodohan kalian lebih lama lagi. Jadi aku memberi kalian petunjuk.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "Untuk membunuh... sesama Raksasa.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Hei, itu terlalu tajam, tidakkah kamu berpikir begitu? Bukannya dunia ini... benar-benar ada.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "Tidak seperti para pelanggan, saat avatar seorang Raksasa mati di sini, yang dilakukannya hanyalah memberi sedikit tekanan pada kami di dunia nyata.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 7,
+          "text": "Maksudku, siapa yang mau datang bekerja di tempat kerja yang bahkan tidak bisa menjamin karyawannya akan hidup untuk pulang, bukan...? Cuma lelucon dengan sedikit selera humor gelap. Siapa tahu kalian orang-orang dungu menganggapnya serius.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 8,
+          "text": "Lagipula... aku tidak tahu kalau sang Pastor akan memaksakan dirinya sejauh itu. Karyawan teladan N Corp., sungguh.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 9,
+          "text": "Bagaimanapun, pada akhirnya... kalian akhirnya berhasil menyingkirkan sang Pengawas dan membebaskan Grand Magasin dari aturan-aturannya.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 10,
+          "text": "Sementar itu, waktu yang sangat, sangaaat lama telah berlalu dalam sistem Grand Magasin...",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 11,
+          "text": "Suara Le Noir telah hening selama waktu itu, dan Le Rouge mengklaim kemenangan. Ciptaan mereka... menetap di lantai lima, mengikuti nalurinya sama seperti sebelumnya.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 12,
+          "text": "Buatan atau bukan, dia tetaplah dewa dalam sistem ini. Tampaknya dia menggunakan ingatannya bersama kalian untuk mengambil alih serba ada dengan sedikit lebih cerdik. Bahkan menghindarkan dirinya dari wujud akhir yang membengkak dan buruk rupa itu.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 13,
+          "text": "Haha! Ini bagian lucunya: kalian datang berikutnya dan memadamkan hidupnya lagi, seperti yang kalian lakukan pertama kali! Sungguh jalan yang panjang dan melekat untuk dilalui. Tidakkah kalian setuju?",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dan itu menyisakan kita dengan...",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033C_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Piring kecil diletakkan di atas meja."
+        }
+      ]
+    },
+    {
+      "key": "D5034_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hidangan penutup. Akhir dari santapan. Titik akhirnya.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "Kalian tahu kan bahwa ingatan akan santapan penuh selalu ditentukan oleh hidangan penutupnya?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "Anda... adalah seorang Raksasa, yang berkewajiban untuk mengelola serba ada ini dengan setia.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Mengapa anda membantu kami mencapai lantai paling atas?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Kamu benar. Aku adalah seorang Raksasa. Raksasa yang bekerja paling keras yang pernah dimiliki tempat ini.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "Aku praktis <i>tinggal</i> di setiap lantai ini sementara tiga lainnya duduk di ruangan mereka memegang mikrofon. Tidak ada orang lain yang bekerja lembur lebih banyak dariku. Yah, lembur tanpa dibayar... kalau yang itu.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "Kalian lihat, kami para Raksasa harus menopang Grand Magasin bersama-sama... yang membuatnya sulit bagi kami untuk saling menyakiti secara langsung. Kami semua saling mengawasi satu sama lain.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 7,
+          "text": "Jadi yang kubutuhkan... adalah variabel dari dunia luar. Aku tidak keberatan berperan sebagai teman atau koki sesuai tuntutan keadaan, selama tujuan kita sejalan. Aku orang yang ramah.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 8,
+          "text": "Kalian juga tidak berbeda. Kalian tidak masuk ke sini sepenuhnya atas usaha sendiri, kan? Dan tentu saja tidak melalui jalur \"normal\".",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 9,
+          "text": "Cukup banyak orang lain yang tertarik pada kalian, kalian tahu. Yang ada di toilet itu, misalnya.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 10,
+          "text": "Menyelamatkanku dari banyak pekerjaan jalan kaki, aku akui itu.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 11,
+          "text": "Para Raksasa... adalah orang-orang yang takut akan dunia.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "Anda pasti sama.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Tepat sekali. Ketakutan setengah mati setiap hari—bahkan sekarang. Bisakah kamu mendengarnya? Melihat hatiku yang malang gemetaran?",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5035_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Meursault menyelesaikan makanannya."
+        }
+      ]
+    },
+    {
+      "key": "D5036_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Begitu dia meletakkan peralatannya, jalan menuju lantai enam terbuka melalui celah yang tadinya menghalangi jalan kita."
+        },
+        {
+          "index": 1,
+          "text": "Bravo! Bisakah aku mendapatkan kata-kata \"pujian untuk koki\"?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "Semoga kita akhirnya bisa mencapai tahap \"pemenggalan kepala\" saat berikutnya kita bertemu!",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "Kita meninggalkan meja untuk naik ke lantai enam, dengan Kromer melambaikan tangan kepada kita seantusias biasanya."
+        }
+      ]
+    },
+    {
+      "key": "D5503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Buffet... <i>Pwie</i> berhenti bergerak maju karena kenangan yang mereka bagikan dengan kita."
+        },
+        {
+          "index": 1,
+          "text": "Namun demikian, kita memutuskan untuk melangkah maju, terlepas dari kenangan yang dibagikan dengan Pwie."
+        },
+        {
+          "index": 2,
+          "text": "Jika Meursault menyuarakan kebenaran, jika Meursault tidak berbohong kepada Pwie sewaktu mereka terbaring sekarat... Aku bertanya-tanya apakah Pwie masih tidak akan menyesali pilihannya untuk berhenti."
+        },
+        {
+          "index": 3,
+          "text": "... Mungkin Pwie memilih untuk berhenti bukan karena kenangan mereka bersama kita, melainkan..."
+        },
+        {
+          "index": 4,
+          "text": "... antisipasi bahwa mereka mungkin bisa mengalami kenangan itu kembali."
+        }
+      ]
+    }
+  ]
+}
