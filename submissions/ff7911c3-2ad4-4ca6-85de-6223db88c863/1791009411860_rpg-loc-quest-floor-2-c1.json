@@ -1,0 +1,15 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "Naik ke 2F",
+      "description": "Bahkan jika tidak ada yang berubah, kita harus tetap naik.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik ke 2F"
+        }
+      ]
+    }
+  ]
+}
