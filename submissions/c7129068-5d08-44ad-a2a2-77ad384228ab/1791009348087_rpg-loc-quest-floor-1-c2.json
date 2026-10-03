@@ -1,0 +1,15 @@
+{
+  "dataList": [
+    {
+      "key": "Q1001_C2",
+      "title": "Naik ke 5F",
+      "description": "Kita telah melawan takdir. Sang Penjaga tidak akan lagi muncul dan menghalangi langkah kita di setiap kesempatan. Sekarang saatnya menuju ke 5F, tempat segalanya berakhir pada siklus kita sebelumnya.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Naik ke 5F"
+        }
+      ]
+    }
+  ]
+}
