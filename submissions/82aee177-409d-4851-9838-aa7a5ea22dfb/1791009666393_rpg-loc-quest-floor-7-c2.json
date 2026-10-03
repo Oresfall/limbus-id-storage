@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "key": "Q7001_C2",
+      "title": "Ruangan Terang",
+      "description": "Meursault menggelindingkan batu besar itu sampai ke puncak, hanya untuk melihatnya jatuh berguling lagi ke bawah. Dan sekarang, tempat yang akhirnya berhasil kita capai adalah... bagian paling atas dari toko departemen ini.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Terus bergerak maju."
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Dan duduklah."
+        }
+      ]
+    },
+    {
+      "key": "Q7002_C2",
+      "title": "???",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    }
+  ]
+}
