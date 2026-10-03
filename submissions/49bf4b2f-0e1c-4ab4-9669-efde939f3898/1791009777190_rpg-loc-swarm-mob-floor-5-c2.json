@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_5f_c2_larouge_spa",
+      "displayName": " Asosiasi Penjualan Le Rouge"
+    },
+    {
+      "key": "swarm_5f_c2_larouge_elite",
+      "displayName": "Manajer Toko Le Rouge"
+    },
+    {
+      "key": "swarm_5f_c2_larouge_sickle",
+      "displayName": "Staf Le Rouge"
+    }
+  ]
+}
