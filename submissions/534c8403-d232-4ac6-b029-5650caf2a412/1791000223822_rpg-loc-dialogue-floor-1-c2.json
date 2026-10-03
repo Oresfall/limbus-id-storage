@@ -1,0 +1,586 @@
+{
+  "dataList": [
+    {
+      "key": "D1000_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Setelah pertarungan kita melawan Chaplain, kita... kembali ke Fount,"
+        },
+        {
+          "index": 1,
+          "text": "setelah mengalami waktu yang begitu panjang hingga konsep waktu itu sendiri terasa asing bagiku..."
+        }
+      ]
+    },
+    {
+      "key": "D1001_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Tunggu... Jangan bilang kalau kita dikirim balik <i>lagi!</i>>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Tidak, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Tampaknya... kurun waktu yang cukup lama telah berlalu.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<Dan... apa itu...?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1002_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tunggu... bukannya benda itu kelihatan makin dekat...?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tumpukan yang jatuh dari langit itu ternyata adalah mayat-mayat yang hancur hingga tak dapat dikenali lagi. Kilau keemasan yang aneh, terang bagaikan sinar matahari, berkedip di antara celah-celah tubuh mayat tersebut."
+        },
+        {
+          "index": 1,
+          "text": "Orang-orang yang kutebak sebagai \"pelanggan\" yang disebutkan dalam pengumuman tampak berebut dengan panik di antara mayat-mayat, merampas apa saja yang bisa mereka temukan."
+        }
+      ]
+    },
+    {
+      "key": "D1905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Aku belum pernah duduk di kursi ini sebelumnya."
+        },
+        {
+          "index": 1,
+          "text": "Lalu, apakah ini memang sebuah \"kursi\" dari sudut pandangku?"
+        },
+        {
+          "index": 2,
+          "text": "……."
+        },
+        {
+          "index": 3,
+          "text": "Pertanyaan-pertanyaan seperti ini terus bermunculan sejak aku memasuki toko departemen ini."
+        }
+      ]
+    },
+    {
+      "key": "D1906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Nggak ada waktu buat duduk-duduk. Kita harus cari jalan keluar dari sini secepatnya."
+        }
+      ]
+    },
+    {
+      "key": "D1913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pakaian tergantung di sini, tak diinginkan dan tak tersentuh. Mungkin itu karena pakaian tersebut nyaris tak mengandung Kulit Emas."
+        }
+      ]
+    },
+    {
+      "key": "D1963",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa-apaan itu?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Pakaian yang telah ketinggalan zaman akibat pergantian musim tren.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Seseorang telah mengumpulkannya di sini.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Pakaian-pakaian itu disembunyikan di sudut yang begitu terpencil. Rasanya seperti ada yang sengaja mencoba menyembunyikannya...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Kamu kan tahu gimana tren fashion—itu cuma siklus berulang. Mungkin ada yang nyimpan barang-barang ini di sini sampai ngetren lagi nanti?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<Mungkinkah ini barang-barang yang dijual?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Sangat sedikit bukti yang mendukung kemungkinan tersebut. Pakaian-pakaian ini tidak memiliki label harga yang sesuai dan tidak terawat, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Hup...! Yah. Nggak dapet. Udah kuduga...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "A-apa yang kamu lakukan?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "Ya mau ngambil satu lah. Maaf ya, Meur, tapi bisa ambilin yang kondisinya paling bagus? Ada banyak barang lain yang kecampur sama baju-baju itu juga.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 10,
+          "text": "... Dimengerti.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Mendapatkan 10 bola mata."
+        }
+      ]
+    },
+    {
+      "key": "D1964",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu tersembunyi di dalam celah dinding."
+        },
+        {
+          "index": 1,
+          "text": "Meursault mengambil Pakaian Ketinggalan Zaman Rouge."
+        }
+      ]
+    },
+    {
+      "key": "D1965",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Semua aroma mulai bercampur menjadi satu."
+        }
+      ]
+    },
+    {
+      "key": "D1966",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aroma asing tercium di udara. Ini pasti bagian parfum."
+        }
+      ]
+    },
+    {
+      "key": "D1967",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada sesuatu yang aneh dan ganjil dari bau ini. ... Baunya mulai tercium lebih seperti bau busuk."
+        }
+      ]
+    },
+    {
+      "key": "D1968",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tidak tercium bau apa pun. Aromanya pasti sudah menguap seiring berjalannya waktu."
+        }
+      ]
+    },
+    {
+      "key": "D1969",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Barang dagangan di sini berbeda dari yang ada di etalase sepanjang jalan."
+        }
+      ]
+    },
+    {
+      "key": "D1970",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pakaian yang tidak populer, mungkin? Semuanya dicampakkan begitu saja di sudut."
+        }
+      ]
+    },
+    {
+      "key": "D1971",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pakaian-pakaian tertumpuk sembarangan di sudut."
+        }
+      ]
+    },
+    {
+      "key": "D1972",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah rak dengan sesuatu yang dipajang."
+        }
+      ]
+    },
+    {
+      "key": "D1973",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Papan tanda bertuliskan, \"DISKON BESAR-BESARAN\"."
+        }
+      ]
+    },
+    {
+      "key": "D1974",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tertulis [Koleksi Origami ° 92, 1 dari 5]."
+        }
+      ]
+    },
+    {
+      "key": "D1975",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pajangan yang berbentuk seperti jalinan anggota tubuh yang saling melilit."
+        }
+      ]
+    },
+    {
+      "key": "D1500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jika aku duduk di benda ini, benda ini akan menjadi sebuah kursi."
+        },
+        {
+          "index": 1,
+          "text": "Tanpa memahami alasannya, aku menyadari bahwa aku tidak ingin melakukan itu."
+        }
+      ]
+    },
+    {
+      "key": "D1515",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Etalase pemajangan yang kosong."
+        }
+      ]
+    },
+    {
+      "key": "D1903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lampu pemanas ini tidak berfungsi."
+        }
+      ]
+    },
+    {
+      "key": "D1904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ishmael menyebutnya lampu pemanas salon. Aku ragu alat ini bisa melakukan apa pun selain menghangatkan kepalaku."
+        }
+      ]
+    },
+    {
+      "key": "D1907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ada bola mata di sini. Apa ada yang menjatuhkannya?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Apa itu sesuatu yang wajar dijatuhkan orang seperti uang receh?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Wanita yang mengaku sebagai adik Kromer itu bilang kalau bola mata berfungsi sebagai mata uang di tempat ini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Jadi ini <i>memang</i> uang receh, ya...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Sebelum ada yang sempat keberatan, Rodya menyelipkan bola mata itu ke dalam kantongnya."
+        }
+      ]
+    },
+    {
+      "key": "D1908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Ada bola mata di sini. Apa ada yang menjatuhkannya?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Apa itu sesuatu yang wajar dijatuhkan orang seperti uang receh?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Wanita yang mengaku sebagai adik Kromer itu bilang kalau bola mata berfungsi sebagai mata uang di tempat ini.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Jadi ini <i>memang</i> uang receh, ya...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Sebelum ada yang sempat keberatan, Rodya menyelipkan bola mata itu ke dalam kantongnya."
+        }
+      ]
+    },
+    {
+      "key": "D1909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kami mengambil bola mata yang dijatuhkan oleh seorang pelanggan."
+        }
+      ]
+    },
+    {
+      "key": "D1910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kami mengambil bola mata yang dijatuhkan oleh seorang pelanggan."
+        }
+      ]
+    },
+    {
+      "key": "D1950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Etalase pemajangan yang kosong."
+        }
+      ]
+    },
+    {
+      "key": "D1960",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dinding yang ditambal dengan Kulit Emas."
+        },
+        {
+          "index": 1,
+          "text": "Hawa keberadaannya samar, tapi rasanya seperti Ranting Emas."
+        }
+      ]
+    },
+    {
+      "key": "D1961",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>Meskipun memiliki keyakinan pada gagasan bahwa kau selalu bisa memilih, kau tetap tidak mampu benar-benar menentukan pilihan. Jadi... larilah. Larilah dari takdir ini, sistem ini.</color>"
+        },
+        {
+          "index": 1,
+          "text": "Dentang tawa yang lembut dan hangat melewatinya saat ujung jari diletakkan di dinding."
+        },
+        {
+          "index": 2,
+          "text": "Cahaya pucat, yang mengingatkan pada Ranting Emas, berkilauan di bawah permukaannya."
+        }
+      ]
+    },
+    {
+      "key": "D1502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada sesuatu yang dicoret-coret di tiang petunjuk jalan."
+        },
+        {
+          "index": 1,
+          "text": "[Dante... Meursault... begitu kalian melihat pesan ini, temui aku di Aula Kontemporer Le Rouge. Tepat di atas sini.]"
+        },
+        {
+          "index": 2,
+          "text": "[Kalian tidak datang di musim ini juga. Ke mana... Ke mana semuanya... pergi...?]"
+        },
+        {
+          "index": 3,
+          "text": "Coretan itu berlanjut terus sampai ke bagian bawah tiang petunjuk jalan."
+        },
+        {
+          "index": 4,
+          "text": "... Pwie sepertinya meninggalkan pesan untuk kita.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<Catatan-catatan ini kelihatan... kuno... Tulisan Pwie di bagian atas sudah begitu lapuk sampai aku hampir nggak bisa membaca tulisannya.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Semuanya sudah Dilikuidasi. Dan Pwie terus mencari kita setelah akhir itu... sampai...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Ada sesuatu yang tertulis di sudut."
+        },
+        {
+          "index": 8,
+          "text": "[Aku tidak bisa tinggal di lantai bawah lebih lama lagi. Aku harus naik. Aku harus memangsa. Aku harus mengonsumsi.]"
+        },
+        {
+          "index": 9,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tiang petunjuk jalan toko departemen yang dipenuhi coretan pesan Pwie. Sudah berapa musim yang berlalu sejak pesan terakhir...?"
+        }
+      ]
+    },
+    {
+      "key": "D1501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kios yang kosong. Hanya botol-botol kosong dan butiran debu yang menggelinding di dalamnya."
+        }
+      ]
+    },
+    {
+      "key": "D1508",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lapisan debu telah menutupi patung itu. Tidak ada pakaian yang terpasang padanya."
+        }
+      ]
+    },
+    {
+      "key": "D1505",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan-potongan kain hitam terlihat di sana-sini. Pasti terbuat dari anggota Le Noir."
+        }
+      ]
+    },
+    {
+      "key": "D1506",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Potongan kulit yang robek separuh ditambal sembarangan di atasnya."
+        },
+        {
+          "index": 1,
+          "text": "[Tak disangka bahwa sang Suara berkenan menghiasi Aula Kontemporer hamba secara langsung...]"
+        },
+        {
+          "index": 2,
+          "text": "[Meskipun kami tidak berhasil menemukan sekelompok orang asing yang dicari sang Suara...]"
+        },
+        {
+          "index": 3,
+          "text": "[... merek hamba akhirnya akan diterima masuk ke Aula Mewah...]"
+        },
+        {
+          "index": 4,
+          "text": "Pwie pasti telah mengumpulkan para Rouge di sini sebelum menuju ke Aula Mewah."
+        },
+        {
+          "index": 5,
+          "text": "... Walau aku tidak tahu berapa banyak musim yang telah berlalu sejak saat itu. Bisa puluhan, atau bahkan lebih."
+        }
+      ]
+    },
+    {
+      "key": "D1507",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Menurut jurnal yang ditinggalkan oleh seorang Rouge ini, Pwie pasti telah mengumpulkan para Rouge di sini sebelum menuju ke Aula Mewah."
+        },
+        {
+          "index": 1,
+          "text": "... Walau aku tidak tahu berapa banyak musim yang telah berlalu sejak saat itu. Bisa puluhan, atau bahkan lebih."
+        }
+      ]
+    },
+    {
+      "key": "D1504",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Puing-puing yang runtuh menghalangi jalan kita. Siapa yang akan menyingkirkan ini untuk kita, sekarang setelah para Kaki pun telah lenyap?"
+        }
+      ]
+    },
+    {
+      "key": "D1509",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lantai bawah... telah jatuh ke dalam kekacauan. Siklus agung masih bertahan, tetapi kini telah berubah menjadi neraka hidup tempat satu sama lain saling memangsa.",
+          "speaker": "Le Néant"
+        },
+        {
+          "index": 1,
+          "text": "Orang-orang asing. Kalian harus terus memanjat jika ingin memenuhi kehendak sang Suara. Lantai-lantai bawah tidak lagi memiliki tujuan bagi kalian.",
+          "speaker": "Le Néant"
+        }
+      ]
+    }
+  ]
+}
