@@ -1,0 +1,337 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Area produk kecantikan, 1F",
+      "model": "로쟈",
+      "content": "Kenapa semua orang begitu terobsesi dengan... tumpukan mayat yang hancur ini? Dan ada apa dengan cahaya terang itu...? Apakah orang-orang itu mencari emas yang dipakai oleh mayat-mayat ini ketika mereka masih hidup?"
+    },
+    {
+      "id": 1,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh? \"ketika mereka masih hidup?\""
+    },
+    {
+      "id": 2,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Bwahahaha!"
+    },
+    {
+      "id": 3,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Kalian benar-benar selalu membuatku terhibur! \"Sebelum mereka mati\"—bagus sekali"
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Mungkinkah dia...>"
+    },
+    {
+      "id": 5,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Lihat, yang itu jatuh dari lantai enam, yang berarti mereka menyerah untuk mencapai Customer Service Center. atau terjadi sebuah keributan atau perkelahian karena memperebutkan sepotong Kulit Emas yang tidak berakhir menguntungkan mereka."
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Uh... okay... menyerah untuk mencapai Customer Service... aku paham sepertinya, tapi mengapa menyerah membuat mereka sampai jatuh ke lantai satu?"
+    },
+    {
+      "id": 7,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Saatnya giliranku untuk bertanya! Kenapa kita harus melangkahkan kaki satu per satu untuk berjalan?"
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "apa...?"
+    },
+    {
+      "id": 9,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "... Sekarang kamu paham bagaimana rasanya mendengarkan pertanyaanmu yang tak ada habisnya?"
+    },
+    {
+      "id": 10,
+      "model": "로쟈",
+      "content": "tidak terlalu..."
+    },
+    {
+      "id": 11,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Dan para pelanggan tidak tertarik pada cangkang kosong seperti itu, atau pada \"tumpukan mayat\" yang kau bilang sebelumnya \"hidup\"—mereka mencari bola mata yang pernah dimilikinya, atau... serpihan kulit emas yang </i>mungkin</i> masih ada, kalau mereka beruntung."
+    },
+    {
+      "id": 12,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Omong-omong. bagaimana bisa kau berhasil keluar dari <i>sana</i>?"
+    },
+    {
+      "id": 13,
+      "model": "로쟈",
+      "content": "\"Disana\"...? The restroom, maksudmu?"
+    },
+    {
+      "id": 14,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Shh...! haruskah kau berbicara sekeras itu? apakah kau sengaja ingin membuat manajer lantai marah"
+    },
+    {
+      "id": 15,
+      "model": "로쟈",
+      "content": "...? Huh? apa yang aku katakan...?"
+    },
+    {
+      "id": 16,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "aku belum pernah melihat seorang pelanggan keluar dari fount. sekalipun belum pernah. dari semua musim yang pernah aku lewati, aku tidak pernah melihat pintu itu terbuka."
+    },
+    {
+      "id": 17,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Dan kalian... masih sangat lusuh dan ketinggalan jaman. Begitu banyak untuk semua belanja itu, ya?"
+    },
+    {
+      "id": 18,
+      "content": "Ada sesuatu yang hampir tak terasa telah berubah dari apa yang kuingat tentang percakapan ini. Jawabannya berbeda begitu pula sikapnya. Jika sebelumnya aku masih belum yakin, kini aku sudah yakin."
+    },
+    {
+      "id": 19,
+      "content": "Kromer mengingat \"akhir\" dari Grand Magasin yang mendambakan keabadian."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "dan ini seharusnya menjadi jawaban atas pertanyaan siapa dirimu?"
+    },
+    {
+      "id": 22,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh, aku?"
+    },
+    {
+      "id": 23,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Ya ampun. Aku cukup malu untuk memperkenalkan diri secara terbuka, tahukah kamu... Akulah \"Pertapa,\" lho."
+    },
+    {
+      "id": 24,
+      "model": "히스클리프",
+      "content": "... Lass memiliki tampilan \"pengkhianat dari belakang\" yang tertulis di seluruh mugnya, jelas sekali. Kita tidak bisa begitu saja memikirkan omong kosong apa yang dia bicarakan, jadi mari kita hibur dia sebentar dan buat kita bersemangat."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Hei, beritahu itu pada seluruh tim, ya? Bukan aku yang harus kamu yakinkan, kamu tahu..."
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "Sejak kita bertemu denganmu, yang kau lakukan hanya mengoceh omong kosong. Jelaskan posisimu: kau kawan atau lawan?"
+    },
+    {
+      "id": 27,
+      "model": "오티스",
+      "content": "kalau kau berniat membantu kami, katakan apa imbalannya. jika kau memberikan kita jaminan aneh bahwa kau ingin membantu tanpa meminta apapun sebagai balasan, kami akan menganggapnya sebagai tipu daya... dan menganggapmu sebagai musuh."
+    },
+    {
+      "id": 28,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Saya hanya ingin satu hal. Sejak Sisyphe dibuka hingga saat ini, aku menginginkan satu hal itu saja:"
+    },
+    {
+      "id": 29,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Dekonstruksi keberadaan Grand Magasin setiap sudut dan sudutnya, sehingga tak seorang pun berani membuat sesuatu seperti ini lagi!!"
+    },
+    {
+      "id": 30,
+      "content": "Wanita itu merendahkan suaranya seolah menceritakan sebuah rahasia besar kepada kami."
+    },
+    {
+      "id": 31,
+      "model": "로쟈",
+      "content": "\"Dekonstruksi\"...?"
+    },
+    {
+      "id": 32,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Mmhmm. Berbahagialah orang yang menderita dalam penantiannya, karena tidak ada sesuatu pun yang tidak dapat mereka lakukan."
+    },
+    {
+      "id": 33,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Lihat? Itu sebabnya aku masih... menunggu."
+    },
+    {
+      "id": 34,
+      "content": "Penggalan pengalaman masa laluku mengingatkanku bahwa seorang sinner pasti sedang marah pada saat ini. Benar saja, aku berbalik dan menemukan Sinclair dengan tangan terkepal, seolah-olah dia sedang menahan keinginan untuk muntah."
+    },
+    {
+      "id": 35,
+      "content": "Jadi dia sudah menyadari siapa dia saat ini."
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<... Sinclair.>"
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "Manager... Sepertinya aku tahu siapa dia."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<Jika memang dia memang seperti itu yang kamu pikirkan... Jangan mengalihkan pandanganmu darinya, tidak peduli seberapa marah atau takutnya kamu.>"
+    },
+    {
+      "id": 39,
+      "content": "Kromer menatapku dengan seringai bengkok. Dia pasti mengingat kita juga..."
+    },
+    {
+      "id": 40,
+      "model": "싱클레어",
+      "content": "Kromer."
+    },
+    {
+      "id": 41,
+      "content": "Ekspresi Sinclair berubah menjadi es, suaranya memancarkan racun saat dia mengucapkan namanya."
+    },
+    {
+      "id": 42,
+      "model": "이상",
+      "content": "Meskipun aku tidak bisa menebak ekspresinya, ada rasa dingin yang menyelimuti setiap kata yang keluar dari mulutnya..."
+    },
+    {
+      "id": 43,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Jadi kamu akhirnya memutuskan untuk memanggilku dengan nama itu. Saya mulai bosan menunggu sepanjang waktu."
+    },
+    {
+      "id": 44,
+      "model": "로쟈",
+      "content": "... Oh."
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Yeah... Saya melihat kemiripannya sekarang..."
+    },
+    {
+      "id": 46,
+      "content": "Rodya bergumam pelan."
+    },
+    {
+      "id": 47,
+      "model": "돈키호테",
+      "content": "engkau..."
+    },
+    {
+      "id": 48,
+      "model": "돈키호테",
+      "content": "Engkau memiliki darah yang sama dengan Kromer. Lalu, mungkin..."
+    },
+    {
+      "id": 49,
+      "content": "Rasa dingin yang tajam diam-diam menyelinap ke dalam tatapan Don Quixote."
+    },
+    {
+      "id": 50,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh, tentu saja aku kakak perempuannya. Tunggu, <i>jangan</i> bilang kamu mengira aku adalah adik perempuannya."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "......."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "content": "Wanita jalang itu... dia membunuh keluargaku. Ayah... Ibu... Adikku... Dia mengambil semua orang dariku!"
+    },
+    {
+      "id": 53,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Yeah, sepertinya dia baik-baik saja. Kebiasaan kecilnya yang buruk. Dia akan memilih siapa pun dan apa pun yang dia sukai, terlepas dari apakah mereka dapat menerimanya atau tidak."
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "Jangan berani-berani meremehkan—"
+    },
+    {
+      "id": 55,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Astaga, baiklah, baiklah. Lagipula aku sudah selesai dengan percakapan konyol ini. Selanjutnya—Anda tahu kesepakatannya, bukan? Bergabunglah dengan saya, seterusnya dan seterusnya, bersama-sama kita akan mendekonstruksi Grand Magasin, yadi yada."
+    },
+    {
+      "id": 56,
+      "model": "싱클레어",
+      "content": "... persetan, kau."
+    },
+    {
+      "id": 57,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Bukannya saya tidak menyangka hal itu datang dari jarak satu mil, tapi saya <i>sangat</i> patah hati dengan penolakan itu. Tapi jangan khawatirkan aku. Anda sudah membantu saya dengan cara yang bahkan tidak dapat Anda bayangkan!"
+    },
+    {
+      "id": 58,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Hal-hal besar dimulai sekali lagi dalam diri Sisyphe, orang asing milikku dan pembunuh adik perempuanku tersayang. Hebat, spektakuler, dan luar biasa. Anda mungkin menantikannya."
+    }
+  ]
+}
