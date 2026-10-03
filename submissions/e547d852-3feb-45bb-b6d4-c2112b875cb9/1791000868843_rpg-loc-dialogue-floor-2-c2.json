@@ -1,0 +1,42 @@
+{
+  "dataList": [
+    {
+      "key": "D2501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Para Noir meninggalkan tumpukan pakaian di dasar pilar ini."
+        },
+        {
+          "index": 1,
+          "text": "Meskipun dulunya pasti barang mewah, pakaian-pakaian ini telah kehilangan nilainya setelah terbengkalai sekian lama."
+        }
+      ]
+    },
+    {
+      "key": "D2502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Aku tak tahu apa kau cuma penasaran, atau kalau kau cuma ingin membunuhku, tapi aku tak peduli. Lakukan sesukamu.",
+          "speaker": "Le Néant"
+        },
+        {
+          "index": 1,
+          "text": "Lagi pula, \"kehidupan\" di sini hanyalah simulasi tak berarti yang akan sirna begitu Grand Magasin hancur.",
+          "speaker": "Le Néant"
+        }
+      ]
+    },
+    {
+      "key": "D2503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Orang-orang asing itu berhasil melakukannya. Semuanya terjadi persis seperti yang dia katakan.",
+          "speaker": "Le Néant"
+        }
+      ]
+    }
+  ]
+}
