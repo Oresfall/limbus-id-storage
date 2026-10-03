@@ -1,0 +1,484 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_SISYP_INTRO",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Terima kasih telah bergabung dalam perjalanan ini dengan penuh kesukarelaan.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Jadi... kurasa kau ingin bertanya, \"Kita ada di mana?\" Tempat ini agak sulit untuk diberi nama. Tempat ini terikat pada <i>konsep</i> lantai enam, tetapi juga menjadi tempat di mana seluruh lantai yang telah kau lalui mengalir mundur, bercampur dan tergerus bersama menjadi sedimen.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Inventaris yang tak terjual, stok di luar musim, barang sisa, pengembalian, dan hal-hal yang terlewatkan hingga toko sendiri lupa barang itu pernah ada di sana. Pembedaan semacam itu tidak berarti apa-apa di sini, karena segala hal yang telah kau lalui sejauh ini telah dihancurkan dan dicampur menjadi tumpukan yang sama di bawah kakimu.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>Lapisan demi lapisan saling menekan... hingga semuanya menjadi bukit yang keras dan licin ini.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>Cobalah untuk tidak terlalu memikirkannya, apa pun yang kebetulan kau pijak.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 5,
+          "text": "<color=#cf0000>Tugasmu sederhana, Meursault. Dorong batu besar itu sampai ke puncak.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 6,
+          "text": "<color=#cf0000>Tidak ada trik khusus. Cukup berikan dorongan, jaga arahmu, dan teruslah mendorong.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 7,
+          "text": "<color=#cf0000>Beberapa tanjakan mungkin terlalu licin. Yang lainnya mungkin terlalu curam.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 8,
+          "text": "<color=#cf0000>Tapi <i>kau</i> pasti bisa melakukannya, Meursault. Ingat semua pelatihan yang telah Kuberikan padamu?</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 9,
+          "text": "<color=#ffe066>Yah, coba lihat itu.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ffe066>Model-model. Sedang berjalan di atas catwalk.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 11,
+          "text": "<color=#ffe066>Mereka berjalan ke ujung, berbalik... lalu berjalan kembali. Tepat ke tempat mereka memulai. Berbalik lagi, lalu berlalulah mereka lagi.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 12,
+          "text": "<color=#ffe066>Hah! Memicu ingatanmu? Agak mirip dengan apa yang sedang kau lakukan, bukan?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 13,
+          "text": "<color=#ebcaa2>Ngomong-ngomong, bagaimana kondisi lenganmu? Aku ingin sekali membuatkanmu teh... tapi mungkin sebaiknya tidak. Lagipula, kau harus melepaskan batu besar itu untuk memegang cangkir teh, kan?</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Memulai untuk pertama kalinya dan kembali ke titik awal adalah dua hal yang sama sekali berbeda, Meursault.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>Pertama kali selalu terasa sama—kau tak kehilangan apa pun karena kau tidak menyadari apa yang terlibat di dalamnya. Tapi saat kedua kalinya memulai kembali, dan lalu saat berikutnya... Kau tahu seberapa jauh kau harus mendorong batu besar itu lagi.</color>",
+          "speaker": "Ibu"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>Pfft... Ups, aku bukannya tertawa padamu!</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>Atau mungkin kau berharap aku bakal menghiburmu dengan kata-kata klise?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>Begini pendapatku, sebenarnya. Terkadang, kegagalan ya cuma kegagalan. Tidak setiap kekalahan membawa pelajaran yang bisa dipelajari.</color>",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Apakah hal itu memicu amarahmu? Untuk itulah sebuah penjara ada.</color>",
+          "speaker": "Sang Chaplain"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Untuk terus mendorong, sembari mengetahui bahwa batu itu akan berguling kembali ke bawah... Untuk percaya bahwa kali ini kau akan mencapai ujungnya, hanya demi melihat kepastian itu hancur berkeping-keping. Itulah hukumanmu.</color>",
+          "speaker": "Sang Chaplain"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>Inilah jalan penyesalan. Sebuah jalan penderitaan... yang dibentangkan untuk menghukummu, Wahai Orang Berdosa.</color>",
+          "speaker": "Sang Chaplain"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Para model tidak akan berhenti begitu peragaan busana dimulai.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Aku penasaran apakah hal itu yang membuat langkah mereka terlihat indah.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Atau justru sebaliknya? Apakah mereka terus berjalan karena mereka harus terlihat indah?</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Menjadi seorang model adalah impian semua orang yang tinggal di Grand Magasin Sisyphe.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>Itu adalah impian yang hanya dapat terwujud dengan mengenakan pakaian mahal dan menjadi pusat dari tatapan tak terhitung jumlahnya. Itulah mengapa semua orang begitu putus asa untuk memanjat bahkan satu lantai lebih tinggi.</color>",
+          "speaker": "Ibu"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Namun meski begitu, setelah memanjat dan terus memanjat...</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Tidak ada hal lain yang tersisa untuk dilakukan selain terus berjalan di catwalk. Betapa sebuah hal yang patut diselamati, hmm?</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>Hei, pernahkah kau bertanya-tanya...</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>... apakah kau yang mendorong batu besar itu, atau batu besar itu yang menarik <i>dirimu</i> ke atas bukit?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>Latihan pikiran yang menarik, bukan? Coba lepaskan peganganmu sejenak. Aku mati penasaran ingin melihat apa yang akan terjadi.</color>",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_5",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Tatap lurus ke depan, Meursault.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>Tetap tegakkan dagumu. Pijakkan kakimu rata di atas tanah.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>Jangan biarkan mereka melihat penderitaanmu dan menanamkannya di kepala mereka sebagai sebuah penderitaan.</color>",
+          "speaker": "Ibu"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_6",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Ini... adalah hukuman yang dianugerahkan kepadamu, Wahai Orang Berdosa.</color>",
+          "speaker": "Sang Chaplain"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Jangan berani-berani berharap hal ini akan berakhir.</color>",
+          "speaker": "Sang Chaplain"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_7",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Ampas dari setiap lantai yang telah kau lalui bercampur jadi satu di sini.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Perhatikan baik-baik. Kau akan menemukan tumpukan utuh bola mata yang tertanam di dalamnya.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Beberapa orang telah menghabiskan seluruh hidup mereka hanya untuk mengumpulkannya.</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_8",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Pasti ada kaset rekaman suaraku juga di suatu tempat di sana.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>Setiap hari, aku pergi bekerja dan membacakan panduan itu untuk mereka, kata demi kata, dari bagian paling atas lembaran hingga paling bawah.</color>",
+          "speaker": "Ibu"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>Itulah peranku. Apakah aku setuju dengan kata-kata itu atau tidak, itu tak relevan. Kerinduan para penghuni Grand Magasin, rasa sakit mereka, kesenangan mereka... semuanya adalah bahan mentah untuk Canned Experiences.</color>",
+          "speaker": "Ibu"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_9",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>Haruskah aku memberitahumu seberapa jauh lagi untuk sampai ke puncak?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>Kau ingin tahu, bukan? Rasa penasaran itu menggerogotimu hidup-hidup, kan?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>Kau mungkin sudah melewati titik tengah. Atau... Hei, mungkin kau cuma berjarak beberapa langkah dari puncak? Atau, jika tidak... Pfft! Mungkinkah kau baru saja beranjak dari garis awal? Siapa yang tahu?</color>",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_LATE_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Tak apa-apa untuk berhenti.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>Oh, kau tidak boleh berhenti sekarang!</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>Menanggung beban secara penuh dan tidak melakukan apa pun selain mendaki. Itulah nasib seorang pembuat dosa.</color>",
+          "speaker": "Sang Chaplain"
+        },
+        {
+          "index": 3,
+          "text": "<color=#cf0000>Puncak bukanlah hal yang penting, Meursault. Yang terpenting adalah...</color>",
+          "speaker": "Ibu"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_LATE_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>Orang-orang suka menilai sebuah perjalanan dari ke mana perjalanan itu membawamu.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 1,
+          "text": "<color=#e1b643>Namun di sisi lain... kita makan, hanya untuk merasa lapar kembali.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 2,
+          "text": "<color=#e1b643>Kita membersihkan diri, lalu menjadi kotor kembali.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 3,
+          "text": "<color=#e1b643>Kita tidur hanya untuk merasa lelah kembali. Kita masing-masing tahu bahwa inilah kebenarannya. Namun demikian...</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 4,
+          "text": "<color=#e1b643>Kita terus menyiapkan makan malam, menghangatkan air mandi, dan memadamkan lampu, sembari mengucapkan \"tidur nyenyak\" dan \"selamat malam\".</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 5,
+          "text": "<color=#e1b643>Mengapa kau memaksakan diri memanjat bukit ini, Meur?</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 6,
+          "text": "<color=#e1b643>Kau bisa saja membalut dirimu sendiri dalam rantai-rantai itu dan menemukan kedamaianmu sendiri.</color>",
+          "speaker": "Carmen"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_ARRIVE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>Kau akhirnya berhasil mencapainya. Puncak bukit ini.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 1,
+          "text": "<color=#e1b643>Kau bisa melepaskannya sekarang.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 2,
+          "text": "<color=#e1b643>Batu besar itu akan berguling kembali ke bawah. Tapi... itu bukanlah hal yang penting, bukan?</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 3,
+          "text": "<color=#e1b643>Sekarang datang dan lihatlah anak itu. Datang dan lihatlah Grand Magasin... Datang dan lihatlah <i>aku</i>.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 4,
+          "text": "<color=#e1b643>Batu besar itu akan berguling kembali ke bawah, tapi itu tidak apa-apa.</color>",
+          "speaker": "Carmen"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FINALE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>Datang dan lihatlah aku sekarang.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Datang dan lihatlah aku sekarang.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>Datang dan lihatlah aku sekarang.</color>",
+          "speaker": "Sang Chaplain"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ffe066>Datang dan lihatlah aku sekarang.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "<color=#cf0000>Datang dan lihatlah aku sekarang.</color>",
+          "speaker": "Ibu"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_HOKMA",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kau seharusnya diizinkan untuk menjadi dirimu apa adanya.\nTidak terikat oleh siapa pun atau apa pun.",
+          "speaker": ""
+        },
+        {
+          "index": 1,
+          "text": "Ada sebuah sungai yang mengalir di dasar dunia yang paling dalam.",
+          "speaker": ""
+        },
+        {
+          "index": 2,
+          "text": "Sebagai makhluk yang terlahir sebagai manusia, kita tidak bisa tidak terpengaruh oleh impian kemanusiaan yang dibagikan oleh sungai tersebut.\nAku tidak akan membantah hal itu. Itu hanyalah bagian dari menjadi manusia.",
+          "speaker": ""
+        },
+        {
+          "index": 3,
+          "text": "Namun \"kebudayaan,\" yang didapatkan dan tidak alami, hal-hal yang ditentukan oleh orang lain... tidak boleh mendefinisikan bentuknya.",
+          "speaker": ""
+        },
+        {
+          "index": 4,
+          "text": "Aku ingin kau menjadi dirimu sepenuhnya, walau hanya sejenak. Faktanya, aku ingin umat manusia itu sendiri dapat mengalaminya.",
+          "speaker": ""
+        },
+        {
+          "index": 5,
+          "text": "Aku ingin memberikan kesempatan itu, melimpahkan kekuatan untuk mencapainya.",
+          "speaker": ""
+        },
+        {
+          "index": 6,
+          "text": "Setelah bertahun-tahun bekerja keras dan merenung, juniorku telah mencapai pencerahan tertentu—dan filosofinya pada akhirnya ditetapkan dalam cara yang berseberangan dengan jalanku.",
+          "speaker": ""
+        },
+        {
+          "index": 7,
+          "text": "Ayin memiliki nilai-nilai yang dulu kupercayai dan kuberusaha sampaikan kepada dunia, dan kini berusaha memberi orang-orang... \"alat.\" Pakaian.",
+          "speaker": ""
+        },
+        {
+          "index": 8,
+          "text": "Namun jawabanku tetap sama.",
+          "speaker": ""
+        },
+        {
+          "index": 9,
+          "text": "\"Dirimu\" harus diizinkan untuk tetap menjadi dirimu sepenuhnya.\nTanpa terbelenggu oleh apa pun.",
+          "speaker": ""
+        },
+        {
+          "index": 10,
+          "text": "",
+          "speaker": ""
+        }
+      ]
+    }
+  ]
+}
