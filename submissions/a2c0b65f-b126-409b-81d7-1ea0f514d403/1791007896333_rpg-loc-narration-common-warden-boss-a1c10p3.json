@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_WARDEN_CANDLE_MARK",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Haha...! Kalian tidak tahu sudah berapa lama aku menunggu momen ini, orang asing!"
+        }
+      ]
+    },
+    {
+      "key": "NAR_WARDEN_CANDLE_YELLOW",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Arahkan seranganmu ke arah lilin, dan... Yah, anggap saja kamu akan menyukai apa yang terjadi selanjutnya!"
+        }
+      ]
+    }
+  ]
+}
