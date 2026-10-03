@@ -1,0 +1,51 @@
+{
+  "dataList": [
+    {
+      "key": "I990931",
+      "displayName": "Syal",
+      "statText": "Di Symbolic, <color=#fe4b48>Damage</color> Diberikan +350\nDi Symbolic, HP tidak turun di bawah 1",
+      "description": "Syal yang dikasih sama wanita bergaun biru yang mirip banget sama Demian. Begitu dibawa, ada sensasi aneh seolah-olah aku lagi dilindungi dari segala hal.\n\nAntara rasa kasihan karena kegagalan atau cuma dorongan buat jalan yang masih panjang di depan, ada kehangatan yang kerasa mirip kayak lautan.\n\nLautan itu menakutkan karena kita hampir nggak tahu seberapa dalam dasarnya... tapi rasanya tempat itu siap merengkuh segalanya ke dalam pelukannya."
+    },
+    {
+      "key": "I990430",
+      "displayName": "Bros Compang-camping",
+      "statText": "Saat bertarung di Shadowed, ketika kawan ditarget oleh serangan multi-Atk Weight musuh, beri Perisai setara dengan 15% dari maks <color=#00ff9c>HP</color> mereka sebelum terkena serangan\n- 2 kali per Pertemuan\n\nSelama pertarungan di Shadowed, ketika kawan atau musuh mati, beri 2 <color=#F8C200>Bind</color> pada seluruh musuh giliran berikutnya\n- Sekali per giliran",
+      "description": "Sama kayak orang asing lainnya, dia masuk lewat lantai 1, jadi pelanggan, terus setelah sekian lama bertahan, dia berhasil naik jadi Manajer Lantai. Ini adalah benda yang dibuat sama entitas itu.\n\nDia bertahan melewati berlalunya waktu dan Zaman sampai rasa bertahan itu sendiri berubah jadi sifat alaminya."
+    },
+    {
+      "key": "I990502",
+      "displayName": "Otoritas",
+      "statText": "Saat bertarung di Shadowed, pada Awal Clash terhadap target dengan Speed yang lebih cepat dari unit ini, beri 1 <color=#F8C200>Bind</color> pada target tersebut giliran berikutnya\n- Sekali per giliran\n\nSelama pertarungan di Shadowed, beri +10% <color=#fe4b48>Damage</color> ke target dengan Speed lebih lambat daripada unit ini",
+      "description": "Dia punya peran yang udah ditugaskan buat dia. Sebuah pekerjaan.\n\nPekerjaannya udah distandardisasi, dibukukan ke dalam panduan. Dia tinggal lapor ke Menara Sisyphe, ngulangin kalimat yang sama, dan bikin siaran yang sama hari demi hari.\n\nKayak karyawan lainnya, dia bakal menghitung menit demi menit sampai jam kerjanya selesai.\n\nTapi ada satu keyakinan yang dipegangnya erat-erat: Sistem Sisyphe harus tetap ada dan dijaga, demi N Corp. dan Kota secara keseluruhan.\n\nSebagai Sosok yang Memaku, dan orang yang dipercayakan membawa palu, keyakinan itu udah tertanam sangat dalam di dalam dirinya."
+    },
+    {
+      "key": "I990503",
+      "displayName": "Konsumsi",
+      "statText": "Saat bertarung di Shadowed, saat Menang Clash, pulihkan (Final Power Skill  x 1.5) <color=#00ff9c>HP</color> (sekali per giliran per Identitas)\n- Untuk Skill E.G.O, x1 daripada x1.5 (dibulatkan ke bawah)\n- Identitas yang <color=#00ff9c>disembuhkan</color> oleh efek ini peroleh 1 <color=#fe4b48>Damage</color> Up giliran berikutnya (sekali per giliran per Identitas)",
+      "description": "Makan dan makan, tapi rasa lapar itu bakal selalu datang lagi. Semua orang juga begitu; bedanya cuma seberapa lama waktu yang dibutuhkan. Mau sekenyang apa pun, perut bakal kosong lagi.\n\nBuat anak ini, jeda waktu itu terasa sangat singkat dan nggak wajar, karena mereka terlahir buat kelaparan, terlahir dengan ekspektasi kalau mereka bakal terus memangsa.\n\nMereka dipaku kuat-kuat ke dalam peran seorang dewa yang nggak boleh berhenti makan."
+    },
+    {
+      "key": "I990003",
+      "displayName": "Tali",
+      "description": "Sebuah tali. Tali ini menahan targetnya di tempat dengan cara yang beda dari paku. Bagaimanapun juga, ada perbedaan besar antara menembus sesuatu sampai tembus dan mengikat sesuatu dengan kencang."
+    },
+    {
+      "key": "I990005",
+      "displayName": "Ketenangan",
+      "statText": "Di Symbolic, <color=#F8C200>Waktu charge Level 3 Garde</color> dikurangi agar setara dengan waktu Level 1 Garde\n- Setelah di charge penuh, <color=#F8C200>Garde</color> selalu aktif sebagai <color=#F8C200>Level 3</color>\n\nDi Symbolic, <color=#F8C200>Attack Chain 2</color> peroleh lebar +1 ubin di sisi kiri dan kanan\n- Sisi yang ditambahkan tidak terpengaruhi dari efek penambah jarak serang\n\nSelama pertarungan di Symbolic, ketika Sang Penjaga memanggil player ke area tertentu,\n- Player dapat menghancurkan lilin yang jatuh di area tersebut (menghancurkan lilin <color=#00ff9c>memulihkan</color> 1 <color=#00ff9c>HP</color>)\n- <color=#fe4b48>Damage</color> Diterima dari Sang Penjaga -25% di pertarungan Symbolic tersebut",
+      "description": "Seseorang mungkin bisa memperlambat diri hingga sangat dekat dengan ketenangan sempurna, tapi itu kondisi yang nggak bakal pernah bisa dicapai. Nggak bisa dibayangin bahkan sebagai ide sekali pun. Ya begitulah susunan tubuh manusia.\n\nKekuatan Pengawas membuat ketidakmungkinan itu jadi nyata—\"Diamlah.\"\n\n\"Nggak, itu bukan aku. Aku menolak buat diam.\" Kata-kata ini berusaha keras buat mendobrak dari dalam melawan penghakiman itu.\n\nDia bakal menghancurkan apa yang udah ditenangkan. Dia bakal memberontak.\nKarena sensasi itu udah mulai bangkit dari dalam."
+    },
+    {
+      "key": "I990935",
+      "displayName": "Kipas Lapuk",
+      "statText": "Saat bertarung di Shadowed:\nIdentitas \"Sisyphe\" beri +10% <color=#fe4b48>damage</color> terhadap musuh",
+      "description": "Kipas ini melapuk dimakan waktu bersama dengan toko serba ada itu sendiri, menyatukan luka demi luka dengan kain.\n\nIni adalah bukti kemenangan melawan sosok yang bertahan menghadapi beratnya waktu dan pada akhirnya hancur di bawahnya."
+    },
+    {
+      "key": "I990936",
+      "displayName": "Sepatu Bunga Bernoda Merah Tua",
+      "statText": "Saat bertarung di Shadowed,\n- Awal Giliran: 1 unit dengan HP terendah diantara Identitas yang terkena Stagger <color=#F8C200>pulih dari Stagger</color>; lalu, kawan tersebut <color=#00ff9c>memulihkan</color> 20% <color=#00ff9c>HP</color>\n- Jika unit tersebut adalah Identitas \"Le Rouge\", peroleh 2 <color=#fe4b48>Attack Power Up</color> saja daripada efek pemulih HP\n- 2 kali per Pertemuan",
+      "description": "Sepatu bunga yang dulunya membawa aroma musim semi kini terakumulasi kotoran kental, hampir nggak berbekas dari wujud aslinya.\n\nTapi tetap aja, dari suatu tempat yang tersembunyi di balik kotoran lengket itu, tercium jejak samar angin musim semi...\n\nAroma tipis yang mengingatkan pada hari-hari yang dihabiskan berjalan di samping Pwie."
+    }
+  ]
+}
