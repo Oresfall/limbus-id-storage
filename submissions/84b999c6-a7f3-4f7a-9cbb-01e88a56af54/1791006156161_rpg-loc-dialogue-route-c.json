@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "key": "D1901_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Untuk menemukan jalan yang kamu inginkan... Kamu harus mengalahkan Sang Penjaga.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D1014_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... (Dia menatapku tanpa mengucapkan sepatah kata pun. Senyum tenang di wajahnya menandakan bahwa dia melihat kita dengan baik.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10141_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Itu toiletnya.",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "<Benar...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<Tunggu dulu... Dia bisa mengerti suara detakku?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "... (Dia tidak mengatakan apa-apa lagi, tetapi senyumnya masih tetap ada.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10142_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Teruslah mengikuti bintang itu, maka suatu hari nanti...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "... Bintang...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "Sinclair tampaknya tenggelam ke dalam dirinya sendiri, larut dalam pemikiran yang mendalam."
+        }
+      ]
+    },
+    {
+      "key": "D10143_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "(Dia tidak menjawab. Sepertinya segala usaha untuk mengungkap identitasnya akan sia-sia.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D1902_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Untuk menemukan jalan yang kamu inginkan... Kamu harus mengalahkan Sang Penjaga.",
+          "speaker": "???"
+        }
+      ]
+    }
+  ]
+}
