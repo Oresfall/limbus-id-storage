@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "key": "Q5000_C2",
+      "title": "Jelajahi 5F",
+      "description": "Kita sudah di 5F. Ayo terus bergerak ke dalam.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q5001_C2",
+      "title": "Hentikan Buffet",
+      "description": "Yang menunggu kita di 5F adalah Buffet, yang belum membesar ke wujud raksasa seperti sebelum Likuidasi.\n\nMereka ingin kita tetap di sini, tapi kita nggak bisa. Kita harus mengalahkan Buffet agar bisa terus maju.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Hentikan Buffet"
+        }
+      ]
+    },
+    {
+      "key": "Q5002_C2",
+      "title": "Jelajahi 5F",
+      "description": "Buffet, Dewa Crimson Le Rouge yang juga merupakan rekan kita, Pwie... telah terdiam. Kita harus melangkah lebih dalam ke 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Jelajahi 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q5003_C2",
+      "title": "Menuju ke 6F",
+      "description": "Jalan menuju 6F terbuka setelah Meursault menyelesaikan makanannya.\n\nAyo naik ke 6F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Menuju ke 6F"
+        }
+      ]
+    },
+    {
+      "key": "Q5004T_C2",
+      "title": "뷔페 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "뷔페 개전"
+        }
+      ]
+    }
+  ]
+}
