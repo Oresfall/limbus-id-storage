@@ -1,0 +1,413 @@
+{
+  "dataList": [
+    {
+      "id": "NoirNoComply",
+      "name": "Ketidakpatuhan Instruksi",
+      "desc": "- Stack Maks: 3\n- Terima +5% damage untuk setiap Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kegagalan untuk mematuhi instruksi doktrin merek dapat mengakibatkan tindakan perbaikan untuk menjaga integritas tujuan merek."
+    },
+    {
+      "id": "NoirBindArmor",
+      "name": "Le Noir: Worsted",
+      "desc": "- Stack Maks: 15\n- Untuk setiap 5 Stack, Maks Speed -1, Offense Level +1, Defense Level +1\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Worsted Le Noir menjaga tubuh seperti baju besi, menonjolkannya di bawah siluet yang kokoh dan kokoh."
+    },
+    {
+      "id": "ChargeNoir",
+      "name": "Preservasi",
+      "desc": "- Charge Unik\n- Count Maks: 20\n- Berinteraksi sama seperti Charge normal pada efek yang menambah atau mengurangi Potency dan Count Charge\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": "ChargeRouge",
+      "name": "Pulsasi",
+      "desc": "- Charge Unik\n- Count Maks: 20\n- Berinteraksi sama seperti Charge normal pada efek yang menambah atau mengurangi Potency dan Count Charge\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kontraksi dan relaksasi daging. Aliran darah. Kekuatan ledakan yang didorong oleh mereka semua."
+    },
+    {
+      "id": "RisingMadnessRouge",
+      "name": "Mentari",
+      "desc": "- Stack Maks: 2\n- Akhir Giliran: Kehilangan 1 Stack\n- Awal Giliran: Pada 0 Stack, beri efek berikut:\n· Peroleh 1 Damage Up dan 1 Fragile\n· Ubah Coin pada semua Skill menjadi Unbreakable Coin, dimulai dari Coin terakhir (jumlah Coin yang diubah di tiap Skill setara dengan Potency Pulsasi pada diri sendiri)\n· Akhir Giliran: Pulihkan Stack efek ini menjadi Maks giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kau dapat menjadi..."
+    },
+    {
+      "id": "RisingMadnessRouge2nd",
+      "name": "Sengatan Mentari",
+      "desc": "- Stack Maks: 1\n- Akhir Giliran: Kehilangan 1 Stack\n- Awal Giliran: Pada 0 Stack, beri efek berikut:\n· Peroleh 2 Power Up, 2 Damage Up, dan 3 Fragile\n· Ubah Coin pada semua Skill menjadi Unbreakable Coin, dimulai dari Coin terakhir (jumlah Coin yang diubah di tiap Skill setara dengan Potency Pulsasi pada diri sendiri)\n· Akhir Giliran: Pulihkan Stack efek ini menjadi Maks giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sinar Matahari membisikkan kepada semua yang disentuhnya, terus menghajar bahkan ketika panasnya meningkat dari tusukan di kulit hingga rasa sakit yang tak tertahankan dan membakar, dan subjeknya dimasak hidup-hidup."
+    },
+    {
+      "id": "RisingMadnessNoir",
+      "name": "Mentari",
+      "desc": "- Stack Maks: 2\n- Akhir Giliran: Kehilangan 1 Stack\n- Awal Giliran: Pada 0 Stack, beri efek berikut:\n· Peroleh 1 Damage Up dan 1 Fragile\n· Ubah Coin pada semua Skill menjadi Unbreakable Coin, dimulai dari Coin terakhir (jumlah Coin yang diubah di tiap Skill setara dengan Potency Preservasi pada diri sendiri)\n· Akhir Giliran: Pulihkan Stack efek ini menjadi Maks giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kau dapat menjadi..."
+    },
+    {
+      "id": "RisingMadnessNoir2nd",
+      "name": "Sengatan Mentari",
+      "desc": "- Stack Maks: 1\n- Akhir Giliran: Kehilangan 1 Stack\n- Awal Giliran: Pada 0 Stack, beri efek berikut:\n· Peroleh 2 Power Up, 2 Damage Up, dan 3 Fragile\n· Ubah Coin pada semua Skill menjadi Unbreakable Coin, dimulai dari Coin terakhir (jumlah Coin yang diubah di tiap Skill setara dengan Potency Preservasi pada diri sendiri)\n· Akhir Giliran: Pulihkan Stack efek ini menjadi Maks giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sinar Matahari membisikkan kepada semua yang disentuhnya, terus menghajar bahkan ketika panasnya meningkat dari tusukan di kulit hingga rasa sakit yang tak tertahankan dan membakar, dan subjeknya dimasak hidup-hidup."
+    },
+    {
+      "id": "RougeThreeNormal",
+      "name": "Butik: Seri Baru",
+      "desc": "- Stack Maks: 20\n\nSaat Memakai Skill, konsumsi 1% dari maks HP pada diri sendiri untuk memberi +(HP dikonsumsi) damage Skill",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ikuti suara hangatnya... memasuki musim baru...!"
+    },
+    {
+      "id": "RougeThreeCocoon",
+      "name": "Ruang Ganti",
+      "desc": "- Stack Maks: 3\n- Tidak menerima damage HP\n- Ketika diserang, beri efek berikut: (20 kali per giliran):\n· Peroleh +1 Count Pulsasi\n· Peroleh 1 Damage Up\n· Peroleh 1 Defense Level Down giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Peringatan: Memperbaiki gaun yang cacat. Kita semua tahu tata krama di ruang ganti, bukan?"
+    },
+    {
+      "id": "RougeThreeCocoonHit",
+      "name": "Penganiayaan",
+      "desc": "- Stack Maks: 20",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Mengganggu seseorang saat mereka di ruang ganti...? Ini penganiayaan, penganiayaan terhadap imanku...!"
+    },
+    {
+      "id": "SapsareeShield",
+      "name": "Tolong, makan aku...",
+      "desc": "- Ketika Sous Chef akan menerima Serangan Tanpa Lawan dari musuh, konsumsi 1 Stack untuk memindahkan target musuh ke diri sendiri; lalu ginakan Skill Assist Defense eksklusif\n- Ketika ada beberapa kawan yang memiliki Stack Assist Defense, kawan dengan Stack tertinggi mendapat prioritas aktivasi\n- Efek ini dihitung sebagai Assist Defense, dan dihitung terhadap perhitungan Stack Assist Defense\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "SapsareeYammi",
+      "name": "Makan lezat dan semangatlah, kau dengar?",
+      "desc": "- Stack Maks: 5\n- Offense Level +1 untuk setiap Stack\n- Awal Giliran: Kehilangan 1 Stack untuk setiap \"Punya nafsu makan, kau dengar?\" pada diri sendiri",
+      "summary": "",
+      "flavor": "Bukan kekenyangan dari rasa, tapi dari kepenuhan yang tidak dimurnikan."
+    },
+    {
+      "id": "SapsareeCooking",
+      "name": "Bahan Cincang",
+      "desc": "- Stack Maks: 5\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "flavor": "Dicincang secara sembarangan tanpa tujuan lain selain agar bisa masuk ke dalam kerongkongan. Tak ada sedikit pun filosofi kuliner atau kepedulian di setiap cincangannya."
+    },
+    {
+      "id": "SapsareeHungry",
+      "name": "Punya nafsu makan, kau dengar?",
+      "desc": "- Stack Maks: 3\n- Offense Level +1 untuk setiap Stack\n- Pada 3 Stack, beri +50% damage\n- Kadaluarsa ketika Sous Chef menggunakan Skill \"Aah! Aku sedang istirahat, kau dengar?\"",
+      "summary": "",
+      "flavor": "Kelaparan yang puas dengan apa pun yang dijejalkan ke dalam perut. Begitulah sifat mereka yang bertahan hidup di sini."
+    },
+    {
+      "id": "SapsareeSpices",
+      "name": "Saus Berapi Pembakar Lidah",
+      "desc": "- Stack Maks: 3\n- Offense Level -1 untuk setiap Stack",
+      "summary": "",
+      "flavor": "Solusi koki malas untuk menyamarkan kualitas bahan yang di bawah standar."
+    },
+    {
+      "id": "Sapsaree_LowMorale",
+      "name": "Kerinduan Kuliner",
+      "desc": "- Moral Rendah\n- Offense Level +1 dan terima +3% damage untuk setiap Stack \"Punya nafsu makan, kau dengar?\" pada diri sendiri",
+      "summary": "",
+      "flavor": "Jangan menipu diri sendiri; kau tidak mendambakan \"seni kuliner.\" Kau cuma ingin merasa seperti sedang memasak dan berpura-pura bersantap."
+    },
+    {
+      "id": "Sapsaree_Panic",
+      "name": "Kerinduan Kuliner",
+      "desc": "- Panik\n- Offense Level +2 dan terima +5% damage untuk setiap Stack \"Punya nafsu makan, kau dengar?\" pada diri sendiri",
+      "summary": "",
+      "flavor": "Jangan menipu diri sendiri; kamu tidak mendambakan \"seni kuliner.\" Kamu cuma ingin merasa seperti sedang memasak dan berpura-pura bersantap."
+    },
+    {
+      "id": "HungryPeople_LowMorale",
+      "name": "FOMO",
+      "desc": "- Moral Rendah\n- Offense Level +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 2)\n- Peroleh 1 Fragile",
+      "summary": "",
+      "flavor": "Jangan sampai—aku tak akan ketinggalan tren musim ini lagi!"
+    },
+    {
+      "id": "HungryPeople_Panic",
+      "name": "FOMO",
+      "desc": "- Panik\n- Offense Level +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 2)\n- Peroleh 1 Fragile",
+      "summary": "",
+      "flavor": "Jangan sampai—aku tak akan ketinggalan tren musim ini lagi!"
+    },
+    {
+      "id": "UnresolvedFeelings",
+      "name": "Tambal Sulam Berlapis",
+      "desc": "- Stack Maks: 30\n- Peroleh Defense Level setara dengan Stack\n- Ketika diserang oleh target yang memiliki \"Terima Kasih Telah Mendengarkan\", kehilangan Stack setara dengan \"Terima Kasih Telah Mendengarkan\" (2 kali per giliran per Identitas)\n- Saat Kalah Clash menggunakan Skill \"Terima kasih... telah mendengarkan...\", kehilangan 5 Stack",
+      "summary": "",
+      "flavor": "Ironisnya, ia telah memekakkan dirinya sendiri dari suara apa pun dengan bersembunyi di bawah lapisan demi lapisan selimut tebal."
+    },
+    {
+      "id": "Wariness",
+      "name": "Waspada Menjaga",
+      "desc": "- Stack Maks: 10\n- Kehilangan Offense Level dan Defense Level setara dengan Stack\n- Jika unit ini kalah Clash, kehilangan 3 Stack",
+      "summary": "",
+      "flavor": "Bukan ketidakasingan Suara itu yang membuat seseorang waspada; melainkan Suara yang mengetuk hati itulah yang membuatnya demikian."
+    },
+    {
+      "id": "ReliefSense",
+      "name": "Terima Kasih Telah Mendengarkan",
+      "desc": "- Stack Maks: 3\n- Awal Giliran: Peroleh 1 Stack dan pulihkan 10 SP\n- Skill terhadap boss Tahap ini beri +(Stack x 50)% damage; lalu, efek ini kadaluarsa pada Akhir Serangan dari Skill tersebut\n- Pada 3 Stack, damage yang diberikan unit ini mengabaikan efek Defense Level Tambal Sulam Berlapis",
+      "summary": "",
+      "flavor": "Terima kasih... karena telah mendengarkan..."
+    },
+    {
+      "id": "HorribleTerror",
+      "name": "Pengulangan Mengerikan Tak Terbatas",
+      "desc": "- Stack Maks: 1\n- Awal Giliran: Jika unit ini dalam status Korosi E.G.O, beri -50% damage ke semua target giliran ini\n- Akhir Giliran: Unit ini menerima 50% damage HP; lalu, efek ini kadaluarsa (dibulatkan ke bawah, efek ini tidak dapat Stagger unit ini)",
+      "summary": "",
+      "flavor": "Sampai kau mendengarkan... sampai kamu benar-benar mendengar pengumuman Grand Magasin... lagi... dan lagi... dengarkan..."
+    },
+    {
+      "id": "HorribleEat",
+      "name": "Ulangi dan Ulangi",
+      "desc": "- Stack Maks: 15\n- Peroleh Offense Level setara dengan Stack",
+      "summary": "",
+      "flavor": "Siaran tersebut diulang terus sampai semua orang mendengarnya. Siaran itu menjadi gema, dan gema itu mengulang pada gilirannya sampai bergema luas."
+    },
+    {
+      "id": "NoirSuit",
+      "name": "Le Noir: Mantel Gabardine",
+      "desc": "- Stack Maks: 100\n- Awal Giliran: Peroleh 1 Defense Level Up untuk setiap 20 Stack (maks 4)\n- Peroleh Stack setara dengan Count Preservasi yang unit ini konsumsi atau peroleh karena efek Skill atau Pasif (maks 30 per giliran; Stack efek ini tetap diperoleh bahkan ketika Count Preservasi sudah maks)\n- Ketika diserang saat unit ini memiliki Perisai, peroleh 2 Stack (20 per giliran)\n- Akhir Giliran: Jika unit ini memiliki Perisai, peroleh 10 Stack\n- Pada 100 Stack, ubah efek ini menjadi \"Armure Éveillée\" giliran berikutnya",
+      "flavor": "Mantel yang terbuat dari kain kepar, sejenis tenunan yang dibuat dengan merangkai beberapa benang pakan ke lebih sedikit benang lusi.\nKarakteristik tenunannya dengan kepadatan tinggi melindungi pemakainya dari trauma eksternal.",
+      "summary": ""
+    },
+    {
+      "id": "Realisation",
+      "name": "Armure Éveillée",
+      "desc": "- Stack Maks: 100\n- Awal Giliran: Pulihkan 5 SP untuk setiap 10 Stack\n- Awal Giliran: Peroleh 1 Offense Level Up dan 1 Defense Level Up untuk setiap 20 Stack (masing-masing maks 4)\n- Ubah semua Coin Skill Serangan Dasar menjadi Unbreakable Coin\n- Setelah efek ini diubah, dimulai dari akhir giliran berikutnya, kehilangan 10 Stack\n- Pada 0 Stack, ubah efek ini menjadi \"Le Noir: Mantel Gabardine\"",
+      "flavor": "Tenunan kain Le Noir mencegah kekuatan eksternal mencapai pemakainya. Tujuan kebangkitannya ialah menghilangkan perubahan yang terjadi dari luar.\nKain menyimpan energi dari serangan yang diserapnya, lalu mengeluarkan semua kekuatan itu dalam satu ledakan untuk menghilangkan sumber perubahan eksternal.",
+      "summary": ""
+    },
+    {
+      "id": "LaRouge_LowMorale",
+      "name": "Tinggalkan Kulitnya!",
+      "desc": "- Moral Rendah\n- Defense Level -3\n- Offense Level +1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Organ-organ yang seharusnya berada di dalam kini menggeliat dalam kegembiraan yang tak sabar, mencoba menembus kulit ke sisi lainnya."
+    },
+    {
+      "id": "LaRouge_Panic",
+      "name": "Tinggalkan Kulitnya!",
+      "desc": "- Panik\n- Defense Level -5\n- Offense Level +2",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Organ-organ yang seharusnya berada di dalam kini menggeliat dalam kegembiraan yang tak sabar, mencoba menembus kulit ke sisi lainnya."
+    },
+    {
+      "id": "LaNoir_LowMorale",
+      "name": "Kembali ke Cangkangku...",
+      "desc": "- Moral Rendah\n- Maks Speed -1\n- Defense Level +1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Meringkuk ke dalam. Lebih dalam. Lebih erat. Biarkan cangkangnya mengeras di sekitar apa yang tersisa."
+    },
+    {
+      "id": "LaNoir_Panic",
+      "name": "Kembali ke Cangkangku...",
+      "desc": "- Panik\n- Maks Speed -5\n- Defense Level +3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Meringkuk ke dalam. Lebih dalam. Lebih erat. Biarkan cangkangnya mengeras di sekitar apa yang tersisa."
+    },
+    {
+      "id": "NiddlePinned",
+      "name": "Ditaksidermisasi",
+      "desc": "- Stack Maks: 2\n\n- Ketika diserang, peroleh +1 Count Bleed (3 kali per giliran)\n- Tak Bisa Bergerak ketika unit ini memiliki efek ini\n\n- Akhir Giliran: Kehilangan 15 HP dan 5 Naildle pada diri sendiri\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sesuai keinginanmu... Buatan tangan! Pesanan khusus! Dijahit dengan tangan!"
+    },
+    {
+      "id": "NiddleExpected",
+      "name": "Jarum Penjepit-lidah",
+      "desc": "- Jika unit ini menggunakan Skill Defense:\n· Kehilangan 1 Naildle pada diri sendiri\n· Efek ini kadaluarsa\n\n- Akhir Giliran: Peroleh 3 Naildle; lalu, efek ini kadaluarsa",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Untuk mencabut paku yang telah tertancap, seseorang harus berhenti sejenak."
+    },
+    {
+      "id": "HowlingCocoon",
+      "name": "Tangisan Kepompong - Lemah",
+      "desc": "- Si Kepompong menangis sesekali.\n- Final Power Skill  +2",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Merek yang berbicara dalam setengah kebenaran dan informasi yang salah mendapatkan rasa percaya diri dari ketidaktahuan, itulah yang membuat mereka begitu meyakinkan."
+    },
+    {
+      "id": "HowlingCocoonTwo",
+      "name": "Tangisan Kepompong - Ganas",
+      "desc": "- Kepompong tak henti-hentinya menangis.\n- Final Power Skill  +3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Denim yang kaku... dan selvage... tidak ada hubungannya satu sama lain... Gnnnngh... Kau tahu ini! Kau cuma berusaha buat bikin aku kesal, kan?! Aku tahu itu!!!"
+    },
+    {
+      "id": "MeursaultBuffet",
+      "name": "Dia Yang Memaku",
+      "desc": "- Di Pertemuan ini, jika unit ini menggunakan Skillnya, peroleh 2 Bahan E.G.O dari Afinitas yang sesuai (2 kali per giliran)\n- Awal Giliran: Jika kawan lain ada di medan tempur, damage yang diterima unit ini tidak dapat membunuh pada giliran ini\n- Tidak dapat Mundur",
+      "summary": "",
+      "flavor": "Menggenggam Paku Emas, dia telah membelah Buaian dan kini memaku seorang dewa pada satu titik."
+    },
+    {
+      "id": "Nutrition",
+      "name": "Sesuatu Yang Disita.",
+      "desc": "- Stack Maks: 5\n- Akhir Giliran: Peroleh +(Stack x 2) Count Pulsasi giliran berikutnya; lalu, efek ini kadaluarsa\n- Jika efek ini pada Stack maks saat kadaluarsa, semua Bagian peroleh Perisai setara dengan 3% dari HP Inti giliran berikutnya (Perisai yang diperoleh karena efek ini tidak kadaluarsa pada Akhir Giliran)",
+      "summary": "",
+      "flavor": "Segala hal yang diinginkan dalam kepemilikan orang lain seharusnya sudah menjadi milikku sejak awal. Kalau begitu, ini bukanlah pencurian, melainkan penyitaan kembali yang sah."
+    },
+    {
+      "id": "Gourmandise",
+      "name": "Amukan Tak Terkendali",
+      "desc": "- Base Stack: 3\n- Beri +5% damage untuk setiap 3 Bleed pada diri sendiri (maks 30%)\n- Semua Bagian tidak dapat Stagger; terima -75% damage dari Bleed\n- Akhir Giliran: Kehilangan 1 Stack\n- Konsumsi semua Count Pulsasi ketika efek ini kadaluarsa",
+      "summary": "",
+      "flavor": "Setiap bagian anatominya yang terpisah menyentak dan kejang, berusaha menyobek dirinya sendiri. Ironisnya, amukan yang tak terkendali seperti itu justru menyatukan tubuh tersebut."
+    },
+    {
+      "id": "BuffetSick",
+      "name": "Kantung Penderitaan",
+      "desc": "- Stack Maks: 30\n- Akhir Giliran: Efek ini kadaluarsa ketika efek Amukan Tak Terkendali kadaluarsa. Lalu, unit ini peroleh 1 Fragile giliran berikutnya untuk setiap 5 Stack",
+      "summary": "",
+      "flavor": "Organ ini adalah muara dari semua masukan sensorik yang menyakitkan.\nKetika pecah, ia akan menenggelamkan semua akal sehat dan menyingkapkan rasa sakit dalam wujudnya yang paling murni."
+    },
+    {
+      "id": "SavePlacenta",
+      "name": "Preservasi-diri",
+      "desc": "- Ketika Lifecord akan menerima Serangan Tanpa Lawan dari musuh, konsumsi 1 Stack untuk memindahkan target musuh ke Badan; lalu, gunakan Skill Assist Defense eksklusif\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "BloodyMucus",
+      "name": "Baptis [Crimson]",
+      "desc": "- Maks Effect: 5\n- Offense Level +1 untuk setiap 3 Bleed Potency pada diri sendiri (maks 3)\n- Pada Stack maks, gandakan damage yang diterima dari Bleed; unit ini tidak dapat dikalahkan karena damage Bleed\n- Saat Menggunakan Skill Serang Dasar, peroleh +(Stack x 2) Count Bleed\n- Saat menggunakan Skill E.G.O atau Defense, kehilangan 3 Stack",
+      "summary": "",
+      "flavor": "\"Biarlah darah membaptis daging\""
+    },
+    {
+      "id": "DeterioratingBody",
+      "name": "Insting Naluri untuk Hidup",
+      "desc": "- Stack Maks: 5\n- HP tidak turun di bawah 1\n- Ketika diserang, kehilangan 1 Stack (2 kali per Skill)\n- Akhir Giliran: Kehilangan 1 Stack; unit ini kalah ketika efek ini kadaluarsa",
+      "summary": "",
+      "flavor": "Instingnya untuk bertahan hidup memang sangat kuat, namun pada akhirnya, saatnya akan tiba di mana seseorang harus merelakannya pergi."
+    },
+    {
+      "id": "BuffetFailed",
+      "name": "Lelah",
+      "desc": "- Stack Maks: 3\n- Min & Maks Speed -1 untuk setiap Stack\n- Awal Giliran: Peroleh 1 Fragile\n- Akhir Giliran: Kehilangan 1 Stack\n(Berlaku di semua Bagian)",
+      "summary": "",
+      "flavor": "Setiap luapan selalu diikuti oleh keterbatasan. Dunia menuntut pembayaran dalam bentuk yang sebanding dengan kekuatan dan kecepatan luapan tersebut."
+    },
+    {
+      "id": "EarlyBuffet_LowMorale",
+      "name": "Skisma Batin",
+      "desc": "- Moral Rendah\n- Defense Level -3\n- Offense Level +3\n- Dalam Clash terhadap target dengan 5 Baptis [Crimson], Clash Power +2",
+      "summary": "",
+      "flavor": "Mengapa... ? Bagaimana aku... bisa ada? Apa... diriku ini?"
+    },
+    {
+      "id": "EarlyBuffet_Panic",
+      "name": "Skisma Batin",
+      "desc": "- Panik\n- Defense Level -5\n- Offense Level +3\n- Beri +10% damage\n- Dalam Clash terhadap target dengan 3+ Baptis [Crimson], Clash Power +3",
+      "summary": "",
+      "flavor": "Mengapa... ? Bagaimana aku... bisa ada? Apa... diriku ini?"
+    },
+    {
+      "id": "SisyphusTopaz",
+      "name": "Topaz",
+      "desc": "- No effect",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusAmethyst",
+      "name": "Amethyst",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusAmber",
+      "name": "Amber",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh\n- Peroleh +1 Count lebih ketika memperoleh Count Charge dan Count Poise",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusEmerald",
+      "name": "Emerald",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh\n- Peroleh +1 Count lebih ketika memperoleh Count Charge dan Count Poise\n- Peroleh +10 Count Charge ketika memperoleh efek ini (sekali per Pertemuan)",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusGold",
+      "name": "Gold",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh\n- Peroleh +1 Count lebih ketika memperoleh Count Charge dan Count Poise\n- Peroleh +10 Count Charge ketika memperoleh efek ini (sekali per Pertemuan)\n- Clash Power +1",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusRuby",
+      "name": "Ruby",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh\n- Peroleh +1 Count lebih ketika memperoleh Count Charge dan Count Poise\n- Peroleh +10 Count Charge ketika memperoleh efek ini (sekali per Pertemuan)\n- Clash Power +1\n- Final Power +1",
+      "summary": ""
+    },
+    {
+      "id": "RougeThreeCocoonShield",
+      "name": "Kesetiaan",
+      "desc": "- Awal Giliran: Peroleh Perisai setara dengan Stack\n- Kehilangan Stack ketika kehilangan Perisai",
+      "summary": "",
+      "flavor": "\"Adapun iman adalah dasar dari segala sesuatu yang kita harapkan, dan          dari segala sesuatu yang tidak kita lihat.\""
+    },
+    {
+      "id": "RisingMadnessSisyphe",
+      "name": "Mentari",
+      "desc": "- Stack Maks: 2\n- Akhir Giliran: Kehilangan 1 Stack\n- Awal Giliran: Pada 0 Stack, beri efek berikut:\n· Peroleh 1 Damage Up dan 1 Fragile\n· Ubah Coin pada semua Skill menjadi Unbreakable Coin\n· Akhir Giliran: Pulihkan Stack efek ini menjadi Maks giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kau dapat menjadi..."
+    },
+    {
+      "id": "RisingMadnessSisyphe2nd",
+      "name": "Sengatan Mentari",
+      "desc": "- Stack Maks: 1\n- Akhir Giliran: Kehilangan 1 Stack\n- Awal Giliran: Pada 0 Stack, beri efek berikut:\n· Peroleh 2 Power Up, 2 Damage Up, dan 3 Fragile\n· Ubah Coin pada semua Skill menjadi Unbreakable Coin\n· Akhir Giliran: Pulihkan Stack efek ini menjadi Maks giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sinar Matahari membisikkan kepada semua yang disentuhnya, terus menghajar bahkan ketika panasnya meningkat dari tusukan di kulit hingga rasa sakit yang tak tertahankan dan membakar, dan subjeknya dimasak hidup-hidup."
+    },
+    {
+      "id": "WeakWithering_LowMorale",
+      "name": "Jahitan Berantakan",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Offense Level Down",
+      "summary": ""
+    },
+    {
+      "id": "WeakWithering_Panic",
+      "name": "Jahitan Berantakan",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Offense Level Down dan 1 Damage Down",
+      "summary": ""
+    },
+    {
+      "id": "NiddlePin",
+      "name": "Naildle",
+      "desc": "- Bleed Unik\n- Ketika menerima damage Pierce, peroleh +1 Count Bleed dan kurangi Stack efek ini sebanyak 1\n- Akhir Giliran: Peroleh 1 Bleed dan kurangi Stack efek ini sebanyak 1",
+      "summary": ""
+    }
+  ]
+}
