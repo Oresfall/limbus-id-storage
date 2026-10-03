@@ -1,0 +1,127 @@
+{
+  "dataList": [
+    {
+      "key": "D1101_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aku nggak mau kembali ke sana lagi."
+        }
+      ]
+    },
+    {
+      "key": "D1090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada sesuatu yang dicari, Dante? Kita bisa mulai mencari Meursault sekarang. Nggak perlu—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<Tumpukan mayat bakal jatuh di sini. Bentar lagi...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Hah? Kamu bicara apa—",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa-apaan <i>itu</i>?!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Aku nggak tahu, tapi apa pun itu, sesuatu yang <i>besar</i>...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "... telah jatuh dari atas.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Tampaknya itu... gumpalan besar tubuh manusia yang saling terbelit, meskipun sisa-sisanya sudah terdistorsi terlalu parah untuk mengenali bentuk individu.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D1092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sesuatu yang besar jatuh. Sepertinya layak buat dikumpulin kali ini. Kuharap para pelanggan boros mata kali ini.",
+          "speaker": "Pelanggan Putus Asa"
+        }
+      ]
+    },
+    {
+      "key": "D1093",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sialan, aku kehabisan botol kosong! Hei, kau minjam tiga dari aku musim lalu. Kapan mau bayar?!",
+          "speaker": "Pelanggan Miskin"
+        },
+        {
+          "index": 1,
+          "text": "Persetan! Barang yang jatuh musim ini semuanya... semuanya milikku. Nggak ada yang boleh ambil!",
+          "speaker": "Pelanggan Tak Sabar"
+        }
+      ]
+    },
+    {
+      "key": "D1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Datanglah Kromer.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh, wah!",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D10111",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Untuk ketiga kalinya, aku menyaksikan wanita itu mendekati kita dengan cara yang sama persis seperti sebelumnya."
+        }
+      ]
+    },
+    {
+      "key": "D1013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apa, akhirnya mau mengantarkanku ke toilet?",
+          "speaker": "Kromer"
+        }
+      ]
+    }
+  ]
+}
