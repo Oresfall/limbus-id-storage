@@ -1,0 +1,372 @@
+{
+  "dataList": [
+    {
+      "key": "D4001_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "....."
+        },
+        {
+          "index": 1,
+          "text": ".....",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": ".....",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D4508",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bahkan sulit membedakan apakah ini terbuat dari kulit atau kain."
+        }
+      ]
+    },
+    {
+      "key": "D4502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sepasang sepatu tua yang compang-camping ini tidak akan membawa kita ke mana-mana."
+        }
+      ]
+    },
+    {
+      "key": "D4507",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tumpukan sisa-sisa yang kacau balau. Pakaian bermerek Le Noir... perabotan..."
+        }
+      ]
+    },
+    {
+      "key": "D4506",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sebuah perosotan. Perosotan ini sudah sangat tua dan berkarat sampai-sampai bisa hancur kalau kita mencoba menaikinya."
+        }
+      ]
+    },
+    {
+      "key": "D4504",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ada kertas-kertas di atas meja. Salah satunya menarik perhatianku."
+        },
+        {
+          "index": 1,
+          "text": "[ORANG HILANG]"
+        },
+        {
+          "index": 2,
+          "text": "[Deskripsi: Bekas luka bakar di wajah, syal, tas kulit...]"
+        },
+        {
+          "index": 3,
+          "text": "[Terakhir Terlihat: Pengadilan Sisyphe, Aula ■, Auditorium Utama]"
+        },
+        {
+          "index": 4,
+          "text": "<... Ini pasti menggambarkan Dubois, kan?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "... Pengadilan Sisyphe adalah bentuk kuno dari Sistem Sisyphe.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "Berbeda dengan wujud purba kala, Dubois mengambil bentuk yang secara umum diterima sebagai manusia. Jika individu yang digambarkan dalam kertas ini benar-benar Dubois, aku... gagal memahami bagaimana hal ini memungkinkan.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<Ini mungkin cuma kebetulan, tapi...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "<... Meursault, bisakah pengalaman tetap ada meskipun ingatan tentangnya telah terkikis?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "... Aku percaya begitu, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "Aku tidak tahu harus menyikapi hal itu seperti apa."
+        },
+        {
+          "index": 11,
+          "text": "Aku akan mengingatnya dan membahasnya lagi nanti. Saat ini, prioritas kita adalah pergi ke lantai atas."
+        }
+      ]
+    },
+    {
+      "key": "D4505",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kurasa melihatnya sekali lagi tidak akan tiba-tiba menyalakan percikan inspirasi di kepalaku."
+        }
+      ]
+    },
+    {
+      "key": "D4509",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tumpukan perabotan rusak. Selama itu, dan tidak ada satu orang pun yang membeli satu dari mereka."
+        }
+      ]
+    },
+    {
+      "key": "D4510",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sibuk memeriksa retakan."
+        }
+      ]
+    },
+    {
+      "key": "D4513",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tas tangan yang mahal, tetapi bagian dalamnya kosong."
+        },
+        {
+          "index": 1,
+          "text": "Sebuah nilai tas tampaknya tidak menentukan nilai dari apa yang ada di dalamnya."
+        }
+      ]
+    },
+    {
+      "key": "D4512",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sofa hitam—atau setidaknya terlihat seperti itu pada awalnya—bicara kepada kita."
+        },
+        {
+          "index": 1,
+          "text": "... Dan di sinilah aku, terkejut melihat pelanggan di Aula Perabotan lagi... Kurasa kalian adalah orang asing.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 2,
+          "text": "Apa yang terjadi pada perabotan lainnya?",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 3,
+          "text": "Mereka semua menemui akhir yang sudah bisa ditebak. Hanya peduli membuat diri mereka makin mahal, mereka gagal mempertimbangkan siapa, yang masih berakal sehat, mau membeli mereka.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 4,
+          "text": "Mereka menolak menurunkan standar mereka bahkan setelah para Rouge merampas apa pun yang berharga dari mereka, dan... yah, hasilnya terlihat jelas di hadapan kalian.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 5,
+          "text": "<... Jadi kau satu-satunya yang selamat?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Manajer ingin tahu apakah Anda satu-satunya korban selamat.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Oh ya, karena aku telah memilih pembeliku. Dan telah banyak berdiskusi dengan sinar matahari juga.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 8,
+          "text": "Dia memiliki harapan yang sangat tinggi pada kalian, para asing yang baik.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 9,
+          "text": "\"Dia\"... yang dimaksud sinar matahari? Apakah Anda membicarakan Nona Carmen?",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 10,
+          "text": "Hm... Sinar matahari memang wujud yang hangat dan baik hati... tetapi itu tidak memimpin, tidak pula menjanjikan esok hari bagi kita.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 11,
+          "text": "Sinar matahari tidak ada bedanya dengan fenomena alam lainnya. Sinar matahari adalah sinar matahari, sama halnya seperti hujan adalah hujan.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 12,
+          "text": "Suara Le Néant, di sisi lain... telah menjanjikanku sebuah hari esok.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 13,
+          "text": "<... Le Néant.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "Jika kalian lelah, silakan istirahatkan kaki kalian sejenak. Meski aku tidak bisa menjamin itu akan terlalu nyaman.",
+          "speaker": "Sofa?"
+        },
+        {
+          "index": 15,
+          "text": "<Tidak, terima kasih.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 16,
+          "text": "Tidak, terima kasih.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 17,
+          "text": "Kalau begitu, selamat tinggal. Aku menantikan pembongkaran toko departemen ini oleh kalian.",
+          "speaker": "Sofa?"
+        }
+      ]
+    },
+    {
+      "key": "D4511",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sofa hitam... Le Néant kembali terdiam di bawah bayang-bayang, menunggu."
+        }
+      ]
+    },
+    {
+      "key": "D4514",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Renée...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Ah... kalian sudah sampai sejauh ini.",
+          "speaker": "Renée"
+        },
+        {
+          "index": 2,
+          "text": "Sepertinya tak lama lagi kita bisa menikmati sedikit berjemur di bawah sinar matahari.",
+          "speaker": "Renée"
+        },
+        {
+          "index": 3,
+          "text": "<Carmen—maksudku, sinar matahari... sebenarnya apa yang diinginkannya?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Kami ingin tahu... apa yang diinginkan oleh sinar matahari.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Pertanyaan yang aneh. Sinar matahari... hanya menginginkan apa yang <i>kita</i> inginkan.",
+          "speaker": "Renée"
+        },
+        {
+          "index": 6,
+          "text": "Bahkan ketika sinar matahari tidak sependapat dengan kita, selama keinginan kita, emosi kita tulus... itu akan menjadi menginginkan apa yang kita inginkan.",
+          "speaker": "Renée"
+        },
+        {
+          "index": 7,
+          "text": "<Kalau begitu, Meursault...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Meursault pernah berkata bahwa sinar matahari itu cerewet. Begitu mengganggu."
+        },
+        {
+          "index": 9,
+          "text": "Biasanya, itu adalah jenis kata-kata yang digunakan orang ketika ada sesuatu yang tidak sesuai dengan apa yang mereka pikirkan..."
+        },
+        {
+          "index": 10,
+          "text": "... Apa yang dibisikkan sinar matahari kepadaku sepenuhnya selaras dengan apa yang kuinginkan, Manajer.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "<Lalu... apa yang membuatnya begitu mengganggu?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Meursault terdiam, tenggelam semakin dalam ke dalam pikirannya seolah-olah dia tidak lagi sanggup melanjutkannya."
+        },
+        {
+          "index": 14,
+          "text": "Hampir seolah-olah ada sesuatu yang menakutinya."
+        },
+        {
+          "index": 15,
+          "text": "Apakah kalian menuju ke 5F?",
+          "speaker": "Renée"
+        },
+        {
+          "index": 16,
+          "text": "Ya. Kita harus memanjat lebih tinggi.",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 17,
+          "text": "5F... adalah tempat para Rouge membuat diri mereka merasa seperti di rumah sendiri. Di sanalah mereka melahap toko departemen... sedikit demi sedikit.",
+          "speaker": "Renée"
+        },
+        {
+          "index": 18,
+          "text": "Aku sangat berharap kalian bisa melewatinya... dan menemukan jalan kalian ke lantai-lantai yang lebih tinggi.",
+          "speaker": "Renée"
+        }
+      ]
+    },
+    {
+      "key": "D4515",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Segera, kita semua akan kembali ke rumah kita—kecuali Dewa Crimson.",
+          "speaker": "Le Néant"
+        },
+        {
+          "index": 1,
+          "text": "Kami berutang segalanya pada kalian, orang-orang asing.",
+          "speaker": "Le Néant"
+        }
+      ]
+    }
+  ]
+}
