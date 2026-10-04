@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": "battleTip_11006_1",
+      "content": "L'Inamovible akan memasuki dan meninggalkan Ruang Ganti secara berkala."
+    },
+    {
+      "id": "battleTip_11006_2",
+      "content": "Menyerang L'Inamovible saat dia berada di dalam Ruang Ganti akan meningkatkan agresivitasnya."
+    },
+    {
+      "id": "battleTip_11008_1",
+      "content": "Sous Chef memperoleh \"Bahan Cincang\" dari unit yang dibunuhnya. Efek ini dikonsumsi pada akhir giliran, memberikannya stack \"Makan lezat dan semangatlah, kau dengar?\".\n\nSemakin banyak stack yang didapatkannya, semakin kuat dan semakin sering jurus kuatnya, \"My signature knife work, kau dengar?\", dilancarkan."
+    },
+    {
+      "id": "battleTip_11008_2",
+      "content": "Dompet Kulit bukanlah pengecualian dalam hal pengumpulan bahan masakan Sous Chef. Kau tidak dapat menghentikan aktivitas kulinernya hanya dengan bermain defensif."
+    },
+    {
+      "id": "battleTip_11008_3",
+      "content": "Ketika Sous Chef gagal membunuh target apa pun, dia akan mendapatkan stack \"Punya nafsu makan, kau dengar?\".\nPada 3 stack, dia akan menggunakan Skill kuat <i>lainnya</i>. Memicunya untuk terus memasak sesekali bisa menjadi ide yang bagus."
+    },
+    {
+      "id": "battleTip_11010_1",
+      "content": "Terkadang, melakukan Clash terhadap Skill tertentu dari Manajer Lantai menggunakan Skill Serang milikmu bisa menjadi ide yang buruk."
+    },
+    {
+      "id": "battleTip_11010_2",
+      "content": "Jika terlalu waspada dan membiarkan dirimu menumpuk 10 stack \"Waspada Menjaga\", kau berisiko memancing timbulnya Skill kuat Manajer Lantai.\nPerhatikan baik-baik agar \"Waspada Menjaga\" tidak mencapai 10 stack. Kau juga bisa memilih untuk sengaja kalah Clash melawan Skill tertentu untuk menghilangkan stack tersebut."
+    },
+    {
+      "id": "battleTip_11010_3",
+      "content": "Jika kau memiliki \"Terima Kasih Telah Mendengarkan\", mungkin kau sebaiknya menahan seranganmu untuk sementara waktu."
+    },
+    {
+      "id": "battleTip_11011_1",
+      "content": "Tali Pusat milik Dewa Lembayung [Kehidupan Nirsempurna] menyimpan kekuatan yang sangat besar. Mengutamakan untuk menghancurkannya sebelum hal lain dapat menjadi ide yang bagus."
+    },
+    {
+      "id": "battleTip_11011_2",
+      "content": "Biarkan Pendosa dengan HP tinggi menghadapi Skill kuat Dewa Lembayung [Kehidupan Nirsempurna]."
+    },
+    {
+      "id": "battleTip_11011_3",
+      "content": "Jika unit milikmu memperoleh terlalu banyak Stack \"Baptis [Crimson]\", gunakan Skill Defense untuk menghilangkannya. Pada Stack maks, efek ini menyebabkan Damage Bleed yang besar, dan unit yang terbunuh akan menjadi musuh—\"Robekan Daging dari Dewa Lembayung [Kehidupan Nirsempurna].\""
+    },
+    {
+      "id": "battleTip_11016_1",
+      "content": "Jika kau terkena Skill \"Pick stitch too obvious, you say?! I'll pick-stitch your ass!\" saat telah menumpuk banyak stack Naildle, kau akan memasuki status \"Ditaksidermisasi\" dan menerima damage yang sangat mematikan."
+    },
+    {
+      "id": "battleTip_11016_2",
+      "content": "Jika ada Needlekin yang tersisa di giliran yang sama ketika Raja Needleworks menggunakan Skill kuat, mereka akan memperkuat damage Skill tersebut."
+    }
+  ]
+}
