@@ -1,0 +1,90 @@
+{
+  "dataList": [
+    {
+      "id": 9105901,
+      "name": "Botol kaca harus ditangani secara hati-hati...!",
+      "desc": "Ketika diserang oleh Skill, peroleh 3 [Laceration] (sekali per Skill)\n\nKetika efek di atas aktif, peroleh 1 [ResultEnhancement] giliran berikutnya (maks 2)"
+    },
+    {
+      "id": 9105902,
+      "name": "Syukurlah, botolku aman",
+      "desc": "Akhir Giliran: Jika unit ini tidak memiliki [Laceration], pulihkan 5 SP"
+    },
+    {
+      "id": 9105903,
+      "name": "Aku harus mengisi botolnya",
+      "desc": "Jika target yang terkena serangan Skill unit ini memiliki [Laceration], dan jika unit ini tidak berada pada maks HP, pulihkan 2% HP (2 kali per giliran; dibulatkan ke bawah)"
+    },
+    {
+      "id": 9106601,
+      "name": "Le Noir: Kain",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh 5 [NoirBindArmor]\n\nAwal Giliran: Peroleh Perisai setara dengan (10 + Stack [NoirBindArmor])% dari maks HP unit ini",
+      "flavor": "Worsted Le Noir menjaga tubuh seperti baju besi, menonjolkannya di bawah siluet yang kokoh dan kokoh."
+    },
+    {
+      "id": 9106602,
+      "name": "Preservasi",
+      "desc": "Peroleh 1 [NoirBindArmor] untuk setiap 5 Count [ChargeNoir] kumulatif yang dikonsumsi unit ini di Pertemuan ini\nPeroleh 1 [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang dikonsumsi unit ini di Pertemuan ini",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 9106603,
+      "name": "Perubahan Untuk Kelambanan",
+      "desc": "Awal Giliran: Pada 10+ Count [ChargeNoir], gunakan Skill kuat\n\nSaat Memakai Skill, pada 15+ Count [ChargeNoir], konsumsi 3 Count [ChargeNoir] untuk beri +20% damage",
+      "flavor": "Suara baru ini memberitahuku bahwa ia akan membantu mengubahku... sehingga aku tidak akan pernah berubah lagi."
+    },
+    {
+      "id": 9106604,
+      "name": "Aku mendengarnya... Suara dewa lain...!",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh 2 [RisingMadnessNoir]\n- Awal Giliran: Ketika HP unit ini turun di bawah 50% untuk pertama kalinya di Pertemuan ini, ubah [RisingMadnessNoir] menjadi [RisingMadnessNoir2nd]\n\nSaat Kalah Clash, peroleh +2 Count [ChargeNoir]",
+      "flavor": "Merekalah yang mendengar Suara nan hangat itu, tetapi tak mampu berubah lebih jauh lagi. Dengan pikiran yang terperangkap di dalam raga, jati diri terpecah belah dari dirinya sendiri dan jatuh ke dalam kegilaan."
+    },
+    {
+      "id": 9106001,
+      "name": "Menggali",
+      "desc": "Awal Clash: Peroleh 2 Potency [Breath] giliran berikutnya untuk setiap tipe efek pada target (maks 10)\n- Jika target memiliki 3+ tipe efek, peroleh +3 Count [Breath] giliran berikutnya",
+      "flavor": "Tak sanggup menciptakan nilai atau keberhargaan mereka sendiri, para Kaki merogoh kantong orang-orang berharga di pusat perbelanjaan, mencari hal-hal yang bernilai."
+    },
+    {
+      "id": 9106002,
+      "name": "Menantikan Tren Musiman",
+      "desc": "Pada 6+ Potency [Breath], Coin Power +1",
+      "flavor": "Jadi, apa tren utama musim ini? Beritahu aku sebelum orang lain mendapatkannya!"
+    },
+    {
+      "id": 9106003,
+      "name": "Mencengkeram Sisa-Sisa yang Ada",
+      "desc": "Awal Giliran: Pulihkan 3 SP untuk setiap 10% HP yang hilang pada diri sendiri (maks 15)"
+    },
+    {
+      "id": 9106004,
+      "name": "Aku mendengarnya... Suara dewa lain...!",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh 2 [RisingMadnessSisyphe]\n- Awal Giliran: Ketika HP unit ini turun di bawah 50% untuk pertama kalinya di Pertemuan ini, ubah [RisingMadnessSisyphe] menjadi [RisingMadnessSisyphe2nd]",
+      "flavor": "Merekalah yang mendengar Suara nan hangat itu, tetapi tak mampu berubah lebih jauh lagi. Dengan pikiran yang terperangkap di dalam raga, jati diri terpecah belah dari dirinya sendiri dan jatuh ke dalam kegilaan."
+    },
+    {
+      "id": 9106301,
+      "name": "Menjahit",
+      "desc": "Beri +1 lebih banyak Stack [NiddlePin] terhadap target yang memiliki 1.5+ Pierce Resist. atau Envy Resist.",
+      "flavor": "Kerapatan benang, jumlah pakan, jahitan per inci. Semuanya penting!"
+    },
+    {
+      "id": 9106302,
+      "name": "Jarum Tajam nan Kecil",
+      "desc": "Saat menggunakan Skill untuk memberikan Potency [Laceration] terhadap musuh yang memiliki [NiddlePin], beri +(Stack [NiddlePin] pada target) lebih banyak Potency [Laceration] (maks 3)",
+      "flavor": "Jarum tidak ada bedanya dengan paku."
+    },
+    {
+      "id": 9106701,
+      "name": "Keputusasaan",
+      "desc": "Awal Giliran: Pada 3+ Potency [ChargeRouge] dan 10+ Count [ChargeRouge], gunakan Skill kuat\n\nSkill memberi +1% damage untuk setiap 1% HP yang hilang pada diri sendiri",
+      "flavor": "Agar aku bisa menjadi diriku sendiri... Diriku yang seutuhnya, terungkap melampaui apa yang sekadar pakaian bisa ungkapkan!"
+    },
+    {
+      "id": 9106702,
+      "name": "Aku mendengarnya... Suara dewa lain...!",
+      "desc": "Awal Pertemuan: Peroleh [RisingMadnessRouge]\n- Awal Giliran: Ketika HP unit ini turun di bawah 50% untuk pertama kalinya di Pertemuan ini, ubah [RisingMadnessRouge] menjadi [RisingMadnessRouge2nd]\n\nSaat Kalah Clash, peroleh +2 Count [ChargeRouge]",
+      "flavor": "Merekalah yang mendengar Suara nan hangat itu, tetapi tak mampu berubah lebih jauh lagi. Dengan pikiran yang terperangkap di dalam raga, jati diri terpecah belah dari dirinya sendiri dan jatuh ke dalam kegilaan."
+    }
+  ]
+}
