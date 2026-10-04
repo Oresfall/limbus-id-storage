@@ -1,0 +1,266 @@
+{
+  "dataList": [
+    {
+      "id": 146501,
+      "name": "Le Noir: Kain",
+      "desc": "Awal Pertemuan: Peroleh 5 [NoirBindArmor]\nAwal Giliran: Peroleh Perisai setara dengan (Stack [NoirBindArmor])% dari maks HP unit ini",
+      "flavor": "Worsted Le Noir menjaga tubuh seperti baju besi, menonjolkannya di bawah siluet yang kokoh dan kokoh."
+    },
+    {
+      "id": 146502,
+      "name": "Ushering Customers",
+      "desc": "Beri dan Terima +10% damage pada target untuk setiap [NoirNoComply] pada target\nBeri +200% damage ke target yang memiliki 3 [NoirNoComply]",
+      "flavor": "Le Noir melayani pelanggan berharganya dengan kepatuhan ketat sesuai protokol manajemen Kantor Pusat."
+    },
+    {
+      "id": 146503,
+      "name": "Preservasi",
+      "desc": "Peroleh 1 [NoirBindArmor] untuk setiap 3 Count [ChargeNoir] kumulatif unit ini konsumsi di Pertemuan ini\nPeroleh 1 [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif unit ini konsumsi di Pertemuan ini",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 146603,
+      "name": "Aksi dan Reaksi Metabolik",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh 10 Count [ChargeRouge]\n\nPeroleh 1 [ChargeRouge] untuk setiap 10 Count [ChargeRouge] kumulatif unit ini konsumsi di Pertemuan ini"
+    },
+    {
+      "id": 149401,
+      "name": "Le Rouge: Jaket",
+      "desc": "Akhir Giliran: Peroleh atau kehilangan hingga 10 Count [ChargeRouge]\n\nKetika diserang, jika penyerang menggunakan Skill yang memperoleh [Charge], transfer 1 Count [ChargeRouge] sebagai Count [Charge] ke penyerang (sekali per Skill penyerang)\nPeroleh 1 [AttackUp] tiap kali efek di atas aktif\nAwal Giliran: Konsumsi hingga 5 Count [ChargeRouge] berlebih di atas 15 pada diri sendiri untuk pulihkan (Count [ChargeRouge] yang dikonsumsi)% HP"
+    },
+    {
+      "id": 149402,
+      "name": "Denim Myofiber",
+      "desc": "Skill beri +1% damage untuk setiap Potency [ChargeRouge] pada diri sendiri (maks 10%)\n\nSaat Memakai Skill, jika unit ini memiliki kurang dari 50% HP, Skill tersebut peroleh +2 more Count [ChargeRouge]\nSkills beri +1% damage untuk setiap 1% HP yang hilang pada diri sendiri"
+    },
+    {
+      "id": 149301,
+      "name": "Le Rouge: Jaket",
+      "desc": "Akhir Giliran: Peroleh atau kehilangan hingga 10 Count [ChargeRouge]\n\nKetika diserang, jika penyerang menggunakan Skill yang memperoleh [Charge], transfer 1 Count [ChargeRouge] sebagai Count [Charge] ke penyerang (sekali per Skill penyerang)\nPeroleh 1 [AttackUp] tiap kali efek di atas aktif"
+    },
+    {
+      "id": 149302,
+      "name": "Keputusasaan",
+      "desc": "Awal Giliran: Pada 3+ Potency [ChargeRouge] dan 10+ Count [ChargeRouge], gunakan Skill \"Pemasaran Agresif\"\n\nSkills beri +1% damage untuk setiap 1% HP yang hilang pada diri sendiri"
+    },
+    {
+      "id": 149303,
+      "name": "Aku mendengarnya... Suara dewa lain...!",
+      "desc": "Awal Pertemuan: Peroleh [RisingMadnessRouge]\n- Awal Giliran: Ketika HP unit ini turun di bawah 50% untuk pertama kalinya di Pertemuan ini, ubah [RisingMadnessRouge] menjadi [RisingMadnessRouge2nd]\n\nSaat Kalah Clash, peroleh +2 Count [ChargeRouge]",
+      "flavor": "Mereka mendengar Suara nan hangat itu, namun tak mampu berubah lebih jauh lagi. Dengan benak yang terperangkap di dalam raga, sang diri terpecah dari dirinya sendiri dan jatuh ke dalam kegilaan."
+    },
+    {
+      "id": 146601,
+      "name": "Butik du Rouge: Buku Pencarian Pendatang Baru",
+      "desc": "Pola [RougeThreeNormal]\n\nHilangkan Pola [RougeThreeCocoon] dan [RougeThreeCocoonShield] pada diri sendiri, dan peroleh [RougeThreeNormal]\n<color=#ff6000><mark=#ff000040><b><u>Ketika diserang, peroleh 1 [RougeThreeNormal]\nAkhir Giliran: Pada 20 [RougeThreeNormal], masuki Pola [RougeThreeCocoon] giliran berikutnya</u></b></mark></color>\n\nSelama di status [RougeThreeNormal]:\nJika unit ini terima damage yang membuat HP-nya di bawah 10, abaikan damage tersebut, pulihkan 30% HP, dan akhiri giliran. Lalu, unit ini memasuki Pola status [RougeThreeCocoon] dan memperoleh 2 [Enhancement] untuk seluruh Pertemuan ini (sekali per Pertemuan)"
+    },
+    {
+      "id": 146602,
+      "name": "Menuju Ruang Ganti",
+      "desc": "Pola [RougeThreeCocoon] Pattern\n\nHilangkan [RougeThreeNormal] pada diri sendiri. Peroleh 1 Pola [RougeThreeCocoon] dan 500 [RougeThreeCocoonShield]\n\n<color=#ff6000><mark=#ff000040><b><u>Ketika diserang, peroleh [RougeThreeCocoonHit]</u></b></mark></color>\nAt 0 [RougeThreeCocoonShield] or 3 Pola [RougeThreeCocoon], lose 20 SP and akhiri giliran. Then, enter [RougeThreeNormal] pattern giliran berikutnya dan peroleh 1 [AttackDmgUp] untuk seluruh Pertemuan ini (jika unit ini terkena Stagger, pulih dari Stagger)"
+    },
+    {
+      "id": 147401,
+      "name": "Sous Chef",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Setelah membunuh target dengan Skill Serangan, peroleh 1 [SapsareeCooking]</u></b></mark></color>\n- Pada Penggunaan Skill, peroleh 1 [SapsareeCooking] lebih untuk setiap 3 efek status pada target tersebut (maks 2)",
+      "flavor": "Dia mungkin menyandang gelar itu, namun restoran di Lantai 5 bakal tertawa dan menendangnya keluar dari dapur."
+    },
+    {
+      "id": 147402,
+      "name": "Aku bisa memasak hidangan yang sangat lezat, kau dengar?",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki [SapsareeCooking], gunakan Skill \"Aah! Aku sedang istirahat, kau dengar?\" sebelum giliran berakhir</u></b></mark></color>\n(tidak aktif jika semua target lain sudah dikalahkan, atau jika unit ini terkena Stagger)\nAkhir Giliran: Jika unit ini gagal menggunakan Skill \"Aah! Aku sedang istirahat, kau dengar?\", peroleh 1 [SapsareeHungry]",
+      "flavor": "Restoran di Lantai 5 tidak akan sudi menghargai hal semacam ini dengan sebutan \"masakan.\""
+    },
+    {
+      "id": 147403,
+      "name": "Ambisi Kuliner",
+      "desc": "Gunakan Skill Gluttony kuat setiap 4 giliran\n(Jika efek ini tidak aktif karena Stagger, aktifkan di giliran berikutnya)\n- Akhir Giliran: Pada 5+ [SapsareeYammi], gunakan Skill Gluttony kuat giliran berikutnya\n\nAkhir Giliran: Pada 3+ [SapsareeHungry], gunakan Skill Wrath kuat giliran berikutnya",
+      "flavor": "Ada perbedaan teramat besar antara seni kuliner dan sekadar membuat sesuatu yang bisa dimakan. Dan kau... yah, kau masuk ke dalam kategori yang kedua."
+    },
+    {
+      "id": 147404,
+      "name": "Makin Wuenak, kau dengar?",
+      "desc": "Awal Giliran: Pulihkan 3 SP untuk setiap [SapsareeYammi] pada diri sendiri",
+      "flavor": "Apa mereka bahkan pantas ikut berdiskusi soal cita rasa? Demi Tuhan, mereka itu tinggal di Pujasera."
+    },
+    {
+      "id": 147405,
+      "name": "Melayang dan lari, kau dengar?",
+      "desc": "Akhiri Pertemuan jika HP Sous Chef jatuh di bawah 30%",
+      "flavor": "Tak ada gunanya mati demi hal seperti ini."
+    },
+    {
+      "id": 147501,
+      "name": "Bahan Masakan Beraroma.",
+      "desc": "Jika unit ini memiliki 5 atau lebih efek status, peroleh 3 Offense Level and 3 Defense Level",
+      "flavor": "Ini bahkan bukan bahan masakan."
+    },
+    {
+      "id": 147502,
+      "name": "Tenderisasi Enzimatik",
+      "desc": "Ketika diserang, peroleh 1 Defense Level Down dan 1 Offense Level Up giliran berikutnya (3 per giliran)",
+      "flavor": "Dompet kulit yang keras ini mungkin bisa dilunakkan, namun itu tidak akan mengubah apa pun yang berarti."
+    },
+    {
+      "id": 147503,
+      "name": "Lapar...",
+      "desc": "Akhir Giliran: Jika Sous Chef gagal menggunakan Skill \"Aah! Aku sedang istirahat, kau dengar?\", peroleh 1 [SapsareeHungry]",
+      "flavor": "Ini hanyalah sebuah <b>dompet</b> yang dibesarkan sebagai hewan ternak untuk dikonsumsi. Dan layaknya ternak, ia kelaparan dan minta diberi makan."
+    },
+    {
+      "id": 148101,
+      "name": "Menambal",
+      "desc": "Awal Pertemuan: Peroleh 30 [UnresolvedFeelings]\nPada 50% atau kurang HP, ubah Skill yang digunakan di pola tertentu menjadi Skill kuat",
+      "flavor": "Sisa-sisa perca kain yang semestinya dibuang, dijahit bersama dan ditumpuk berlapis-lapis. Setiap perca tidak memiliki nilai secara mandiri, namun wujud fisik kainnya tetap bertahan. Itulah mengapa Manajer Lantai mengumpulkannya kembali."
+    },
+    {
+      "id": 148102,
+      "name": "Inspeksi Waspada",
+      "desc": "Awal Giliran: Aktifkan efek di bawah\n<color=#ff6000><mark=#ff000040><b><u>-Jika 1 atau lebih Pendosa memiliki 10 [Wariness], peroleh peroleh Slot Serangan dan gunakan Skill \"Pengumuman Peringatan\" pada Slot tersebut</u></b></mark></color>\n- Beri 1 [Wariness] pada semua Pendosa yang tidak memiliki [ReliefSense]\n- Peroleh 1 [HorribleEat] untuk setiap Identitas yang memiliki [HorribleTerror]\n\n<color=#ff6000><mark=#ff000040><b><u>Ketika diserang oleh Skill Pendosa:</u></b></mark></color>\nPada Akhir Serangan dari Skill tersebut, <color=#ff6000><mark=#ff000040><b><u>beri [Wariness]</u></b></mark></color> pada Pendosa tersebut setara dengan jumlah unit ini terkena serangan oleh Skill tersebut",
+      "flavor": "Untuk mendengar Suara itu, seseorang harus membuka hatinya terlebih dahulu sebelum telinganya."
+    },
+    {
+      "id": 148103,
+      "name": "Bersyukur",
+      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>-Jika 1 atau lebih Pendosa memiliki 3 [ReliefSense], peroleh Slot Serangan dan gunakan Skill \"Terima kasih... telah mendengarkan...\" pada Slot tersebut</u></b></mark></color>",
+      "flavor": "Terlalu banyak pelanggan yang membiarkan pengumuman masuk ke telinga kiri dan keluar lewat telinga kanan... Terima kasih telah mendengarkan..."
+    },
+    {
+      "id": 148104,
+      "name": "Hilangkan Kepanikan",
+      "desc": "Beri +200% damage ke target yang lagi Panik",
+      "flavor": "Runtuhkan benaknya, maka raga akan menyusul dengan cepat. Ada metode-metode yang dapat mempercepat proses ini lebih jauh lagi."
+    },
+    {
+      "id": 149201,
+      "name": "Le Noir: Kain",
+      "desc": "Awal Pertemuan: Peroleh 5 [NoirBindArmor]\n\nAwal Giliran: Peroleh Perisai setara dengan (Stack [NoirBindArmor] / 2)% dari maks HP unit ini\n\nWhen Staggered, lose all [NoirBindArmor]\nAwal Giliran: When unit ini recovers from Stagger, peroleh 5 [NoirBindArmor]",
+      "flavor": "Worsted Le Noir menjaga tubuh seperti baju besi, menonjolkannya di bawah siluet yang kokoh dan kokoh."
+    },
+    {
+      "id": 149202,
+      "name": "Preservasi",
+      "desc": "Peroleh 1 [NoirBindArmor] untuk setiap 5 Count [ChargeNoir] kumulatif unit ini konsumsi di Pertemuan ini\nPeroleh 1 [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif unit ini konsumsi di Pertemuan ini",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 149203,
+      "name": "Perubahan Untuk Kelambanan",
+      "desc": "Awal Giliran: Pada 10+ Count [ChargeNoir], gunakan Skill kuat\n\nSaat Memakai Skill, pada 15+ Count [ChargeNoir], konsumsi 3 Count [ChargeNoir] untuk beri +20% damage",
+      "flavor": "Suara baru ini memberitahuku bahwa ia akan membantuku berubah... agar aku tidak pernah berubah lagi."
+    },
+    {
+      "id": 149204,
+      "name": "Aku mendengarnya... Suara dewa lain...!",
+      "desc": "Awal Pertemuan: Peroleh 2 [RisingMadnessNoir]\n- Awal Giliran: Ketika HP unit ini turun di bawah 50% untuk pertama kalinya di Pertemuan ini, ubah [RisingMadnessNoir] menjadi [RisingMadnessNoir2nd]\n\nSaat Kalah Clash, peroleh +2 Count [ChargeNoir]",
+      "flavor": "Mereka mendengar Suara nan hangat itu, namun tak mampu berubah lebih jauh lagi. Dengan benak yang terperangkap di dalam raga, sang diri terpecah dari dirinya sendiri dan jatuh ke dalam kegilaan."
+    },
+    {
+      "id": 148201,
+      "name": "Le Noir: Kain",
+      "desc": "Awal Pertemuan: Peroleh 3 [NoirBindArmor]\n\nAwal Giliran: Peroleh Perisai setara dengan (Stack [NoirBindArmor])% dari maks HP unit ini (kecuali jika Stagger)",
+      "flavor": "Worsted Le Noir menjaga tubuh seperti baju besi, menonjolkannya di bawah siluet yang kokoh dan kokoh."
+    },
+    {
+      "id": 148202,
+      "name": "Preservasi",
+      "desc": "Peroleh 1 [NoirBindArmor] untuk setiap 3 Count [ChargeNoir] kumulatif unit ini konsumsi di Pertemuan ini\nPeroleh 1 [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif unit ini konsumsi di Pertemuan ini\n\nPada 3+ Potency [ChargeNoir], maks Count [ChargeNoir] +5",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 148203,
+      "name": "Lepaskan Pemadatan",
+      "desc": "Awal Giliran: Pada 3+ Potency [ChargeNoir] and 10+ Count [ChargeNoir], gunakan Skill kuat",
+      "flavor": "Kekuatan yang dipadatkan menjadi satu titik demi memaksakan kekakuan, suatu hari nanti pasti akan meledak bebas."
+    },
+    {
+      "id": 148204,
+      "name": "Paradoks Konservasi-Konversi",
+      "desc": "Jika unit ini memiliki Perisai, peroleh +1 Count [ChargeNoir] ketika diserang oleh Pendosa (sekali per Skill, 3 kali per giliran)\n- Pada 3+/5+ Potency [ChargeNoir], peroleh +2/+3 Count [ChargeNoir] saja\n\nAkhir Giliran: Jika unit ini memiliki Perisai,\nPeroleh +1 Count [ChargeNoir] dan 1 [DefenseUp] giliran berikutnya untuk setiap Potency [ChargeNoir] pada diri sendiri (maks 3 masing-masing)",
+      "flavor": "Ubah kekuatan eksternal dari perubahan menjadi kekuatan pemeliharaan diri. Namun ini adalah dunia di mana, sekeras apa pun seseorang menolak perubahan atau mendambakan kekakuan, sesuatu tetap harus berubah."
+    },
+    {
+      "id": 148301,
+      "name": "Le Noir: Kain Gabardine",
+      "desc": "Awal Pertemuan: Peroleh 30 [NoirSuit]\n\nAwal Giliran: Peroleh Perisai setara dengan ([NoirSuit] / 5)% dari maks HP unit ini (kecuali jika Stagger)",
+      "flavor": "Kain gabardine andalan para Noir, dirancang dengan keanggunan formal tanpa mengorbankan kekokohannya."
+    },
+    {
+      "id": 148302,
+      "name": "Preservasi",
+      "desc": "Peroleh 1 Potency [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif unit ini konsumsi di Pertemuan ini\n\nPada 3+ Potency [ChargeNoir], maks Count [ChargeNoir] +5",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 148303,
+      "name": "Masukan",
+      "desc": "Awal Giliran: Jika unit ini memiliki [Realisation], aktifkan \"Tendangan Tunggal\" sebagai \"Tendangan Tunggal - Busana Berganda\" saja\n\nKetika mengaktifkan [VibrationExplosion], beri +20% ke Batas Stagger yang dinaikkan oleh [VibrationExplosion]\n- Pada 12+ Count [ChargeNoir], ketika mengaktifkan [VibrationExplosion], konsumsi 1 Count [ChargeNoir] pada diri sendiri dan beri +40% ke Batas Stagger yang dinaikkan oleh [VibrationExplosion] (per-target)\n\nKetika mengaktifkan [VibrationExplosion], jika target tidak memiliki batas Stagger, beri damage tetap setara dengan Stack [DefenseUp] pada diri sendiri (maks 20)",
+      "flavor": "Para Noir percaya mereka dapat meruntuhkan harga diri lawan dengan menimpakan getaran dahsyat—semakin hebat sasaran bergetar, semakin banyak perubahan yang harus dialaminya dari waktu ke waktu.\n\nTeknik bertarung para Noir dibangun di atas keyakinan tersebut."
+    },
+    {
+      "id": 148304,
+      "name": "Paradoks dari Paradoks Konservasi-Konversi",
+      "desc": "Jika unit ini memiliki Perisai, Ketika diserang oleh Pendosa,\n- Beri 1 [Vibration] pada Pendosa (sekali per Skill)\n- Peroleh +1 Count [ChargeNoir] (sekali per Skill, 3 kali per giliran)\n  · Pada 3+/5+ Potency [ChargeNoir], peroleh +2/+3 Count [ChargeNoir] saja\n\nAkhir Giliran: Jika unit ini memiliki Perisai,\nPeroleh +1 Count [ChargeNoir] dan 2 [DefenseUp] giliran berikutnya untuk setiap Potency [ChargeNoir] pada diri sendiri (maks 3, maks 6 masing-masing)",
+      "flavor": "Semakin keras suatu eksistensi berjuang untuk tetap sama, semakin pasti ia akan berubah. Ada berarti selalu bergerak menuju suatu tempat, dan di mana pun ada pergerakan, perubahan akan selalu menyusul."
+    },
+    {
+      "id": 149601,
+      "name": "Penjahitan Dimulai",
+      "desc": "Awal Giliran: Beri [NiddleExpected] pada 2 musuh acak"
+    },
+    {
+      "id": 149602,
+      "name": "Handmade",
+      "desc": "Final Power Skill +1 untuk setiap Needlekin di medan tempur",
+      "flavor": "Tak ada jahitan tangan yang mampu bertahan hanya dengan sepasang tangan. Dibutuhkan deretan pengrajin berpengalaman untuk meniupkan kehidupan ke dalamnya."
+    },
+    {
+      "id": 149603,
+      "name": "Aliran Keluhan Pelanggan Tak Berakhir dan Tak Terhindarkan",
+      "desc": "\"Tangisan Kepompong\" didengar setiap giliran dengan \"kelipatan dari 3\"\nSetelah memasuki Fase 2, \"Tangisan Kepompong\" terus menerus terdengar setiap gilirannya\n\nUnit ini tidak dapat lumpuh pada giliran \"Tangisan Kepompong\" terdengar\n\nJika HP unit ini dibawah Batas Stagger-nya, peroleh 2 [Vulnerable] giliran berikutnya",
+      "flavor": "Suara-suara merembes keluar dari kepompong.\n\n\"Segala sesuatu di bawah 80-count two-ply? Itu bahkan bukan kain!\"\n\"Kenapa lubang kancingnya tidak horizontal?\"\n\"Kain rajut jersey pakai mesin? Yang benar saja?\"\n\"Kenapa pinggiran kainnya tidak berwarna merah?\"\n\"Kain ini bahkan belum ditangani agar tahan susut.\"\n\"Apa pun di bawah Super 150 jelas-jelas kain murah.\"\n\"Kau pikir skala Super itu cuma ketebalan benang? Diameter dan kerapatan benang itu bahkan bukan hal yang sama. Kau tak tahu itu?\"\n\"Kau mengelim kelimannya dengan Union Special, kan? Tentu saja iya!\"\n\"Apakah ini Rigid? ... Oh. Selvage?\"\n\"Tunggu... kerapatan stiknya terlalu rapi. Kau pakai mesin, kan?\"\n\"Itu bukan bespoke kalau tidak dijahit tangan.\"\n\"... Itu bahkan bukan lubang kancing gaya Milanese.\"\n\"Kain kemeja harus di atas 200-count.\"\n\"Ugh, aku bisa melihat jahitan di bagian luar.\"\n\"Tuh, aku bisa melihat dua baris jahitan di sana. Ditolak.\"\n\"Ada apa dengan penyelesaian kampuh ini?\"\n\"Minimal three-ply.\""
+    },
+    {
+      "id": 148401,
+      "name": "Dewa Lembayung Prematur",
+      "desc": "Akhir Giliran: Tidak kehilangan Count [ChargeRouge]\n<color=#ff6000><mark=#ff000040><b><u>Dalam Clash, peroleh +1 Count [ChargeRouge] tiap kali [Laceration] musuh diaktifkan</u></b></mark></color>\nSaat Bunuh, peroleh Count [ChargeRouge] setara dengan (Potency [Laceration] + Count [Laceration]) pada target\nAwal Giliran: Pulihkan 3 SP untuk setiap Count [ChargeRouge] pada diri sendiri",
+      "flavor": "Dewa yang dikandung oleh kerinduan, terlahir ke dunia sebelum waktunya. Bahkan kelahirannya pun tak sempurna."
+    },
+    {
+      "id": 148402,
+      "name": "Denyut Lembut pada Otot",
+      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>Pada 15+ Count [ChargeRouge], jika unit ini tidak memiliki [Gourmandise], konsumsi semua Count [ChargeRouge] pada diri sendiri dan peroleh [Gourmandise]</u></b></mark></color>\n\nPeroleh efek berikut selama unit ini memiliki [Gourmandise]:\n- Pada Penggunaan Skill, peroleh +3 Count [Laceration]\n- Saat Serang, peroleh 1 [Laceration]\n- Ketika diserang pada salah satu Bagian-nya, peroleh 1 [BuffetSick]\n- Saat Kalah Clash, peroleh 3 [BuffetSick]\n- Saat Bunuh, jika target memiliki 3+ [BloodyMucus], hasilkan \"Robekan Daging dari Dewa Lembayung\" giliran berikutnya\n- Akhir Pertarungan: Pulihkan 3 SP untuk setiap musuh yang memiliki [BloodyMucus]\n\nAkhir Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki 30+ [BuffetSick]</u></b></mark></color> ketika [Gourmandise] kadaluarsa, giliran berikutnya, lemahkan pola unit ini dan Stagger unit \"Robekan Daging dari Dewa Lembayung\" di medan tempur\n\n※ Stack [BloodyMucus] dapat berkurang dengan cara berikut: <color=#ff6000><mark=#ff000040><b>Penggunaan Skill E.G.O dan Skill Defense</u></b></mark></color>\n※ \"Robekan Daging dari Dewa Lembayung\" peroleh [DeterioratingBody] setara dengan [BloodyMucus] pada target yang dikalahkan\n※ \"Robekan Daging dari Dewa Lembayung\" yang memiliki [DeterioratingBody] tidak dapat dikalahkan\n※ Hingga 3 \"Robekan Daging dari Dewa Lembayung\" dapat dihasilkan di medan tempur",
+      "flavor": "Anggota tubuhnya menghempas dan mejang secara liar seolah-olah semua itu tak pernah menjadi miliknya sendiri."
+    },
+    {
+      "id": 148403,
+      "name": "Perbedaan",
+      "desc": "Beri +50% damage terhadap target yang lebih lambat",
+      "flavor": "Segala sesuatu di depan mata bergerak cepat kian kemari dalam kecepatan yang berlainan."
+    },
+    {
+      "id": 148404,
+      "name": "Insting Bertahan Hidup",
+      "desc": "Awal Giliran: Peroleh 1 [SavePlacenta] dan beri 5 [Protection] pada Bagian Lifecord\nJika unit ini memiliki [Gourmandise], atau jika terkenda Stagger, Pasif ini tidak aktif",
+      "flavor": "Kesadaran sama sekali tak memiliki andil dalam perjuangan raga untuk bertahan dan melindungi dirinya sendiri, yang dilakukannya bahkan tanpa tahu di mana ia berawal dan berakhir."
+    },
+    {
+      "id": 148405,
+      "name": "Lifecord Terputus",
+      "desc": "Akhir Giliran: Jika Bagian Lifecord rusak, Bagian Tubuh peroleh 3 [Vulnerable] giliran berikutnya",
+      "flavor": "Benda-benda menggelantung dan terkulai apa yang menempel di tubuhku ini? Apakah ini bagian dari \"diriku\"? Begitu sulit untuk membedakannya."
+    },
+    {
+      "id": 148406,
+      "name": "Amukan Kelahiran yang Penuh Kekerasan dan Trauma",
+      "desc": "Akhir Giliran: Jika Bagian Lifecord tidak rusak, dan dan dibawah 50% HP Inti, peroleh [Gourmandise]\nLalu, tidak kehilangan Stack [Gourmandise] hingga Bagian Lifecord rusak",
+      "flavor": "Raga direnggut dari kehangatan menuju kedinginan; benak, dari ketenangan yang sejuk menuju kekacauan yang membara. Tak ada satu pun dari semua ini yang didasari atas kehendak sendiri."
+    },
+    {
+      "id": 149701,
+      "name": "Pulsasi Tanpa Pikiran",
+      "desc": "- Ketika dihasilkan, peroleh [DeterioratingBody] setara dengan Stack [BloodyMucus] pada target yang dikalahkan untuk menghasilkan unit ini\n\nMati ketika [DeterioratingBody] kadaluarsa",
+      "flavor": "Ia hidup, namun ia tak memiliki otak. Bisakah benak muncul dari otot yang berdenyut?"
+    }
+  ]
+}
