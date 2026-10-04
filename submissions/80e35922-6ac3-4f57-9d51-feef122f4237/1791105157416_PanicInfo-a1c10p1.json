@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": 1098,
+      "panicName": "Tinggalkan Kulitnya!",
+      "lowMoraleDescription": "Defense Level -3, Offense Level +1",
+      "panicDescription": "Defense Level -5, Offense Level +2"
+    },
+    {
+      "id": 1099,
+      "panicName": "Kembali ke Cangkangku...",
+      "lowMoraleDescription": "Maks Speed -1, Defense Level +1",
+      "panicDescription": "Maks Speed -5, Defense Level +3"
+    },
+    {
+      "id": 1102,
+      "panicName": "Kerinduan Kuliner",
+      "lowMoraleDescription": "Offense Level +1 dan terima +3% damage untuk setiap Stack [SapsareeHungry] pada diri sendiri",
+      "panicDescription": "Offense Level +2 dan terima +5% damage untuk setiap Stack [SapsareeHungry] pada diri sendiri"
+    },
+    {
+      "id": 1104,
+      "panicName": "FOMO",
+      "lowMoraleDescription": "Offense Level +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 2)\nPeroleh 1 [Vulnerable]",
+      "panicDescription": "Offense Level +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 2)\nPeroleh 1 [Vulnerable]"
+    },
+    {
+      "id": 1105,
+      "panicName": "Jahitan Berantakan",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 [Reduction]",
+      "panicDescription": "Awal Giliran: Peroleh 1 [Reduction] dan 1 [AttackDmgDown]"
+    },
+    {
+      "id": 1109,
+      "panicName": "Siklus Kematian",
+      "lowMoraleDescription": "Peroleh 3 [Protection]",
+      "panicDescription": "Peroleh 5 [Protection]"
+    },
+    {
+      "id": 1121,
+      "panicName": "Skisma Batin",
+      "lowMoraleDescription": "Defense Level -3, Offense Level +3\nSaat Clash terhadap target yang memiliki 5 [BloodyMucus], Clash Power +2",
+      "panicDescription": "Defense Level -5, Offense Level +3\nBeri +10% damage\nSaat Clash terhadap target yang memiliki 3 [BloodyMucus], Clash Power +3"
+    }
+  ]
+}
