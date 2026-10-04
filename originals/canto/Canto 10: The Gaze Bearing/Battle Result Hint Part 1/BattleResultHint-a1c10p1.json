@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": "battleTip_11006_1",
+      "content": "L'Inamovible will enter and leave the Changing Room in intervals."
+    },
+    {
+      "id": "battleTip_11006_2",
+      "content": "Attacking L'Inamovible while she is in the Changing Room will increase her aggressiveness."
+    },
+    {
+      "id": "battleTip_11008_1",
+      "content": "Sous Chef gains \"Bahan Cincang\" from unit she kills. These are consumed at the end of the turn, granting her stacks of \"Makan lezat dan semangatlah, kau dengar?\".\n\nThe more she gets the stacks, the stronger and more frequent will her powerful move, \"My signature knife work, kau dengar?\", become."
+    },
+    {
+      "id": "battleTip_11008_2",
+      "content": "Leather Wallets are not an exception when it comes to Sous Chef's ingredient-gathering. You cannot stop her culinary activity by playing defensively."
+    },
+    {
+      "id": "battleTip_11008_3",
+      "content": "Ketika Sous Chef fails to kill any targets, she will get stacks of \"Punya nafsu makan, kau dengar?\". \nPada 3 stacks, she will use <i>another</i> powerful Skill. It may be a good idea to let her continue cooking every once in a while."
+    },
+    {
+      "id": "battleTip_11010_1",
+      "content": "Sometimes, Clashing against the Manajer Lantai's certain skill with your Attack Skills could be a bad idea."
+    },
+    {
+      "id": "battleTip_11010_2",
+      "content": "Be too wary and let yourself accumulate 10 stacks of \"Waspada Menjaga\", dan you will risk inviting the Manajer Lantai's powerful Skill.\nPay attention so that \"Waspada Menjaga\" does not reach 10 stacks. You may also choose to lose a Clash against a certain Skill to remove the stacks."
+    },
+    {
+      "id": "battleTip_11010_3",
+      "content": "If you have \"Terima Kasih Telah Mendengarkan\", perhaps you will want to stay your attacks for a short while."
+    },
+    {
+      "id": "battleTip_11011_1",
+      "content": "Dewa Lembayung [Kehidupan Nirsempurna]'s Lifecord houses immense power. It may be a good idea to prioritize destroying it before all else."
+    },
+    {
+      "id": "battleTip_11011_2",
+      "content": "Let a Pendosa with high HP deal with the Dewa Lembayung [Kehidupan Nirsempurna]'s powerful Skill."
+    },
+    {
+      "id": "battleTip_11011_3",
+      "content": "If your unit are gaining too many \"Baptis [Crimson]\" Stack, use Defense Skills to remove them. Pada Stack maks, it causes a great deal of Bleed Damage, dan the defeated unit will become an enemy—\"Robekan Daging dari Dewa Lembayung [Kehidupan Nirsempurna].\""
+    },
+    {
+      "id": "battleTip_11016_1",
+      "content": "If you are hit by the \"Pick stitch too obvious, you say?! I'll pick-stitch your ass!\" Skill while you have accumulated many stacks of Naildle, you will enter the \"Ditaksidermisasi\" state and receive devastating damage."
+    },
+    {
+      "id": "battleTip_11016_2",
+      "content": "If there are surviving Needlekins in the same turn as when the Raja Needleworks uses a powerful Skill, they will enhance that Skill's damage."
+    }
+  ]
+}
