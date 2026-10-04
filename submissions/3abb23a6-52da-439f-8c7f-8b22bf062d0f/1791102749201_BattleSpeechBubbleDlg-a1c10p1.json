@@ -1,0 +1,269 @@
+{
+  "dataList": [
+    {
+      "id": "10SV-004",
+      "desc": "수셰프 스킬4",
+      "dlg": "Makin lezat dan makin nikmat, kau dengar? Cita rasanya tiada tandingannya di dunia ini, kau dengar?"
+    },
+    {
+      "id": "10SV-005",
+      "desc": "수셰프 스킬5",
+      "dlg": "Kau boleh masuk ke dalam soda dan ikut berkontribusi, kau dengar?"
+    },
+    {
+      "id": "10SV-006",
+      "desc": "수셰프 스킬6",
+      "dlg": "Cepat-cepat, cincang-cincang, kau dengar?"
+    },
+    {
+      "id": "10SV-007",
+      "desc": "수셰프 스킬7",
+      "dlg": "Kau sudah ikut membantu, jadi yang satu ini gratis buatmu, kau dengar?"
+    },
+    {
+      "id": "10SV-008_a",
+      "desc": "수셰프 스킬8",
+      "dlg": "Yang begini tidak akan memuaskan Sous Chef sejati sepertiku, kau dengar?"
+    },
+    {
+      "id": "10SV-008_b",
+      "desc": "수셰프 스킬8",
+      "dlg": "Aku juga menginginkan bahan yang itu, kau dengar?"
+    },
+    {
+      "id": "10SV-009",
+      "desc": "수셰프 스킬9",
+      "dlg": "Sodanya mulai mendatar... Kalau begini tidak bakal berhasil, kau dengar?"
+    },
+    {
+      "id": "10SV-010",
+      "desc": "수셰프 특수 패턴1이 나오는 턴 시작 시 (전투당 1회)",
+      "dlg": "Mnnhnmhmhm~ Sensasi sodanya... Ini yang paling luar biasa, kau dengar? Boucher juga pasti bakal senang setengah mati, kau dengar?"
+    },
+    {
+      "id": "10SV-011",
+      "desc": "수셰프 특수 패턴2가 나오는 턴 시작 시 (전투당 1회)",
+      "dlg": "*endus* *endus* Aroma yang sangat lezat, kau dengar? Bikin aku lapar saja, kau dengar...?"
+    },
+    {
+      "id": "10SV-024-01",
+      "desc": "붉은 신 스킬3",
+      "dlg": "Ti... tok!"
+    },
+    {
+      "id": "10SV-024-02",
+      "desc": "붉은 신 스킬3",
+      "dlg": "Ti... tok!"
+    },
+    {
+      "id": "10SV-026",
+      "desc": "붉은 신 스킬5",
+      "dlg": "A... aku inga...!! Suara...!!"
+    },
+    {
+      "id": "10SV-029",
+      "desc": "붉은 신 스킬8",
+      "dlg": "Biarkan aku d... nyanyian"
+    },
+    {
+      "id": "10SV-031",
+      "desc": "붉은 신 스킬10",
+      "dlg": "Kemarahan! Sangat sel... aras dengan... tangisan!"
+    },
+    {
+      "id": "10SV-032",
+      "desc": "붉은 신 수비 스킬",
+      "dlg": "Sangat mirip... apa... yang disebut... \"ninabub...\" "
+    },
+    {
+      "id": "10SV-034",
+      "desc": "붉은 신 스킬13",
+      "dlg": "Panggilan... Panggilan Penghakimaaan... Manajer...!!!"
+    },
+    {
+      "id": "10SV-035-a",
+      "desc": "붉은 신 폭식 보유 1턴째 턴 시작",
+      "dlg": "Tidurlah yang nyenyak... Bayiku..."
+    },
+    {
+      "id": "10SV-035-b",
+      "desc": "붉은 신 폭식 보유 2턴째 턴 시작",
+      "dlg": "... Lepaskan... hanya benang... yang paling halus..."
+    },
+    {
+      "id": "10SV-035-c",
+      "desc": "붉은 신 폭식 보유 3턴째 턴 시작",
+      "dlg": "Tumbuhlah... tinggi dan kuat..."
+    },
+    {
+      "id": "10SV-036-01",
+      "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+      "dlg": "*isak* Sakit... sakit...!!"
+    },
+    {
+      "id": "10SV-036-02",
+      "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+      "dlg": "*isak* Sakit... sakit...!!"
+    },
+    {
+      "id": "10SV-157",
+      "desc": "스테이지 시작시 (개전)",
+      "dlg": "Aku sendiri yang akan memadamkan api nistamu sebelum hal itu merusak tatanan kami."
+    },
+    {
+      "id": "10SV-158",
+      "desc": "3턴 시작시",
+      "dlg": "Cukup alasanmu! Apa kau benar-benar mengira mengenakan jam di kepalamu bisa menyembunyikan identitasmu? Warna merah tua yang menodai agama itu—kau adalah bagian dari para Rouge, aku tahu itu!"
+    },
+    {
+      "id": "10SV-159",
+      "desc": "146506스킬 사용시 (가장 강력한 스킬. 전투당 1회)",
+      "dlg": "Demi ketenangan abadi kami, aku akan merebut kembali Getah itu!"
+    },
+    {
+      "id": "10SV-160",
+      "desc": "5턴 시작시 (르루주가 아닌 것 같은데…)",
+      "dlg": "Ah—hmm... Jejak keemasan itu... tidak mirip dengan milik Getah Keemasan..."
+    },
+    {
+      "id": "10SV-090",
+      "desc": "바늘이 왕 스테이지 시작 시",
+      "dlg": "Pekikan... penuh semangat...! P... pestaku...!"
+    },
+    {
+      "id": "10SV-091",
+      "desc": "바늘이 왕 1페이즈 3턴 시작 시",
+      "dlg": "Hnnnnnnh!! Gema... yang menua... Em... asku...?"
+    },
+    {
+      "id": "10SV-092",
+      "desc": "바늘이 왕 1페이즈 4턴 시작 시",
+      "dlg": "Suara... napas... memudar... tidak...! Denyutannya... tidak boleh berhen-ti!"
+    },
+    {
+      "id": "10SV-093",
+      "desc": "바늘이 왕 2페이즈 시작 시",
+      "dlg": "Tidak! Tidak bisa... menahannn... nya! Kelaparan... dan... dahaga...!"
+    },
+    {
+      "id": "10SV-094",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "Per... gi...!"
+    },
+    {
+      "id": "10SV-094-01",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "Bawa... itu kepadaku...!"
+    },
+    {
+      "id": "10SV-094-02",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "Lagi... Lagi...! Masih... belum cukup...!"
+    },
+    {
+      "id": "10SV-095",
+      "desc": "바늘이 왕 149607 스킬 사용 시",
+      "dlg": "Berked... ip... Ber... kedip!"
+    },
+    {
+      "id": "10SV-096",
+      "desc": "바늘이 왕 짝수 턴 시작 시 (전투당 1회)",
+      "dlg": "Atas na... ma... R-aja...!"
+    },
+    {
+      "id": "10SV-097",
+      "desc": "바늘이 왕 149609 스킬 사용 시",
+      "dlg": "Berhen... ti...! Tertawa...! Ha...!"
+    },
+    {
+      "id": "10SV-098",
+      "desc": "바늘이 왕 149610 스킬 사용 시",
+      "dlg": "Ahh...! Hnnh..."
+    },
+    {
+      "id": "10SV-099",
+      "desc": "바늘이 왕 전투 패배 시",
+      "dlg": "Heeh... Ha... H-a! H-a! H-a...!"
+    },
+    {
+      "id": "10SV-100",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "Diam! Diam!"
+    },
+    {
+      "id": "10SV-100-01",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "Diam! Diam!"
+    },
+    {
+      "id": "10SV-100-02",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "Diam! Diam!"
+    },
+    {
+      "id": "10SV-161",
+      "desc": "포레그 스테이지 시작 시 (개전)",
+      "dlg": "Hancurkan aku... Aku tak ingin melangkahi bumi ini dengan kakiku lagi..."
+    },
+    {
+      "id": "10SV-162",
+      "desc": "포레그 148203 스킬 사용시",
+      "dlg": "Tolong! Robek saja! Kakiku yang tak berguna ini!"
+    },
+    {
+      "id": "10SV-163",
+      "desc": "포레그 148204 스킬 사용시(전투당 1회)",
+      "dlg": "Oh... suara langkah kaki... langkah kaki di mana-mana..."
+    },
+    {
+      "id": "10SV-164",
+      "desc": "원레그 스테이지 시작 시 (개전)",
+      "dlg": "Kalian, sekawanan orang asing berkaki dua yang rendah, berani menantang diriku yang agung ini?!"
+    },
+    {
+      "id": "10SV-165",
+      "desc": "원레그 148304 또는 148305 스킬 사용 시 (가장 강력한 스킬. 전투당 1회)",
+      "dlg": "Ingatlah rasa sakit ini pada setiap langkah yang kalian ambil!"
+    },
+    {
+      "id": "10SV-166",
+      "desc": "원레그 148303 스킬 사용 시 (25% 확률 출력)",
+      "dlg": "Diusir!"
+    },
+    {
+      "id": "10SV-145",
+      "desc": "스테이지 시작시 (개전. 일반 상태)",
+      "dlg": "Tanggalkan kebohongan ini... Dan peluklah diriku yang sebenarnya..."
+    },
+    {
+      "id": "10SV-146",
+      "desc": "고치 상태 패턴 진입시 (전투당 1회)",
+      "dlg": "Ah... Kehangatan yang sangat nyaman... Setiap kata begitu baru, begitu hidup... dan tak kenal ampun... Bicaralah padaku, bicaralah lebih banyak padaku..."
+    },
+    {
+      "id": "10SV-147",
+      "desc": "146605스킬 사용시 ",
+      "dlg": "Tersemat!"
+    },
+    {
+      "id": "10SV-147-01",
+      "desc": "146605스킬 사용시 ",
+      "dlg": "Dan terpaku!"
+    },
+    {
+      "id": "10SV-148",
+      "desc": "일반 상태 패턴 재 진입시 (전투당 1회)",
+      "dlg": "Lagi... Lagi, lagi, lagi! Oh, katakan padaku! Suara hangat milikmu itu!"
+    },
+    {
+      "id": "10SV-149",
+      "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+      "dlg": "Mendamba! Konsumsi!"
+    },
+    {
+      "id": "10SV-149-01",
+      "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+      "dlg": "Hancurkan! Lahap!"
+    }
+  ]
+}
