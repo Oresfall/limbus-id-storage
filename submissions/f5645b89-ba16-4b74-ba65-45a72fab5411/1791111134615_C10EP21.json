@@ -1,0 +1,267 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "koridor, 3F",
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "Jelas tidak ada siapa-siapa—"
+    },
+    {
+      "id": 2,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>—mengajariku bahwa menunjukkan wajahku adalah bentuk kesopanan yang paling sederhana saat memulai percakapan? Sebenarnya saya <i>telah</i> diajari, namun saya tidak berada di sana bersama Anda untuk memberi salam secara langsung.</color>"
+    },
+    {
+      "id": 3,
+      "model": "잔느",
+      "content": "<color=#a5ab8e> saya bukan pelanggan di sini di Grand Magasin. Saya adalah salah satu dari yang disebut \"Giants\"—pilar-pilar yang menjaga Sisyphe tetap berdiri.</color>"
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "Seorang \"Raksasa,\" katamu... Hm, apa itu? sebuah-"
+    },
+    {
+      "id": 5,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>—fraksi? Tidak terlalu. Operasi sehari-hari Grand Magasin bergantung sepenuhnya pada manajemen kami para Raksasa. Kami bahkan tidak bisa mengambil PTO saat kami mau.</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#a5ab8e>Oh ya, Anda mungkin mendengar beberapa pelanggannya memanggil \"Suara\" tanpa tubuh saat Anda melewati Grand Magasin. Biasanya yang dimaksud adalah kami, para \"Raksasa.\" Meskipun mungkin ada beberapa pengecualian.</color>"
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "... kamu."
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "Apakah kamu membaca pikiranku?"
+    },
+    {
+      "id": 9,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>*terkekeh* Tentu saja tidak. Pertanyaan-pertanyaannya begitu mudah ditebak sehingga saya tidak bisa menahan diri, itu saja</color>"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "Per- permisi..."
+    },
+    {
+      "id": 11,
+      "content": "Sinclair dengan hati-hati menyelinap ke dalam percakapan."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "Jika kalian berdua menjalin hubungan romantis... <i>sekali</i>, apakah itu berarti..."
+    },
+    {
+      "id": 13,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Maksudnya benar-benar—hubungan kami terbakar oleh rasa rindu, hubungan yang hanya bisa dipadamkan oleh kepuasan sesaat... Dan kami tidak pernah menyia-nyiakan satu momen pun untuk membuat hubungan <i>beruap</i> di antara kami berdua. Sampai suatu hari Meursault meninggalkan N Corp. selamanya tanpa mengucapkan selamat tinggal yang layak.</color>"
+    },
+    {
+      "id": 14,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Benar, bukan?</color>"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "iya."
+    },
+    {
+      "id": 16,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Biar saya tanya lagi, sekarang kita sudah melalui babak Likuidasi. Apakah kamu kembali karena kamu merindukanku?</color>"
+    },
+    {
+      "id": 17,
+      "model": "뫼르소",
+      "content": "Karena ini adalah kesopanan dasar yang diperluas ke api lama..."
+    },
+    {
+      "id": 18,
+      "model": "뫼르소",
+      "content": "\"Aku merindukanmu\""
+    },
+    {
+      "id": 19,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Hehe, Hehe, baiklah. Itu cukup baik bagi saya.</color>"
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "Aku tidak tahu permainan apa yang kalian berdua mainkan, tapi..."
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "Jika Anda seorang Raksasa, dan jika para Raksasa serupa dengan pengawas \"department store\" ini, apakah Anda berwenang untuk melepaskan kami dari sini?"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "... Dia tidak bisa. Dia tidak akan melakukannya, meskipun dia mampu melakukannya."
+    },
+    {
+      "id": 23,
+      "model": "오티스",
+      "content": "Benar... Tentu saja kamu tahu."
+    },
+    {
+      "id": 24,
+      "content": "Outis menatap Meursault dengan curiga."
+    },
+    {
+      "id": 25,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Jadi rekan kerja baru Anda ini—dia selalu seperti ini, ya? Sangat tidak percaya.</color>"
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 27,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Saya adalah Raksasa dari Grand Magasin—melindungi dan memelihara Grand Magasin adalah tugas saya. Saya bisa menjaga Anda dengan menceritakan cerita tentang tempat ini, tapi...</color>"
+    },
+    {
+      "id": 28,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>... Aku tidak bisa memilih kalian bertigabelas saja seperti permainan derek.</color>"
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "Masih harus mengikuti aturan dan ketentuan ya? Maka Anda tidak punya apa-apa untuk ditawarkan kepada kami selain ilusi kemahakuasaan. Biasa-biasa saja."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<... Dia tidak akan selalu memperhatikan kita. Bagaimanapun, dia masih memiliki department store untuk dikelola.>"
+    },
+    {
+      "id": 31,
+      "model": "오티스",
+      "content": "Aku mulai memahami gambaran yang lebih jelas, Manajer Eksekutif. Setiap \"Raksasa\" juga harus bertanggung jawab atas mengawasi aspek tertentu dari tempat ini."
+    },
+    {
+      "id": 32,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Oh? Sepertinya dia lebih dari sekedar paranoia... Pfft, masing-masing temanmu punya sesuatu yang spesial pada diri mereka, ya?</color>"
+    },
+    {
+      "id": 33,
+      "model": "싱클레어",
+      "content": "......."
+    },
+    {
+      "id": 34,
+      "model": "싱클레어",
+      "content": "Um... Bolehkah saya mengajukan pertanyaan, Nona Jeanne? Mengapa Anda membiarkan kami mendengar Suara Anda? Apakah hanya karena anda senang melihat Meursault...?"
+    },
+    {
+      "id": 35,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Di tempat kerja, saya biasanya... sendirian.</color>"
+    },
+    {
+      "id": 36,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Saya duduk di sudut ini dari ruangan yang tidak terlalu besar atau kecil... menatap ke dalam luasnya Grand Magasin yang tak terbendung seperti itu adalah hal yang paling normal di dunia.</color>"
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "... Dan?"
+    },
+    {
+      "id": 38,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Tahukah kamu, terkadang...</color>"
+    },
+    {
+      "id": 39,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>... Terkadang aku hanya ingin membicarakan perasaan ini dengan seseorang.</color>"
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "Mau menjelaskan lebih lanjut—"
+    },
+    {
+      "id": 41,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Saatnya saling mengucapkan selamat tinggal. Aku tahu kamu sangat ingin bertemu denganku, tapi cobalah menahan diri untuk saat ini.</color>"
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "... Aku tahu kamu masih ada di sini."
+    },
+    {
+      "id": 44,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>... Huu, membosankan.</color>"
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "Aku terbiasa berurusan dengan tipe seperti kamu."
+    },
+    {
+      "id": 46,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Hei, jangan dianggap serius. Ini tidak sering terjadi bahwa aku bisa bersenang-senang seperti ini di tempat kerja.</color>"
+    },
+    {
+      "id": 47,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>Benar-benar pergi sekarang—tchao.</color>"
+    },
+    {
+      "id": 48,
+      "model": "싱클레어",
+      "content": "... Rasanya tidak terlalu nyata."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Apa yang tidak terasa nyata?>"
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "Bahwa Meursault, dari sekian banyak orang, ternyata pernah menjalin hubungan romantis dengan seseorang."
+    },
+    {
+      "id": 51,
+      "model": "뫼르소",
+      "content": "Hubungan kami mengandung unsur-unsur yang tidak berbeda dengan apa yang biasanya diharapkan dari \"pasangan romantis.\""
+    },
+    {
+      "id": 52,
+      "model": "뫼르소",
+      "content": "Kami berkencan dan menghabiskan waktu bersama."
+    }
+  ]
+}
