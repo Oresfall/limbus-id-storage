@@ -1,0 +1,402 @@
+{
+  "dataList": [
+    {
+      "id": "TangleBlackYarn",
+      "name": "Kekusutan",
+      "desc": "- Stack Maks: 30\n- Terima +1% damage untuk setiap Stack\n- Base Power -1 untuk setiap 10 Stack\n- Akhir Giliran: Peroleh 1 Bind giliran berikutnya untuk setiap 3 Stack (maks 10)\n- <color=#ff6000><mark color=#ff000040><b><u>Saat Pakai Skill Defense,</color></mark></b></u> kehilangan setengah dari Stack (dibulatkan ke atas)",
+      "summary": "",
+      "flavor": "Toko serba ada ini adalah dunia jahitan yang terikat oleh benang dan jarum. Bahkan apa yang berasal dari laut pun kini mendapati tubuhnya menjelma benang, air hitam yang terbelit menjadi benang wol hitam."
+    },
+    {
+      "id": "SickBlackYarn",
+      "name": "Ledakan Jahitan Hitam",
+      "desc": "- Stack Maks: 50\n- Terima +1% damage untuk setiap Stack\n- Awal Giliran: Peroleh 1 Fragile untuk setiap 25 Stack",
+      "summary": "",
+      "flavor": "Setiap kali helai terlepas mencuat dari benang hitam, ia membawa aroma asin dari air mata... asingnya terasa bernostalgia terlepas dari dirinya sendiri."
+    },
+    {
+      "id": "HeavyBlackYarn",
+      "name": "Gumpalan Benang Hitam",
+      "desc": "- Stack Maks: 5\n- Peroleh Slot Weight setara dengan Stack (per Part)\n- Terima +10% damage untuk setiap Stack",
+      "summary": "",
+      "flavor": "Warna hitam adalah cerminan dari kematian dan bobot. Sama seperti hal yang menampung air laut hitam menjadi berat, benang hitam kian bertambah bobotnya saat mengumpul. Ia menghimpun segala sesuatu ke dalam dirinya, terikat erat, tenggelam, lalu terhenti."
+    },
+    {
+      "id": "HideBlackYarn",
+      "name": "Kolam Air Hitam",
+      "desc": "- Potency Maks: 6\n- Count Maks: 2\n- <color=#ff6000><mark color=#ff000040><b><u>Ketika diserang, kehilangan 1 Potency</color></mark></b></u> (sekali per Skill)\n- Akhir Giliran: Kehilangan 1 Count\n- <color=#ff6000><mark color=#ff000040><b><u>Kadaluarsa jika Potency atau Count mencapai 0</color></mark></b></u>\n- Tidak dapat Stagger\n- Pada Serangan Tanpa Lawan, beri +100% damage\n- Terima -100% damage",
+      "summary": "",
+      "flavor": "Tempat ini kini bukanlah laut maupun akuarium, melainkan sekadar kolam yang genang. Namun kerinduan mendalam yang mengendap di sana menyimpan cukup duka untuk menyembunyikan raga sesaat."
+    },
+    {
+      "id": "AngryBlackYarn",
+      "name": "Insting Predator dari Eld",
+      "desc": "- Semua Bagian peroleh Clash Power +2 untuk setiap Bagian yang mempunyai efek ini\n- Beri +5% damage untuk setiap 3 Stack Kekusutan pada target (maks 50%)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "flavor": "Setiap akuarium memiliki pemangsanya sendiri, mirip seperti Manajer Lantai di toko serba ada. Pemangsa tersebut kini kenakan wujud seekor ikan, namun dalam Sistem Sisyphe masa lampau, tidak ada makhluk berwujud ikan di Akuarium. Pikiran dari mereka yang tinggal di sana mungkin adalah ikan, tetapi wujud mereka adalah manusia."
+    },
+    {
+      "id": "BlackYarn_LowMorale",
+      "name": "Duka Seorang Anak",
+      "desc": "- Moral Rendah\n- Pada Penggunaan Skill, jika Pwie target utamanya, Clash Power +3, Base Power +2\n- Ketika diserang, beri 1 Kekusutan (3 kali per Skill)",
+      "summary": ""
+    },
+    {
+      "id": "BlackYarn_Panic",
+      "name": "Duka Seorang Anak",
+      "desc": "- Panik\n- Semua Serangan menarget Pwie\n- Pada Penggunaan Skill, jika Pwie target utamanya, Clash Power +6, Base Power +4\n- Awal Pertempuran: Uba semua Coin Skill menjadi Unbreakable Coin\n- Ketika diserang, beri 1 Kekusutan (6 kali per Skill)",
+      "summary": ""
+    },
+    {
+      "id": "FlowerLaurelWreath",
+      "name": "Karangan Bunga Pendamaian Laurel",
+      "desc": "- Hilangkan semua Batas Stagger\n- Clash Power +2\n- Terima -50% damage SP dari Sinking (dibulatkan ke bawah)\n- Akhir Giliran: Pulihkan 10 SP dan peroleh 5 Haste giliran berikutnya\n- <color=#ff6000><mark color=#ff000040><b><u>Menang Clash: Pulihkan 5 SP untuk semua kawan termasuk unit ini dan Unit Assist</color></mark></b></u>",
+      "summary": "",
+      "flavor": "Biarlah pengakuan atas dosa-dosanya bermekaran di bawah keharuman bunga-bunga."
+    },
+    {
+      "id": "AlriuneSillage",
+      "name": "Aroma Samar",
+      "desc": "- Stack Maks: 30\n- Akhir Giliran: Terima damage SP setara dengan Stack\n- Jika unit ini menerima damage Sinking, peroleh 1 Stack\n- Pada Tremor Burst, beri 1 ~ 2 Aroma Samar untuk 3 kawan acak lain\n- Pada Stack maks:\n · Peroleh 2 Tremor dan aktifkan Tremor Burst pada diri sendiri\n · Terima damage Gloom setara dengan Sinking pada diri sendiri\n · Aroma Samar kadaluarsa\n · Tidak dapat peroleh untuk giliran saat ini\n- Saat mati, beri setengah dari Stack Aroma Samar unit ini secara acak pada kawan dari unit ini (dibulatkan ke bawah)",
+      "summary": "",
+      "flavor": "Keharuman membuahkan kerinduan. Kerinduan, pada gilirannya, menjelma menjadi idaman."
+    },
+    {
+      "id": "AlriunePetal",
+      "name": "Kelopak",
+      "desc": "Stack Maks: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Pada 3 Stack, gunakan Skill kuat giliran tersebut</color></mark></b></u>\n- Beri +(Stack Kelopak pada diri sendiri x 10)% damage ke target yang Stagger\n- Akhir Giliran: Peroleh 1 Stack",
+      "summary": "",
+      "flavor": "Sehelai kelopak, dua helai kelopak... lalu, tiga."
+    },
+    {
+      "id": "ThreadDye",
+      "name": "Benang Berwarna",
+      "desc": "- Stack Maks: 3\n- Tidak mendapat Haste selama memiliki efek ini\n- Akhir Giliran: Hilangkan Haste yang akan diberikan giliran berikutnya\n- Akhir Giliran: Peroleh Bind giliran berikutnya setara dengan Potency dan kehilangan 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>Pada Stack maks, peroleh Immobilize giliran ini dan giliran berikutnya; lalu, efek ini kadaluarsa</color></mark></b></u>",
+      "summary": "",
+      "flavor": "Seperti halnya paku, benang akan menahanmu dengan erat, warna dari ikatannya telah ditentukan sebelumnya."
+    },
+    {
+      "id": "SpreadingDye",
+      "name": "Media Kilap",
+      "desc": "- Jika target memiliki Bind, beri 1 lebih banyak Potency Bleed dan Count Bleed\n- Pada Penggunaan Skill, jika target utama memiliki Benang Berwarna atau Pewarna Tar, Skill tersebut peroleh Final Power +1 dan beri +20% damage",
+      "summary": "",
+      "flavor": "Sebagian besar pewarna dimaksudkan untuk memiliki warna.\nNamun pewarna yang satu ini tidak memilikinya.\n\nDioleskan dalam goresan yang kasar dan tak merata, ia menyingkap spektrum warna semata-mata lewat pantulan dan pembiasan cahaya murni."
+    },
+    {
+      "id": "StickyDye",
+      "name": "Pewarna Tar",
+      "desc": "- Stack Maks: 1\n- Min & Maks Speed -1 (min 1)",
+      "summary": "",
+      "flavor": "Pewarna itu melekat erat, membuat setiap langkah kian berat untuk diayunkan."
+    },
+    {
+      "id": "ChargeKhaki",
+      "name": "Inersia Kain Bergeser",
+      "desc": "- Charge Unik\n- Count Maks: 20\n- Berinteraksi sama seperti Charge normal pada efek yang menambah atau mengurangi Potency dan Count Charge\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "",
+      "flavor": "Mereka yang terbawa arus bak pelampung mungkin tak dapat mengubah arus, namun mereka masih dapat mendukung arus dan berkomitmen pada tindakan mereka."
+    },
+    {
+      "id": "FinishedFabric",
+      "name": "Potongan Kain",
+      "desc": "- Stack Maks: 30\n- Skill yang peroleh atau konsumsi Count Charge (termasuk Charge Unik) beri +(Stack)% damage (maks 30%)\n- Akhir Giliran: Kehilangan 5 Stack\n  · Jika Perisai sudah habis giliran ini, kehilangan 10 Stack saja",
+      "summary": "",
+      "flavor": "Kain dengan fungsinya masing-masing hanya dapat memenuhi tujuannya ketika dipotong dengan benar."
+    },
+    {
+      "id": "LargeTailoringShears",
+      "name": "Gunting Bunga",
+      "desc": "- Stack Maks: 3\n- Beri +(5 + Stack x 5)% damage terhadap Pendosa (maks 20%)\n- Pada Penggunaan Skill terhadap Pendosa dengan Target Perubahan, peroleh Clash Power setara dengan Stack",
+      "summary": "",
+      "flavor": "Gunting yang digunakan untuk memotong material primordial yang dihasilkan di bawah tanah memiliki ukuran lebih besar dan lebih luar biasa. Gunting ini telah memotong kain pertama yang pernah ditenun. Bunga yang mekar darinya adalah hal yang wajar, karena mereka selalu memotong segala sesuatunya sampai ke akar-akarnya."
+    },
+    {
+      "id": "TailoringTarget",
+      "name": "Target Perubahan",
+      "desc": "- Min & Maks Speed +5\n- Giliran ini, Skill yang pertama digunakan peroleh Clash Power +3\n- Awal Pertempuran: Jika unit ini memakai Skill Defense, terima -80% damage dari Annette Sang Pengubah\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "flavor": "Alih-alih merombak pakaian agar pas dengan tubuh seseorang, dia merombak seseorang agar pas dengan pakaian tersebut. Di sini, pakaian adalah hal yang mendefinisikan pemakainya; menjaga keutuhan busana dan merombak tubuh seseorang adalah cara untuk melindungi nilai diri serta melayani pelanggan."
+    },
+    {
+      "id": "ScissorsMark",
+      "name": "Tanda Pencukuran",
+      "desc": "- Stack Maks: 9\n- Kehilangan Defense Level setara dengan Stack",
+      "summary": "",
+      "flavor": "Tanda pemotongan yang digunakan untuk memotong kain dan bahan lain sesuai ukuran yang diperlukan."
+    },
+    {
+      "id": "DamagedFabric",
+      "name": "Dicukur Terpisah",
+      "desc": "- Stack Maks: 30\n- Awal Giliran : Peroleh 1 HP Healing Down untuk setiap 6 Stack (maks 5)\n- Saat Clash dengan \"Membuat Pola\" atau \"Surfile à la Chaîne\", kehilangan Clash Power setara dengan Stack",
+      "summary": "",
+      "flavor": "Setelah kain dipotong-potong, menjahit kembali perca-perca itu hanya akan menjadikannya tambal sulam. Ia tidak akan pernah bisa kembali menjadi sehelai kain utuh yang ditenun dari benang aslinya."
+    },
+    {
+      "id": "ThirdTailor_LowMorale",
+      "name": "Tangan Gemetar",
+      "desc": "- Moral Rendah\n- Terima +7.5% damage\n- Setiap kali unit ini diserang, peroleh +1 Count Tremor (sekali per Skill, maks 5 per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tanganku mulai gemetar, bahkan gunting ini tak bisa kupegang dengan stabil... Aku tidak akan bisa memotong polanya lagi..."
+    },
+    {
+      "id": "ThirdTailor_Panic",
+      "name": "Tangan Gemetar",
+      "desc": "- Panik\n- Terima +15% damage\n- Setiap kali unit ini diserang, peroleh 1 Potency Tremor dan +1 Count Tremor (sekali per Skill, maks 5 per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tanganku mulai gemetar, bahkan gunting ini tak bisa kupegang dengan stabil... Aku tidak akan bisa memotong polanya lagi..."
+    },
+    {
+      "id": "GoldenLeatherEnhance",
+      "name": "Hujan dari Sengatan Mentari [Raja Needleworks]",
+      "desc": "Final Power Skill  +1 untuk setiap 3 Naildle pada target (maks 3)",
+      "summary": "",
+      "flavor": "\"Kamu tidak perlu mendengarkan lagi. Kau hanya perlu membuatnya agar kamu tidak bisa mendengar mereka. Lakukan saja apa yang kamu inginkan. Jangan menyangkal dirimu sendiri.\""
+    },
+    {
+      "id": "NoirShieldUp",
+      "name": "Berkah Dewa Obsidian",
+      "desc": "- Potency Maks: 999\n- Base Count: 2\n- Tidak dapat Stagger\n- Awal Giliran: Bagian peroleh Perisai setara dengan Stack\n- Efek ini terhitung sebagai efek \"Manajemen Perisai\"\n- Kehilangan Stack ketika kehilangan Perisai\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "",
+      "flavor": "Dewa Obsidian. Raksasa Obsidian. Pendeta Palu. Dewa Obsidian dari Grand Magasin, yang wilayah kekuasaannya adalah kekuatan pelestarian, memberikan berkahnya melalui kontak langsung. Palu itu keras, dan rona hitamnya menyerap segala sesuatu dan menghentikannya... seperti kematian itu sendiri."
+    },
+    {
+      "id": "NoirShieldPiece",
+      "name": "Pembalasan Apokaliptik",
+      "desc": "- Stack Maks: 2\n- Terima -10% damage\n- Pada 2 Stack, Final Power -2",
+      "summary": "",
+      "flavor": "Terasa seolah kepingan massa imajiner tengah menekan raga—sebuah tiruan kasar dari hukuman sang Raksasa. Sesuai dengan ikrar, mendaki ke tempat yang lebih tinggi bagaikan memikul batu besar dan memanjat dalam keheningan."
+    },
+    {
+      "id": "VibrationResonance",
+      "name": "Negasi Konservasi",
+      "desc": "- Stack Maks: 2\n- Terima -90% damage dari Tremor Burst; -90% ke Batas Stagger yang dinaikkan\n- Beri +20% damage\n- Akhir Giliran: Kehilangan 1 Stack ",
+      "summary": "",
+      "flavor": "Gelombang tandingan yang dihadapkan pada setiap pergerakan yang mengupayakan pelestarian akan mengguncang dan mencerai-beraikan pelestarian itu sendiri, mencegahnya untuk berakar."
+    },
+    {
+      "id": "NoirField",
+      "name": "Tempat Suci Konservasi",
+      "desc": "- Stack Maks: 2\n- Awal Giliran: Peroleh 1 Power Up dan 1 Damage Up untuk setiap 20% HP yang hilang (maks 3 respectively)\n- Awal Giliran: Semua Skill kawan \"Le Noir\" peroleh Final Power setara dengan Stack\n\n- Awal Giliran: Pada 1+ Stack, beri efek berikut ke semua kawan \"Le Noir\", termasuk unit ini:\n · SP +10\n · Attack Power +2\n · Defense Level +2\n\n- Awal Giliran: Pada 2+ Stack, beri efek berikut ke semua musuh non-\"Le Noir\":\n · Maks Speed -1\n · Offense Level -6\n · Defense Level -2",
+      "summary": "",
+      "flavor": "Tempat perlindungan di mana nilai konservasi yang diupayakan oleh Le Noir dilestarikan. Di dalamnya, tindakan pengawetan para Noir dipertahankan demi keuntungan mereka. Ini adalah bidang konservasi abadi—tempat yang membangkitkan dorongan untuk mendekati kematian tanpa batas."
+    },
+    {
+      "id": "NoirSquareCollapse",
+      "name": "Runtuhnya Formasi",
+      "desc": "- Stack Maks: 10\n- Kehilangan Defense Level setara dengan Stack",
+      "summary": "",
+      "flavor": "Ketika keyakinan—keyakinan bahwa masing-masing akan menjalankan peran yang ditugaskan dengan patuh—mulai runtuh, keraguan pun berakar di celah-celahnya."
+    },
+    {
+      "id": "NoirNail",
+      "name": "Paku yang Dijanjikan",
+      "desc": "- Stack Maks: 3\n- Ketika Tremor Burst diaktifkan pada unit ini,\n · Terima damage Sloth setara dengan Potency Tremor pada diri sendiri\n · Peroleh 1 Fragile\n · Kehilangan 1 Stack",
+      "summary": "",
+      "flavor": "Palu yang dijanjikan terikat oleh janji untuk menancapkan paku. Karena itu, setiap kali palu diayunkan jatuh, sebuah paku harus ada di sana... bahkan jika tidak ada paku di sana sebelumnya."
+    },
+    {
+      "id": "BuffetField",
+      "name": "Le Vomissement",
+      "desc": "- Setelah memasuki Pertemuan, Pengaruh Le Vomissement menyebar pada Awal Giliran setiap 2 giliran\n· Tahap 1: Pwie\n· Tahap 2: Semua Pendosa kawan\n· Tahap 3: Semua target",
+      "flavor": "Apa yang dilahap demi kelangsungan hidup, demi pertumbuhan, menyatukan apa yang ada di luar ke dalam apa yang menjadi milikku. Kemudian hal itu dikeluarkan sekali lagi, dan apa yang tadinya milikku menjadi bagian dari luar.\n\nIa bersifat siklis, meluas, dan memangsa.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_0",
+      "name": "Le Vomissement",
+      "desc": "- Setelah memasuki Pertemuan, Pengaruh Le Vomissement menyebar pada Awal Giliran setiap 2 giliran",
+      "flavor": "Apa yang dilahap demi kelangsungan hidup, demi pertumbuhan, menyatukan apa yang ada di luar ke dalam apa yang menjadi milikku. Kemudian hal itu dikeluarkan sekali lagi, dan apa yang tadinya milikku menjadi bagian dari luar.\n\nIa bersifat siklis, meluas, dan memangsa.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_1",
+      "name": "Le Vomissement",
+      "desc": "- Setelah memasuki Pertemuan, Pengaruh Le Vomissement menyebar pada Awal Giliran setiap 2 giliran",
+      "flavor": "Apa yang dilahap demi kelangsungan hidup, demi pertumbuhan, menyatukan apa yang ada di luar ke dalam apa yang menjadi milikku. Kemudian hal itu dikeluarkan sekali lagi, dan apa yang tadinya milikku menjadi bagian dari luar.\n\nIa bersifat siklis, meluas, dan memangsa.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_2",
+      "name": "Le Vomissement",
+      "desc": "- Setelah memasuki Pertemuan, Pengaruh Le Vomissement menyebar pada Awal Giliran setiap 2 giliran",
+      "flavor": "Apa yang dilahap demi kelangsungan hidup, demi pertumbuhan, menyatukan apa yang ada di luar ke dalam apa yang menjadi milikku. Kemudian hal itu dikeluarkan sekali lagi, dan apa yang tadinya milikku menjadi bagian dari luar.\n\nIa bersifat siklis, meluas, dan memangsa.",
+      "summary": ""
+    },
+    {
+      "id": "GourmandiseAlly",
+      "name": "Amukan Tak Terkendali",
+      "desc": "- Base Power +1, ubah semua Coin pada semua Skill menjadi Unbreakable Coin\n- Beri +5% damage untuk setiap 3 Bleed pada diri sendiri (maks 30%); pulihkan +10% HP lebih pada target (maks 100%, dibulatkan ke bawah)\n- Tidak dapat Stagger; terima -90% damage dari Bleed (kecuali Stagger paksa)\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "Skill menjadi kuat"
+    },
+    {
+      "id": "BloodyMucusAlly",
+      "name": "Baptis [Crimson]",
+      "desc": "- Stack Maks: 3\n- Saat Pakai Skill Serang, peroleh Count Bleed setara dengan Stack (sekali per Skill)\n- Saat Pakai Skill Defense, kehilangan 1 Stack\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "BuffetGold",
+      "name": "Wahyu Emas",
+      "desc": "- Maks Speed: 5\n- Terima +5% damage untuk setiap Stack\n- Pada Stack maks, terima +10% damage jika unit ini memiliki Bleed",
+      "summary": "",
+      "flavor": "Cahaya keemasan menuntun sang anak kepada siapa yang harus dia celakai berikutnya. Bahkan di bawah petunjuk itu, sang anak percaya bahwa penghakiman tersebut sepenuhnya milik dirinya sendiri."
+    },
+    {
+      "id": "BuffetShoes",
+      "name": "Pink Mary Janes",
+      "desc": "- Min & Maks Speed +3",
+      "summary": "",
+      "flavor": "Terima kasih... buat sepatunya. Bisakah aku pergi ke mana saja kalau aku memakai ini? Aku mau... bepergian bersamamu."
+    },
+    {
+      "id": "BuffetGoldenClothes",
+      "name": "Kain Kafan Emas",
+      "desc": "- Defense Level +10\n- Akhir Giliran: Jika unit ini terkena Stagger, pulih dari Stagger dan pulihkan 50% HP (sekali per Pertemuan)",
+      "summary": "",
+      "flavor": "Sang anak telah mengenakan pakaian orang dewasa. Bukan sembarang pakaian, melainkan busana dari kulit yang terbuat dari kematian orang lain. Dan demikianlah, sang anak melangkah satu tingkat lebih dekat menuju kedewasaan."
+    },
+    {
+      "id": "Buffet_LowMorale",
+      "name": "Sakit Tak Terlupakan",
+      "desc": "- Moral Rendah\n- Peroleh 3 Protection",
+      "summary": ""
+    },
+    {
+      "id": "Buffet_Panic",
+      "name": "Sakit Tak Terlupakan",
+      "desc": "- Panik\n- Peroleh 5 Protection",
+      "summary": ""
+    },
+    {
+      "id": "RestrictMob",
+      "name": "Aturan: Kerusakan Kulit Mentah Dilarang",
+      "desc": "- Awal Pertempuran: Ketika Tahanan Disamak ditarget oleh Skill Serangan, efek ini kadaluarsa, dan penyerang peroleh 1 Pelanggaran Peraturan Penyamakan\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "RestrictBoss",
+      "name": "Aturan: Dobrakan Samak Dilarang",
+      "desc": "- Awal Pertempuran: Ketika Sang Pengawas ditarget oleh Skill Serang, efek ini kadaluarsa, dan penyerang peroleh 1 Pelanggaran Peraturan Penyamakan\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "RestrictTier1",
+      "name": "Aturan: Perilaku Ofensif Dilarang",
+      "desc": "- Awal Pertempuran: Ketika Skill Serangan digunakan, efek ini kadaluarsa dan peroleh 1 Pelanggaran Peraturan Penyamakan (excluding E.G.O Skills)\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "RestrictDef",
+      "name": "Aturan: Perilaku Defensif Dilarang",
+      "desc": "- Awal Pertempuran: Ketika Skill Defense digunakan, efek ini kadaluarsa dan peroleh 1 Pelanggaran Peraturan Penyamakan\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "RestrictDenied",
+      "name": "Pelanggaran Peraturan Penyamakan",
+      "desc": "- Stack Maks: 1\n- Terima +30% damage dari Sang Pengawas\n- Pada Akhir Serangan unit ini, Sang Pengawas menggunakan Skill \"Menghukum Membukam Menghantam\" pada unit ini ; lalu, efek ini kadaluarsa",
+      "summary": "",
+      "flavor": "Targetnya adalah seorang pelanggar yang telah melanggar aturan-aturan yang mengikat dunia ini."
+    },
+    {
+      "id": "B3FreshMob",
+      "name": "Kulit Tak Kusut",
+      "desc": "- Stack Maks: 1\n- Awal Giliran: Peroleh 20 Perisai\n- Akhir Giliran: Peroleh 2 Protection\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "flavor": "Tolong tangani dengan hati-hati. Jika kamu mencoba busana dari kulit dan membungkuk terlalu banyak, kainnya akan berkerut... dan itu menurunkan nilainya."
+    },
+    {
+      "id": "RestrictFailed",
+      "name": "Runtuhnya Aturan",
+      "desc": "- Offense Level +3\n- Defense Level -3",
+      "summary": "",
+      "flavor": "Tahukah kamu perbedaan antara sebuah aturan dan hukum?"
+    },
+    {
+      "id": "targetDye_LowMorale",
+      "name": "Mesin Macet",
+      "desc": "Skill beri -5% damage terhadap musuh dengan Speed lebih lambat dari unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "targetDye_Panic",
+      "name": "Mesin Macet",
+      "desc": "Skill beri -10% damage terhadap musuh dengan Speed lebih lambat dari unit ini",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Bisakah apa yang bergerak lebih cepat dari diri sendiri benar-benar ditahan di tempatnya?"
+    },
+    {
+      "id": "RouteBOneLeg",
+      "name": "원레그 B루트 강화",
+      "desc": "- Base Offense Level +25\n- Base Defense Level +25",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SapsareeGold",
+      "name": "Hujan dari Sengatan Mentari [Sous Chef]",
+      "desc": "- Pada Penggunaan Skill, Final Power +1 untuk setiap \"Saus Berapi Pembakar Lidah\" pada target (maks 3)\n- Peroleh 15 SP setelah membunuh kawan dengan Skill unit ini",
+      "summary": "",
+      "flavor": "\"Sous-chef punya hati yang hangat dan tulus, kau dengar? Sous-chef dipenuhi dengan rasa percaya diri, kau dengar?!\""
+    },
+    {
+      "id": "GoldenManager",
+      "name": "Hujan dari Sengatan Mentari [Manajer Lantai 3F]",
+      "desc": "- Beri +5% damage untuk setiap Waspada Menjaga pada target (maks 50%)\n- Base Power +3 Pada Penggunaan Skill terhadap target dengan SP 0 atau kurang",
+      "summary": "",
+      "flavor": "Sinar matahari membakar terik, namun kain tak bisa disingkirkan, dan hati pun berlindung di bawah selimut... semakin dalam di bawah selimut..."
+    },
+    {
+      "id": "SisyphusSapphire",
+      "name": "Sapphire",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh\n- Peroleh +2 Count lebih ketika memperoleh Count Charge dan Count Poise\n- Peroleh +10 Count Charge ketika memperoleh efek ini (sekali per Pertemuan)\n- Clash Power +1\n- Final Power +1",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusOnyx",
+      "name": "Onyx",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh\n- Peroleh +2 Count lebih ketika memperoleh Count Charge dan Count Poise\n- Peroleh +10 Count Charge ketika memperoleh efek ini (sekali per Pertemuan)\n- Clash Power +2\n- Final Power +1",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusDiamond",
+      "name": "Diamond",
+      "desc": "- Skill beri 1 lebih Potency Burn, Bleed, Tremor, Rupture, dan Sinking terhadap musuh\n- Peroleh +2 Count lebih ketika memperoleh Count Charge dan Count Poise\n- Peroleh +10 Count Charge ketika memperoleh efek ini (sekali per Pertemuan)\n- Clash Power +2\n- Final Power +1\n- Beri +10% damage",
+      "summary": ""
+    },
+    {
+      "id": "OutOfControl_LowMorale",
+      "name": "Pengawasan Nonaktif",
+      "desc": "- Moral Rendah\n- Final Power Skill  +1\n- Awal Giliran: Beri 1 Attack Power Down ke semua kawan lain",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "OutOfControl_Panic",
+      "name": "Pengawasan Nonaktif",
+      "desc": "- Panik\n- Final Power Skill  +1\n- Awal Giliran: Beri 1 Attack Power Down dan 1 Damage Down ke semua kawan lain",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "LaNoirSuperior_LowMorale",
+      "name": "Menuju Cangkang Pertama...",
+      "desc": "- Moral Rendah\n- Offense Level -2\n- Defense Level +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LaNoirSuperior_Panic",
+      "name": "Menuju Cangkang Pertama...",
+      "desc": "- Panik\n- Offense Level -3\n- Defense Level +4",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}
