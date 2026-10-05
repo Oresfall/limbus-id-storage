@@ -1,0 +1,276 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Lorong, 4F",
+      "model": "뷔페어린이",
+      "content": "Aku..."
+    },
+    {
+      "id": 1,
+      "model": "뷔페어린이",
+      "content": "Tau..."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Dia berbicara?!>"
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "content": "Hoh?! Pwi, kamu bisa bicara selama ini?"
+    },
+    {
+      "id": 4,
+      "model": "뷔페어린이",
+      "content": "... Aku tau... kalian berdua..."
+    },
+    {
+      "id": 5,
+      "content": "Tatapan Pwie bimbang dan waspada terhadap Meursault and aku."
+    },
+    {
+      "id": 6,
+      "model": "뷔페어린이",
+      "content": "Aku sering... menangis... karena sakit sekali... dan aku juga sangat sedih... dan aku tidak bisa bangun..."
+    },
+    {
+      "id": 7,
+      "model": "뷔페어린이",
+      "content": " Karena kalian berdua... Aku ketakutan... Dan itu membuatku semakin takut..."
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<... Pwie mengingat apa yang terjadi sebelum Liquidation.>"
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Aku minta maaf."
+    },
+    {
+      "id": 11,
+      "model": "뷔페어린이",
+      "content": "... Kenapa?"
+    },
+    {
+      "id": 12,
+      "model": "뫼르소",
+      "content": "Karena tindakan kita membuatmu menderita."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Meursault...>"
+    },
+    {
+      "id": 14,
+      "model": "뷔페어린이",
+      "content": "... Tapi aku berhenti menangis sekarang."
+    },
+    {
+      "id": 15,
+      "model": "뷔페어린이",
+      "content": "... Jadi... Aku gak tau apa arti dari air mata."
+    },
+    {
+      "id": 16,
+      "model": "뷔페어린이",
+      "content": "Aku ingin melupakan... tapi... Aku gak mau..."
+    },
+    {
+      "id": 17,
+      "model": "홍루",
+      "content": "Kelihatannya... dia kebingungan."
+    },
+    {
+      "id": 18,
+      "content": "Pwie bergumam sambil melihat kebawah, kemudian mendakati kami."
+    },
+    {
+      "id": 19,
+      "model": "뷔페어린이",
+      "content": "Kenapa kamu... datang kepada ku?"
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "Karena kamu memanggil."
+    },
+    {
+      "id": 21,
+      "model": "뷔페어린이",
+      "content": "Kenapa... Aku melakukannya?"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "Itu... Bukan pertanyaan yang bisa kami jawab sekarang. Mungkin ada sesuatu yang menarik kami pada mu."
+    },
+    {
+      "id": 23,
+      "model": "뷔페어린이",
+      "content": "... Aku harus ke lantai 5."
+    },
+    {
+      "id": 24,
+      "model": "뷔페어린이",
+      "content": "Saat aku tertidur... ada orang yang bersamaku...."
+    },
+    {
+      "id": 25,
+      "model": "뷔페어린이",
+      "content": "Merka bilang... Mereka membisikkan... semua orang akan senang and menaymbutku ketika aku terbangun. Bahkan mereka menyanyikan lagu yang indah."
+    },
+    {
+      "id": 26,
+      "model": "뷔페어린이",
+      "content": "Apakah kamu benyanyi untukku?"
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "Tidak. Kita tidak bernyanyi. Yang bernyanyi unntukmu adalah wanita yang kamu sentuh ketika kamu terbangun."
+    },
+    {
+      "id": 28,
+      "model": "뷔페어린이",
+      "content": "Tapi... dia tidak bergerak. Atau berbicara padaku."
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Itu karena... dia sudah mati."
+    },
+    {
+      "id": 30,
+      "model": "뷔페어린이",
+      "content": "Kamu tidak bisa bergerak setelah kamu mati?"
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Engga."
+    },
+    {
+      "id": 32,
+      "model": "뷔페어린이",
+      "content": "Kenapa...?"
+    },
+    {
+      "id": 33,
+      "model": "뫼르소",
+      "content": "Karena badan sudah berhenti berfungsi, dan jiwanya sudah padam."
+    },
+    {
+      "id": 34,
+      "model": "뷔페어린이",
+      "content": "Jiwa...? Padam...? Kata yang aneh."
+    },
+    {
+      "id": 35,
+      "model": "뷔페어린이",
+      "content": "Aku gak suka."
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<Hmmm... Yah, Itu bukan konsep sederhana. Terutama didalam Grand Magasin.>"
+    },
+    {
+      "id": 37,
+      "model": "뷔페어린이",
+      "content": "Aku pernah berbaring di tanah... dan mataku tertutup..."
+    },
+    {
+      "id": 38,
+      "model": "뷔페어린이",
+      "content": "Aku pikir... itu adalah kematian. Tapi aku bangun lagi. Jiwaku gak padam."
+    },
+    {
+      "id": 39,
+      "model": "뫼르소",
+      "content": "... Karena sekarat di dalam Grand Magasin secara fundamental berbeda dengan sekarat di luar Grand Magasin."
+    },
+    {
+      "id": 40,
+      "model": "뷔페어린이",
+      "content": "... Kenapa berbeda...?"
+    },
+    {
+      "id": 41,
+      "model": "뫼르소",
+      "content": "Karena..."
+    },
+    {
+      "id": 42,
+      "model": "뫼르소",
+      "content": "... Aku gak tau. Aku gak tau kalau ada perbedaan atau tidak."
+    },
+    {
+      "id": 43,
+      "model": "뷔페어린이",
+      "content": "... Aku... gak suka."
+    },
+    {
+      "id": 44,
+      "model": "뷔페어린이",
+      "content": "Aku gak mau... dipadamkan."
+    },
+    {
+      "id": 45,
+      "model": "뷔페어린이",
+      "content": "... Dan aku..."
+    },
+    {
+      "id": 46,
+      "model": "뷔페어린이",
+      "content": "Lapar."
+    },
+    {
+      "id": 47,
+      "model": "뷔페어린이",
+      "content": "Aku mencoba makan sesuatu, tapi... seseorang merebutnya."
+    },
+    {
+      "id": 48,
+      "model": "돈키호테",
+      "content": "Cih, aku membayangkan ada orang yang kelakuannya seperti Heathcliff!"
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Sangat spesifik, tapi... tepat sekali.>"
+    },
+    {
+      "id": 50,
+      "model": "홍루",
+      "content": "Aku gak liat ada restoran di lantai ini, tapi... kalau ini beneran \"toko serba ada,\" seharusnya ada toko yang menjual makanan."
+    },
+    {
+      "id": 51,
+      "model": "홍루",
+      "content": "Ayo kita cari bersama-sama?"
+    },
+    {
+      "id": 52,
+      "model": "뷔페어린이",
+      "content": "... Oke."
+    },
+    {
+      "id": 53,
+      "content": "Meskipun Pwie tampaknya masih menjaga jarak yang cukup jauh dari kami, Aku perhatikan Pwie tidak lagi tertinggal sejauh sebelumnya. Pwie berdiri agak jauh dari kami dengan tatapan kosong..."
+    },
+    {
+      "id": 54,
+      "content": "... dia seperti menunggu kita untuk pergi ke sebuah tempat."
+    }
+  ]
+}
