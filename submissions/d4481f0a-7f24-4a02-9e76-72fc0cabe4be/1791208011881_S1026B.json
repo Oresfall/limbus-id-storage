@@ -1,0 +1,278 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Restoran, 5F",
+      "model": "맨얼굴크로머언니",
+      "content": "Lama tak bertemu, orang asing. Kabarnya kamu bersenang-senang tanpa aku; benar begitu? Seharusnya lari untuk ikut, tapi... duh. Kamu nggak bakal percaya seberapa banyak pekerjaanku yang menumpuk."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<Dia bisa datang darimana aja ya...>"
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "... Karena kamu sudah ada disini, jawab satu hal. Sebenarnya apa artinya \"tidak memiliki kebajikan\"?"
+    },
+    {
+      "id": 3,
+      "model": "맨얼굴크로머언니",
+      "content": "Pertanyaan yang membosankan. Hampir sama membosankannya dengan lengan kuno yang kamu punya itu."
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Bisakah jawab saja pertanyaannya?"
+    },
+    {
+      "id": 5,
+      "model": "맨얼굴크로머언니",
+      "content": "Hmm, baiklah. Kamu tidak akan mendapatkan akhir yang berbeda, jadi kurasa aku bisa memberitahumu sejauh itu. Lagipula... aku yakin itu akan terjadi pada si anak kecil itu juga, saat nalurinya bangkit."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<... Tidak akan mendapat akhir yang berbeda...?>"
+    },
+    {
+      "id": 7,
+      "model": "맨얼굴크로머언니",
+      "content": "Tidak memiliki kebajikan berarti tidak memiliki kemuliaan. Maksudnya... jadilah mulia, jadilah <i>bangsawan</i>, dan kamu akan diizinkan masuk ke tempat ini. Kamu ngerti nggak maksudku?"
+    },
+    {
+      "id": 8,
+      "model": "이상",
+      "content": "Aku sama sekali tidak mengerti... Ah. Bisa jadi ini, mungkin, masalah tren?"
+    },
+    {
+      "id": 9,
+      "model": "맨얼굴크로머언니",
+      "content": "Aku pasti akan sangat kecewa jika kamu <i>masih</i> belum mengerti apa artinya \"bangsawan\" di sini."
+    },
+    {
+      "id": 10,
+      "model": "맨얼굴크로머언니",
+      "content": "Bagaimanapun, benar lagi. Menjadi bangsawan menuntut konsumsi yang layak dengan kedudukan—dan pakaian juga pantas. Dan satu hal di toko ini yang pasti akan mengangkat pangkat itu adalah..."
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "Sebuah pakaian yang dibuat dari bahan yang dikenal sebagai Kulit Emas... atau Getah Emas."
+    },
+    {
+      "id": 12,
+      "model": "맨얼굴크로머언니",
+      "content": "Lain kali kita bertemu... coba kembalilah dengan hasil yang aku inginkan, ya?"
+    },
+    {
+      "id": 13,
+      "model": "맨얼굴크로머언니",
+      "content": "Seberapa seru melihat kalian bermain-main dalam gelap, aku lebih suka kalian lanjut dengan bagian \"melelehkan Grand Magasin bodoh ini sampai ke tanah\"."
+    },
+    {
+      "id": 14,
+      "model": "맨얼굴크로머언니",
+      "content": "Sampai jumpa~"
+    },
+    {
+      "id": 15,
+      "model": "뷔페어린이신발",
+      "content": "... Dia pergi."
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<Dia membantu kita lagi, tapi aku masih nggak tau apa sebenarnya yang dia inginkan.>"
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<Dan maksudku, kalau itu sesuatu yang bisa disadari Pwie sendiri, bukan berarti dia <i>benar-benar</i> banyak membantu kita, kan? Apa dia cuma muncul begitu saja untuk bikin kita nggak nyaman atau gimana...?>"
+    },
+    {
+      "id": 18,
+      "model": "이상",
+      "content": "... Seperti sebelumnya, dia tampaknya tidak mau memberi kita informasi yang benar-benar berguna. Mungkin tujuannya lebih kepada mengejek daripada membantu."
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "Hei... Apa menurutmu dia sudah masuk ke dalam? Sepertinya ada orang di sana..."
+    },
+    {
+      "id": 20,
+      "model": "이상",
+      "content": "... Jika \"menjadi bangsawan\" adalah syarat untuk masuk... Maka mungkin saja mereka yang berada di dalam itu sendiri adalah para bangsawan."
+    },
+    {
+      "id": 21,
+      "model": "뷔페어린이신발",
+      "content": "Orang-orang itu..."
+    },
+    {
+      "id": 22,
+      "model": "뷔페어린이신발",
+      "content": "Sepertinya yang bisa mereka lakukan hanyalah... duduk di tempat yang diperintahkan dan makan apa yang diberikan..."
+    },
+    {
+      "id": 23,
+      "model": "이상",
+      "content": "Hm... Urutan upacara juga tampaknya sudah ditentukan. Sebuah jamuan penuh kemegahan dan formalitas... Aku rasa itu disebut \"makan malam yang mewah.\""
+    },
+    {
+      "id": 24,
+      "model": "뷔페어린이신발",
+      "content": "......."
+    },
+    {
+      "id": 25,
+      "model": "뷔페어린이신발",
+      "content": "Kenapa mereka menunggu hidangan berikutnya daripada langsung makan semuanya sekaligus? Bukankah mereka jadi membuang-buang waktu makan?"
+    },
+    {
+      "id": 26,
+      "model": "뷔페어린이신발",
+      "content": "Kenapa mereka duduk di tempat yang ditentukan dan makan makanan yang ditentukan dalam jumlah yang ditentukan?"
+    },
+    {
+      "id": 27,
+      "model": "뷔페어린이신발",
+      "content": "Aku nggak ngerti. Kenapa mereka nggak makan terus? Kenapa mereka nggak habisin satu piring lalu lanjut ke yang berikutnya sampai nggak ada yang tersisa?"
+    },
+    {
+      "id": 28,
+      "model": "그레고르",
+      "content": "Yah... \"kelas\" yang berbeda, budayanya juga beda, kan?"
+    },
+    {
+      "id": 29,
+      "content": "Untuk waktu yang lama, Pwie diam-diam memperhatikan jamuan di balik tirai,"
+    },
+    {
+      "id": 30,
+      "content": "seperti anak kelaparan yang meneteskan air liur melihat pesta mewah di balik kaca."
+    },
+    {
+      "id": 31,
+      "model": "뷔페어린이신발",
+      "content": "Aku... Aku sangat lapar. Dan aku ingin... memakainya."
+    },
+    {
+      "id": 32,
+      "model": "뷔페어린이신발",
+      "content": "Jubah Emas... yang terbuat dari Kulit Emas, dan dikupas dari dinding..."
+    },
+    {
+      "id": 33,
+      "model": "뷔페어린이신발",
+      "content": "... Hah?"
+    },
+    {
+      "id": 34,
+      "model": "단테",
+      "content": "<Apakah pikiran itu baru saja muncul di benakmu?>"
+    },
+    {
+      "id": 35,
+      "model": "뫼르소",
+      "content": "Apakah pikiran itu muncul tanpa pertimbangan sebelumnya?"
+    },
+    {
+      "id": 36,
+      "model": "뷔페어린이신발",
+      "content": "Mhm. Baru kepikiran."
+    },
+    {
+      "id": 37,
+      "model": "이상",
+      "content": "kamu bilang sebuah jubah? jubah adalah... sebuah pakaian yang disiapkan untuk seseorang yang memulai perjalanan terakhir mereka. Dan kamu ingin memakainya...?"
+    },
+    {
+      "id": 38,
+      "model": "뷔페어린이신발",
+      "content": "Mhm. Pakaian terakhir yang akan pernah aku pakai."
+    },
+    {
+      "id": 39,
+      "model": "뷔페어린이신발",
+      "content": "Karena aku akan... tumbuh dewasa."
+    },
+    {
+      "id": 40,
+      "model": "뷔페어린이신발",
+      "content": "Dan untuk tumbuh dewasa, aku akan membutuhkan pakaian yang dibuat agar pas dengan sosok diriku kelak."
+    },
+    {
+      "id": 41,
+      "model": "단테",
+      "content": "<Kalau terbuat dari Kulit Emas yang sudah dikuliti... berarti proses pembuatannya pasti berbeda dari membuat Kain Emas.>"
+    },
+    {
+      "id": 42,
+      "model": "뫼르소",
+      "content": "Kalau pernyataan desainer tas itu benar... seharusnya ada karyawan di bawah tanah yang bisa memproses kulit."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Itu B3F, kan...? Kita mungkin harus mencari eskalatornya dulu, sama seperti yang kita lakukan di lantai lima.>"
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Baiklah, ayo kita turun dan buatkan baju Pwie.>"
+    },
+    {
+      "id": 45,
+      "model": "뫼르소",
+      "content": "... Kita akan membuat pakaian yang pas untukmu."
+    },
+    {
+      "id": 46,
+      "model": "뷔페어린이신발",
+      "content": "... Kenapa?"
+    },
+    {
+      "id": 47,
+      "model": "뫼르소",
+      "content": "Karena itu yang kamu mau, dan itu juga keinginan kita."
+    },
+    {
+      "id": 48,
+      "model": "뷔페어린이신발",
+      "content": "......."
+    },
+    {
+      "id": 49,
+      "model": "뷔페어린이신발",
+      "content": "... Makasih."
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 51,
+      "model": "그레고르",
+      "content": "Hei, Bang Manajer. Kenapa ngelamun?"
+    },
+    {
+      "id": 52,
+      "model": "단테",
+      "content": "<Tidak, cuma... mendengar Pwie mengucapkan terima kasih pada kita...>"
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<Itu mengingatkanku pada pertama kali kalian semua mendengarkanku. Benar-benar mendengarkan.>"
+    },
+    {
+      "id": 54,
+      "model": "이상",
+      "content": "... Dan untuk semua yang telah terjadi sebelum momen itu, dan apa yang terjadi setelahnya... Aku tetap selalu bersyukur."
+    }
+  ]
+}
