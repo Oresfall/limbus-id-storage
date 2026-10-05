@@ -1,0 +1,325 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Area Tas Le Rouge, 4F",
+      "model": "카르멘",
+      "content": "<color=#E1B643>Senang bertemu dengan mu, Dante.</color>"
+    },
+    {
+      "id": 1,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Ini pertama kalinya kita bertemu begitu dekat, bukan?</color>"
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<...!>"
+    },
+    {
+      "id": 3,
+      "content": "Berbeda dengan gumaman samar yang pernah kudengar sebelumnya, suara yang sama itu kini menggelitik dan menghangatkan telingaku—terasa begitu jelas seolah-olah ada seseorang yang sedang berbisik tepat di dekatnya. Pada saat yang sama, suara itu juga terasa seolah-olah berasal dari tempat yang sangat jauh—sangat jauh sekali—dengan setiap kata yang bergema khusus untukku."
+    },
+    {
+      "id": 4,
+      "content": "Seolah-olah aku akhirnya menemukan resonansi itu... yang telah lama sekali memanggil-manggilku. Ya, begitulah rasanya..."
+    },
+    {
+      "id": 5,
+      "model": "뫼르소",
+      "content": "... Manajer."
+    },
+    {
+      "id": 6,
+      "model": "뫼르소",
+      "content": "Tolong mundur. Jangan jawab suara itu."
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "Paparan jangka panjang... terhadap sinar matahari... sangat tidak dianjurkan..."
+    },
+    {
+      "id": 8,
+      "content": "Peringatan Meursault tegas dan sangat jelas—meskipun demikian, aku mendapati diriku tidak bisa melangkah satu langkah pun menjauhi dinding."
+    },
+    {
+      "id": 9,
+      "content": "Dan aku bukan satu-satunya. Hong Lu dan Don Quixote terpaku di tempat mereka berdiri seolah-olah ada sesuatu yang memaku mereka ke tanah—bahkan, tampaknya mereka tidak mampu menggerakkan satu otot pun, atau sekaedar bergerak untuk menutup telinga guna menghalau suara itu."
+    },
+    {
+      "id": 10,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Meur... seperti biasa, kamu tidak suka mendengar suaraku.</color>"
+    },
+    {
+      "id": 11,
+      "model": "카르멘",
+      "content": "<color=#E1B643Tapi kamu tah... mungkin sebaiknya kamu tidak membiarkan rasa tidak suka pribadimu kepadaku\nmenentukan apakah aku boleh berbicara kepada teman mu atau tidak.\nBukankan itu salah satu tindakan menghakimi yang kamu tidak suka?</color>"
+    },
+    {
+      "id": 12,
+      "place": "Sebuah Ruang Tengah, Masa Lalu",
+      "content": "Dikelilingi oleh keheningan ruang tamu, aku duduk dengan pikiran yang kemana-mana dengan sedikit disinari matahari yang menembus sedikit celah jendela."
+    },
+    {
+      "id": 13,
+      "content": "Kekosongan dari apa yang pernah ada di sana. Hawa dingin yang hangat beredar di udara. Matahari."
+    },
+    {
+      "id": 14,
+      "content": "Lalu... tiba-tiba, sinar matahari yang hangat memenuhi pandanganku, seolah-olah aku baru saja membuka mata di sebuah taman pada tengah hari."
+    },
+    {
+      "id": 15,
+      "content": "Cahayanya begitu terang tanpa batas... hingga aku mengangkat tangan untuk melindungi mataku."
+    },
+    {
+      "id": 16,
+      "model": "과거뫼르소",
+      "content": "... Menyilaukan."
+    },
+    {
+      "id": 17,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Jika cahayaku mempesona bagimu, itu karena kamu berada dalam kegelapan cukup lama.</color>"
+    },
+    {
+      "id": 18,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 19,
+      "model": "카르멘",
+      "content": "<color=#E1B643>.......</color>"
+    },
+    {
+      "id": 20,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Aku suka menganggap bahwa aku sudah cukup sering berbicara dengan orang-orang yang kaku dan formal. Tetapi kamu...\n... orang yang paling kaku, Meursault.</color>"
+    },
+    {
+      "id": 21,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Pasti rasanya sangat menyesakkan.\nPuluhan ribu pikiran bergemuruh di balik sikap yang tenang dan pendiam itu...\n... dan tak ada seorang pun yang berhenti sejenak untuk mendengarkan, bukan? \nSekalipun mereka melakukannya, kurasa mereka takkan paham bagaimana dunia terpantul di matamu..</color>"
+    },
+    {
+      "id": 22,
+      "content": "Tirai cahaya matahari berbicara kepadaku dengan suara yang indah. Cerah. Membangkitkan semangat."
+    },
+    {
+      "id": 23,
+      "content": "Cahaya itu seolah memahami gejolak batin yang tak dimengerti siapa pun. Hal itu menyingkapkan pikiran-pikiran yang tak pernah kutunjukkan kepada siapa pun."
+    },
+    {
+      "id": 24,
+      "content": "Aku tahu aku tidak boleh menjawab suara itu... tetapi bibirku bergerak dengan sendirinya."
+    },
+    {
+      "id": 25,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Jadi begitu. Kamu memilih untuk menutup telinga dan memejamkan mata.</color>"
+    },
+    {
+      "id": 26,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tapi Meursault...\nJika hal itu bisa dibuat tak terdengar dengan menutup telinga, jika hal itu bisa dibuat tak terlihat dengan memejamkan mata... \n...maka mungkin sejak awal itu bukanlah cahaya matahari.</color>"
+    },
+    {
+      "id": 27,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Kau tau, cahaya yang dengan susah payah dinyalakan dan diluncurkan ke angkasa oleh bawahan kesayanganku itu... \n...bersinar ke mana saja, menyinari siapa saja. Cahaya itu tidak membeda-bedakan.</color>"
+    },
+    {
+      "id": 28,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 29,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Yang aku tawarkan adalah pilihan.\nKamu bisa menolak jika tidak menyukai apa yang kamu dengar.</color>"
+    },
+    {
+      "id": 30,
+      "content": "Udara keluar dari paru-paruku dalam hembusan napas yang tak terkendali—penuh kegembiraan, sukacita, antusiasme, dan harapan. Setiap kali aku menarik napas, sensasi hangat yang menenteramkan itu masuk melalui hidung dan terkumpul di belakang tenggorokanku."
+    },
+    {
+      "id": 31,
+      "content": "Di suatu sudut hati, aku menghitung sampai sepuluh, berusaha menahannya. Lalu, di dalam kepala, sampai dua puluh. Kubayangkan barisan demi barisan hal-hal konyol. Tak ada yang berhasil. Pita suaraku, yang memanas hingga ke akarnya akibat sengatan matahari yang tak terelakkan, mulai terasa menggelitik penuh gairah."
+    },
+    {
+      "id": 32,
+      "model": "과거뫼르소",
+      "content": "... Apa..."
+    },
+    {
+      "id": 33,
+      "model": "과거뫼르소",
+      "content": "... Apa yang kau tawarkan?"
+    },
+    {
+      "id": 34,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Bisakah kamu bayangkan bagaimana rasanya... dilepaskan seorang diri dari dunia yang mengerikan ini?</color>"
+    },
+    {
+      "id": 35,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Bagaimana jika kamu tidak harus mengalungkan rantai itu di lehermu... tidak lagi terpaku di bawah tatapan siapa pun, tidak lagi ditahan atau diikat oleh orang lain dengan \"akal sehat\"?</color>"
+    },
+    {
+      "id": 36,
+      "content": "Aku tidak berbusana, telanjang dalam cahaya. Sinar matahari itu mengungkap semua rahasia, dan berbisik sesuatu yang selalu aku ingin dengar"
+    },
+    {
+      "id": 37,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tidak perlu memikirkan oandangan orang lain.\nTidak lagi memikirkan pikiran orang lain.\nYou could simply <i>be</i> yourself... <i>live</i> as yourself.</color>"
+    },
+    {
+      "id": 38,
+      "model": "과거뫼르소",
+      "content": "Itu sangatlah... mustahil."
+    },
+    {
+      "id": 39,
+      "model": "카르멘",
+      "content": "<color=#E1B643>YKamu benar. Kota ini tidak pernah mengizinkan hal semacam itu.</color>"
+    },
+    {
+      "id": 40,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Mustahil kamu tau caranya. Tidak bisa menemukan jalannya.\nBagimu, dunia tetap asing; sebanyak apapun kamu memukulnya,\nSatu-satunya tanggapannya hanyalah keheningan... yang membuatmu tak mampu berkata-kata.</color>"
+    },
+    {
+      "id": 41,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tapi era yang baru sudah datang, membawa sinar matahari ini.\nSebuah era baru di mana kamu bisa mengaum sekeras yang kamu inginkan, dan... orang-orang <i>akan mendengarkan</i>.</color>"
+    },
+    {
+      "id": 42,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 43,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Biarkan aku membantumu. \nBahkan jika warnamu adalah warna yang tidak bisa dipahami orang lain,\nmeskipun warna itu hanya tertinggal di matamu... \nAku akan tetap membantumu mewarnai dunia dengannya.</color>"
+    },
+    {
+      "id": 44,
+      "model": "과거뫼르소",
+      "content": "... Apakah kamu menawarkan hal yang sama pada ibuku?"
+    },
+    {
+      "id": 45,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Mirip, mungkin... tetapi tidak sama.\nOrang-orang berpikir mereka mengerti satu sama lain, menganggap mereka memiliki jiwa yang sama...\nNamun pada akhirnya, Mereka sama sekali tidak memahami orang lain—mereka tidak bisa.\nPada akhirnya, kita semua adalah diri kita sendiri.</color>"
+    },
+    {
+      "id": 46,
+      "content": "Suara ceria itu terasa seperti menggaruk gatal yang tersimpan jauh di dalam hatiku, di tempat yang tak pernah bisa dijangkau oleh tangan mana pun."
+    },
+    {
+      "id": 47,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Kamu <i>bisa</i> mendapatkan keinginan mu. Dan itu dimulai dengan jujur tentang perasaan yang sedang muncul di dalam dirimu saat ini.</color>"
+    },
+    {
+      "id": 48,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tak apa, Meur. Kamu boleh mengekspresikan... perasaan itu.</color>"
+    },
+    {
+      "id": 49,
+      "model": "과거뫼르소",
+      "content": "Cahaya mataharinya..."
+    },
+    {
+      "id": 50,
+      "model": "카르멘",
+      "content": "<color=#E1B643>.......</color>"
+    },
+    {
+      "id": 51,
+      "model": "과거뫼르소",
+      "content": "... lebih cerewet daripada yang aku kira."
+    },
+    {
+      "id": 52,
+      "model": "과거뫼르소",
+      "content": "Sangat menyebalkan."
+    },
+    {
+      "id": 53,
+      "content": "Aku mencoba membuat ketidaknyamananku sejelas mungkin dalam balasanku..."
+    },
+    {
+      "id": 54,
+      "content": "... tapi masih ada sedikit tawa di bawah sinar matahari itu, penuh keceriaan."
+    },
+    {
+      "id": 55,
+      "place": "Area Alas Kaki, 4F",
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 56,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Aku tidak akan berpaling dari siapapun.\nSelain itu... anak-anak dalam toko serba ada ini membutuhkan sinar matahari.\nMereka membutuhkan sinar matahari yang hangat dan lembut untuk menyinari mereka.</color>"
+    },
+    {
+      "id": 57,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Anak-anak ini... eksistensi mereka berasal dari fakta bahwa seseorang sedang menatap mereka.\nItu adalah keinginan mereka, dan aku hanya berniat untuk memenuhinya.</color>"
+    },
+    {
+      "id": 58,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Coba bayangkan, Meursault.\nBayangkan langit-langit dan dinding yang pengap ini runtuh untuk memperlihatkan dunia di luar.\nSemua orang bisa beristirahat bersama di bawah sinar matahari yang hangat, sambil menikmati langit luas.</color>"
+    },
+    {
+      "id": 59,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 60,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Masih seseorang yang pendiam. Kamu sama sekali tidak berubah sejak saat itu.</color>"
+    },
+    {
+      "id": 61,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Dante, Sepertinya kamu harus bekerja sedikit lebih keras sebagai manajer mereka.</color>"
+    },
+    {
+      "id": 62,
+      "model": "단테",
+      "content": "<... Aku?>"
+    },
+    {
+      "id": 63,
+      "model": "뫼르소",
+      "content": "Manajer. <i>jangan</i> menjawab."
+    },
+    {
+      "id": 64,
+      "model": "단테",
+      "content": "<Ma-Maaf, Tidak tau kenapa aku menjawab...>"
+    },
+    {
+      "id": 65,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Soal Meursault... Dia mungkin saja akan berubah... pada akhir perjalanan ini di sisimu.</color>"
+    },
+    {
+      "id": 66,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Aku menantikannya.</color>"
+    }
+  ]
+}
