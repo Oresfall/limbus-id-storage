@@ -1,0 +1,108 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Pusat Anak Hilang, 4F",
+      "model": "뷔페어린이",
+      "content": "... Apakah ini..."
+    },
+    {
+      "id": 1,
+      "model": "뷔페어린이",
+      "content": "... makanan?"
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "content": "Ah, Pwie... itu semua adalah sepatu."
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "content": "Mereka melindungi telapak kakimu dari rasa sakit.... menjaga agar salju, hujan, dan angin agar tidak masuk... dan membuat berlari menjadi sesuatu yang menyenangkan. Sungguh, semua petualang harus menggunakan sepatu yang kokoh."
+    },
+    {
+      "id": 4,
+      "model": "뷔페어린이",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "model": "뷔페어린이",
+      "content": "Apakah sepatu-sepatu ini akan membuat rasa lapar ku hilang?"
+    },
+    {
+      "id": 6,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 7,
+      "model": "돈키호테",
+      "content": "... Tidak akan"
+    },
+    {
+      "id": 8,
+      "model": "돈키호테",
+      "content": "Sesungguhnya, sungguh merupakan cobaan yang berat untuk menanggung kerinduan—bahkan kelaparan. Oleh karena itu... aku berjuang tanpa henti untuk meredam hasrat tersebut."
+    },
+    {
+      "id": 9,
+      "model": "뷔페어린이",
+      "content": "Apa bagusnya menahan hasrat itu?"
+    },
+    {
+      "id": 10,
+      "model": "돈키호테",
+      "content": "Pertama-tama, petualanganmu akan tetap terjaga tanpa kotoran, dan menjadi kisah yang takkan membuatmu malu untuk menceritakannya..."
+    },
+    {
+      "id": 11,
+      "model": "돈키호테",
+      "content": "... di mana kamu dapat memimpikan diri masa depan yang ingin engkau capai."
+    },
+    {
+      "id": 12,
+      "model": "돈키호테",
+      "content": "Dan suatu hari nanti, tanpa mengalami penghinaan, kamu akan menceritakan semua petualanganmu kepada orang lain yang akan mendengarkan ceritamu."
+    },
+    {
+      "id": 13,
+      "model": "뷔페어린이",
+      "content": "Sosok yang ingin aku wujudkan..."
+    },
+    {
+      "id": 14,
+      "content": "Pwie menatap sepatu itu cukup lama..."
+    },
+    {
+      "id": 15,
+      "content": "Dan perlahan mendekati sepatu itu, sebelum memakainya."
+    },
+    {
+      "id": 16,
+      "model": "뷔페어린이신발",
+      "content": "... Terasa... baru."
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "Sekarang, melangkahlah maju dengan semangat yang lebih membara, dengan mengenakan sepatumu sendiri!"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Meursault, mungkin saja hanya aku...>"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Apakah kamu pikir... Pwie mulai mengikuti kita lebih dekat?>"
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "... Benar, Manajer."
+    }
+  ]
+}
