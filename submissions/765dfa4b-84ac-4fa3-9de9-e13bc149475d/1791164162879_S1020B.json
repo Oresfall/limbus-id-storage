@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Toko Alterasi, 3F",
+      "model": "싱클레어",
+      "content": "Um... Halo?"
+    },
+    {
+      "id": 1,
+      "model": "3층가위",
+      "content": "Jahitan bahu sedikit terlalu rendah... ujung lengan sedikit terlalu pendek. Banyak hal yang harus diperbaiki untuk yang satu ini. Jadi, apa yang ingin kamu ubah?"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "Kami ingin membeli sebuah gunting."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "... Apa? Gunting?"
+    },
+    {
+      "id": 4,
+      "model": "3층가위",
+      "content": "... Guntingku bukan alat yang dipajang dan dijual. Aku tidak akan memberikan guntingku untuk siapapun."
+    },
+    {
+      "id": 5,
+      "model": "3층가위",
+      "content": "Guntingku hanya untuk pelanggan yang matanya berkilauan dengan keinginan untuk <i>krak-krek</i>. Seperti para Noir, pelanggan setia—mereka selalu berkunjung kesini untuk memintaku menenun kain untuk mereka."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Apakah kamu... cukup dekat dengan para Noir?"
+    },
+    {
+      "id": 7,
+      "model": "3층가위",
+      "content": "Mungkin bisa dikatakan kami adalah rekan, aku menyuplai kain kepada mereka sudah cukup lama"
+    },
+    {
+      "id": 8,
+      "model": "3층가위",
+      "content": "Belakangan ini Noir cukup sibuk—menyebarkan dan memancing cerita, mencurigai Rouge sedang mempersiapkan hal yang buruk."
+    },
+    {
+      "id": 9,
+      "model": "3층가위",
+      "content": "Aku tidak merasakan keinginan yang sama dalam diri kalian. Namun aku punya barang lain untuk kalian beli."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Membicarakan hal ini langsung ke intinya tidak bekerja dengan baik... Berbeda dengan yang sebelumnya.>"
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "Mungkin... kita dapat membeli gunting dikesempatan berikutnya Manajer."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Tidak ada pilihan lain kan.>"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "Jadi... kenapa kita membutuhkan sebuah gunting?"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Jika gunting diasah dengan baik bisa menjadi senjata yang bagus. Tentu saja untuk persiapan perang yang akan datang."
+    }
+  ]
+}
