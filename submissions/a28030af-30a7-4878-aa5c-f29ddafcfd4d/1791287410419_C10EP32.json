@@ -1,0 +1,146 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "<color=#916e46>Kami menyampaikan sambutan terhangat kami kepada para tamu terhormat Grand Magasin Sisyphe yang berkunjung hari ini.</color>"
+    },
+    {
+      "id": 1,
+      "content": "<color=#916e46>Grand Magasin Sisyphe melakukan yang terbaik setiap hari, berkomitmen untuk menghargai setiap pengalaman yang diperoleh pelanggan kami.</color>"
+    },
+    {
+      "id": 2,
+      "content": "<color=#916e46>Untuk tetap mengikuti tren terkini,kami secara aktif mendorong berbagai toko yang tersedia di department store untuk membuka dan menutup sesuai tren. Harap berhati-hati agar tidak tersesat saat Anda melewati Grand Magasin.</color>"
+    },
+    {
+      "id": 3,
+      "content": "<color=#916e46>Seperti biasa, toilet di setiap lantai sedang dalam perbaikan. Harap perhatikan hal ini saat merencanakan kunjungan Anda. Kami mohon maaf atas ketidaknyamanan ini.</color>"
+    },
+    {
+      "id": 4,
+      "content": "<color=#916e46>Untuk mencegah masalah kebersihan, area parkir bawah tanah telah ditutup. Tidak seorang pun diperbolehkan masuk atau keluar untuk saat ini.</color>"
+    },
+    {
+      "id": 5,
+      "content": "<color=#916e46>Pelanggan dipersilakan untuk menyentuh seluruh maneken yang dipajang. Apabila Anda memiliki pertanyaan mengenai produk yang dikenakan oleh maneken, silakan menghubungi staf penjualan yang masih bertugas. Dengan senang hati, mereka akan membantu Anda.</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#916e46>Kami mengimbau seluruh pihak untuk melakukan yang terbaik demi memastikan para pelanggan kembali mendapatkan pengalaman berbelanja yang berharga, serta menyampaikan harapan tulus kami agar Anda dapat...</color>"
+    },
+    {
+      "id": 7,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>... Nikmati belanjamu, ma puce (sayangku).</color>"
+    },
+    {
+      "id": 8,
+      "place": "The Fount, 1F",
+      "model": "이상",
+      "content": "Apa yang baru saja kita alami..."
+    },
+    {
+      "id": 9,
+      "model": "이스마엘",
+      "content": "Aku cuma tahu kalau aku benar-benar nggak mau mengalami itu lagi... Maksudku, aku sudah mati dengan berbagai cara selama bersama tim ini, tapi harus menghadapi kematian bahkan saat situasinya bukan pertempuran... ditambah lagi harus merasakan sensasi <i>melakukannya sendiri</i> itu benar-benar... nggak, terima kasih."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Aku nggak percaya penduduk di N Corp. membayar <i>uang</i> untuk membeli pengalaman yang menyebalkan ini..."
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Kembali ke sini... lagi...>"
+    },
+    {
+      "id": 12,
+      "content": "Aku sudah memperkirakan ini, tapi itu tak membuat rasa kecewa ini jadi lebih ringan."
+    },
+    {
+      "id": 13,
+      "model": "돈키호테",
+      "content": "... Sudah beberapa saat anda ngomong sendiri, Tuan Manajer! Apakah ada sesuatu yang tidak beres??"
+    },
+    {
+      "id": 14,
+      "model": "돈키호테",
+      "content": "Wajah dan raut mukamu tampaknya sama-sama kurang sehat, asli...."
+    },
+    {
+      "id": 15,
+      "model": "로쟈",
+      "content": "Ya, lu memang kelihatan nggak beres. Lagi sakit, Dante? Bahkan bunyi tik-tok dari kepalamu terdengar sedikit lebih cepat dari biasanya..."
+    },
+    {
+      "id": 16,
+      "model": "그레고르",
+      "content": "Maksudku, itu pertama kalinya mereka harus <i>mati</i>, kan? Nggak heran kalau mereka sampai terguncang, meskipun cuma sekadar \"pengalaman\". Kasih bro kita, Manajer, waktu buat menenangkan diri dulu."
+    },
+    {
+      "id": 17,
+      "content": "... Aku tidak bisa berhenti memikirkan apa yang dikatakan Jeanne tentang bagaimana pilihan yang kita buat di sini tidak akan mengubah akhir cerita."
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Aku perlu memeriksa keadaan di luar. Melihat apakah ada sesuatu yang berubah...>"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Dan jika ternyata semuanya sia-sia...>"
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<Kalau begitu, aku sudah selesai mendengarkan peringatanmu. Akan kuberitahu semuanya kepada para sinner dan mencari cara lain.>"
+    },
+    {
+      "id": 21,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 22,
+      "content": "Bahkan senyum penuh kebaikan itu kini tampak aneh dan asing."
+    },
+    {
+      "id": 23,
+      "model": "푸른여인",
+      "content": "... Segala sesuatu akan tetap terlihat sebagaimana yang diyakini seseorang."
+    },
+    {
+      "id": 24,
+      "content": "Para sinner menjaga jarak, memperhatikan saya dari kejauhan seolah-olah saya terasa asing bagi mereka. Mungkin mereka tidak tahu harus membuat apa dari kata-kata saya atau sikap saya."
+    },
+    {
+      "id": 25,
+      "content": "Kupikir itu akan cukup jika aku bisa mengubah apa yang terjadi, tapi tidak."
+    },
+    {
+      "id": 26,
+      "content": "Hasil yang <i>sebenarnya</i> sama sekali tidak berubah kita kembali ke tempat semula."
+    },
+    {
+      "id": 27,
+      "model": "그레고르",
+      "content": "Whoa, tunggu dulu, Manajer! Mau ke mana?!"
+    },
+    {
+      "id": 28,
+      "model": "오티스",
+      "content": "Manajer Eksekutif! Berbahaya jika keluar tanpa informasi apa pun!!"
+    },
+    {
+      "id": 29,
+      "content": "Mengabaikan Outis dan Gregor serta para sinner lainnya yang mengejarku, mencoba menghentikanku..."
+    },
+    {
+      "id": 30,
+      "place": "aula kecantikan, 1F",
+      "content": "Aku membuka pintu yang menuju ke luar."
+    }
+  ]
+}
