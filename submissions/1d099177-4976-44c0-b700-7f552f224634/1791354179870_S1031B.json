@@ -1,0 +1,524 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Aula Kecantikan, 1F",
+      "model": "크로머언니",
+      "content": "Dan kali ini kau yang menungguku sepanjang waktu!"
+    },
+    {
+      "id": 1,
+      "model": "이상",
+      "content": "... Kamu lagi ngomong sama kita, ya?"
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<... Dia kakaknya Kromer. Namanya juga sama Kromer—sama seperti adiknya.>"
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "...!"
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Dari cara dia berjalan... Ya, kelihatan mirip sekali."
+    },
+    {
+      "id": 5,
+      "content": "Dengan melihat senyuman riang di wajahnya... menjawab dengan sendirinya."
+    },
+    {
+      "id": 6,
+      "content": "Tentu saja, dia..."
+    },
+    {
+      "id": 7,
+      "content": "... Dia tau tentang Putaran Waktu ini. Dia tahu betul betapa kecewa dan hampa rasanya yang aku alami."
+    },
+    {
+      "id": 8,
+      "content": "Aku melangkah menuju Kromer, frustrasi yang luar biasa membuatku melupakan segala keraguan yang mungkin kutahu di putaran sebelumnya. Outis berteriak panik dan Sinclair tersentak kaget, tapi sekarang tidak ada yang bisa menghentikanku."
+    },
+    {
+      "id": 9,
+      "model": "크로머언니",
+      "content": "Whoa... Santai dulu—jarakmu sudah terlalu dekat sampai bikin tidak nyaman. Kamu tidak mau memancingku masuk ke fase mengamuk sampai menghancurkan prostesis kayak adik perempuanku, kan?"
+    },
+    {
+      "id": 10,
+      "model": "홍루",
+      "content": "Hah? Apakah itu Meursault?"
+    },
+    {
+      "id": 11,
+      "content": "Aku mengikuti jari Hong Lu... dan menemukan Meursault, tidak lagi terikat di Aula Pakaian Kasual. Dia mungkin buru-buru untuk sampai ke sini."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<... Meursault.>"
+    },
+    {
+      "id": 13,
+      "model": "뫼르소",
+      "content": "Manajer."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Jadi kamu meninggalkan Aula Pakaian Kasual.>"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "Ya. Aku tidak mau lagi hanya diam saja kali ini."
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<... Meursault, Aku perlu kamu untuk menanyakan sesuatu ke Kromer.>"
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "< Kalau dia punya cara untuk menghentikan ini, kita perlu tau.>"
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "content": "Kalian lagi ngomongin apa? Cara buat berhentiin apa?"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Dia tahu banyak tentang tempat ini, Sinclair. Dan... aku rasa dia tidak akan menolak untuk membantu kita.>"
+    },
+    {
+      "id": 20,
+      "content": "Aku nggak bisa benar-benar menebak kenapa, tapi ada sesuatu yang memberitahuku kalau melihat kita maju adalah alasan dia ada di sini, apapun maksudnya itu. Lagipula, dia memang membantu kita di B2."
+    },
+    {
+      "id": 21,
+      "model": "뫼르소",
+      "content": "... Kami minta informasi apa pun yang mungkin kamu punya..."
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "... tentang cara mengubah hasilnya."
+    },
+    {
+      "id": 23,
+      "model": "크로머언니",
+      "content": "... Sekarang itu benar-benar mengecewakan. Apakah aku benar-benar harus menjelaskannya padamu?"
+    },
+    {
+      "id": 24,
+      "model": "크로머언니",
+      "content": "Aku sering bilang ini, tapi kalau saudara perempuanku kalah dari perusahaan yang punya sedikit banget kelebihan ini... maka kamu sudah menolongku dengan menyingkirkannya. Nanti dia cuma bakal jadi beban buat prospek masa depanku."
+    },
+    {
+      "id": 25,
+      "model": "싱클레어",
+      "content": "......."
+    },
+    {
+      "id": 26,
+      "model": "크로머언니",
+      "content": "Masih belum paham?"
+    },
+    {
+      "id": 27,
+      "model": "크로머언니",
+      "content": "Perubahan paradigma!"
+    },
+    {
+      "id": 28,
+      "model": "크로머언니",
+      "content": "Itu yang kamu butuhkan."
+    },
+    {
+      "id": 29,
+      "model": "크로머언니",
+      "content": "\"Aduh, aku sudah patuh mengikuti jalur yang ditetapkan oleh Grand Magasin, dan tidak ada yang berubah!\" Kalian terdengar seperti itu. Kamu tidak bisa mendapatkan semuanya sekaligus."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<Jalur yang ditetapkan oleh Grand Magasin...>"
+    },
+    {
+      "id": 31,
+      "model": "크로머언니",
+      "content": "Langkah pertama untuk memulai perubahan adalah melanggar aturan yang sudah ada—dan itu benar-benar berlaku untuk Grand Magasin."
+    },
+    {
+      "id": 32,
+      "model": "크로머언니",
+      "content": "Jadi... hantam, hancurkan, dan buat tempat ini runtuh berantakan. Persis seperti caramu memperlakukan adik perempuanku."
+    },
+    {
+      "id": 33,
+      "model": "크로머언니",
+      "content": "Seperti mereka yang bersembunyi di balik bayang-bayang di sini, menunggu saat yang tepat."
+    },
+    {
+      "id": 34,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<... Jadi itu kamu. Kamu adalah Raksasa Le Néant.>"
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<Kamu salah satu dari empat Raksasa yang menopang toko serba ada ini.>"
+    },
+    {
+      "id": 37,
+      "model": "크로머언니",
+      "content": "Haha! Coba ngomong pake bahasa manusia lain kali, ya? Aku sama sekali tidak mengerti sepatah kata pun dari suara detak-detak itu."
+    },
+    {
+      "id": 38,
+      "model": "크로머언니",
+      "content": "Yah, kurasa aku akan menganggapnya sebagai wujud rasa terima kasih yang tak terhingga darimu, mengingat aku rela bersusah payah membantu rongsokan sepertimu."
+    },
+    {
+      "id": 39,
+      "model": "크로머언니",
+      "content": "Bagaimana kalau kita bertemu lagi setelah kau melanggar peraturan Grand Magasin, hmm?"
+    },
+    {
+      "id": 40,
+      "model": "크로머언니",
+      "content": "Dan aku mengharapkan sesuatu yang luar biasa."
+    },
+    {
+      "id": 41,
+      "model": "크로머언니",
+      "content": "Tentu saja, kalau kamu masih nggak ngerti sama sekali..."
+    },
+    {
+      "id": 42,
+      "model": "크로머언니",
+      "content": "Kalau begitu menyerahlah saja dan tetap di sini. Membusuk sampai kau mengeluarkan bau manis dan menyuburkan Kaleng Pengalaman Instan; setidaknya kau akan berguna. Kalau N Corp. tidak bisa berubah, lebih baik mati saja. Dikebiri."
+    },
+    {
+      "id": 43,
+      "model": "싱클레어",
+      "content": "Manajer... Sudah berapa lama... kamu mengenal wanita itu?!"
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Aku baru bertemu dia setelah kita masuk ke sini, sama seperti kalian semua.>"
+    },
+    {
+      "id": 45,
+      "model": "단테",
+      "content": "<Tapi... ada hal-hal yang kita semua lalui yang hanya Meursault dan aku yang ingat.>"
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "... Apakah kamu bilang kalau ingatan kita sudah dihapus... atau mengalami semacam prosedur yang setara?"
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<... Benar.>"
+    },
+    {
+      "id": 48,
+      "content": "Aku memberi para Sinners garis besar tentang bagaimana seluruh sistem Grand Magasin Sisyphe bekerja dan memberitahu mereka tentang bagaimana percobaan kita sebelumnya berakhir."
+    },
+    {
+      "id": 49,
+      "content": "Awalnya, beberapa dari mereka memberikan tatapan yang seolah bertanya-tanya apakah aku sudah gila..."
+    },
+    {
+      "id": 50,
+      "content": "Tapi saat aku selesai, semua Sinners menatapku dengan penuh kepercayaan."
+    },
+    {
+      "id": 51,
+      "model": "홍루",
+      "content": "... Kami sama sekali tidak tau seberapa banyak yang sudah kamu alami, Dante."
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "Tidak bisa membantumu dalam situasi serius seperti ini... Aku tidak ada kata-kata, Manajer Eksekutif."
+    },
+    {
+      "id": 53,
+      "model": "이스마엘",
+      "content": "Kalau wanita di kamar mandi—maksudku, Asal—bicara jujur, kamu seharusnya menyimpan ini sebagai rahasia bahkan dari kami, kan?"
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "Kurasa kali ini kamu menemukan cara lain, ya?"
+    },
+    {
+      "id": 55,
+      "model": "단테",
+      "content": "<Enggak, sebenarnya enggak...>"
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<Tapi kita masih harus mencari sesuatu yang lain untuk dicoba.>"
+    },
+    {
+      "id": 57,
+      "content": "Kita sudah mati berkali-kali di toko serba ada ini..."
+    },
+    {
+      "id": 58,
+      "content": "Tapi kita juga sudah merenggut nyawa banyak orang yang tinggal di sini."
+    },
+    {
+      "id": 59,
+      "content": "Dan terkadang... muncul sebuah makhluk, makhluk yang mencegah kita membunuh entitas tertentu, seolah-olah ada kematian yang tidak bisa dia biarkan terjadi."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Setiap kali kami mencoba meninggalkan jalur yang telah ditentukan untuk kami...>"
+    },
+    {
+      "id": 61,
+      "model": "단테",
+      "content": "<Sepertinya ada seseorang yang mengembalikan semuanya seperti semula.>"
+    },
+    {
+      "id": 62,
+      "model": "뫼르소",
+      "content": "Maksud kamu... si sipir?"
+    },
+    {
+      "id": 63,
+      "content": "Setiap kali Sipir membunuh Meursault dan mengirim kami kembali ke Asal, tidak ada seorang pun dari Sinners lain yang ingat apa pun tentang pertemuan itu."
+    },
+    {
+      "id": 64,
+      "content": "Yang berarti kalau dibunuh olehnya... pada dasarnya sama saja dengan dua Akhir yang sudah kulalui."
+    },
+    {
+      "id": 65,
+      "model": "단테",
+      "content": "<Ya, setiap kali Sipir muncul, dia akan mengembalikan segala sesuatunya ke tempatnya. Sejauh mana itu terjadi mungkin berbeda setiap kali, tapi itu—>"
+    },
+    {
+      "id": 66,
+      "model": "파우스트",
+      "content": "... Mirip dengan proses likuidasi yang kamu jelaskan."
+    },
+    {
+      "id": 67,
+      "model": "오티스",
+      "content": "Berdasarkan penjelasan Manajer Eksekutif, proses \"Likuidasi\" ini tampaknya merupakan bentuk reset keras, dimulai ketika hasil dari Kaleng Pengalaman Instan Grand Magasin turun di bawah ambang yang ditentukan..."
+    },
+    {
+      "id": 68,
+      "model": "오티스",
+      "content": "... tapi jika fenomena serupa bisa dipicu oleh kematian beberapa orang di tempat ini... aku tidak suka dampak yang ditimbulkan."
+    },
+    {
+      "id": 69,
+      "model": "단테",
+      "content": "<Ya, sepertinya Grand Magasin mendorong kita untuk tetap mengikuti jalannya...>"
+    },
+    {
+      "id": 70,
+      "model": "단테",
+      "content": "<... kalau itu ada hubungannya dengan Sipir, mungkin kita bisa coba mengalahkannya...>"
+    },
+    {
+      "id": 71,
+      "model": "단테",
+      "content": "<... dan lihat apakah itu menghentikan likuidasi-likuidasi itu terjadi. Mungkin itu akan memungkinkan kita membuat pilihan yang berbeda.>"
+    },
+    {
+      "id": 72,
+      "model": "뫼르소",
+      "content": "Ini tidak akan menjadi pertarungan yang mudah, Manajer."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 74,
+      "model": "단테",
+      "content": "<Tapi bagaimana kalau... pilihan ini juga bukan solusinya?>"
+    },
+    {
+      "id": 75,
+      "model": "뫼르소",
+      "content": "……."
+    },
+    {
+      "id": 76,
+      "content": "Untuk sesaat, Meursault tampak ragu bagaimana harus menjawab."
+    },
+    {
+      "id": 77,
+      "model": "뫼르소",
+      "content": "Manajer."
+    },
+    {
+      "id": 78,
+      "model": "뫼르소",
+      "content": "Apakah kamu takut?"
+    },
+    {
+      "id": 79,
+      "model": "단테",
+      "content": "<... Yaaa. Tentu saja aku takut.>"
+    },
+    {
+      "id": 80,
+      "model": "단테",
+      "content": "<Selalu...>"
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<... dan mungkin seterusnya.>"
+    },
+    {
+      "id": 82,
+      "model": "뫼르소",
+      "content": "Baiklah."
+    },
+    {
+      "id": 83,
+      "model": "단테",
+      "content": "<Bukankah begitu, Meursault??>"
+    },
+    {
+      "id": 84,
+      "model": "뫼르소",
+      "content": "Rasa takut muncul dari menilai kondisi yang sedang dialami. Jadi, kalau kamu berhenti memikirkan apakah jalan yang sekarang benar atau salah, dan dengan menahan diri dari kepastian..."
+    },
+    {
+      "id": 85,
+      "model": "뫼르소",
+      "content": "... maka kamu akan bisa bertahan meskipun takut."
+    },
+    {
+      "id": 86,
+      "model": "뫼르소",
+      "content": "Kamu bisa sepenuhnya fokus pada apa yang ada tepat di depanmu."
+    },
+    {
+      "id": 87,
+      "model": "단테",
+      "content": "<Tapi dengan menempuh jalan itu, bukankah suatu saat kamu akan...>"
+    },
+    {
+      "id": 88,
+      "content": "Aku nggak tahu harus menjawab apa terhadap apa yang Meursault katakan padaku."
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<... terlalu kebal sampai nggak sadar kalau kamu menyakiti seseorang?>"
+    },
+    {
+      "id": 90,
+      "model": "뫼르소",
+      "content": "Rantai yang mengikat kepalan tanganku meredakan rasa sakit dari luka."
+    },
+    {
+      "id": 91,
+      "model": "뫼르소",
+      "content": "Itu juga alasan lain kenapa aku melilitkan rantai-rantai itu di sekitarku sebagai pelindung, Manajer."
+    },
+    {
+      "id": 92,
+      "content": "Meursault sepertinya tidak pernah takut atau bingung tentang apapun."
+    },
+    {
+      "id": 93,
+      "content": "Aku sebenarnya nggak terlalu paham, tapi itu sesuatu yang kadang bikin aku iri."
+    },
+    {
+      "id": 94,
+      "content": "Tak kenal rasa takut merupakan aset bagi orang-orang seperti kita, terkadang Meursault bahkan tampak sangat tenang, tak peduli betapa beratnya misi tersebut."
+    },
+    {
+      "id": 95,
+      "content": "Dengan begitu..."
+    },
+    {
+      "id": 96,
+      "content": "... Aku bisa bilang dengan pasti kalau perjalanan kita lebih dari sekedar rasa takut."
+    },
+    {
+      "id": 97,
+      "content": "Ketika sebuah misi akhirnya berjalan sesuai keinginan kami, atau ketika kami berhasil mengatasi kemungkinan yang mustahil untuk mencapai apa yang diharapkan dari kami... kami merayakannya bersama. Kami berbagi kemenangan, dan itu memberi kami kekuatan untuk mempersiapkan diri menghadapi cobaan berikutnya yang pasti akan datang."
+    },
+    {
+      "id": 98,
+      "content": "Dan aku menyadari bahwa Meursault tidak pernah menjadi bagian dari itu."
+    },
+    {
+      "id": 99,
+      "content": "Dia selalu menjaga jaraknya, tidak bisa berbagi bahkan momen singkat kebahagiaan dan istirahat bersama."
+    },
+    {
+      "id": 100,
+      "model": "단테",
+      "content": "<Saat keadaan menjadi sulit... aku hanya membiarkan diriku merasa lelah.>"
+    },
+    {
+      "id": 101,
+      "model": "단테",
+      "content": "<Dan ketika aku takut, yah... aku cuma bilang kalau aku takut.>"
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<Dan... aku akan terus melakukan itu.>"
+    },
+    {
+      "id": 103,
+      "model": "뫼르소",
+      "content": "Apakah tindakan tersebut... telah membawa perubahan yang berarti?"
+    },
+    {
+      "id": 104,
+      "model": "단테",
+      "content": "<... Tidak.>"
+    },
+    {
+      "id": 105,
+      "content": "Jawabanku menyedihkan."
+    },
+    {
+      "id": 106,
+      "model": "뫼르소",
+      "content": "……."
+    },
+    {
+      "id": 107,
+      "model": "단테",
+      "content": "<Untuk saat ini... Ayo ke lantai 2.>"
+    },
+    {
+      "id": 108,
+      "content": "Tapi bahkan jika ternyata tidak ada yang akan berubah, kita masih harus terus naik."
+    }
+  ]
+}
