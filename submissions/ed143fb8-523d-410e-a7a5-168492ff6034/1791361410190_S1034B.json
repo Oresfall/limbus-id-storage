@@ -1,0 +1,675 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "???",
+      "content": "Sedikit demi sedikit, punggung bungkuk Sipir mulai tegak..."
+    },
+    {
+      "id": 1,
+      "content": "Dan cahaya dingin yang menyeramkan itu perlahan berubah menjadi warna emas yang cerah."
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3,
+      "model": "신부거인",
+      "content": "... Tidak ingat terakhir kali aku bisa meregangkan punggungku di Grand Magasin."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Dia... berubah total...>"
+    },
+    {
+      "id": 5,
+      "model": "신부거인",
+      "content": "*sigh* Meursault, si pendosa... Dante, Manajer Eksekutif Limbus Company... dan anggota dari tim, kurasa."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 7,
+      "model": "파우스트",
+      "content": "Siapa kau?"
+    },
+    {
+      "id": 8,
+      "model": "신부거인",
+      "content": "Ah. Seharusnya aku memperkenalkan diri lebih awal. Aku adalah Suara Dewa Obsidian dari Le Noir, Sang Penjaga yang mengawasi mereka yang dihukum dengan Hukuman Sisyphe... dan salah satu dari empat Raksasa Grand Magasin Sisyphe."
+    },
+    {
+      "id": 9,
+      "model": "신부거인",
+      "content": "Ah, aku ngomong apa sih? Ayo kita tukar kartu nama supaya nggak repot. Ini kartuku."
+    },
+    {
+      "id": 10,
+      "content": "Sipir... maksudku pria itu, melambaikan tangannya dengan santai. Sebuah kartu nama jatuh di depan kami."
+    },
+    {
+      "id": 11,
+      "content": "Tercetak di kartu nama yang biasa saja itu adalah gelarnya \"Raksasa - N Corp. Grand Magasin Sisyphe\"... dan sebuah nama."
+    },
+    {
+      "id": 12,
+      "model": "뫼르소",
+      "content": "... Maurice. Pendeta."
+    },
+    {
+      "id": 13,
+      "model": "신부거인",
+      "content": "Panggil saja \"Pendeta.\" Ibumu juga memanggilku pendeta."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 15,
+      "model": "오티스",
+      "content": "Kamu tidak akan menunjukkan wujud aslimu tanpa alasan. Apa kamu datang untuk memberi peringatan?"
+    },
+    {
+      "id": 16,
+      "model": "신부거인",
+      "content": "Kita sepertinya sudah melewati tahap peringatan, kan?"
+    },
+    {
+      "id": 17,
+      "model": "신부거인",
+      "content": "Maksudku, kalian jelas bukan tipe orang yang akan membiarkan kematian dan siklus abadi menghalangi apa pun yang kalian kejar..."
+    },
+    {
+      "id": 18,
+      "model": "신부거인",
+      "content": "Dan seluruh Sistem Sisyphe jadi kacau sejak fenomena Malam Putih dan Hari Gelap—apa pun dampaknya terhadap Grand Magasin, ada sesuatu yang membiarkan gangguan menyebalkan seperti kalian lolos dari aturan."
+    },
+    {
+      "id": 19,
+      "model": "신부거인",
+      "content": "Jadi aku datang untuk mengurungmu selamanya di sudut yang menyedihkan."
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "Selamanya...?"
+    },
+    {
+      "id": 21,
+      "model": "신부거인",
+      "content": "Pria itu, Meursault, telah dijatuhi hukuman Sisyphe. Bahkan seumur hidup dihabiskan untuk mematuhi aturan tempat ini dan menyesali kejahatannya pun hampir tidak akan cukup..."
+    },
+    {
+      "id": 22,
+      "model": "신부거인",
+      "content": "... Jadi... ketika dia bersikeras melanggar aturan, membunuh pelanggan penting sana-sini... \"Sudah jelas bahwa ketulusan si pendosa patut diragukan—pertobatannya, tentu saja berada di bawah keraguan yang sama...!\" ... itulah yang aku maksud."
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "content": "Jadi kamu di sini karena kita melanggar aturan dan mencoba meninggalkan toko serba ada ini bersama Meursault."
+    },
+    {
+      "id": 24,
+      "model": "신부거인",
+      "content": "*hehe* Sejujurnya, aku nggak peduli sama sekali kalau kamu pergi dari tempat ini atau membawa tahanan itu bersamamu, meski aku nggak bisa bilang apakah itu memungkinkan."
+    },
+    {
+      "id": 25,
+      "model": "신부거인",
+      "content": "Tapi ketika kamu mulai menentang takdir—yaitu, Sistem Sisyphe itu sendiri—kamu membuat masalah serius baik untuk kualitas maupun kuantitas Adonan Pengalaman yang diproduksi toko serba ada ini."
+    },
+    {
+      "id": 26,
+      "model": "신부거인",
+      "content": "Bukankah ide itu membuatmu takut? Runtuhnya ketertiban dan kebenaran yang telah ditetapkan oleh N Corp.?"
+    },
+    {
+      "id": 27,
+      "model": "신부거인",
+      "content": "Ketika ketertiban hilang, hanya kerusuhan yang akan tersisa."
+    },
+    {
+      "id": 28,
+      "model": "신부거인",
+      "content": "N Corp. akan kembali ke cara lamanya. Menyisir setiap Backstreet dan Nest di luar sana, memaku otak orang-orang untuk mengambil pengalaman mereka langsung dari daging... seperti orang biadab."
+    },
+    {
+      "id": 29,
+      "model": "싱클레어",
+      "content": "......."
+    },
+    {
+      "id": 30,
+      "model": "신부거인",
+      "content": "... Oleh karena itu, sesuai dengan aturan Sistem Sisyphe, dengan ini aku akan mengarantina Meursault, yang bersalah telah membunuh seorang Raksasa, ke dalam sel isolasi."
+    },
+    {
+      "id": 31,
+      "model": "신부거인",
+      "content": "... Aku akan menemui kamu saat kamu siap bertobat."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<Tu-tunggu...!>"
+    },
+    {
+      "id": 33,
+      "model": "그레고르",
+      "content": "H-hey...!"
+    },
+    {
+      "id": 34,
+      "model": "뫼르소엄마",
+      "content": "Boleh tolong tutup pintunya, Meursault? Jangan biarkan satu sinar matahari pun masuk—aku nggak mau ada tatapan yang menengok masuk."
+    },
+    {
+      "id": 35,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>Ingat... dan renungkan dosa yang telah kamu lakukan dengan tangan itu.</color>"
+    },
+    {
+      "id": 36,
+      "model": "뫼르소엄마",
+      "content": "Ghk... Kergh..."
+    },
+    {
+      "id": 37,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 38,
+      "model": "뫼르소",
+      "content": "Aku membunuh Ibuku."
+    },
+    {
+      "id": 39,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>Now, itu bukan jenis kejahatan\nyang bisa dngkus sebagai kesalahan karena kebodohan remaja, kan?\nBahkan kalau dilihat dari sudut pandang yang paling simpatik sekalipun,\nini adalah kejahatan yang aneh dan nggak masuk akal yang bertentangan dengan akal sehat.</color>"
+    },
+    {
+      "id": 40,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>Apa yang kamu lakukan membuat N Corp. menghadapi konsekuensi yang tidak bisa dikembalikan, setidaknya begitu.</color>"
+    },
+    {
+      "id": 41,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>Semua orang terkejut. Membunuh Ibumu sendiri dengan cara yang begitu kejam...\nOrang-orang sangat marah karena kekejaman yang begitu... tidak manusiawi.</color>"
+    },
+    {
+      "id": 42,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>Bukan penjara yang akan mengurungmu... ataupun Grand Magasin Sisyphe.</color>"
+    },
+    {
+      "id": 43,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>Seorang pendosa dipenjarakan oleh dosanya. Sesederhana itu.\nSeharusnya, kamu tetap dikurung di sini untuk menghadapi dosamu, belajar menyesal dan bertobat.</color>"
+    },
+    {
+      "id": 44,
+      "model": "뫼르소",
+      "content": " biasanya pulang kerja sekitar jam 19:10. Aku sampai di rumah agak lebih awal, jam 18:00."
+    },
+    {
+      "id": 45,
+      "model": "뫼르소",
+      "content": "Hal pertama yang aku lakukan adalah menutup semua jendela yang sebelumnya aku buka untuk mengalirkan udara ke dalam rumah."
+    },
+    {
+      "id": 46,
+      "model": "뫼르소",
+      "content": "Lalu aku menarik tirai hitam untuk menutupi jendela, menghalangi pemandangan di luar."
+    },
+    {
+      "id": 47,
+      "model": "과거뫼르소",
+      "content": "Selamat datang di rumah, Ibu."
+    },
+    {
+      "id": 48,
+      "model": "뫼르소엄마안경",
+      "content": "... Jendela dan tirainya. Sudah kamu tutup semua?"
+    },
+    {
+      "id": 49,
+      "model": "과거뫼르소",
+      "content": "Sudah."
+    },
+    {
+      "id": 50,
+      "model": "뫼르소",
+      "content": "Ibu sangat takut dengan dunia—dengan tatapan orang lain."
+    },
+    {
+      "id": 51,
+      "model": "뫼르소",
+      "content": "Dia tidak pernah keluar tanpa kacamata hitam. Bahkan saat berjalan di jalanan, dia menjaga kepalanya tetap menunduk dan matanya tetap menatap ke tanah."
+    },
+    {
+      "id": 52,
+      "model": "뫼르소",
+      "content": "Pada 19:30, Ibu dan Aku makan bersama."
+    },
+    {
+      "id": 53,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Ingat baik-baik tatapan mata itu. Orang-orang itu mungkin tidak bermaksud jahat ketika menatapku, tapi..."
+    },
+    {
+      "id": 54,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Sekali tatapan menangkapku... si pemandang, entah sengaja atau tidak, akan menahan aku di tempat, menanamku dalam pikirannya."
+    },
+    {
+      "id": 55,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Keberadaanku sendiri, diambil begitu saja, ditekan, dan dibingkai agar diingat sesuai keinginan mereka."
+    },
+    {
+      "id": 56,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Aah, betapa mengerikannya itu...? Hanya memikirkannya saja sudah lebih dari yang bisa aku tanggung."
+    },
+    {
+      "id": 57,
+      "model": "뫼르소",
+      "content": "Ibu menceritakan hal-hal yang membuatnya stress sepanjang hari. Setiap bagian dari kehidupan sehari-harinya."
+    },
+    {
+      "id": 58,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Kita nggak punya pilihan... selain tetap terpaku dan terjebak... begitu pandangan seseorang menatap kita."
+    },
+    {
+      "id": 59,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Coba bayangkan... Semua orang yang kamu lewati hari ini, memakan Kaleng Pengalaman Instan mereka sama seperti kita... Dan ketika kamu—keberadaanmu, diawetkan dalam ingatan seseorang—tiba-tiba muncul... kamu nggak punya pilihan selain ada. Ada dengan cara yang bahkan nggak pernah kamu mau..."
+    },
+    {
+      "id": 60,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Meursault, Ibu takut... Tapi aku berharap setidaknya kamu bisa bebas dari ketakutan ini. Ah... apakah itu mungkin terjadi..."
+    },
+    {
+      "id": 61,
+      "model": "뫼르소",
+      "content": "Seperti biasa, kesimpulan dari keputusasaan Ibu adalah percakapan dengan dirinya sendiri."
+    },
+    {
+      "id": 62,
+      "model": "뫼르소",
+      "content": "Aku dengar semua yang dikatakan, tapi nggak ada yang aku jawab."
+    },
+    {
+      "id": 63,
+      "model": "뫼르소",
+      "content": "Aku hanya menyiapkan makanannya, seperti yang seharusnya dilakukan keluarga, seperti yang seharusnya dilakukan seorang anak... dan makan PKaleng Pengalaman Instan bersamanya."
+    },
+    {
+      "id": 64,
+      "model": "뫼르소",
+      "content": "Tidak ada keputusasaan atau ketakutan di dalam kaleng itu."
+    },
+    {
+      "id": 65,
+      "model": "뫼르소",
+      "content": "Ibu dan aku bisa menghabiskan malam yang damai dan menyenangkan bersama. Sebagai keluarga yang bahagia dan penuh cinta."
+    },
+    {
+      "id": 66,
+      "model": "뫼르소",
+      "content": "Ibu memiliki rantai panjang dan berat yang tergantung di bagian paling mencolok dari ruang tamu."
+    },
+    {
+      "id": 67,
+      "model": "뫼르소",
+      "content": "Bagi kami, itu adalah... sebuah simbol, sebuah penanda—sesuatu yang bisa mengurangi tidak hanya ketakutannya tapi juga ketakutanku."
+    },
+    {
+      "id": 68,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Rantai ini adalah pengingat, Meursault. Aku selalu melihatnya untuk mengingatkan diri sendiri bahwa aku perlu berhati-hati."
+    },
+    {
+      "id": 69,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Kamu bisa merasakannya di luar sana, kan? Orang-orang yang hidup. Orang-orang yang melihat kita tanpa kita sadari bahwa mereka sedang melihat kita."
+    },
+    {
+      "id": 70,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Ibumu... Aku selalu... terikat pada perasaan itu, dan itu telah memeras setiap bagian dari diriku... hingga kering."
+    },
+    {
+      "id": 71,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Orang-orang membuatku takut."
+    },
+    {
+      "id": 72,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Mereka mengingatku sesuai keinginan mereka, lalu mereka mengharapkan apa pun sesuai keinginan mereka. Dan kemudian, aku gagal untuk menyesuaikan diri..."
+    },
+    {
+      "id": 73,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Semuanya membuatku terseret lebih dalam seperti beban yang berat. Membuatku takut."
+    },
+    {
+      "id": 74,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Setiap pasang mata adalah rantai yang dipaksakan pada tubuhku, menarik ke segala arah sampai aku terbelah menjadi potongan-potongan yang tak bisa dikenali..."
+    },
+    {
+      "id": 75,
+      "model": "뫼르소",
+      "content": "Ibu sedang kesakitan. Tangan dan kakinya utuh, tapi dia merasakan sakit seolah-olah tangan dan kakinya dicabik."
+    },
+    {
+      "id": 76,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 77,
+      "model": "과거뫼르소",
+      "content": "Bagaimana caramu... menahan sakit itu, Ibu?"
+    },
+    {
+      "id": 78,
+      "model": "뫼르소",
+      "content": "Mungkin itu berasal dari pertanyaannya. Rasa lega tampak terlihat di wajah Ibu saat dia menatap ke langit-langit, seperti seorang pemohon yang diberkati oleh relik suci, keselamatan kita adalah..."
+    },
+    {
+      "id": 79,
+      "model": "뫼르소",
+      "content": "... rantai yang menggantung di rumah kita."
+    },
+    {
+      "id": 80,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Kamu mengikat diri sendiri sebelum rantai orang lain mengikatmu."
+    },
+    {
+      "id": 81,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Rantai-rantai itu akan menahanmu... tapi setidaknya kamu tidak akan terluka."
+    },
+    {
+      "id": 82,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Rantai-rantai itu akan menanggung luka yang seharusnya melukai kulitmu, sebagai pelindung untuk menangkis rasa sakit..."
+    },
+    {
+      "id": 83,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Orang-orang bilang cuma paku dan palu yang bisa memperbaiki sesuatu. Tapi untukku, rantai juga bisa mengikat. Rantai bisa menempel. Jadi aku percaya dengan rantai."
+    },
+    {
+      "id": 84,
+      "model": "뫼르소",
+      "content": "Hampir terdengar seolah-olah dia sedang berkata, \"Aku <i>harus</i> percaya pada rantainya.\" Karena dia terlihat sangat putus asa."
+    },
+    {
+      "id": 85,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>Terus lihat itu. Hadapilah ketakutan akan sosok yang berdosa itu.</color>"
+    },
+    {
+      "id": 86,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Pintunya..."
+    },
+    {
+      "id": 87,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Bisakah kamu menutup pintunya, Meursault? Jangan biarkan ada cahaya matahari masuk—aku tak ingin ada satu tatapan pun yang mengintip ke dalam. Halangi mereka semua; jangan biarkan aku menanggung tatapan mereka."
+    },
+    {
+      "id": 88,
+      "model": "뫼르소",
+      "content": "Ibu selalu menyisihkan waktu untuk dirinya sendiri. Dia akan masuk ke kamarnya, sendirian, dan menutup pintu."
+    },
+    {
+      "id": 89,
+      "model": "뫼르소",
+      "content": "Aku tidak tahu apa yang dia lakukan di dalam. Tapi melihat pintu itu tertutup, mengetahui bahwa dia sendirian di dalam ruangan itu, membuatku takut."
+    },
+    {
+      "id": 90,
+      "model": "뫼르소",
+      "content": "Masa-masa itu justru bertambah lama setelah Ayah pergi. Ibu bilang kalau dia butuh waktu itu—waktu yang dihabiskan sendirian di kamar itu—untuk bertahan hidup."
+    },
+    {
+      "id": 91,
+      "model": "뫼르소",
+      "content": "Tidak ada seorang pun yang boleh masuk. Tidak ada pengecualian."
+    },
+    {
+      "id": 92,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 93,
+      "model": "신부거인",
+      "content": "<color=#7d7d7d>... Terus lihat itu. Saksikan kebenaran yang menakutkan orang berdosa.</color>"
+    },
+    {
+      "id": 94,
+      "model": "뫼르소",
+      "content": "Apa yang Ibu lakukannya di dalam sana? Apa yang membuatnya terus bertahan melewati rasa sakit itu?"
+    },
+    {
+      "id": 95,
+      "model": "뫼르소",
+      "content": "Itu bukan pertanyaan yang lahir dari rasa ingin tahu."
+    },
+    {
+      "id": 96,
+      "model": "뫼르소",
+      "content": "Itu merupakan kekhawatiran."
+    },
+    {
+      "id": 97,
+      "model": "뫼르소",
+      "content": "Itu merupakan ketakutan."
+    },
+    {
+      "id": 98,
+      "model": "뫼르소",
+      "content": "Yang aku butuhkan adalah kepastian—yakin bahwa tidak ada hal buruk terjadi pada Ibu di dalam ruangan itu."
+    },
+    {
+      "id": 99,
+      "model": "뫼르소",
+      "content": "Maka dari itu..."
+    },
+    {
+      "id": 100,
+      "model": "뫼르소엄마아픔",
+      "teller": "Ibu",
+      "content": "Kenapa?! <i>KENAPA?!!</i>"
+    },
+    {
+      "id": 101,
+      "model": "뫼르소엄마아픔",
+      "teller": "Ibu",
+      "content": "Aku takut... Sangat takut...!!"
+    },
+    {
+      "id": 102,
+      "place": "???",
+      "model": "뫼르소",
+      "content": "Semenjak saat itu, Aku memilih untuk tidak melihat Ibuku lagi."
+    },
+    {
+      "id": 103,
+      "model": "뫼르소",
+      "content": "Aku harus terus melindungi sedikit ketenangan yang dia temukan dalam kesendirian."
+    },
+    {
+      "id": 104,
+      "model": "뫼르소",
+      "content": "Kalau tidak, aku akan menjadi paku, palu, dan rantai yang membelenggunya dan membuatnya tetap di tempat."
+    },
+    {
+      "id": 105,
+      "model": "뫼르소",
+      "content": "Terlepas dari niatku."
+    },
+    {
+      "id": 106,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Tutup... pintunya, Meursault..."
+    },
+    {
+      "id": 107,
+      "model": "뫼르소",
+      "content": "Ibu dan Aku saling terikat."
+    },
+    {
+      "id": 108,
+      "model": "뫼르소",
+      "content": "Sebagai makhluk yang dipahami secara konseptual sebagai \"Ibu,\" Ibu melahirkanku, memberikan identitas genetik yang sama di antara kita."
+    },
+    {
+      "id": 109,
+      "model": "뫼르소",
+      "content": "Dan ini membuat kita harus percaya dan bertindak seolah-olah kita terhubung dengan ikatan yang tak bisa diputus, mulia—suatu dorongan etis dan moral bahwa inilah seharusnya hubungan antara orang tua dan anak. Kita sudah lama terikat satu sama lain oleh dorongan itu."
+    },
+    {
+      "id": 110,
+      "model": "뫼르소",
+      "content": "Kita dilahirkan ke dunia yang membuat kita harus merasa seperti itu."
+    },
+    {
+      "id": 111,
+      "model": "뫼르소",
+      "content": "Atau mungkin itu hanya masalah sifat manusia, yang memang dirancang untuk merasakan hal itu."
+    },
+    {
+      "id": 112,
+      "model": "과거뫼르소",
+      "content": "*menjeluak*"
+    },
+    {
+      "id": 113,
+      "model": "뫼르소",
+      "content": "Akan ada hari-hari di mana aku menemukan diriku bertanya-tanya kenapa semuanya harus seperti ini..."
+    },
+    {
+      "id": 114,
+      "model": "뫼르소",
+      "content": "Hari-hari ketika rasa takut dan pusing menghantamku juga, membuatku terdampar tanpa jalan kembali."
+    },
+    {
+      "id": 115,
+      "place": -1,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 116,
+      "model": "뫼르소",
+      "content": "Aku mengikuti perintah Ibu. Untuk melindungi diri, untuk menyelamatkan diri, aku menatap rantai yang tergantung di rumah kami dan mengingatkan diriku sendiri."
+    },
+    {
+      "id": 117,
+      "model": "뫼르소",
+      "content": "Dan aku sudah berusaha sekuat tenaga untuk tidak memaku \"Ibu\" atau \"dia\" atau \"makhluk itu\" ditempat,"
+    },
+    {
+      "id": 118,
+      "model": "뫼르소",
+      "content": "karena aku memahami kengerian saat dipaku."
+    },
+    {
+      "id": 119,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 120,
+      "model": "신부거인",
+      "content": "Oh Orang Berdosa, kamu takut."
+    },
+    {
+      "id": 121,
+      "model": "신부거인",
+      "content": "Kamu kesakitan. Kamu sedang menderita."
+    },
+    {
+      "id": 122,
+      "model": "신부거인",
+      "content": "Hanya ada satu cara untuk menghentikannya. Bertobatlah dari dosamu dan taatilah hukum Grand Magasin. Masih belum terlambat."
+    },
+    {
+      "id": 123,
+      "model": "신부거인",
+      "content": "Kemudian, berikanlah kontribusi bagi nilai kemanusiaan yang ingin dijunjung oleh N Corp., sebagaimana yang dilakukan oleh semua narapidana di sini."
+    },
+    {
+      "id": 124,
+      "content": "Ya, Aku menderita."
+    },
+    {
+      "id": 125,
+      "content": "Aku tidak ingin apa-apa selain melilitkan rantai di tubuhku, persis seperti yang dikatakan almarhum Ibu padaku."
+    },
+    {
+      "id": 126
+    },
+    {
+      "id": 127,
+      "model": "신부거인",
+      "content": "Biarkan dosa-dosamu mendefinisikan dirimu di dalam Grand Magasin."
+    },
+    {
+      "id": 128,
+      "model": "신부거인",
+      "content": "Di tempat ini, orang berdosa hanya perlu menerima hukuman yang dijatuhkan kepada mereka."
+    },
+    {
+      "id": 129,
+      "model": "신부거인",
+      "content": "Jika kamu merasakan bahkan sedikit rasa bersalah dan penyesalan karena membunuh Ibumu..."
+    },
+    {
+      "id": 130,
+      "model": "신부거인",
+      "content": "Maka menyerahlah, karena itulah yang seharusnya kamu rasakan sebagai anaknya! Itulah beban dosa yang harus kamu tanggung sebagai penghuni N Corp!"
+    }
+  ]
+}
