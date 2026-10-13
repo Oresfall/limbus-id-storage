@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePbBa",
+      "name": "Pallid Noise",
+      "desc": "SP Loss Efficiency +2\nJika saat kurang dari atau setara dengan -45 SP dan inflicted with this buff, peroleh Noise Panik giliran berikutnya.\nAkhir Giliran: Kurangi efek ini sebanyak 1",
+      "summary": "SP Loss Efficiency +2",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBb",
+      "name": "Noise Panik",
+      "desc": "Every Coin unit ini flips lands on tails.\nExpires giliran berikutnya",
+      "summary": "Every Coin lands on tails",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBc",
+      "name": "Impurity",
+      "desc": "- Moral Rendah\n- Peroleh 1 Fragile. Jika unit ini kalah clash, target kehilangan 2 SP",
+      "summary": "Target kehilangan 2 SP jika unit ini kehilangan the clash",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBd",
+      "name": "Impurity",
+      "desc": "- Panik\n- Peroleh 2 Fragile. Jika unit ini kalah clash, target kehilangan 5 SP",
+      "summary": "Target kehilangan 5 SP jika unit ini kehilangan the clash",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBi",
+      "name": "Test of the Big Brother",
+      "desc": "Akhir Giliran: Kurangi value sebanyak 1\nSelama ini aktif, terima double the damage dari Skill. Gandakan jumlah dari Stagger threshold raised dari Tremor Burst.\nThis efek kadaluarsa ketika unit ini kena Stagger.\nJika unit ini tidak Stagger when efek ini kadaluarsa, peroleh 5 Damage Up at awal dari giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBe",
+      "name": "Pembalasan",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Attack Power Up dan 3 Defense Level Down. Peroleh Damage Up berdasarkan jumlah dari damage diterima giliran sebelumnya (1 Damage Up untuk setiap 3% dari Maks HP lost)",
+      "summary": "Peroleh Damage Up berdasarkan total damage diterima giliran sebelumnya.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePbBf",
+      "name": "Pembalasan",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 2 Attack Power Up dan 6 Defense Level Down. Peroleh Damage Up berdasarkan jumlah dari damage diterima giliran sebelumnya\n(1 Damage Up untuk setiap 3% dari Maks HP lost)",
+      "summary": "Peroleh Damage Up berdasarkan total damage diterima giliran sebelumnya.",
+      "undefined": "-"
+    }
+  ]
+}
