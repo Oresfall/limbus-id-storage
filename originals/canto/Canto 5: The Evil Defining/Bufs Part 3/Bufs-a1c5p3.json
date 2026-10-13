@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePcBa",
+      "name": "Marked",
+      "desc": "Will be primarily targeted.\nKetika hit, peroleh tambahan Burn Potency dan Burn Count setara dengan 2 kali the amount diperoleh.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBb",
+      "name": "Fluorescence Shard",
+      "desc": "Awal Giliran: Peroleh 3 Poise dan +2 Poise Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBc",
+      "name": "Blind Obsession",
+      "desc": "Pada 3+ value, unit ini menjadi staggered.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBg",
+      "name": "Larva",
+      "desc": "Akhir Giliran: Move Larva ke kawan dengan highest HP.\nAwal Giliran: Kehilangan SP setara dengan nilainya of Larva pada diri sendiri.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBh",
+      "name": "Green Slime",
+      "desc": "Generates Green Slime giliran berikutnya setiap kali this value shrinks",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBi",
+      "name": "Uneven Breathing",
+      "desc": "Akhir Giliran: Kehilangan 5 Poise.\nBeri +50% damage dan menerima +50% damage",
+      "summary": "Beri +50% damage dan menerima +50% damage",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBj",
+      "name": "Prey Mark",
+      "desc": "Semua Pequod crew target unit ini\nTerima +50% damage dari Pequod crew",
+      "summary": "Terima +50% damage dari Pequod crew",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBk",
+      "name": "Tangle",
+      "desc": "Jika inflicted terhadap a target dengan Capture, Stagger target",
+      "summary": "Stagger target under certain conditions",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBl",
+      "name": "Capture",
+      "desc": "Jika inflicted terhadap a target dengan Tangle, Stagger target",
+      "summary": "Stagger target under certain conditions",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBn",
+      "name": "Undefiable Command",
+      "desc": "Lose 10% of HP saat ini when menggunakan Skill. Final Power Skill +1\nSaat Serang, Ahab pulihkan 8 SP; beri 2 Poise pada diri sendiri dan Ahab",
+      "summary": "Lose HP when menggunakan Skill; Final Power +1",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBo",
+      "name": "Pip's Ego",
+      "desc": "Awal Giliran: Pulihkan 3 SP per value.\nDecreases when menggunakan Weight of Guilt setelah failing Menghindar.\nAkhir Giliran: Jika pada 0, terkena Stagger.",
+      "summary": "Pulihkan SP sebanyak value. Kurangi value when failing Menghindar atau setelah menggunakan Skill tertentu.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBp",
+      "name": "Starbuck's Ego",
+      "desc": "Awal Giliran: Peroleh 1 Protection untuk setiap 5 value.\nDecreases untuk setiap Coin destroyed in Clash terhadap target dengan Prey Mark.\nAkhir Giliran: Jika pada 0, terkena Stagger.",
+      "summary": "Peroleh Protection sebanyak value. Kurangi value when losing Clash terhadap certain target.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBq",
+      "name": "Queequeg's Ego",
+      "desc": "Akhir Giliran: Peroleh value jika Shielded\nAkhir Giliran: Kehilangan value when without Perisai atau when menggunakan Bleached Atonement.\nAkhir Giliran: Pada 0, terkena Stagger.",
+      "summary": "Akhir Giliran: Depending on whether unit ini is Shielded atau not, lose atau peroleh value.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBe",
+      "iconID": "AaCePbBb",
+      "name": "Pallid Panik",
+      "desc": "SP Loss Efficiency +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBf",
+      "name": "Pallid Panik",
+      "iconID": "AaCePbBb",
+      "desc": "Peroleh 2 Bind pada Akhir Giliran.\nSetiap Coin unit ini flips lands on tails.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBr",
+      "name": "Assist Barrier",
+      "desc": "Kurangi value sebanyak jumlah dari damage diterima.\nDoes not kadaluarsa pada akhir Giliran.\nAkhir Giliran: Jika this value menjadi 0 during Ahab's 1st phase, terkena Stagger giliran berikutnya.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBs",
+      "name": "Assist Defense",
+      "desc": "Pull skills targeting Ahab ke unit ini's slot.\nUnit dengan efek ini memiliki unlimited Slot Weight.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBt",
+      "name": "Assist Attack",
+      "desc": "Setelah serangan Ahab, commence unopposed attack terhadap target yang sama Ahab attacked.\nSkill used in this action has the same Offense Level, Coin values dan efek as unit ini's 'I Follow Orders...' Skill.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}
