@@ -1,0 +1,11 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePaBa",
+      "name": "Paksaan",
+      "desc": "Starts encounter with -25 SP. Pada kurang dari 0 SP pada Awal Giliran, peroleh 3 Attack Power Up.",
+      "summary": "Pada kurang dari 0 SP, peroleh 3 Attack Power Up",
+      "undefined": "-"
+    }
+  ]
+}
