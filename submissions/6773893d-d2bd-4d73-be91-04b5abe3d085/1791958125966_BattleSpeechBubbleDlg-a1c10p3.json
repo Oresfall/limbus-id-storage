@@ -1,0 +1,519 @@
+{
+  "dataList": [
+    {
+      "id": "10SV-051_1",
+      "desc": "스킬2 (1/2)",
+      "dlg": "Accord."
+    },
+    {
+      "id": "10SV-051_2",
+      "desc": "스킬2 (2/2)",
+      "dlg": "Pique!"
+    },
+    {
+      "id": "10SV-052_1",
+      "desc": "스킬3 (1/2)",
+      "dlg": "Curahkan."
+    },
+    {
+      "id": "10SV-053_1",
+      "desc": "스킬4 랜덤 보이스1",
+      "dlg": "Konsumsi. Melahap."
+    },
+    {
+      "id": "10SV-053_2",
+      "desc": "스킬4 랜덤 보이스2",
+      "dlg": "Isilah diri kalian. Isilah kembali."
+    },
+    {
+      "id": "10SV-054",
+      "desc": "스킬5",
+      "dlg": "Jangan beristirahat selama rasa lapar itu masih menggerogoti."
+    },
+    {
+      "id": "10SV-055_1",
+      "desc": "스킬6 (준필살기) -> 합승리 시 혹은 일방 공격 시 보이스 출력 (1/2)",
+      "dlg": "Terus dan terus..."
+    },
+    {
+      "id": "10SV-055_2",
+      "desc": "스킬6 (준필살기) -> 합승리 시 혹은 일방 공격 시 보이스 출력 (2/2)",
+      "dlg": "Kita maju!"
+    },
+    {
+      "id": "10SV-056_1",
+      "desc": "스킬7 (2페이즈 스킬) (1/3)",
+      "dlg": "Jangan sisakan remah."
+    },
+    {
+      "id": "10SV-056_2",
+      "desc": "스킬7 (2페이즈 스킬) (2/3)",
+      "dlg": "Bahkan remah sekecil apa pun!"
+    },
+    {
+      "id": "10SV-056_3",
+      "desc": "스킬7 (2페이즈 스킬) (3/3)",
+      "dlg": "Lahap semuanya!"
+    },
+    {
+      "id": "10SV-057_1",
+      "desc": "스킬8 (2페이즈 스킬) (1/2)",
+      "dlg": "Sebuah dahaga yang takkan pernah terpuaskan oleh pesta apa pun."
+    },
+    {
+      "id": "10SV-057_2",
+      "desc": "스킬8 (2페이즈 스킬) (2/2)",
+      "dlg": "Kekosongan ini."
+    },
+    {
+      "id": "10SV-058",
+      "desc": "스킬9 (필살기) (1/2)",
+      "dlg": "Aku bahkan akan melahap kenangan-kenangan ini..."
+    },
+    {
+      "id": "10SV-058-01",
+      "desc": "스킬9 (필살기) (2/2)",
+      "dlg": "... dan membawa para Rouge menuju kepenuhan!"
+    },
+    {
+      "id": "10SV-059",
+      "desc": "스킬9 대사",
+      "dlg": "Keberadaanku... sifat... rasa lapar... Aku masih belum memahaminya."
+    },
+    {
+      "id": "10SV-059_1",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (1/4)",
+      "dlg": "Keberadaanku..."
+    },
+    {
+      "id": "10SV-059_2",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (2/4)",
+      "dlg": "Sifatku..."
+    },
+    {
+      "id": "10SV-059_3",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (3/4)",
+      "dlg": "Rasa lapar."
+    },
+    {
+      "id": "10SV-059_4",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (4/4)",
+      "dlg": "Aku masih belum memahaminya."
+    },
+    {
+      "id": "10SV-061",
+      "desc": "꿈같은 기억 0 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "Aku ingat. Menyusuri Grand Magasin dengan sepatu bunga cantik yang kau hadiahkan padaku."
+    },
+    {
+      "id": "10SV-062",
+      "desc": "꿈같은 기억 1 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "Aku telah menyakiti... mereka yang kuharap tak akan mengenal rasa sakit."
+    },
+    {
+      "id": "10SV-063",
+      "desc": "꿈같은 기억 2 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "Dan aku telah melahap... mereka yang memanggilku sesosok makhluk keji."
+    },
+    {
+      "id": "10SV-064",
+      "desc": "꿈같은 기억 3 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "Didorong oleh sifatku, diikat oleh tugas... Aku mengenakan kebajikan dan naik takhta sebagai Suara Le Rouge..."
+    },
+    {
+      "id": "10SV-065",
+      "desc": "꿈같은 기억 4 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "Maka... aku tidak akan pernah bisa berjalan di sisimu lagi."
+    },
+    {
+      "id": "10SV-066",
+      "desc": "151714번 스킬 사용시 대사",
+      "dlg": "Jangan melawan dorongan alam."
+    },
+    {
+      "id": "10SV-067",
+      "desc": "2페이즈 시작 시",
+      "dlg": "Aku masih memiliki begitu banyak pertanyaan... Namun aku tidak lagi diizinkan untuk menanyakannya."
+    },
+    {
+      "id": "10SV-067-01",
+      "desc": "2페이즈 시작 시 추가 대사",
+      "dlg": "Sebagai Suara yang memegang segala hasrat dan ekspektasi, peranku adalah... untuk menjawab."
+    },
+    {
+      "id": "10SV-069",
+      "desc": "잔느 1페이즈 포착 스킬 장착",
+      "dlg": "Ma puce. Saatnya mengubah takdir menjadi kehidupan."
+    },
+    {
+      "id": "10SV-070_a",
+      "desc": "잔느 1페이즈 포착 기믹 성공 후 다음 턴 시작시 (마지막 남은 설계도 처치 완료)",
+      "dlg": "Berhenti. Jangan memakukan duniamu—miliknya dan milikku—ke tempatnya hanya dengan tatapanmu."
+    },
+    {
+      "id": "10SV-070_b",
+      "desc": "잔느 1페이즈 포착 기믹 성공 후 다음 턴 시작시 (마지막 남은 설계도 처치 완료)",
+      "dlg": "Berhenti menatapku. Kau sama sekali tidak memahamiku. Berhenti menentukan siapa diriku di dalam kepalamu."
+    },
+    {
+      "id": "10SV-071",
+      "desc": "잔느 1페이즈 포착 기믹 어중간 성공 후 다음 턴 시작시 (설계도를 1~2명 죽였을 때)",
+      "dlg": "Jika aku bisa melayang seperti ini selamanya... maka aku tidak perlu merasa takut lagi."
+    },
+    {
+      "id": "10SV-072",
+      "desc": "잔느 1페이즈 포착 기믹 실패 후 다음 턴 시작시 (설계도를 한명도 못 죽였을 때)",
+      "dlg": "Akan kuwarnai seluruh dunia... dengan hatiku. Dengan warna-warnaku yang garang."
+    },
+    {
+      "id": "10SV-073",
+      "desc": "잔느 1페이즈 152203 (가중치 3 1페이즈 강한 스킬)",
+      "dlg": "Emosi-emosi yang terpaku di dalam hatiku..."
+    },
+    {
+      "id": "10SV-073-01",
+      "desc": "잔느 1페이즈 152203 추가 대사",
+      "dlg": "Tugas? Penyesalan? Tanggung jawab?"
+    },
+    {
+      "id": "10SV-073-02",
+      "desc": "잔느 1페이즈 152203 추가 대사",
+      "dlg": "Lepaskan. Semuanya."
+    },
+    {
+      "id": "10SV-074",
+      "desc": "잔느 1페이즈 152204 (회피 성공시)",
+      "dlg": "Kau tidak bisa menjangkauku."
+    },
+    {
+      "id": "10SV-075",
+      "desc": "잔느 뫼르소가 흐트러지거나 체력 30% 미만일 때 (전투당 1회)",
+      "dlg": "Kau juga ingin dipahami, bukan? Kenapa harus mengubur hatimu dan menyerahkan diri pada paku-paku mereka? Ma puce, hari ini rasanya begitu sulit bagiku untuk memahamimu."
+    },
+    {
+      "id": "10SV-076_a",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Marche!"
+    },
+    {
+      "id": "10SV-076_a-01",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Côté!"
+    },
+    {
+      "id": "10SV-076_a-02",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Assemblé!"
+    },
+    {
+      "id": "10SV-076_b",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Un!"
+    },
+    {
+      "id": "10SV-076_b-01",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Deux!"
+    },
+    {
+      "id": "10SV-076_b-02",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Trois!"
+    },
+    {
+      "id": "10SV-077",
+      "desc": "잔느 2페이즈 152304 (왈츠 합 기믹 실패시 사용하는 스킬)",
+      "dlg": "Seharusnya kau tidak memberikan apa pun jika sejak awal tidak berniat menerimanya."
+    },
+    {
+      "id": "10SV-078_a",
+      "desc": "잔느 2페이즈 152305 (왈츠 합 기믹 성공시 사용하는 스킬) (2종)",
+      "dlg": "Bagaimana menurutmu? Bukankah ini indah?"
+    },
+    {
+      "id": "10SV-078_b",
+      "desc": "잔느 2페이즈 152305 (왈츠 합 기믹 성공시 사용하는 스킬) (2종)",
+      "dlg": "Lihat? Kita saling memahami."
+    },
+    {
+      "id": "10SV-078_c",
+      "desc": "잔느 2페이즈 152305 (왈츠 합 기믹 성공시 사용하는 스킬) (2종)",
+      "dlg": "Ma puce... duniaku hanya akan menjadi utuh jika ada dirimu di dalamnya."
+    },
+    {
+      "id": "10SV-079",
+      "desc": "잔느 2페이즈 152306 (왈츠 합 기믹 실패시 사용하는 회피)",
+      "dlg": "Kaki yang salah. Langkah itu keliru!"
+    },
+    {
+      "id": "10SV-079-01",
+      "desc": "잔느 2페이즈 152306 (왈츠 합 기믹 실패시 사용하는 회피) (2종)",
+      "dlg": "Tempo yang tidak tepat."
+    },
+    {
+      "id": "10SV-080_a",
+      "desc": "잔느 3페이즈 시작 전 연출 대사",
+      "dlg": "Kau datang padaku pada langkah pertama, bertahan di langkah kedua, lalu hanyut menjauh pada langkah ketiga."
+    },
+    {
+      "id": "10SV-080_b",
+      "desc": "잔느 3페이즈 시작 전 연출 대사",
+      "dlg": "Jadi... apa selanjutnya kalau begitu? Di mana kakimu akan melangkah sekarang?"
+    },
+    {
+      "id": "10SV-080_c",
+      "desc": "잔느 3페이즈 시작 전 연출 대사",
+      "dlg": "Apakah kau tersesat...? Kalau begitu kembalilah padaku, seperti langkah pertama dari tarian ini."
+    },
+    {
+      "id": "10SV-081_a",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "Sudah terlambat untuk membahas rasionalitas. Panggung ini—dunia ini—memang tidak pernah adil sejak awal."
+    },
+    {
+      "id": "10SV-081_b",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "Kalian semua terkekang oleh tatapan. Apakah masih ada tempat tersisa bagi kalian untuk melangkah?"
+    },
+    {
+      "id": "10SV-081_c",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "Neraka adalah orang lain. Sebuah neraka mengerikan dan menjijikkan yang tidak ingin kuhadapi."
+    },
+    {
+      "id": "10SV-081_d",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "Berhentilah berpikir. Berhentilah memikirkan tentang tidak berpikir sekalipun."
+    },
+    {
+      "id": "10SV-082",
+      "desc": "잔느 3페이즈 첫번째 왈츠 합 기믹이 나왔을 때 (거미 잔느로 처음 변신했을 때)",
+      "dlg": "Saatnya melanjutkan tarian kita. Menarilah di dunia seperti yang kulihat. Menarilah di atas makna yang akan kuciptakan."
+    },
+    {
+      "id": "10SV-083",
+      "desc": "잔느 3페이즈 왈츠 합 기믹 뫼르소로 성공 시",
+      "dlg": "Temukan iramanya. Forte... lalu piano."
+    },
+    {
+      "id": "10SV-084",
+      "desc": "잔느 3페이즈 왈츠 합 기믹 뫼르소로 실패 시",
+      "dlg": "Kau tidak mungkin melupakannya... Apakah ini caramu menggoda?"
+    },
+    {
+      "id": "10SV-085",
+      "desc": "잔느 3페이즈 왈츠 합 기믹 실패 시 (뫼르소가 아닌 수감자로 대처 시)",
+      "dlg": "Tak seorang pun dari kalian yang akan pernah mencapai dinding ini."
+    },
+    {
+      "id": "10SV-086",
+      "desc": "잔느 3페이즈 설계도 사망 시",
+      "dlg": "Tidak ada satu pun hal yang wujudnya sama persis seperti paksaan tatapanku... Ini sangat memusingkan."
+    },
+    {
+      "id": "10SV-087",
+      "desc": "잔느 3페이즈 거대 폼 필살기 스킬 대사",
+      "dlg": "Kecemasanku."
+    },
+    {
+      "id": "10SV-087-01",
+      "desc": "잔느 3페이즈 거대 폼 필살기 스킬 대사",
+      "dlg": "Ketakutanku."
+    },
+    {
+      "id": "10SV-087-02",
+      "desc": "잔느 3페이즈 거대 폼 필살기 스킬 대사",
+      "dlg": "Rasakan itu—ketidakpahaman saat dipaku di bawah tatapan yang mengasingkan."
+    },
+    {
+      "id": "10SV-089",
+      "desc": "뫼르소가 흐트러지거나 체력 30% 미만일 때 (전투당 1회) 답 대사",
+      "dlg": "Kau tidak bisa memahamiku, Jeanne... itulah kenapa kau terus mencobanya. Dan aku pun akan melakukannya..."
+    },
+    {
+      "id": "10SV-089-01",
+      "desc": "뫼르소가 흐트러지거나 체력 30% 미만일 때 (전투당 1회) 답 대사",
+      "dlg": "Kau tidak bisa memahamiku, Jeanne... itulah kenapa kau terus mencobanya. Dan aku pun akan melakukannya..."
+    },
+    {
+      "id": "10SV-119",
+      "desc": "[1페이즈] 스테이지 시작 시의 명령 페이즈",
+      "dlg": "Zaman Keabadian telah tiba. Penderitaan menanti sang pelanggar."
+    },
+    {
+      "id": "10SV-120_A",
+      "desc": "[1페이즈] 스킬 148504 사용하는 턴 시작 시의 명령 페이즈",
+      "dlg": "Pembalasan bagi dirimu."
+    },
+    {
+      "id": "10SV-120_B",
+      "desc": "[1페이즈] 스킬 148503 공격할 때",
+      "dlg": "Kau akan merasakan ketakutan."
+    },
+    {
+      "id": "10SV-121",
+      "desc": "[1페이즈] 스킬 148504 공격할 때",
+      "dlg": "Terkutuklah kau!"
+    },
+    {
+      "id": "10SV-122",
+      "desc": "[1페이즈] 스킬 148505 사용하는 턴 시작 시의 명령 페이즈",
+      "dlg": "Hadapi dosa-dosamu. Terimalah hukumanmu."
+    },
+    {
+      "id": "10SV-123",
+      "desc": "[1페이즈] 스킬 148505 공격할 때",
+      "dlg": "Patuhlah."
+    },
+    {
+      "id": "10SV-124",
+      "desc": "[2페이즈] 페이즈 전환 이후 첫 턴 시작 시의 명령 페이즈",
+      "dlg": "Biarlah sang pelanggar mengingatnya.\nMereka yang tak bertobat...\nAkan kembali menjadi debu."
+    },
+    {
+      "id": "10SV-125_A",
+      "desc": "[2페이즈] 스킬 148603 합 시작 시 (대사 번갈아가며 사용)",
+      "dlg": "Ingatlah pelanggaranmu!"
+    },
+    {
+      "id": "10SV-125_B",
+      "desc": "[2페이즈] 스킬 148603 합 시작 시 (대사 번갈아가며 사용)",
+      "dlg": "Bertobatlah!"
+    },
+    {
+      "id": "10SV-125_C",
+      "desc": "[2페이즈] 스킬 148603 합 시작 시 (대사 번갈아가며 사용)",
+      "dlg": "Lihatlah, bukti dari penghakiman."
+    },
+    {
+      "id": "10SV-126",
+      "desc": "[2페이즈] 스킬 148607 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "Dunia telah tertutup...\nTiada istirahat bagi mereka yang menolak tanpa keyakinan dan lari dari apa yang seharusnya mereka pikul..."
+    },
+    {
+      "id": "10SV-127",
+      "desc": "[2페이즈] 스킬 148608 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "Satu hari bagaikan seribu tahun... dan seribu tahun bagaikan satu hari. Wahai pelanggar, perhitungkanlah keabadian, dan bertobatlah atas dosa-dosamu..."
+    },
+    {
+      "id": "10SV-128_A",
+      "desc": "[2페이즈] 스킬 148608 공격할 때 (강제 퇴장) (데드씬 A, B, C에 맞추어 사용)",
+      "dlg": "Jiwa-jiwa akan berkeping-keping."
+    },
+    {
+      "id": "10SV-128_B",
+      "desc": "[2페이즈] 스킬 148608 공격할 때 (강제 퇴장) (데드씬 A, B, C에 맞추어 사용)",
+      "dlg": "Gemetarlah di hadapan apa yang tak kaupahami."
+    },
+    {
+      "id": "10SV-128_C",
+      "desc": "[2페이즈] 스킬 148608 공격할 때 (강제 퇴장) (데드씬 A, B, C에 맞추어 사용)",
+      "dlg": "Mata orang-orang bodoh akan dibutakan.\nJangan saksikan apa pun selain pelanggaranmu."
+    },
+    {
+      "id": "10SV-129_A",
+      "desc": "[2페이즈] 스킬 148607 공격할 때 (심판의 날) (대사 번갈아가며 사용)",
+      "dlg": "Biarkan palu penghakiman jatuh menghantam hatimu yang penuh kelaliman dan tipu daya!"
+    },
+    {
+      "id": "10SV-129_B",
+      "desc": "[2페이즈] 스킬 148607 공격할 때 (심판의 날) (대사 번갈아가며 사용)",
+      "dlg": "Kuhakimi dirimu... Kujatuhkan hukuman... Kukutuk kau...!"
+    },
+    {
+      "id": "10SV-130",
+      "desc": "[2페이즈] 스킬 148607 사용하는 턴 시작 시의 명령 페이즈 (10SV-126 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "Tunduklah pada ketertiban!"
+    },
+    {
+      "id": "10SV-131",
+      "desc": "[2페이즈] 스킬 148608 사용하는 턴 시작 시의 명령 페이즈 (10SV-127 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "Patuhi aturan...!"
+    },
+    {
+      "id": "10SV-132",
+      "desc": "[2페이즈] 스킬 148607 스킬로 합 시작 시 대상에게 정지 버프가 있는 경우",
+      "dlg": "Apakah kau menaruh kepercayaan pada belas kasihan?"
+    },
+    {
+      "id": "10SV-133",
+      "desc": "[2페이즈] 스킬 148608 스킬로 합 시작 시 대상에게 박동 버프가 있는 경우",
+      "dlg": "Pecahan dari dewa palsu? Wahai pelanggar, jangan tinggalkan tugasmu, dan jangan pula membuang bebanmu."
+    },
+    {
+      "id": "10SV-134",
+      "desc": "[3페이즈] 페이즈 전환 이후 첫 턴 시작 시의 명령 페이즈",
+      "dlg": "Jujur saja, pertunjukan penyesalan yang megah pun tidak akan cukup untuk saat ini... Kalau kau terus ngotot seperti itu, kau hanya akan membuat segalanya makin sulit bagi dirimu sendiri."
+    },
+    {
+      "id": "10SV-135",
+      "desc": "[3페이즈] 뫼르소에게 처음으로 합에서 패배할 때",
+      "dlg": "Kau tahu kan kalau ini masuk kategori perusakan properti?"
+    },
+    {
+      "id": "10SV-136",
+      "desc": "[3페이즈] 뫼르소를 처음으로 공격할 때",
+      "dlg": "Saat kau berdiri di hadapan Tuhan, kau melakukannya seorang diri."
+    },
+    {
+      "id": "10SV-137_a",
+      "desc": "[3페이즈] 스킬 148708 사용하는 턴 시작 시의 명령 페이즈 (10SV-139 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "Kau berada di hadapan Tuhan."
+    },
+    {
+      "id": "10SV-137_b",
+      "desc": "[3페이즈] 스킬 148703 합 시작 시",
+      "dlg": "Bukankah kau berniat untuk bertobat?"
+    },
+    {
+      "id": "10SV-137_c",
+      "desc": "[3페이즈] 스킬 148707 공격할 때 (심판의 날)",
+      "dlg": "Tatap lurus-lurus apa yang telah kauperbuat."
+    },
+    {
+      "id": "10SV-138",
+      "desc": "[3페이즈] 스킬 148707 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "\"Pada akhirnya, keabadian akan menelanjangi keputusasaanmu, dan memaku dosamu ke dalam catatan abadi...\" Begitulah kira-kira maksudku."
+    },
+    {
+      "id": "10SV-139",
+      "desc": "[3페이즈] 스킬 148708 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "*haah*... Aku mulai lelah menghadapi kalian. Bertemu dengan gerombolan kalian tiap kali masuk kerja benar-benar bikin pusing."
+    },
+    {
+      "id": "10SV-140",
+      "desc": "[3페이즈] 스킬 148708 공격할 때 (강제 퇴장)",
+      "dlg": "Ya, ini seharusnya bisa menyudahinya."
+    },
+    {
+      "id": "10SV-141",
+      "desc": "[3페이즈] 스킬 148709 공격할 때 (강제 퇴장 강화)",
+      "dlg": "Kenapa terus mengejar pemahaman yang tak pernah kaukenal? Bukankah akan lebih mudah jika menyerah saja dan bertobat?"
+    },
+    {
+      "id": "10SV-142",
+      "desc": "[3페이즈] 승률, 피해량 버튼 눌러서 무작위 수감자들에게 황금빛 못 꽂힐 때 (턴당 1회) [메타적인 기믹]",
+      "dlg": "\"Penilaian independen\"... Ya, kami tidak memakai kata-kata semacam itu di sini."
+    },
+    {
+      "id": "10SV-143_a",
+      "desc": "[3페이즈] 스킬 148707 사용하는 턴 시작 시의 명령 페이즈 (10SV-138 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "Tuhan menghendakinya."
+    },
+    {
+      "id": "10SV-143_b",
+      "desc": "[3페이즈] 황금빛 못 꽂힌 스킬 연결할 경우 (턴당 1회) [메타적인 기믹] ",
+      "dlg": "\"Tuhan bekerja dengan cara yang misterius,\" ... Persis seperti ini."
+    },
+    {
+      "id": "10SV-144",
+      "desc": "[3페이즈] 20초 이상 정보창 보다가 해당 창에 못 꽂힐때 (전투 당 1회) [메타적인 기믹]",
+      "dlg": "Hei, apa kau pikir bisa meminta waktu istirahat dari pembalasan ilahi?"
+    },
+    {
+      "id": "s1003V-416",
+      "desc": "[3페이즈] 턴 시작 시 시간을 되돌려서 체력을 전부 회복하는 기능이 더 이상 동작하지 않을 때",
+      "dlg": "...?"
+    }
+  ]
+}
