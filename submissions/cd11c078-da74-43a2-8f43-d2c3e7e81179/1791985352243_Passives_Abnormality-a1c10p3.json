@@ -1,0 +1,314 @@
+{
+  "dataList": [
+    {
+      "id": 148511,
+      "name": "... Tidak Mungkin!",
+      "desc": "Awal Pertemuan: Meursault peroleh [MeursaultBuffWarderFirstPhase]\n\nAwal Giliran: Pendosa acak peroleh [GoldenHideWarderFirstPhase] dan [GoldenFabricWarderFirstPhase]",
+      "flavor": "\"Apa yang menandakan keheningan dan perubahan... hanya diperuntukkan bagi Tuhan...!!\"",
+      "summary": "Meursault peroleh [MeursaultBuffWarderFirstPhase]\nPendosa acak peroleh [GoldenHideWarderFirstPhase] dan [GoldenFabricWarderFirstPhase] tiap giliran"
+    },
+    {
+      "id": 148501,
+      "name": "Vicarius Dei",
+      "desc": "Beri efek [PanicChangeLock]\nAkhir Giliran: Jika unit ini Panik, ubah SP ke 30\n\nAwal Pertemuan:\n- Mulai dengan 50% HP\n- Peroleh 2 [UnstableConnection]\n\nPada Giliran 3, gunakan Skill kuat\n- Pada giliran tersebut, ketika diserang oleh Pendosa, peroleh 1 [ParryingResultDown] (sekali per Pendosa)\n\nKetika HP unit ini turun dibawah 1, atau at the end of the turn 3, masuki Fase baru",
+      "flavor": "Wakil Dewa Obsidian yang memberikan hukuman kepada mereka yang tersesat.",
+      "summary": "Gunakan Skill kuat di Giliran 3\nUbah fase di akhir Giliran 3"
+    },
+    {
+      "id": 148502,
+      "name": "Lilin Retribusi yang Suci",
+      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>Panggil 2 Lilin Retribusi</u></b></mark></color>\n- Panggil <color=#ff6000><mark=#ff000040><b><u>+1 Lilin Retribusi lebih</u></b></mark></color> pada Awal Giliran dengan setiap giliran yang terlewati\n- Hingga 4 Lilin Retribusi dapat muncul sekaligus di medan tempur\n\nSetiap kali Lilin Retribusi dihancurkan, Sang Penjaga peroleh 1 [Vulnerable]\n\nSaat Memakai Skill:\n- <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki 1 Speed, ubah semua Coin pada Skill unit ini menjadi [SuperCoin], peroleh Final Power +2, dan beri +100% damage</u></b></mark></color>\n- Jika tidak ada Lilin Retribusi di medan tempur, Clash Power -1",
+      "flavor": "Lilin yang menghantam orang-orang berdosa yang berani menentang nasib yang ditentukan oleh toko departemen.",
+      "summary": "Panggil Lilin Retribusi tiap giliran, peroleh [Vulnerable] ketika Lilin dihancurkan\nJika target utaman memiliki 1 Speed, perkuat Skill-nya"
+    },
+    {
+      "id": 148503,
+      "name": "Tangisan akan membasahi kain",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Unit ini tidak kehilangan SP dari efek [Sinking]</u></b></mark></color>; ketika efek [Sinking] aktif, unit ini menerima damage Gloom setara dengan Potency Sinking\n\nKetika diserang oleh Pendosa, Pendosa tersebut peroleh +1 Count [Sinking] (2 per giliran per Pendosa)",
+      "summary": "Terima damage Gloom dari [Sinking] saja daripada kehilangan SP\nKetika diserang, penyerang peroleh Count [Sinking]"
+    },
+    {
+      "id": 148504,
+      "name": "Konservasi Sempurna",
+      "desc": "Peroleh 1 Potency [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang unit ini konsumsi di Pertemuan ini\n\nAwal Giliran: Pada kurang dari 3 Potency [ChargeNoir] dan kurang dari 10 Count [ChargeNoir], peroleh +5 Count [ChargeNoir]\n\nEfek \"Akhir Giliran: Kehilangan 1 Count\" pada [ChargeNoir] tidak aktif",
+      "flavor": "Dalam Sistem Sisyphe, konservasi itu sendiri terpelihara dengan sempurna.",
+      "summary": "Peroleh Potency [ChargeNoir] when consuming Count [ChargeNoir] kumulatif\nCount [ChargeNoir] tidak hilang pada Akhir Giliran"
+    },
+    {
+      "id": 152001,
+      "name": "Chastening Bonds",
+      "desc": "Akhir Giliran: Beri <color=#ff6000><mark=#ff000040><b><u>2 [Binding]</u></b></mark></color> giliran berikutnya pada semua Pendosa\n- Efek ini tidak aktif setelah berubah Fase",
+      "flavor": "Biarlah yang berdosa terikat.",
+      "summary": "Beri [Binding] pada semua Pendosa giliran berikutnya"
+    },
+    {
+      "id": 152002,
+      "name": "Dosa Berkobar",
+      "desc": "Ketika unit ini menjadi sub-target dari Skill Pendosa, terima -50% damage dari Skill tersebut\n\nSaat dikalahkan:\n- Beri 1 Bahan E.G.O untuk semua Afinitas\n- Sinner terakhir yang menyerang unit ini memulihkan 5 SP\n  · Jika Pendosa tersebut memiliki [Binding], pulihkan 10 SP saja\n  · Jika \"Pendosa terakhir\" yang menyerang unit ini tidak dapat ditentukan, efek di atas aktif pada Pendosa yang memiliki SP terendah",
+      "summary": "Terima lebih sedikit damage saat menjadi sub-target\nSaat Mati, beri Bahan E.G.O; pulihkan SP penyerang"
+    },
+    {
+      "id": 148611,
+      "name": "... Tidak Mungkin!",
+      "desc": "Awal Giliran: Pendosa acak peroleh [GoldenHideWarderSecondPhase] dan [GoldenFabricWarderSecondPhase]",
+      "flavor": "\"Apa yang menandakan keheningan dan perubahan... hanya diperuntukkan bagi Tuhan...!!\"",
+      "summary": "Pendosa acak peroleh [GoldenHideWarderSecondPhase] dan [GoldenFabricWarderSecondPhase] tiap giliran"
+    },
+    {
+      "id": 148605,
+      "name": "Penerapan Pengakuan Dosa",
+      "desc": "Ketika Sang Penjaga memberikan [ConfessionSecondPhase] pada Pendosa dengan efek Skill-nya, berikan hal berikut:\n- Efek berikut <color=#ff6000><mark=#ff000040><b><u>secara kolektif masuk sebagai [ConfessionSecondPhase]:</u></b></mark></color>\n  · [RestrainingNailSecondPhase]\n  · [ExecutionNailSecondPhase]\n  · [CeremonialNail]\n  · [MarkingNail]\n- Ketika Sang Penjaga memberikan Nail[TabExplain] atau Hammernail pada Pendosa, <color=#ff6000><mark=#ff000040><b><u>hanya efek yang diberikan terakhir yang tersisa</u></b></mark></color>; namun, Stack antara Nail[TabExplain] dan Hammernail terus bertambah\n- <color=#ff6000><mark=#ff000040><b><u>Hammernail tidak berubah menjadi Nail[TabExplain]</u></b></mark></color>\n\nSaat Serang terhadap Pendosa, <color=#ff6000><mark=#ff000040><b><u>beri +3% damage untuk setiap [ConfessionSecondPhase] pada target</u></b></mark></color> (maks 27%, terpisah untuk tiap target)\n\nAwal Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika Sang Penjaga memiliki 50% atau kurang HP</u></b></mark></color>, semua Skill memberi <color=#ff6000><mark=#ff000040><b><u>+1 lebih [ConfessionSecondPhase]</u></b></mark></color>",
+      "summary": "Beri damage lebih berdasarkan [ConfessionSecondPhase] pada target\nPada 50%- HP, beri lebih banyak [ConfessionSecondPhase]"
+    },
+    {
+      "id": 148601,
+      "name": "Sebagaimana Ditahbiskan oleh Aturan Konservasi",
+      "desc": "Beri efek [PanicChangeLock]\nAkhir Giliran: Jika unit ini Panik, ubah SP ke 30\n\nAwal Giliran pertama setelah masuk:\n- Ubah SP ke 45\n- Peroleh 0 [EncompassingVoiceSecondPhase] dan 1 [LeaderVoiceSecondPhase]\n- Potency dan Count [ChargeNoir] diteruskan dari Fase sebelumnya",
+      "summary": "[PanicChangeLock]\nPotency dan Count [ChargeNoir] diteruskan dari Fase sebelumnya"
+    },
+    {
+      "id": 148602,
+      "name": "Dies Irae",
+      "desc": "Awal Giliran: Jika unit ini memiliki [SpreadingVoiceSecondPhase], peroleh pola baru dan <color=#ff6000><mark=#ff000040><b><u>gunakan Skill kuat, \"Penghakiman... Hukuman... Penghukuman!\"</u></b></mark></color>\n- Speed Min & Maks +20 untuk giliran tersebut\n- <color=#ff6000><mark=#ff000040><b><u>Jika Sang Penjaga kalah Clash dalam pola ini</u></b></mark></color>, peroleh pola berbeda giliran berikutnya, dan <color=#ff6000><mark=#ff000040><b><u>gunakan Skill kuat, \"Kematian Bagi Yang Terkutuk\"</u></b></mark></color>\n\nTiap kali [SpreadingVoiceSecondPhase] dan [EncompassingVoiceSecondPhase] diubah, <color=#ff6000><mark=#ff000040><b><u>pulihkan 45 SP</u></b></mark></color> dan <color=#ff6000><mark=#ff000040><b><u>peroleh 1 [LeaderVoiceSecondPhase]</u></b></mark></color>\n\nPada 50% HP atau kurang, akhiri giliran (kecuali Skill tertentu); jika Stagger, pulih dari Stagger\nPada 1 HP atau kurang, masuki Fase baru",
+      "flavor": "Mereka yang tidak menebus dosanya melalui hukuman, akan binasa pada hari kiamat.",
+      "summary": "Gunakan Skill kuat jika unit ini memiliki [SpreadingVoiceSecondPhase]\nSaat Kalah Clash di pola ini, gunakan \"Kematian Bagi Yang Terkutuk\" giliran berikutnya"
+    },
+    {
+      "id": 148603,
+      "name": "Tangisan akan membasahi kain, kain harus menutup pada tenggorokan...",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Unit ini tidak kehilangan SP dari efek [Sinking]</u></b></mark></color>; unit ini menerima damage Gloom setara dengan Potency Sinking saja\n\nKetika diserang oleh Pendosa, Pendosa tersebut peroleh +1 Count [Sinking] (2 kali per giliran per Pendosa)\n\nUnit ini tidak dapat memperoleh Potency [Breath] lebih dari 20; <color=#ff6000><mark=#ff000040><b><u>daripada itu, pulihkan SP setara dengan Potency [Breath] berlebih yang diperoleh</u></b></mark></color>",
+      "summary": "Terima damage Gloom dari [Sinking] saja daripada kehilangan SP\nKetika diserang, penyerang peroleh Count [Sinking]"
+    },
+    {
+      "id": 148604,
+      "name": "Konservasi Sempurna",
+      "desc": "Peroleh 1 Potency [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang unit ini konsumsi di Pertemuan ini\n\nAwal Giliran: Pada kurang dari 5 Potency [ChargeNoir] dan kurang dari 10 Count [ChargeNoir], peroleh +5 Count [ChargeNoir]\n\nEfek \"Akhir Giliran: Kehilangan 1 Count\" pada [ChargeNoir] tidak aktif\n\nPada 5+/10+ Potency [ChargeNoir], batas maks Count [ChargeNoir] +5/+10",
+      "flavor": "Dalam Sistem Sisyphe, konservasi itu sendiri terpelihara dengan sempurna.",
+      "summary": "Peroleh Potency [ChargeNoir] when consuming Count [ChargeNoir] kumulatif\nCount [ChargeNoir] tidak hilang pada Akhir Giliran"
+    },
+    {
+      "id": 148711,
+      "name": "Sialan. Kok bisa nemu glitch kayak gitu?",
+      "desc": "Awal Giliran: Pendosa acak peroleh [GoldenHideWarderThirdPhase] dan [GoldenFabricWarderThirdPhase]\n\n<color=#ff6000><mark=#ff000040><b><u>Ketika \"Sang Manajer\" mengambil aksi tertentu, Sang Pendeta memberi damage ke Pendosa acak berdasarkan maks HP Pendosa tersebut dan beri [GoldenNail] pada mereka</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>Saat HP di bawah 50%, Sang Pendeta memanipulasi statusnya pada sistem</u></b></mark></color> untuk <color=#ff6000><mark=#ff000040><b><u>memulihkan HP dan SP-nya menjadi maks dan menghilangkan seluruh efek negatif pada dirinya</u></b></mark></color>",
+      "flavor": "\"Tentu saja, tidak ada sistem yang bebas dari glitch, tapi bug seburuk ini? Cih. Sepertinya aku harus manggil tukang IT.\"",
+      "summary": "Pendosa acak peroleh [GoldenHideWarderThirdPhase] dan [GoldenFabricWarderThirdPhase] tiap giliran\nKetika mencapai HP di bawah 50%, pulih sepenuhnya dan hilangkan efek negatif"
+    },
+    {
+      "id": 148705,
+      "name": "Alat Maintenance Sistem Sisyphe",
+      "desc": "Ketika Sang Pendeta memberikan [ConfessionThirdPhase] pada Pendosa dengan efek Skill-nya, berikan hal berikut:\n- Efek berikut <color=#ff6000><mark=#ff000040><b><u>secara kolektif masuk sebagai [ConfessionThirdPhase]</u></b></mark></color>:\n  · [RestrainingNailThirdPhase]\n  · [ExecutionNailThirdPhase]\n  · [GoldenNail]\n- Ketika Sang Pendeta memberikan Nail[TabExplain] pada Pendosa, <color=#ff6000><mark=#ff000040><b><u>hanya efek yang diberikan terakhir yang tersisa</u></b></mark></color>; namun, Stack diantara efeknya berakumulasi\n<color=#ff6000><mark=#ff000040><b><u>- [RestrainingNailThirdPhase] dan [ExecutionNailThirdPhase] tidak berubah menjadi [GoldenNail]</u></b></mark></color>\n\nSaat Serang terhadap Pendosa, <color=#ff6000><mark=#ff000040><b><u>beri +5% damage untuk setiap [ConfessionThirdPhase]</u></b></mark></color> pada target (maks 45%, terpisah untuk tiap target)\n\nAwal Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika Sang Pendeta memiliki 50% HP atau kurang</u></b></mark></color>, semua Skill memberi <color=#ff6000><mark=#ff000040><b><u>+1 lebih [ConfessionThirdPhase]</u></b></mark></color>",
+      "flavor": "\"Menurut manual... jika ini terjadi, semuanya harus disesuaikan kembali. Itu semua sudah diatur dalam peraturan. Kamu lihat di sini di manual... ah. Benar. Kamu ga bisa lihat manualnya dari situ.\"",
+      "summary": "Beri damage lebih berdasarkan [ConfessionThirdPhase] pada target\nPada 50%- HP, beri lebih banyak [ConfessionThirdPhase]"
+    },
+    {
+      "id": 148701,
+      "name": "\"Sebagaimana Ditahbiskan oleh Aturan Konservasi\"",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Pada 10+ Jumlah Clash</u></b></mark></color>, Skill tersebut <color=#ff6000><mark=#ff000040><b><u>memperoleh Clash Power sebanyak (Jumlah Clash)</u></b></mark></color>\n\nUntuk [Combustion], [Laceration], [Vibration], [Burst], [Sinking]:\n- <color=#ff6000><mark=#ff000040><b><u>Batas Maks Potency: 50\n- Batas Maks Count: 15</u></b></mark></color>\n- Terima -50% damage dari efek di atas\n\nBeri efek [PanicChangeLock], dan <color=#ff6000><mark=#ff000040><b><u>SP unit ini tidak dapat turun di bawah 0</u></b></mark></color>\n\nAwal Giliran pertama setelah masuk ke Medan Tempur:\n- Ubah SP ke 45\n- Peroleh 0 [EncompassingVoiceThirdPhase] dan 1 [LeaderVoiceThirdPhase]\n- Potency dan Count [ChargeNoir] diteruskan dari Fase sebelumnya",
+      "summary": "Pada 10+ Jumlah Clash, peroleh Clash Power\nTerima lebih sedikit damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]"
+    },
+    {
+      "id": 148702,
+      "name": "\"Dies Irae\"",
+      "desc": "Awal Giliran: Jika unit ini memiliki [SpreadingVoiceThirdPhase], peroleh pola baru dan gunakan <color=#ff6000><mark=#ff000040><b><u>Skill kuat, \"Apa kau serius ingin menghancurkan Sistem Sisyphe?\"</u></b></mark></color>\n- Speed Min & Maks +20 untuk giliran tersebut\n- <color=#ff6000><mark=#ff000040><b><u>Jika Sang Pendeta kalah Clash</u></b></mark></color> selama di pola ini, peroleh pola berbeda giliran berikutnya, dan <color=#ff6000><mark=#ff000040><b><u>gunakan Skill kuat, \"Diblokir Seluruh Sistem\"</u></b></mark></color>\n\nTiap kali [SpreadingVoiceThirdPhase] dan [EncompassingVoiceThirdPhase] diubah, <color=#ff6000><mark=#ff000040><b><u>pulihkan 45 SP</u></b></mark></color> dan <color=#ff6000><mark=#ff000040><b><u>peroleh 1 [LeaderVoiceThirdPhase]</u></b></mark></color>",
+      "flavor": "Jika dihukum masih belum cukup untuk membuatmu merenung, maka kurasa ini waktunya untuk penghakiman. Cukup untuk membunuhmu, itu saja.",
+      "summary": "Gunakan Skill kuat jika unit ini memiliki [SpreadingVoiceThirdPhase]\nSaat Kalah Clash di pola ini, gunakan \"Diblokir Seluruh Sistem\" giliran berikutnya"
+    },
+    {
+      "id": 148703,
+      "name": "Tangisan akan membasahi kain, kain harus menutup pada tenggorokan... sekarang aku tidak ingat apa berikutnya.",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Unit ini tidak kehilangan SP dari efek [Sinking]</u></b></mark></color>; ketika efek [Sinking] aktif, unit ini menerima damage Gloom setara dengan Potency Sinking\n\nKetika diserang oleh Pendosa, Pendosa tersebut peroleh +1 Count [Sinking] (2 per giliran per Pendosa)\n\nUnit ini tidak dapat memperoleh Potency [Breath] lebih dari 20; <color=#ff6000><mark=#ff000040><b><u>daripada itu, pulihkan SP setara dengan Potency [Breath] berlebih yang diperoleh</u></b></mark></color>\n\nKetika mengaktifkan [VibrationExplosion] pada Pendosa, <color=#ff6000><mark=#ff000040><b><u>jika Pendosa yang ditarget tidak memiliki Batas Stagger</u></b></mark></color>, <color=#ff6000><mark=#ff000040><b><u>beri (Potency [Vibration] pada target / 2) damage Sloth</u></b></mark></color> (kecuali target yang Stagger; dihitung terpisah untuk tiap target)",
+      "flavor": "“Sudah saatnya kamu mulai 'berdoa', bukan?”",
+      "summary": "Ketika diserang, beri Count [Sinking] pada penyerang\nPada [VibrationExplosion], beri damage Sloth jika target tidak memiliki Batas Stagger"
+    },
+    {
+      "id": 148704,
+      "name": "Konservasi Sempurna",
+      "desc": "Peroleh 1 Potency [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang unit ini konsumsi di Pertemuan ini\n\nAwal Giliran: Pada kurang dari 10 Potency [ChargeNoir] dan kurang dari 10 Count [ChargeNoir], peroleh +5 Count [ChargeNoir]\n\nEfek \"Akhir Giliran: Kehilangan 1 Count\" pada [ChargeNoir] tidak aktif\n\nPada 5+/10+ Potency [ChargeNoir], batas maks Count [ChargeNoir] +5/+10",
+      "flavor": "Dalam Sistem Sisyphe, konservasi itu sendiri terpelihara dengan sempurna.",
+      "summary": "Peroleh Potency [ChargeNoir] when consuming Count [ChargeNoir] kumulatif\nCount [ChargeNoir] tidak hilang pada Akhir Giliran"
+    },
+    {
+      "id": 148706,
+      "name": "Okelah. Waktunya pulang kerja.",
+      "desc": "Akhir Giliran: Pada lebih dari 10 Potency [ChargeNoir], konsumsi Potency [ChargeNoir] berlebih dan peroleh (Potency [ChargeNoir] yang dikonsumsi) [Dominion]\n- Efek ini tidak aktif lagi setelah semua [Dominion] telah dikonsumsi dari efek Pasif ini\n\nKetika HP unit ini turun di bawah <color=#ff6000><mark=#ff000040><b><u>33% atau kurang untuk pertama kalinya di Pertemuan ini, peroleh pola baru</u></b></mark></color>\n- Konsumsi semua [Dominion] pada diri sendiri dan <color=#ff6000><mark=#ff000040><b><u>peroleh Perisai yang tak kadaluarsa setara dengan (25 + Stack [Dominion])% dari maks HP unit ini</u></b></mark></color>\n- Kehilangan Level Defense secara permanen setara dengan Stack [Dominion] yang dikonsumsi",
+      "flavor": "\"Terserah mau bilang apa, Sistem Sisyphe adalah sesuatu yang mutlak dibutuhkan oleh N Corp. Jika sistem ini mati... kita kembali ke barbarisme.\"\n\n\"Jadi, seperti yang tertulis di manual, kamu tidak boleh meninggalkan toko departemen ini. Tanpa pengecualian.\"",
+      "summary": "Ubah 10 Potency [ChargeNoir] berlebih menjadi [Dominion]\nPada 33% HP atau kurang, ubah pola dan peroleh Perisai"
+    },
+    {
+      "id": 152201,
+      "name": "Mauvaise Foi",
+      "desc": "Peroleh 1 Potency [ChargeKhaki] untuk setiap 10 Count [ChargeKhaki] kumulatif yang unit ini konsumsi di Pertemuan ini\n- Efek \"Akhir Giliran: Kehilangan 1 Count\" pada [ChargeKhaki] tidak aktif\n\nAkhir Giliran: Peroleh Potency [Breath] setara dengan [ChargeKhaki] Count pada diri sendiri (maks 10)\nAkhir Giliran: Peroleh Count [Breath] setara dengan Potency [ChargeKhaki] pada diri sendiri (maks 5)\n\nTerima -60% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\n- Batas Stagger dinaikkan dari [Vibration] -60%\n\nPada 10+ Clash dengan target yang sama, peroleh Clash Power sebanyak (Jumlah Clash / 10)",
+      "flavor": "Itikad buruk.\n\nMelarikan diri dari dunia—dari dunia ketakutan dan kecemasan. Pelarian dicari lagi dan lagi. \n\nSeseorang lolos ke atas panggung dengan memakukan dirinya dengan kuat pada tempatnya. Bagaikan seorang aktor di atas panggung, peran tersebut dikuasai sepenuhnya. Aktif imersif memberi jalan pada penipuan, dan penipuan menjadi penipuan diri sendiri."
+    },
+    {
+      "id": 152202,
+      "name": "Ingat ritme dari dansa waltz?",
+      "desc": "Pada 4+ Clash di Skill yang sama:\n- Mulai dari Clash ke-3, penenang dari Clash ke-3 beri +15% damage untuk setiap Clash ke-4 yang dimenangkan (3 kali maks)\n- Jika Skill yang Menang Clash memenangkan Clash pertama, Final Power +1",
+      "flavor": "Itu adalah pengalaman bersama, bukan?"
+    },
+    {
+      "id": 152203,
+      "name": "Sartre",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>Panggil 3 \"Rancangan Grand Magasin Sisyphe\" setiap 3 giliran</color></mark></b></u> dan peroleh Perisai setara dengan maks HP unit ini\n- Untuk giliran tersebut, ketika Stagger, pulih dari Stagger dan tidak dapat di Stagger lagi untuk giliran berikut\n\n<color=#ff6000><mark color=#ff000040><b><u>Setelah membunuh \"Rancangan Grand Magasin Sisyphe\" dengan Skill \"Memfokus\", peroleh [JeanneDesign]</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>Pada 3 [JeanneDesign], ubah [JeanneDesign] menjadi [JeanneManager]</color></mark></b></u>\n<color=#ff6000><mark color=#ff000040><b><u>Jika unit ini gagal untuk membunuh \"Rancangan Grand Magasin Sisyphe\" dengan Skill \"Memfokus\"</color></mark></b></u>, peroleh 1 [Vulnerable] giliran berikutnya",
+      "flavor": "Salah satu dari empat Raksasa Menara Sisyphe.\n\nDi antara mereka, dia adalah arsitek Sistem Sisyphe—penjahit, perancang, pelaksana peran, pekerjaan, atau sesuatu... yang membangun dunia menurut sudut pandangnya sendiri.\n\nDipotong sesuai ukurannya, dipaku pada tempatnya, dijahit sepotong demi sepotong—ini adalah dunia busana yang dibentuk sehingga dia dapat melihatnya tanpa merasa mual.\n\nInilah Grand Magasin Sisyphe."
+    },
+    {
+      "id": 152204,
+      "name": "Kau tahu, aku...",
+      "desc": "Start this Encounter with 45 SP\n\nWhen Meursault is defeated, the Sinners lose the Encounter\n\n<color=#ff6000><mark color=#ff000040><b><u>Pada 50%- HP</color></mark></b></u>, berhenti menerima damage dan masuki Fase baru\n- Ketika memasuki Fase baru, hilangkan seluruh efek negatif pada diri sendiri",
+      "flavor": "Aku tidak ingin kamu kembali ke luar.\n\nIkutlah denganku ke tahap berikutnya, ma puce."
+    },
+    {
+      "id": 152301,
+      "name": "Ingat pengalaman dari dansa waltz?",
+      "desc": "Tidak menerima damage untuk Fase ini\n\nAwal Giliran (sekali per Pertemuan): \n- Jeanne memperoleh 1 [JeannePartnerTwo] dan 1 [JeannePathos]\n- Meursault memperoleh 1 [JeannePartner] dan 1 [JeanneLogos]\n\nKetika diserang oleh Serangan Tanpa Perlawanan, atau ketika kalah Clash, aktifkan Skill \"Kami sempat bertengkar kecil, ya.\"\n<color=#ff6000><mark color=#ff000040><b><u>Hasilkan Skill unik di Skill Slot atas Meursault</color></mark></b></u>",
+      "flavor": "Dansa waltz di dalam ingatanmu—mari kita alami kembali."
+    },
+    {
+      "id": 152302,
+      "name": "La Nausée",
+      "desc": "Ketika Meursault dikalahkan, para Pendosa kalah Pertemuan\n\nAkhir Skill saat ini: <color=#ff6000><mark color=#ff000040><b><u>Pada 100 [JeannePathos]</color></mark></b></u>, masuki Fase baru\n- Ketika memasuki Fase baru, hilangkan seluruh efek negatif pada diri sendiri",
+      "flavor": "Merasa pusing? Namun klimaksnya baru akan datang."
+    },
+    {
+      "id": 152401,
+      "name": "L'enfer, c'est les autres",
+      "desc": "Ketika HP Jeanne turun di bawah 10%...",
+      "flavor": "Kita hidup di neraka dimana kita selamanya terpaku di bawah tatapan orang lain. Jadi... ceritakan semua yang kamu rasakan, Meur. kamu selalu bisa memutuskan apa yang akan kamu lakukan setelahnya, tidakkah begitu?"
+    },
+    {
+      "id": 152402,
+      "name": "Tatapan: Grand Magasin Sisyphe",
+      "desc": "SP unit ini ditetapkan pada 45 \n\nAwal Giliran: Panggil \"Rancangan Sistem Sisyphe - Le Rouge\" dan \"Rancangan Sistem Sisyphe - Le Noir\" hingga ada 2 dari mereka masing-masing di medan tempur\n\nGiliran ke-2 setelah berubah Fase: Ubah 1 unit Rancangan menjadi bentuk \"Jeanne Sartre, Sang Penjahit Busana\"\n- Prioritaskan unit Rancangan yang tidak memiliki [Vulnerable]\n- Mengecualikan unit Rancangan yang memasuki status \"Jeanne Sartre, Sang Penjahit Busana\" pada giliran sebelumnya\n- Jika Stagger, pulih dari Stagger\n\nKetika memasuki status \"Jeanne Sartre, Sang Penjahit Busana\", gunakan Skill \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\"\n- Jika Skill Meursault menang Clash terhadap \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\", Unit Rancangan tersebut peroleh 5 [Vulnerable] tiap giliran mulai dari giliran berikutnya\n\nTiap kali status \"Jeanne Sartre, Sang Penjahit Busana\" dibatalkan, 1 unit Rancangan menggunakan Skill Jeanne \"Hak: Larangan\" giliran berikutnya\n- Jumlah dari unit Rancangan yang menggunakan Skill Jeanne bertambah kumulatif sebanyak 1\n\nKetika unit Rancangan dikalahkan,\n- Jeanne kehilangan 5% HP\n- Unit Rancangan lain peroleh 1 [JeanneBlueprint]\n- 1 unit Rancangan menggunakan Skill Jeanne \"Hak: Menatap\" daripada \"Hak: Larangan\" giliran berikutnya",
+      "flavor": "Bagi Jeanne, toko departemen adalah dunia yang paling nyaman baginya.\n\nDia diberi kursi kantor Raksasa Le Kaki, peran yang seharusnya tetap netral. Tapi seperti yang bisa kamu lihat sendiri... Dia ingin mekar dalam semua warna cemerlang itu lebih dari siapa pun. Dia ingin membara dengan semangat, Meur, untuk berdiri di panggung itu dan menari bersamamu.\n\nSangat disayangkan dia tidak bisa membiarkan dirinya melakukannya. Ada terlalu banyak tatapan dalam pikiran, terlalu banyak harapan untuk memuaskan... sampai mereka melilit dirinya seperti rantai. Dia tidak bisa berkembang sesuai keinginannya. Bahkan keinginan yang mulai muncul pun harus disembunyikan.\n\nAku tidak bisa menghilangkan rasa mual Jeanne, tapi aku bisa memberinya kesempatan untuk menjadi dirinya sendiri, untuk berkembang menjadi dirinya sendiri tanpa mengkhawatirkan tatapan siapa pun di dunia yang dia hadapi ini. Mungkin, jika dia tenggelam dalam gairah itu, dia akan bisa melupakan rasa mualnya untuk sementara waktu.\n\nDan... menurutku Jeanne tidak begitu. satu-satunya yang membutuhkan hal itu. Semua orang di Kota menginginkannya. Mereka mungkin menolak, tapi aku yakin semua orang berhak mendapatkan kesempatan yang sama."
+    },
+    {
+      "id": 152501,
+      "name": "Rancangan Pakaian Ansambel",
+      "desc": "Selama Pertemuan, <color=#ff6000><mark color=#ff000040><b><u>sebelum menerima serangan untuk pertama kalinya</color></mark></b></u>, <color=#ff6000><mark color=#ff000040><b><u>gunakan \"Rancangan Toko Departemen\"</color></mark></b></u> tidak peduli pada Skill unit ini yang di Rantaikan (sekali per giliran)\n\nTerima -50% damage dari Skill Dasar\n\n<color=#ff6000><mark color=#ff000040><b><u>Terima +100% damage dari Skill E.G.O</color></mark></b></u>\n\nUnit ini kalah ketika diserang oleh Skill \"Memfokus\" milik \"Jeanne Sartre, Sang Penjahit Busana\"",
+      "flavor": "Ini adalah rancangan toko departemen ini"
+    },
+    {
+      "id": 152502,
+      "name": "Rancangan Diri Sendiri",
+      "desc": "Ketika dibunuh oleh Skill Pendosa, beri 1 Bahan E.G.O masing-masing 5 dari Afinitas E.G.O paling sedikit yang dimiliki (jika 2 Afinitas atau lebih yang paling sedikit memiliki jumlah yang sama, akan di distribusikan secara acak)",
+      "flavor": "Desain yang tidak dirancang."
+    },
+    {
+      "id": 152601,
+      "name": "Pola: Grand Magasin Sisyphe",
+      "desc": "Ketika Clash dengan target yang sama, Clash Power +1 untuk setiap 10 Jumlah Clash\n\nDimulai dari giliran setelah unit ini memasuki medan tempur, 1 unit Rancangan memasuki <color=#ff6000><mark color=#ff000040><b><u>status \"Jeanne Sartre, Sang Penjahit Busana\"</u></b></mark></color>\n- Prioritaskan unit Rancangan yang tidak memiliki [Vulnerable]\n- Mengecualikan unit Rancangan yang memasuki status \"Jeanne Sartre, Sang Penjahit Busana\" pada giliran sebelumnya\n- Jika Stagger, pulih dari Stagger\n\nKetika memasuki status \"Jeanne Sartre, Sang Penjahit Busana\", gunakan <color=#ff6000><mark color=#ff000040><b><u>Skill \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\"</u></b></mark></color>\n- <color=#ff6000><mark color=#ff000040><b><u>Jika Skill Meursault menang Clash</u></b></mark></color> melawan \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\", unit Rancangan tersebut <color=#ff6000><mark color=#ff000040><b><u>gains 5 [Vulnerable] tiap giliran</u></b></mark></color> mulai dari giliran berikutnya\n\nKetika unit Rancangan dikalahkan,\n- <color=#ff6000><mark color=#ff000040><b><u>Jeanne kehilangan 5% HP</u></b></mark></color>\n- Unit Rancangan lain peroleh 1 [JeanneBlueprint]"
+    },
+    {
+      "id": 152602,
+      "name": "Aksi dan Reaksi Metabolik",
+      "desc": "Peroleh 1 Potency [ChargeRouge] untuk setiap 10 Count [ChargeRouge] kumulatif yang unit ini konsumsi di Pertemuan ini\n\nEfek Skill unit ini tidak dapat membawa HP unit ini di bawah 1",
+      "flavor": "Konsumsi, isi ulang, habiskan, lalu konsumsi lagi.\nPengulangan sederhana lahir dari kerinduan."
+    },
+    {
+      "id": 152701,
+      "name": "Konservasi",
+      "desc": "Peroleh 1 Potency [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang unit ini konsumsi di Pertemuan ini",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 151701,
+      "name": "La Jouissance Autre",
+      "desc": "Akhir Giliran: Tidak kehilangan Count [ChargeRouge]\nPeroleh +1 Count [ChargeRouge] setiap kali efek [Laceration] di aktifkan di sebuah Pertemuan\nAwal Giliran: Pulihkan 2 SP untuk setiap Count [ChargeRouge] pada diri sendiri",
+      "flavor": "Denyut-denyutnya terasa di seluruh tubuh, namun di luar jangkauan kata-kata—keseluruhan dari setiap denyut yang lahir dari kodrat seseorang.",
+      "summary": "Peroleh Count Pulsasi"
+    },
+    {
+      "id": 151702,
+      "name": "L'Extimité",
+      "desc": "Mulai Pertemuan dengan 50% HP yang hilang\nAwal Pertemuan: Beri [BuffetScruple] pada seluruh musuh (termasuk Unit Cadangan)\n\nSaat Memakai Skill, <color=#ff6000><mark=#ff000040><b><u>jika target memiliki [BuffetScruple]</u></b></mark></color>, kehilangan 10 SP",
+      "flavor": "... Kamu ada di ujung tubuhku, namun entah bagaimana, kamu juga mengakar di bagian terdalam diriku.",
+      "summary": "Kehilangan SP"
+    },
+    {
+      "id": 151703,
+      "name": "Le Moi",
+      "desc": "Ketika Pendosa yang memiliki [BuffetScruple] menang Clash terhadap Skill tertentu, <color=#ff6000><mark=#ff000040><b><u>Sang Dewa Lembayung memperoleh 1 [BuffetDream]</u></b></mark></color>\nKetika Sang Dewa Lembayung mencapai 5 Stack [BuffetDream], ia peroleh pola baru; menang Clash terhadap Skill pada pola baru tersebut akan memenangkan Pertemuan\n\n<color=#ff6000><mark=#ff000040><b><u>Naikkan batas Potency dan Count</u></b></mark></color> untuk [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] menjadi <color=#ff6000><mark=#ff000040><b><u>50 dan 15</u></b></mark></color>, masing-masing\n\nTerima -50% HP dan damage SP dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\n- Panik Tetap\n- Akhir Giliran: Jika unit ini Panik, SP menjadi 0",
+      "flavor": "Aku melihat bayanganku di air. Tubuhku, sudah... selesai..."
+    },
+    {
+      "id": 151704,
+      "name": "Pouvoirs de la vie",
+      "desc": "Jika kawan menjadi Stagger karena damage, gunakan Skill \"Le Manque-à-être\" pada kawan tersebut (sekali per giliran)\n\nJika kawan dikalahkan, panggil Robekan Daging Sang Dewa Lembayung yang memiliki 3 [BuffetRevival] pada Awal Giliran berikutnya",
+      "flavor": "Kekerasan yang menyebabkan segala sesuatu menjadi ada. Dewa para Rouge memiliki otoritas kelahiran.\n\nKemana perginya kesadaran ketika kita mati? Dan sebelum kita dilahirkan, dari mana ia muncul?\n\nUntuk mengirimnya kembali ke tempat itu, atau untuk merobeknya dari sana... keduanya merupakan hasil dari kekuatan kekerasan yang sama."
+    },
+    {
+      "id": 151705,
+      "name": "La Jouissance phallique",
+      "desc": "Awal Giliran: Jika unit ini tidak memiliki [BuffetRouge] dan pada 15+ Count [ChargeRouge], konsumsi semua Count [ChargeRouge] dan peroleh 3 [BuffetRouge]; lalu, pulihkan 2 SP untuk setiap Count [ChargeRouge] yang dikonsumsi\n\nJika unit ini tidak memiliki [BuffetRouge] dan pada 10+ Count [ChargeRouge], konsumsi 10 Count [ChargeRouge] saat Menggunakan Skill untuk peroleh Coin Power +2",
+      "flavor": "Ada syarat-syarat untuk merasakan kenikmatan hidup, dan sebagaimana semua hal bersifat kondisional, kenikmatan duniawi ini ditakdirkan untuk gagal.\n\nBatas dan tujuan yang ditetapkan telah dianggap demikian.",
+      "summary": "Konsumsi Count Pulsasi untuk peroleh Coin Power"
+    },
+    {
+      "id": 151706,
+      "name": "La Moisson",
+      "desc": "Akhir Serangan: Jika target utama memiliki <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>, gunakan Skill kuat terhadap target utama yang diserang unit ini",
+      "flavor": "Pelengkap yang menonjol disodorkan ke tubuh lain, memanggilku dari luar.\n\nApakah dorongan untuk kembali ke tempat kelahiranku ini merupakan dorongan untuk mati, atau dorongan untuk hidup?"
+    },
+    {
+      "id": 151707,
+      "name": "Le Besoin",
+      "desc": "Peroleh 1 Potency Pulsasi untuk setiap 10 Count [ChargeRouge] kumulatif yang unit ini konsumsi di Pertemuan ini\n\nPeroleh semua dari efek berikut berdasarkan Potency [ChargeRouge] pada diri sendiri:\n- 1+: Beri +(Potency [ChargeRouge] x 20)% damage jika Speed unit ini lebih cepat daripada target\n- 2+: Final Power Skill +1\n- 3+: Skill beri +1 lebih Potency [Laceration]\n- 4+: Skill Coin Power +1\n- 5+: Tidak kehilangan Stack [BuffetRouge] pada diri sendiri",
+      "flavor": "Keinginan yang ditakdirkan dan tak terelakkan dari mereka yang hidup, mereka yang dilahirkan.\nKebutuhan bagaikan kutukan, tak terhindarkan yang diikat oleh takdir.",
+      "summary": "Perkuat Skill berdasarkan Potency Pulsasi"
+    },
+    {
+      "id": 151708,
+      "name": "Waktunya Menjawab",
+      "desc": "Jika ada kondisi berikut yang terpenuhi, ubah polanya\n- HP saat ini turun di bawah 25% dari maks HP\n- [BuffetDream] ada pada 3 Stack",
+      "flavor": "Terus ajari aku banyak hal... Aku ingin pergi bersamamu..."
+    },
+    {
+      "id": 152101,
+      "name": "Kekosongan Menimbulkan Kekenyangan",
+      "desc": "Peroleh 1 Potency [ChargeRouge] untuk setiap 10 Count [ChargeRouge] kumulatif yang unit ini konsumsi di Pertemuan ini\n\nSaat Memakai Skill, pada 2+/4+ Potency [ChargeRouge], Coin Power +1/+2\n\nPeroleh 1 Offense Level (maks 5) dan beri +20% damage (maks 100%) untuk setiap 10% HP yang hilang",
+      "summary": "Peroleh Coin Power"
+    },
+    {
+      "id": 152102,
+      "name": "Sabit Mencari Yang Lambat",
+      "desc": "Prioritaskan target dengan Speed lebih lambat daripada sendiri\n\nSaat Memakai Skill, jika Speed unit ini lebih cepat daripada target peroleh Level Offense setara dengan perbedaan Speed\n\nAwal Giliran: Pada 2+ Potency [ChargeRouge], gunakan Skill kuat",
+      "flavor": "Predator yang bergerak mengejar mangsa yang lambat, berusaha menancapkan taringnya ke leher. Kematian mereka ditentukan oleh perbedaan kecepatan."
+    },
+    {
+      "id": 152103,
+      "name": "Pulsasi Terus Menerus Disamping Yang Disayangi",
+      "desc": "Ketika Sang Dewa Lembayung 【Dewasa】 sedang di medan tempur, unit ini tidak kehilangan Count [ChargeRouge] pada Akhir Giliran\n\nKetika Stagger karena diserang: Ketika unit ini pulih dari Stagger karena Skill Sang Dewa Lembayung 【Dewasa】, gunakan \"Dengan sabit milikku, aku menjawab panggilanmu!\" sebagai Serangan Tanpa Lawan terhadap penyerang",
+      "flavor": "Bertentangan dengan keinginan mereka, baik pernafasan maupun detak jantung mereka tidak akan berhenti."
+    },
+    {
+      "id": 152104,
+      "name": "Jejak Kehidupan",
+      "desc": "Saat mati, beri 2 Bahan E.G.O pada Afinitas acak diantara Afinitas paling sedikit",
+      "flavor": "Jejak yang ditinggalkan oleh mereka yang masih hidup, mereka yang telah hidup."
+    },
+    {
+      "id": 152105,
+      "name": "Berkah Bagi Daging",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki [BuffetRouge]</u></b></mark></color>, beri efek berikut:\n- Terima -50% damage dari Skill\n- Awal Giliran: Pulihkan SP ke maks dan peroleh 1 [ChargeRouge]; peroleh +5 Count [ChargeRouge]",
+      "flavor": "Untuk menerima keilahian itu secara utuh dengan tubuhnya."
+    },
+    {
+      "id": 151801,
+      "name": "Tubuh Dipaksa Hidup Kembali",
+      "desc": "Ketika [BuffetRevival] kadaluarsa, kembali ke bentuk Staf Senior Le Rouge; pulihkan 5 SP untuk setiap 10 HP yang tersisa selama unit ini di dalam bentuk Robekan Daging Sang Dewa Lembayung; peroleh +2 Count [ChargeRouge]\n- Jika unit ini memperoleh 10+ Count [ChargeRouge], konsumsi semua Count [ChargeRouge]; lalu, peroleh 1 [BuffetRouge] giliran berikutnya untuk setiap 5 Stack yang dikonsumsi"
+    },
+    {
+      "id": 151802,
+      "name": "Daging Tertempel di Tanah",
+      "desc": "Pendosa tidak dapat target unit ini"
+    },
+    {
+      "id": 151709,
+      "name": "Tangan yang tidak bisa mereka tolak atau pegang",
+      "desc": "Awal Giliran: Peroleh 2 [Protection] untuk setiap Staf Senior Le Rouge di medan tempur\n- Kehilangan 2 [Protection] tiap kali Staf Senior Le Rouge dikalahkan\n\n<color=#ff6000><mark=#ff000040><b><u>Jika semua Staf Senior Le Rouge dikalahkan</u></b></mark></color>, beri efek berikut:\n- Peroleh 2 [Vulnerable]\n- Pada Penggunaan Skill, jika target memiliki [BuffetScruple], Coin Power -1",
+      "flavor": "Akankah kamu... mau memegang tanganku?",
+      "summary": "Kehilangan Coin Power"
+    }
+  ]
+}
