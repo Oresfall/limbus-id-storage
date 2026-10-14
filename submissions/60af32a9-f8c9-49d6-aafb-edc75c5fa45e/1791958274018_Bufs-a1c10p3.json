@@ -1,0 +1,437 @@
+{
+  "dataList": [
+    {
+      "id": "GoldenHideWarderFirstPhase",
+      "name": "Denyut Nadi",
+      "desc": "- Awal Giliran: Pendosa acak mendapat efek ini\n- Clash Power +1, terima -25% damage\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Peroleh Clash Power, terima damage lebih sedikit",
+      "flavor": "Domain kehidupan. Kehendak atas perubahan dan kelahiran."
+    },
+    {
+      "id": "GoldenFabricWarderFirstPhase",
+      "name": "Keheningan",
+      "desc": "- Awal Giliran: Pendosa acak mendapat efek ini\n- Final Power +1, beri +15% damage\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Peroleh Final Power, beri lebih banyak damage",
+      "flavor": "Domain kematian. Dorongan demi pelestarian dan keheningan."
+    },
+    {
+      "id": "MeursaultBuffWarderFirstPhase",
+      "name": "The Stranger",
+      "desc": "HP Meursault tidak dapat turun di bawah 1 selama ada 1 atau lebih kawan yang hidup di Pertemuan ini\n- Ketika Clash dengan Sang Penjaga:\n · Clash Power +1\n · Beri +(Persentase HP yang hilang pada diri sendiri / 2)% damage (maks 20%)\n · Saat Menang Clash, peroleh 1 Bahan E.G.O untuk masing-masing dari 2 Afinitas yang paling sedikit\n- Ketika menerima damage yang dapat Stagger unit ini, tidak akan terkena Stagger dan hilangkan Batas Stagger yang dimaksud; dan peroleh 1 Attack Power Up giliran berikutnya (tidak ada batas aktivasi)\n- Tidak dapat Mundur",
+      "summary": "Peroleh Clash Power dan beri damage lebih saat Clash dengan Sang Penjaga\nTidak dapat Stagger, tidak dapat kalah ketika ada kawan lain yang hidup",
+      "flavor": "Apakah aku seorang asing, elemen asing baik di toko serba ada maupun di Kota?"
+    },
+    {
+      "id": "UnstableConnection",
+      "name": "Teofani Berbahaya",
+      "desc": "- Stack Maks: 2\n- Awal Giliran: Peroleh (Stack x 4) Clash Power Down dan Fragile\n- Akhir Giliran: Pulihkan ((45 - SP saat ini) / 2) SP (dibulatkan ke bawah); lalu, kehilangan 1 Stack",
+      "summary": "Peroleh Clash Power Down dan Fragile pada Awal Giliran\nPulihkan SP pada Akhir Giliran",
+      "flavor": "\"*mendesah* Saat yang buruk untuk masalah koneksi...\""
+    },
+    {
+      "id": "Dominion",
+      "name": "System Preservasi Sisyphe",
+      "desc": "- Stack Maks: 25\n- Beri +(Stack)% damage (maks 25%)\n- Terima -(Stack)% damage (maks 25%)",
+      "summary": "Beri lebih dan terima sedikit damage",
+      "flavor": "\"Apa karena kalian dari Distrik lain atau semacamnya? Kenapa kalian masih belum paham juga? Kalau Menara Sisyphe runtuh, Malleus Maleficarum itu atau apa pun sebutan mereka bakal—*mendesah*\"\n\n\"Merekalah orang asing dan pendatang yang itu-itu lagi, kurasa. Kalian sama sekali tak peduli pada apa yang terjadi dengan N Corp. atau akan jadi apa dunia ini. Ugh... sudahlah. Sekarang mari kita lihat sejauh mana kalian bersedia bertindak.\""
+    },
+    {
+      "id": "BlackStigmata",
+      "name": "Penyesalan",
+      "desc": "- Unit SP: Tipe Panik berubah menjadi \"Penyesalan\"\n- Unit Non-SP: Terima +10% damage dari target dengan Speed lebih cepat dari diri sendiri\n- Akhir Giliran: Kehilangan 1 Stack\n- Efek ini tidak kumulatif; memberikannya akan mengganti jumlah nilai saat ini\n- Berikan kondisional \"Unit tanpa SP\" ke msuuh tertentu yang memiliki SP tapi tidak bisa mengubah Tipe Panik mereka\n\n※ Efek Panik Penyesalan:\n- Moral Rendah: Speed Min & Max -1; terima +10% damage dari target dengan Speed lebih cepat daripada unit ini\n- Panik: Speed Min & Max -2; terima +15% damage dari target dengan Speed lebih cepat daripada unit ini",
+      "summary": "Kehilangan Speed Min & Max\nTerima lebih banyak damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "flavor": "\"Kau merasakan dosa-dosamu merayap di punggungmu.\""
+    },
+    {
+      "id": "BlackStigmata_Main",
+      "name": "Penyesalan",
+      "desc": "- Unit SP: Ubah Tipe Panik mereka menjadi \"Penyesalan\"\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "Ubah Tipe Panik menjadi \"Penyesalan\"",
+      "flavor": "\"Kau merasakan dosa-dosamu merayap di punggungmu.\""
+    },
+    {
+      "id": "BlackStigmata_Sub",
+      "name": "Penyesalan",
+      "desc": "- Unit Non-SP: Terima +10% damage dari target dengan Speed lebih cepat dari diri sendiri\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "Take more damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "flavor": "\"Kau merasakan dosa-dosamu merayap di punggungmu.\""
+    },
+    {
+      "id": "BlackStigmata_LowMorale",
+      "name": "Penyesalan",
+      "desc": "- Moral Rendah\n- Speed Min & Max -1; terima +10% damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "summary": "Kehilangan Speed Min & Max\nTerima lebih banyak damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "flavor": "\"Kau merasakan dosa-dosamu merayap di punggungmu.\""
+    },
+    {
+      "id": "BlackStigmata_Panic",
+      "name": "Penyesalan",
+      "desc": "- Panik\n- Speed Min & Max -2; terima +15% damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "summary": "Kehilangan Speed Min & Max\nTerima lebih banyak damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "flavor": "\"Kau merasakan dosa-dosamu merayap di punggungmu.\""
+    },
+    {
+      "id": "GoldenHideWarderSecondPhase",
+      "name": "Denyut Nadi",
+      "desc": "- Awal Giliran: Pendosa acak mendapat efek ini\n- Saat Menang Clash, jika Pendosa yang memiliki efek ini <color=#ff6000><mark=#ff000040><b><u>Menang Clash</u></b></mark></color> terhadap Skill Sang Penjaga <color=#ff6000><mark=#ff000040><b><u>\"Kematian Bagi Yang Terkutuk\"</u></b></mark></color>, peroleh <color=#ff6000><mark=#ff000040><b><u>Perisai setara dengan 250% HP</u></b></mark></color> (Perisai yang diperoleh dari efek ini akan dihilangkan dari total Perisai Pendosa pada Akhir Serangan dari Skill \"Kematian Bagi Yang Terkutuk\" Sang Penjaga)\n- Clash Power +2, terima -25% damage\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Peroleh Clash Power dan terima lebih sedikit damage\nSaat Menang Clash terhadap \"Kematian Bagi Yang Terkutuk\", peroleh Perisai",
+      "flavor": "Domain kehidupan. Kehendak atas perubahan dan kelahiran."
+    },
+    {
+      "id": "GoldenFabricWarderSecondPhase",
+      "name": "Keheningan",
+      "desc": "- Awal Giliran: Pendosa acak mendapat efek ini\n- Final Power +2, beri +25% damage\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Peroleh Final Power, beri lebih banyak damage",
+      "flavor": "Domain kematian. Dorongan demi pelestarian dan keheningan."
+    },
+    {
+      "id": "MeursaultBuffWarderSecondPhase",
+      "name": "The Stranger",
+      "desc": "- HP Meursault tidak dapat turun di bawah 1 selama ada 1 atau lebih kawan yang hidup di Pertemuan ini\n- Speed Min & Max +1\n- Ketika Clash dengan Sang Penjaga:\n · Clash Power +2\n · Beri +(Persentase HP yang hilang pada diri sendiri / 2)% damage (maks 40%)\n · Saat Menang Clash, peroleh 1 Bahan E.G.O untuk masing-masing dari 3 Afinitas paling sedikit\n- Ketika menerima damage yang dapat Stagger unit ini, tidak akan terkena Stagger dan hilangkan Batas Stagger yang dimaksud; and peroleh 2 Attack Power Up giliran berikutnya (tidak ada batas aktivasi)\n- Tidak dapat Mundur",
+      "summary": "Peroleh Clash Power dan beri damage lebih saat Clash dengan Sang Penjaga\nTidak dapat Stagger, tidak dapat kalah ketika ada kawan lain yang hidup",
+      "flavor": "Apakah aku seorang asing, elemen asing baik di toko serba ada maupun di Kota?"
+    },
+    {
+      "id": "EncompassingVoiceSecondPhase",
+      "name": "Suara Dewa Obsidian",
+      "desc": "- Stack Maks: 100\n- Awal Giliran: Peroleh 1 Offense Level Up untuk setiap 20 Stack (maks 4)\n- Peroleh Stack setara dengan Count Preservasi yang unit ini konsumsi atau peroleh akibat dari efek Skill-nya (maks 40 per giliran; Stack efek ini tetap diperoleh tak peduli dengan Count maks Preservasi\n- Akhir Giliran: Peroleh 10 Stack\n- Pada 100 Stack, ubah efek ini menjadi \"Keilahian Dewa Obsidian\" giliran berikutnya",
+      "summary": "Peroleh Offense Level berdasarkan Stack\nPada Stack maks, ubah jadi \"Keilahian Dewa Obsidian\"",
+      "flavor": "Sebuah suara yang mengkhotbahkan Peraturan Konservasi.\nTidak boleh ada kembalinya kebiadaban."
+    },
+    {
+      "id": "EncompassingVoiceThirdPhase",
+      "name": "Suara Dewa Obsidian",
+      "desc": "- Stack Maks: 100\n- Awal Giliran: Peroleh 1 Offense Level Up untuk setiap 20 Stack (maks 4)\n- Peroleh Stack setara dengan Count Preservasi yang unit ini konsumsi atau peroleh akibat dari efek Skill-nya (maks 40 per giliran; Stack efek ini tetap diperoleh tak peduli dengan Count maks Preservasi\n- Akhir Giliran: Peroleh 10 Stack\n- Pada 100 Stack, ubah efek ini menjadi \"Keilahian Dewa Obsidian\" giliran berikutnya",
+      "summary": "Peroleh Offense Level berdasarkan Stack\nPada Stack maks, ubah jadi \"Keilahian Dewa Obsidian\"",
+      "flavor": "Sebuah suara yang mengkhotbahkan Peraturan Konservasi.\nTidak boleh ada kembalinya kebiadaban."
+    },
+    {
+      "id": "SpreadingVoiceSecondPhase",
+      "name": "Keilahian Dewa Obsidian",
+      "desc": "- Stack Maks: 100\n- Awal Giliran: Peroleh 1 Offense Level Up dan 1 Defense Level Up untuk setiap 20 Stack (maks 4 masing-masing)\n- Ubah semua Coin Skill menjadi Unbreakable Coin\n- Pada 0 Stack, ubah efek ini menjadi \"Suara Dewa Obsidian\" giliran berikutnya",
+      "summary": "Ubah semua Coin Skill menjadi Unbreakable Coin\nPeroleh Offense Level dan Defense Level berdasarkan Stack",
+      "flavor": "Dewa Obsidian—Dia yang wilayah kekuasaannya adalah penciptaan dan waktu itu sendiri di dalam Sistem Sisyphe."
+    },
+    {
+      "id": "SpreadingVoiceThirdPhase",
+      "name": "Keilahian Dewa Obsidian",
+      "desc": "- Stack Maks: 100\n- Awal Giliran: Peroleh 1 Offense Level Up dan 1 Defense Level Up untuk setiap 20 Stack (maks 4 masing-masing)\n- Ubah semua Coin Skill menjadi Unbreakable Coin (kecuali Coin Eksisi)\n- Pada 0 Stack, ubah efek ini menjadi \"Suara Dewa Obsidian\" giliran berikutnya",
+      "summary": "Ubah semua Coin Skill menjadi Unbreakable Coin (kecuali Coin Eksisi)\nPeroleh Offense Level dan Defense Level berdasarkan Stack",
+      "flavor": "Dewa Obsidian—Dia yang wilayah kekuasaannya adalah penciptaan dan waktu itu sendiri di dalam Sistem Sisyphe."
+    },
+    {
+      "id": "LeaderVoiceSecondPhase",
+      "name": "Penjaga Penalti Sisyphe",
+      "desc": "- Stack Maks: 5\n- Offense Level +1 dan Defense Level +2 untuk setiap Stack\n- Pada 3+ Stack, beri +1 lebih \"Paku [Hukuman]\" dan \"Paku [Penitensi]\" menggunakan Skill",
+      "summary": "Peroleh Offense Level dan Defense Level berdasarkan Stack\nPada 3+ Stack, beri lebih banyak \"Paku [Hukuman]\" dan \"Paku [Penitensi]\"",
+      "flavor": "Sang Penjaga muncul di hadapan mereka yang menolak untuk bertindak sebagaimana mestinya. Karena begitulah cara kerja sistem ini."
+    },
+    {
+      "id": "ConfessionSecondPhase",
+      "name": "Bukti Pengakuan",
+      "desc": "- Efek berikut secara kolektif disebut sebagai \"Bukti Pengakuan\":\n · Hammernail [Penghukuman]\n · Hammernail [Pengadilan]\n · Paku [Hukuman]\n · Paku [Penitensi]",
+      "summary": "Secara kolektif disebut \"Paku\" dan \"Hammernails\" yang diberikan Sang Penjaga",
+      "flavor": "Tancapkan paku sebanyak yang dituntut oleh dosa-dosamu, dan buktikan penyesalanmu."
+    },
+    {
+      "id": "LeaderVoiceThirdPhase",
+      "name": "Pendeta Penalti Sisyphe",
+      "desc": "- Stack Maks: 5\n- Offense Level +2 dan Defense Level +3 untuk setiap Stack\n- Pada 3+ Stack, beri +1 lebih \"Paku [Konsolasi]\" menggunakan Skill",
+      "summary": "Peroleh Offense Level dan Defense Level berdasarkan Stack\nPada 3+ Stack, beri lebih banyak \"Paku [Konsolasi]\"",
+      "flavor": "Sang Pendeta muncul di hadapan mereka yang menolak untuk bertindak sebagaimana mestinya. Karena begitulah cara kerja sistem ini."
+    },
+    {
+      "id": "ConfessionThirdPhase",
+      "name": "〜",
+      "desc": "- Efek berikut secara kolektif disebut sebagai \"〜\":\n· Paku [Pengecualian]\n· Paku [Titik Patah]\n· Paku [Konsolasi]",
+      "summary": "Secara kolektif disebut \"Paku\" yang diberikan Sang Pendeta",
+      "flavor": "\"Kini aku yakin. Kalian semua adalah elemen asing yang tidak boleh diizinkan masuk ke sistem ini. Kurasa sudah waktunya aku benar-benar memeriksa buku petunjuknya. Tidak ada hal yang tidak diperhitungkan oleh hukum dan aturan.\""
+    },
+    {
+      "id": "ExecutionNailSecondPhase",
+      "name": "Hammernail [Pengadilan]",
+      "desc": "- Stack Maks: 9\n- Jika efek ini diaktifkan oleh \"Penghakiman... Hukuman... Penghukuman!\", <color=#ff6000><mark=#ff000040><b><u>terima damage tetap setara dengan (Stack x 5%) dari maks HP</u></b></mark></color> (min 10)\n · Awal Pertempuran: Jika unit ini menggunakan Skill Defense, setengahkan damage yang diterima dan unit ini tidak dapat mati atau Stagger oleh efek ini",
+      "summary": "Ketika aktif, terima damage tetap\nKetika Skill Defense digunakan, setengahkan damage yang diterima dan unit ini tidak dapat dibunuh",
+      "flavor": "Karena ini adalah paku, namun bukan paku. 'Ini adalah palu yang menjatuhkan penghakiman."
+    },
+    {
+      "id": "RestrainingNailSecondPhase",
+      "name": "Hammernail [Penghukuman]",
+      "desc": "- Stack Maks: 9\n- Awal Giliran: Jika unit ini memiliki efek ini, menjadi <color=#ff6000><mark=#ff000040><b><u>Stagger</u></b></mark></color>\n · Akhir Giliran: Efek ini kadaluarsa jika diaktifkan giliran ini\n · Jika unit ini memiliki \"Denyut Nadi\", tidak akan Stagger oleh efek ini, dan efek ini kadaluarsa saat Akhir Giliran",
+      "summary": "Awal Giliran: Menjadi Stagger\nJika unit ini memiliki \"Denyut Nadi\", tidak akan Stagger",
+      "flavor": "Setiap paku yang gagal kau cabut akan menjadi saksi atas dosa-dosamu; dan ketika Hari Penghakiman tiba, setiap paku yang tersisa di dalam dirimu akan tertancap lebih dalam lagi ke dalam daging dan jiwamu."
+    },
+    {
+      "id": "CeremonialNail",
+      "name": "Paku [Hukuman]",
+      "desc": "- Stack Maks: 9\n- Jika efek ini diaktifkan oleh \"Penghakiman... Hukuman... Penghukuman!\", peroleh Sinking setara dengan Stack",
+      "summary": "Ketika aktif, peroleh Sinking",
+      "flavor": "Karena hukuman adalah kepedihan nurani yang ditanggung oleh mereka yang melanggar aturan dan ketetapan."
+    },
+    {
+      "id": "MarkingNail",
+      "name": "Paku [Penitensi]",
+      "desc": "- Stack Maks: 9\n- Jika efek ini diaktifkan oleh \"Penghakiman... Hukuman... Penghukuman!\", naikkan Batas Stagger sebanyak (Stack x 2)",
+      "summary": "Ketika aktif naikkan Batas Stagger",
+      "flavor": "Ini adalah paku yang tertancap di hati orang-orang yang tidak bertobat."
+    },
+    {
+      "id": "GoldenHideWarderThirdPhase",
+      "name": "Denyut Nadi",
+      "desc": "- Awal Giliran: Pendosa acak mendapat efek ini\n- Saat Menang Clash, jika Pendosa yang memiliki efek ini <color=#ff6000><mark=#ff000040><b><u>Menang Clash</u></b></mark></color> terhadap Skill <color=#ff6000><mark=#ff000040><b><u>\"Diblokir Seluruh Sistem\"</u></b></mark></color> Sang Pendeta, peroleh <color=#ff6000><mark=#ff000040><b><u>Perisai setara dengan 250% HP</u></b></mark></color> (Perisai yang diperoleh dari efek ini akan hilang dari total Perisai Pendosa pada Akhir Serangan dari \"Diblokir Seluruh Sistem\" Sang Pendeta)\n- Clash Power +3, terima -50% damage\n- Saat Serang, beri 1 Attack Level Down (maks 9)\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Peroleh Clash Power dan terima lebih sedikit damage\nSaat Menang Clash terhadap \"Diblokir Seluruh Sistem\", peroleh Perisai",
+      "flavor": "Domain kehidupan. Kehendak atas perubahan dan kelahiran."
+    },
+    {
+      "id": "GoldenFabricWarderThirdPhase",
+      "name": "Keheningan",
+      "desc": "- Awal Giliran: Pendosa acak mendapat efek ini\n- Final Power +2, beri +25% damage\n- Saat Serang, beri 1 Defense Level Down (maks 9)\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Peroleh Final Power dan beri lebih banyak damage\nSaat Serang, beri Defense Level Down",
+      "flavor": "Domain kematian. Dorongan demi pelestarian dan keheningan."
+    },
+    {
+      "id": "MeursaultBuffWarderThirdPhase",
+      "name": "The Stranger",
+      "desc": "- HP Meursault tidak dapat turun di bawah 1 selama ada 1 atau lebih kawan yang hidup di Pertemuan ini\n- Speed Min & Max +3\n- Final Power +3 dan beri +30% damage\n- Ketika Clash dengan Sang Pendeta:\n · Beri +(Persentase HP yang hilang pada diri sendiri)% damage (maks 90%)\n · Saat Menang Clash, Pulihkan 8 SP\n · Saat Menang Clash, peroleh 1 Bahan E.G.O untuk masing-masing dari 5 Afinitas paling sedikit\n- Ketika menerima damage yang dapat Stagger unit ini, tidak akan terkena Stagger dan hilangkan Batas Stagger yang dimaksud; dan peroleh 3 Attack Power Up giliran berikutnya (tidak ada batas aktivasi)\n- Tidak dapat Mundur",
+      "summary": "Peroleh Clash Power dan beri lebih banyak damage when Clashing with Sang Pendeta\nTidak dapat Stagger, tidak dapat kalah ketika ada kawan lain yang hidup",
+      "flavor": "Apakah aku seorang asing, elemen asing baik di toko serba ada maupun di Kota?"
+    },
+    {
+      "id": "GoldenNail",
+      "name": "Paku [Konsolasi]",
+      "desc": "- Stack Maks: 9\n- Awal Pertempuran: <color=#ff6000><mark=#ff000040><b><u>Pada 9 Stack, Saat Menyerang Sang Pendeta</u></b></mark></color>, Pendosa dengan efek ini untuk giliran ini <color=#ff6000><mark=#ff000040><b><u>terima damage tetap setara dengan 2% dari maks HP</u></b></mark></color> (efek ini tidak dapat Stagger unit ini)\n- Jika efek ini diaktifkan oleh \"Apa kau serius ingin menghancurkan Sistem Sisyphe?\", peroleh Sinking setara dengan Stack and naikkan Batas Stagger sebanyak (Stack x 2)",
+      "summary": "Ketika aktif, peroleh Sinking and naikkan Batas Stagger\nPada maks Stack, terima damage tetap ketika diserang",
+      "flavor": "\"Mari kita lihat, buku petunjuk untuk paku ini... 'Kau merasakan dosa-dosamu merayap di punggungmu...' Mm, bukan, bukan yang ini.\"\n\n\"Harusnya ada di Laci 42 sebelah sini... Aku tahu aku menaruhnya... ah, itu dia! 'Panduan Administrator Le Noir untuk Perintah Konsol Sistem Sisyphe'.\""
+    },
+    {
+      "id": "VibrationFocusing",
+      "name": "Tremor - Konservasi",
+      "desc": "- Pada Tremor Burst, terima Damage Sloth setara dengan (60 + jumlah Potency Charge atau Charge Unik pada penyerang x 8)% dari Potency Tremor, dan kurangi Count sebanyak 1 (maks 120%)\n · Ketika Skill dan Pasif unit \"Le Noir\" mengaktifkan Tremor Burst, efek di atas tidak mengurangi Count\n- Ketika diserang oleh Skill Tremor Burst, naikkan Batas Stagger sebanyak Potency efek ini\n- Akhir Giliran: Kehilangan 1 Count\n(Berinteraksi sama dengan Tremor biasa terhadap efek yang menambah atau mengurang Potensi / Count Tremor)",
+      "summary": "Pada Tremor Burst, terima Damage Sloth\nKetika diserang by Skills that trigger Tremor Burst, naikkan Batas Stagger"
+    },
+    {
+      "id": "ExecutionNailThirdPhase",
+      "name": "Paku [Titik Patah]",
+      "desc": "- Stack Maks: 9\n- Jika efek ini diaktifkan oleh \"Apa kau serius ingin menghancurkan Sistem Sisyphe?\", <color=#ff6000><mark=#ff000040><b><u>terima damage tetap setara dengan (Stack x 10%) dari maks HP</u></b></mark></color> (min 10)\n · Awal Pertempuran: Jika unit ini menggunakan Skill Defense, setengahkan damage yang diterima dan unit ini tidak dapat mati atau Stagger oleh efek ini",
+      "summary": "Ketika aktif, terima damage tetap\nKetika Skill Defense digunakan, setengahkan damage yang diterima dan unit ini tidak dapat dibunuh",
+      "flavor": "\"Buku petunjuk admin mengatakannya dengan cukup jelas. Begitu perintah ini memaku dirimu di dalam sistem, kau tidak akan bisa melakukan apa-apa.\""
+    },
+    {
+      "id": "RestrainingNailThirdPhase",
+      "name": "Paku [Pengecualian]",
+      "desc": "- Stack Maks: 9\n- Awal Giliran: Jika unit ini memiliki efek ini, <color=#ff6000><mark=#ff000040><b><u>terima damage tetap setara dengan 50% HP saat ini</u></b></mark></color> dan menjadi <color=#ff6000><mark=#ff000040><b><u>Stagger</u></b></mark></color>\n · Akhir Giliran: Efek ini kadaluarsa jika diaktifkan giliran ini\n · Jika unit ini memiliki \"Denyut Nadi\", tidak dapat Stagger oleh efek ini, setengahkan damage yang diterima, dan efek ini kadaluarsa pada Akhir Giliran",
+      "summary": "Awal Giliran: Terima damage tetap dan menjadi Stagger\nJika unit ini memiliki \"Denyut Nadi\", tidak akan Stagger dan terima hanya setengah damage",
+      "flavor": "\"Bahkan pengecualian pun tak dapat menahan diri untuk tidak tersangkut pada paku ini.\""
+    },
+    {
+      "id": "ConnectionError_LowMorale",
+      "name": "Error Sinkronisasi",
+      "desc": "- Moral Rendah\n- Terima +12.5% damage\n- Speed Min & Max -1\n- Beri -15% damage menggunakan Skill yang mengonsumsi Preservasi",
+      "summary": "Kehilangan Speed Min & Max, terima lebih banyak damage\nSkill yang mengonsumsi Preservasi beri damage lebih sedikit",
+      "undefined": "-"
+    },
+    {
+      "id": "ConnectionError_Panic",
+      "name": "Error Sinkronisasi",
+      "desc": "- Panik\n- Terima +20% damage\n- Speed Min & Max -2\n- Beri -25% damage menggunakan Skill yang mengonsumsi Preservasi",
+      "summary": "Kehilangan Speed Min & Max, terima lebih banyak damage\nSkill yang mengonsumsi Preservasi beri damage lebih sedikit",
+      "undefined": "-"
+    },
+    {
+      "id": "JeanneDesign",
+      "name": "Terpaku",
+      "desc": "- Stack Maks: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Unit ini memiliki peluang 95% untuk dapat Kepala</color></mark></b></u>\n- Pada 2 Stack, <color=#ff6000><mark color=#ff000040><b><u>Clash Power -2 untuk target</color></mark></b></u> yang Clash dengan unit ini\n- Pada 3 Stack, konsumsi semua Stack dan peroleh <color=#ff6000><mark color=#ff000040><b><u>Pertunangan</color></mark></b></u> giliran berikutnya\n- Akhir Giliran: Kehilangan 1 Stack (tidak kehilangan Stack di giliran yang sama efek ini diperoleh)\n- Tidak memperoleh efek ini jika unit ini memiliki Pertunangan",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Eksistensi mendahului esensi."
+    },
+    {
+      "id": "JeanneManager",
+      "name": "Pertunangan",
+      "desc": "- <color=#ff6000><mark color=#ff000040><b><u>Unit ini memiliki peluang 100% untuk dapat Kepala</color></mark></b></u>\n- Target yang Clash atau menyerang unit ini memiliki <color=#ff6000><mark color=#ff000040><b><u>peluang 100% untuk dapat Ekor bagi Coin Positif</color></mark></b></u>\n · Coin Negatif mendapat peluang 100% untuk dapat Kepala\n- Hilangkan efek ini setelah menggunakan Skill \"Memfokus\", atau jika unit ini menjadi Stagger",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Aku yang merancang toko serba ada ini. Dan kini, aku adalah seorang model di atas panggung peragaannya, seorang aktris di atas panggung pertunjukannya.\n\nDan kau, ma puce... kau adalah cinema itu sendiri, bukan?"
+    },
+    {
+      "id": "JeannePartner",
+      "name": "Être-pour-autrui",
+      "desc": "- Target yang memperoleh efek ini akan kehilangan seluruh efek negatif\n- Tetapkan SP ke 45\n · Untuk Identitas Coin Negatif, tetapkan SP ke -30\n- Tidak dapat Stagger\n- Hilangkan efek ini ketika Jeanne memasuki fase baru",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Menurutmu bagaimana wujudmu di mataku? Diri yang kau lihat dan kau yang kulihat pastilah sepenuhnya berbeda.\nMa puce... kau sudah terpaku di tempatnya di dalam diriku."
+    },
+    {
+      "id": "JeannePartnerTwo",
+      "name": "Être-pour-soi",
+      "desc": "- Tetapkan SP ke 45\n- Tidak menerima damage\n- Hilangkan efek ini ketika Jeanne memasuki fase baru",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kesadaran adalah hal yang menakutkan, kau tahu. Di suatu tempat di dalamnya, sebuah kekosongan pasti akan terbuka.\n\nMaukah kau mengisinya untukku, ma puce?"
+    },
+    {
+      "id": "JeannePathos",
+      "name": "Pathos - Désir d'être",
+      "desc": "- Stack Maks: 100\n- Saat Menang Clash, peroleh 3 Stack\n- Saat Kalah Clash, peroleh 5 Stack\n- Peroleh Stack setara dengan jumlah Clash\n- Akhir Giliran: Pada Stack maks, masuki fase baru",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Aku ingin bermekaran merah... dengan seluruh gairah merah itu, seluruh gejolak itu, seluruh patos yang membakar di dalam diriku."
+    },
+    {
+      "id": "JeanneLogos",
+      "name": "Logos - Manque d'être",
+      "desc": "- Stack Maks: 100\n- Saat Menang Clash, peroleh 5 Stack\n- Peroleh Stack setara dengan jumlah Clash\n- Offense Level +1 untuk setiap 10 Stack\n- Clash Power +1 untuk setiap 20 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ada sesuatu yang hilang di dalam dirimu—di dalam diriku juga. Kita bisa saling melengkapi."
+    },
+    {
+      "id": "JeanneCheat",
+      "name": "Désespoir",
+      "desc": "- Unit ini memiliki peluang 100% untuk mendapat Ekor (untuk Coin Negatif, Kepala)\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "... Ma puce, apakah kau melarikan diri? Dari penghakiman, dari cahaya ini...?"
+    },
+    {
+      "id": "JeanneBlueprint",
+      "name": "Délaissement",
+      "desc": "- Stack Maks: 5\n- Clash Power +1 untuk setiap Stack\n- Terima +10% damage dari Skill untuk setiap Stack\n- Awal Giliran: Pada 4+ Stack, beri efek berikut:\n · Hilangkan semua Batas Stagger\n · Ketika Stagger, pulih dari Stagger\n · Slot Weight +1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Di tengah kebebasan keputusasaan yang tidak menjanjikan apa-apa, Grand Magasin Sisyphe sendiri menawarkan sebuah berkah: dipotong sesuai ukuran melalui rancangan dan tatapan, dan dengan demikian, diberikan kepastian serta keberlanjutan."
+    },
+    {
+      "id": "BoneNail",
+      "name": "L'Abject",
+      "desc": "- Stack Maks: 5\n- Kehilangan 1 Speed untuk setiap Stack\n- Terima +20% damage dari Bleed untuk setiap Stack (dibulatkan ke bawah)\n- Saat Menggunakan Skill Serang Dasar, peroleh (Stack x 2) Count Bleed",
+      "summary": "",
+      "flavor": "Anggota tubuh yang terbuang. Buffet mendorongnya keluar, meludahkannya, menumpahkannya dari dalam.\n\nMeskipun berasal dari tubuh sendiri, begitu dilemparkan ke luar, ia berhenti menjadi milik diri. Dan bahkan jika ia dimasukkan ke dalam tubuh lain, ia tak akan pernah menjadi milik tubuh itu juga."
+    },
+    {
+      "id": "BuffetDream",
+      "name": "Memori Pwie",
+      "desc": "- Stack Maks: 5\n- Untuk setiap Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Awal Giliran: Pulihkan (8 x Stack) SP",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": "BuffetDream1",
+      "name": "Memori Pwie",
+      "desc": "- Stack Maks: 5\n- Untuk setiap Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Awal Giliran: Pulihkan (8 x Stack) SP",
+      "summary": "",
+      "flavor": "Sepatunya... bikin aku senang banget..."
+    },
+    {
+      "id": "BuffetDream2",
+      "name": "Memori Pwie",
+      "desc": "- Stack Maks: 5\n- Untuk setiap Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Awal Giliran: Pulihkan (8 x Stack) SP",
+      "summary": "",
+      "flavor": "Makasih... udah bertatap mata sama aku...\n\nSepatunya... bikin aku senang banget..."
+    },
+    {
+      "id": "BuffetDream3",
+      "name": "Memori Pwie",
+      "desc": "- Stack Maks: 5\n- Untuk setiap Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Awal Giliran: Pulihkan (8 x Stack) SP",
+      "summary": "",
+      "flavor": "Kita pergi berpetualang... Rasanya seru...\n\nMakasih... udah bertatap mata sama aku...\n\nSepatunya... bikin aku senang banget..."
+    },
+    {
+      "id": "BuffetDream4",
+      "name": "Memori Pwie",
+      "desc": "- Stack Maks: 5\n- Untuk setiap Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Awal Giliran: Pulihkan (8 x Stack) SP",
+      "summary": "",
+      "flavor": "Aku lapar... Aku nggak mau nyakitin siapa pun... Rasanya sakit banget...\n\nKita pergi berpetualang... Rasanya seru...\n\nMakasih... udah bertatap mata sama aku...\n\nSepatunya... bikin aku senang banget..."
+    },
+    {
+      "id": "BuffetDream5",
+      "name": "Memori Pwie",
+      "desc": "- Stack Maks: 5\n- Untuk setiap Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Awal Giliran: Pulihkan (8 x Stack) SP",
+      "summary": "",
+      "flavor": "Aku nggak bisa berhenti... Aku kangen kalian... Aku sendirian, jadi... aku mau ikut sama kalian...\n\nAku lapar... Aku nggak mau nyakitin siapa pun... Rasanya sakit banget...\n\nKita pergi berpetualang... Rasanya seru...\n\nMakasih... udah bertatap mata sama aku...\n\nSepatunya... bikin aku senang banget..."
+    },
+    {
+      "id": "BuffetDreamEnd",
+      "name": "Akulah... \"Pwie\".",
+      "desc": "- Base Offense Level -30\n- Base Defense Level -30\n- Terima +100% damage",
+      "summary": "",
+      "flavor": "Ingat aku sebagai \"Pwie,\" ya?\nTerima kasih... untuk semuanya."
+    },
+    {
+      "id": "BuffetRevival",
+      "name": "Suara Sang Dewa Lembayung",
+      "desc": "- Stack Maks: 3\n- Tidak dapat dikalahkan\n- Akhir Giliran: Kehilangan 1 Stack\n- Ketika efek ini kadaluarsa,\n · Kembali ke bentuk \"Staf Senior Le Rouge\".\n · Pulihkan 5 SP untuk setiap 10 HP yang tersisa selama unit ini di dalam bentuk \"Robekan Daging Sang Dewa Lembayung\"; peroleh +2 Count Pulsasi\n · Jika unit ini memperoleh 10+ Count Pulsasi, konsumsi semua Count Pulsasi; lalu, peroleh 1 Amukan Tak Terkendali [Le Désir] giliran berikutnya untuk setiap 5 Stack yang dikonsumsi",
+      "summary": "",
+      "flavor": "Hiduplah, dan hiduplah kembali.\n\nUntuk merasakan, untuk hidup, pikiran kalian tidak tinggal di masa kini, melainkan telah berada di masa depan.\n\nKarena seseorang menantikan apa yang belum tiba, seseorang rindu untuk merasakan. Dan karena seseorang rindu untuk perasaannya, seseorang memilih untuk terus hidup."
+    },
+    {
+      "id": "BuffetRouge",
+      "name": "Amukan Tak Terkendali [Le Désir]",
+      "desc": "- Stack Maks: 3\n- Speed Min & Max +1\n- Clash Power +1 untuk setiap Stack\n- Terima -50% damage dari Bleed\n- Tidak dapat dikalahkan by Bleed damage\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "flavor": "Aku tak pernah bisa merasa puas.\n\nMeskipun hasrat itu tidak benar-benar milikku, aku mengira itu sebagai sesuatu yang menjadi milikku.\n\nIni adalah hasrat yang lahir darimu—hasrat yang melonjak keluar darimu, karena dirimu."
+    },
+    {
+      "id": "BuffetScruple",
+      "name": "Berbagi dengan Pwie",
+      "desc": "- Speed Min & Max +3\n- Terima -50% damage akhir dari Sang Dewa Lembayung [Adulthood]",
+      "summary": "",
+      "flavor": "Kita berbagi pengalaman dengan Pwie. Bersama-sama. Hal itu sudah pasti.\n\nKeraguan mulai muncul ke permukaan."
+    },
+    {
+      "id": "BuffetResolve",
+      "name": "Keputusan",
+      "desc": "- Stack Maks: 1\n- Beri dan terima +30% damage ke dan dari Sang Dewa Lembayung [Adulthood]\n- Awal Giliran: Pulihkan 5 SP",
+      "summary": "",
+      "flavor": "\"Sebagai Manajer... aku harus memilih, kan?\"\n\n\"Benar, Manajer.\"\n\n\".......\"\n\n\".......\"\n\n\"... Aku sudah membuat keputusanku.\""
+    },
+    {
+      "id": "MeursaultBuffetEnd",
+      "name": "Dia Yang Memaku",
+      "desc": "- Speed Min & Max +3\n- Pada Penggunaan Skill, peroleh 2 Bahan E.G.O tambahan untuk Afinitas Skill yang dimaksud (2 kali per giliran)\n- Tidak dapat Mundur",
+      "summary": ""
+    },
+    {
+      "id": "GrandBuffet_LowMorale",
+      "name": "Le Désir",
+      "desc": "- Moral Rendah\n- Offense Level +3\n- Defense Level +3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GrandBuffet_Panic",
+      "name": "Le Désir",
+      "desc": "- Panik\n- Offense Level +5\n- Defense Level +5",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LaRougeSuperior_LowMorale",
+      "name": "Jauh Melampaui Kulitnya!",
+      "desc": "- Moral Rendah\n- Defense Level -2\n- Offense Level +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LaRougeSuperior_Panic",
+      "name": "Jauh Melampaui Kulitnya!",
+      "desc": "- Panik\n- Defense Level -5\n- Offense Level +3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Jeanne_LowMorale",
+      "name": "La Nausée",
+      "desc": "- Moral Rendah\n- Beri -10% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Jeanne_Panic",
+      "name": "La Nausée",
+      "desc": "- Panik\n- Base Power -1\n- Beri -10% damage",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}
