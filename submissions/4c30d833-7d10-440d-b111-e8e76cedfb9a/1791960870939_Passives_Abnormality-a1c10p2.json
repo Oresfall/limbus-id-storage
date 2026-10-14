@@ -1,0 +1,256 @@
+{
+  "dataList": [
+    {
+      "id": 150301,
+      "name": "Ratapan Tanpa Henti",
+      "desc": "Awal Pertemuan: Masuki status Panik\n\nJika unit ini sedang Panik, beri efek berikut:\n- <color=#ff6000><mark color=#ff000040><b><u>Semua Serangan menarget Pwie</color></mark></b></u>\n- Pada Penggunaan Skill, jika Pwie target utamanya, peroleh Clash Power dan Base Power\n- Awal Pertempuran: Ubah semua Coin menjadi [SuperCoin]",
+      "flavor": "Anak-anak dari makhluk purba itu sudah tiada lagi."
+    },
+    {
+      "id": 150302,
+      "name": "Benang Hitam Kusut",
+      "desc": "Efek dari Skill, Moral Rendah, dan Panik unit ini memberikan [TangleBlackYarn] pada musuh\n※ [TangleBlackYarn] dapat berkurang dengan cara <color=#ff6000><mark color=#ff000040><b><u>menggunakan Skill Defense atau melalui Skill tertentu dari unit ini</color></mark></b></u>\nKetika diserang, aktifkan efek berikut:\n- Peroleh 1 [SickBlackYarn]\n- Jika Skill yang menyerang unit ini adalah <color=#ff6000><mark color=#ff000040><b><u>Skill Slash</color></mark></b></u>, peroleh 1 tambahan [SickBlackYarn]\n- Jika Skill yang menyerang unit ini memiliki <color=#ff6000><mark color=#ff000040><b><u>5+ Atk Weight</color></mark></b></u>, peroleh [HeavyBlackYarn] giliran berikutnya (sekali per giliran)",
+      "flavor": "Benang hitam yang melilit tubuhnya itu sebelumnya tidak ada. Berkat keberuntungan belaka, saat zaman sebelumnya berganti ke zaman berikutnya, benang-benang itu melilit tubuh makhluk purba tersebut. Terbungkus benang, ia bertahan hingga ke Era Department Store. Kini, benang-benang hitam itu mulai terurai."
+    },
+    {
+      "id": 150303,
+      "name": "Ke Dalam Perairan Purba",
+      "desc": "Jika ada Bagian yang menjadi <color=#ff6000><mark color=#ff000040><b><u>Stagger</color></mark></b></u>, hilangkan <color=#ff6000><mark color=#ff000040><b><u>1 Batas Stagger dari Bagian lain dan akhiri giliran</color></mark></b></u>; lalu, semua Bagian peroleh [HideBlackYarn] giliran berikutnya\n\n<color=#ff6000><mark color=#ff000040><b><u>Jika [HideBlackYarn] kadaluarsa karena diserang</color></mark></b></u>,\n- Peroleh 10 [SickBlackYarn]\n- Jika [SickBlackYarn] telah diperoleh melebihi batas maks-nya, peroleh 3 Fragile giliran ini dan giliran berikutnya\n\nAkhir Giliran: Jika [HideBlackYarn] kadaluarsa,\n- Peroleh (7 - sisa Potency) [SickBlackYarn]\n- Peroleh 1 [AngryBlackYarn] giliran berikutnya",
+      "flavor": "Ke dalam pelukan laut dari zaman yang telah berlalu, tempat ia dulunya berenang secara alami dan sebebas-bebasnya."
+    },
+    {
+      "id": 150304,
+      "name": "Kelembapan yang Tersisa",
+      "desc": "Terima lebih sedikit damage HP dan SP dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]; -50% ke Batas Stagger yang dinaikkan oleh [Vibration]\n\nTipe Panik unit ini tidak berubah ketika diberi efek yang mengubah Tipe Panik\nAkhir Giliran: Jika unit ini Panik, kembalikan SP ke 0",
+      "flavor": "Akuarium Sisyphe telah tiada, namun tubuh ini masih menyimpan sedikit jejak air dari masa-masa itu—kelembapan yang belum berubah menjadi benang."
+    },
+    {
+      "id": 150101,
+      "name": "Boneka yang Dibentuk dari Tanah Liat",
+      "desc": "Awal Pertemuan: Pulihkan ke maks HP\n\nInti dan Bagian Tubuh tidak menerima damage dari [Combustion] dan [Laceration]",
+      "flavor": "Kulit yang menyerupai porselen itu berasal dari tanah liat."
+    },
+    {
+      "id": 150102,
+      "name": "Bunga yang Tak Layu",
+      "desc": "Awal Pertempuran: Peroleh 1 [AlriunePetal]\n\nJika unit ini terkena Stagger,\n- Peroleh 2 [Vulnerable] giliran berikutnya\n- Pulihkan 20 SP pada Pendosa dan Unit Assist\n- Awal Giliran: Jika unit ini pulih dari Stagger, reset [AlriunePetal] ke 1\n\nAwal Giliran: Jika tidak ada musuh yang memiliki [FlowerLaurelWreath], <color=#ff6000><mark color=#ff000040><b><u>gunakan Skill \"Karangan Wewangian Bunga Laurel\"</color></mark></b></u>\n- Gunakan Skill tersebut giliran berikutnya jika unit ini menggunakan \"Membawa harapan untuk kembali menjadi debu...\" giliran ini\n\n<color=#ff6000><mark color=#ff000040><b><u>Terima -50% damage dari Skill yang digunakan musuh yang tidak memiliki [FlowerLaurelWreath]</color></mark></b></u>\n<color=#ff6000><mark color=#ff000040><b><u> Terima +150% damage dari musuh yang memiliki [FlowerLaurelWreath]</color></mark></b></u>",
+      "flavor": "Bunga-bunga layu. Lalu mereka mekar kembali."
+    },
+    {
+      "id": 150103,
+      "name": "Kedatangan Musim Semi",
+      "desc": "Beri 20 damage SP ke musuh yang Stagger\n\nAwal Giliran: <color=#ff6000><mark color=#ff000040><b><u>Jika ada target yang Panik atau Korosi, gunakan \"...Ia akan kembali ke alam kubur bersama keinginan untuk hidup\" pada target tersebut</color></mark></b></u> (maks 2 kali per giliran, prioritaskan musuh paling lambat pada urutan Speed, mengecualikan Unit Assist)\n\nJika Skill tersebut membunuh target, panggil 1 \"Dia yang Muncul dari Tanah\" giliran berikutnya\n- Efek ini tidak aktif ketika ada 4 \"Dia yang Muncul dari Tanah\" di medan tempur",
+      "flavor": "Ketika musim semi tiba, ia akan mekar."
+    },
+    {
+      "id": 150201,
+      "name": "Dari Dalam Tanah",
+      "desc": "Unit ini tidak menerima damage dari [Combustion] dan [Laceration]\n\n<color=#ff6000><mark color=#ff000040><b><u>+100% ke Batas Stagger yang dinaikkan oleh [Vibration]</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>Unit ini dikalahkan saat Stagger</color></mark></b></u>",
+      "flavor": "Kembali ke bumi."
+    },
+    {
+      "id": 151901,
+      "name": "SPM Kecepatan Ultra-Tinggi",
+      "desc": "Jika <color=#ff6000><mark color=#ff000040><b><u>Speed target lebih lambat daripada unit ini, Clash Power +3</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>Jika unit ini memiliki 11+ Count [ChargeKhaki] pada akhir giliran unit ini menggunakan Skill yang mengonsumsi Count [ChargeKhaki]</color></mark></b></u>, gunakan Skill kuat\n\nPada 50% HP atau kurang, gunakan Skill kuat (sekali per Pertemuan)",
+      "summary": "Jika Speed target lebih lambat daripada unit ini, peroleh Clash Power",
+      "flavor": "Kakakku bisa sampai 10.000 SPM."
+    },
+    {
+      "id": 151902,
+      "name": "Jahitan Paku",
+      "desc": "Beri +40% damage ke target yang Stagger atau tak bisa bergerak",
+      "flavor": "Tidak ada yang lebih mudah daripada menjahit sesuatu yang tidak bisa bergerak."
+    },
+    {
+      "id": 151903,
+      "name": "Jahitan Warna",
+      "desc": "Jika unit ini memiliki [SpreadingDye], beri 1 [StickyDye] terhadap target yang diserang Skill unit ini\n\nBeri efek berikut ke target yang memiliki [ThreadDye]:\n- Skill memberi +(Potency [ThreadDye]) lebih banyak Potency [Laceration] dan Count\n- Ketika memberi [StickyDye] melalui efek di atas, beri 1 [StickyDye] pada musuh acak yang memiliki [ThreadDye], mengecualikan target yang sudah diberikan\n\nTidak memberi [ThreadDye] pada Skill target yang memiliki [Inactible]",
+      "flavor": "Kau jahit kainnya, Kakak. Aku yang akan mewarnainya bersamamu."
+    },
+    {
+      "id": 151904,
+      "name": "Penyesuaian Pengatur Jumlah Jahitan",
+      "desc": "Awal Pertemuan: Pulihkan maks HP dan 45 SP\n\nPeroleh 1 [ChargeKhaki] untuk setiap 10 Count [ChargeKhaki] kumulatif yang dikonsumsi unit ini di Pertemuan ini"
+    },
+    {
+      "id": 149501,
+      "name": "Perubahan",
+      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>Beri 1 [TailoringTarget] pada Pendosa yang memberi damage terbanyak</u></b></mark></color> ke unit ini giliran sebelumnya dan gunakan Skill \"Membuat Pola\"\n- Jika [TailoringTarget] Pendosa <color=#ff6000><mark color=#ff000040><b><u>memiliki 9 [ScissorsMark]</u></b></mark></color>, aktifkan \"Membuat Pola\" sebagai <color=#ff6000><mark color=#ff000040><b><u>\"Surfile à la Chaîne\"</u></b></mark></color> saja\n\nSetiap kali unit ini diserang oleh Pendosa,\n- Beri 1 [ScissorsMark] pada Pendosa tersebut (maks 5 per giliran per Pendosa)\n- Peroleh +1 Count [ChargeKhaki] (maks 5 per giliran per Pendosa)\n\n<color=#ff6000><mark color=#ff000040><b><u>Peroleh 3 [ResultEnhancement] setiap kali unit ini diserang oleh Pendosa yang memiliki [TailoringTarget] (maks 9 per giliran)</u></b></mark></color>",
+      "flavor": "Kata orang, pakaian baru benar-benar selesai melalui perubahan. Kecuali jika dibuat sesuai ukuran, pakaian harus disesuaikan hingga pas dengan pemakainya.\n\nDan itu tidak hanya berlaku untuk pakaian. Apa pun yang diambil dari luar harus terlebih dahulu diubah agar sesuai dengan diri sendiri sebelum bisa dikenakan, dijalani, dan dicocokkan dengan hati."
+    },
+    {
+      "id": 149503,
+      "name": "Pembuatan Pakaian",
+      "desc": "Pada Awal Pertemuan atau pada awal giliran unit ini pulih dari Stagger, peroleh 30 [FinishedFabric]\n\nTerapkan efek [PanicChangeLock]\nAkhir Giliran: Jika unit ini Panik, ubah SP menjadi 30\n\nAwal Giliran:\n- <color=#ff6000><mark color=#ff000040><b><u>Peroleh Perisai setara dengan (Stack [FinishedFabric])% HP</u></b></mark></color> (maks 30%)\n- Pulihkan SP setara dengan Stack [FinishedFabric]",
+      "flavor": "Memotong berarti membentuk kain sesuai pola. Memotong memberikan bentuk pada pakaian, sementara perubahan membuatnya dapat dikenakan.\n\nBagi kain, pemotongan itu sendiri adalah bentuk perubahan. Begitu dipotong, kain tersebut mengambil bentuk yang mencerminkan sifatnya sendiri, menjadi pakaian yang dikehendaki oleh pemotongnya."
+    },
+    {
+      "id": 149504,
+      "name": "Gunting yang Tak Pernah Istirahat",
+      "desc": "Setiap kali Annette Sang Pengubah diserang oleh Pendosa, <color=#ff6000><mark color=#ff000040><b><u>naikkan Batas Stagger setara dengan 0.8% HP</u></b></mark></color>\n\n<color=#ff6000><mark color=#ff000040><b><u>Jika unit ini terkena Stagger, kehilangan semua Perisai, [FinishedFabric], dan [LargeTailoringShears]; lalu, peroleh 3 [Vulnerable]</u></b></mark></color>\n\nAwal Giliran: Pada 60% HP atau kurang,\n- Peroleh 1 [ResultEnhancement] dan 1 [SlashDamageUp] untuk setiap 20% HP yang hilang (maks 3 masing-masing)\n- Ubah Coin terakhir dari \"Memangkas\" dan Coin 2 dari \"Cutting\" menjadi [SuperCoin]",
+      "flavor": "Tubuh yang nilai sejatinya dibentuk oleh pekerjaan perubahan terus memotong tanpa henti, terdorong untuk mengubah dan menjahit selamanya.\n\nBahkan saat tubuhnya hancur berkeping-keping, ia tidak bisa memaksa dirinya untuk berhenti mengubah dan memotong. Ia diciptakan untuk memotong segala sesuatu, namun tidak bisa memotong dirinya sendiri hingga bebas."
+    },
+    {
+      "id": 149505,
+      "name": "Inersia Kain Bergeser",
+      "desc": "Peroleh 1 Potency [ChargeKhaki] untuk setiap 10 Count [ChargeKhaki] kumulatif yang dikonsumsi unit ini di Pertemuan ini\n\nPada 3+/5+ Potency [ChargeKhaki], batas maks Count [ChargeKhaki] +5/+10",
+      "flavor": "Mereka mengalir bersama nilai-nilai yang dibentuk oleh Era Department Store, terseret oleh inersia mereka; dan semakin kuat inersia itu tumbuh, semakin mereka tidak mampu menghentikan kebiasaan melayang tersebut."
+    },
+    {
+      "id": 150601,
+      "name": "Konservasi",
+      "desc": "Peroleh 1 Potency [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang dikonsumsi unit ini di Pertemuan ini\nBatas maks Count [ChargeNoir] +10"
+    },
+    {
+      "id": 150602,
+      "name": "Malleus Promissionis",
+      "desc": "Saat menyerang, atau ketika diserang, peroleh +1 Count [ChargeNoir]",
+      "flavor": "Palu menancapkan paku. Palu ini hanya memukul paku. Apapun yang dipukulnya pastilah paku. Itulah yang disepakati."
+    },
+    {
+      "id": 150603,
+      "name": "Konservasi Formasi",
+      "desc": "Tingkatkan level sekutu \"Le Noir\"\n\nSemua sekutu \"Le Noir\" menerima -5% damage untuk setiap sekutu \"Le Noir\" yang hidup di medan tempur\nSaat sekutu \"Le Noir\" mati, semua sekutu \"Le Noir\" memperoleh 1 [NoirSquareCollapse] selama Pertemuan ini (termasuk unit yang baru dipanggil)",
+      "flavor": "Masing-masing tetap berada di posnya dan dengan setia menjalankan tugas yang dipercayakan kepada mereka. Bersama-sama, mereka membentuk sebuah formasi, dan formasi itu menjadi sebuah citra yang menjaga keseluruhan. Tunaikan tugasmu dengan setia, masing-masing di tempat yang telah ditentukan."
+    },
+    {
+      "id": 150401,
+      "name": "Le Noir: Kain",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh 5 [NoirBindArmor]\n\nAwal Giliran: Peroleh Perisai setara dengan (Stack [NoirBindArmor])% dari maks HP unit ini\n\nSaat Stagger, kehilangan semua [NoirBindArmor]\nAwal Giliran: Saat unit ini pulih dari Stagger, peroleh 5 [NoirBindArmor]",
+      "flavor": "Worsted Le Noir menjaga tubuh seperti baju besi, menonjolkannya di bawah siluet yang kokoh dan kokoh."
+    },
+    {
+      "id": 150402,
+      "name": "Konservasi",
+      "desc": "Berikan efek berikut berdasarkan Count [ChargeNoir] kumulatif yang dikonsumsi unit ini di Pertemuan ini:\n- Peroleh 1 [NoirBindArmor] untuk setiap 3 Count [ChargeNoir] kumulatif yang dikonsumsi\n- Peroleh 1 [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang dikonsumsi\n\nPada 3+ Potency [ChargeNoir], batas maks Count [ChargeNoir] +5",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 150403,
+      "name": "Pengawetan Kualitas",
+      "desc": "Ketika diserang saat unit ini memiliki Perisai, peroleh +1 Count [ChargeNoir]\n\nPada 10+ Count [ChargeNoir], gunakan Skill kuat",
+      "flavor": "Kualitas barang dagangan harus dikelola dan dijaga dengan ketat."
+    },
+    {
+      "id": 150404,
+      "name": "Perbedaan Kepadatan Kain",
+      "desc": "Pada 3+/5+ Potency [ChargeNoir], berikan +1/+2 lebih banyak Potency [Vibration]\n\nSaat Menggunakan Skill Serang, jika Level Defense unit ini lebih tinggi daripada target, berikan +3% damage untuk setiap perbedaan Level Defense (maks 30%)\n- Jika Level Defense unit ini 5+ level lebih tinggi, Base Power +1",
+      "flavor": "Kaum Noir menghancurkan apa pun yang lebih lunak daripada kain mereka sendiri."
+    },
+    {
+      "id": 150501,
+      "name": "Le Noir: Kain",
+      "desc": "Setelah memasuki Pertemuan untuk pertama kalinya, peroleh 5 [NoirBindArmor]\n\nAwal Giliran: Peroleh Perisai setara dengan (Stack [NoirBindArmor])% dari maks HP unit ini\n\nSaat Stagger, kehilangan semua [NoirBindArmor]\nAwal Giliran: Saat unit ini pulih dari Stagger, peroleh 5 [NoirBindArmor]",
+      "flavor": "Worsted Le Noir menjaga tubuh seperti baju besi, menonjolkannya di bawah siluet yang kokoh dan kokoh."
+    },
+    {
+      "id": 150502,
+      "name": "Konservasi",
+      "desc": "Berikan efek berikut berdasarkan Count [ChargeNoir] kumulatif yang dikonsumsi unit ini di Pertemuan ini:\n- Peroleh 1 [NoirBindArmor] untuk setiap 3 Count [ChargeNoir] kumulatif yang dikonsumsi\n- Peroleh 1 [ChargeNoir] untuk setiap 10 Count [ChargeNoir] kumulatif yang dikonsumsi\n\nPada 3+ Potency [ChargeNoir], batas maks Count [ChargeNoir] +5",
+      "flavor": "Kekuatan dipadatkan, dikumpulkan, dan ditetapkan pada tempatnya. Terkadang, dibutuhkan lebih banyak kekuatan untuk mencegah perubahan daripada menyebabkannya."
+    },
+    {
+      "id": 150503,
+      "name": "Pengawetan Inspeksi",
+      "desc": "Pada 10+ Count [ChargeNoir], gunakan Skill kuat",
+      "flavor": "Kualitas harus lolos inspeksi, dan pengawetan tidak boleh dikompromikan dalam prosesnya."
+    },
+    {
+      "id": 150504,
+      "name": "Perbedaan Kepadatan Kain",
+      "desc": "Pada 3+/5+ Potency [ChargeNoir], berikan +1/+2 lebih banyak Potency [Vibration]\n\nSaat Menggunakan Skill Serang, jika Level Defense unit ini lebih tinggi daripada target, berikan +3% damage untuk setiap perbedaan Level Defense (maks 30%)\n- Jika Level Defense unit ini 5+ level lebih tinggi, Base Power +1",
+      "flavor": "Le Noir menghancurkan apa pun yang lebih lunak daripada kain mereka sendiri."
+    },
+    {
+      "id": 148801,
+      "name": "Pemanenan Kulit Mentah: Gaya Dosa Asal",
+      "desc": "Awal Giliran: Ketika ada 2 atau lebih sedikit Tahanan Disamak di medan tempur, peroleh Slot tambahan\nAkhir Giliran: Peroleh 1 [AttackDmgUp] giliran berikutnya untuk setiap <color=#ff6000><mark=#ff000040><b><u>Tahanan Disamak di medan tempur</u></b></mark></color>",
+      "flavor": "Kulit si pelanggar disobek, dan dosa yang melekat padanya dikikis bersih, hanya menyisakan kulitnya untuk dipanen."
+    },
+    {
+      "id": 148802,
+      "name": "Persiapan Penyamakan Ulang",
+      "desc": "Peroleh Slot tambahan ketika ada sekutu, mengecualikan unit ini, dengan HP kurang dari 80% di medan tempur",
+      "flavor": "Begitu dosa meresap kembali ke dalam kulit, proses Penyamakan mengambilnya dan mengerjakannya hingga bersih kembali dari awal."
+    },
+    {
+      "id": 148803,
+      "name": "Penyamakan Dosa Asal: Operasi Penuh",
+      "desc": "Pada HP Inti kurang dari 50%, akhiri giliran dan masuki pola baru; semua sekutu, termasuk unit ini, memperoleh [RestrictFailed] selama Pertemuan ini",
+      "flavor": "Permintaan melonjak drastis, sementara kulit mentah semakin sulit didapat. Kulit para pendosa asal dulunya adalah jenis yang tidak akan dilirik oleh siapa pun. Kemudian satu musim mengubah segalanya: permintaan melonjak, harga meroket, dan apa yang tadinya dijual sebagai barang rongsokan atau sekadar dibuang menjadi bahan yang diperebutkan.\n\nSekarang bahkan noda di permukaannya dipermak sebagai karakter dan dijual sebagai bagian dari daya tariknya."
+    },
+    {
+      "id": 148804,
+      "name": "Peraturan Penyamakan",
+      "desc": "Mulai dari Giliran 2, secara acak berikan 1 dari efek berikut pada 3 musuh acak pada awal setiap giliran\n- [RestrictMob]\n- [RestrictBoss]\n- [RestrictTier1]\n- [RestrictDef]\n\nKetika sebuah Peraturan dilanggar, berikan 1 [RestrictDenied]",
+      "flavor": "Apa yang memisahkan sepotong daging dari kulit adalah rezim penyamakan yang ketat, diatur oleh aturan-aturan yang presisi."
+    },
+    {
+      "id": 149101,
+      "name": "Tahanan Disamak",
+      "desc": "Saat Mati, Pengawas secara permanen kehilangan 1 Level Defense selama Pertemuan ini"
+    },
+    {
+      "id": 150604,
+      "name": "Pertempuran Berlanjut",
+      "desc": "Mulai Pertemuan ini dengan 80% HP dan 45 SP"
+    },
+    {
+      "id": 151001,
+      "name": "Penjahitan Dimulai",
+      "desc": "Awal Giliran: Berikan [NiddleExpected] pada 2 musuh acak"
+    },
+    {
+      "id": 151002,
+      "name": "Buatan Tangan",
+      "desc": "Final Power Skill +1 untuk setiap Needlekin di medan tempur",
+      "flavor": "Tidak ada jahitan tangan yang bertahan hanya dengan sepasang tangan. Sekelompok perajin berpengalaman diperlukan untuk menghidupkannya."
+    },
+    {
+      "id": 151003,
+      "name": "Aliran Keluhan Pelanggan Tak Berakhir dan Tak Terhindarkan",
+      "desc": "\"Tangisan Kepompong\" terdengar setiap giliran dengan \"kelipatan dari 3\"\nSetelah memasuki Fase 2, \"Tangisan Kepompong\" terus-menerus terdengar setiap gilirannya\n\nUnit ini tidak dapat lumpuh pada giliran \"Tangisan Kepompong\" terdengar\n\nJika HP unit ini di bawah Batas Stagger-nya, peroleh 2 [Vulnerable] giliran berikutnya",
+      "flavor": "Suara-suara merembes keluar dari kepompong.\n\n\"Ada yang di bawah 80-count two-ply? Itu mah bukan kain!\"\n\"Kenapa lubang kancingnya tidak horizontal?\"\n\"Jersey rajut pakai mesin? Yang bener aja?\"\n\"Kenapa selvedge-nya tidak berwarna merah?\"\n\"Ini bahkan belum di-anti-susut.\"\n\"Segala sesuatu di bawah Super 150 itu kain murahan, sudah jelas.\"\n\"Kalian pikir skala Super itu cuma ketebalan benang? Diameter dan jumlah benang kan bukan hal yang sama. Kalian tidak tahu itu?\"\n\"Kalian menyelesaikan kelimnya pakai Union Special, kan? Jelas lah ya!\"\n\"Ini Rigid? ... Oh. Selvedge?\"\n\"Tunggu... jumlah jahitan per incinya terlalu rata. Kalian pakai mesin, kan?\"\n\"Bukan pesanan khusus kalau tidak dijahit tangan.\"\n\"... Itu bahkan bukan lubang kancing Milanese.\"\n\"Kemeja harus di atas 200-count.\"\n\"Ugh, aku bisa lihat jahitannya di bagian luar.\"\n\"Nah, aku bisa melihat dua baris jahitan di situ. Ditolak.\"\n\"Ada apa dengan penyelesaian kelim ini?\"\n\"Tiga helai, minimal.\""
+    },
+    {
+      "id": 149604,
+      "name": "Hujan dari Sengatan Mentari",
+      "desc": "Level unit ini meningkat karena pengaruh cahaya matahari\n\nAwal Pertemuan: Peroleh [GoldenLeatherEnhance]",
+      "flavor": "Bagi mereka yang memerhatikan kehangatan sinar matahari, pancarannya terasa jauh lebih membakar, menyilaukan, dan intens."
+    },
+    {
+      "id": 148805,
+      "name": "Pertempuran Berlanjut",
+      "desc": "Mulai Pertemuan ini dengan 90% HP dan 45 SP"
+    },
+    {
+      "id": 148305,
+      "name": "Hujan dari Sengatan Mentari",
+      "desc": "Level unit ini meningkat karena pengaruh hujan sinar matahari yang menyengat\n\nAwal Pertemuan: Peroleh 2 Potency [ChargeNoir] dan +15 Count [ChargeNoir]\n\nMulai Pertemuan dengan 30 SP dan 1000 Perisai permanen",
+      "flavor": "Bagi mereka yang memerhatikan kehangatan sinar matahari, pancarannya terasa jauh lebih membakar, menyilaukan, dan intens."
+    },
+    {
+      "id": 1590001,
+      "name": "Hujan dari Sengatan Mentari",
+      "desc": "Level unit ini meningkat karena pengaruh cahaya matahari",
+      "flavor": "Bagi mereka yang memerhatikan kehangatan sinar matahari, pancarannya terasa jauh lebih membakar, menyilaukan, dan intens."
+    },
+    {
+      "id": 149608,
+      "name": "Aliran Keluhan Pelanggan Tak Berakhir dan Tak Terhindarkan",
+      "desc": "\"Tangisan Kepompong\" terus-menerus terdengar setiap gilirannya\nTidak dapat dilumpuhkan[TabExplain]"
+    },
+    {
+      "id": 151101,
+      "name": "Hujan dari Sengatan Mentari",
+      "desc": "Level unit ini meningkat karena pengaruh hujan sinar matahari yang menyengat\n\nAwal Pertemuan: Peroleh [SapsareeGold]",
+      "flavor": "Bagi mereka yang memerhatikan kehangatan sinar matahari, pancarannya terasa jauh lebih membakar, menyilaukan, dan intens."
+    },
+    {
+      "id": 151201,
+      "name": "Hujan dari Sengatan Mentari",
+      "desc": "Level unit ini meningkat karena pengaruh hujan sinar matahari yang menyengat\n\nAwal Pertemuan: Pulihkan semua HP dan peroleh [GoldenManager]",
+      "flavor": "Bagi mereka yang memerhatikan kehangatan sinar matahari, pancarannya terasa jauh lebih membakar, menyilaukan, dan intens."
+    }
+  ]
+}
