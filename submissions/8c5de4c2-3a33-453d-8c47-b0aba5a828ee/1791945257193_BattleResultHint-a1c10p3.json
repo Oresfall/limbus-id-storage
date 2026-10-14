@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "id": "battleTip_11039_phase1_1",
+      "content": "Prioritaskan untuk mengalahkan Rancangan Grand Magasin Sisyphe sebelum Jeanne bisa menghabisi mereka dengan Skill \"Memfokus\" miliknya."
+    },
+    {
+      "id": "battleTip_11039_phase1_2",
+      "content": "Saat efek \"Pertunangan\" milik Jeanne aktif, gunakan Skill E.G.O dengan Base Power yang tinggi untuk melakukan Clash melawan dirinya."
+    },
+    {
+      "id": "battleTip_11039_phase2_1",
+      "content": "Awasi HP Meursault dengan cermat."
+    },
+    {
+      "id": "battleTip_11039_phase2_2",
+      "content": "Perhatikan pola sasaran Jeanne saat menentukan target Skill."
+    },
+    {
+      "id": "battleTip_11039_phase3_1",
+      "content": "Hati-hati: Pendosa yang terkena Skill Jeanne tidak bisa mendapatkan sisi Coin Kepala."
+    },
+    {
+      "id": "battleTip_11039_phase3_2",
+      "content": "Mengalahkan Rancangan akan mengurangi HP Jeanne. Gunakan Skill E.G.O dengan Attack Weight yang tinggi untuk mengalahkan mereka dengan cepat."
+    },
+    {
+      "id": "battleTip_11041_1",
+      "content": "Setiap kali kamu memenangkan Clash melawan \"La Jouissance\", Sang Dewa Lembayung [Adulthood] akan mendapatkan \"Memori Pwie\" dan menjadi lebih lemah."
+    },
+    {
+      "id": "battleTip_11041_2",
+      "content": "Pendosa yang memiliki \"Berbagi dengan Pwie\" menerima Damage lebih sedikit dari Sang Dewa Lembayung [Adulthood], dan Sang Dewa Lembayung [Adulthood] kehilangan SP setiap kali mereka menggunakan Skill terhadap Pendosa tersebut.\n\nPendosa yang efeknya berubah menjadi \"Keputusan\" memberikan Damage lebih besar, tetapi juga menerima Damage lebih besar—harap berhati-hati."
+    },
+    {
+      "id": "battleTip_11041_3",
+      "content": "Seiring bertumpuknya L'Abject, Speed akan berkurang dan Damage yang diterima dari Bleed akan meningkat. Pendosa dengan 5 Stack atau lebih akan menjadi target untuk serangan tambahan yang kuat dari Sang Dewa Lembayung [Adulthood]. Harap berhati-hati."
+    },
+    {
+      "id": "battleTip_11036_1",
+      "content": "[Phase 1] Jika Pendosa dengan 1 Speed melakukan Clash dengan Skill Sang Penjaga, Power dan Damage Skill tersebut akan meningkat drastis. Bahkan kemenangan dalam Clash tetap akan terasa menyakitkan."
+    },
+    {
+      "id": "battleTip_11036_2",
+      "content": "[Phase 1] Jika sebuah Lilin Retribusi bertahan hidup, ia akan memberikan efek Bind pada semua Pendosa pada giliran berikutnya di Akhir Giliran. Prioritaskan untuk mengalahkannya."
+    },
+    {
+      "id": "battleTip_11036_3",
+      "content": "[Phase Selanjutnya] Skill tertentu milik musuh dapat dilemahkan secara signifikan dengan melakukan Clash menggunakan Pendosa yang memiliki \"Denyut Nadi\" atau \"Keheningan\"."
+    },
+    {
+      "id": "battleTip_11036_4",
+      "content": "[Phase Selanjutnya] Musuh memberikan berbagai jenis Paku kepada Pendosa. Serangan musuh akan semakin kuat berdasarkan jumlah Stack Nail pada target, jadi perhatikan Stack Nail-mu saat merespons Skill musuh."
+    }
+  ]
+}
