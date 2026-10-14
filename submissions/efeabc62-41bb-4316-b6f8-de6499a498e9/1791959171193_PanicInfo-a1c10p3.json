@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 1114,
+      "panicName": "Le Désir",
+      "lowMoraleDescription": "Offense Level +3, Defense Level +3",
+      "panicDescription": "Offense Level +5, Defense Level +5",
+      "flavor": "Aku tidak tahu satu pun dari kata-kata ini. Kata-kata itu hanya... datang dari suatu tempat.\nKata-kata itu muncul begitu saja di kepalaku. Kata-kata itu terjebak di sana dengan sendirinya. Itu semua hanyalah kata-kata yang terdengar mewah dan datang dari luar. Aku tidak tahu apa maksudnya.\n\n... Tapi entah bagaimana, aku mengerti..."
+    },
+    {
+      "id": 1116,
+      "panicName": "Error Sinkronisasi",
+      "lowMoraleDescription": "- Terima +12.5% damage\n- Speed Min & Max -1\n- Beri -15% damage menggunakan Skill yang mengonsumsi [ChargeNoir]",
+      "panicDescription": "- Terima +20% damage\n- Speed Min & Max -2\n- Beri -25% damage menggunakan Skill yang mengonsumsi [ChargeNoir]"
+    },
+    {
+      "id": 1117,
+      "panicName": "Penyesalan",
+      "lowMoraleDescription": "- Speed Min & Max -1\n- Terima +10% damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "panicDescription": "- Speed Min & Max -2\n- Terima +15% damage dari target dengan Speed lebih cepat dari diri sendiri",
+      "flavor": "\" Kamu merasakan dosa-dosamu merayapi punggungmu.\""
+    },
+    {
+      "id": 1118,
+      "panicName": "Sang Dewa Obsidian - Raksasa para Le Noir - Sang Pendeta - Die Hämmer",
+      "lowMoraleDescription": "Tak Dapat Dilihat",
+      "panicDescription": "Tak Dapat Dilihat",
+      "flavor": "Waktu berlalu dengan sangat cepat di dalam Sistem Sisyphe, tidak terhalang oleh perlawanan material. Namun melalui sudut pandang masing-masing, Raksasa dapat menyinkronkan diri mereka dengan aliran waktu internal Sistem dan berkomunikasi dengan pelanggannya.\n\nDi antara mereka, Raksasa yang mewakili Hammer memegang otoritas atas memori dan waktu internal Sistem, dengan kekuatan untuk mengatur ulang sebagian inventarisnya sesuai kebijakannya sendiri."
+    },
+    {
+      "id": 1120,
+      "panicName": "Jauh Melampaui Kulitnya!",
+      "lowMoraleDescription": "Defense Level -2, Offense Level +2",
+      "panicDescription": "Defense Level -5, Offense Level +3"
+    },
+    {
+      "id": 1122,
+      "panicName": "La Nausée",
+      "lowMoraleDescription": "Beri -10% damage",
+      "panicDescription": "Base Power -1, beri -10% damage",
+      "flavor": "Muak. Mual terhadap dunia. Dunia memang ada. Tidak ada apa pun di dalamnya yang memiliki makna inheren; semua yang ada di depan mata kita hanyalah produk kebetulan.\n\nSegala sesuatu adalah suatu kemungkinan. Segalanya."
+    }
+  ]
+}
