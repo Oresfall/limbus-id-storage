@@ -1,0 +1,399 @@
+{
+  "dataList": [
+    {
+      "id": "10SV-037_b",
+      "desc": "조력자 뷔페 스킬1",
+      "dlg": "Pergilah."
+    },
+    {
+      "id": "10SV-037_b-01",
+      "desc": "조력자 뷔페 스킬1",
+      "dlg": "Pergilah."
+    },
+    {
+      "id": "10SV-037_c",
+      "desc": "조력자 뷔페 스킬1",
+      "dlg": "Enyah dari jalanku."
+    },
+    {
+      "id": "10SV-041",
+      "desc": "조력자 뷔페 스킬3 (아군에게 사용하는 버프 스킬)",
+      "dlg": "Aku akan membantumu."
+    },
+    {
+      "id": "10SV-042_a",
+      "desc": "조력자 뷔페 스킬4 (아군에게 사용하는 회복 스킬)",
+      "dlg": "Aku tidak ingin kamu terluka."
+    },
+    {
+      "id": "10SV-042_b",
+      "desc": "조력자 뷔페 스킬4 (아군에게 사용하는 회복 스킬)",
+      "dlg": "Jangan sampai terluka."
+    },
+    {
+      "id": "10SV-043_a",
+      "desc": "조력자 뷔페 스킬5 (아군에게 사용하는 흐트러짐 해제)",
+      "dlg": "Kamu sudah baik-baik saja sekarang."
+    },
+    {
+      "id": "10SV-043_b",
+      "desc": "조력자 뷔페 스킬5 (아군에게 사용하는 흐트러짐 해제)",
+      "dlg": "Jangan tumbang."
+    },
+    {
+      "id": "10SV-045_a",
+      "desc": "조력자 뷔페 스킬7 (추가피해)",
+      "dlg": "Lebih jauh lagi."
+    },
+    {
+      "id": "10SV-045_b",
+      "desc": "조력자 뷔페 스킬7 (추가피해)",
+      "dlg": "Tusuk."
+    },
+    {
+      "id": "10SV-046",
+      "desc": "조력자 뷔페 황금가죽 과업 팔레트&퍼티 전투 시작 시",
+      "dlg": "Apakah saling menyakiti... benar-benar satu-satunya cara?"
+    },
+    {
+      "id": "10SV-047",
+      "desc": "조력자 뷔페 황금가죽 과업 수셰프 전투 시작 시",
+      "dlg": "Soda itu... sepertinya aku tidak bisa meminumnya lagi..."
+    },
+    {
+      "id": "10SV-048",
+      "desc": "조력자 뷔페 황금가죽 과업 통제자 전투 시작 시",
+      "dlg": "... Mata yang penuh dengan keserakahan. Ini bukan pengikutku."
+    },
+    {
+      "id": "10SV-049",
+      "desc": "조력자 뷔페 울부짖는 자와 전투 시작 시",
+      "dlg": "Apakah kamu menangis karena aku...? Karena aku... menyakiti Wriggley...?"
+    },
+    {
+      "id": "10SV-101",
+      "desc": "통제자 스테이지 시작 시 (개전)",
+      "dlg": "Ah... Tidak akan kubiarkan tanggung jawab sebagai Manajer Lantai menghalangi keserakahanku lagi. WAKTUNYA MEWUJUDKAN KEINGINAN."
+    },
+    {
+      "id": "10SV-102",
+      "desc": "통제자 2페이즈 1턴 시작 시 (잡몹 소환 속도 증가)",
+      "dlg": "Saatnya merilis seluruh stok. MEMPERCEPAT KECEPATAN KERJA."
+    },
+    {
+      "id": "10SV-103",
+      "desc": "통제자 148805 스킬 사용 (잡몹 4개 소환)",
+      "dlg": "Saatnya mulai bekerja. TAHANAN DITUGASKAN."
+    },
+    {
+      "id": "10SV-104",
+      "desc": "통제자 148803 스킬 사용 (잡몹 회수)",
+      "dlg": "DIPENJARA KEMBALI."
+    },
+    {
+      "id": "10SV-105",
+      "desc": "통제자 148806 스킬 사용 (광역기, 잡몹 소환)",
+      "dlg": "Keluarlah, semuanya. PENGISIAN ULANG PERSONEL."
+    },
+    {
+      "id": "10SV-106",
+      "desc": "통제자 148807 스킬 사용 (기믹 수행 실패 처벌)",
+      "dlg": "PELANGGARAN PERATURAN TERKONFIRMASI."
+    },
+    {
+      "id": "10SV-107",
+      "desc": "통제자 전투 패배",
+      "dlg": "Jantung pemilik sebelumnya telah berhenti berdetak. KEPEMILIKAN DIALIHKAN."
+    },
+    {
+      "id": "10SV-108",
+      "desc": "절제공 베르트랑 스테이지 시작 시 (개전)",
+      "dlg": "Aku akan menarik kembali tabir yang menyelubungi berhala palsu para Rouge."
+    },
+    {
+      "id": "10SV-109",
+      "desc": "절제공 베르트랑 필살기1(150605) 첫번째 사용 시",
+      "dlg": "Perhatikanlah, aku menyatakan tanah ini sebagai tempat suci yang diberkati. Ia akan bersinar dengan radian."
+    },
+    {
+      "id": "10SV-110",
+      "desc": "절제공 베르트랑 5턴 시작 시 (잡몹 소환)",
+      "dlg": "Bertindaklah sebagaimana perintah aturan."
+    },
+    {
+      "id": "10SV-111",
+      "desc": "절제공 베르트랑 필살기1(150605) 두번째 사용 시",
+      "dlg": "Penghakiman atas dirimu."
+    },
+    {
+      "id": "10SV-112",
+      "desc": "절제공 베르트랑 2페이즈 시작 시",
+      "dlg": "Kau masih mau memberikan dukungan pada perubahan menjijikkan itu?"
+    },
+    {
+      "id": "10SV-113",
+      "desc": "절제공 베르트랑 2페이즈 4턴 시작 시 (잡몹들 소환됨)",
+      "dlg": "Kau harus menegakkan aturan.\nKau harus menepati sumpahnya."
+    },
+    {
+      "id": "10SV-114_A",
+      "desc": "절제공 베르트랑 아군 격려",
+      "dlg": "Dan Tuhan berfirman:"
+    },
+    {
+      "id": "10SV-114_B",
+      "desc": "절제공 베르트랑 아군 격려",
+      "dlg": "Engkau harus mengikuti cahaya."
+    },
+    {
+      "id": "10SV-115",
+      "desc": "절제공 베르트랑 필살기1(150605) 스킬 사용 시",
+      "dlg": "Atas kehendak Dewa Obsidian,\nakan kubawa pembalasan-Nya ke atas dirimu!"
+    },
+    {
+      "id": "10SV-116",
+      "desc": "절제공 베르트랑 필살기2(150608, 150609) 스킬 사용 시",
+      "dlg": "Dengan setiap hantaman, kuputuskan kedatanganmu!"
+    },
+    {
+      "id": "10SV-117_A",
+      "desc": "절제공 베르트랑 못 소환 (평타)",
+      "dlg": "Saksikanlah dalam keheningan."
+    },
+    {
+      "id": "10SV-117_B",
+      "desc": "절제공 베르트랑 못 소환 (평타)",
+      "dlg": "Aku akan menegakkan paku itu."
+    },
+    {
+      "id": "10SV-118",
+      "desc": "절제공 베르트랑 뷔페 사망 시 (전투 패배 시)",
+      "dlg": "Akhirnya, tak ada yang akan terlahir, pun tak ada yang berkurang. Keabadian akan tiba... ke dalam pusat perbelanjaan."
+    },
+    {
+      "id": "10SV-038_a_1",
+      "desc": "조력자 뷔페 스킬1 (강화) 1타",
+      "dlg": "Kembalilah..."
+    },
+    {
+      "id": "10SV-038_a_2",
+      "desc": "조력자 뷔페 스킬1 (강화) 2타",
+      "dlg": "... ke dalam tanah."
+    },
+    {
+      "id": "10SV-039_2",
+      "desc": "조력자 뷔페 스킬2 2타",
+      "dlg": "Jangan mendekat..."
+    },
+    {
+      "id": "10SV-040",
+      "desc": "조력자 뷔페 스킬2 (강화) 2타",
+      "dlg": "Jangan mendekat..."
+    },
+    {
+      "id": "10SV-044_a_1",
+      "desc": "조력자 뷔페 스킬6 (필살기) 1타",
+      "dlg": "Orang-orang asing itu kuat..."
+    },
+    {
+      "id": "10SV-044_a_2",
+      "desc": "조력자 뷔페 스킬6 (필살기) 2타",
+      "dlg": "Aku belajar dari mereka."
+    },
+    {
+      "id": "10SV-044_a_3",
+      "desc": "조력자 뷔페 스킬6 (필살기) 3타",
+      "dlg": " Jadi aku juga kuat."
+    },
+    {
+      "id": "10SV-044_b_1",
+      "desc": "조력자 뷔페 스킬6 (필살기) 1타",
+      "dlg": "Kau tidak bisa menghentikanku."
+    },
+    {
+      "id": "10SV-044_b_2",
+      "desc": "조력자 뷔페 스킬6 (필살기) 2타",
+      "dlg": "Aku harus..."
+    },
+    {
+      "id": "10SV-044_b_3",
+      "desc": "조력자 뷔페 스킬6 (필살기) 3타",
+      "dlg": "... naik lebih tinggi."
+    },
+    {
+      "id": "10SV-150-01",
+      "desc": "스킬 149503 사용 시 (※ 조금 강한 스킬)",
+      "dlg": "Courez."
+    },
+    {
+      "id": "10SV-150-02",
+      "desc": "스킬 149503 사용 시 (※ 조금 강한 스킬)",
+      "dlg": "Fuseaux."
+    },
+    {
+      "id": "10SV-150-03",
+      "desc": "스킬 149503 사용 시 (※ 조금 강한 스킬)",
+      "dlg": "Reprends."
+    },
+    {
+      "id": "10SV-151-02",
+      "desc": "스킬 149504 사용 시 (※ 강력한 스킬)",
+      "dlg": "Bawakan kepadaku mereka yang terjerat,"
+    },
+    {
+      "id": "10SV-151-03",
+      "desc": "스킬 149504 사용 시 (※ 강력한 스킬)",
+      "dlg": "yang tangguh..."
+    },
+    {
+      "id": "10SV-151-04",
+      "desc": "스킬 149504 사용 시 (※ 강력한 스킬)",
+      "dlg": "dan akan kujejak/kusatukan mereka semua."
+    },
+    {
+      "id": "10SV-152_a-01",
+      "desc": "스킬 149505 사용 시 (※ 기믹형 스킬, 대상에게 가위 표식 꽂을 예정)",
+      "dlg": "Cintre."
+    },
+    {
+      "id": "10SV-152_a-02",
+      "desc": "스킬 149505 사용 시 (※ 기믹형 스킬, 대상에게 가위 표식 꽂을 예정)",
+      "dlg": "Pique!"
+    },
+    {
+      "id": "10SV-152_b-01",
+      "desc": "스킬 149505 사용 시 (※ 기믹형 스킬, 대상에게 가위 표식 꽂을 예정)",
+      "dlg": "Mari kita menjahit mengikuti..."
+    },
+    {
+      "id": "10SV-152_b-02",
+      "desc": "스킬 149505 사용 시 (※ 기믹형 스킬, 대상에게 가위 표식 꽂을 예정)",
+      "dlg": "garis tepi kain."
+    },
+    {
+      "id": "10SV-153-a-04",
+      "desc": "스킬 149506 사용 시 (※ 기믹형 강력한 스킬, 가위 표식 보유한 대상에게 강력한 스킬 사용)",
+      "dlg": "Guntingku akan memotong di sekitar..."
+    },
+    {
+      "id": "10SV-153-a-05",
+      "desc": "스킬 149506 사용 시 (※ 기믹형 강력한 스킬, 가위 표식 보유한 대상에게 강력한 스킬 사용)",
+      "dlg": "... mata penuh hasrat yang membara itu."
+    },
+    {
+      "id": "10SV-153_b-04",
+      "desc": "스킬 149506 사용 시 (※ 기믹형 강력한 스킬, 가위 표식 보유한 대상에게 강력한 스킬 사용)",
+      "dlg": "Rassemble."
+    },
+    {
+      "id": "10SV-153_b-05",
+      "desc": "스킬 149506 사용 시 (※ 기믹형 강력한 스킬, 가위 표식 보유한 대상에게 강력한 스킬 사용)",
+      "dlg": "Surfile à la chaîne!"
+    },
+    {
+      "id": "10SV-154",
+      "desc": "턴 시작 시 이번 전투에서 처음으로 대형 재단 가위를 얻었을 때",
+      "dlg": "Di sinilah tempat pakaian diubah dan dirapikan."
+    },
+    {
+      "id": "10SV-155",
+      "desc": "턴 시작 시 이번 전투에서 처음으로 대형 재단 가위가 3이 될 때",
+      "dlg": "Bisa apa saja. Aku hanya ingin menggunting-ngunting..."
+    },
+    {
+      "id": "battle_s2_10917_1_1",
+      "desc": "교전 뷰 상태에서 합 승리하여 2번 스킬 사용 시",
+      "dlg": "Pique."
+    },
+    {
+      "id": "battle_s2_10917_1_2",
+      "desc": "교전 뷰 상태에서 합 승리하여 2번 스킬 사용 시",
+      "dlg": "Reprends!"
+    },
+    {
+      "id": "battle_s3_10917_1_a_1",
+      "desc": "교전 뷰 상태에서 합 승리하여 3번 스킬 사용 시",
+      "dlg": "Courez, fuseaux!"
+    },
+    {
+      "id": "battle_s3_10917_1_b_1",
+      "desc": "교전 뷰 상태에서 합 승리하여 3번 스킬 사용 시",
+      "dlg": "Bawakan kepadaku mereka yang terjerat,"
+    },
+    {
+      "id": "battle_s3_10917_1_b_1-01",
+      "desc": "교전 뷰 상태에서 합 승리하여 3번 스킬 사용 시",
+      "dlg": "Bawakan kepadaku mereka yang terjerat,"
+    },
+    {
+      "id": "battle_s3_10917_1_b_2",
+      "desc": "교전 뷰 상태에서 합 승리하여 3번 스킬 사용 시",
+      "dlg": "yang tangguh..."
+    },
+    {
+      "id": "battle_s3_10917_1_b_2-01",
+      "desc": "교전 뷰 상태에서 합 승리하여 3번 스킬 사용 시",
+      "dlg": "yang tangguh..."
+    },
+    {
+      "id": "battle_s3_10917_1_b_3",
+      "desc": "교전 뷰 상태에서 합 승리하여 3번 스킬 사용 시",
+      "dlg": "dan akan kujahit mereka semua."
+    },
+    {
+      "id": "battle_s3_10917_1_b_3-01",
+      "desc": "교전 뷰 상태에서 합 승리하여 3번 스킬 사용 시",
+      "dlg": "dan akan kujahit mereka semua."
+    },
+    {
+      "id": "battle_special_10917_1",
+      "desc": "아군을 대상으로 1번 스킬 사용",
+      "dlg": "Retouche."
+    },
+    {
+      "id": "battle_special_10917_2",
+      "desc": "1-1스킬 사용시 (적이 보유한 가위날 0 -> 1)",
+      "dlg": "Cintre."
+    },
+    {
+      "id": "battle_special_10917_3_a",
+      "desc": "1-1스킬 사용시 (적이 보유한 가위날 1 -> 2)",
+      "dlg": "Cintre. Pique!"
+    },
+    {
+      "id": "battle_special_10917_3_a-01",
+      "desc": "1-1스킬 사용시 (적이 보유한 가위날 1 -> 2)",
+      "dlg": "Cintre. Pique!"
+    },
+    {
+      "id": "battle_special_10917_3_b",
+      "desc": "1-1스킬 사용시 (적이 보유한 가위날 1 -> 2)",
+      "dlg": "Mari kita menjahit mengikuti..."
+    },
+    {
+      "id": "battle_special_10917_3_b-01",
+      "desc": "1-1스킬 사용시 (적이 보유한 가위날 1 -> 2)",
+      "dlg": "garis tepi kain!"
+    },
+    {
+      "id": "battle_special_10917_4_a",
+      "desc": "2-1스킬 사용시",
+      "dlg": "Rassemble. Surfile à la main!"
+    },
+    {
+      "id": "battle_special_10917_4_b",
+      "desc": "2-1스킬 사용시",
+      "dlg": "Guntingku akan memotong di sekitar mata penuh hasrat yang membara itu."
+    },
+    {
+      "id": "battle_special_10917_4_c",
+      "desc": "2-1스킬 사용시",
+      "dlg": "Une de plus!"
+    },
+    {
+      "id": "battle_special_10917_4_c-01",
+      "desc": "2-1스킬 사용시",
+      "dlg": "Une de plus!"
+    }
+  ]
+}
