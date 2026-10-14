@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": "battleTip_11027_1",
+      "content": "Perisai Annette Sang Pengubah hancur saat dia terkena Stagger. Cobalah menggunakan Identity Tremor atau Identity yang menyerang berkali-kali untuk menembus Perisai Annette secara lebih efisien."
+    },
+    {
+      "id": "battleTip_11027_2",
+      "content": "Aksi Bertahan mungkin lebih aman daripada menyerang saat Annette menggunakan Skill spesialnya melawan Target Perubahan."
+    },
+    {
+      "id": "battleTip_11028_1",
+      "content": "Jaga agar SP tetap terkendali untuk menghindari masuk ke kondisi Panic."
+    },
+    {
+      "id": "battleTip_11028_2",
+      "content": "Manfaatkan sekutu yang memiliki Karangan Bunga Pendamaian Laurel dengan baik."
+    },
+    {
+      "id": "battleTip_11030_1",
+      "content": "Pengawas mengonsumsi HP miliknya sendiri setiap kali dia memanggil Tahanan Disamak."
+    },
+    {
+      "id": "battleTip_11030_2",
+      "content": "Melanggar larangan Pengawas akan menyebabkannya membalas dengan serangan yang kuat."
+    },
+    {
+      "id": "battleTip_11031_1",
+      "content": "Bagikan Stack \"Pembalasan Apokaliptik\" ke seluruh sekutu daripada membiarkannya menumpuk pada satu unit. Jika digunakan dengan baik, ini dapat mengurangi Damage secara signifikan dari Skill tertentu."
+    },
+    {
+      "id": "battleTip_11031_2",
+      "content": "Memenangkan Clash melawan Skill \"Perjanjian\" milik Manajer Merek Le Noir dapat mengurangi Perisai yang didapatkannya dari \"Revelation\" secara drastis."
+    },
+    {
+      "id": "battleTip_11032_1",
+      "content": "Jika kamu terkena Skill \"Terlalu jelas jahitannya, katamu?! Aku akan menjahit pantatmu!\" saat menimbun banyak Stack Naildle, kamu akan masuk ke kondisi \"Ditaksidermisasi\" dan menerima Damage yang sangat fatal."
+    },
+    {
+      "id": "battleTip_11032_2",
+      "content": "Jika terdapat Needlekin yang bertahan hidup pada Turn yang sama saat Raja Needleworks menggunakan Skill kuat, mereka akan meningkatkan Damage dari Skill tersebut."
+    },
+    {
+      "id": "battleTip_11033_1",
+      "content": "Sous Chef mendapatkan \"Bahan Cincang\" dari unit yang dia bunuh. Bahan ini dikonsumsi pada akhir Turn, memberinya Stack \"Makan lezat dan semangatlah, kau dengar?\".\n\nSemakin banyak Stack yang didapatkannya, makin kuat dan sering serangan kuatnya, \"Hasil karya pisauku, kau dengar?\", dikeluarkan."
+    },
+    {
+      "id": "battleTip_11033_2",
+      "content": "Leather Wallet bukanlah pengecualian dalam hal pengumpulan bahan masakan Sous Chef. Kamu tidak bisa menghentikan aktivitas kuliner ini hanya dengan bermain bertahan."
+    },
+    {
+      "id": "battleTip_11033_3",
+      "content": "Ketika Sous Chef gagal membunuh target apa pun, dia akan mendapatkan Stack \"Punya nafsu makan, kau dengar?\". \nPada 3 Stack, dia akan menggunakan Skill kuat <i>lainnya</i>. Memaafkan dan membiarkannya terus memasak sesekali bisa menjadi ide yang bagus."
+    },
+    {
+      "id": "battleTip_11034_1",
+      "content": "Terkadang, melakukan Clash melawan Skill tertentu milik Manajer Lantai menggunakan Skill Serangan kamu bisa menjadi ide yang buruk."
+    },
+    {
+      "id": "battleTip_11034_2",
+      "content": "Terlalu waspada dan membiarkan diri menumpuk 10 Stack \"Waspada Menjaga\" dapat berisiko memancing Skill kuat milik Manajer Lantai.\nPerhatikan agar \"Waspada Menjaga\" tidak mencapai 10 Stack. Kamu juga bisa memilih untuk kalah dalam Clash melawan Skill tertentu untuk menghapus Stack tersebut."
+    },
+    {
+      "id": "battleTip_11034_3",
+      "content": "Jika kamu memiliki \"Terima Kasih Telah Mendengarkan\", mungkin kamu sebaiknya menahan seranganmu untuk sementara waktu."
+    },
+    {
+      "id": "battleTip_11038_1",
+      "content": "Stack \"Kekusutan\" yang lebih tinggi meningkatkan Damage yang diterima dan menurunkan Power. Pada 15+ Stack, Skill tertentu dapat memaksa Stagger saat mengenai target. Gunakan Skill Defense atau lakukan Clash melawan \"Pembersihan\" untuk menjaga \"Kekusutan\" tetap terkendali."
+    },
+    {
+      "id": "battleTip_11038_2",
+      "content": "\"Kolam Air Hitam\" hanya hilang sekali per Skill ketika diserang. Skill dengan Atk Weight tinggi adalah cara paling efisien untuk menghapusnya sekaligus."
+    },
+    {
+      "id": "battleTip_11038_3",
+      "content": "Skill \"Jurang Kemautan,\" milik Benang Hitam dari Laut Elden, memberikan Damage yang hampir mematikan jika target terkena Stagger atau memiliki 20+ \"Kekusutan\". Skill ini dapat di-Clash tanpa memedulikan Speed, jadi jaga Stack \"Kekusutan\" di bawah 20 dan selalu cegah serangan ini ketika ada Pendosa yang terancam."
+    },
+    {
+      "id": "battleTip_11040_1",
+      "content": "Menjaga Speed Putty tetap terkendali adalah kunci dari pertarungan ini."
+    },
+    {
+      "id": "battleTip_11040_2",
+      "content": "Kelola Count Charge dengan hati-hati agar Coin tidak menjadi Unbreakable."
+    }
+  ]
+}
