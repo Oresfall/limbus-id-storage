@@ -1,0 +1,42 @@
+{
+  "dataList": [
+    {
+      "id": 1109,
+      "panicName": "Sakit Tak Terlupakan",
+      "lowMoraleDescription": "Peroleh 3 [Protection]",
+      "panicDescription": "Peroleh 5 [Protection]",
+      "flavor": "... Sakit. Mereka mencabik-cabikku. Tapi sekarang mereka melindungiku. Aneh. Aku menyukainya sekarang. Tapi aku masih takut mereka akan menyakitiku lagi..."
+    },
+    {
+      "id": 1113,
+      "panicName": "Duka Seorang Anak",
+      "lowMoraleDescription": "- Moral Rendah\n- Pada Penggunaan Skill, <color=#ff6000><mark=#ff000040><b><u>jika Pwie target utamanya, Clash Power +3, Base Power +2</u></b></mark></color>\n- Ketika diserang, beri 1 [TangleBlackYarn] (3 kali per Skill)",
+      "panicDescription": "- <color=#ff6000><mark=#ff000040><b><u>Semua Serangan menarget Pwie</u></b></mark></color>\n- Awal Pertempuran: Ubah semua Coin Skill menjadi <color=#ff6000><mark=#ff000040><b><u>Unbreakable Coins</u></b></mark></color>\n- Pada Penggunaan Skill, <color=#ff6000><mark=#ff000040><b><u>jika Pwie target utamanya, Clash Power +6, Base Power +4</u></b></mark></color>\n- Ketika diserang, beri 1 [TangleBlackYarn] (6 kali per Skill)",
+      "flavor": "Ia mengamuk, berduka, dan melolong, tapi emosi ini adalah karmanya. Kelahiran pasti berakhir dengan kematian, dan ia membuai telur tanpa mengetahui bahwa melahirkan sesuatu berarti menerima beban kehilangan yang lebih besar.\nTiada kebaikan atau kejahatan dalam hal ini, hanyalah kebodohan."
+    },
+    {
+      "id": 1110,
+      "panicName": "Tangan Gemetar",
+      "lowMoraleDescription": "- Terima +7.5% damage\n- Setiap kali unit ini diserang, peroleh +1 Count [Vibration] (sekali per Skill, maks 5 per giliran)",
+      "panicDescription": "- Terima +15% damage\n- Setiap kali unit ini diserang, peroleh 1 Potency [Vibration] dan +1 Count [Vibration] (sekali per Skill, maks 5 per giliran)"
+    },
+    {
+      "id": 1115,
+      "panicName": "Mesin Macet",
+      "lowMoraleDescription": "Skill beri -5% damage terhadap musuh dengan Speed lebih lambat dari unit ini",
+      "panicDescription": "Skill beri -10% damage terhadap musuh dengan Speed lebih lambat dari unit ini"
+    },
+    {
+      "id": 1112,
+      "panicName": "Pengawasan Nonaktif",
+      "lowMoraleDescription": "- Final Power Skill +1\n- Awal Giliran: Beri 1 [Reduction] ke semua kawan lain",
+      "panicDescription": "- Final Power Skill +1\n- Awal Giliran: Beri 1 [Reduction] dan 1 [AttackDmgDown] ke semua kawan lain"
+    },
+    {
+      "id": 1111,
+      "panicName": "Menuju Cangkang Pertama...",
+      "lowMoraleDescription": "Offense Level -2, Defense Level +2",
+      "panicDescription": "Offense Level -3, Defense Level +4"
+    }
+  ]
+}
