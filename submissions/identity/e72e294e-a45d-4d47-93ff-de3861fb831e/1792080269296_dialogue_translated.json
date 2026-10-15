@@ -1,0 +1,154 @@
+{
+  "dataList": [
+    {
+      "id": "get_11016_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Kenangan. Pengalaman. Kira-kira, apa ya yang bisa jadi bukti kalau \"aku\" ini ada?\nAku sudah mendaki sekali lagi untuk mencari jawaban yang tak bisa diberikan siapa pun kepadaku."
+    },
+    {
+      "id": "lobby_morning_11016_1",
+      "desc": "Morning Greeting",
+      "dlg": "Satu musim bermula lagi, dan tak lama kemudian, musim itu pun berakhir. Lalu ketika satu musim berakhir, musim yang lain dimulai.\nMusim demi musim berganti, kejadian di dalamnya tetap sama saja; tapi sebenarnya, mereka terjebak dalam siklus yang lebih besar: siklus Suara—atau lebih tepatnya, para \"Raksasa.\""
+    },
+    {
+      "id": "lobby_noon_11016_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Kupikir cahaya matahari, Suara asing itu... memegang jawaban atas pertanyaanku. Tapi... cahaya matahari itu tak memberiku jawaban, melainkan hanya memberikan dorongan semangat saja...\nMungkin aku belum punya hal yang benar-benar... kuinginkan..."
+    },
+    {
+      "id": "lobby_night_11016_1",
+      "desc": "Evening Greeting",
+      "dlg": "Diskon... akhir musim...? Tapi kenapa barang-barang ini ditumpuk di sini? Aku nggak ngerti.\nKalau nggak laku, ya tinggal dimakan saja. Mulai dari piring yang paling dekat, terus lanjut ke piring berikutnya sampai nggak tersisa."
+    },
+    {
+      "id": "smalltalk_11016_1",
+      "desc": "Chatter #1",
+      "dlg": "Melihat semuanya terungkap persis seperti yang sudah kutahu rasanya... sungguh perasaan yang menakutkan. Jadi, kenapa Dewa Obsidian terus berusaha menentukan bagaimana segalanya harus berakhir? Apa gunanya siklus hampa... yang cuma berputar di tempat...?"
+    },
+    {
+      "id": "smalltalk_11016_2",
+      "desc": "Chatter #2",
+      "dlg": "... Semakin lama petualangan ini berjalan, semakin aku menemukan kata-kata dan ungkapan yang nggak bisa kubagi ke orang lain. Dan bahkan saat aku melakukannya, mereka sepertinya nggak paham maksudku.\nMungkin itu sebabnya aku jadi semakin sering ngobrol sendirian. Setidaknya rasa laparku sedikit mereda kalau aku sedang mengunyah sesuatu."
+    },
+    {
+      "id": "smalltalk_11016_3",
+      "desc": "Chatter #3",
+      "dlg": "Kenapa segalanya harus berakhir dengan kematian? Kenapa kita nggak bisa mulai dari awal lagi? Aku... nggak paham. Aku nggak suka.\nKenapa kita nggak bisa mulai ulang setelah mati? Dengan begitu, kita nggak perlu ragu-ragu lagi sebelum membuat pilihan... Dengan begitu, kita bisa terus merasakan..."
+    },
+    {
+      "id": "smalltalk_11016_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Saat aku menyingkap lebih banyak lagi bagian dari dunia yang tak dikenal, rasa dingin itu surut ke sudut pikiranku yang tak terlihat; rasa lapar di balik kesadaranku sirna seiring rongga di hatiku yang terisi.\nTapi sekarang setelah aku mempelajari semua yang bisa dipelajari... yang kurasakan hanya rasa dingin... dan kesepian."
+    },
+    {
+      "id": "smalltalk_11016_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Kekosongan yang tak terpuaskan ini... kehausan yang tak terpadamkan ini... Tak satu pun dari hal ini adalah milikku, tapi aku tak bisa menepis perasaan kalau ini memang milikku.\nSetiap benang yang menyusun keberadaanku adalah... sebuah harapan orang lain, yang terpaku ke dalam rasa lapar ini. Kalau begitu, kerakusan yang instan dan tak tertahankan ini pastinya... sudah jadi sifatku, takdir yang harus kutanggung."
+    },
+    {
+      "id": "neglect_11016_1",
+      "desc": "Idle",
+      "dlg": "Lepaskan hanya benang yang paling lembut... Tumbuhlah tinggi dan kuat..."
+    },
+    {
+      "id": "gacksung_11016_1",
+      "desc": "Uptying",
+      "dlg": "Pada akhirnya, Prasmanan telah disajikan. Kami—aku—akan melahap pusat perbelanjaan ini dari fondasi hingga puncaknya, supaya tidak ada di antara kalian yang harus mengikis piring kosong lagi."
+    },
+    {
+      "id": "formation_11016_1",
+      "desc": "Deployment",
+      "dlg": "Aku nggak boleh berhenti kalau ingin mencapai apa yang kuinginkan."
+    },
+    {
+      "id": "battleentry_11016_1",
+      "desc": "Stage Entry",
+      "dlg": "Aku mengenakan kebajikan-kebajikan ini dan bangkit."
+    },
+    {
+      "id": "battle_select_11016_1",
+      "desc": "Viewed in Battle 1",
+      "dlg": "... Kenapa kamu memanggilku?"
+    },
+    {
+      "id": "battle_select_11016_2",
+      "desc": "Viewed in Battle 2",
+      "dlg": "... Jika kamu punya pertanyaan, angkat tanganmu dan tunggu. Aku akan menjawabnya satu per satu."
+    },
+    {
+      "id": "battle_endcommand_11016_1",
+      "desc": "Commencing Attack 1",
+      "dlg": "Aku nggak bisa menghentikan diriku lagi."
+    },
+    {
+      "id": "battle_endcommand_11016_2",
+      "desc": "Commencing Attack 2",
+      "dlg": "Tumpahkanlah."
+    },
+    {
+      "id": "battle_enemy_break_11016_1",
+      "desc": "Enemy Staggered 1",
+      "dlg": "Bergeraklah..."
+    },
+    {
+      "id": "battle_enemy_break_11016_2",
+      "desc": "Enemy Staggered 2",
+      "dlg": "Aku minum saat tenggorokanku terbakar penuh akan haus."
+    },
+    {
+      "id": "battle_break_11016_1",
+      "desc": "Staggered 1",
+      "dlg": "Ini menyakitkan..."
+    },
+    {
+      "id": "battle_break_11016_2",
+      "desc": "Staggered 2",
+      "dlg": "Ini menyakitkan..."
+    },
+    {
+      "id": "battle_kill_11016_1",
+      "desc": "On Kill 1",
+      "dlg": "... Jatuhlah kau sampai ke dasarnya."
+    },
+    {
+      "id": "battle_kill_11016_2",
+      "desc": "On Kill 2",
+      "dlg": "Aku makan saat aku lapar, tidak lebih, tidak kurang."
+    },
+    {
+      "id": "battle_dead_11016_1",
+      "desc": "Death #1",
+      "dlg": "Lain kali... aku akan... mendaki lebih tinggi..."
+    },
+    {
+      "id": "battle_dead_11016_2",
+      "desc": "Death #2",
+      "dlg": "... Aku nggak mau... merasa sakit lagi..."
+    },
+    {
+      "id": "choice_success_p_11016_2",
+      "desc": "Check Passed",
+      "dlg": "Aku kebetulan tahu jawabannya dari awal. Ini bukan... ramalan dewa atau semacamnya."
+    },
+    {
+      "id": "choice_fail_n_11016_1",
+      "desc": "Check Failed",
+      "dlg": "Tidak ada cara yang lebih baik untuk keluar dari takdir kita."
+    },
+    {
+      "id": "battle_clear_11016_1",
+      "desc": "Victory Cry",
+      "dlg": "Aku adalah wujud yang ditenun dari benang-benang kelaparan yang tak berdasar... \"Pesta\" sepele ini nggak bisa memuaskanku.\nBawakan aku lebih banyak lagi. Cari hidangan lezat Dewa Obsidian dan persembahkan di hadapanku—aku ingin melahap segala hal yang ada dalam jangkauan pandanganku."
+    },
+    {
+      "id": "battle_clear_ex_11016_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Camkan baik-baik, Dewa Obsidian. Pada akhir petualangan ini... aku <i>pasti</i> akan melepaskan diri dari takdirku seperti yang telah kaulihat."
+    },
+    {
+      "id": "battle_defeat_11016_1",
+      "desc": "Defeat Wail",
+      "dlg": "... Aku kembali menjadi sekadar pengalaman. Aku tetaplah tidak lebih dari sebuah pengalaman yang melahap dengan rakus..."
+    }
+  ]
+}
