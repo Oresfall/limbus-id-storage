@@ -1,0 +1,795 @@
+{
+  "datalist": [
+    {
+      "id": 1101601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Pulsion",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +5 Count [ChargeRougeAlly]\n- Jika target adalah kawan, peroleh tambahan +5 Count [ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Jika target adalah kawan, beri efek berikut (2 kali per giliran):\n- Target memulihkan 10% HP\n  · Jika target adalah kawan \"Le Rouge\", konsumsi 20% dari maks HP-nya dan beri 2 [ResultEnhancement] saja\n- Target memulihkan 10 SP\n  · Jika target memiliki SP maks, beri +4 Count [Charge] saja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "La Pulsion",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Clash Power +1 untuk setiap 4 [Laceration] pada target (maks 2)</style>\n[WhenUse] Peroleh +5 Count [ChargeRougeAlly]\n- Jika target adalah kawan, peroleh tambahan +5 Count [ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Jika target adalah kawan, beri efek berikut (2 kali per giliran):\n- Target memulihkan 10% HP\n  · Jika target adalah kawan \"Le Rouge\", konsumsi 20% dari maks HP-nya dan beri 2 [ResultEnhancement] saja\n- Target memulihkan 10 SP\n  · Jika target memiliki SP maks, beri +4 Count [Charge] saja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Pulsion",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Peroleh +(Potency [ChargeRougeAlly] pada diri sendiri - 1) Atk Weight (maks 2)\n- Prioritaskan kawan \"Le Rouge\" sebagai sub-target; dipilih berdasarkan urutan naik dari persentase HP</style>\n\n[WhenUse] Clash Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh +5 Count [ChargeRougeAlly]\n- Jika target adalah kawan, peroleh tambahan +5 Count [ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Jika target adalah kawan, beri efek berikut (2 kali per giliran):\n- Target memulihkan <style=\"highlight\">(10 + Potency [ChargeRougeAlly] pada diri sendiri)% HP (maks 15%)</style>\n  · Jika target adalah kawan \"Le Rouge\", konsumsi 20% dari maks HP-nya dan beri 2 [ResultEnhancement] saja\n- Target memulihkan <style=\"highlight\">(10 + Potency [ChargeRougeAlly] pada diri sendiri) SP (maks 15)</style>\n  · Jika target memiliki SP maks, beri +4 Count [Charge] saja"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Je vous aide",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense\n\nKetika di status [BuffetSinclair], beri +50% damage\n[WhenUse] Peroleh 5 [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Je vous aide",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense\n\nKetika di status [BuffetSinclair], beri +50% damage\n<style=\"highlight\">[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 4)</style>\n[WhenUse] Peroleh 5 [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je vous aide",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense\n\nKetika di status [BuffetSinclair], beri +50% damage\n<style=\"highlight\">Beri +5% damage untuk setiap 1% HP yang hilang pada target (maks 100%)</style>\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 4)\n[WhenUse] Peroleh 5 [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [ScarletTakeDamageUp] (sekali per giliran)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101606,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Je m'expulse",
+          "desc": "Skill Eksklusif [TransformSinclair]\n[WhenUse] Peroleh +3 Count [ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je m'expulse",
+          "desc": "Skill Eksklusif [TransformSinclair]\n<style=\"highlight\">[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Peroleh +3 Count [ChargeRougeAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 2 [BoneNailSinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "L'Appétit",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +3 Count [ChargeRougeAlly]\n[WhenUse] Jika target adalah kawan, akhiri Skill setelah mengaktifkan efek Coin 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Jika target adalah kawan, beri efek berikut:\n- Beri 1 [BuffetThirst]\n- Jika target adalah [PersonalityCharge], beri +4 Count [Charge]\n- Jika target adalah kawan \"Le Rouge\", konsumsi 10% dari maks HP-nya dan beri 2 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "L'Appétit",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Clash Power +1 untuk setiap 3 Count [ChargeRougeAlly] pada diri sendiri (maks 3)</style>\n[WhenUse] Peroleh +3 Count [ChargeRougeAlly]\n[WhenUse] Jika target adalah kawan, akhiri Skill setelah mengaktifkan efek Coin 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Jika target adalah kawan, beri efek berikut:\n- Beri 1 [BuffetThirst]\n- Jika target adalah [PersonalityCharge], beri +4 Count [Charge]\n- Jika target adalah kawan \"Le Rouge\", konsumsi 10% dari maks HP-nya dan beri 2 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "L'Appétit",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRougeAlly] pada diri sendiri (maks 2)\n- Prioritaskan kawan \"Le Rouge\" sebagai sub-target; dipilih berdasarkan urutan menurun berdasarkan persentase HP</style>\n\n[WhenUse] Clash Power +1 untuk setiap 3 Count [ChargeRougeAlly] pada diri sendiri (maks 3)\n[WhenUse] Peroleh +3 Count [ChargeRougeAlly]\n[WhenUse] Jika target adalah kawan, akhiri Skill setelah mengaktifkan efek Coin 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Jika target adalah kawan, beri efek berikut:\n- Beri <style=\"highlight\">1 [ParryingResultUp] and</style> 1 [BuffetThirst]\n- Jika target adalah [PersonalityCharge], beri +4 Count [Charge]\n- Jika target adalah kawan \"Le Rouge\", konsumsi 10% dari maks HP-nya dan beri 2 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101607,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Je m'abjecte",
+          "desc": "Skill Eksklusif [TransformSinclair]\n[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1\n\n[BeforeAttack] Konsumsi 15% dari maks HP mereka pada 2 kawan lainnya\n- Prioritaskan kawan \"Le Rouge\"; dipilih berdasarkan urutan menurun dari HP saat ini\n- Beri +15% damage untuk setiap kawan yang HP-nya dikonsumsi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]\n- Ketika di status [BuffetSinclair], beri 2 [BoneNailSinclair] saja"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ScarletTakeDamageUp] (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je m'abjecte",
+          "desc": "Skill Eksklusif [TransformSinclair]\n<style=\"highlight\">[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1\n\n[BeforeAttack] Konsumsi 15% dari maks HP mereka pada 2 kawan lainnya\n- Prioritaskan kawan \"Le Rouge\"; dipilih berdasarkan urutan menurun dari HP saat ini\n- Beri +15% damage untuk setiap kawan yang HP-nya dikonsumsi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]\n- Ketika di status [BuffetSinclair], beri 2 [BoneNailSinclair] saja"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ScarletTakeDamageUp] (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101608,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "La Demande",
+          "desc": "[CantDuel]\nSkill Eksklusif [TransformSinclair]\nSkill ini tidak mengaktifkan Skill Defense\n\nBeri +5% damage untuk setiap 3 [Laceration] pada target (maks 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hilangkan semua [BoneNailSinclair] pada target and beri 1 [ScarletTakeDamageUp] giliran berikutnya (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Demande",
+          "desc": "[CantDuel]\nSkill Eksklusif [TransformSinclair]\nSkill ini tidak mengaktifkan Skill Defense\n\nBeri +5% damage untuk setiap 3 [Laceration] pada target (maks 30%)\n<style=\"highlight\">[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hilangkan semua [BoneNailSinclair] pada target and beri <style=\"highlight\">2</style> [ScarletTakeDamageUp] giliran berikutnya (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Baptême rouge",
+          "desc": "[StartBattle] Konsumsi 15% dari maks HP mereka pada 2 kawan lainnya dan beri 3 [AttackUp]\n- Dipilih berdasarkan urutan menurun dari HP kawan saat ini yang memiliki 50%+ HP\n- kawan \"Le Rouge\":\n  · Diprioritaskan selama mereka memiliki 2+ HP\n  · Konsumsi 25% HP daripada 15%; beri tambahan 1 [Enhancement]\n\n[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1\n\n[WhenUse] Ketika di status [BuffetSinclair], ubah semua Coin menjadi [SuperCoin]\n- Pada 10+ Count [ChargeRougeAlly], konsumsi hingga 10 Count [ChargeRougeAlly] untuk peroleh +2 Atk Weight dan Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Baptême rouge",
+          "desc": "[StartBattle] Konsumsi 15% dari maks HP mereka pada 2 kawan lainnya dan beri 3 [AttackUp]\n- Dipilih berdasarkan urutan menurun dari HP kawan saat ini yang memiliki 50%+ HP\n- kawan \"Le Rouge\":\n  · Diprioritaskan selama mereka memiliki 2+ HP\n  · Konsumsi 25% HP daripada 15%; beri tambahan 1 [Enhancement]\n\n<style=\"highlight\">[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)</style>\n[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1\n\n[WhenUse] Ketika di status [BuffetSinclair], ubah semua Coin menjadi [SuperCoin]\n- Pada 10+ Count [ChargeRougeAlly], konsumsi hingga 10 Count [ChargeRougeAlly] untuk peroleh +2 Atk Weight dan Coin Power +1\n<style=\"highlight\">[WhenUse] Beri +50% damage untuk setiap Atk Weight berlebih di atas # target sebenarnya (di Pertemuan Terfokus, Bagian)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Peroleh 3 [HungrySinclair]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Peroleh 3 [HungrySinclair]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Peroleh 3 [HungrySinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101609,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Manque-à-être",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nEfek Eksternal tidak dapat aktifkan Skill ini untuk Digunakan Ulang\n\n[WhenUse] Peroleh 5 [Binding] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Target pulih dari Stagger"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Manque-à-être",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nEfek Eksternal tidak dapat aktifkan Skill ini untuk Digunakan Ulang",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Target pulih dari Stagger"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndCoin] Pulihkan HP target sebanyak 15% dari maks HP target</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101610,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "La Voracité",
+          "desc": "Skill Eksklusif [TransformSinclair]\nAwal Giliran: Pada 150 [HungrySinclair], ubah Skill ini dengan \"La Castration\" (sekali per giliran)\n\n[WhenUse] Ketika di status [BuffetSinclair], ubah semua Coin menjadi [SuperCoin]\n- Pada 10+ Count [ChargeRougeAlly], konsumsi hingga 10 Count [ChargeRougeAlly] untuk peroleh +2 Atk Weight dan Coin Power +1\n\n[BeforeAttack] Konsumsi 15% dari maks HP mereka pada 3 kawan lainnya\n- Prioritaskan kawan \"Le Rouge\"; dipilih berdasarkan urutan menurun dari HP saat ini\n- Beri +10% damage untuk setiap kawan yang HP-nya dikonsumsi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika ia target utamanya, beri 1 tambahan [BoneNailSinclair] untuk setiap Atk Weight berlebih di atas # target sebenarnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Voracité",
+          "desc": "Skill Eksklusif [TransformSinclair]\nAwal Giliran: Pada 150 [HungrySinclair], ubah Skill ini dengan \"La Castration\" (sekali per giliran)\n\n<style=\"highlight\">[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1</style>\n\n[WhenUse] Ketika di status [BuffetSinclair], ubah semua Coin menjadi [SuperCoin]\n- Pada 10+ Count [ChargeRougeAlly], konsumsi hingga 10 Count [ChargeRougeAlly] untuk peroleh +2 Atk Weight dan Coin Power +1\n<style=\"highlight\">[WhenUse] Beri +50% damage untuk setiap Atk Weight berlebih di atas # target sebenarnya (di Pertemuan Terfokus, Bagian)</style>\n\n[BeforeAttack] Konsumsi 15% dari maks HP mereka pada 3 kawan lainnya\n- Prioritaskan kawan \"Le Rouge\"; dipilih berdasarkan urutan menurun dari HP saat ini\n- Beri +10% damage untuk setiap kawan yang HP-nya dikonsumsi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika ia target utamanya, beri 1 tambahan [BoneNailSinclair] untuk setiap Atk Weight berlebih di atas # target sebenarnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101611,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "La Castration",
+          "desc": "Skill Eksklusif [TransformSinclair]\n[BeforeUse] Pada kurang dari 150 [HungrySinclair], ubah Skill ini dengan \"La Voracité\"\n\n[StartBattle] Konsumsi HP pada seluruh kawan \"Le Rouge\" setara dengan 50% dari HP mereka saat ini untuk beri 3 [BuffetSinclair] pada mereka\n\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target utama (maks 2)\n[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1\n[EndSkill] Konsumsi semua [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika ia target utamanya, beri 1 tambahan [BoneNailSinclair] untuk setiap Atk Weight berlebih di atas # target sebenarnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hilangkan semua [BoneNailSinclair] pada target and beri ([BoneNailSinclair] yang dihabiskan) [ScarletTakeDamageUp] giliran berikutnya (maks 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Castration",
+          "desc": "Skill Eksklusif [TransformSinclair]\n[BeforeUse] Pada kurang dari 150 [HungrySinclair], ubah Skill ini dengan \"La Voracité\"\n\n[StartBattle] Konsumsi HP pada seluruh kawan \"Le Rouge\" setara dengan 50% dari HP mereka saat ini untuk beri 3 [BuffetSinclair] pada mereka\n\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target utama (maks 2)\n[WhenUse] Pada 3+ Potency [ChargeRougeAlly], Coin Power +1\n<style=\"highlight\">[WhenUse] Ketika di status [BuffetSinclair], Coin Power +1\n[WhenUse] Beri +50% damage untuk setiap Atk Weight berlebih di atas # target sebenarnya (di Pertemuan Terfokus, Bagian)</style>\n\n[EndSkill] Konsumsi semua [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika ia target utamanya, beri 1 tambahan [BoneNailSinclair] untuk setiap Atk Weight berlebih di atas # target sebenarnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hilangkan semua [BoneNailSinclair] pada target and beri ([BoneNailSinclair] yang dihabiskan) [ScarletTakeDamageUp] giliran berikutnya (maks 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Consume up to 15 Count [ChargeRougeAlly] pada diri sendiri and beri +(Count [ChargeRougeAlly] consumed x 3)% damage</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Fuite",
+          "desc": "[StartBattle] Jika unit ini tidak memiliki [BuffetSinclair], dan pada kurang dari 15 Count [ChargeRougeAlly], konsumsi (15 - Count [ChargeRougeAlly] saat ini)% HP untuk menaikkan Count [ChargeRougeAlly] ke 15 (sekali per giliran)\n\n[OnSucceedEvade] Peroleh +2 Count [ChargeRougeAlly] (2 kali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Fuite",
+          "desc": "[StartBattle] Jika unit ini tidak memiliki [BuffetSinclair], dan pada kurang dari 15 Count [ChargeRougeAlly], konsumsi (15 - Count [ChargeRougeAlly] saat ini)% HP untuk menaikkan Count [ChargeRougeAlly] ke 15 (sekali per giliran)\n\n[OnSucceedEvade] Peroleh +2 Count [ChargeRougeAlly] (2 kali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101612,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Garde",
+          "desc": "[CanDuelGuard]\nSkill ini dihitung sebagai <noparse>Defense Assist</noparse> hanya pada unit yang menggunakan Skill-nya\nKetika pengguna diserang selama menggunakan Skill ini, Haute Couture::Sang Dewa Lembayung Le Rouge Sinclair memperoleh 2 [HungrySinclair]\n\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101613,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Trait unaire",
+          "desc": "[DuelCounter]\nSkill Eksklusif [TransformSinclair]\n[StartBattle] Jika unit ini tidak memiliki [BuffetSinclair], dan pada kurang dari 15 Count [ChargeRougeAlly], konsumsi (15 - Count [ChargeRougeAlly] saat ini)% HP untuk menaikkan Count [ChargeRougeAlly] ke 15 (sekali per giliran)\n\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Trait unaire",
+          "desc": "[DuelCounter]\nSkill Eksklusif [TransformSinclair]\n[StartBattle] Jika unit ini tidak memiliki [BuffetSinclair], dan pada kurang dari 15 Count [ChargeRougeAlly], konsumsi (15 - Count [ChargeRougeAlly] saat ini)% HP untuk menaikkan Count [ChargeRougeAlly] ke 15 (sekali per giliran)\n\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n<style=\"highlight\">[WhenUse] Pada 3+/5+ Potency [ChargeRougeAlly], Coin Power +1/+2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Ketika di status [BuffetSinclair], beri 1 [BoneNailSinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
