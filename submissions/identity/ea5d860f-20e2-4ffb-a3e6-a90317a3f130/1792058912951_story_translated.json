@@ -1,0 +1,430 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Dalam ingatan yang kabur bagaikan mimpi,"
+    },
+    {
+      "id": 1,
+      "content": "Aku menaiki dan menuruni lantai-lantai Grand Magasin bersama yang lain di sisiku, dengan sebuah kebajikan yang kilauannya belum pudar tersampir di bahuku."
+    },
+    {
+      "id": 2,
+      "content": "Ada orang-orang yang sesekali menoleh ke belakang untuk melihatku saat aku mengikuti mereka. Terkadang, mereka bahkan berlutut agar mata kita berada di ketinggian yang sama."
+    },
+    {
+      "id": 3,
+      "content": "Saat aku berjalan bersama mereka, rasa lapar itu mereda begitu dalam ke sudut pikiranku, seolah-olah ia tidak pernah ada di sana."
+    },
+    {
+      "id": 4,
+      "content": "Namun, ketika aku mencapai ujungnya, aku memilih untuk tetap tinggal."
+    },
+    {
+      "id": 5,
+      "content": "Karena ada terlalu banyak hal yang terbentang di hadapanku. Terlalu banyak hal yang kurasa harus kuurus sendiri."
+    },
+    {
+      "id": 6,
+      "content": "Sebagaimana didikte oleh rasa lapar yang kubawa sejak lahir, sebagaimana dituntut oleh sifat alamiku, aku meraih tumpukan piring-piring itu."
+    },
+    {
+      "id": 7,
+      "content": "*kriuk*"
+    },
+    {
+      "id": 8,
+      "content": "Dan selalu, bersama suara itu, ingatan tersebut terputus."
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Terlahir \"kembali...\""
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Mungkinkah ini sesuatu yang ditinggalkan oleh cahaya matahari?"
+    },
+    {
+      "id": 11,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Bisa jadi. Dilihat dari nama di ujung sana, sih."
+    },
+    {
+      "id": 12,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Aku sama sekali tidak paham, jadi... mungkin ini tentang dunia di luar sana?"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "......."
+    },
+    {
+      "id": 14,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Bukankah kamu sendiri berasal dari \"luar\"?"
+    },
+    {
+      "id": 15,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Yah, benar juga, tapi... aku tidak begitu yakin."
+    },
+    {
+      "id": 16,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Dunia \"luar\"... rasanya sudah seperti cerita dari zaman purba sekarang. Aku bahkan tidak ingat seperti apa bentuknya."
+    },
+    {
+      "id": 17,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Oh, tapi aku ingat kalau aku punya teman, sih."
+    },
+    {
+      "id": 18,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Teman...?"
+    },
+    {
+      "id": 19,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Yah, kalian saling percaya, dan kalian selalu ada untuk satu sama lain... Mereka itu, um... Oh! \"Manusia.\" Betul sekali. Aku sedang membicarakan manusia."
+    },
+    {
+      "id": 20,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Tapi teman-temanku tidak ada di sini, dan sekarang aku punya hal lain yang lebih penting untuk diurus."
+    },
+    {
+      "id": 21,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Habisnya, aku harus membuat sesuatu yang indah—pakaian yang benar-benar bisa membuatku bahagia."
+    },
+    {
+      "id": 22,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Musim lalu kamu juga ingin membuat pakaian yang indah... dan bahkan sekarang, kamu masih menginginkan hal yang sama."
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Kenapa... kamu begitu ingin membuatnya?"
+    },
+    {
+      "id": 24,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Um... Yah, karena itu akan terasa menyenangkan! Maksudku, bisa membuat pakaian yang secantik itu."
+    },
+    {
+      "id": 25,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Lagipula, aku tidak pernah membuat pakaian secantik yang sedang kencanakan ini. Sialan, aku seumur hidup tidak akan pernah mendapat kesempatan ini kalau aku tidak datang ke pusat perbelanjaan ini!"
+    },
+    {
+      "id": 26,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Jika kamu memilih untuk mengikutiku, yaitu Suara para Rouges... Kamu bisa membuat pakaian cantik kapan pun kamu mau."
+    },
+    {
+      "id": 27,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Hmm... Kurasa begitu. Tapi kurasa itu bukan jenis \"kecantikan\" yang ada di dalam bayanganku."
+    },
+    {
+      "id": 28,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Aku lebih suka saat warna merah dan hitam dipadukan sedikit lebih erat. Ditambah sedikit warna ungu... dan sentuhan emas untuk mempermanisnya!"
+    },
+    {
+      "id": 29,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Dan setelah itu selesai, aku ingin mencoba hal lain. Sesuatu yang belum pernah kulakukan sebelumnya."
+    },
+    {
+      "id": 30,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Tapi bukankah itu akan sulit? Di sini, kamu membeli pakaian, menjualnya, membuatnya, mengenakannya... Tidak ada hal lain selain itu."
+    },
+    {
+      "id": 31,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "......."
+    },
+    {
+      "id": 32,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Meskipun hanya itu yang ada... aku tetap ingin mencoba hal lain."
+    },
+    {
+      "id": 33,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Mungkin itu bukan satu-satunya hal yang ada lagi jika aku mencoba sesuatu yang berbeda."
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Alangkah eloknya jika kita mengamankan bahan mentah pakaian kita sebelum musuh-musuh merebutnya!"
+    },
+    {
+      "id": 35,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Mari kita ingat-ingat kembali busana yang akan usang musim depan..."
+    },
+    {
+      "id": 36,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Itu tidak akan membawa perbedaan apa pun."
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Semua bahan di Grand Magasin tidak akan menolong mereka jika mereka tidak memiliki material nyata untuk dikerjakan."
+    },
+    {
+      "id": 38,
+      "content": "Membuat karya fesyen baru yang kita sukai lalu memajangnya untuk dijual tentu penting, tetapi memenangkan pelanggan baru dengan cara itu membutuhkan waktu beberapa musim."
+    },
+    {
+      "id": 39,
+      "content": "Jadi, sementara para Noirs memutar Manekin mereka ke arah pintu keluar, para Rouges tetap mendekap mereka... sebagai bahan untuk diolah."
+    },
+    {
+      "id": 40,
+      "content": "Le Noir dan Le Rouge mungkin memegang kendali atas tren di Grand Magasin. Namun pada akhirnya, mayoritaslah yang menentukan apa yang sedang tren."
+    },
+    {
+      "id": 41,
+      "content": "Oleh karena itu, dengan keunggulan jumlah di pihak para Rouges, aku hanya perlu memanfaatkan kesempatan untuk mengubah Maison du Noir di lantai tiga menjadi Boutique du Rouge."
+    },
+    {
+      "id": 42,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Tidakkah jelas apa yang sedang direncanakan oleh kaum sesat itu, saat mereka mengumpulkan pasukannya di lantai tiga?"
+    },
+    {
+      "id": 43,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Mereka pasti berniat untuk membinasakan Sang Pengubah, yang menenun baju zirah Kain Emas bagi kita."
+    },
+    {
+      "id": 44,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "Kirimkan lebih banyak pramuniaga ke lantai tiga. Pastikan lebih banyak pelanggan yang ditarik ke toko kita."
+    },
+    {
+      "id": 45,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Pertumbuhan Boutique du Rouge di lantai tiga sempat terhambat? Tidak masalah."
+    },
+    {
+      "id": 46,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Mereka seharusnya bisa bertahan setidaknya selama 2 musim, bahkan dengan meningkatnya arus pelanggan di pihak Le Noir."
+    },
+    {
+      "id": 47,
+      "content": "Meskipun ikatan erat di antara mereka tidak bisa diabaikan begitu saja, tidak semua yang memintal benang dan menenun kain bersekutu dengan Le Noir."
+    },
+    {
+      "id": 48,
+      "content": "Karena mereka pun, di bawah cucuran cahaya matahari, telah menghadapi kerinduan hakiki mereka... dan memiliki hasrat akan Keemasan."
+    },
+    {
+      "id": 49,
+      "content": "Selama mereka melihat nilai kelayakan dalam prinsip yang diperjuangkan Le Rouge, kerja sama adalah hal yang mungkin."
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Sang Pengubah adalah satu-satunya yang bisa menenun kain itu, ya..."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "... tetapi bahan apa yang dia—atau siapa pun—yang akan digunakan untuk menenun kain, jika tidak ada benang yang bisa digunakan?"
+    },
+    {
+      "id": 52,
+      "content": "Aku memanen beberapa Kulit Emas dari dinding. Barang-barang itu akan dijadikan komoditas transaksi, untuk dibawa turun ke lantai bawah oleh para Rouges yang telah mendengar Suaraku."
+    },
+    {
+      "id": 53,
+      "content": "Jika kita memutus jalur pasokan benang Le Noir, kita tidak perlu membuang tenaga untuk menyingkirkan Sang Pengubah."
+    },
+    {
+      "id": 54,
+      "content": "Selain itu, kesepakatan ini akan memberi Le Rouge sekutu baru dengan Manajer Lantai B2F."
+    },
+    {
+      "id": 55,
+      "content": "Kemenangan demi kemenangan telak mengikuti setiap langkah Le Rouge."
+    },
+    {
+      "id": 56,
+      "content": "Manajer Merek Le Noir telah mengerahkan segala cara yang ia miliki untuk memperlambat kemunculan Le Rouge,"
+    },
+    {
+      "id": 57,
+      "content": "tetapi tidak ada satupun usahanya yang melenceng dari batas prediksiku."
+    },
+    {
+      "id": 58,
+      "content": "Dan itulah sebabnya... kecemasanku justru terus bertambah seiring musim yang terus berputar."
+    },
+    {
+      "id": 59,
+      "content": "Sang Dewa Obsidian seharusnya juga mengingat apa yang terjadi sebelum Likuidasi..."
+    },
+    {
+      "id": 60,
+      "content": "Lantas, mengapa hanya berdiam diri saat kaum Noirs terdesak di posisi bertahan?"
+    },
+    {
+      "id": 61,
+      "content": "Aku tidak pernah berhasil menemukan jawaban yang memuaskan untuk pertanyaan itu..."
+    },
+    {
+      "id": 62,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "......."
+    },
+    {
+      "id": 63,
+      "content": "... bahkan saat aku memimpin Le Rouge meraih kemenangan mutlak atas Le Noir."
+    },
+    {
+      "id": 64,
+      "model": "돈키호테",
+      "title": "Manajer Merek Le Noir",
+      "content": "... Demikianlah sabda Sang Dewa..."
+    },
+    {
+      "id": 65,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "... bahwa jika aku dibiarkan mengamuk, Grand Magasin akan menghadapi kehampaan yang tak terelakkan. Bukankah begitu?"
+    },
+    {
+      "id": 66,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Dan dia pasti memerintahkanmu untuk menghentikanku dengan segala cara, tetapi lupa memberitahumu apakah keberhasilan itu bahkan suatu kemungkinan."
+    },
+    {
+      "id": 67,
+      "content": "Didorong hingga ke jurang kehancuran, Le Noir melancarkan pengepungan habis-habisan di Aula Mewah untuk merebutnya kembali. Pilihan lain yang sudah bisa ditebak."
+    },
+    {
+      "id": 68,
+      "content": "Mereka kemungkinan memilih musim ini untuk menyerangku tanpa persiapan, tapi..."
+    },
+    {
+      "id": 69,
+      "content": "... bagiku, itu hanyalah pengulangan dari sesuatu yang sudah pernah kualami."
+    },
+    {
+      "id": 70,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Mungkin ini cuma salah satu cara \"penuh misteri\" bagaimana Dewa Obsidian bekerja."
+    },
+    {
+      "id": 71,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Aku tahu Manajer Merek Le Noir sempat mendengarkan pesan-pesan baru dari Suara itu secara berkala, jadi aku yakin kalau dia engga hilang kayak Sang Raksasa Le Rouge."
+    },
+    {
+      "id": 72,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "Aku tidak tahu apa tujuan akhirnya, Dewa Obsidian..."
+    },
+    {
+      "id": 73,
+      "content": "Rasa lapar itu kembali melonjak, kekosongan sekali lagi menyerbuku tanpa kenal ampun."
+    },
+    {
+      "id": 74,
+      "content": "Dan persis seperti sebelumnya, keinginan serta ekspektasi para Rouges memenuhi diriku dari ujung kepala hingga ujung kaki tanpa menyisakan ruang sedikit pun untuk bernapas."
+    },
+    {
+      "id": 75,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "... tapi pertama-tama, aku akan melahap semua yang ada di hadapanku."
+    },
+    {
+      "id": 76,
+      "content": "Pada akhirnya, aku menghabiskan isi pusat perbelanjaan itu. Pelajaran yang dipetik dari akhir pertama menyelamatkanku dari nasib menjadi seseorang yang mengerikan, tapi itu tidak penting."
+    },
+    {
+      "id": 77,
+      "content": "Lantai-lantai basement berubah menjadi lokasi siklus kematian dan kelahiran kembali yang mengerikan dan tiada akhir..."
+    },
+    {
+      "id": 78,
+      "content": "... dan di bawah cahaya keemasan yang memudar, para Néants mulai bermunculan dari sudut-sudut tersembunyi Grand Magasin."
+    },
+    {
+      "id": 79,
+      "content": "Dalam rentetan peristiwa itu, aku mulai memahami bahwa Grand Magasin sedang... <i>diinkorporasikan</i> ke dalam sesuatu."
+    },
+    {
+      "id": 80,
+      "content": "Likuidasi parsial yang tampak acak datang dan pergi, seolah-olah kekuatan yang berkuasa sedang menguji sesuatu. Dan di akhir setiap siklus, pusat perbelanjaan itu menjadi semakin kosong."
+    },
+    {
+      "id": 81,
+      "content": "Dan sekali lagi, musim pun berganti."
+    },
+    {
+      "id": 82,
+      "content": "Tidak, ini bukan roda musim biasa. Siklus yang lebih besar mulai berputar, begitu perlahan..."
+    },
+    {
+      "id": 83,
+      "model": "싱클레어",
+      "title": "Sang Dewa Lembayung",
+      "content": "... Roda Zaman."
+    }
+  ]
+}
