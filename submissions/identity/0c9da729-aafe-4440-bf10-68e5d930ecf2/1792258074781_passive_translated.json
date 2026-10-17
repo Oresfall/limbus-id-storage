@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": 1101602,
+      "name": "La Jouissance phallique",
+      "desc": "Peroleh 1 Count [ChargeRougeAlly] setiap kali [Laceration] diaktifkan di Pertemuan ini (10 kali per giliran)\n\nAkhir Pertempuran: Pada 15+ Count [ChargeRougeAlly], jika unit ini tidak pada status [BuffetSinclair], konsumsi semua Count [ChargeRougeAlly] untuk peroleh 3 [BuffetSinclair] giliran berikutnya\n- Pulihkan SP setara (3 x Count [ChargeRougeAlly] dikonsumsi melebihi 15) (maks 15)\n\nKetika [BuffetSinclair] kadaluarsa, konsumsi semua Count [ChargeRougeAlly] pada diri sendiri untuk memulihkan HP setara (Count [ChargeRougeAlly] yang dikonsumsi x 2)\n\nPeroleh 1 Potency [ChargeRougeAlly] untuk setiap 10 Count [ChargeRougeAlly] kumulatif yang dikonsumsi unit ini di Pertemuan ini\n\nSkill Serang Dasar dan Skill Counter yang Dapat di-Clash milik unit ini dihitung sebagai Skill yang memperoleh Count [Charge]",
+      "summary": "Peroleh Count [ChargeRougeAlly] setiap kali [Laceration] diaktifkan"
+    },
+    {
+      "id": 1101603,
+      "name": "La Fin de l'Enfance",
+      "desc": "Peroleh [HungrySinclair] berdasarkan kondisi berikut (50 per giliran):\n- Ketika unit ini mengonsumsi Count [ChargeRougeAlly], peroleh Stack setara Count [ChargeRougeAlly] yang dikonsumsi\n- Ketika Skill Dasar unit ini memulihkan HP kawan lain, peroleh Stack setara jumlah HP yang dipulihkan\n- Peroleh 1 Stack untuk setiap 10 HP kumulatif kawan yang hilang\n- Pada Serangan Skill Dasar oleh Identitas \"Le Rouge\" kawan yang lain, peroleh 2 Stack\n- Akhir Giliran: Peroleh 5 Stack untuk setiap Identitas \"Le Rouge\" kawan lain pada medan tempur\n\nAkhir Giliran: Pada 100+ [HungrySinclair], dan jika unit ini tidak memiliki [TransformSinclair], ubah Skill pada Slot Skill paling kiri bawah dengan \"La Voracité\" pada Awal Giliran berikutnya\n\nAwal Pertempuran: Jika unit ini menggunakan \"La Voracité\" atau \"La Castration\" untuk pertama kalinya di Pertemuan ini, peroleh [BuffetThirst] dan [TransformSinclair]; lalu, hilangkan Batas Stagger unit ini\n- Ubah Skill Dasar yang digunakan dengan Skill eksklusif [TransformSinclair]\n- Skill Dasar yang menarget kawan akan mengaktifkan Serangan Tanpa Lawan terhadap musuh acak\n- Pada Akhir Serangan dari Skill yang diaktifkan oleh efek tersebut, konsumsi semua [HungrySinclair]\n\nAkhir Giliran: Pada 150 [HungrySinclair], jika unit ini memiliki [TransformSinclair], dan jika unit ini tidak memiliki \"La Voracité\" pada Dashboard-nya pada Awal Giliran berikutnya, ubah Skill Dasar dengan \"La Voracité\" (prioritaskan Skill pada Slot kiri bawah)",
+      "summary": "Peroleh [HungrySinclair] berdasarkan kondisi",
+      "flavor": "Siapa yang memutuskan di mana masa muda berakhir?\n\nAnak merah tua itu memulai petualangan sendirian.\nMenelusuri kenangan, merindukan apa yang hilang, anak itu berjalan dengan langkah tanpa teman... dan dalam kesepian, mengucapkan selamat tinggal pada masa kanak-kanak."
+    },
+    {
+      "id": 1101604,
+      "name": "La Moisson",
+      "desc": "Ketika efek Skill Dasar unit ini mengonsumsi HP kawan, kawan tersebut tidak dapat Stagger dari efek tersebut, dan HP mereka tidak dapat turun di bawah 1.\n\nAkhir Pertempuran: Pada Reson. Lust 3+, beri [BuffetThirst] giliran berikutnya pada (Reson. Lust / 3) kawan lain (bulatkan atas)\n- Prioritaskan kawan \"Le Rouge\", sesuai urutan Pengerahan\n\nKetika menggunakan Skill [SupportAlly] pada kawan, beri 1 [BuffetFriendShield] pada kawan \"Le Rouge\" yang dapat bergerak dengan HP tertinggi saat ini (sekali per giliran)\nPada Akhir Serangan Dasar oleh [PersonalityCharge] kawan lain, jika Skill tersebut tidak mengalahkan target utamanya, gunakan \"Je vous aide\" terhadap musuh berikut (sekali per giliran)",
+      "summary": "Ketika menggunakan Skill [SupportAlly] pada kawan, beri [BuffetFriendShield]\nBeri [BuffetThirst] pada kawan giliran berikutnya berdasarkan Reson. Lust"
+    },
+    {
+      "id": 1101614,
+      "name": "La Moisson",
+      "desc": "Ketika efek Skill Dasar unit ini mengonsumsi HP kawan, kawan tersebut tidak dapat Stagger dari efek tersebut, dan HP mereka tidak dapat turun di bawah 1.\n\nAkhir Pertempuran: Pada Reson. Lust 3+, beri [BuffetThirst] giliran berikutnya pada (Reson. Lust / 3) kawan lain (bulatkan atas)\n- Prioritaskan kawan \"Le Rouge\", sesuai urutan Pengerahan\n- Jika unit ini memiliki [TransformSinclair], beri efek ini ke +1 kawan lagi (maks 4 kawan)\n\nJika unit ini tidak memiliki [TransformSinclair],\n- Ketika menggunakan Skill [SupportAlly] pada kawan, beri 1 [BuffetFriendShield] pada kawan \"Le Rouge\" yang dapat bergerak dengan HP tertinggi saat ini (sekali per giliran)\n- At Base Attack End oleh [PersonalityCharge] kawan lain, jika Skill tersebut tidak mengalahkan target utamanya, gunakan \"Je vous aide\" terhadap musuh berikut (sekali per giliran)\n\nJika unit ini memiliki [TransformSinclair],\n- Peroleh [RougeFamilySinclair]\n- Aktifkan [DinnerField] pada medan tempur saat ini\n- Akhir Giliran: Peroleh [BuffetThirst] giliran berikutnya\n- Awal Pertempuran: Beri 1 [BuffetFriendShield] pada kawan \"Le Rouge\" yang dapat bergerak dengan HP tertinggi saat ini\n- Pada Akhir Serangan dari Skill Serangan Dasar terhadap musuh, jika target utama memiliki 5 [BoneNailSinclair], gunakan \"La Demande\" (sekali per giliran)",
+      "summary": "Ketika menggunakan Skill [SupportAlly] pada kawan, beri [BuffetFriendShield]\nBeri [BuffetThirst] pada kawan giliran berikutnya berdasarkan Reson. Lust"
+    },
+    {
+      "id": 1101611,
+      "name": "Les Pouvoirs de la vie",
+      "desc": "Ketika kawan \"Le Rouge\" menjadi Stagger karena damage, gunakan \"Le Manque-à-être\" pada kawan tersebut (sekali per giliran, kecuali Stagger paksa)\n\nJika unit ini tidak memiliki [TransformSinclair],\n- Ketika ketika kawan yang bukan \"Le Rouge\" menjadi Stagger karena damage, gunakan \"Le Manque-à-être\" pada kawan tersebut (sekali per Pertemuan, kecuali Stagger paksa)\n\nJika unit ini memiliki [TransformSinclair],\n- Ketika kawan \"Le Rouge\" lain menerima damage yang membawa HP-nya menjadi 0, HP tidak turun di bawah 1, dan kawan tersebut memulihkan 50% HP (bulatkan atas, sekali per Pertemuan per Identitas)"
+    },
+    {
+      "id": 1101621,
+      "name": "Pemanjaan Penuh Kerakusan",
+      "desc": "Awal Pertempuran: Beri 2 [AttackUp] pada kawan dengan HP terendah\nKawan tersebut memulihkan 5% HP pada Akhir Skill Serangan (min 1, sekali per giliran)"
+    }
+  ]
+}
