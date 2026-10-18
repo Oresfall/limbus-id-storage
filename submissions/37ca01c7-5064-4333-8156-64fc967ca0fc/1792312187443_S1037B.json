@@ -1,0 +1,639 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruangan Terang, 7F",
+      "model": "싱클레어",
+      "content": "Ini lantai terakhir...? Lalu di mana Golden Bough-nya?"
+    },
+    {
+      "id": 1,
+      "model": "로쟈",
+      "content": "Oh, iya. Di... di ruangan ini tidak ada apa-apa."
+    },
+    {
+      "id": 2,
+      "model": "파우스트",
+      "content": "Dante."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<... Sangat, <i>sangat</i> dekat. Aku bisa merasakannya.>"
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Tapi... aku tidak bisa menentukan di mana letaknya...>"
+    },
+    {
+      "id": 5,
+      "model": "잔느",
+      "content": "Bough yang kalian cari itu... begitu dekat, namun begitu jauh."
+    },
+    {
+      "id": 6,
+      "model": "잔느",
+      "content": "Ia berada \"di luar\" Grand Magasin. Bukan di dalam konstruksi jutaan pikiran ini, melainkan di dunia fisik tempat tubuh mereka berada."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Jadi sejak awal kita memang tak pernah punya harapan untuk keluar dari tempat ini membawa Golden Bough? Rasanya kita pernah melewati jalan ini sebelumnya..."
+    },
+    {
+      "id": 8,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 9,
+      "model": "잔느",
+      "content": "... Sudah kubilang, ma puce."
+    },
+    {
+      "id": 10,
+      "model": "잔느",
+      "content": "Akhirnya sudah ditentukan."
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Lalu... tempat apa ini?>"
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Setiap lantai toserba ini punya peran masing-masing, seaneh apa pun itu.>"
+    },
+    {
+      "id": 13,
+      "model": "뫼르소",
+      "content": "Sang Manajer bertanya-tanya apa peran lantai ini, berdasarkan pengetahuan sebelumnya bahwa setiap lantai toserba ini memiliki semacam peran."
+    },
+    {
+      "id": 14,
+      "model": "잔느",
+      "content": "Fuhu."
+    },
+    {
+      "id": 15,
+      "model": "잔느",
+      "content": "Kebanyakan pelanggan mulai beradaptasi dan menetap... sekitar 3 hari setelah dititipkan di Grand Magasin Sisyphe."
+    },
+    {
+      "id": 16,
+      "model": "잔느",
+      "content": "Setelah seminggu, mereka mulai berbelanja, mengenakan pakaian, menabung bola mata..."
+    },
+    {
+      "id": 17,
+      "model": "잔느",
+      "content": "Setelah dua minggu, mereka memilih salah satu pihak—kalian tahu, para Rouge, para Noir—atau membiarkan tren membawa mereka tanpa banyak berpikir."
+    },
+    {
+      "id": 18,
+      "model": "잔느",
+      "content": "Dan sedikit demi sedikit... mereka berhenti menjadi \"orang asing\" bagi tempat ini."
+    },
+    {
+      "id": 19,
+      "model": "잔느",
+      "content": "Aku masih ingat hari pertama kalian datang ke tempat ini. Begitu bingung dengan dunia baru yang aneh ini. Kalian menganggap segalanya sangat ganjil."
+    },
+    {
+      "id": 20,
+      "model": "잔느",
+      "content": "\"Kenapa mereka mengantongi bola mata?\"\n\"Kenapa kita tidak bisa menyentuh apa pun?\"\n\"Apa sih Le Rouge? Le Noir?\"\n\"Kenapa mereka begitu terobsesi dengan pakaian? Cahaya Keemasan ini...?\""
+    },
+    {
+      "id": 21,
+      "model": "잔느",
+      "content": "\"Tempat aneh apa yang kujatuhi ini. Kenapa tempat ini seperti ini?\""
+    },
+    {
+      "id": 22,
+      "model": "잔느",
+      "content": "Dan lihat kalian sekarang. Kalian sudah mulai mencari jejak Grand Magasin yang kalian ingat, toserba yang sudah begitu kalian kenal. Ma puce, harus kuakui, rekan-rekan kerja barumu telah menjadikan diri mereka pelanggan yang sangat baik."
+    },
+    {
+      "id": 23,
+      "model": "오티스",
+      "content": "... Kami hanya ingin tahu tempat apa ini."
+    },
+    {
+      "id": 24,
+      "model": "오티스",
+      "content": "Aula kosong yang sangat luas seperti ini—pasti ada alasan mengapa ia ada."
+    },
+    {
+      "id": 25,
+      "model": "잔느",
+      "content": "Ugh, masa kau sebebal itu. Dengar, kau masih terjebak berpikir \"segala sesuatu ada karena suatu alasan, <i>tentu saja</i>.\" \"Pasti ada semacam makna di balik setiap keberadaan\"—"
+    },
+    {
+      "id": 26,
+      "model": "잔느",
+      "content": "—dan pikiran itu, harapan akan raison d'être itu... adalah kutukan yang menjangkiti semua orang."
+    },
+    {
+      "id": 27,
+      "model": "잔느",
+      "content": "Tempat yang kalian masuki ini adalah... kamarku. Atap toserba. Tempat yang dulunya adalah sebuah <i>non-tempat</i>."
+    },
+    {
+      "id": 28,
+      "model": "잔느",
+      "content": "Grand Magasin Sisyphe adalah papan pajang sejati tempat berbagai hal tak terhitung dipaku dan disematkan menjadi ada... tetapi satu tempat ini, kujaga tetap murni dan bebas."
+    },
+    {
+      "id": 29,
+      "model": "잔느",
+      "content": "Tempat milikku sendiri, dengan kebebasan purba, tak ditatap oleh pandangan mana pun, tak dibayangkan oleh pikiran mana pun—ranah ketiadaan yang sekadar <i>tidak ada</i>."
+    },
+    {
+      "id": 30,
+      "model": "잔느",
+      "content": "Tentu tidak akan lama lagi. Mata-mata yang menerobos masuk ke ruangan ini bersama kalian sudah menatapnya, memakunya, menyematkannya untuk mendefinisikannya sebagai <i>sesuatu</i>. Ketika cahaya masuk ke sebuah ruangan, bayangan yang dihasilkannya pun ikut masuk. Memang begitulah adanya, bukan?"
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "... Tidak mungkin aku satu-satunya yang tidak paham apa yang dibicarakan gadis itu."
+    },
+    {
+      "id": 32,
+      "model": "그레고르",
+      "content": "Yah... dia bilang ruangan ini kosong... dan terang. Hanya itu yang kupahami..."
+    },
+    {
+      "id": 33,
+      "model": "잔느",
+      "content": "Tidak apa-apa. Aku memang tidak berharap dimengerti."
+    },
+    {
+      "id": 34,
+      "model": "잔느",
+      "content": "... Kecuali olehmu, ma puce. Kau mengerti aku, bukan?"
+    },
+    {
+      "id": 35,
+      "model": "잔느",
+      "content": "Karena... sepanjang hidup kita, kita berdua begitu takut... pada teror yang hanya kita yang tahu."
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "... Benar."
+    },
+    {
+      "id": 37,
+      "model": "홍루",
+      "content": "Takut...? Bisakah kau jelaskan maksudmu?"
+    },
+    {
+      "id": 38,
+      "model": "잔느",
+      "content": "... Jadi itu garis start kalian. Betapa jauhnya dunia-dunia tempat kita hidup ini."
+    },
+    {
+      "id": 39,
+      "model": "잔느",
+      "content": "Tapi... tak apa, wahai para pelanggan tetap masa depan... dan kalian yang mencoba memaku jiwa sejenisku."
+    },
+    {
+      "id": 40,
+      "model": "잔느",
+      "content": "Biar kuperkenalkan kalian pada duniaku. Dunia ma puce."
+    },
+    {
+      "id": 41,
+      "content": "Jeanne berputar menghadap kehampaan putih di belakangnya. Kehampaan itu mulai hidup dengan rona yang sedikit berbeda, seakan seseorang sedang mengecatnya kembali."
+    },
+    {
+      "id": 42,
+      "model": "잔느",
+      "content": "Aku sudah kelelahan sejak berusia 8 tahun."
+    },
+    {
+      "id": 43,
+      "model": "잔느",
+      "content": "Aku sering merasa seakan dunia melilit diriku terlalu kencang."
+    },
+    {
+      "id": 44,
+      "place": "Bola Salju, 7F",
+      "model": "잔느",
+      "content": "Suatu hari, aku berjalan lunglai melewati sebuah toko, dan sebuah bola salju yang berputar, dipajang di balik etalase, membalas tatapanku."
+    },
+    {
+      "id": 45,
+      "model": "잔느",
+      "content": "Di balik bola kaca bening itu, aku bisa melihat sebuah desa mungil dan hujan salju lembut yang menyelimutinya serpih demi serpih."
+    },
+    {
+      "id": 46,
+      "model": "잔느",
+      "content": "Aku melihat seorang anak mungil di depan sebuah rumah mungil di dalam desa mungil. Ia sedang memandangi manusia salju mungil."
+    },
+    {
+      "id": 47,
+      "model": "잔느",
+      "content": "Setelah menatapnya beberapa saat, sebuah pikiran tiba-tiba terlintas."
+    },
+    {
+      "id": 48,
+      "model": "잔느",
+      "content": "Apakah anak mungil itu... memahami makna manusia salju itu, atau serpih-serpih salju yang membentuknya?"
+    },
+    {
+      "id": 49,
+      "model": "잔느",
+      "content": "Apakah ia tahu bahwa ada seorang raksasa, yang tatapannya harus ia tanggung, berdiri tepat di tepi jurang dinding rapuh duniamu itu?"
+    },
+    {
+      "id": 50,
+      "model": "잔느",
+      "content": "Akhirnya, ketika aku mengalihkan pandangan darinya dan melihat dunia di sekelilingku sendiri..."
+    },
+    {
+      "id": 51,
+      "model": "잔느",
+      "content": "... rasa pusing yang tak tertahankan menyerangku, seperti selimut salju tak terelakkan yang mengancam menyesakkan segalanya."
+    },
+    {
+      "id": 52,
+      "model": "잔느",
+      "content": "Kurasa saat itulah semuanya bermula. Gaun biruku, lampu jalan yang berkedip, tas kerja yang menyenggolku saat seseorang lewat..."
+    },
+    {
+      "id": 53,
+      "model": "잔느",
+      "content": "... semua orang sibuk yang bergegas menuju tempat yang harus mereka tuju, dan... segala sesuatu yang dipelihara dunia yang mengerikan ini... semuanya terasa begitu <i>memualkan</i>."
+    },
+    {
+      "id": 54,
+      "model": "잔느",
+      "content": "Sejak saat itu hingga usiaku 15 tahun, aku dikirim dari satu rumah sakit ke rumah sakit lain, dari satu dokter ke dokter lain."
+    },
+    {
+      "id": 55,
+      "model": "잔느",
+      "content": "Apakah aku mengonsumsi pengalaman yang seharusnya tidak? Apakah masalah ini bersifat fisiologis? Organ mana yang bermasalah? Kombinasi obat dan pengalaman apa yang harus kukonsumsi supaya sembuh?"
+    },
+    {
+      "id": 56,
+      "model": "잔느",
+      "content": "Tapi... tak ada yang membantu. Malam-malam datang, ternoda oleh ketakutan, teror, dan kurang tidur. Dan tahun-tahun panjang pengurungan itu terus berlalu."
+    },
+    {
+      "id": 57,
+      "model": "잔느",
+      "content": "Kalau dipikir lagi, itu bukan misteri. Karena sensasi aneh yang menghantui saat-saat terjagaku itu... bukanlah sesuatu yang bisa disembuhkan oleh perawatan-perawatan itu, apalagi didiagnosis orang lain."
+    },
+    {
+      "id": 58,
+      "model": "잔느",
+      "content": "Pada tahun-tahun itulah sesuatu tiba-tiba pecah di dalam diriku, seperti bohlam yang meledak. Keputusasaan mencengkramku... dan untuk selamanya. Tahukah kau mengapa?"
+    },
+    {
+      "id": 59,
+      "model": "뫼르소",
+      "content": "Kau menyadari bahwa dunia sama sekali tidak berubah."
+    },
+    {
+      "id": 60,
+      "model": "잔느",
+      "content": "Bukan. Dunia tetap seperti saat kutinggalkan, sementara aku telah berubah tanpa bisa dipulihkan."
+    },
+    {
+      "id": 61,
+      "model": "잔느",
+      "content": "Dinding tetap dinding. Kursi tetap kursi. Orang-orang terus membicarakan hal yang sama, dan Kota tetap berjalan seperti jarum jam..."
+    },
+    {
+      "id": 62,
+      "model": "잔느",
+      "content": "Hanya aku satu-satunya yang merasa semua itu begitu asing. Rasanya menyesakkan. Seperti tercekik oleh udara yang dihirup orang lain dengan baik-baik saja."
+    },
+    {
+      "id": 63,
+      "model": "잔느",
+      "content": "Jadi aku memutuskan menyimpan semuanya sendiri... Rasa mual... rasa takut... keberadaan... <i>semuanya</i>."
+    },
+    {
+      "id": 64,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 65,
+      "model": "뫼르소",
+      "content": "Dan begitulah kau dipekerjakan sebagai Raksasa."
+    },
+    {
+      "id": 66,
+      "model": "잔느",
+      "content": "Benar. Mau tahu bagian lucunya? Ruangan tempatku bekerja—kantorku—sangat mirip dengan ruangan ini."
+    },
+    {
+      "id": 67,
+      "model": "잔느",
+      "content": "Ruangan para Raksasa yang menciptakan dan mengawasi toserba raksasa ini... sama kosongnya. Sebut saja dek pengamatan kami. Tak ada apa pun di sana, agar tak ada yang bisa memaku kami."
+    },
+    {
+      "id": 68,
+      "model": "뫼르소",
+      "content": "... Aku tahu itu. Kau telah membagikan fakta ini padaku, begitu pula ibuku."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "content": "Wahai, bagaimana gerangan engkau menjalankan tugasmu di ruangan sekosong ini...?"
+    },
+    {
+      "id": 70,
+      "model": "잔느",
+      "content": "Kau ingin tahu apa yang kami lakukan di tempat kerja? Yah, kami absen masuk kantor, duduk di ruangan sekosong ini, dan... membacakan buku manual kerja dengan lantang kepada para pelanggan toserba. Kami mendorong mereka ke sana kemari, Suara kami menciptakan konflik dan perilaku yang menghasilkan pengalaman berkualitas tinggi."
+    },
+    {
+      "id": 71,
+      "model": "잔느",
+      "content": "Lalu... para pekerja di Menara Sisyphe melapisi pengalaman mentah itu dengan lapisan tak bermakna dan buram... dan voilà, jadilah sekumpulan Pengalaman Kalengan—dikemas, diberi label, dan siap didistribusikan ke seluruh N Corp. dan sisa Kota."
+    },
+    {
+      "id": 72,
+      "model": "잔느",
+      "content": "Para pelanggan kami lalu membeli kaleng-kaleng itu di supermarket. Mereka membawanya ke bioskop, taman, rumah, toserba... untuk mengonsumsi pengalaman segar asal Grand Magasin Sisyphe itu."
+    },
+    {
+      "id": 73,
+      "place": -1,
+      "model": "잔느",
+      "content": "Apa yang kami buat di sini mendefinisikan setiap segi emosi dan kehidupan para pelanggan kami dengan fasad setipis label kaleng."
+    },
+    {
+      "id": 74,
+      "place": "???",
+      "model": "단테",
+      "content": "<Lokasinya bergeser lagi.>"
+    },
+    {
+      "id": 75,
+      "place": "Menara Sisyphe N Corp.",
+      "model": "뫼르소",
+      "content": "... Ini... adalah bekas tempat kerjaku, Menara Sisyphe."
+    },
+    {
+      "id": 76,
+      "model": "잔느",
+      "content": "Ya. Di sinilah kau menghabiskan hari-hari tak terhitung dalam hidupmu memaku setiap pengalaman yang datang padamu di ban berjalan."
+    },
+    {
+      "id": 77,
+      "model": "잔느",
+      "content": "Aku pernah mendengar tentangmu, tahu. Kau punya banyak sebutan—putra seorang Raksasa, yang terbaik di antara para pegawai Menara Sisyphe, manajer pabrik kami yang sedang naik daun, Sang Pemaku termuda sampai saat ini—tak satu pun berarti bagiku."
+    },
+    {
+      "id": 78,
+      "model": "뫼르소",
+      "content": "Bukan penilaian di mata orang lain yang menarik pandanganmu padaku. Itu karena kau merasakan jiwa sejenis ketika kita saling menatap."
+    },
+    {
+      "id": 79,
+      "model": "잔느",
+      "content": "Meski ada perbedaan mendasar dalam <i>keterasingan</i> kita, kita tetap saling memahami."
+    },
+    {
+      "id": 80,
+      "model": "잔느",
+      "content": "Aku ingat bagaimana kau dulu mengernyitkan alis bahkan saat menyusun menara rapi dari kaleng-kaleng itu, karena kau tak mengerti apa arti semua keteraturan itu."
+    },
+    {
+      "id": 81,
+      "model": "뫼르소",
+      "content": "... Menata benda-benda secara teratur tidak membentuk makna apa pun."
+    },
+    {
+      "id": 82,
+      "model": "뫼르소",
+      "content": "Sebaliknya, itu mengungkap ketidakpedulian dan apatisme timbal balik pada manusia, yang justru menonjolkan dalamnya keterasingan."
+    },
+    {
+      "id": 83,
+      "model": "뫼르소",
+      "content": "Konsistensi dan struktur tidak memberiku kenyamanan."
+    },
+    {
+      "id": 84,
+      "model": "잔느",
+      "content": "... Karena kau tidak tahu mengapa konsistensi itu dan aturan yang mengaturnya ada sejak awal. Aturan... kebenaran... semuanya menentukan ke mana hidup kita seharusnya menuju, tapi alasannya? Selalu begitu rapuh dan sia-sia."
+    },
+    {
+      "id": 85,
+      "model": "잔느",
+      "content": "Satu-satunya di antara kita yang bisa bertahan dengan tongkat penopang seperti itu pastilah sang Kapelan. Struktur-struktur seperti itu adalah caranya melawan dunia yang serba kebetulan ini, kau tahu."
+    },
+    {
+      "id": 86,
+      "model": "잔느",
+      "content": "Ma puce, aku tidak mengerti apa yang ingin kau buktikan dengan membuat satu lagi pilihan yang tak bermakna."
+    },
+    {
+      "id": 87,
+      "model": "잔느",
+      "content": "... Kalau kau begitu rela dikemudikan orang lain, kenapa tidak rangkul saja sinar matahari itu?"
+    },
+    {
+      "id": 88,
+      "model": "뫼르소",
+      "content": "... Kau juga mendengarnya."
+    },
+    {
+      "id": 89,
+      "model": "잔느",
+      "content": "Ya. Suara hangat nan indah itu... berbisik di telingaku... bahkan saat kita berbicara."
+    },
+    {
+      "id": 90,
+      "model": "잔느",
+      "content": "... Katakan padaku. Apa yang dibisikkan sinar matahari itu padamu?"
+    },
+    {
+      "id": 91,
+      "model": "뫼르소",
+      "content": "Sinar matahari berkata... bahwa aku boleh tetap seperti sekarang."
+    },
+    {
+      "id": 92,
+      "model": "뫼르소",
+      "content": "Bahwa aku tak perlu berubah dari keadaanku saat ini. Bahwa aku boleh tetap terbelenggu oleh rantai tak terhitung yang mengikat tubuhku, yang membuatku tak terkekang oleh tatapan mana pun... Bahwa ia bisa membantuku menjalani hidup dengan damai—dalam ketidakpedulian yang lembut."
+    },
+    {
+      "id": 93,
+      "model": "잔느",
+      "content": "Tapi kau terus menolak sinar matahari itu. Apakah karena apa yang terjadi dengan... ibumu?"
+    },
+    {
+      "id": 94,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 95,
+      "model": "잔느",
+      "content": "Masih saja tidak banyak bicara, ya."
+    },
+    {
+      "id": 96,
+      "model": "잔느",
+      "content": "Kau merasakannya juga, bukan? Sinar matahari ini, ia..."
+    },
+    {
+      "id": 97,
+      "model": "잔느",
+      "content": "... ia <i>memahami</i> kita."
+    },
+    {
+      "id": 98,
+      "place": "Ruangan Terang, 7F, Masa Lalu",
+      "model": "잔느",
+      "content": "Membayangkan bahwa ada seseorang yang mampu berbicara kepada kami para Raksasa di Grand Magasin..."
+    },
+    {
+      "id": 99,
+      "model": "잔느",
+      "content": "Sang Suara dari Segala Suara... Apakah kau semacam dewa, bijaksana dan mahatahu?"
+    },
+    {
+      "id": 100,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Aku bukan ilahi, bukan. Bahkan aku tak akan menyebut diriku terlalu bijaksana.</color>"
+    },
+    {
+      "id": 101,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Aku hanyalah seseorang yang jujur pada perasaannya dan punya tujuan yang jelas...\nSekadar manusia biasa, sepertimu.</color>"
+    },
+    {
+      "id": 102,
+      "model": "잔느",
+      "content": "Kau <i>manusia?</i>"
+    },
+    {
+      "id": 103,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Aku tahu bagaimana ini terlihat, tapi aku manusia.</color>"
+    },
+    {
+      "id": 104,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Karena itulah aku pun tidak sempurna dan cemas.</color>"
+    },
+    {
+      "id": 105,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Dan aku selalu khawatir suaraku mungkin gagal menjangkau semua orang.</color>"
+    },
+    {
+      "id": 106,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Rancangan Sephirot Grand Magasin Sisyphe begitu sempurna...\nsampai aku tak bisa menemukan cara menjangkau mereka yang ada di dalamnya.</color>"
+    },
+    {
+      "id": 107,
+      "model": "잔느",
+      "content": "... Tapi akhirnya kau berhasil. Menemukan jalanmu lewat celah-celah toserba yang runtuh."
+    },
+    {
+      "id": 108,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Jeanne, aku mengerti bahwa kau masih takut.\nTakut dipaksa kembali ke dunia di luar sana yang begitu mudah memakumu,\ntempat kau bahkan tak bisa menjadi dirimu sendiri.</color>"
+    },
+    {
+      "id": 109,
+      "model": "잔느",
+      "content": "... Aku toh tidak punya pilihan. Dunia ini... Sisyphe... bahkan tidak nyata."
+    },
+    {
+      "id": 110,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Yang penting adalah... tetap menjadi dirimu sendiri, apa pun yang terjadi. <i>Kau</i>-lah yang paling penting.</color>"
+    },
+    {
+      "id": 111,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Aku mengerti hal-hal yang kau rasakan.\nRasa bersalah itu, rasa kewajiban, tanggung jawab... aku pernah mengalaminya.\nAku tahu betul beratnya hal-hal yang sama yang kini menghimpitmu.</color>"
+    },
+    {
+      "id": 112,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tapi itu bukan <i>milikmu</i>, Jeanne—jika itu memang perasaan.\nItu tak lebih dari seperangkat nilai seragam buatan yang ditanamkan Kota padamu\nsaat ia mengorbankan dan menghancurkanmu tanpa pernah meminta persetujuan.</color>"
+    },
+    {
+      "id": 113,
+      "place": "Ruangan Terang, 7F",
+      "model": "잔느",
+      "content": "Aku pernah menganggap ego sebagai sesuatu yang dibentuk menjadi alat... atau morfem seminimal mungkin yang diperlukan untuk berkomunikasi..."
+    },
+    {
+      "id": 114,
+      "model": "잔느",
+      "content": "Tapi... Sang Suara benar. Aku hanya ingin menjadi diriku sendiri; hanya itu yang kuinginkan. Aku tak ingin memotong dan memangkas diriku agar muat ke dalam dunia sewenang-wenang mereka."
+    },
+    {
+      "id": 115,
+      "model": "잔느",
+      "content": "Jadi kalau kau lebih memilih terus membuat pilihan-pilihan tak bermakna itu, terus memelintir naskah, berharap sesuatu berubah di dunia yang lembam ini..."
+    },
+    {
+      "id": 116,
+      "model": "잔느",
+      "content": "... maka aku harus melawanmu agar kau mengerti..."
+    },
+    {
+      "id": 117,
+      "model": "잔느",
+      "content": "... bahwa kita tak perlu takut lagi."
+    },
+    {
+      "id": 118,
+      "model": "잔느변신",
+      "content": "Bahwa kita bisa tetap seperti ini."
+    },
+    {
+      "id": 119,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Tatapan itu... Matahari itu...! Suara itu...!! Ia terus mengikutiku!!"
+    },
+    {
+      "id": 120,
+      "model": "뫼르소엄마",
+      "teller": "Ibu",
+      "content": "Menguntitku sejak hari-hari yang panjang dan gelap itu... dan malam-malam yang menyakitkan karena terlalu terang datang dan pergi... Ia ada di sini, bahkan sekarang... Mengepungku...!"
+    },
+    {
+      "id": 121,
+      "model": "검사",
+      "content": "Terdakwa. Sebutkan alasanmu melakukan perbuatan itu. Jawab!"
+    },
+    {
+      "id": 122,
+      "place": -1,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tak perlu lagi memedulikan tatapan orang lain.\nTak perlu lagi memedulikan pikiran orang lain.\nKau bisa sekadar <i>menjadi</i> dirimu sendiri... <i>hidup</i> sebagai dirimu sendiri.</color>"
+    },
+    {
+      "id": 123,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Biarkan aku membantumu.\nBahkan jika warnamu adalah warna yang tak bisa dipahami orang lain,\nbahkan jika warna itu hanya ada di matamu...\naku tetap akan membantumu mengecat dunia dengannya.</color>"
+    },
+    {
+      "id": 124,
+      "place": "Ruangan Terang, 7F",
+      "model": "뫼르소",
+      "content": "... Panas sekali."
+    }
+  ]
+}
