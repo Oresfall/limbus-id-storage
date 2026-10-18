@@ -1,0 +1,239 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Restoran, 5F",
+      "model": "뷔페어른",
+      "content": "... Aku memang mengingat kalian. Orang-orang yang memanggilku Pwie."
+    },
+    {
+      "id": 1,
+      "model": "뷔페어른",
+      "content": "Dan dia yang tak pernah berbohong—Meursault."
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 3,
+      "model": "뷔페어른",
+      "content": "Semua yang mengaku sebagai pengikutku meminta sesuatu dariku, namun tak seorang pun memberiku jawaban."
+    },
+    {
+      "id": 4,
+      "model": "뷔페어른",
+      "content": "Sedangkan kau... Kau mungkin bisa menjawab. Pertanyaanku tak ada habisnya, tetapi kau tak pernah gagal mengatakan apa yang kau tahu, persis seperti yang kau ketahui."
+    },
+    {
+      "id": 5,
+      "model": "뷔페어른",
+      "content": "Meursault... Mengapa... aku selalu begitu kosong? Aku makan dan makan di restoran ini dan mengisi diriku, namun tetap saja..."
+    },
+    {
+      "id": 6,
+      "model": "뷔페어른",
+      "content": "Aku tidak menginginkan semua ini. Tidak pernah menginginkannya."
+    },
+    {
+      "id": 7,
+      "model": "뷔페어른",
+      "content": "Lalu mengapa aku harus menanggung... rasa lapar yang menghancurkan ini?"
+    },
+    {
+      "id": 8,
+      "model": "뫼르소",
+      "content": "Karena kau terlahir seperti itu."
+    },
+    {
+      "id": 9,
+      "model": "뷔페어른",
+      "content": "Begitu rupanya..."
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Tetapi ada saat-saat ketika kau melupakan kenyataan itu."
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "Ketika kau mempelajari sesuatu yang baru."
+    },
+    {
+      "id": 12,
+      "model": "뫼르소",
+      "content": "Ketika kau bersama Wriggley."
+    },
+    {
+      "id": 13,
+      "model": "뫼르소",
+      "content": "Ketika kau bermain game."
+    },
+    {
+      "id": 14,
+      "model": "뫼르소",
+      "content": "Momen-momen singkat itu membuatmu bisa melupakan rasa sakit."
+    },
+    {
+      "id": 15,
+      "model": "뷔페어른",
+      "content": "......."
+    },
+    {
+      "id": 16,
+      "model": "뷔페어른",
+      "content": "Ya, kau benar."
+    },
+    {
+      "id": 17,
+      "model": "뷔페어른",
+      "content": "Kata-katamu membawa kembali kenangan lain yang jelas. Yang ini tidak kau sebutkan."
+    },
+    {
+      "id": 18,
+      "model": "뷔페어른",
+      "content": "Saat aku mengikutimu, kadang kau menoleh untuk melihatku. Dan ketika mata kita bertemu..."
+    },
+    {
+      "id": 19,
+      "model": "뷔페어른",
+      "content": "Sama sekali tidak ada rasa sakit."
+    },
+    {
+      "id": 20,
+      "model": "뷔페어른",
+      "content": "Itu membuatku... sangat bahagia. Aku begitu menikmati petualangan kita sampai-sampai aku bahkan lupa akan rasa laparku."
+    },
+    {
+      "id": 21,
+      "content": "Serangan tanpa henti Buffet mereda sejenak, tatapan mereka tertuju pada kami."
+    },
+    {
+      "id": 22,
+      "model": "이상",
+      "content": "Pwie. Kami tidak ingin mengangkat senjata melawanmu."
+    },
+    {
+      "id": 23,
+      "model": "뫼르소",
+      "content": "... Tetapi kami tidak punya pilihan selain melakukannya."
+    },
+    {
+      "id": 24,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Benar, Meur.</color>"
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Suara itu lagi...>"
+    },
+    {
+      "id": 26,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tahukah kau mengapa begitu kejam dilahirkan ke dunia ini tanpa punya hak suara?</color>"
+    },
+    {
+      "id": 27,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Itu karena kita terlahir untuk takut akan kematian... bahkan ketika kita sendiri telah memilih untuk mati.</color>"
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Aku sudah merasakannya sejak lantai satu. Suara ini... semakin dekat.>"
+    },
+    {
+      "id": 29,
+      "model": "이상",
+      "content": "Semakin dekat... setiap kali kita naik satu lantai?"
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 31,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Rasa bersalah karena telah mengorbankan seorang anak.</color>"
+    },
+    {
+      "id": 32,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Panggilan untuk menyembuhkan umat manusia.</color>"
+    },
+    {
+      "id": 33,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Tanggung jawab karena tak ingin mengecewakan rekan-rekan kerjamu.</color>"
+    },
+    {
+      "id": 34,
+      "model": "카르멘",
+      "content": "<color=#E1B643>... Semua itu tak berarti apa-apa di hadapan kematian.</color>"
+    },
+    {
+      "id": 35,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Anak itu pun akan mengalami hal yang sama.</color>"
+    },
+    {
+      "id": 36,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Kenangan yang dibagikan bersamamu, harapan yang ditaruh para Rouge pada mereka,\ndan rasa lapar naluriah yang tak pernah terpuaskan...</color>"
+    },
+    {
+      "id": 37,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Buffet menanggung semua penderitaan itu. Kali ini mereka tidak akan berhenti.</color>"
+    },
+    {
+      "id": 38,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Dan mereka pasti juga tahu—bahwa agar apa pun bisa ada... mereka sendiri harus ada terlebih dahulu.</color>"
+    },
+    {
+      "id": 39,
+      "model": "뷔페어른",
+      "content": "... Aku bisa saja mengikutimu sekarang, tetapi sudah terlambat. Rasa lapar ini tidak akan hilang."
+    },
+    {
+      "id": 40,
+      "model": "뷔페어른",
+      "content": "Begitu pula harapan dan ekspektasi para Rouge tidak akan memudar."
+    },
+    {
+      "id": 41,
+      "model": "뷔페어른",
+      "content": "Jika rasa lapar ini hendak diredakan... aku harus melahap segalanya di sini. Bahkan tempat yang kalian cari di atas sana, harus kulahap."
+    },
+    {
+      "id": 42,
+      "model": "뷔페어른",
+      "content": "Mengapa kalian tidak tinggal di sini bersamaku sekali lagi, wahai orang asing?"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<... Kami tidak bisa.>"
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Itu berarti... kita harus membuat... satu pilihan lagi yang akan kita sesali.>"
+    },
+    {
+      "id": 45,
+      "model": "뫼르소",
+      "content": "... Kami akan melanjutkan ke lantai berikutnya, Buffet."
+    },
+    {
+      "id": 46,
+      "model": "뷔페어른",
+      "content": "Jadi pada akhirnya kalian memilih untuk tidak mengikutiku, wahai orang asing..."
+    }
+  ]
+}
