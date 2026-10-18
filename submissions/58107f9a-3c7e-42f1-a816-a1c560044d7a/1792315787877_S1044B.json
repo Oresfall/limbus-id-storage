@@ -1,0 +1,871 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "N Corp., Pintu Masuk Mesin Penjual Bunuh Diri Otomatis",
+      "model": "단테",
+      "content": "<Semuanya baik-baik saja?>"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Badanku sakit semua... dan rasanya dunia berputar, tapi..."
+    },
+    {
+      "id": 2,
+      "model": "홍루",
+      "content": "... Kami tidak terluka."
+    },
+    {
+      "id": 3,
+      "content": "Ketika kami keluar dari Mesin Penjual Bunuh Diri, pemandangan Liga Baru Sembilan, semuanya mengenakan berbagai perlengkapan E.G.O, menyambut kami."
+    },
+    {
+      "id": 4,
+      "content": "Sesekali kami melihat orang yang lewat, atau orang-orang yang tampak seperti pegawai N Corp. mondar-mandir di sekitar... tetapi mereka berjalan melewati kami seolah kami tidak ada."
+    },
+    {
+      "id": 5,
+      "content": "Apakah ini efek dari E.G.O baru yang dikembangkan N Corp.? Atau..."
+    },
+    {
+      "id": 6,
+      "model": "에고가환",
+      "content": "*haaa* Akhirnya."
+    },
+    {
+      "id": 7,
+      "model": "에고가환",
+      "content": "Kita bisa meninggalkan misi pengawalan yang menjengkelkan ini."
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "... Lingkungan di luar sini... telah berubah drastis."
+    },
+    {
+      "id": 9,
+      "model": "넬리2",
+      "content": "Banyak yang terjadi dalam 3 bulan terakhir."
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "Hah, begitu... tunggu, 3 bulan?"
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "Kita sudah di dalam sana selama <i>berapa lama?!</i>"
+    },
+    {
+      "id": 12,
+      "model": "에고구보",
+      "content": "Ya, banyak pujian layak diberikan kepada para pegawai kami, yang bekerja gagah berani agar kalian tidak kehilangan nyawa menyedihkan kalian di dalam kotak itu."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "... Sepertinya ada keributan di sekitar sini... Aku mendengar jeritan. Dan asap apa itu di kejauhan?"
+    },
+    {
+      "id": 15,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Kami baru saja menerima transmisi dari Direktur Hermann. Pria itu, sang Sipir... telah... menekan tombolnya."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "Tombol itu—?"
+    },
+    {
+      "id": 17,
+      "model": "에고가환",
+      "content": "Aku tidak akan melarang kalau kalian lebih suka berdiri kebingungan di sini, tapi kalau aku jadi kalian, aku akan bergegas—rekan kalian tidak punya banyak waktu lagi."
+    },
+    {
+      "id": 18,
+      "model": "에고가환",
+      "content": "Oh, kurasa kematian terasa ringan bagi kalian karena kalian bisa memutar balik orang mati kembali hidup."
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Pertama-tama, kita harus menyelamatkan Meursault. Kita bisa memahami apa yang terjadi di luar sini setelah itu.>"
+    },
+    {
+      "id": 20,
+      "content": "Beberapa waktu kemudian..."
+    },
+    {
+      "id": 21,
+      "place": "Di Dalam Menara Sisyphe N Corp.",
+      "model": "싱클레어",
+      "content": "Jadi ini... wujud Grand Magasin Sisyphe dari luar..."
+    },
+    {
+      "id": 22,
+      "model": "이상",
+      "content": "Semuanya tertidur di dalam tabung-tabung itu... penjara."
+    },
+    {
+      "id": 23,
+      "content": "Bayangan seorang pria, menggendong seseorang di lengannya, muncul dari pabrik menembus dinding asap yang membubung. Itu Meursault."
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Meursault!>"
+    },
+    {
+      "id": 25,
+      "model": "뫼르소",
+      "content": "Manajer. Aku telah mengamankan Golden Bough."
+    },
+    {
+      "id": 26,
+      "content": "Sebuah Golden Bough memancarkan cahaya samar dalam genggaman Meursault."
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28,
+      "model": "그레고르",
+      "content": "Itu... Jeanne?"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Ya. Seorang Raksasa yang mengalami kerusakan psikologis parah, akibat peristiwa seperti kematian avatarnya, menjadi tak bergerak untuk waktu yang lama. Karena itu, aku memutuskan untuk menggendongnya keluar."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Kau bisa begitu saja... menerobos masuk kantor seorang Raksasa dan menyeretnya keluar seperti karung kentang?"
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Ya. Itu bukan tugas yang sulit, karena kata sandi kantornya belum diganti."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<Baguslah, kurasa... Jadi, ada apa dengan semua api ini? Dan asap ini...?>"
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<Tunggu, sensasi ini—>"
+    },
+    {
+      "id": 34,
+      "content": "Sinar matahari memancar menembus gumpalan asap tebal,"
+    },
+    {
+      "id": 35,
+      "content": "dan sakit kepala yang tiba-tiba dan membelah menyerangku saat dinding tekanan yang tak tertahankan mengancam menghancurkan dadaku."
+    },
+    {
+      "id": 36,
+      "content": "Seandainya indraku—penciuman, peraba, penglihatan, pengecap, pendengaran—bisa menjerit kesakitan, mereka pasti sudah melakukannya."
+    },
+    {
+      "id": 37,
+      "content": "Makhluk-makhluk yang familier namun asing mulai merayap keluar dari pabrik..."
+    },
+    {
+      "id": 38,
+      "content": "Para pelanggan Grand Magasin... para tahanan dari bertahun-tahun menjalani Hukuman Sisyphe..."
+    },
+    {
+      "id": 39,
+      "content": "Aku merasakannya—tidak, ia mengepung dari segala penjuru, kehadiran yang tak terbayangkan dahsyatnya dari..."
+    },
+    {
+      "id": 40,
+      "content": "dari..."
+    },
+    {
+      "id": 41,
+      "content": "... Distorsi. Distorsi yang terkurung di dalam Grand Magasin... seluruh 300 juta jumlahnya..."
+    },
+    {
+      "id": 42,
+      "model": "이스마엘",
+      "content": "Para Manekin itu... tumpah keluar dari pabrik."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Mungkinkah... Distorsi di dalam Grand Magasin sedang dilepaskan ke Kota...?>"
+    },
+    {
+      "id": 44,
+      "content": "Pikiranku melintas kembali pada pemandangan di dalam Grand Magasin. Pelanggan yang mati, pelanggan yang berubah menjadi pakaian, Manekin, dan segala yang membentuk toserba itu..."
+    },
+    {
+      "id": 45,
+      "model": "르루주브랜드디렉터",
+      "content": "... Apa maksud semua ini...? Apakah kami telah dibuang dari Buaian kami, ke dunia asing di balik selubung ingatan kami...?"
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "Kita pernah melihat sebagian dari mereka sebelumnya. Itu berarti—"
+    },
+    {
+      "id": 47,
+      "model": "크로머언니진짜",
+      "content": "Itu berarti pestanya baru dimulai, anak-anak."
+    },
+    {
+      "id": 48,
+      "model": "크로머언니진짜",
+      "content": "Kita akan merebut kejayaan kita sekali lagi, saat 300 juta Distorsi mengamuk di seluruh N Corp."
+    },
+    {
+      "id": 49,
+      "model": "크로머언니진짜",
+      "content": "Jacob, perkiraan kedatangan tim kita?"
+    },
+    {
+      "id": 50,
+      "model": "야코프",
+      "content": "Mereka akan segera dikerahkan. Meski pengujian akan dilakukan setelah semua Distorsi ditaklukkan... aku telah mengizinkan keputusan sepihak terhadap para pemakai prostetik yang menjijikkan itu."
+    },
+    {
+      "id": 51,
+      "model": "크로머언니진짜",
+      "content": "Beri perhatian khusus pada yang tidak langsung terlihat jelas. Merekalah tujuan sebenarnya dari pengadilan itu."
+    },
+    {
+      "id": 52,
+      "model": "크로머언니진짜",
+      "content": "Tunggu sebentar."
+    },
+    {
+      "id": 53,
+      "model": "크로머언니진짜",
+      "content": "Asap itu, itu... itu bukan sekadar asap dari mesin yang rusak... Itu..."
+    },
+    {
+      "id": 54,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 55,
+      "model": "뫼르소",
+      "content": "Kita harus mengungsi, Manajer."
+    },
+    {
+      "id": 56,
+      "model": "뫼르소",
+      "content": "Seseorang telah menekan tombol dan mengaktifkan protokol penghentian lokasi."
+    },
+    {
+      "id": 57,
+      "content": "Pada saat itu, seseorang terhuyung masuk ke pandangan..."
+    },
+    {
+      "id": 58,
+      "model": "신부진짜",
+      "content": "Meursault! Narapidana Meursault!"
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<... Sang Sipir!>"
+    },
+    {
+      "id": 60,
+      "model": "신부진짜",
+      "content": "Itu aku. Akulah yang mengaktifkan insinerator Menara Sisyphe!"
+    },
+    {
+      "id": 61,
+      "model": "신부진짜",
+      "content": "Kalian juga melihat monster-monster di dalam Grand Magasin itu, bukan? Makhluk-makhluk itu bukan <i>manusia</i>. Jika mereka dilepaskan... mereka pasti akan menghancurkan Sayap kita."
+    },
+    {
+      "id": 62,
+      "model": "신부진짜",
+      "content": "Aku melakukan apa yang harus kulakukan! Aku harus membakar mereka semua menjadi abu!"
+    },
+    {
+      "id": 63,
+      "model": "신부진짜",
+      "content": "Kalian di sana, bantu aku menghentikan mereka yang berhasil lolos!"
+    },
+    {
+      "id": 64,
+      "model": "신부진짜",
+      "content": "Bahkan, aku akan—Ya, aku akan menyewa kalian! Kalian ahli Distorsi, bukan? Aku akan menyewa kalian untuk—aagh!"
+    },
+    {
+      "id": 65,
+      "model": "크로머언니진짜",
+      "content": "Beraninya kau?! Beraninya kau, bajingan?!!!"
+    },
+    {
+      "id": 66,
+      "content": "Tabung-tabung kapsul dilahap api yang menari."
+    },
+    {
+      "id": 67,
+      "content": "Udara segera dipenuhi kekacauan suara. Ada yang menjerit. Ada yang bernyanyi. Ada yang berbicara dalam bahasa asing yang tak koheren."
+    },
+    {
+      "id": 68,
+      "model": "크로머언니진짜",
+      "content": "Ahhhh...!"
+    },
+    {
+      "id": 69,
+      "model": "크로머언니진짜",
+      "content": "Tidak... Tidak... Ini tidak mungkin nyata...!"
+    },
+    {
+      "id": 70,
+      "model": "크로머언니진짜",
+      "content": "Semua nyawa itu, nyawa yang berharga... Manusia, manusia berdaging, manusia yang berdarah... Oh, air mata ini... tak mau berhenti. Yang perlu kita lakukan hanyalah menyingkirkan yang tampak seperti pemakai prostetik...!"
+    },
+    {
+      "id": 71,
+      "model": "크로머언니진짜",
+      "content": "Terkutuklah kau, pastor penipu! Terkutuklah kau!!"
+    },
+    {
+      "id": 72,
+      "model": "야코프",
+      "content": "......."
+    },
+    {
+      "id": 73,
+      "content": "Kromer menjerit dalam keputusasaan total, air mata amarah dan kebencian mengalir di pipinya."
+    },
+    {
+      "id": 74,
+      "model": "뫼르소",
+      "content": "Kita harus pergi, Manajer. <i>Sekarang.</i>"
+    },
+    {
+      "id": 75,
+      "place": "Di Luar Menara Sisyphe N Corp.",
+      "content": "Dari kejauhan, Menara Sisyphe, penjara raksasa ini, tampak seperti mercusuar. Tetapi sekarang... ia lebih mirip cerobong asap."
+    },
+    {
+      "id": 76,
+      "content": "Terlalu banyak orang, terlalu banyak Distorsi terbakar sekaligus, jumlahnya begitu besar tak terbayangkan hingga nyaris tak sanggup kubayangkan. Asap hitam membubung—bukan, menyembur keluar dari cerobong yang menjulang ke langit, menyesakkan langit di atas N Corp."
+    },
+    {
+      "id": 77,
+      "content": "Tetapi asap itu tak menunjukkan tanda melambat. Ia terus menyembur tanpa henti dari bukaan itu, seolah hendak melahap Kota bulat-bulat."
+    },
+    {
+      "id": 78,
+      "content": "Dan tak lama kemudian, hujan mulai turun. Hujan yang membawa abu, ternoda merah tua dan hitam oleh asap."
+    },
+    {
+      "id": 79,
+      "model": "그레고르",
+      "content": "... Aroma... manusia..."
+    },
+    {
+      "id": 80,
+      "content": "Gregor mulai gemetar. Rokok yang tadi diisapnya terlepas dari jemarinya."
+    },
+    {
+      "id": 81,
+      "model": "오티스",
+      "content": "Manajer Eksekutif."
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "Mohon kuatkan dirimu. Kurasa peristiwa hari ini telah memulai hal-hal yang tak bisa dihentikan."
+    },
+    {
+      "id": 83,
+      "content": "Beberapa Pendosa bergumam tak berdaya saat asap pertanda buruk itu naik dan menyebar tanpa akhir di langit."
+    },
+    {
+      "id": 84,
+      "content": "Meursault pun berdiri bersama para Pendosa lain dan menatap asap yang membubung dengan ekspresi yang sulit dibaca."
+    },
+    {
+      "id": 85,
+      "model": "단테",
+      "content": "<... Bagaimana perasaanmu tentang ini, Meursault?>"
+    },
+    {
+      "id": 86,
+      "model": "뫼르소",
+      "content": "... Kurasa aku merasakan kengerian, kehancuran... dan duka."
+    },
+    {
+      "id": 87,
+      "content": "Aku tak punya cara untuk mengetahui persis apa yang tertangkap dalam tatapan Meursault, atau apakah pemahaman kami tentang perasaan \"ngeri\" sama dengan perasaan yang ia ungkapkan, tetapi..."
+    },
+    {
+      "id": 88,
+      "content": "... aku bisa merasakan lewat kata-katanya bahwa apa pun yang mengikatnya telah mengendur secara nyata."
+    },
+    {
+      "id": 89,
+      "model": "뫼르소",
+      "content": "Rantai-rantai itu... tak bisa dipatahkan, dan mereka akan selalu menjerat diriku."
+    },
+    {
+      "id": 90,
+      "content": "Matahari tenggelam ke dalam rahang asap yang melahap."
+    },
+    {
+      "id": 91,
+      "content": "Bersama-sama, kami putus asa."
+    },
+    {
+      "id": 92,
+      "content": "Bersama-sama, kami takut. Bersama-sama, kami menyaksikan batu besar itu sekali lagi bergoyang di tepi, pertanda ia akan jatuh."
+    },
+    {
+      "id": 93,
+      "content": "Tetapi Meursault tidak memalingkan pandangan; ia ingin tatapannya bertahan, bahkan saat hari berakhir."
+    },
+    {
+      "id": 94,
+      "place": "Di Atas Mephistopheles",
+      "model": "베르길리우스",
+      "content": "Pendosa #5. Dia yang tak pernah ditakdirkan untuk kembali."
+    },
+    {
+      "id": 95,
+      "model": "베르길리우스",
+      "content": "Selamat datang kembali."
+    },
+    {
+      "id": 96,
+      "model": "카론",
+      "content": "Ayo mulai lagi. Vroom sekali, vroom dua kali."
+    },
+    {
+      "id": 97,
+      "model": "뫼르소",
+      "content": "Untuk saat ini..."
+    },
+    {
+      "id": 98,
+      "model": "뫼르소",
+      "content": "Bahkan saat kita menunggu malam mengerikan itu merenggut kita semua..."
+    },
+    {
+      "id": 99,
+      "model": "뫼르소",
+      "content": "Kurasa kita bisa menyaksikan matahari terbenam bersama dan menanggungnya."
+    },
+    {
+      "id": 100,
+      "place": -1,
+      "content": "Ia melangkah maju, menyusuri kegelapan tak terhingga dengan penuh tekad."
+    },
+    {
+      "id": 101
+    },
+    {
+      "id": 102,
+      "place": "Di Suatu Tempat di N Corp.",
+      "teller": "Staf N Corp.",
+      "title": "N Corp.",
+      "content": "Kelanjutan bisnis Pengalaman Kalengan, tulang punggung ekonomi N Corp., telah menjadi... tidak berkelanjutan."
+    },
+    {
+      "id": 103,
+      "model": "크로머언니진짜",
+      "content": "Benar, tapi itu hanya masalah pasokan. Permintaan akan pengalaman yang hanya bisa disediakan Kaleng sangat besar."
+    },
+    {
+      "id": 104,
+      "model": "크로머언니진짜",
+      "content": "Tak seorang pun warga N Corp. bisa bertahan 2 hari tanpa melahap Pengalaman Kalengan."
+    },
+    {
+      "id": 105,
+      "teller": "Staf N Corp.",
+      "title": "N Corp.",
+      "content": "... Lalu apa yang harus kita—"
+    },
+    {
+      "id": 106,
+      "model": "크로머언니진짜",
+      "content": "Oh, ayolah! Ada apa dengan kalian semua? Sistem Sisyphe bukan satu-satunya cara memperoleh Sup Pengalaman. Kalian tahu, cara yang dipakai di masa jaya dulu!"
+    },
+    {
+      "id": 107,
+      "model": "크로머언니진짜",
+      "content": "Ya, itulah yang kumaksud—menguras Sup Pengalaman <i>langsung</i> dari materi otak."
+    },
+    {
+      "id": 108,
+      "model": "크로머언니진짜",
+      "content": "Pengalaman dengan kesegaran tiada banding! Sensasional! <i>Manusiawi!</i>"
+    },
+    {
+      "id": 109,
+      "teller": "Staf N Corp.",
+      "title": "N Corp.",
+      "content": "Yah, ya, tapi... Metode itu..."
+    },
+    {
+      "id": 110,
+      "model": "크로머언니진짜",
+      "content": "Apa? Apa masalahmu?"
+    },
+    {
+      "id": 111,
+      "model": "크로머언니진짜",
+      "content": "Ohh, apa kau takut pada Sipir yang sok suci itu?"
+    },
+    {
+      "id": 112,
+      "model": "야코프머리",
+      "content": "......."
+    },
+    {
+      "id": 113,
+      "model": "크로머언니진짜",
+      "content": "Wow, kapan kau sempat menangkapnya?"
+    },
+    {
+      "id": 114,
+      "model": "크로머언니진짜",
+      "content": "Pokoknya, itu menyelesaikan masalahnya, kan? Inkuisisi telah menggenggam paku dan menghantam \"masalah\" kalian hingga lenyap!"
+    },
+    {
+      "id": 115,
+      "teller": "Staf N Corp.",
+      "title": "N Corp.",
+      "content": "......."
+    },
+    {
+      "id": 116,
+      "model": "크로머언니진짜",
+      "content": "Tunggu, tunggu. Mari hening sejenak untuk rekan tim kita yang berharga. 1... 2... 3..."
+    },
+    {
+      "id": 117,
+      "model": "크로머언니진짜",
+      "content": "Nah, setelah itu selesai, mari kita mulai menyedot, ya? Pengalaman paling manusiawi dari semuanya, dari otak seorang Raksasa..."
+    },
+    {
+      "id": 118,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Sudah kau dapatkan?"
+    },
+    {
+      "id": 119,
+      "model": "에고구보",
+      "content": "Ya, dan tanpa banyak kesulitan. Yang perlu kulakukan hanyalah dengan lembut memungut makhluk yang merayap pelan ini dari tanah."
+    },
+    {
+      "id": 120,
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 121,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Sepasang mata, terhubung ke otak, dipeluk membran luar. Inilah dia."
+    },
+    {
+      "id": 122,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Adonan dari Wuthering Heights, Cacing Xianhuang dari Hongyuan, dan sekarang, <i>manusia</i> ini dari Grand Magasin..."
+    },
+    {
+      "id": 123,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Kita sudah mengumpulkan banyak petunjuk, bukan? Demi kemunculan Protoplast... kurasa kejatuhan N Corp. adalah harga yang adil."
+    },
+    {
+      "id": 124,
+      "place": "Di Luar Menara Sisyphe N Corp.",
+      "teller": "Staf N Corp.",
+      "title": "N Corp.",
+      "content": "Tunggu, yang ini bukan—"
+    },
+    {
+      "id": 125,
+      "teller": "Inkuisitor",
+      "title": "Nagel und Hammer",
+      "content": "Musnahkan, bersihkan...!"
+    },
+    {
+      "id": 126,
+      "model": "르루주브랜드디렉터다침",
+      "content": "Bagaimana mungkin mereka... membakar para Rouge..."
+    },
+    {
+      "id": 127,
+      "teller": "Fixer yang Kebingungan",
+      "title": "???",
+      "content": "Monster apa ini...?"
+    },
+    {
+      "id": 128,
+      "teller": "Fixer yang Serius",
+      "title": "???",
+      "content": "... Distorsi."
+    },
+    {
+      "id": 129,
+      "place": "Di Suatu Tempat di N Corp.",
+      "model": "넬리2",
+      "content": "Hujan turun."
+    },
+    {
+      "id": 130,
+      "model": "에고가환",
+      "content": "Hah... Aku nyaris tak bisa membedakan mereka. Mana yang manusia, dan mana yang Distorsi?"
+    },
+    {
+      "id": 131,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Laporkan situasinya, Nelly."
+    },
+    {
+      "id": 132,
+      "model": "넬리2",
+      "content": "Distorsi yang tidak terbakar oleh sistem pembuangan Menara Sisyphe telah dilepaskan, mengamuk di Distrik, Gang-Gang Belakang, dan Sarang."
+    },
+    {
+      "id": 133,
+      "model": "넬리2",
+      "content": "Kromer telah... memanggil dewan direksi lagi, tetapi krisis saat ini tampaknya tidak akan teratasi dalam waktu dekat."
+    },
+    {
+      "id": 134,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Begitu. Sejauh ini, tak ada penyimpangan dari perkembangan yang diprediksi."
+    },
+    {
+      "id": 135,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Hm."
+    },
+    {
+      "id": 136,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Rupa luar Distorsi beragam—ada yang berwujud mekanis, ada pula yang biologis, sangat menyerupai binatang."
+    },
+    {
+      "id": 137,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Akan menjadi semakin sulit untuk... membedakan pemakai prostetik dari Distorsi."
+    },
+    {
+      "id": 138,
+      "model": "에고구보",
+      "content": "Mereka akan terus-menerus dicurigai, hidup di bawah kecurigaan tak berujung sebagai Distorsi."
+    },
+    {
+      "id": 139,
+      "model": "넬리2",
+      "content": "Meski begitu, kecil kemungkinan orang-orang akan menganiaya semua pemakai prostetik tanpa pandang bulu. Terlalu banyak kepentingan yang terlibat untuk menyerang pemakai prostetik hanya karena mereka mungkin Distorsi. Ini simpul besar kepentingan uang dan politik yang kusut..."
+    },
+    {
+      "id": 140,
+      "model": "에고가환",
+      "content": "Bahkan jika mereka berani melawan Fixer dan Sindikat yang tak terhitung, beberapa Sayap menyalurkan pemasukannya ke akar industri prostetik. Mereka gila jika membuat musuh dari semuanya..."
+    },
+    {
+      "id": 141,
+      "model": "넬리2",
+      "content": "Malleus Maleficarum juga telah menyelesaikan persiapannya dan kini siap dikerahkan untuk bertempur. Mereka hanya perlu menunggu perintah untuk maju berperang."
+    },
+    {
+      "id": 142,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Dengan tiga Pemaku yang selama ini menahan para Penggenggam di Menara Sisyphe telah tiada... tak ada lagi seorang pun di N Corp. yang bisa menghentikan mereka."
+    },
+    {
+      "id": 143,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "... Kurasa ini berkembang persis seperti yang dibayangkan para Penggenggam."
+    },
+    {
+      "id": 144,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Distorsi yang dilepaskan menimbulkan kekerasan, menanamkan ketakutan pada orang-orang."
+    },
+    {
+      "id": 145,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Dan kebetulan ketakutan adalah pembenaran yang sangat baik untuk memberlakukan kebijakan yang mengharuskan orang \"membuktikan\" kemanusiaannya."
+    },
+    {
+      "id": 146,
+      "model": "에고가환",
+      "content": "Pengaruh Kromer dan Jacob di N Corp. akan semakin besar."
+    },
+    {
+      "id": 147,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Ya, benar. Dan Malleus Maleficarum telah menunggu dengan napas tertahan agar gumpalan asap di langit itu berubah menjadi hujan deras."
+    },
+    {
+      "id": 148,
+      "model": "에고구보",
+      "content": "Aku kurang yakin insinerator di Grand Magasin Sisyphe itu cukup. Mereka punya cukup banyak tahanan, bukan?"
+    },
+    {
+      "id": 149,
+      "model": "아세아",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Yah... kita semua bisa menduga hujan macam apa yang akan turun dari awan asap merah tua kehitaman itu."
+    },
+    {
+      "id": 150,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Sebagian orang sudah menciptakan istilah \"Hujan Sisyphean\". Aku penasaran apakah nama itu akan bertahan."
+    },
+    {
+      "id": 151,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Awan itu adalah asap Distorsi. Ketika hujan turun, esensinya akan meresap ke tanah... dan Distorsi dari Grand Magasin Sisyphe akan terlahir kembali dari bumi."
+    },
+    {
+      "id": 152,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Kromer menganggap pembakaran itu sungguh tragis, tetapi bagi Jacob... itu hanyalah bagian lain dari rencana."
+    },
+    {
+      "id": 153,
+      "model": "에고가환",
+      "content": "Akan seperti yang Anda prediksi, Direktur. Ancaman Distorsi akan muncul ke permukaan di Kota, sebagai fenomena yang sangat kasatmata—yang akan menjadi pembenaran sempurna untuk menggunakan kekuasaan semena-mena."
+    },
+    {
+      "id": 154,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Ya, benar. Asap ini... akan memulai perang."
+    },
+    {
+      "id": 155,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Mari kita rebut kesempatan selagi kekacauan pecah."
+    },
+    {
+      "id": 156,
+      "model": "넬리2",
+      "content": "Ah. Pasti hanya hujan sebentar. Hujannya sudah berhenti."
+    },
+    {
+      "id": 157,
+      "model": "넬리2",
+      "content": "... Hm?"
+    },
+    {
+      "id": 158,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Hm? Ada apa?"
+    },
+    {
+      "id": 159,
+      "model": "넬리2",
+      "content": "Kurasa aku melihat seorang... anak kecil. Kami hanya bertatapan sesaat, tetapi matanya mengingatkanku pada seorang anak lain yang dulu kuasuh. Punya tatapan yang sama, dan... tingginya juga sekitar sama."
+    },
+    {
+      "id": 160,
+      "model": "넬리2",
+      "content": "Mereka berjalan terpincang-pincang memasuki Gang-Gang Belakang, mengenakan semacam penutup compang-camping yang basah kuyup oleh hujan. Aku tak bisa melihat jelas karena sudah sangat usang, tetapi... warna jubah itu mengingatkanku pada warna Golden Bough."
+    },
+    {
+      "id": 161,
+      "model": "헤르만",
+      "title": "Liga Baru Sembilan Literatur N Corp.",
+      "content": "Begitukah? Yah, semoga anak itu sampai di rumah dengan selamat."
+    },
+    {
+      "id": 162,
+      "model": "넬리2",
+      "content": "Hmm... Dengan kekacauan yang terjadi di dalam Distrik... aku penasaran apakah anak itu akan hidup sampai besok."
+    },
+    {
+      "id": 163,
+      "model": "넬리2",
+      "content": "Mungkin tak ada yang mengurus mereka dengan semua yang sedang terjadi."
+    },
+    {
+      "id": 164,
+      "place": "???",
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>Terima kasih telah menjaga anak-anak itu.</color>"
+    },
+    {
+      "id": 165,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>Kurasa Asal berperan penting dalam menjaga pikiran mereka agar tidak hancur.</color>"
+    },
+    {
+      "id": 166,
+      "model": "푸른여인",
+      "content": "<color=#4457b1>Demi... perjalanan pulang... menuju bintang...</color>"
+    },
+    {
+      "id": 167,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>Aku minta maaf atas apa yang terjadi sebelumnya. Aku tahu permintaan maaf saja tak cukup untuk menebusnya...</color>"
+    },
+    {
+      "id": 168,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>... Ada sesuatu yang sudah lama ingin kutanyakan. Bagaimana kalian bisa tetap berada dalam batas-batas Kota?</color>"
+    },
+    {
+      "id": 169,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>Kalian bukan... manusia.</color>"
+    },
+    {
+      "id": 170,
+      "model": "푸른여인",
+      "content": "<color=#4457b1>.......</color>"
+    },
+    {
+      "id": 171,
+      "model": "푸른여인",
+      "content": "<color=#4457b1>... Bagaimana denganmu?</color>"
+    },
+    {
+      "id": 172
+    }
+  ]
+}
