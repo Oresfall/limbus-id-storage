@@ -1,0 +1,71 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruangan Terang, 7F",
+      "model": "잔느",
+      "content": "Ini benar-benar... tarian yang kacau balau. Kau tahu itu, kan?"
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "... Sepertinya memang begitu."
+    },
+    {
+      "id": 2,
+      "model": "잔느",
+      "content": "......."
+    },
+    {
+      "id": 3,
+      "place": -1,
+      "model": "잔느",
+      "content": "Kita tak akan pernah berhenti merindukan satu sama lain."
+    },
+    {
+      "id": 4,
+      "model": "잔느",
+      "content": "Akan sulit tanpa satu sama lain."
+    },
+    {
+      "id": 5,
+      "model": "잔느",
+      "content": "Dan tanpa satu sama lain, setiap saat yang kita jalani akan menjadi rasa sakit."
+    },
+    {
+      "id": 6,
+      "model": "잔느",
+      "content": "Setelah kau meninggalkanku, dan setelah waktu berlalu... <i>Suatu saat nanti, kamu akan merindukanku.</i>"
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "... Kurasa begitu."
+    },
+    {
+      "id": 8,
+      "model": "뫼르소",
+      "content": "Tapi itu pun akan kutanggung."
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "Jeanne, apakah kau masih merasakan... rasa mual itu?"
+    },
+    {
+      "id": 10,
+      "model": "잔느",
+      "content": "... Tidak, sudah hilang. Kenapa begitu?"
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "Karena kita menyuntikkan ketukan dan irama ke dalam sesuatu yang pada akhirnya tidak bermakna..."
+    },
+    {
+      "id": 12,
+      "model": "뫼르소",
+      "content": "... dan memutuskan untuk menikmati sensasi yang akan segera berakhir ini. Itulah sebabnya."
+    }
+  ]
+}
