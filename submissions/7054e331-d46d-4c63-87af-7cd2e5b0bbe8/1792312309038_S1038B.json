@@ -1,0 +1,73 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruangan Terang, 7F",
+      "model": "잔느변신",
+      "content": "Begitu rupanya... Kau masih menolak menilai apa pun. Bahkan sinar matahari ini, atau toserba ini."
+    },
+    {
+      "id": 1,
+      "model": "잔느변신",
+      "content": "Tidakkah kau mengerti? <i>Inilah akhirnya</i>. Akhir dari Grand Magasin. Kau boleh berjuang sepuas hatimu, tapi itu tidak akan secara ajaib melubangi kenyataan ini untuk dijadikan jalan keluar."
+    },
+    {
+      "id": 2,
+      "model": "잔느변신",
+      "content": "Jadi mengapa... mengapa kau terus mencoba membuat \"pilihan yang berbeda\"? Katakan padaku. Aku ingin tahu apa tujuan akhirmu."
+    },
+    {
+      "id": 3,
+      "content": "Meski kami semua bisa mendengar apa yang dikatakan Jeanne... kami tahu setiap kata ditujukan hanya untuk Meursault."
+    },
+    {
+      "id": 4,
+      "content": "Meursault memejamkan mata, seolah sedang mempertimbangkan sesuatu. Ketika membukanya lagi, ia melirik sekilas ke arah para Pendosa dan aku."
+    },
+    {
+      "id": 5,
+      "model": "뫼르소",
+      "content": "... Untuk membiarkan mereka keluar dari sini."
+    },
+    {
+      "id": 6,
+      "model": "잔느변신",
+      "content": "Hah."
+    },
+    {
+      "id": 7,
+      "model": "잔느변신",
+      "content": "Aku sudah lama mengamatimu sebelum memutuskan untuk menjadi bagian dari hidupmu."
+    },
+    {
+      "id": 8,
+      "model": "잔느변신",
+      "content": "Ma puce, berhentilah membohongi dirimu sendiri. Kau pikir aku tidak akan sadar saat kau hanya membiarkan orang lain yang mengambil keputusan?"
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 10,
+      "model": "잔느변신",
+      "content": "Embusan napas yang menjadi angin pengembara; ranting pohon yang menancap cukup dalam hingga menjadi tanah; batu yang menjadi lanskap; hal-hal yang dulunya kelopak bunga atau helai rumput..."
+    },
+    {
+      "id": 11,
+      "model": "잔느변신",
+      "content": "Manusia yang memelintir dirinya demi ekspresi, demi makna... Kota ini pun melakukan hal yang kurang lebih sama..."
+    },
+    {
+      "id": 12,
+      "model": "잔느변신",
+      "content": "Semuanya hanyalah... gerakan tanpa arah yang hanyut, tidak lebih."
+    },
+    {
+      "id": 13,
+      "model": "잔느변신",
+      "content": "Pada hari pertama kita bertemu, kupikir kau adalah seseorang yang merasakan dan mengalami semua remeh-temeh keberadaan itu. Itulah sebabnya aku memutuskan untuk berbicara denganmu."
+    }
+  ]
+}
