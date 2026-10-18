@@ -1,0 +1,55 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruangan Terang, 7F",
+      "model": "뫼르소다침",
+      "content": "Gelap. Seperti bioskop yang tak dinyalakan lampunya."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소다침",
+      "content": "Baru sekarang sensasinya terasa nyata. Golden Bough berada di luar sekaligus di dalam tempat ini."
+    },
+    {
+      "id": 2,
+      "model": "뫼르소다침",
+      "content": "Meski tempat ini tidak ada secara fisik, dari bayangan cermin yang sempurna itu... pancaran cahaya nyata yang sama mengalir masuk."
+    },
+    {
+      "id": 3,
+      "model": "뫼르소다침",
+      "content": "Dan matahari... beserta cahayanya... menyinari kita."
+    },
+    {
+      "id": 4,
+      "model": "잔느변신",
+      "content": "<color=#bf1a42>... Menarik. Kau bisa menyampaikan kehendakmu kepada Grand Magasin, bahkan sebagai seseorang yang bukan Raksasa?</color>"
+    },
+    {
+      "id": 5,
+      "model": "잔느변신",
+      "content": "<color=#bf1a42>Tapi ma puce, kurasa itu tidak akan—</color>"
+    },
+    {
+      "id": 6,
+      "model": "뫼르소다침",
+      "content": "Jeanne. Jangan berpikir."
+    },
+    {
+      "id": 7,
+      "model": "뫼르소다침",
+      "content": "Dengarkan apa yang kau rasakan dari dalam."
+    },
+    {
+      "id": 8,
+      "model": "뫼르소다침",
+      "content": "Dan katakan padaku apa yang dikatakannya."
+    },
+    {
+      "id": 9,
+      "model": "잔느변신",
+      "content": "<color=#bf1a42>.......</color>"
+    }
+  ]
+}
