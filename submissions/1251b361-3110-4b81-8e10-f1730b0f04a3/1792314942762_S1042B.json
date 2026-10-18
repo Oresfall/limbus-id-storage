@@ -1,0 +1,621 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "뫼르소",
+      "content": "Aku melihat keatas."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "Di sana ada matahari, bersinar dari atas kami semua. Sama seperti pada hari aku membunuh Ibu."
+    },
+    {
+      "id": 2,
+      "place": "???",
+      "model": "뫼르소",
+      "content": "Sesuatu menjerit. Suaranya tidak seperti apa pun yang pernah kudengar."
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "Jika terpaksa, akan kubandingkan dengan jeritan binatang yang terluka."
+    },
+    {
+      "id": 4,
+      "model": "뫼르소엄마아픔",
+      "content": "Tak peduli ke mana pun aku pergi—ia selalu ada! Ia tak mau meninggalkanku. Aku tak pernah sendirian!\nSuara ini, ia—ia—ia tak mau berpaling dariku!"
+    },
+    {
+      "id": 5,
+      "model": "뫼르소엄마아픔",
+      "content": "Ohh... betapa sinar matahari menusuk kulitku... betapa mengerikannya... hangat..."
+    },
+    {
+      "id": 6,
+      "model": "뫼르소엄마아픔",
+      "content": "Kukira aku bisa sendirian dalam gelapnya kamarku... Hanya untuk satu saat berharga yang sunyi... Tanpa ada yang mengawasiku... tanpa memakuku dengan tatapan mereka...!"
+    },
+    {
+      "id": 7,
+      "model": "뫼르소엄마아픔",
+      "content": "Hnnh... Aku... Bahkan sekarang, aku merasakannya...! Tatapan itu... Matahari itu...! Suara itu...!! Ia terus mengikutiku!! Menguntitku sejak hari-hari yang panjang dan gelap itu... dan malam-malam yang menyakitkan karena terlalu terang datang dan pergi... Ia ada di sini, bahkan sekarang... Mengepungku...!"
+    },
+    {
+      "id": 8,
+      "model": "뫼르소엄마아픔",
+      "content": "Ia... memahamiku... Ia... <i>AAAAHHHH!!!</i> Ia telah memakuku... dengan paku... dan palu...!!!"
+    },
+    {
+      "id": 9,
+      "model": "뫼르소엄마아픔",
+      "content": "Tatapan itu... tatapan yang menembus diriku... Aku... mengerti sekarang... Itu kau...! Jangan menatapku! Berhenti mengikutiku!!"
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Ibu menerobos keluar dari kamar dengan kekuatan yang cukup untuk melepaskan pintu dari engselnya."
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "Saat tubuhnya menggeliat dan kejang, sesuatu meledak keluar dari dirinya."
+    },
+    {
+      "id": 12,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Meursault...! Tatapan yang mengawasiku itu... itu... itu milikku...! Ia <i>menjadi</i> milikku, aku diawasi oleh tatapanku sendiri...!"
+    },
+    {
+      "id": 13,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Aku tak bisa... aku tak bisa... Apakah ia akhirnya datang untukku, kekosongan terakhir itu...? Oh, ya... aku sudah berusaha... aku benar-benar, benar-benar sudah berusaha sekuat tenaga..."
+    },
+    {
+      "id": 14,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Aku bahkan tidak diizinkan... sesaat saja untuk bernapas... Semuanya sudah berakhir sekarang... Ini memang tak pernah akan—"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Aku tak bisa lari... aku tak bisa bernapas... aku tak bisa berbuat apa-apa, Meursault...!"
+    },
+    {
+      "id": 16,
+      "model": "뫼르소",
+      "content": "Ibu..."
+    },
+    {
+      "id": 17,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Jangan...! Meursault, anakku!"
+    },
+    {
+      "id": 18,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Sebelum aku menyakitimu, sebelum aku— Sebelum aku mencungkil matamu, kau harus..."
+    },
+    {
+      "id": 19,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Oh, aku akan berakhir membunuh anakku sendiri!!"
+    },
+    {
+      "id": 20,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Cepat, selagi penyesalan masih mencekikku... selagi rasa bersalah seorang ibu yang gagal akan membunuh putranya menahanku... Oh, aku tak pernah menginginkan ini, kasih sayang seorang ibu ini... <i>Lakukanlah, bunuh aku sekarang!</i>"
+    },
+    {
+      "id": 21,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Kau benar, aku tak pernah memilih satu pun dari semua ini...! Perasaan-perasaan ini, semuanya hanyalah biologi—reaksi kimia di otakku yang menanamkan emosi-emosi ini padaku... hanya karena aku terlahir sebagai makhluk ini... manusia...!"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "AHHHH!! Berhenti, kumohon berhenti... Mata-mata itu menghantamkan paku mereka ke dalam diriku... Aku... mengawasi diriku sendiri...! Tidak, aku tak menginginkan ini... Aku tak ingin kau memahamiku..."
+    },
+    {
+      "id": 23,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Aku hanya ingin... bernapas... Aku tak bisa hidup lagi... Aku tak bisa hidup seperti ini... Mengetahui bahwa seseorang selalu mengawasiku... Dipaku oleh tatapan mereka..."
+    },
+    {
+      "id": 24,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Meursault, sayang... biarkan aku memakukan peran sebagai putraku padamu sejenak...! Jika kau manusia... jika kau sesuatu yang keluar dari rahimku, maka <i>bunuh aku!</i>"
+    },
+    {
+      "id": 25,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Bunuh aku, Meursault... Kau putraku... Itu paling tidak yang bisa kau lakukan untuk Ibumu... Meursault..."
+    },
+    {
+      "id": 26,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "Meski tidak mendengar sesuatu yang terdengar seperti tangisan dari Ibu, aku menilai bahwa ia sedang menangis."
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "... Benarkah? Ia meraung dan menjerit, ya. Tapi apakah itu cukup untuk didefinisikan sebagai <i>menangis</i>?"
+    },
+    {
+      "id": 28,
+      "model": "뫼르소",
+      "content": "Seberkas sinar matahari di atas ibuku nyaris membuatnya tampak seperti sedang tertawa. Dari sudut yang berbeda, ia tampak hanya sesaat lagi dari pembebasan sejati. Lalu..."
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Tangkai-tangkai pikiranku melahirkan tangkai yang melahirkan tangkai yang lebih halus lagi. Mekarnya penyesalan yang hidup di hatiku, merambat menuju otakku yang suka menghakimi dan membangkang."
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "Ibu melangkah satu langkah ke arahku. Lalu satu lagi."
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Setiap langkah yang diambil adalah satu langkah menjauh dari wujud manu—tidak. Aku tak boleh mendefinisikan apa itu manusia. Ibu takut pada tatapan. Aku tak boleh menetapkan dan memaku ibuku. Aku tak boleh menghakimi... maka aku berhenti."
+    },
+    {
+      "id": 32,
+      "place": "???",
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Berhenti memikirkannya, Meursault—bunuh pikiran itu! <i>Bunuh saja aku!!</i>"
+    },
+    {
+      "id": 33,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "Rantai yang sama, yang dulu kupandang bersama Ibu, merayap turun dari langit-langit."
+    },
+    {
+      "id": 34,
+      "model": "뫼르소",
+      "content": "Meski rantai telah membelitnya, Ibu terus melangkah ke arahku, menembus rasa sakit."
+    },
+    {
+      "id": 35,
+      "model": "뫼르소",
+      "content": "Tangannya terulur padaku, lalu melingkar di leherku. Mereka mulai mencekik. Seembus napas, sebuah refleks, terperas keluar dari tenggorokanku."
+    },
+    {
+      "id": 36,
+      "place": "???",
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Tak ada lagi penghakiman, oke? Bertindaklah saja. Itu satu-satunya... cara untuk... menyelamatkan... dirimu..."
+    },
+    {
+      "id": 37,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 38,
+      "model": "뫼르소",
+      "content": "Aku meraih rantai yang telah jatuh menimpa Ibu—dan menariknya."
+    },
+    {
+      "id": 39,
+      "model": "뫼르소",
+      "content": "Makhluk yang bukan berwujud Ibu, melainkan yang telah kudefinisikan sebagai Ibu, meronta dengan keras."
+    },
+    {
+      "id": 40,
+      "model": "뫼르소",
+      "content": "Ibu meronta dengan keras."
+    },
+    {
+      "id": 41,
+      "model": "뫼르소",
+      "content": "Aku bertindak untuk membebaskan ibuku dari penderitaannya. Aku bertindak untuk membunuh ibuku. Seperti yang seharusnya dilakukan seorang putra."
+    },
+    {
+      "id": 42,
+      "model": "뫼르소엄마",
+      "content": "Ghk... Kergh..."
+    },
+    {
+      "id": 43,
+      "model": "뫼르소",
+      "content": "Jari-jariku menegang di sekeliling rantai saat aku menariknya. Aku mendengar Ibu mengerang kesakitan."
+    },
+    {
+      "id": 44,
+      "model": "뫼르소",
+      "content": "Ibu yang tak berwujud Ibu meronta dengan keras. Ia mencoba membunuhku."
+    },
+    {
+      "id": 45,
+      "model": "뫼르소",
+      "content": "Tadi, Ibu yang berwujud Ibu menjerit padaku: \"bunuh aku.\" Apakah Ibu sungguh ingin mati, atau apakah ia—"
+    },
+    {
+      "id": 46,
+      "model": "뫼르소",
+      "content": "Aku tidak menghakimi. Aku bertindak sesuai yang diperintahkan. Aku menarik rantai sejauh gaya tariknya mengizinkan. Aku menarik lebih jauh. Aku menarik melampauinya."
+    },
+    {
+      "id": 47,
+      "model": "뫼르소",
+      "content": "Aku merasakan sebuah tatapan. Tatapan yang sama yang ditakuti Ibu. Ia sedang mengawasi seseorang.\n<i>Ia sedang mengawasiku.</i>"
+    },
+    {
+      "id": 48,
+      "model": "뫼르소",
+      "content": "Aku takut. Ibu yang tidak tampak seperti Ibu tak bisa berangkat kerja besok karena penampilannya tidak sesuai dengan definisi tentang bagaimana rupa manusia. Ia tak bisa berpartisipasi sebagai anggota masyarakat. Lalu makhluk yang didefinisikan sebagai Ibu telah tiada, dan sesuatu yang baru lahir telah mengambil tempatnya.\n"
+    },
+    {
+      "id": 49,
+      "model": "뫼르소",
+      "content": "Maka mungkin makhluk itu sama sekali bukan Ibu."
+    },
+    {
+      "id": 50,
+      "model": "뫼르소",
+      "content": "Gelombang penyesalan mencengkeramku. Rasa bersalah. Sesal. Emosi-emosi yang sama yang dipakukan ke dalam diriku saat keberadaanku bermula, seperti yang dikatakan Ibu, melonjak tak terkendali."
+    },
+    {
+      "id": 51,
+      "model": "뫼르소",
+      "content": "Maka mungkin makhluk itu adalah—"
+    },
+    {
+      "id": 52,
+      "model": "뫼르소",
+      "content": "Aku berhenti menghakimi. Aku berhenti berpikir. Sampai aku tak lagi menjadi objek perhatian siapa pun, sampai keheningan tiba—selama apa pun itu—aku menarik rantai."
+    },
+    {
+      "id": 53,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 54,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 55,
+      "model": "뫼르소",
+      "content": "Rantai itu putus."
+    },
+    {
+      "id": 56,
+      "model": "뫼르소",
+      "content": "Ibu yang tidak tampak seperti Ibu, Ibu, sesuatu yang dulu Ibu, tergeletak tak bergerak di tanah."
+    },
+    {
+      "id": 57,
+      "model": "뫼르소",
+      "content": "Lalu... tirai-tirai terbuka."
+    },
+    {
+      "id": 58,
+      "model": "뫼르소",
+      "content": "Sinar matahari menembus masuk, dan Suara itu—"
+    },
+    {
+      "id": 59,
+      "model": "뫼마지막임시",
+      "content": "Aku memejamkan mata, tetapi cahaya menembus kelopaknya, memenuhi penglihatanku dengan merah yang panas.\nBisikan. Panas. Kebaikan. Mual."
+    },
+    {
+      "id": 60,
+      "model": "뫼마지막임시",
+      "content": "Keberadaan itu tak tertahankan menyesakkan. Kebebasan, menakutkan. Definisi, sewenang-wenang dan rapuh."
+    },
+    {
+      "id": 61,
+      "model": "뫼마지막임시",
+      "content": "Lalu, apa dalam hidup ini yang bisa menjadi bukti \"aku\"?"
+    },
+    {
+      "id": 62,
+      "model": "뫼마지막임시",
+      "content": "Ingatan? Pengalaman?"
+    },
+    {
+      "id": 63,
+      "model": "뫼르소",
+      "content": "Bukan keduanya. Apa yang kupikirkan, apa yang kupilih untuk kuterima..."
+    },
+    {
+      "id": 64,
+      "model": "뫼르소",
+      "content": "... adalah saat ini."
+    },
+    {
+      "id": 65,
+      "model": "뫼르소",
+      "content": "Aku merasakan... momen ini. <i>Saat ini</i>."
+    },
+    {
+      "id": 66,
+      "place": "Gedung Pengadilan N Corp., Masa Lalu",
+      "model": "판사",
+      "content": "Terdakwa. Sebutkan waktu ketika Anda membunuh ibu Anda."
+    },
+    {
+      "id": 67,
+      "model": "뫼르소",
+      "content": "Sebelum aku sadar, aku telah dibawa ke hadapan pengadilan. Kapan Ibu mengembuskan napas terakhir? Aku merasakan licin hangat di telapak tanganku. Darah dari kulit yang robek."
+    },
+    {
+      "id": 68,
+      "model": "뫼르소",
+      "content": "Aku jejak kehilangan waktu. Ibu pun kehilangan jejak waktu. Ibu telah menyatakan keinginannya untuk mati, dengan jelas dan putus asa."
+    },
+    {
+      "id": 69,
+      "model": "뫼르소",
+      "content": "Tetapi mereka terus bertanya—kapan Ibu mengembuskan napas terakhir?"
+    },
+    {
+      "id": 70,
+      "model": "뫼르소",
+      "content": "Benda yang mati itu didefinisikan sebagai Ibu, tetapi itu bukan Ibu. Itu sesuatu yang lain."
+    },
+    {
+      "id": 71,
+      "model": "뫼르소",
+      "content": "Rantaiku putus tak lama setelah Ibu meninggal. Rantaiku putus lama setelah Ibu meninggal. Atau mungkin Ibu meninggal sebelum rantaiku putus."
+    },
+    {
+      "id": 72,
+      "model": "과거뫼르소",
+      "content": "Aku membunuh Ibu hari ini. Atau mungkin kemarin."
+    },
+    {
+      "id": 73,
+      "model": "뫼르소",
+      "content": "Mereka menanggapi dengan kemarahan serempak. Mereka menyatakan bahwa aku tidak memahami beratnya perbuatanku dan menjadikannya bukti atas jawabanku yang ambigu dan bertele-tele."
+    },
+    {
+      "id": 74,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 75,
+      "model": "뫼르소",
+      "content": "Aku tidak berkata apa-apa sebagai tanggapan. Pada saat itu mereka sudah menghantamkan paku-paku ke dalam diriku, dan aku sudah memutuskan untuk tetap terikat."
+    },
+    {
+      "id": 76,
+      "model": "판사",
+      "content": "Terdakwa. Sebutkan alasan Anda melakukan perbuatan itu."
+    },
+    {
+      "id": 77,
+      "model": "뫼르소",
+      "content": "Aku tak punya cara untuk mengetahuinya. Aku berharap ada orang lain yang menyatakannya menggantikanku."
+    },
+    {
+      "id": 78,
+      "model": "뫼르소",
+      "content": "Aku membunuh Ibu? Tetapi kukira aku membunuh sesuatu yang bukan lagi Ibu."
+    },
+    {
+      "id": 79,
+      "model": "뫼르소",
+      "content": "Ibu selalu takut pada tatapan. Ketika ia sadar tak ada jalan lari dari tatapan itu, ia malah menginginkan kematian."
+    },
+    {
+      "id": 80,
+      "model": "뫼르소",
+      "content": "Sinar matahari mengubah Ibu menjadi wujud yang tak lagi dikenali sebagai manusia, dan aku melilitkan rantai di leher Ibu dan membawanya pada kematian."
+    },
+    {
+      "id": 81,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 82,
+      "model": "판사",
+      "content": "<i>Jawab!</i>"
+    },
+    {
+      "id": 83,
+      "model": "뫼르소",
+      "content": "Jeritan melengking mencabik gendang telinga dan menghantam telingaku tanpa ampun."
+    },
+    {
+      "id": 84,
+      "model": "뫼르소",
+      "content": "Tatapan kolektif dari mata-mata di kolom kedua dari kiri hingga kolom kelima belas dari kanan menekan diriku."
+    },
+    {
+      "id": 85,
+      "model": "뫼르소",
+      "content": "Dari delapan puluh sembilan jari telunjuk dan delapan puluh enam tenggorokan tercurah banjir kesedihan, ketakutan, kebencian, cacian."
+    },
+    {
+      "id": 86,
+      "model": "뫼르소",
+      "content": "Pertanyaan-pertanyaan yang terbentuk dari berbagai emosi perlahan mencekik napasku."
+    },
+    {
+      "id": 87,
+      "model": "뫼르소",
+      "content": "Hanya saja..."
+    },
+    {
+      "id": 88,
+      "model": "과거뫼르소",
+      "content": "Sinar matahari itu... terlalu menyilaukan..."
+    },
+    {
+      "id": 89,
+      "model": "뫼르소",
+      "content": "Sinar matahari itu terlalu menyilaukan, hanya itu."
+    },
+    {
+      "id": 90,
+      "model": "판사",
+      "content": "......."
+    },
+    {
+      "id": 91,
+      "model": "뫼르소",
+      "content": "Ruang pengadilan senyap. Sinar matahari terus berbisik di telingaku."
+    },
+    {
+      "id": 92,
+      "model": "뫼르소",
+      "content": "Sama seperti yang dibisikkannya pada telinga Ibu."
+    },
+    {
+      "id": 93,
+      "model": "뫼르소",
+      "content": "Sinar matahari berbicara tentang kehangatan dan pancaran yang menyilaukan dan menusuk..."
+    },
+    {
+      "id": 94,
+      "model": "뫼르소",
+      "content": "... dan aku gemetar ketakutan, yang membawa serta serangan migrain."
+    },
+    {
+      "id": 95,
+      "model": "뫼르소",
+      "content": "Aku menyerah mencoba mengungkapkan pikiran-pikiran ini dengan kata-kata."
+    },
+    {
+      "id": 96,
+      "model": "뫼르소",
+      "content": "Lagi pula, mereka sebenarnya tidak penasaran dengan apa yang kupikirkan."
+    },
+    {
+      "id": 97,
+      "model": "판사",
+      "content": "Pengadilan dengan ini menjatuhkan hukuman kepada terdakwa, Meursault, untuk..."
+    },
+    {
+      "id": 98,
+      "model": "뫼르소",
+      "content": "Aku merasa pusing."
+    },
+    {
+      "id": 99,
+      "model": "뫼르소",
+      "content": "Aku akan berani menghakimi, bertindak dengan kemauan sendiri, dan jika aku salah, aku akan berubah. Tetapi aku akan terus maju."
+    },
+    {
+      "id": 100,
+      "model": "뫼르소",
+      "content": "Aku takut menyuarakan isi hatiku, dan menindaklanjutinya, karena tak ada cara untuk mengetahui apa yang benar."
+    },
+    {
+      "id": 101,
+      "model": "뫼르소",
+      "content": "Dunia tanpa kepastian adalah dunia tanpa jawaban, dan terlempar ke dunia tanpa jawaban ini, aku begitu takut pada <i>saat ini</i> sampai-sampai—"
+    },
+    {
+      "id": 102,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "Tetapi aku tetap mengulurkan tanganku. Meski aku takut."
+    },
+    {
+      "id": 103,
+      "model": "뫼르소",
+      "content": "Aku mengulurkan tanganku ke arah matahari."
+    },
+    {
+      "id": 104,
+      "model": "잔느변신2",
+      "content": "Ma puce... mereka akan memakumu lalu meninggalkanmu, seperti yang mereka lakukan di ruang pengadilan."
+    },
+    {
+      "id": 105,
+      "model": "뫼르소",
+      "content": "Aku tidak peduli. Itu termasuk kebebasan mereka."
+    },
+    {
+      "id": 106,
+      "model": "뫼르소",
+      "content": "Tetapi jika aku yakin bahwa mereka telah salah memahamiku..."
+    },
+    {
+      "id": 107,
+      "model": "뫼르소",
+      "content": "Aku akan berbicara lagi."
+    },
+    {
+      "id": 108,
+      "model": "잔느변신2",
+      "content": "Mereka akan salah memahamimu lagi."
+    },
+    {
+      "id": 109,
+      "model": "뫼르소",
+      "content": "Maka aku akan berbicara lagi."
+    },
+    {
+      "id": 110,
+      "model": "뫼르소",
+      "content": "Dengan senang hati aku akan salah lagi dan lagi, salah bicara dan disalahpahami berkali-kali."
+    },
+    {
+      "id": 111,
+      "model": "뫼르소",
+      "content": "Bahkan jika seluruh premisnya salah, bahkan jika semuanya hanyalah ilusi yang lewat..."
+    },
+    {
+      "id": 112,
+      "model": "뫼르소",
+      "content": "Berdasarkan sensasiku, aku akan menghakimi. Berdasarkan sensasiku, aku akan berbicara tanpa ragu."
+    },
+    {
+      "id": 113,
+      "model": "잔느변신2",
+      "content": "Jadi itu jawabanmu, ma puce."
+    },
+    {
+      "id": 114,
+      "model": "카르멘",
+      "content": "Jadi itu jawabanmu, Meur."
+    },
+    {
+      "id": 115,
+      "model": "뫼르소",
+      "content": "Jadi..."
+    },
+    {
+      "id": 116,
+      "model": "뫼르소",
+      "teller": "Monolog",
+      "content": "Sinar matahari yang baik hati, dengan hati yang berlimpah untuk segala yang ada, sinar matahari yang tak bertanggung jawab..."
+    },
+    {
+      "id": 117,
+      "model": "뫼르소",
+      "teller": "Monolog",
+      "content": "Cahaya yang mengejarku ini, ia..."
+    },
+    {
+      "id": 118,
+      "model": "뫼르소",
+      "teller": "Monolog",
+      "content": "... berisik."
+    },
+    {
+      "id": 119,
+      "model": "뫼르소",
+      "teller": "Monolog",
+      "content": "Jadi..."
+    },
+    {
+      "id": 120,
+      "model": "뫼르소",
+      "content": "Diamlah."
+    }
+  ]
+}
