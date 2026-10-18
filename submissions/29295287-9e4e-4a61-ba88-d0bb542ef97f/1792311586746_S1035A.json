@@ -1,0 +1,120 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Restoran, 5F",
+      "model": "뷔페어른",
+      "content": "......."
+    },
+    {
+      "id": 1,
+      "model": "뷔페어른",
+      "content": "Meursault, Dante... Aku ini apa?"
+    },
+    {
+      "id": 2,
+      "model": "뷔페어른",
+      "content": "Apa sifat sejatiku? Mengapa aku harus dilahirkan seperti ini?"
+    },
+    {
+      "id": 3,
+      "model": "뷔페어른",
+      "content": "Apakah aku ini ingatan, atau pengalaman?"
+    },
+    {
+      "id": 4,
+      "model": "뷔페어른",
+      "content": "... Aku sudah tahu jawabannya. Lihat aku, melahap segalanya... \"Pengalaman\" pastilah diriku."
+    },
+    {
+      "id": 5,
+      "model": "뫼르소다침",
+      "content": "Buffet, mengapa kau..."
+    },
+    {
+      "id": 6,
+      "model": "뷔페어른",
+      "content": "... \"Pwie.\""
+    },
+    {
+      "id": 7,
+      "model": "뷔페어른",
+      "content": "Panggil aku... dengan nama itu."
+    },
+    {
+      "id": 8,
+      "model": "뫼르소다침",
+      "content": "... Pwie."
+    },
+    {
+      "id": 9,
+      "model": "뫼르소다침",
+      "content": "Mengapa kau berhenti?"
+    },
+    {
+      "id": 10,
+      "model": "뷔페어른",
+      "content": "... Karena..."
+    },
+    {
+      "id": 11,
+      "model": "뷔페어른",
+      "content": "Karena aku tidak ingin bertarung denganmu lagi."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 13,
+      "model": "뷔페어른",
+      "content": "Kau tahu, mendaki tempat ini sendirian, semuanya terasa... begitu dingin dan keras."
+    },
+    {
+      "id": 14,
+      "model": "뫼르소다침",
+      "content": "Pasti sulit bagimu."
+    },
+    {
+      "id": 15,
+      "model": "뫼르소다침",
+      "content": "... Apakah kakimu sakit?"
+    },
+    {
+      "id": 16,
+      "model": "뷔페어른",
+      "content": "Sakit. Masih sakit."
+    },
+    {
+      "id": 17,
+      "model": "뷔페어른",
+      "content": "Jadi maukah kau... memakaikan sepatu bunga itu padaku lagi?"
+    },
+    {
+      "id": 18,
+      "model": "뫼르소다침",
+      "content": "... Kami akan melakukannya."
+    },
+    {
+      "id": 19,
+      "model": "뷔페어른",
+      "content": "Dan setelah itu..."
+    },
+    {
+      "id": 20,
+      "model": "뷔페어른",
+      "content": "Dan setelah itu... bolehkah aku ikut bersamamu... lagi?"
+    },
+    {
+      "id": 21,
+      "model": "뫼르소다침",
+      "content": "......."
+    },
+    {
+      "id": 22,
+      "model": "뫼르소다침",
+      "content": "Ya, boleh."
+    }
+  ]
+}
