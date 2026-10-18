@@ -1,0 +1,387 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruangan Terang, 7F",
+      "content": "Panggung tempat Meursault berdiri terbuat dari irasionalitas."
+    },
+    {
+      "id": 1,
+      "content": "Meursault berjuang tanpa harapan melawan arus. Sendirian. Ditinggalkan tanpa peran."
+    },
+    {
+      "id": 2,
+      "content": "Dan berdiri dalam kegelapan, aku hanya bisa menyaksikan ombak membawanya pergi."
+    },
+    {
+      "id": 3,
+      "content": "Tepat ketika rasa tak berdaya mulai menggerogotiku, dalam keheningan pengap kegelapan yang menolak menjawab apa pun..."
+    },
+    {
+      "id": 4,
+      "content": "Sinar matahari menemukanku."
+    },
+    {
+      "id": 5,
+      "place": "???",
+      "model": "카르멘진짜",
+      "content": "Ada sesuatu yang mengganjal di pikiranmu, Dante."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 7,
+      "model": "카르멘진짜",
+      "content": "Atau... mungkin kau takut? Takut akan pilihan-pilihan yang akan datang?"
+    },
+    {
+      "id": 8,
+      "content": "Meursault memperingatkanku agar tidak berbicara dengan sinar matahari—bahwa aku tidak boleh menatapnya terlalu lama..."
+    },
+    {
+      "id": 9,
+      "content": "... tetapi hampir mustahil menolak kehangatannya yang penuh belas kasih ketika aku hanya dikelilingi dinginnya keheningan yang menjengkelkan dan tak berujung."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<... Aku takut.>"
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Aku tidak... seperti dirimu. Aku tersesat. Aku tidak tahu apa-apa—aku tampaknya <i>tidak bisa</i> mengetahui apa pun. Dan itu membuatku... takut.>"
+    },
+    {
+      "id": 12,
+      "model": "카르멘진짜",
+      "content": "Hmm... Aku tidak yakin seberapa banyak yang boleh kuungkapkan padamu, tapi..."
+    },
+    {
+      "id": 13,
+      "model": "카르멘진짜",
+      "content": "Aku dulu tidak jauh berbeda, Dante."
+    },
+    {
+      "id": 14,
+      "model": "카르멘진짜",
+      "content": "Aku... mencoba membangun seperangkat aturan baru di atas aturan Kota."
+    },
+    {
+      "id": 15,
+      "model": "카르멘진짜",
+      "content": "Dan saat itulah aku bertemu dua anak dari Pinggiran."
+    },
+    {
+      "id": 16,
+      "model": "카르멘진짜",
+      "content": "Dan salah satunya... sementara mereka mengambil wujud manusia, ■■■ ■■■■■ ■■■ ■■ ■■■..."
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<Tunggu, aku tidak mendengar—>"
+    },
+    {
+      "id": 18,
+      "model": "카르멘진짜",
+      "content": "Haha, aku selalu membuat diriku sendiri bingung saat menceritakan kisah-kisah ini padamu. Aku tak pernah tahu harus memulai kisahnya dari mana... atau mengakhirinya di mana."
+    },
+    {
+      "id": 19,
+      "model": "카르멘진짜",
+      "content": "Pokoknya... aku harus memakai anak istimewa yang kutemui di Pinggiran itu untuk sebuah eksperimen."
+    },
+    {
+      "id": 20,
+      "model": "카르멘진짜",
+      "content": "Tanpa mengorbankan anak itu... kami tak akan bisa menggenggam Singularitas."
+    },
+    {
+      "id": 21,
+      "model": "카르멘진짜",
+      "content": "Tetapi segala yang kupercayai, nilai-nilai yang berbisik dari belakangku... membuatku mustahil menerima pengorbanan seorang anak. Bahkan jika itu demi menghubungkan bintang-bintang."
+    },
+    {
+      "id": 22,
+      "model": "카르멘진짜",
+      "content": "Nah, sekarang... aku melukis dunia sesuai keinginanku, tapi... saat itu benar-benar menakutkan."
+    },
+    {
+      "id": 23,
+      "model": "카르멘진짜",
+      "content": "Pekerjaanku tidak berhenti pada membuat seperangkat aturan baru di atas aturan Kota—aku harus menghadapi mereka yang... berusaha mempertahankan status quo..."
+    },
+    {
+      "id": 24,
+      "model": "카르멘진짜",
+      "content": "Aku yakin bukan hanya aku. Semua orang yang mengikutiku pasti merasakan hal yang sama."
+    },
+    {
+      "id": 25,
+      "model": "카르멘진짜",
+      "content": "\"... Kematian bisa datang menjemput kita kapan saja.\""
+    },
+    {
+      "id": 26,
+      "model": "카르멘진짜",
+      "content": "\"Semua yang telah kita bangun bisa berakhir sia-sia.\""
+    },
+    {
+      "id": 27,
+      "model": "카르멘진짜",
+      "content": "\"Inilah saatnya. Tak ada tempat lain bagi kita jika ini gagal.\""
+    },
+    {
+      "id": 28,
+      "model": "카르멘진짜",
+      "content": "Setiap kekhawatiran itu mengikis keyakinan yang kami miliki pada rencana kami."
+    },
+    {
+      "id": 29,
+      "model": "카르멘진짜",
+      "content": "Dan ada keraguan yang selalu muncul di saat-saat seperti itu."
+    },
+    {
+      "id": 30,
+      "model": "카르멘진짜",
+      "content": "\"Apa gunanya semua ini?\""
+    },
+    {
+      "id": 31,
+      "model": "카르멘진짜",
+      "content": "Bagaimana denganmu, Dante? Bukankah itu terdengar familiar?"
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<... Familiar—bukan, aku pernah memikirkan hal persis itu sebelumnya.>"
+    },
+    {
+      "id": 33,
+      "content": "Itu pun bukan kekhawatiran singkat sesaat. Aku telah mendengar pertanyaan yang sama bergema berkali-kali sejak awal perjalanan kami."
+    },
+    {
+      "id": 34,
+      "content": "Bahkan di antara berbagai kecemasan lain yang kami pikul di punggung kami... kalimat itu menangkap dengan tepat <i>satu</i> kecemasan yang menolak surut, sejauh apa pun kami melangkah."
+    },
+    {
+      "id": 35,
+      "model": "카르멘진짜",
+      "content": "Bagimu, Meursault itu orang seperti apa?"
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<Seorang... Sinner. Kurasa.>"
+    },
+    {
+      "id": 37,
+      "model": "단테",
+      "content": "<Seseorang yang dulu warga N Corp. sampai ia diasingkan... Seseorang yang memberiku nasihat yang bijak... dan punya ingatan yang luar biasa...>"
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 39,
+      "content": "Ini tidak berbeda dengan tatapan yang setiap hari ditanggung Meursault."
+    },
+    {
+      "id": 40,
+      "content": "Dan... itu sama sekali tidak menghasilkan apa-apa. Itu tak mungkin menjadi uluran tangan yang ia butuhkan."
+    },
+    {
+      "id": 41,
+      "content": "Lalu apa yang bisa kulakukan?"
+    },
+    {
+      "id": 42,
+      "content": "Apa yang mungkin bisa kulakukan ketika aku sama sekali tidak tahu apakah semua ini pernah—atau masih—sepadan?"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Bagaimana... kau menanggung kecemasan-kecemasan itu?>"
+    },
+    {
+      "id": 44,
+      "model": "카르멘진짜",
+      "content": "... Aku tidak sanggup, Dante."
+    },
+    {
+      "id": 45,
+      "model": "카르멘진짜",
+      "content": "Tatapan mereka menusuk hatiku seperti harpun, dan rasanya begitu sakit sampai—"
+    },
+    {
+      "id": 46,
+      "model": "카르멘진짜",
+      "content": "Seorang anak telah mati. Dan kami begitu dicengkeram rasa bersalah itu sampai kami— aku didorong hingga ke ambang batas sampai aku—"
+    },
+    {
+      "id": 47,
+      "model": "카르멘진짜",
+      "content": "... Sebuah pilihan harus dibuat. Pilihan sebagai ganti bertahan melewatinya."
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<Pilihan apa?>"
+    },
+    {
+      "id": 49,
+      "model": "카르멘진짜",
+      "content": "Memakai diriku untuk menyelesaikan proyek itu."
+    },
+    {
+      "id": 50,
+      "model": "카르멘진짜",
+      "content": "Membuang diriku, mengorbankanku demi tujuan kami."
+    },
+    {
+      "id": 51,
+      "model": "카르멘진짜",
+      "content": "Singularitas yang kami rebut melalui anak itu... hanya bisa diekstrak <i>dari</i> diriku."
+    },
+    {
+      "id": 52,
+      "model": "카르멘진짜",
+      "content": "Dengan segala rasa bersalah dan penyesalan di dalam diriku... aku bertekad melepaskan hidupku..."
+    },
+    {
+      "id": 53,
+      "model": "카르멘진짜",
+      "content": "Aku merosot semakin dalam... dan dalam... ke dalam bak mandi,"
+    },
+    {
+      "id": 54,
+      "model": "카르멘진짜",
+      "content": "membiarkan kelopak mataku terpejam. Dan begitu kegelapan menyerbu masuk..."
+    },
+    {
+      "id": 55,
+      "model": "카르멘진짜",
+      "content": "... aku menjadi... takut. Itu lebih dahsyat daripada ketakutan mana pun yang pernah kurasakan, lebih dalam dan lebih kental daripada keputusasaan mana pun yang pernah kuderita. Itu hanya... <i>berbeda</i>."
+    },
+    {
+      "id": 56,
+      "model": "카르멘진짜",
+      "content": "Itu adalah tangisan... demi hidup."
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<Kau tidak ingin mati.>"
+    },
+    {
+      "id": 58,
+      "model": "카르멘진짜",
+      "content": "......."
+    },
+    {
+      "id": 59,
+      "model": "카르멘진짜",
+      "content": "Kurasa Meursault dan Jeanne sangat mirip denganku, terlepas dari penampilan."
+    },
+    {
+      "id": 60,
+      "model": "카르멘진짜",
+      "content": "Kita semua adalah orang-orang yang tak menemukan penerimaan di mana pun, menjerit karena penolakan itu sudah tak tertahankan."
+    },
+    {
+      "id": 61,
+      "model": "카르멘진짜",
+      "content": "Tapi bukankah itu berlaku bagi setiap orang di Kota, setidaknya sampai taraf tertentu?"
+    },
+    {
+      "id": 62,
+      "model": "카르멘진짜",
+      "content": "Mereka menangis agar tidak dilupakan dunia. Agar arus balik tidak menyeret dan menenggelamkan mereka."
+    },
+    {
+      "id": 63,
+      "model": "카르멘진짜",
+      "content": "Dante, pikirkanlah. Apa yang bisa kau lakukan untuk Meursault?"
+    },
+    {
+      "id": 64,
+      "model": "카르멘진짜",
+      "content": "<i>Apa</i> sebenarnya dirimu, sampai-sampai kau yang harus memimpin mereka semua?"
+    },
+    {
+      "id": 65,
+      "model": "단테",
+      "content": "<... Yang bisa kulakukan hanyalah... berjuang,>"
+    },
+    {
+      "id": 66,
+      "model": "단테",
+      "content": "<sambil tetap dihantui kecemasan akan apa yang mungkin dibawa hari esok...>"
+    },
+    {
+      "id": 67,
+      "content": "Siapa aku? Aku <i>Apa</i>?"
+    },
+    {
+      "id": 68,
+      "content": "Apakah aku seorang manajer yang memimpin para Sinners? Setahun lalu, gelar itu dibebankan padaku di luar kehendakku. Apakah itu benar-benar... diriku?"
+    },
+    {
+      "id": 69,
+      "content": "Keluarga Don Quixote. Teman Ryōshū. Rekan seperjuangan Gregor. Atasan Outis. Kolega Hong Lu. Orang dewasa bagi Sinclair. Orang kepercayaan Heathcliff. Kompas bagi Ishmael. Sahabat Yi Sang. Faust—Rodya—Vergilius—Charon—Meursault—"
+    },
+    {
+      "id": 70,
+      "content": "Aku menyadari bahwa segala yang terlintas ketika aku memikirkan diriku... dibentuk oleh tatapan orang lain."
+    },
+    {
+      "id": 71,
+      "content": "tanpa tatapan mereka aku itu apa?"
+    },
+    {
+      "id": 72,
+      "content": "Apa, selain orang lain, yang bisa <i>membuktikan</i> diriku?"
+    },
+    {
+      "id": 73,
+      "content": "Begitu Meursault melepaskan diri dari tatapanku..."
+    },
+    {
+      "id": 74,
+      "content": "... apa yang terjadi pada entitas yang ada di bawahnya?"
+    },
+    {
+      "id": 75,
+      "content": "Apa yang menjangkarkan keberadaannya?"
+    },
+    {
+      "id": 76,
+      "place": "Ruangan Terang, 7F",
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 77,
+      "model": "뫼르소다침",
+      "content": "......."
+    },
+    {
+      "id": 78,
+      "content": "Ia menatapku, dan aku menatapnya."
+    },
+    {
+      "id": 79,
+      "content": "Melihat api dingin yang menyala di matanya, aku memutuskan untuk tidak mengulurkan tangan, kata-kata, atau apa pun."
+    },
+    {
+      "id": 80,
+      "content": "Aku hanya menaruh harapanku, ekspektasiku pada keberadaan di hadapanku itu."
+    }
+  ]
+}
