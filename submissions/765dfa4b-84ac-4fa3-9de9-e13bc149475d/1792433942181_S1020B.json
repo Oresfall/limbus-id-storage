@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Toko Permak (Alteration Shop), Lantai 3",
+      "model": "싱클레어",
+      "content": "Um... Permisi? Halo?"
+    },
+    {
+      "id": 1,
+      "model": "3층가위",
+      "content": "Jahitan bahu turun agak terlalu rendah... kelim lengannya kependekan sejengkal. Benar-benar butuh banyak perbaikan, yang satu ini. Jadi, bagian mana yang ingin kalian permak?"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "Kami bermaksud melakukan pengadaan untuk satu buah gunting. (Beli gunting doang bahasanya kayak mau tender proyek)."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "... Hah? Gunting?"
+    },
+    {
+      "id": 4,
+      "model": "3층가위",
+      "content": "... Guntingku bukanlah perkakas sembarangan yang digantung dan dijual murah di rak pajangan. Asal kalian tahu, aku tidak akan melepaskan bilah-bilahku ini untuk sembarang orang."
+    },
+    {
+      "id": 5,
+      "model": "3층가위",
+      "content": "Gunting ini di-<i>reserve</i> khusus buat pelanggan yang matanya berbinar penuh hasrat untuk melakukan <i>snip-snip</i> (potong-memotong). Seperti para Noirs, pelanggan setiamu—mereka selalu rutin mengunjungiku untuk minta ditenunkan kain. (Pelanggan VIP jalur psikopat)."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Apa Anda... lumayan akrab sama geng Noirs?"
+    },
+    {
+      "id": 7,
+      "model": "3층가위",
+      "content": "Aku sudah cukup lama men-<i>supply</i> kebutuhan kain mereka, jadi bisa dibilang kami ini <i>partner</i> bisnis."
+    },
+    {
+      "id": 8,
+      "model": "3층가위",
+      "content": "Belakangan ini para Noirs lagi lumayan sibuk—nebar rumor dan mancing-mancing gosip, curiga kalau kubu merah (Rouges) lagi ngerencanain hal yang nggak beres. (Ibu-ibu arisan versi distopia)."
+    },
+    {
+      "id": 9,
+      "model": "3층가위",
+      "content": "Aku sama sekali tidak melihat hasrat membara yang sama dari dalam diri kalian. Tapi tenang saja, aku masih punya <i>item</i> lain yang bisa kalian beli."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Kayaknya <i>to the point</i> nembak minta gunting nggak mempan deh ke dia... Kejadiannya beda banget sama yang terakhir kali.>"
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "Mungkin... kita bisa melakukan pengadaan gunting tersebut pada kesempatan berikutnya, Manajer. (Proposal ditolak vendor)."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Mau nggak mau sih. Emang udah nggak ada opsi lain.>"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "Terus... tadi kenapa kita butuh gunting, deh? (Lupa <i>main quest</i>)."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Gunting, apabila diasah hingga mencapai tingkat presisi paripurna, dapat menjelma menjadi senjata tempur yang mutakhir. Sudah sangat jelas bahwa ini adalah persiapan logistik untuk perang yang akan datang. (Otak militer, lihat alat tulis aja dikira senjata tajam)."
+    }
+  ]
+}
