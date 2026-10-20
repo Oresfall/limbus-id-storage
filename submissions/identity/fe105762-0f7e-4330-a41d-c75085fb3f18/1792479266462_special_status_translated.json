@@ -1,0 +1,63 @@
+{
+  "dataList": [
+    {
+      "id": "HungrySinclair",
+      "name": "Kelaparan Tiada Henti",
+      "desc": "- Max Stack: 150\n- Bisa peroleh hingga 50 Stack per giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TransformSinclair",
+      "name": "Martabat Mulia",
+      "desc": "Peroleh semua efek berikut berdasarkan Potency Pulsasi pada diri sendiri:\n- 2+: Terima -25% damage dari Bleed\n- 3+: Skill Dasar beri +1 lebih banyak Potency dan Count Bleed\n- 4+: Base Power Skill Dasar +1\n\n- Min & Maks Speed +1\n- Ketika unit ini menerima damage yang membawa HP-nya menjadi 0, HP unit ini tidak turun di bawah 1 untuk giliran ini (sekali per Pertemuan)\n\n- Beri efek berikut ke Identitas \"Le Rouge\" kawan (termasuk unit ini):\n  · Min & Maks Speed +1\n  · Jika tidak ada Count Charge cukup untuk mengaktifkan efek dari Skill yang mengonsumsi Count Charge, konsumsi 1 Buffet untuk peroleh 1 Count Charge untuk setiap Count Charge yang dibutuhkan untuk mengaktifkan efek",
+      "summary": "Perkuat Skill Dasar pada kondisi tertentu",
+      "undefined": "-"
+    },
+    {
+      "id": "BoneNailSinclair",
+      "name": "L'Abject",
+      "desc": "- Bleed Unik\n- Max Stack: 5\n- Terima +2% damage dari Identitas \"Le Rouge\" untuk setiap Stack (maks 10%)\n- Awal Giliran: Peroleh +1 Count Bleed\n- Akhir Giliran: Peroleh (Stack / 2) Bind giliran berikutnya (dibulatkan ke bawah)\n- Awal Giliran: Jika Haute Couture::Sang Dewa Crimson Le Rouge Sinclair tidak pada medan tempur, efek ini kadaluarsa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BuffetSinclair",
+      "name": "Amukan Tak Terkendali",
+      "desc": "- Max Stack: 3\n- Offense Level +1 untuk setiap Stack (maks 3)\n- Min & Maks Speed +1\n- Beri +1% damage untuk setiap Bleed pada diri sendiri (maks 15%)\n\n- Tidak dapat Stagger (kecuali Stagger paksa)\n- Terima -50% damage dari Bleed\n- Tidak dapat dikalahkan oleh damage Bleed\n\n- Pada Penggunaan Skill Serang Dasar, peroleh +3 Count Bleed\n- Pada Serangan Skill Dasar, peroleh Bleed setara Stack Amukan Tak Terkendali\n\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "Pada Penggunaan Skill Serang Dasar, peroleh Count Bleed\nOn Base Attack Skill Hit, peroleh Bleed setara Stack Amukan Tak Terkendali",
+      "undefined": "-"
+    },
+    {
+      "id": "DinnerField",
+      "name": "Buffet",
+      "desc": "- Max Value: 999\n- NIlai ini ditambah sebanyak (HP yang dipulihkan / 10) ketika HP kawan atau musuh dipulihkan di medan tempur\n · Max 100 per instansi dari pemulihan\n · Dibulatkan ke atas untuk tiap instansi\n · Pemulihan dari E.G.O Gift tidak terhitung\n\n- Nilai ini dibagi untuk semua karakter\n- Reset ketika pindah ke zona lain",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prasmanan otot dan daging disajikan. Biarlah ini menjadi ruang pesta bagi semua orang."
+    },
+    {
+      "id": "BuffetFriendShield",
+      "name": "Menghadiri yang Suci",
+      "desc": "- Assist Defense Unik\n- Max Stack: 1\n\n- Ketika Haute Couture::Sang Dewa Crimson Le Rouge Sinclair akan menerima Serangan Tanpa Clash dari musuh, konsumsi 1 Stack untuk memindahkan serangan musuh ke diri sendiri\n · Lalu, pakai Skill \"La Garde\" milik Haute Couture::Sang Dewa Crimson Le Rouge Sinclair\n- Ketika ketika ada beberapa kawan dengan Stack Defense Assist, kawan dengan Stack tertinggi memiliki prioritas utama\n- Efek ini dihitung sebagai Defense Assist, dan terhitung dalam kalkulasi Stack Defense Assist\n\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Marilah kita hadir di hadapan Tuhan baru."
+    },
+    {
+      "id": "BuffetThirst",
+      "name": "Kelaparan Putus Asa",
+      "desc": "- Offense Level +2\n\n- Pada Coin pertama dari Skill Serangan Dasar yang digunakan terhadap musuh, konsumsi 1 Count Charge untuk beri +5% damage\n · Skills that beri Bleed Potency or Count beri +10% damage instead (including Bleed Unik)\n · Pada 1+ Buffet Value on the field, jika unit ini is not at maks Count Charge, konsumsi 1 Buffet untuk peroleh +1 Count Charge\n · If both Count Charge and Buffet are at 0, konsumsi 1% HP pada diri sendiri instead to activate the effect (dibulatkan ke bawah; damage dealt by this effect does not Stagger or reduce HP unit ini below 1; activates even at 1 HP)\n\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Konsumsi Count Charge untuk beri lebih banyak damage",
+      "undefined": "-",
+      "flavor": "Semakin tajam seseorang lapar, semakin besar pula keputusasaannya.\nSemakin jauh seseorang terdorong, semakin dalam kerinduannya."
+    },
+    {
+      "id": "RougeFamilySinclair",
+      "name": "Buaian Crimson",
+      "desc": "Ketika kondisi dipenuhi oleh kawan \"Le Rouge\" lain, aktifkan efek yang sesuai untuk Haute Couture::Sang Dewa Crimson Le Rouge Sinclair\n- Efek tetap aktif bahkan jika kawan tersebut telah dikalahkan\n\nLe Rouge Ishmael\n- Jika Ishmael dalam status \"Mengubah Total Penampilan\", maks HP Sinclair +10%; Sinclair memulihkan 5% maks HP Pada Serangan Skill Dasar (bulatkan atas, 5 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}
