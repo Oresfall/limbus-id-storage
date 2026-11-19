@@ -1,0 +1,33 @@
+{
+  "dataList": [
+    {
+      "note": "========== Wedge Office Sinclair & Don Quixote ==========",
+      "id": "BattleFieldKnow",
+      "name": "Field Analysis",
+      "desc": "- Max Stack: 5\n- Gain +1 Poise Count when gaining Stacks of this effect\n- Turn End: Gain +(Stack) Poise Count\n- Turn Start: If this unit is Staggered at Turn Start, recover from Stagger (2 times per Encounter; excluding forced Staggers)\n- Base Attack Skills gain the following effects based on Stack:\n  · 2+: On Skill Use, deal +(30 / # of Coins)% damage on enemies (rounded down)\n  · 3+: Coin Power +1; On Skill Use, convert the final Coin to Unbreakable Coin\n  · 4+: On Skill Use, deal +(30 / # of Coins)% damage on enemies (rounded down)\n  · 5+: Target's Pierce Resist. +0.1 from Attack Start to Attack End\n- The Stack immediately before Skill Use is used to determine whether the damage-boosting and Unbreakable Coin conversion effects are activated",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WedgeMarkYellow",
+      "name": "Wedge - Don Quixote",
+      "desc": "- Max Stack: 8\n- At sufficient Stacks, empower a certain Skill of Wedge Office Fixer Sinclair\n- Turn End: Gain +1 Tremor Count\n- Turn Start: If there are no enemy \"Wedge Office\" characters on the field, this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WedgeMarkGreen",
+      "name": "Wedge - Sinclair",
+      "desc": "- Max Stack: 8\n- At sufficient Stacks, empower a certain Skill of Wedge Office Fixer Don Quixote\n- Turn End: Gain +1 Tremor Count\n- Turn Start: If there are no enemy \"Wedge Office\" characters on the field, this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ComboSkill",
+      "name": "Joint Combo",
+      "desc": "If the pertinent Identity is on the field, alive, and isn't immobilized, activate the linked effects (does not activate if the pertinent Identity is in any of the following states: all types of immobilized states, E.G.O Corrosions, and Staggers)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}
